@@ -1,0 +1,108 @@
+{
+	"item_id":42541,
+	"name":"传武",
+	"group_id":8,
+	"group_name":"传武",
+	"part_id":5,
+	"properties":{
+		"biz":"dynamic,reply,watch_full",
+		"image":"https://i0.hdslb.com/bfs/garb/item/949741966e2415db7631e01bb5a8eceb3c2e5b6d.png",
+		"item_ids":"42542,42543,42544,42545,42546,42547,42548,42549,42550,42551",
+		"sale_type":"pay",
+		"size":"L"
+	},
+	"suit_items":{
+		"emoji":[
+			{
+				"item_id":42542,
+				"name":"[传武_切～]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/garb/item/d2aef536105429630ca07470a6acf5fd21f740ff.png",
+					"sale_type":"pay"
+				}
+			},
+			{
+				"item_id":42543,
+				"name":"[传武_严肃脸]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/garb/item/b212ab6b959a395139a562d5e78b44a3afb9cdd6.png",
+					"sale_type":"pay"
+				}
+			},
+			{
+				"item_id":42544,
+				"name":"[传武_令人火大]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/garb/item/125318955ff69d7912bd39209076e6a49f841e04.png",
+					"sale_type":"pay"
+				}
+			},
+			{
+				"item_id":42545,
+				"name":"[传武_害羞]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/garb/item/ace047e1272a4f8caa8b2813e019ebe6679f22dc.png",
+					"sale_type":"pay"
+				}
+			},
+			{
+				"item_id":42546,
+				"name":"[传武_哇哈哈哈]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/garb/item/32d08ca211b59bf373ccfd0586dcd2277b100157.png",
+					"sale_type":"pay"
+				}
+			},
+			{
+				"item_id":42547,
+				"name":"[传武_行吧]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/garb/item/541cc8a83d90b9b9ca3f940c267e9b7bef10a90b.png",
+					"sale_type":"pay"
+				}
+			},
+			{
+				"item_id":42548,
+				"name":"[传武_蛤？]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/garb/item/b26e88e5183c65fa43fc43038d51276d04d91471.png",
+					"sale_type":"pay"
+				}
+			},
+			{
+				"item_id":42549,
+				"name":"[传武_咦？]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/garb/item/4bd4d460ab079fcddc4032b13788f253c590cfb6.png",
+					"sale_type":"pay"
+				}
+			},
+			{
+				"item_id":42550,
+				"name":"[传武_抓狂]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/garb/item/05a3eeb08efd690acbd96ce9d58e6f14530e011d.png",
+					"sale_type":"pay"
+				}
+			},
+			{
+				"item_id":42551,
+				"name":"[传武_哼～]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/garb/item/fa418a34c39ea2cb460eb908f0853dcb3f1d0ee3.png",
+					"sale_type":"pay"
+				}
+			}
+		]
+	}
+}
