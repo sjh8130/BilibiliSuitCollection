@@ -3,6 +3,7 @@
 bilibili.com////suit/detail
 
 1~67743  
+100000000~136353001  
 
 ,"sale_time_end":-?[1-9]\d{0,}	,"sale_time_end":0  
 ,"sale_left_time":-?[1-9]\d{0,}	,"sale_left_time":0  
