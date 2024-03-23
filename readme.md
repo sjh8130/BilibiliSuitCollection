@@ -13,6 +13,8 @@ bilibili.com////suit/detail
 ,"item_stock_surplus":"[1-9]\d{0,}"	,"item_stock_surplus":"0"  
 ,"sale_surplus":-?[1-9]\d{0,}	,"sale_surplus":0  
 ,"sale_count_desc":"\d+[千万]?\+?",	,"sale_count_desc":"",  
+"tag":"(新品|即将售罄|正在预约|即将下架|大会员平台折扣|粉丝套装已售罄)",		"tag":"",
+"tag_month":"(新品|即将售罄|正在预约|即将下架|大会员平台折扣|粉丝套装已售罄)",
 
 ,"unlock_items":null,"activity_entrance":null
 ,"unlock_items":null,"activity_entrance":\{"id":0,"item_id":0,"title":"","image_cover":"","jump_link":""\}
