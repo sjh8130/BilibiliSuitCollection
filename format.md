@@ -35,76 +35,76 @@ fan_id						|str	|物品id	|item_id,name
 fan_item_ids				|str	|所有装扮id	|随机排序 "1,3,2,4"
 fan_mid						|str	|装扮所属	|mid
 fan_no_color				|str	|主题色	|
-fan_recommend_desc			|str	|xxx	|
-fan_recommend_jump_type		|str	|xxx	|
-fan_recommend_jump_value	|str	|xxx	|
-fan_share_image				|str	|xxx	|
-gray_rule_type				|str	|xxx	|
-gray_rule					|str	|xxx	|
+fan_recommend_desc			|str	|	|
+fan_recommend_jump_type		|str	|	|
+fan_recommend_jump_value	|str	|	|
+fan_share_image				|str	|	|
+gray_rule_type				|str	|	|
+gray_rule					|str	|	|
 image_cover_color			|str	|	|
-image_cover_long			|str	|xxx	|
-image_cover					|str	|xxx	|
-image_desc					|str	|xxx	|
-is_hide						|str	|xxx	|
-item_base_intro_image		|str	|xxx	|
-item_hot_limit				|str	|xxx	|
-item_id_card				|str	|xxx	|
-item_id_emoji_package		|str	|xxx	|
-item_id_emoji				|str	|xxx	|
-item_id_pendant				|str	|xxx	|
-item_id_thumbup				|str	|xxx	|
+image_cover_long			|str	|	|
+image_cover					|str	|	|
+image_desc					|str	|	|
+is_hide						|str	|	|
+item_base_intro_image		|str	|	|
+item_hot_limit				|str	|	|
+item_id_card				|str	|	|
+item_id_emoji_package		|str	|	|
+item_id_emoji				|str	|	|
+item_id_pendant				|str	|	|
+item_id_thumbup				|str	|	|
 item_stock_surplus			|str	|库存	|
-open_platform_vip_discount	|str	|xxx	|
+open_platform_vip_discount	|str	|	|
 owner_uid					|str	|版权方？/制作方？	|
-pub_btn_plus_color			|str	|xxx	|
-pub_btn_shade_color_bottom	|str	|xxx	|
-pub_btn_shade_color_top		|str	|xxx	|
-rank_investor_name			|str	|xxx	|
-rank_investor_show			|str	|xxx	|
-realname_auth				|str	|xxx	|
-related_words				|str	|xxx	|
+pub_btn_plus_color			|str	|	|
+pub_btn_shade_color_bottom	|str	|	|
+pub_btn_shade_color_top		|str	|	|
+rank_investor_name			|str	|	|
+rank_investor_show			|str	|	|
+realname_auth				|str	|	|
+related_words				|str	|	|
 sale_bp_forever_raw			|str	|原价	|
-sale_bp_pm_raw				|str	|xxx	|
+sale_bp_pm_raw				|str	|	|
 sale_buy_num_limit			|str	|限购	|
 sale_quantity_limit			|str	|总量	|
-sale_quantity				|str	|xxx	|
+sale_quantity				|str	|	|
 sale_region_ip_limit		|str	|区域限制	|
-sale_reserve_switch			|str	|xxx	|
-sale_sku_id_1				|str	|xxx	|
-sale_sku_id_2				|str	|xxx	|
-sale_time_begin				|str	|xxx	|
-sale_time_end				|str	|xxx	|
-sale_type					|str	|xxx	|
-suit_card_type				|str	|xxx	|
-timing_online_unix			|str	|xxx	|
-type						|str	|xxx	|ip up
+sale_reserve_switch			|str	|	|
+sale_sku_id_1				|str	|	|
+sale_sku_id_2				|str	|	|
+sale_time_begin				|str	|	|
+sale_time_end				|str	|	|
+sale_type					|str	|	|
+suit_card_type				|str	|	|
+timing_online_unix			|str	|	|
+type						|str	|	|ip up
 
 ## current_activity next_activity
 | key | type | desc | value |
 |:--|:--|:--|:--|
-type				|num	|	|open_platform_vip_discount,vip_discount
-time_limit			|bool	|	|
-time_left			|str	|剩余时间(秒)	|
-tag					|num	|	|新品,即将售罄,正在预约,即将下架,大会员平台折扣,粉丝套装已售罄
-price_bp_month		|num	|基础套装 折扣价	|
-price_bp_forever	|num	|折扣价	|
-type_month			|num	|	|
-tag_month			|num	|	|
-time_limit_month	|bool	|	|
-time_left_month		|str	|基础套装 剩余时间(秒)	|
+type						|num	|	|open_platform_vip_discount,vip_discount
+time_limit					|bool	|	|
+time_left					|str	|剩余时间(秒)	|
+tag							|num	|	|新品,即将售罄,正在预约,即将下架,大会员平台折扣,粉丝套装已售罄
+price_bp_month				|num	|基础套装 折扣价	|
+price_bp_forever			|num	|折扣价	|
+type_month					|num	|	|
+tag_month					|num	|	|
+time_limit_month			|bool	|	|
+time_left_month				|str	|基础套装 剩余时间(秒)	|
 
 ## suit_items
 | key | type | desc | value |
 |:--|:--|:--|:--|
-card						|list(obj)	|xxxx	|
-card_bg						|list(obj)	|xxxx	|
-emoji_package				|list(obj)	|xxxx	|
-pendant						|list(obj)	|xxxx	|
-skin						|list(obj)	|xxxx	|
-space_bg					|list(obj)	|xxxx	|
-thumbup						|list(obj)	|xxxx	|
-loading						|list(obj)	|xxxx	|
-play_icon					|list(obj)	|xxxx	|
+card						|list(obj)	|	|
+card_bg						|list(obj)	|	|
+emoji_package				|list(obj)	|	|
+pendant						|list(obj)	|	|
+skin						|list(obj)	|	|
+space_bg					|list(obj)	|	|
+thumbup						|list(obj)	|	|
+loading						|list(obj)	|	|
+play_icon					|list(obj)	|	|
 
 ## fan_user
 | key | type | desc | value |
@@ -116,13 +116,14 @@ avatar						|str		|	|
 ## activity_entrance
 | key | type | desc | value |
 |:--|:--|:--|:--|
-id							|num		|xxxx	|
-item_id						|num		|xxxx	|
-title						|num		|xxxx	|
-image_cover					|num		|xxxx	|
-jump_link					|num		|xxxx	|
+id							|num		|	|
+item_id						|num		|	|
+title						|num		|	|
+image_cover					|num		|	|
+jump_link					|num		|	|
 
-## suit_items -> items <- items
+## suit_items -> items
+## suit_items -> items -> items
 | key | type | desc | value |
 |:--|:--|:--|:--|
 item_id						|num		|物品id	|
@@ -139,6 +140,71 @@ sale_left_time				|num		|	|
 sale_time_end				|num		|	|
 sale_surplus				|num		|	|
 items						|null/obj	|	| depth = 1
+
+## suit_items -> items -> properties
+## suit_items -> items -> items -> properties
+| key | type | desc | value |
+|:--|:--|:--|:--|
+gray_rule						|str		|	|
+gray_rule_type					|str		|	|
+realname_auth					|str		|	|
+hot								|str		|	|
+image							|str		|	|card/card_bg/emoji_package/emoji_package>items
+image_preview_small				|str		|	|card[1+]/card_bg/loading
+sale_type						|str		|	|card/card_bg/emoji_package/emoji_package>items
+addable							|str		|	|emoji_package
+biz								|str		|	|emoji_package
+is_symbol						|str		|	|emoji_package/emoji_package>items
+item_ids						|str		|	|emoji_package
+permanent						|str		|	|emoji_package
+preview							|str		|	|emoji_package
+recently_used					|str		|	|emoji_package
+recommend						|str		|	|emoji_package
+ref_mid							|str		|	|emoji_package/emoji_package>items
+removable						|str		|	|emoji_package
+setting_pannel_not_show			|str		|	|emoji_package
+size							|str		|	|emoji_package
+sortable						|str		|	|emoji_package
+associate						|str		|	|emoji_package>items
+loading_frame_url				|str		|	|loading
+loading_url						|str		|	|loading
+ver								|str		|	|loading/skin
+fan_no_color					|str		|	|space_bg
+fan_no_image					|str		|	|space_bg
+image*_landscape				|str		|	|space_bg
+image*_portrait					|str		|	|space_bg
+image_ani						|str		|	|thumbup
+image_ani_cut					|str		|	|thumbup
+image_preview					|str		|	|thumbup/skin
+color							|str		|	|skin
+color_mode						|str		|	|skin
+color_second_page				|str		|	|skin
+head_bg							|str		|	|skin
+head_myself_mp4_play			|str		|	|skin
+head_myself_squared_bg			|str		|	|skin
+head_tab_bg						|str		|	|skin
+image_cover						|str		|	|skin
+package_md5						|str		|	|skin
+package_url						|str		|	|skin
+skin_mode						|str		|	|skin
+tail_bg							|str		|	|skin
+tail_color						|str		|	|skin
+tail_color_selected				|str		|	|skin
+tail_icon_ani					|str		|	|skin
+tail_icon_ani_mode				|str		|	|skin
+tail_icon_channel				|str		|	|skin
+tail_icon_dynamic				|str		|	|skin
+tail_icon_main					|str		|	|skin
+tail_icon_mode					|str		|	|skin
+tail_icon_myself				|str		|	|skin
+tail_icon_pub_btn_bg			|str		|	|skin
+tail_icon_selected_channel		|str		|	|skin
+tail_icon_selected_dynamic		|str		|	|skin
+tail_icon_selected_main			|str		|	|skin
+tail_icon_selected_myself		|str		|	|skin
+tail_icon_selected_pub_btn_bg	|str		|	|skin
+tail_icon_selected_shop			|str		|	|skin
+tail_icon_shop					|str		|	|skin
 
 ## part_id
 | value | desc |
