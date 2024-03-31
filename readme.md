@@ -5,7 +5,7 @@ bilibili.com////suit/detail
 ## stat
 |start|end|
 |--:|--:|
-|1	|	67789 |
+|1	|	67813 |
 |100000000	| 136353001 |
 |200000000	| 208268401 |
 
@@ -14,8 +14,9 @@ bilibili.com////suit/detail
 ,"sale_left_time":-?[1-9]\d{0,}	,"sale_left_time":0  
 ,"time_left":-?[1-9]\d{0,}	,"time_left":0  
 ,"time_left_month":-?[1-9]\d{0,}	,"time_left_month":0  
-,"item_stock_surplus":"[1-9]\d{0,}"	,"item_stock_surplus":"0"  
 ,"sale_surplus":-?[1-9]\d{0,}	,"sale_surplus":0  
+
+,"item_stock_surplus":"[1-9]\d{0,}"	,"item_stock_surplus":"0"  
 ,"sale_count_desc":"\d+[千万]?\+?",	,"sale_count_desc":"",  
 "open_platform_vip_discount":"true",
 "tag":"(新品|即将售罄|正在预约|即将下架|大会员平台折扣|粉丝套装已售罄|大会员限时折扣)",		"tag":"",  
