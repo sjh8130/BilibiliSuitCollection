@@ -24,7 +24,7 @@ bilibili.com////suit/detail
 "tag_month":"(新品|即将售罄|正在预约|即将下架|大会员平台折扣|粉丝套装已售罄|大会员限时折扣)",
 
 "(current_activity|next_activity)":\{"type":"(vip_discount|open_platform_vip_discount)","time_limit":true,"time_left":0,"tag":"(新品|即将售罄|正在预约|即将下架|大会员平台折扣|粉丝套装已售罄|大会员限时折扣)?","price_bp_month":\d+,"price_bp_forever":\d+,"type_month":"(vip_discount|open_platform_vip_discount)","tag_month":"(新品|即将售罄|正在预约|即将下架|大会员平台折扣|粉丝套装已售罄|大会员限时折扣)?","time_limit_month":true,"time_left_month":0\},
-current_activity"next_activity":null,
+"(current_sources|finish_sources|current_activity|next_activity)":null,
 
 ,"unlock_items":null,"activity_entrance":null
 ,"unlock_items":null,"activity_entrance":\{"id":0,"item_id":0,"title":"","image_cover":"","jump_link":""\}
