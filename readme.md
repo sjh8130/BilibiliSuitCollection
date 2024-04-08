@@ -5,9 +5,9 @@ bilibili.com////suit/detail
 ## stat
 |start|end|
 |--:|--:|
-|1	|	67815 |
+|1	|	67899 |
 |100000000	| 136353001 |
-|200000000	| 209429901 |
+|200000000	| 209446901 |
 
 ## replace
 ,"sale_time_end":-?[1-9]\d{0,}	,"sale_time_end":0  
