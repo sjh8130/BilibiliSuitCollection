@@ -13,7 +13,7 @@ properties					|obj		|	|
 current_activity			|null/obj	|	|
 next_activity				|null/obj	|	|
 current_sources				|null/		|	|
-finish_sources				|null/		|	|
+finish_sources				|null/list	|	|
 sale_left_time				|num		|	|
 sale_time_end				|num		|	|
 sale_surplus				|num		|	|
@@ -78,6 +78,17 @@ sale_type					|str	|	|
 suit_card_type				|str	|	|
 timing_online_unix			|str	|	|
 type						|str	|	|ip up
+
+## finish_sources
+| key | type | desc | value |
+|:--|:--|:--|:--|
+id							|num	|	|
+name						|str	|	|
+time_from					|num	|	|
+time_to						|num	|	|
+desc						|str	|	|
+jump_url					|str	|	|
+source_type					|num	|	|
 
 ## current_activity next_activity
 | key | type | desc | value |
