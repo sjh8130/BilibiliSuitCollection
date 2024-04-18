@@ -14,7 +14,7 @@ bilibili.com////suit/detail
 
 ,"(item_stock_surplus|sale_count_desc)":"\d{0,}[千万]?\+?"  
 "(open_platform_vip_discount|hot|gray_rule)":"(true|false)",  
-"(tag|tag_month)":"(新品|即将售罄|正在预约|即将下架|大会员平台折扣|粉丝套装已售罄|大会员限时折扣|即将开售)",
+"(tag|tag_month)":"(新品|即将售罄|正在预约|即将下架|大会员平台折扣|粉丝套装已售罄|大会员限时折扣|即将开售)?",
 
 "(current_activity|next_activity)":\{"type":"(vip_discount|open_platform_vip_discount)","time_limit":true,("time_left":-?\d+,)?("tag":"(新品|即将售罄|正在预约|即将下架|大会员平台折扣|粉丝套装已售罄|大会员限时折扣|即将开售)?",)?"price_bp_month":\d+,"price_bp_forever":\d+,"type_month":"(vip_discount|open_platform_vip_discount)"(,"tag_month":"(新品|即将售罄|正在预约|即将下架|大会员平台折扣|粉丝套装已售罄|大会员限时折扣|即将开售)?")?,"time_limit_month":true(,"time_left_month":-?\d+)?\},
 ,"(current_sources|finish_sources|current_activity|next_activity|unlock_items|activity_entrance|items)":null
@@ -22,10 +22,10 @@ bilibili.com////suit/detail
 ("state":"(in)?active",|,"suit_items":\{\}|"gray_rule_type":"all",)  
 "(sale_count_desc|total_count_desc|jump_link|tag|tag_month)":"",
 ,"fan_user":\{"mid":0,"nickname":"","avatar":""\}
-,"activity_entrance":\{"id":0,"item_id":0,"title":"","image_cover":"","jump_link":""\}
+,"activity_entrance":\{"id":0,"item_id":0,"title":"","image_cover":""(,"jump_link":"")?\}
 
 ## find
-"(sale_time_end|sale_left_time|time_left|time_left_month|item_stock_surplus|sale_surplus|sale_count_desc)":"?-?[1-9]
+(activity_entrance|current_activity|current_sources|finish_sources|gray_rule|gray_rule_type|hot|item_stock_surplus|items|jump_link|next_activity|open_platform_vip_discount|sale_count_desc|sale_left_time|sale_surplus|sale_time_end|sales_mode|state|suit_items|tag|tag_month|time_left|time_left_month|total_count_desc|unlock_items)
 (noface|账号已注销)
 
 ## desc
