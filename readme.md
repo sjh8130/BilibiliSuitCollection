@@ -5,9 +5,9 @@ bilibili.com////suit/detail
 ## stat
 |start|end|
 |--:|--:|
-|1	|	67954 |
+|1	|	68021 |
 |100000000	| 136353001 |
-|200000000	| 210249701 |
+|200000000	| 211751201 |
 
 ## replace
 ,"(time_left|time_left_month|sale_time_end|sale_left_time|sale_surplus|sales_mode)":-?\d+
