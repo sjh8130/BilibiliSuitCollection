@@ -68,7 +68,7 @@ sale_bp_pm_raw				|str	|	|
 sale_buy_num_limit			|str	|限购	|
 sale_quantity_limit			|str	|总量	|
 sale_quantity				|str	|	|
-sale_region_ip_limit		|str	|区域限制	|
+sale_region_ip_limit		|str	|区域限制	|"全球" "大陆地区"
 sale_reserve_switch			|str	|	|
 sale_sku_id_1				|str	|	|
 sale_sku_id_2				|str	|	|
