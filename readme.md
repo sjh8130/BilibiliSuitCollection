@@ -5,14 +5,14 @@ bilibili.com////suit/detail
 ## stat
 |start|end|
 |-:|-:|
-|1	|	68304 |
+|1	|	68630 |
 |100000000	| 136353001 |
 |200000000	| 214443801 |
 
 ## replace
 ,"(time_left|time_left_month|sale_time_end|sale_left_time|sale_surplus|sales_mode)":-?\d+
 
-,"(item_stock_surplus|sale_count_desc)":"\d{0,}[千万]?\+?"  
+,"(item_stock_surplus|sale_count_desc|ref_mid)":"\d{0,}[千万]?\+?"  
 "(open_platform_vip_discount|hot|gray_rule)":"(true|false)",  
 "(tag|tag_month)":"(新品|即将售罄|正在预约|即将下架|大会员平台折扣|粉丝套装已售罄|大会员限时折扣|即将开售)?",
 
