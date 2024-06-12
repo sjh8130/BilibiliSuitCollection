@@ -3,36 +3,36 @@
 ## 
 | key | type | desc | value |
 |:--|:--|:--|:--|
-item_id						|num		|物品id	|
-name						|str		|装扮名称	|
-group_id					|num		|分组id	|
-group_name					|str		|装扮名称	|
-part_id						|num		|部件id	| 1~13
-state						|str		|状态	|"active"	"inactive"
-properties					|obj		|	|
-current_activity			|null/obj	|	|
-next_activity				|null/obj	|	|
-current_sources				|null/		|	|
-finish_sources				|null/list	|	|
-sale_left_time				|num		|	|
-sale_time_end				|num		|	|
-sale_surplus				|num		|	|
-sale_count_desc				|str		|	|
-total_count_desc			|str		|	|
-tag							|str		|	|
-jump_link					|str		|	|
-sales_mode					|num		|	|
-suit_items					|obj		|	|
-fan_user					|obj		|	|
-unlock_items				|null		|	|
-activity_entrance			|obj		|	|
+item_id						|num			|物品id	|
+name						|str			|装扮名称	|
+group_id					|num			|分组id	|
+group_name					|str			|装扮名称	|
+part_id						|num			|部件id	| 1~13
+state						|str			|状态	|"active" / "inactive"
+properties					|obj			|	|
+current_activity			|null/obj		|	|
+next_activity				|null/obj		|	|
+current_sources				|null/			|	|
+finish_sources				|null/\[\]obj	|	|
+sale_left_time				|num			|	|
+sale_time_end				|num			|	|
+sale_surplus				|num			|	|
+sale_count_desc				|str			|	|
+total_count_desc			|str			|	|
+tag							|str			|	|
+jump_link					|str			|	|
+sales_mode					|num			|	|
+suit_items					|obj			|	|
+fan_user					|obj			|	|
+unlock_items				|null			|	|
+activity_entrance			|obj			|	|
 
 ## properties
 | key | type | desc | value |
 |:--|:--|:--|:--|
 desc						|str	|装扮说明	|
 fan_id						|str	|物品id	|item_id,name
-fan_item_ids				|str	|所有装扮id	|随机排序 "1,3,2,4"
+fan_item_ids				|str	|所有装扮id	|随机排序
 fan_mid						|str	|装扮所属	|mid
 fan_no_color				|str	|主题色	|
 fan_recommend_desc			|str	|	|
@@ -93,10 +93,10 @@ source_type					|num	|	|
 ## current_activity next_activity
 | key | type | desc | value |
 |:--|:--|:--|:--|
-type						|num	|	|open_platform_vip_discount,vip_discount
+type						|num	|	|open_platform_vip_discount / vip_discount
 time_limit					|bool	|	|
 time_left					|str	|剩余时间(秒)	|
-tag							|num	|	|新品,即将售罄,正在预约,即将下架,大会员平台折扣,粉丝套装已售罄
+tag							|num	|	|新品 / 即将售罄 / 正在预约 / 即将下架 / 大会员平台折扣 / 粉丝套装已售罄
 price_bp_month				|num	|基础套装 折扣价	|
 price_bp_forever			|num	|折扣价	|
 type_month					|num	|	|
@@ -107,15 +107,15 @@ time_left_month				|str	|基础套装 剩余时间(秒)	|
 ## suit_items
 | key | type | desc | value |
 |:--|:--|:--|:--|
-card						|list(obj)	|	|
-card_bg						|list(obj)	|	|
-emoji_package				|list(obj)	|	|
-pendant						|list(obj)	|	|
-skin						|list(obj)	|	|
-space_bg					|list(obj)	|	|
-thumbup						|list(obj)	|	|
-loading						|list(obj)	|	|
-play_icon					|list(obj)	|	|
+card						|\[\]obj	|	|
+card_bg						|\[\]obj	|	|
+emoji_package				|\[\]obj	|	|
+pendant						|\[\]obj	|	|
+skin						|\[\]obj	|	|
+space_bg					|\[\]obj	|	|
+thumbup						|\[\]obj	|	|
+loading						|\[\]obj	|	|
+play_icon					|\[\]obj	|	|
 
 ## fan_user
 | key | type | desc | value |
@@ -154,12 +154,12 @@ items						|null/obj	|	| depth = 1
 
 ## suit_items -> items -> properties
 ## suit_items -> items -> items -> properties
-| key | type | desc | value |
+| key | type | desc | show_in |
 |:--|:--|:--|:--|
 gray_rule						|str		|	|
 gray_rule_type					|str		|	|
 realname_auth					|str		|	|
-hot								|str		|	|
+hot								|str(bool)	|	|
 image							|str		|	|card/card_bg/emoji_package/emoji_package>items
 image_preview_small				|str		|	|card[1+]/card_bg/loading
 sale_type						|str		|	|card/card_bg/emoji_package/emoji_package>items
@@ -265,14 +265,14 @@ tail_icon_shop					|str		|	|skin
 -|https://space.bilibili.com/XXX/?spm_id_from=333.999.0.0
 -|https://space.bilibili.com/XXX/dynamic
 -|https://space.bilibili.com/XXX/dynamic?spm_id_from=444.41.my-info.face.click
--|_` https://space.bilibili.com/XXX/`
+-|_`" https://space.bilibili.com/XXX/"`
 biligame_URL|https://www.biligame.com/detail/?id=123456
 -|https://www.biligame.com/detail/?id=123456&sourceFrom=1234
 -|https://www.biligame.com/detail/?id=123456&sourceFrom=1234&spm_id_from=333.337.0.0
 -|https://ly2202.biligame.com/2022wdxpzh2409/h5?process=main
 bili游戏_URL|https://game.bilibili.com/gjqt3/
 短链接（有可能已过期）|https://b23.tv/xxxxxxxx
--|_` https://b23.tv/TZkLVTb`
+-|_`" https://b23.tv/TZkLVTb"`
 bangumi_URL|https://www.bilibili.com/bangumi/media/md12345678
 -|https://www.bilibili.com/bangumi/media/md12345678/?from=decoration
 -|https://www.bilibili.com/bangumi/media/md12345678/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.2
