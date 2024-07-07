@@ -22,7 +22,7 @@ total_count_desc			|str			|	|
 tag							|str			|	|
 jump_link					|str			|	|
 sales_mode					|num			|	|
-suit_items					|obj			|	|
+suit_items					|obj			| card card_bg emoji_package loading pendant play_icon skin space_bg thumbup	|
 fan_user					|obj			|	|
 unlock_items				|null			|	|
 activity_entrance			|obj			|	|

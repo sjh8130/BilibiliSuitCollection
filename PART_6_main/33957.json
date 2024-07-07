@@ -8,7 +8,7 @@
 		"desc":"小铺又要营业了？换上小铺专属装扮一起来经营我的小铺吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"我的小铺",
 		"fan_id":"我的小铺",
-		"fan_item_ids":"33978,33990,33991,33992",
+		"fan_item_ids":"3",
 		"fan_mid":"1328260",
 		"fan_no_color":"#e03c17",
 		"fan_recommend_desc":"哔哩哔哩游戏中心首个长线平台活动【我的小铺】火热开业中，每期打卡集材料，即可兑换奖品！感谢大家对小铺的喜爱和陪伴，更多小铺的萌妹御姐，敬请期待！",
@@ -129,11 +129,13 @@
 					},
 					{
 						"item_id":33986,
-						"name":"[我的小铺_加油]",
-						"tab_id":7,
+						"name":"灯笼勋章",
+						"tab_id":66,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/emote/e0de76d8ea684cb2ea8a0a3cd0ca594b103b5ed1.png",
-							"sale_type":"pay"
+							"act_id":"196",
+							"image":"https://i0.hdslb.com/bfs/garb/item/bb95a716723fa17354aa18ae10323903747c79ec.png",
+							"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/edfb01bd0fa7de7c7e3f516a16a16e8b0cde9ef5.png",
+							"sale_type":"collect_card"
 						}
 					},
 					{

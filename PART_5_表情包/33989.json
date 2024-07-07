@@ -14,6 +14,17 @@
 	"suit_items":{
 		"card_bg":[
 			{
+				"item_id":33986,
+				"name":"灯笼勋章",
+				"tab_id":66,
+				"properties":{
+					"act_id":"196",
+					"image":"https://i0.hdslb.com/bfs/garb/item/bb95a716723fa17354aa18ae10323903747c79ec.png",
+					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/edfb01bd0fa7de7c7e3f516a16a16e8b0cde9ef5.png",
+					"sale_type":"collect_card"
+				}
+			},
+			{
 				"item_id":33987,
 				"name":"0915勋章4",
 				"tab_id":66,
@@ -68,15 +79,6 @@
 				"tab_id":7,
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/emote/85b6e0f1471045567ead68cf72b6d389bd9d2022.png",
-					"sale_type":"pay"
-				}
-			},
-			{
-				"item_id":33986,
-				"name":"[我的小铺_加油]",
-				"tab_id":7,
-				"properties":{
-					"image":"https://i0.hdslb.com/bfs/emote/e0de76d8ea684cb2ea8a0a3cd0ca594b103b5ed1.png",
 					"sale_type":"pay"
 				}
 			},
