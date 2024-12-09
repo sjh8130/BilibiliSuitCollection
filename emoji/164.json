@@ -158,27 +158,6 @@
 			"activity":null
 		},
 		{
-			"id":3058,
-			"package_id":164,
-			"text":"[战双_点赞]",
-			"url":"http://i0.hdslb.com/bfs/emote/cf28bd56d58acf7a61ad6848b966796fc3a875b9.png",
-			"mtime":1608905902,
-			"type":3,
-			"attr":0,
-			"meta":{
-				"size":2,
-				"suggest":[
-					""
-				],
-				"alias":"点赞"
-			},
-			"flags":{
-				"no_access":true,
-				"unlocked":false
-			},
-			"activity":null
-		},
-		{
 			"id":3056,
 			"package_id":164,
 			"text":"[战双_打call]",
@@ -213,6 +192,27 @@
 					""
 				],
 				"alias":"吃瓜"
+			},
+			"flags":{
+				"no_access":true,
+				"unlocked":false
+			},
+			"activity":null
+		},
+		{
+			"id":3058,
+			"package_id":164,
+			"text":"[战双_点赞]",
+			"url":"http://i0.hdslb.com/bfs/emote/cf28bd56d58acf7a61ad6848b966796fc3a875b9.png",
+			"mtime":1608905902,
+			"type":3,
+			"attr":0,
+			"meta":{
+				"size":2,
+				"suggest":[
+					""
+				],
+				"alias":"点赞"
 			},
 			"flags":{
 				"no_access":true,

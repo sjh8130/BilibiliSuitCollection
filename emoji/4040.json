@@ -242,27 +242,6 @@
 			"activity":null
 		},
 		{
-			"id":57243,
-			"package_id":4040,
-			"text":"[命运拳台_打呵欠]",
-			"url":"https://i0.hdslb.com/bfs/emote/f8e09dfa3ecdd897249c92943384ff6dd08897b2.png",
-			"mtime":1703042295,
-			"type":3,
-			"attr":0,
-			"meta":{
-				"size":2,
-				"suggest":[
-					""
-				],
-				"alias":"打呵欠"
-			},
-			"flags":{
-				"no_access":true,
-				"unlocked":false
-			},
-			"activity":null
-		},
-		{
 			"id":57237,
 			"package_id":4040,
 			"text":"[命运拳台_仰天大笑]",
@@ -381,6 +360,27 @@
 					""
 				],
 				"alias":"决斗吧"
+			},
+			"flags":{
+				"no_access":true,
+				"unlocked":false
+			},
+			"activity":null
+		},
+		{
+			"id":57243,
+			"package_id":4040,
+			"text":"[命运拳台_打呵欠]",
+			"url":"https://i0.hdslb.com/bfs/emote/f8e09dfa3ecdd897249c92943384ff6dd08897b2.png",
+			"mtime":1703042295,
+			"type":3,
+			"attr":0,
+			"meta":{
+				"size":2,
+				"suggest":[
+					""
+				],
+				"alias":"打呵欠"
 			},
 			"flags":{
 				"no_access":true,

@@ -11,6 +11,27 @@
 	},
 	"emote":[
 		{
+			"id":54715,
+			"package_id":3905,
+			"text":"[Cat!_√]",
+			"url":"https://i0.hdslb.com/bfs/emote/388134c6a293e2cba356a699db6a0ae4f40d37a7.png",
+			"mtime":1701345510,
+			"type":3,
+			"attr":0,
+			"meta":{
+				"size":2,
+				"suggest":[
+					""
+				],
+				"alias":"√"
+			},
+			"flags":{
+				"no_access":true,
+				"unlocked":false
+			},
+			"activity":null
+		},
+		{
 			"id":54716,
 			"package_id":3905,
 			"text":"[Cat!_agree]",
@@ -423,27 +444,6 @@
 					""
 				],
 				"alias":"study"
-			},
-			"flags":{
-				"no_access":true,
-				"unlocked":false
-			},
-			"activity":null
-		},
-		{
-			"id":54715,
-			"package_id":3905,
-			"text":"[Cat!_√]",
-			"url":"https://i0.hdslb.com/bfs/emote/388134c6a293e2cba356a699db6a0ae4f40d37a7.png",
-			"mtime":1701345510,
-			"type":3,
-			"attr":0,
-			"meta":{
-				"size":2,
-				"suggest":[
-					""
-				],
-				"alias":"√"
 			},
 			"flags":{
 				"no_access":true,

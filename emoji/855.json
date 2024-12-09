@@ -155,24 +155,6 @@
 			"activity":null
 		},
 		{
-			"id":44389,
-			"package_id":855,
-			"text":"[UPOWER_410588425_充电了]",
-			"url":"https://i0.hdslb.com/bfs/garb/404ba589484ecc9ea8780b2a1b539fea119bcbad.png",
-			"mtime":1693138020,
-			"type":12,
-			"attr":0,
-			"meta":{
-				"size":2,
-				"alias":"充电了"
-			},
-			"flags":{
-				"no_access":true,
-				"unlocked":false
-			},
-			"activity":null
-		},
-		{
 			"id":15296,
 			"package_id":855,
 			"text":"[UPOWER_410588425_注意身体]",
@@ -183,6 +165,24 @@
 			"meta":{
 				"size":2,
 				"alias":"注意身体"
+			},
+			"flags":{
+				"no_access":true,
+				"unlocked":false
+			},
+			"activity":null
+		},
+		{
+			"id":44389,
+			"package_id":855,
+			"text":"[UPOWER_410588425_充电了]",
+			"url":"https://i0.hdslb.com/bfs/garb/404ba589484ecc9ea8780b2a1b539fea119bcbad.png",
+			"mtime":1693138020,
+			"type":12,
+			"attr":0,
+			"meta":{
+				"size":2,
+				"alias":"充电了"
 			},
 			"flags":{
 				"no_access":true,

@@ -74,48 +74,6 @@
 			"activity":null
 		},
 		{
-			"id":5821,
-			"package_id":354,
-			"text":"[崩坏3_lay了]",
-			"url":"https://i0.hdslb.com/bfs/emote/97896639ae56311adade2b34b7e1aaeba78cbac6.png",
-			"mtime":1673599205,
-			"type":3,
-			"attr":0,
-			"meta":{
-				"size":2,
-				"suggest":[
-					""
-				],
-				"alias":"lay了"
-			},
-			"flags":{
-				"no_access":true,
-				"unlocked":false
-			},
-			"activity":null
-		},
-		{
-			"id":5826,
-			"package_id":354,
-			"text":"[崩坏3_吃咸鱼]",
-			"url":"https://i0.hdslb.com/bfs/emote/3817cb914eca387f4059c91819b2c0a9c081c3f8.png",
-			"mtime":1673599205,
-			"type":3,
-			"attr":0,
-			"meta":{
-				"size":2,
-				"suggest":[
-					""
-				],
-				"alias":"吃咸鱼"
-			},
-			"flags":{
-				"no_access":true,
-				"unlocked":false
-			},
-			"activity":null
-		},
-		{
 			"id":5820,
 			"package_id":354,
 			"text":"[崩坏3_七]",
@@ -129,6 +87,27 @@
 					""
 				],
 				"alias":"七"
+			},
+			"flags":{
+				"no_access":true,
+				"unlocked":false
+			},
+			"activity":null
+		},
+		{
+			"id":5821,
+			"package_id":354,
+			"text":"[崩坏3_lay了]",
+			"url":"https://i0.hdslb.com/bfs/emote/97896639ae56311adade2b34b7e1aaeba78cbac6.png",
+			"mtime":1673599205,
+			"type":3,
+			"attr":0,
+			"meta":{
+				"size":2,
+				"suggest":[
+					""
+				],
+				"alias":"lay了"
 			},
 			"flags":{
 				"no_access":true,
@@ -213,6 +192,27 @@
 					""
 				],
 				"alias":"刀"
+			},
+			"flags":{
+				"no_access":true,
+				"unlocked":false
+			},
+			"activity":null
+		},
+		{
+			"id":5826,
+			"package_id":354,
+			"text":"[崩坏3_吃咸鱼]",
+			"url":"https://i0.hdslb.com/bfs/emote/3817cb914eca387f4059c91819b2c0a9c081c3f8.png",
+			"mtime":1673599205,
+			"type":3,
+			"attr":0,
+			"meta":{
+				"size":2,
+				"suggest":[
+					""
+				],
+				"alias":"吃咸鱼"
 			},
 			"flags":{
 				"no_access":true,
