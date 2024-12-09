@@ -2,7 +2,7 @@
 	"id":1,
 	"text":"小黄脸",
 	"url":"https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
-	"mtime":1728359942,
+	"mtime":1732084749,
 	"type":1,
 	"attr":322,
 	"meta":{
@@ -2932,27 +2932,6 @@
 			"activity":null
 		},
 		{
-			"id":59190,
-			"package_id":1,
-			"text":"[2024]",
-			"url":"https://i0.hdslb.com/bfs/emote/4f737e887381813f7913522c09bebcaed85a245e.png",
-			"mtime":1704032525,
-			"type":1,
-			"attr":0,
-			"meta":{
-				"size":1,
-				"suggest":[
-					""
-				],
-				"alias":"2024"
-			},
-			"flags":{
-				"no_access":true,
-				"unlocked":false
-			},
-			"activity":null
-		},
-		{
 			"id":62062,
 			"package_id":1,
 			"text":"[元梦_爱你]",
@@ -3701,6 +3680,27 @@
 					""
 				],
 				"alias":"微笑"
+			},
+			"flags":{
+				"no_access":true,
+				"unlocked":false
+			},
+			"activity":null
+		},
+		{
+			"id":91170,
+			"package_id":1,
+			"text":"[蹲蹲]",
+			"url":"https://i0.hdslb.com/bfs/emote/878f1dfac79622050f730d1fee5f7b1a55951c74.png",
+			"mtime":1730108348,
+			"type":1,
+			"attr":0,
+			"meta":{
+				"size":1,
+				"suggest":[
+					""
+				],
+				"alias":"蹲蹲"
 			},
 			"flags":{
 				"no_access":true,
