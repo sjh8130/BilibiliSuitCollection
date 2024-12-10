@@ -9,9 +9,10 @@
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/147d9159a99c97bd4fbcb35bb47ef0a69d7f5346.png",
 		"is_symbol":"false",
-		"item_ids":"2364,2365,2366,2367,2368,2369,2371,2372,2373,2374,2375,2376,2377,2378,2379,2380,2381,2382,2383,2384",
+		"item_ids":"2364,2365,2366,2367,2368,2369,2371,2372,2373,2374,2375,2376,2377,2378,2379,2380,2381,2382,2383,2384,64670",
 		"permanent":"false",
 		"preview":"false",
+		"realname_auth":"false",
 		"recently_used":"false",
 		"recommend":"false",
 		"removable":"true",
@@ -238,6 +239,17 @@
 				"properties":{
 					"associate":"false",
 					"image":"https://i0.hdslb.com/bfs/emote/98f6e73340d9ed43403242fc842e42508d38bba6.png",
+					"is_symbol":"false",
+					"sale_type":"pay"
+				}
+			},
+			{
+				"item_id":64670,
+				"name":"[Cat_cat]",
+				"tab_id":7,
+				"properties":{
+					"associate":"false",
+					"image":"https://i0.hdslb.com/bfs/emote/b344e52109333bdeaf8c1871a05a7b703ba1faf4.png",
 					"is_symbol":"false",
 					"sale_type":"pay"
 				}
