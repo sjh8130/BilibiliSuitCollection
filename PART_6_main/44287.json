@@ -8,7 +8,7 @@
 		"desc":"来和黄油小狗一起时刻香喷喷吧！超酷的独家图库奉上，永久购买还能成为认证粉丝，领取粉丝专属装扮哦！",
 		"fan_desc":"黄油小狗",
 		"fan_id":"黄油小狗",
-		"fan_item_ids":"4",
+		"fan_item_ids":"44256,44284,44285,44286",
 		"fan_mid":"1633712208",
 		"fan_no_color":"#fcd632",
 		"fan_recommend_desc":"黄油小狗间有这样一个传说：每消耗一块黄油，就有一只小狗面料危险！好在还时刻香喷喷。\n",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

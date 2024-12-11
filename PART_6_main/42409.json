@@ -8,7 +8,7 @@
 		"desc":"正因有你才会有我。为了给大家带来幸福，而从天界降临的使者。请将冥冥的光芒引到更多的地方吧！愿你的世界有我，始终熠熠生辉——\"",
 		"fan_desc":"冥冥meichan",
 		"fan_id":"冥冥meichan",
-		"fan_item_ids":"4",
+		"fan_item_ids":"42278,42306,42307,42311,42312,42313",
 		"fan_mid":"45502",
 		"fan_no_color":"#ff6060",
 		"fan_recommend_desc":"虚拟主播·冥冥meichan——是为了给大家带来幸福，而从天界降临的使者。混沌于清楚集结一身，今后也将在你守护之下熠熠生辉。\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"up"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5440,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

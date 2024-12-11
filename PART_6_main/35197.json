@@ -8,7 +8,7 @@
 		"desc":"亲爱的狼牙们，你们期待已久的狼队专属装扮来啦，快跟狼妹一起换上吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮吧！",
 		"fan_desc":"狼队第五人格",
 		"fan_id":"狼队第五人格",
-		"fan_item_ids":"3",
+		"fan_item_ids":"35177,35194,35195,35196,35229,35230",
 		"fan_mid":"452627895",
 		"fan_no_color":"#ffb200",
 		"fan_recommend_desc":"狼队电竞第五人格分部成立2年期间，斩获了2021年第五人格IVL职业联赛夏季赛和秋季赛冠军，并在2022年获得COA V全球总决赛冠军！以狼之名，许我荣光！",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4240,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

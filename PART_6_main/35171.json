@@ -8,7 +8,7 @@
 		"desc":"蔬菜精灵的白菜狗再一次来到大家面前，这次还有其他蔬菜精灵小伙伴一起登场哦！",
 		"fan_desc":"蔬菜精灵第二弹",
 		"fan_id":"蔬菜精灵第二弹",
-		"fan_item_ids":"3",
+		"fan_item_ids":"35087,35088,35089,35093,35170,35172",
 		"fan_mid":"1224108408",
 		"fan_no_color":"#cae072",
 		"fan_recommend_desc":"插画师朋吉先生将蔬菜元素与可爱的动物相结合，创造出了可爱的蔬菜精灵，希望能让不喜欢吃蔬菜的孩子们爱上蔬菜。现在还有水果精灵和点心精灵等新伙伴哦~",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

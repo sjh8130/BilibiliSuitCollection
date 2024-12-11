@@ -8,7 +8,7 @@
 		"desc":"黯灭头集合！爱打dota的dodo专属装扮来啦，刀友快把小哭包领回家~",
 		"fan_desc":"DOTA2 dodo",
 		"fan_id":"DOTA2 dodo",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39222,39245,39246,39247,39248,39249",
 		"fan_mid":"1855519979",
 		"fan_no_color":"#de78a7",
 		"fan_recommend_desc":"dodo是完美世界电竞打造的dota2虚拟主播，于2022年1月15日正式出道。因小脑袋上的呆毛酷似dota2物品黯灭，人送外号“黯灭头”。",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

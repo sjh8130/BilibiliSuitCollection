@@ -8,7 +8,7 @@
 		"desc":"七月的风吹散心中的烦恼与忧愁，这个夏天一起参与我们的派对吧。本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"战双帕弥什·夏日派对",
 		"fan_id":"战双帕弥什·夏日派对",
-		"fan_item_ids":"3",
+		"fan_item_ids":"36147,36164,36165,36166,36168,36169",
 		"fan_mid":"382651856",
 		"fan_no_color":"#8abde4",
 		"fan_recommend_desc":"《战双帕弥什》是一款末世科幻题材的3D动作手游。你将化身指挥官，带领人类最后的希望——仿生人形「构造体」，共同对抗被「帕弥什」病毒感染的机械大军。",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

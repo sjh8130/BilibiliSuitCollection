@@ -8,7 +8,7 @@
 		"desc":"天呐！这可是红叔专属装扮诶！简直超酷的！只要你用上这套装扮就等于是红薯粉了，我会罩着你的！这些动态卡片、点赞动效和表情包全都是你的，你可以随意使用！请务必在我的评论区多多使用让我好好欣赏欣赏！另外永久购买还能成为认证粉丝，领取粉丝专属装扮，偷偷告诉你，这个更酷哦！",
 		"fan_desc":"马里奥红叔",
 		"fan_id":"马里奥红叔",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39903,39930,39931,39932,39933,39934",
 		"fan_mid":"680447",
 		"fan_no_color":"#ffd47c",
 		"fan_recommend_desc":"红叔一路走来，从羞涩到成熟，经历了很多风风雨雨，还好身边一直有着大家的陪伴。只要有你们在，我便无所畏惧！",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5360,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -482,6 +490,6 @@
 	"fan_user":{
 		"mid":680447,
 		"nickname":"马里奥红叔",
-		"avatar":"https://i2.hdslb.com/bfs/face/42ab6d38c0a622b62a8e0501ef3a5a596b3e7257.jpg"
+		"avatar":"https://i2.hdslb.com/bfs/face/9f266d9214894cc4134b114fc8c8ce028a235421.jpg"
 	}
 }

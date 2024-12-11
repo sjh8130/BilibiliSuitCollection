@@ -8,7 +8,7 @@
 		"desc":"汪汪！您的队友发来一条组队申请：诚邀您换上菜狗专属装扮，一起开启新一年的招财与快乐~！本套装包含动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，获取粉丝专属装扮喔\\(^o^)/~！",
 		"fan_desc":"蔬菜精灵",
 		"fan_id":"蔬菜精灵",
-		"fan_item_ids":"3",
+		"fan_item_ids":"33609,33621,33622,33623,33625,33663",
 		"fan_mid":"1224108408",
 		"fan_no_color":"#5bab05",
 		"fan_recommend_desc":"蔬菜精灵诞生于日本艺术家朋吉先生的画笔之下，鲜嫩可口的白菜和可爱治愈的柴犬幻化结合，菜狗就是这样来的~\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":3920,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

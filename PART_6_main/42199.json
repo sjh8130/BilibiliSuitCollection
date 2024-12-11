@@ -8,7 +8,7 @@
 		"desc":"光之恶魔早稻叽的第二套个性装扮终于来啦，这次小恶魔化身成街头潮妹，又酷又可爱，储备粮们心动了吗！",
 		"fan_desc":"早稻叽潮妹",
 		"fan_id":"早稻叽潮妹",
-		"fan_item_ids":"4",
+		"fan_item_ids":"42095,42194,42195,42196,42197,42198",
 		"fan_mid":"1950658",
 		"fan_no_color":"#f1267b",
 		"fan_recommend_desc":"一只因为太过善良而被贬到人间学习如何迫害人类的“光之恶魔”，经过几年的学习不仅没有学会如何使坏，反而多了一份“想要给人类带来幸福”的梦想。爱wase啦!",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"up"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

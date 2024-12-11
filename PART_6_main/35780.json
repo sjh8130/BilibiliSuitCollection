@@ -8,7 +8,7 @@
 		"desc":"Gon的旱獭套装来啦！懒懒的旱獭，懒懒的你！赶快换上，和獭獭一起轻松面对真实的日常生活吧！",
 		"fan_desc":"Gon的旱獭",
 		"fan_id":"Gon的旱獭",
-		"fan_item_ids":"3",
+		"fan_item_ids":"35758,35759,35760,35761",
 		"fan_mid":"538096064",
 		"fan_no_color":"#ff8300",
 		"fan_recommend_desc":"Gon的旱獭这一IP形象由作者山药Gon创作。獭獭性格懒懒，爱喝可乐，经常有灵光一闪的脑洞，相信每个人都有真实的自我。獭獭的好朋友有变色龙夏卡，还有猫咪条条",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

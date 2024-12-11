@@ -8,7 +8,7 @@
 		"desc":"元气电系歌姬陆鳐LuLu个性装扮闪亮登场！永久购买还能成为认证粉丝，领取粉丝专属装扮，一起充电吧！6166！",
 		"fan_desc":"陆鳐LuLu",
 		"fan_id":"陆鳐LuLu",
-		"fan_item_ids":"3",
+		"fan_item_ids":"37449,37478,37479,37480,37481,37482",
 		"fan_mid":"1856528671",
 		"fan_no_color":"#00c6ff",
 		"fan_recommend_desc":"在雨夜中歌唱的电系歌姬「陆鳐LuLu」，与大海有着神秘的关联。以获得「邀请函」为目标的她，希望用自己的歌声在「CUBE」获得一席之位。",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

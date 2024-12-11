@@ -8,7 +8,7 @@
 		"desc":"马尔济斯线条小狗是一只超级有爱的小狗，喜欢送心心表达爱意。性格率真、单纯，会在意自己的内心感受，面对不喜欢会气呼呼跳脚，也会奶凶的咆哮！谁能拒绝一直奶呼呼的线条小狗？快来贴贴呀！",
 		"fan_desc":"线条小狗",
 		"fan_id":"线条小狗",
-		"fan_item_ids":"3",
+		"fan_item_ids":"38255,38283,38284,38285,38289,38290",
 		"fan_mid":"3461568127830547",
 		"fan_no_color":"#89d8ff",
 		"fan_recommend_desc":"马尔济斯线条小狗是一只超级有爱的小狗，喜欢送心心表达爱意，喜欢和朋友玩耍。性格率真、单纯，在意自己的内心感受，面对不喜欢会气呼呼跳脚，也会奶凶的咆哮！",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

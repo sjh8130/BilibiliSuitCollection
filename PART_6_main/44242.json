@@ -8,7 +8,7 @@
 		"desc":"“想见你”的冲动，不可抵挡！本套装包括动态卡片和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"想见你",
 		"fan_id":"想见你",
-		"fan_item_ids":"4",
+		"fan_item_ids":"44222,44239,44240,44241",
 		"fan_mid":"1958167931",
 		"fan_no_color":"#f097a3",
 		"fan_recommend_desc":"按下随身听的播放键，全新的故事在熟悉又陌生的恋人间展开…… 当李子维出现的那一刻，黄雨萱终于意识到，梦中经常见到的那个人，此刻就站在眼前。",
@@ -33,6 +33,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

@@ -8,7 +8,7 @@
 		"desc":"你想和姆明做朋友吗？换上姆明专属装扮一起去姆明山谷探险吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"姆明",
 		"fan_id":"姆明",
-		"fan_item_ids":"3",
+		"fan_item_ids":"35612,35618,35619,35620,35621,35622",
 		"fan_mid":"647193094",
 		"fan_no_color":"#685694",
 		"fan_recommend_desc":"充满好奇心和理想主义的姆明一家，和一群富有想象力的朋友，将带领我们在神奇的姆明谷里进行田园诗般的探险。",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -500,6 +508,6 @@
 	"fan_user":{
 		"mid":647193094,
 		"nickname":"装扮小姐姐",
-		"avatar":"https://i1.hdslb.com/bfs/face/baa15280b6157891427323fab5fbe3e3b42010cf.jpg"
+		"avatar":"https://i1.hdslb.com/bfs/baselabs/523830e526a81001e4c3dcec9f317623a4f1dd2e.png"
 	}
 }

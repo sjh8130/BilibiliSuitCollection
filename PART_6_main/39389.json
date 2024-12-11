@@ -8,7 +8,7 @@
 		"desc":"为从军设妙计女扮男装，涉千山越万水亲赴戎机。2233人生百戏·花木兰装扮上线啦！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"人生百戏-花木兰",
 		"fan_id":"人生百戏-花木兰",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39335,39353,39354,39384",
 		"fan_mid":"35365327",
 		"fan_no_color":"#eb3d3e",
 		"fan_recommend_desc":"为从军设妙计女扮男装，涉千山越万水亲赴戎机。",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

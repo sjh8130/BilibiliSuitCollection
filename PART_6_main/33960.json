@@ -8,7 +8,7 @@
 		"desc":"谁不喜欢小猫咪呢？快换上喵铃铛专属装扮一起来吸猫吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"喵铃铛",
 		"fan_id":"喵铃铛",
-		"fan_item_ids":"3",
+		"fan_item_ids":"33863,33875,33876,33877,33878,33879",
 		"fan_mid":"326499679",
 		"fan_no_color":"#3585d3",
 		"fan_recommend_desc":"铃铛喵们是公司饲养的打工人鼓励师，每个楼层配备一只喵铃铛，让大家在疲惫时可以吸猫补充元气。当然，到底是治愈还是致郁就不太好说了，毕竟小猫咪能有什么坏心眼呢。",
@@ -36,6 +36,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":560,
+		"price_bp_forever":4240,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

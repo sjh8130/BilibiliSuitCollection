@@ -8,7 +8,7 @@
 		"desc":"手办收藏家集合啦！元气少女优纪发来邀请，开启元气满满的一天吧！\n本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"高能手办团",
 		"fan_id":"高能手办团",
-		"fan_item_ids":"4",
+		"fan_item_ids":"44766,44784,44785,44786,44787,44788",
 		"fan_mid":"545424466",
 		"fan_no_color":"#ffbe60",
 		"fan_recommend_desc":"你知道吗？「手办」也是有情感的哦！在「高能手办团」中，手办们也组成了可爱又温馨的小社会。这样的幸福不能被破坏！快来协助优纪吧，一起击败神秘玩具组织背后的邪恶",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -375,6 +383,6 @@
 	"fan_user":{
 		"mid":545424466,
 		"nickname":"高能手办团",
-		"avatar":"https://i1.hdslb.com/bfs/face/015e42ff0b0076b41b006a9d55610d2f6a98db4f.jpg"
+		"avatar":"https://i1.hdslb.com/bfs/face/1d77dc56c93c2e60fc0d9d8c28103ea9e1a60a95.jpg"
 	}
 }

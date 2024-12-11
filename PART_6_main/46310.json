@@ -8,7 +8,7 @@
 		"desc":"叮咚，您的V我套餐已出餐。汉堡，吼吼吼！套餐小可爱们期待客人们取餐！V我50看看实力！！本套装包括动态卡片和表情包，永久购买还能成为认证粉丝，快来领取您的专属套餐吧～",
 		"fan_desc":"V我",
 		"fan_id":"V我套餐",
-		"fan_item_ids":"4",
+		"fan_item_ids":"46294,46306,46307,46309",
 		"fan_mid":"1181834006",
 		"fan_no_color":"#f6964c",
 		"fan_recommend_desc":"叮咚，您的V我套餐已出餐。汉堡，吼吼吼！套餐小可爱们期待客人们取餐！V我50看看实力！！本套装包括动态卡片和表情包，永久购买还能成为认证粉丝，快来领取您的专",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

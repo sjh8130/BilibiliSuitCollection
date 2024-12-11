@@ -8,7 +8,7 @@
 		"desc":"天官赐福，百无禁忌。\n6月10日和7月15日分别是花城与谢怜的生日，一起来为他们庆生吧！",
 		"fan_desc":"天官赐福花怜生日快乐",
 		"fan_id":"天官赐福花怜生日快乐",
-		"fan_item_ids":"3",
+		"fan_item_ids":"35676,35700,35701,35702,35703,35704",
 		"fan_mid":"479374871",
 		"fan_no_color":"#ffaf60",
 		"fan_recommend_desc":"仙乐太子谢怜接连被贬第三次飞升，不慎破坏了神官的金殿，无人供奉的他只能下凡除鬼换取功德补偿。凡间历练中，谢怜结识了两位小神官和少年三郎，解决了系列诡谲事件",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5360,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

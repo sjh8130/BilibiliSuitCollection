@@ -8,7 +8,7 @@
 		"desc":"芜湖，q0z装扮来咯！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"秋凛子Rinco",
 		"fan_id":"秋凛子Rinco",
-		"fan_item_ids":"4",
+		"fan_item_ids":"48761,48784,48785,48786,48787,48788",
 		"fan_mid":"479633069",
 		"fan_no_color":"#ff7235",
 		"fan_recommend_desc":"psplive所属的秋凛子Rinco，是一名热爱打游戏的悠闲巫女。\n不管何时她所期望的都只有大家能快快乐乐地生活。",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"up"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5200,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

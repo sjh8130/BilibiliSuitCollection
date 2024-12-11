@@ -8,7 +8,7 @@
 		"desc":"万圣节！一起去要糖果吧！或者一起恶作剧？",
 		"fan_desc":"小蝙蝠呜呣呜呣",
 		"fan_id":"小蝙蝠呜呣呜呣",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39708,39725,39726,39727",
 		"fan_mid":"647193094",
 		"fan_no_color":"#a8a7eb",
 		"fan_recommend_desc":"万圣节到了，小蝙蝠也想要糖果。你会给她们美味的糖果，还是加入让小镇居民头疼的恶作剧小队？",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":480,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -330,6 +338,6 @@
 	"fan_user":{
 		"mid":647193094,
 		"nickname":"装扮小姐姐",
-		"avatar":"https://i1.hdslb.com/bfs/face/baa15280b6157891427323fab5fbe3e3b42010cf.jpg"
+		"avatar":"https://i1.hdslb.com/bfs/baselabs/523830e526a81001e4c3dcec9f317623a4f1dd2e.png"
 	}
 }

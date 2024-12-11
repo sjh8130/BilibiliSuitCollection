@@ -8,7 +8,7 @@
 		"desc":"喵~呜。桃桃喵来啦~喜欢摸鱼，爱吃小鱼干~快来领养一只吧！套装内容包含桃桃的壁纸和超萌的表情包哦！里边还偷偷的藏了一只小布偶哦~她是桃桃的好朋友-荔枝。欢迎大家来找桃桃和荔枝玩哦！",
 		"fan_desc":"桃桃喵和荔枝喵",
 		"fan_id":"桃桃喵和荔枝喵",
-		"fan_item_ids":"4",
+		"fan_item_ids":"42557,42574,42575,42577",
 		"fan_mid":"37440201",
 		"fan_no_color":"#a8d1f1",
 		"fan_recommend_desc":"桃桃喵是一直活泼的粉白色小猫咪，她的好朋友荔枝是一只呆呆的小布偶。出生于2022年9月11日，目前小猫咪们还在努力的成长ing。希望大家可以多多支持桃桃和荔",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

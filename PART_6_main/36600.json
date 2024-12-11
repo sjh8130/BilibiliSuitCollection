@@ -8,7 +8,7 @@
 		"desc":"战斗狂的成名故事，快换上黑召专属装扮一起成为最强冒险者吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"黑之召唤士",
 		"fan_id":"黑之召唤士",
-		"fan_item_ids":"3",
+		"fan_item_ids":"36589,36595,36596,36597,36598,36599",
 		"fan_mid":"1761066712",
 		"fan_no_color":"#f3d077",
 		"fan_recommend_desc":"“这是第一次呢，竟然让我这个神来当他的手下。”异世界转生的凯尔文不仅将转生神纳入麾下，还用前世记忆作为交换变成为最强冒险者，酣畅淋漓的战斗冒险就此拉开帷幕！",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

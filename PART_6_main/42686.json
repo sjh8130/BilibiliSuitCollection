@@ -8,7 +8,7 @@
 		"desc":"Bilibili原创专属装扮 - Stella & Dianna上新啦！本套装包括表情包、主题皮肤和个人空间背景图！永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"斯特拉和戴安娜",
 		"fan_id":"斯特拉和戴安娜",
-		"fan_item_ids":"4",
+		"fan_item_ids":"42634,42664,42665,42666",
 		"fan_mid":"647193094",
 		"fan_no_color":"#ea7a99",
 		"fan_recommend_desc":"温柔成熟有少女心的的姐姐是个不擅长运动的头脑天才，元气善良的妹妹偶尔会变身成为恶魔御姐，极具反差的姐妹！倾情呈现！",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -480,6 +488,6 @@
 	"fan_user":{
 		"mid":647193094,
 		"nickname":"装扮小姐姐",
-		"avatar":"https://i1.hdslb.com/bfs/face/baa15280b6157891427323fab5fbe3e3b42010cf.jpg"
+		"avatar":"https://i1.hdslb.com/bfs/baselabs/523830e526a81001e4c3dcec9f317623a4f1dd2e.png"
 	}
 }

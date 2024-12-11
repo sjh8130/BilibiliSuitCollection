@@ -8,7 +8,7 @@
 		"desc":"主人公波吉是国王排名第七名的伯斯王治下王国的第一王子。但是波吉却生来又聋又哑，贫弱到挥不动剑。这样的波吉人生中第一位交到的朋友，卡克。与卡克的邂逅，使波吉人生的产生了巨变。",
 		"fan_desc":"国王排名",
 		"fan_id":"国王排名",
-		"fan_item_ids":"3",
+		"fan_item_ids":"34575,34576,34577,34578,34580,34581",
 		"fan_mid":"928123",
 		"fan_no_color":"#ffbc2b",
 		"fan_recommend_desc":"主人公波吉是国王排名第七名的伯斯王治下王国的第一王子。但是波吉却生来又聋又哑，贫弱到挥不动剑。这样的波吉人生中第一位交到的朋友，卡克。与卡克的邂逅，使波吉人",
@@ -36,6 +36,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":560,
+		"price_bp_forever":4320,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

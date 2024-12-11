@@ -8,7 +8,7 @@
 		"desc":"甜品店打工攒够钱出装扮啦！祝你早日深陷大大大猫娘的温柔魅力！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取真爱社绘人专属礼物哟！",
 		"fan_desc":"小铃久绘",
 		"fan_id":"小铃久绘",
-		"fan_item_ids":"4",
+		"fan_item_ids":"44861,44915,44974,44975,44976,44977",
 		"fan_mid":"1875094289",
 		"fan_no_color":"#eb91c7",
 		"fan_recommend_desc":"超绝可爱拥有独特性格魅力的异世界粉色大猫猫登场！没什么能难倒努力赛AI的猫娘，以靠人不如靠己的全能气势，向着kirakira偶像目标进发吧！",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"up"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -502,6 +510,6 @@
 	"fan_user":{
 		"mid":1875094289,
 		"nickname":"小铃久绘Official",
-		"avatar":"https://i2.hdslb.com/bfs/face/6b4478942f024091a2e9816064ef78235450a7b2.jpg"
+		"avatar":"https://i2.hdslb.com/bfs/face/74ee66b365ac11a0e4d1f0efb67822ebd702bf67.jpg"
 	}
 }

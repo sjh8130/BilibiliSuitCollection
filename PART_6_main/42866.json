@@ -8,7 +8,7 @@
 		"desc":"高田熊超人气个性装扮第二弹来咯！\n全网独家B站圣诞限定表情包~ 这个圣诞节，让高田熊陪你过！",
 		"fan_desc":"高田熊圣诞特辑",
 		"fan_id":"高田熊圣诞特辑",
-		"fan_item_ids":"4",
+		"fan_item_ids":"42799,42863,42864,42865",
 		"fan_mid":"2126324493",
 		"fan_no_color":"#6bc5d0",
 		"fan_recommend_desc":"日本超人气表情包明星 “高田熊”来啦！和高田熊一起过一个完美的圣诞节！",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

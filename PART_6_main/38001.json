@@ -8,7 +8,7 @@
 		"desc":"BLG首席吉祥物布噜噜，一只不平凡的电竞小猫咪。",
 		"fan_desc":"BLG布噜噜",
 		"fan_id":"BLG布噜噜",
-		"fan_item_ids":"3",
+		"fan_item_ids":"37972,37996,37997,37998,37999,38000",
 		"fan_mid":"268999208",
 		"fan_no_color":"#00bbe1",
 		"fan_recommend_desc":"BLG布噜噜（Bluelue）是BLG俱乐部里的一只电竞小猫吉祥物，也是一位擅长辅助的替补队员。布噜噜会说一点人类语言，更喜欢喵喵叫。\n",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

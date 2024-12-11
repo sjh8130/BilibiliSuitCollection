@@ -8,7 +8,7 @@
 		"desc":"春夏秋冬，谢谢你的陪伴呀",
 		"fan_desc":"雪狐桑生日纪念",
 		"fan_id":"雪狐桑生日纪念",
-		"fan_item_ids":"4",
+		"fan_item_ids":"42477,42479,42480,42481,42482,42483",
 		"fan_mid":"477792",
 		"fan_no_color":"#4f98ff",
 		"fan_recommend_desc":"\"雪狐桑生日纪念全新装扮来临！快来看看吧~\"\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"up"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5360,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

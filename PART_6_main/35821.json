@@ -8,7 +8,7 @@
 		"desc":"十二宫企划之狮子座， 愿望是能成为未来的狮子王。 蕾尔娜leona首套个性装扮终于来了！本套装包含动态卡片、点赞动效和表情包！永久购买成为认证萝狮粉！",
 		"fan_desc":"蕾尔娜Leona",
 		"fan_id":"蕾尔娜Leona",
-		"fan_item_ids":"3",
+		"fan_item_ids":"35792,35794,35817,35818,35819,35820",
 		"fan_mid":"473244363",
 		"fan_no_color":"#e99942",
 		"fan_recommend_desc":"没有理由的喜欢夏天，就像没有理由的喜欢蕾尔娜。六月伴着初夏的风与她初遇，七月的海边和她邂逅，八月和她相约在满天的烟火下，9月与她一起感受盛夏的小遗憾。 ",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -438,7 +446,7 @@
 	},
 	"fan_user":{
 		"mid":473244363,
-		"nickname":"蕾尔娜Leona",
-		"avatar":"https://i0.hdslb.com/bfs/face/c8c16dcb892cbd89421122afeeb0f9ca029e37db.jpg"
+		"nickname":"神气小蕾",
+		"avatar":"https://i0.hdslb.com/bfs/face/214e7b7334499f05d550c9a079bd5b9bd876dd12.jpg"
 	}
 }

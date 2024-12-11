@@ -8,7 +8,7 @@
 		"desc":"探索无限可能，世界在你手中！快换上我的世界专属装扮，开启一段欢乐的冒险之旅吧！本套装包含动态卡片、点赞动效和表情包，快来锁定你的专属粉丝编号！",
 		"fan_desc":"我的世界",
 		"fan_id":"我的世界",
-		"fan_item_ids":"4",
+		"fan_item_ids":"44342,44625,44626,44627,44628,44629",
 		"fan_mid":"43310262",
 		"fan_no_color":"#60c5ff",
 		"fan_recommend_desc":"凭借着开放自由的游戏世界、超乎想象的精彩玩法，《我的世界》深受上亿玩家的喜爱。你想玩的，这里都有！快来加入冒险家的大家庭，随时随地开启创造的崭新篇章！",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

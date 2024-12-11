@@ -8,7 +8,7 @@
 		"desc":"P家所属的黑白狐有栖mana在稻荷神的指引下带着她的个性装扮降临神社！快来听mana嘿嘿嘿嘿吧~本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"有栖mana",
 		"fan_id":"有栖mana",
-		"fan_item_ids":"3",
+		"fan_item_ids":"33434,33457,33458,33459,33460,33461",
 		"fan_mid":"3149619",
 		"fan_no_color":"#c73e46",
 		"fan_recommend_desc":"黑白狐有栖mana带着她的个性装扮降临神社！快来把巫女服的mana抱回家吧~不仅可以吃到mana为你亲手做的圣诞甜点，还能被化身忍者的mana暗中保护哦！",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":480,
+		"price_bp_forever":4240,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

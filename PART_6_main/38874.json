@@ -8,7 +8,7 @@
 		"desc":"TES·2022LPL出征S12专属战队个性装扮，穿戴战队个性装扮，为战队出征加油助力！",
 		"fan_desc":"TES·2022",
 		"fan_id":"TES·2022",
-		"fan_item_ids":"3",
+		"fan_item_ids":"38842,38871,38872,38873",
 		"fan_mid":"300634025",
 		"fan_no_color":"#f7c4be",
 		"fan_recommend_desc":"TES·2022LPL出征S12专属战队个性装扮，穿戴战队个性装扮，为战队出征加油助力！\n",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -465,6 +473,6 @@
 	"fan_user":{
 		"mid":300634025,
 		"nickname":"滔搏电子竞技俱乐部",
-		"avatar":"https://i2.hdslb.com/bfs/face/fcd6464b4b6415e33141373d695f5eca13784970.jpg"
+		"avatar":"https://i2.hdslb.com/bfs/face/baddc04376dd20b17b9f5408070a8b4e2d7510bc.jpg"
 	}
 }

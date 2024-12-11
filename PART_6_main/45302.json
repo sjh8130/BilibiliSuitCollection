@@ -8,7 +8,7 @@
 		"desc":"换上入幕之臣专属装扮，体验文武摄政王的鸳鸳相抱。本套装包括动态卡片和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"入幕之臣",
 		"fan_id":"入幕之臣",
-		"fan_item_ids":"4",
+		"fan_item_ids":"45287,45299,45300,45301",
 		"fan_mid":"732364",
 		"fan_no_color":"#5068a2",
 		"fan_recommend_desc":"作为一个讲道理的摄政王，云夙喜欢有恩报恩，有仇报仇。最重要的恩，他要报给那个命中的夙敌武摄政王。报答给那个在临死前还护着他、想要救他的小傻子夙敌。 然而夙敌",
@@ -33,6 +33,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

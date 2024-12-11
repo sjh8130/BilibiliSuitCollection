@@ -8,7 +8,7 @@
 		"desc":"看！抓到一直QQQQ的章鱼小妹~无忧无虑的小可爱陪你逛B站。本套装包括动态卡片，超多独家可爱表情包，永久购买还能成为认证粉丝，牵上我的手手~领取粉丝专属装扮吧！",
 		"fan_desc":"章鱼小Q",
 		"fan_id":"章鱼小Q",
-		"fan_item_ids":"4",
+		"fan_item_ids":"46335,46357,46358,46359",
 		"fan_mid":"1181834006",
 		"fan_no_color":"#6a10fe",
 		"fan_recommend_desc":"看！抓到一直QQQQ的章鱼小妹~无忧无虑的小可爱陪你逛B站。本套装包括动态卡片，超多独家可爱表情包，永久购买还能成为认证粉丝，牵上我的手手~领取粉丝专属装扮",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

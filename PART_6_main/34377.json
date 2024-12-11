@@ -8,7 +8,7 @@
 		"desc":"出生在北极本体是企鹅的可爱少女，因为在中国生活过所以中文非常流利！特征是八成攻！经常在动态分享自己制作的美食，直播杂谈和游戏，感谢支持！",
 		"fan_desc":"星宮汐",
 		"fan_id":"星宫汐",
-		"fan_item_ids":"3",
+		"fan_item_ids":"34379,34381,34382,34383,34384,34385",
 		"fan_mid":"402417817",
 		"fan_no_color":"#db8888",
 		"fan_recommend_desc":"出生在北极本体是企鹅的可爱少女，因为在中国生活过所以中文非常流利！特征是八成攻！经常在动态分享自己制作的美食，直播杂谈和游戏，感谢支持！",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":560,
+		"price_bp_forever":4320,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

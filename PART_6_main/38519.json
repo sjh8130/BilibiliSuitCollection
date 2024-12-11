@@ -8,7 +8,7 @@
 		"desc":"换上小宛专属装扮，赴一场美梦！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"秦淮八艳-小宛",
 		"fan_id":"秦淮八艳-小宛",
-		"fan_item_ids":"3",
+		"fan_item_ids":"38434,38453,38454,38455",
 		"fan_mid":"1330153025",
 		"fan_no_color":"#54b1ea",
 		"fan_recommend_desc":"由摩石文化出品，知名画师TID设计的秦淮八艳系列第一弹：「小宛-玉润冰清」手办。\n",
@@ -36,6 +36,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

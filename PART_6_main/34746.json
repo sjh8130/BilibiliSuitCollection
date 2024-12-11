@@ -8,7 +8,7 @@
 		"desc":"你能把握和我的距离么！？换上阿波连专属装扮拉近我们的距离吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"测不准的阿波连同学",
 		"fan_id":"测不准的阿波连同学",
-		"fan_item_ids":"3",
+		"fan_item_ids":"34771,34773,34774,34775,34776,34777",
 		"fan_mid":"1974606163",
 		"fan_no_color":"#9a96d1",
 		"fan_recommend_desc":"阿波连玲奈是一个身材娇小，安静的女孩子，有点不太擅长把握与他人之间的距离。他和来堂同学的距离 “时而太远”“时而太近”，阿波连同学真是难以预测。",
@@ -36,6 +36,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4320,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -493,6 +501,6 @@
 	"fan_user":{
 		"mid":1974606163,
 		"nickname":"阿波连同学_动画官方",
-		"avatar":"https://i1.hdslb.com/bfs/face/047cf81bd23507a3d98014db4c69dacf1c990ec5.jpg"
+		"avatar":"https://i1.hdslb.com/bfs/face/aa76d7a07eec46086823f587078c3c143cfe1409.jpg"
 	}
 }

@@ -8,7 +8,7 @@
 		"desc":"星月沉处，龙女化身～快来换上龙女·月星沉装扮吧！本套装包括动态卡片和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"龙女·月星沉",
 		"fan_id":"龙女·月星沉",
-		"fan_item_ids":"4",
+		"fan_item_ids":"41023,41077,41093,41106",
 		"fan_mid":"3461581786581601",
 		"fan_no_color":"#39bba7",
 		"fan_recommend_desc":"星月沉处，龙女化身。吾之将现，风雨扶摇。",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

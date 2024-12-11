@@ -8,7 +8,7 @@
 		"desc":"软萌奶油兔的可爱日常~本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"奶油兔",
 		"fan_id":"奶油兔粉丝",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40269,40291,40292,40294",
 		"fan_mid":"3493080047029111",
 		"fan_no_color":"#fb7b93",
 		"fan_recommend_desc":"顶着可爱治愈的面孔，却是个内心沙雕的反差奶兔，小门牙和萌萌大脸是她的标配，最爱粉色蝴蝶结，调皮中二，宗旨是快乐与治愈，她就是——圆滚滚充满活力的奶油兔。",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

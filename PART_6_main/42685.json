@@ -8,7 +8,7 @@
 		"desc":"暗黑国风动作rogue手游《暖雪》主题装扮来了！本套装包括评论卡片、粉丝卡片、空间海报，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"暖雪",
 		"fan_id":"暖雪",
-		"fan_item_ids":"4",
+		"fan_item_ids":"42668,42682,42683,42684",
 		"fan_mid":"1291089667",
 		"fan_no_color":"#2c7aca",
 		"fan_recommend_desc":"一场天降怪雪，究竟是天怒降罚，还是邪神作祟？侠士“狴犴”即将踏上旅途，自由搭配万种变化，体验超爽快飞剑系统，不断重生制敌，寻找暖雪的真相，让黑暗迎来终结！",
@@ -33,6 +33,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

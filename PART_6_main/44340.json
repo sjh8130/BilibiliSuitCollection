@@ -8,7 +8,7 @@
 		"desc":"叮叮当~马尔济斯线条小狗送来暖心节日祝福，线条小狗喜欢和朋友装扮成可爱的圣诞树小狗。谁能拒绝一只奶呼呼的线条小狗送的圣诞礼物？",
 		"fan_desc":"线条小狗圣诞篇",
 		"fan_id":"线条小狗圣诞篇",
-		"fan_item_ids":"4",
+		"fan_item_ids":"44317,44335,44336,44337,44338,44339",
 		"fan_mid":"3461568127830547",
 		"fan_no_color":"#7ec08a",
 		"fan_recommend_desc":"马尔济斯线条小狗是一只超级有爱的小狗，喜欢送心心表达爱意，喜欢和朋友玩耍。性格率真、单纯，在意自己的内心感受，面对不喜欢会气呼呼跳脚，也会奶凶的咆哮！\n",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

@@ -8,7 +8,7 @@
 		"desc":"当手机电量仅剩1%时，高高举起你的充电宝，大喊一声“给我变—”，小紫就会出现在你身边啦~即刻解锁小紫专属装扮，提高成功概率！",
 		"fan_desc":"小紫才没有摸鱼",
 		"fan_id":"小紫才没有摸鱼",
-		"fan_item_ids":"4",
+		"fan_item_ids":"41675,41719,41720,41721,41722,41724",
 		"fan_mid":"14829832",
 		"fan_no_color":"#b053cb",
 		"fan_recommend_desc":"人形充电宝小紫，江湖人称「又哭又闹真君」，饿了要充电，生气就鼓包，伤心会漏液，急了得电解！最近的梦想是成为B站大明星！",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -498,7 +506,7 @@
 	},
 	"fan_user":{
 		"mid":14829832,
-		"nickname":"小紫的小号",
-		"avatar":"https://i1.hdslb.com/bfs/face/34bc4061fd94c1613cc1b36e7c7b2eef805dceea.jpg"
+		"nickname":"布响丸叻辣",
+		"avatar":"https://i1.hdslb.com/bfs/face/a57265a504af32bef6300ad217047124752c3d06.jpg"
 	}
 }

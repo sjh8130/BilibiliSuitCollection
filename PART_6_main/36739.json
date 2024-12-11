@@ -8,7 +8,7 @@
 		"desc":"夏天～！泳装～！是和超绝可爱猫雷一起享受夏天的超绝可爱装扮哦！甚至还会有约会的感觉！？只要永久购买还能获得专属编号哦～！",
 		"fan_desc":"猫雷Nyaru",
 		"fan_id":"猫雷Nyaru",
-		"fan_item_ids":"3",
+		"fan_item_ids":"36705,36734,36735,36736,36737,36738",
 		"fan_mid":"697091119",
 		"fan_no_color":"#8767ff",
 		"fan_recommend_desc":"「准备俘获大家的心了哦！我是Vtuber猫雷喵露！」\n擅长的魔法是雷魔法！可以从指尖发出电流哦～！\n大家要被喵露狠狠地电到发麻哦",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5360,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

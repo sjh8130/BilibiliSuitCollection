@@ -8,7 +8,7 @@
 		"desc":"快乐勤劳，每日喵喵！加入猫咪饭的队伍中，一起成为最强的主机玩家吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮",
 		"fan_desc":"猫诺装扮套装",
 		"fan_id":"猫诺装扮套装",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40504,40527,40528,40529,40530,40535",
 		"fan_mid":"70070",
 		"fan_no_color":"#ff6dbd",
 		"fan_recommend_desc":"大家好，我是猫诺！一只热爱游戏的猫猫！从16年直播到现在。想一直陪伴着大家，并带给大家更多的快乐！热爱可抵万难，喜欢就一直坚持下去吧~\n",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5360,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

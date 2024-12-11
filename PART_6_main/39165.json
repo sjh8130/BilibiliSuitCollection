@@ -8,7 +8,7 @@
 		"desc":"我一定能筑基成功！换上装扮一起修炼筑基吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"炼气练了3000年",
 		"fan_id":"炼气练了3000年",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39149,39162,39163,39164",
 		"fan_mid":"1598154179",
 		"fan_no_color":"#3d77ec",
 		"fan_recommend_desc":"炼气修至66665层却仍不能筑基成功的主角白秋然得到了关于一个神秘的古石碑的线索，这个线索暗藏可助他筑基成功的秘法，白秋然决定下山一探究竟。",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

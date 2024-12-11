@@ -8,7 +8,7 @@
 		"desc":"Zc目录，快人一步！快换上Zc的专属装扮，一同捧起属于自己的奖杯吧!本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"魔法Zc目录",
 		"fan_id":"魔法Zc目录",
-		"fan_item_ids":"3",
+		"fan_item_ids":"36354,36355,36356,36424,36425,36431",
 		"fan_mid":"13164144",
 		"fan_no_color":"#f9b636",
 		"fan_recommend_desc":"Zc是一位认真做攻略，副业讲相声的小破站up主，每天直播都很下饭！为纪念「百大荣誉」的个性装扮，汇聚着金色的岁月与荣誉，震撼呈现！",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

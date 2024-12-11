@@ -8,7 +8,7 @@
 		"desc":"这是一只孤独的长颈鹿，换上露露专属套装成为自己人吧！",
 		"fan_desc":"折原露露向日葵的约定",
 		"fan_id":"折原露露向日葵的约定",
-		"fan_item_ids":"4",
+		"fan_item_ids":"44708,44710,44711,44712,44713,44714",
 		"fan_mid":"631070414",
 		"fan_no_color":"#b45917",
 		"fan_recommend_desc":"一只有一点孤独的长颈鹿来到了你身边。\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"up"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4720,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -444,6 +452,6 @@
 	"fan_user":{
 		"mid":631070414,
 		"nickname":"折原露露",
-		"avatar":"https://i2.hdslb.com/bfs/face/66f0469dbbeb6b006953a9e5b2d9fbaa1001b9c0.jpg"
+		"avatar":"https://i2.hdslb.com/bfs/baselabs/12f5e74af9ef949b997ff2567ede0bade7eab68d.png"
 	}
 }

@@ -8,7 +8,7 @@
 		"desc":"双生幻想首款探险队装扮来袭，快换上装扮，异世界冒险即将开启！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"双生幻想",
 		"fan_id":"双生幻想",
-		"fan_item_ids":"4",
+		"fan_item_ids":"44980,44998,44999,45000,45001,45002",
 		"fan_mid":"686130515",
 		"fan_no_color":"#9a69ec",
 		"fan_recommend_desc":"《双生幻想》是一款异次元卡牌福利放置手游。在科技与魔幻的交织下，塑造看似平静繁华的表世界，玩家们将化身为被意外卷入爆炸事件的宇宙探索者，召集五种族探员伙伴，",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

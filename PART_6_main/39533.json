@@ -8,7 +8,7 @@
 		"desc":"个性装扮在这里你可以发现新的动态卡片、点赞特效和表情包！那么在这种情况下，永久购买成为认证耐久，领取专属装扮吧！",
 		"fan_desc":"大炒面制造者CEN",
 		"fan_id":"大炒面制造者CEN",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39497,39526,39527,39528,39529,39530",
 		"fan_mid":"14890801",
 		"fan_no_color":"#d3b13e",
 		"fan_recommend_desc":"↓点 击 助 力 懒 狗 生 存",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5360,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

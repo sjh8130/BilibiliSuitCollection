@@ -8,7 +8,7 @@
 		"desc":"2233来给大家拜年啦！祝大家好事成兔、兔然暴富、兔飞猛进~~",
 		"fan_desc":"2233兔年新春",
 		"fan_id":"2233兔年新春",
-		"fan_item_ids":"4",
+		"fan_item_ids":"46560,46581,46582,46586",
 		"fan_mid":"68559",
 		"fan_no_color":"#d23f52",
 		"fan_recommend_desc":"2233来给大家拜年啦！祝大家好事成兔、兔然暴富、兔飞猛进~~\n",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -344,6 +352,6 @@
 	"fan_user":{
 		"mid":68559,
 		"nickname":"22和33",
-		"avatar":"https://i0.hdslb.com/bfs/face/3353f6a877c773cc4b17381ecfbd02347149af20.webp"
+		"avatar":"https://i0.hdslb.com/bfs/face/03e29e711e24ce5696bf091c72466599d19781cc.webp"
 	}
 }

@@ -8,7 +8,7 @@
 		"desc":"两勺果酱的甜度~约等于三分甜的小小约~\n专属装扮上线啦，等你领取哦！",
 		"fan_desc":"小小约yoo",
 		"fan_id":"小小约yoo",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39730,39757,39799,39800,39836,39837",
 		"fan_mid":"1359949418",
 		"fan_no_color":"#ff7458",
 		"fan_recommend_desc":"Yaku~这里是三分甜的小小约！来自偶像星球的吊车尾偶像，希望可以在这里学会很多知识，很高兴认识你~\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

@@ -8,7 +8,7 @@
 		"desc":"匠心手绘，瑰丽奇幻，换上狼行者专属装扮吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"狼行者",
 		"fan_id":"狼行者",
-		"fan_item_ids":"3",
+		"fan_item_ids":"34119,34121,34122,34123,34124,34136",
 		"fan_mid":"3652604",
 		"fan_no_color":"#e17022",
 		"fan_recommend_desc":"爱尔兰国宝级动画工作室开通沙龙，历时五年打造的纯手绘匠心之作《狼行者》。揽获多项国际大奖，帧帧精美，快来一睹真容！",
@@ -36,6 +36,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":560,
+		"price_bp_forever":4240,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

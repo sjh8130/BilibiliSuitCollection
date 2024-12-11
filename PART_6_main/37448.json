@@ -8,7 +8,7 @@
 		"desc":"虽然很可爱，但来自地狱！你的动态卡片、点赞动效和表情包，都要被团团包围啦！快换上团团奇米莫专属装扮，开启爆笑又治愈的地狱之旅吧！",
 		"fan_desc":"团团奇米莫",
 		"fan_id":"团团奇米莫",
-		"fan_item_ids":"3",
+		"fan_item_ids":"37429,37444,37445,37446,37447,37504",
 		"fan_mid":"1710262839",
 		"fan_no_color":"#ff7a21",
 		"fan_recommend_desc":"12只谜之生物奇米莫，和地狱先生一同穿越到人类世界，竟是想将人间变成地狱？为此，他们寄居在人类三姐妹家，搞笑温馨日常就此展开！人类世界地狱化计划会如何发展呢",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

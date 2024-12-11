@@ -8,7 +8,7 @@
 		"desc":"嘿哟～你们的萌宠系列之邓峰家的猫专属个性装扮来啦，本套装包括动态卡片、点赞动效和表情包，穿上我们的专属装扮和我一起云撸猫吧～",
 		"fan_desc":"邓峰萌萌摔肿了",
 		"fan_id":"邓峰萌萌摔肿了",
-		"fan_item_ids":"4",
+		"fan_item_ids":"42868,42963,42964,42965",
 		"fan_mid":"50295692",
 		"fan_no_color":"#ab6c5a",
 		"fan_recommend_desc":"嘿哟～你们的萌宠系列之邓峰家的猫专属个性装扮来啦，本套装包括头像挂件、动态卡片、点赞动效和表情包，穿上我们的专属装扮和我一起云撸猫吧～\n",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

@@ -8,7 +8,7 @@
 		"desc":"可爱联盟新年装扮来袭！还有专属新年限定表情哦！新的一年，祝大家大吉大利，红红火火！快来装扮上吧~",
 		"fan_desc":"可爱联盟-新年特辑",
 		"fan_id":"可爱联盟-新年特辑",
-		"fan_item_ids":"4",
+		"fan_item_ids":"46913,46993,46994,46995",
 		"fan_mid":"1851255796",
 		"fan_no_color":"#ff8331",
 		"fan_recommend_desc":"可爱联盟是由小兔可可和小猪嘟嘟组成的可爱cp组合。可可活泼软萌，嘟嘟呆萌可爱，他们的日常温馨且治愈。",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

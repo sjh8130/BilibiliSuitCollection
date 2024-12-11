@@ -8,7 +8,7 @@
 		"desc":"“呀，你想被我咬一口嘛？咬下去的话，你就永远成为我的眷属了哦。”奈奈莉娅专属装扮上线，永久购买成为认证粉丝，感谢大家一直以来的陪伴！",
 		"fan_desc":"奈奈莉娅",
 		"fan_id":"奈奈莉娅",
-		"fan_item_ids":"4",
+		"fan_item_ids":"46778,47076,47077,47078,47079,47080",
 		"fan_mid":"489146840",
 		"fan_no_color":"#f775d1",
 		"fan_recommend_desc":"以向着登上更大舞台为目标开始偶像道路的吸血鬼少女——奈奈莉娅，希望能在活动的每一天里，都为喜欢自己的粉丝带来最出色的表演和最美好的心情",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"up"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5360,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -502,6 +510,6 @@
 	"fan_user":{
 		"mid":489146840,
 		"nickname":"奈奈莉娅Channel",
-		"avatar":"https://i2.hdslb.com/bfs/face/528cc6abd26e11e3ff499f6b5f325133f0f6a81a.jpg"
+		"avatar":"https://i2.hdslb.com/bfs/face/05b3314d5b7435aa20baeee10fe572997434a7a4.jpg"
 	}
 }

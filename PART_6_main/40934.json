@@ -8,7 +8,7 @@
 		"desc":"三班小胖纸奉翔的可爱日常！本套装包括动态卡片和超萌表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"茶啊二中居居男孩日常",
 		"fan_id":"茶啊二中居居男孩日常",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40889,40929,40930,40932",
 		"fan_mid":"14504747",
 		"fan_no_color":"#88c4fd",
 		"fan_recommend_desc":"《茶啊二中》用动画重现了初中时代美好而难忘的校园生活,让我们重拾回忆，共鸣再起——这，才是属于我们自己的国产青春！\n",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -330,6 +338,6 @@
 	"fan_user":{
 		"mid":14504747,
 		"nickname":"茶啊二中",
-		"avatar":"https://i2.hdslb.com/bfs/face/6097fbc12fee0f191749c096bba85038cf4361ce.jpg"
+		"avatar":"https://i2.hdslb.com/bfs/face/2279e7a0a243ea8f4b35a104323d9fcd53f9d639.jpg"
 	}
 }

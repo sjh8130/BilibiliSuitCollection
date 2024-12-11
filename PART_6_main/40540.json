@@ -8,7 +8,7 @@
 		"desc":"可爱的汪汪殿下露早装扮登场！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"露早GOGO",
 		"fan_id":"露早GOGO",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40532,40534,40536,40537,40538,40539",
 		"fan_mid":"1669777785",
 		"fan_no_color":"#6b94ea",
 		"fan_recommend_desc":"EOE的汪汪殿下露早，带着兔耳朵的小GOGO。舞台上是光芒万丈的魔法少女，可回到家里，依然是对着镜子选不出裙子的小露早。你要选哪一条呢？",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -492,6 +500,6 @@
 	"fan_user":{
 		"mid":1669777785,
 		"nickname":"露早GOGO",
-		"avatar":"https://i0.hdslb.com/bfs/face/65b50510041992de0b4248559c88f6a595b274a9.jpg"
+		"avatar":"https://i0.hdslb.com/bfs/face/c8e3ecfd73d43508cd0ebd4c227f18d194a60076.jpg"
 	}
 }

@@ -8,7 +8,7 @@
 		"desc":"吾乃终将成为伟大魔王的vtuber！想成为魔狼咪莉娅的眷属吗？这件套装，满载着咪莉娅插画内容与表情等等的精心设计！永久购入即可成为认证眷属，获得眷属专用装束！",
 		"fan_desc":"魔狼咪莉娅",
 		"fan_id":"魔狼咪莉娅",
-		"fan_item_ids":"4",
+		"fan_item_ids":"42734,42736,42737,42738,42739,42740",
 		"fan_mid":"1838190318",
 		"fan_no_color":"#c52a63",
 		"fan_recommend_desc":"吾乃魔王国之王，名为魔狼咪莉娅。为成为伟大的魔王而降临bilibili。\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5440,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

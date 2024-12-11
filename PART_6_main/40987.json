@@ -8,7 +8,7 @@
 		"desc":"《银河之心》动画由银河奖得主江波的同名小说改编，衍生装扮现已上线，快来获取你的专属粉丝装扮吧！",
 		"fan_desc":"银河之心",
 		"fan_id":"银河之心",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40971,40984,40985,40986",
 		"fan_mid":"1843076727",
 		"fan_no_color":"#4c9dc5",
 		"fan_recommend_desc":"宇宙流浪汉李约素无意中发现多年前失踪的移民飞船“上佳”号，目睹了令人惊惧的异常现象…科尼尔星域人类在全军覆没之际派出李约素向银河之心的强大人类文明求救...",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

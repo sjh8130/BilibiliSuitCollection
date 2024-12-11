@@ -8,7 +8,7 @@
 		"desc":"可爱的小鲸鱼Bao来啦！购买Bao的专属春节装扮，成为认证粉丝吧！\n快来领取专属动画特效和表情包，让Bao陪你度过这个春节吧!",
 		"fan_desc":"Bao新春装扮",
 		"fan_id":"Bao新春装扮",
-		"fan_item_ids":"4",
+		"fan_item_ids":"46860,46883,46884,46885,46886,46887",
 		"fan_mid":"1458008883",
 		"fan_no_color":"#0a85ed",
 		"fan_recommend_desc":"万事如意，招财进Bao!",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"up"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4720,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

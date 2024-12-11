@@ -8,7 +8,7 @@
 		"desc":"嘤嘤嘤，喜欢小樱花和小年糕的朋友快上车！来换上可爱的獭猫姐弟专属装扮，加入嘤嘤怪阵营！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮哦！",
 		"fan_desc":"小樱花and小年糕",
 		"fan_id":"小樱花and小年糕",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40112,40136,40137,40139",
 		"fan_mid":"692250614",
 		"fan_no_color":"#ffcc52",
 		"fan_recommend_desc":"超爱撒娇的嘤嘤怪水獭——小樱花，与可可爱爱的高冷橘猫——小年糕，每天都在上演有爱的跨物种姐弟情，温暖又治愈人心！",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

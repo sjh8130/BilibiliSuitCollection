@@ -8,7 +8,7 @@
 		"desc":"朋友的陪伴，既是追逐梦想的动力，更是面对困难时的勇气，换上勇气专属装扮追逐梦想吧！套装包括动态卡片、点赞和表情包等，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"废柴狐阿桔",
 		"fan_id":"废柴狐阿桔",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40387,40414,40415,40416,40666,40670",
 		"fan_mid":"1325328896",
 		"fan_no_color":"#f88742",
 		"fan_recommend_desc":"以“兽人”的设定展开，讲述关于梦想、成长、友谊的故事。这里有爱和满满的治愈，与三人组阿桔、狗呆、小汤，以及他们的朋友们，一起踏上成长的旅途吧！\n",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

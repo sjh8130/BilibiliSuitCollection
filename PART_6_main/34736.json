@@ -8,7 +8,7 @@
 		"desc":"少侠，你来啦！天涯明月刀手游专属装扮上线，熟悉的伙伴集结，你的江湖不再孤单！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"天涯明月刀伙伴",
 		"fan_id":"天涯明月刀伙伴",
-		"fan_item_ids":"3",
+		"fan_item_ids":"34654,34656,34657,34658,34682,34737",
 		"fan_mid":"431880410",
 		"fan_no_color":"#e14f4f",
 		"fan_recommend_desc":"天涯明月刀的江湖，呈现画卷般瑰丽的国风盛世；数十个可攻略伙伴人物，红尘一刻中邂逅命定之人；撸猫烹饪牵马渔猎，真实感知江湖百态；策略性与打击感兼备，酣畅战斗！",
@@ -36,6 +36,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

@@ -8,7 +8,7 @@
 		"desc":"让七宝住进你的手机，陪伴你度过开心的每一天吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮哦！",
 		"fan_desc":"星汐seki",
 		"fan_id":"星汐seki",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39899,39961,39962,39963,39965,39966",
 		"fan_mid":"51030552",
 		"fan_no_color":"#6d92dd",
 		"fan_recommend_desc":"一颗懒惰的星星来到了地球转生成人类美少女之后，她的日常生活中只剩下了无糖可乐、游戏还有可爱的美少女们；如今少女决定再次出发，为了在大家面前绽放耀眼的光芒而努",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

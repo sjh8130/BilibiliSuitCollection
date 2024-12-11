@@ -8,7 +8,7 @@
 		"desc":"\"甜到不用加糖的柚恩的专属装扮上线啦(*¯︶¯*)\n本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"柚恩不加糖",
 		"fan_id":"柚恩不加糖",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40591,40596,40597,40598,40634,40636",
 		"fan_mid":"1795147802",
 		"fan_no_color":"#6b67b6",
 		"fan_recommend_desc":"EOE的舞蹈天使柚恩，把握着EOE时尚脉络的人，首席服装设计师。除了在舞台上惊艳所有人外，也幻想着有一天，手持长剑，斩妖除魔！\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

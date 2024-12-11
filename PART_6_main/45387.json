@@ -8,7 +8,7 @@
 		"desc":"和暖暖狐一起去露营探险吧～快来换暖暖狐装扮！本套装包括动态卡片和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"暖暖狐",
 		"fan_id":"暖暖狐",
-		"fan_item_ids":"4",
+		"fan_item_ids":"45362,45384,45385,45386",
 		"fan_mid":"3461581786581601",
 		"fan_no_color":"#e18859",
 		"fan_recommend_desc":"有围脖的小狐狸才能暖暖的~\n",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

@@ -8,7 +8,7 @@
 		"desc":"1021是小豆泥与Nobeko相遇的日子，也是小豆泥的生日！本套装包括动态卡片、点赞特效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"暹罗猫小豆泥2",
 		"fan_id":"暹罗猫小豆泥的日常",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39079,39102,39103,39104,39107,39108",
 		"fan_mid":"375262988",
 		"fan_no_color":"#e17731",
 		"fan_recommend_desc":"二次元猫猫界顶流「暹罗猫小豆泥」来啦！由日本漫画家Nobeko创作的小豆泥形象，收获了大家的喜爱。我们希望小豆泥可以一直陪伴着中国的朋友们！\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

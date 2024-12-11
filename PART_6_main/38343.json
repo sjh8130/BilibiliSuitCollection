@@ -8,7 +8,7 @@
 		"desc":"大会员萌节六周年，换上专属纪念装扮，和2233在萌岛开启精彩探险！本套装包括主题装扮、评论区装扮、点赞动效和表情包，速速焕新look寻找宝藏吧~",
 		"fan_desc":"萌节六周年装扮",
 		"fan_id":"萌节六周年装扮",
-		"fan_item_ids":"3",
+		"fan_item_ids":"38316,38340,38341,38342",
 		"fan_mid":"321173469",
 		"fan_no_color":"#8ab1ff",
 		"fan_recommend_desc":"大会员6周年之际登陆萌岛展开探险，偶遇不同的人物，展开各色的事件，不断收获自己的精神宝藏吧！",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

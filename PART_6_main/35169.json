@@ -8,7 +8,7 @@
 		"desc":"喂，你是一个人吗？要不要和姐姐一起来做些有趣的事呢？偷偷告诉你，本套装包括动态卡片！点赞动效和表情包！永久购买还能成为认证粉丝！领取粉丝专属装扮！",
 		"fan_desc":"切茜娅Chelsea",
 		"fan_id":"切茜娅Chelsea",
-		"fan_item_ids":"3",
+		"fan_item_ids":"35094,35096,35097,35098,35099,35100",
 		"fan_mid":"632960",
 		"fan_no_color":"#c52c77",
 		"fan_recommend_desc":"兴趣使然的魔王大人，皆有涉及，概不精通。插科打诨和胡说八道属于生活日常，是纯情可爱又迷人的反派角色。",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5360,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

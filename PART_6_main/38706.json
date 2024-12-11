@@ -8,7 +8,7 @@
 		"desc":"喂喂喂，这里是爱打游戏的青春猪头美少女Asaki！我的个性装扮终于上线啦，快来领取猪猪专属编号，和我一起每天都笑“猪”颜开吧！！本套装包括两套超美丽双主题动态头图、动态卡片、点赞动效和可爱表情包！",
 		"fan_desc":"Asaki大人",
 		"fan_id":"Asaki大人",
-		"fan_item_ids":"3",
+		"fan_item_ids":"38672,38700,38701,38702,38703,38704,38705",
 		"fan_mid":"194484313",
 		"fan_no_color":"#fb8699",
 		"fan_recommend_desc":"换上Asaki专属装扮，一起守护可爱小猪吧~",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":960,
+		"price_bp_forever":6960,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

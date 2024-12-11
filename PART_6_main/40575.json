@@ -8,7 +8,7 @@
 		"desc":"来自虚研社的AI小柔，换上小柔专属套装成为柔光灯吧！",
 		"fan_desc":"小柔Channel",
 		"fan_id":"小柔Channel",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40542,40570,40571,40572,40573,40574",
 		"fan_mid":"1734978373",
 		"fan_no_color":"#6b94ea",
 		"fan_recommend_desc":"虚研社二期生小柔（ρ），自主型柔情三语歌唱AI，梦想成为超棒的歌手！愿歌声治愈你的心。\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5360,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

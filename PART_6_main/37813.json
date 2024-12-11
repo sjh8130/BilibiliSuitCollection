@@ -8,7 +8,7 @@
 		"desc":"换上可爱懒懒兔专属装扮，收获爱心满满的治愈生活！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"懒懒兔",
 		"fan_id":"懒懒兔",
-		"fan_item_ids":"3",
+		"fan_item_ids":"37787,37809,37810,37811,37855,37856",
 		"fan_mid":"35429200",
 		"fan_no_color":"#fc6fb1",
 		"fan_recommend_desc":"懒懒兔是一只常常加班，爱睡懒觉的兔兔，每天都很努力地工作。爱打扮，喜欢没事，喜欢制造快乐。平淡的生活与你分享治愈的小故事。\n",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5440,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

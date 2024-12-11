@@ -8,7 +8,7 @@
 		"desc":"换上啦啦队专属装扮，来绿茵场上一起挥洒激情吧！本套装包括表情包、点赞动画，永久购买还能成为认证粉丝，领取粉丝专属装扮哦！",
 		"fan_desc":"足球啦啦队",
 		"fan_id":"足球啦啦队",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39759,39777,39778,39779",
 		"fan_mid":"1665228366",
 		"fan_no_color":"#2798ef",
 		"fan_recommend_desc":"黑白的精灵在绿茵草上翻滚，热血与激情在对抗中被酣畅释放！目标是在足球盛会中夺冠，与2233一起为球员们加油！尽情喝彩！",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

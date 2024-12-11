@@ -8,7 +8,7 @@
 		"desc":"铛铛，我们来啦！换上我们的专属装扮，让三个聪明机智的美少女一起陪你逛B站吧。",
 		"fan_desc":"五橙喵 · 玉兔迎春",
 		"fan_id":"五橙喵 · 玉兔迎春",
-		"fan_item_ids":"4",
+		"fan_item_ids":"46579,46583,46584,46588,46589,46590",
 		"fan_mid":"1691347",
 		"fan_no_color":"#ffa96b",
 		"fan_recommend_desc":"三个聪明机智的美少女，来到方块世界，她们会碰撞出怎样有趣的火花呢？",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -499,6 +507,6 @@
 	"fan_user":{
 		"mid":1691347,
 		"nickname":"大橙橙橙子",
-		"avatar":"https://i1.hdslb.com/bfs/face/86a8244ce4fa270a37475e17971f8d55ab73e45d.jpg"
+		"avatar":"https://i1.hdslb.com/bfs/face/37f9a0394e4afb6c1837f2dbe205c00bbccaadf4.jpg"
 	}
 }

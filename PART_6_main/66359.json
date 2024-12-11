@@ -33,6 +33,14 @@
 		"suit_card_type":"big_img",
 		"type":"ip"
 	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5200,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
+	},
 	"suit_items":{
 		"card":[
 			{
@@ -444,6 +452,6 @@
 	"fan_user":{
 		"mid":401742377,
 		"nickname":"原神",
-		"avatar":"https://i2.hdslb.com/bfs/face/37ae7362f75cff540259b23413aec6803d2d8dcd.jpg"
+		"avatar":"https://i2.hdslb.com/bfs/face/853c4a846793dfbdafd8f16a40d6d8065bdb7c6f.jpg"
 	}
 }

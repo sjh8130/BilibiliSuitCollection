@@ -8,7 +8,7 @@
 		"desc":"意外频发，疑点重重！换上黑门专属装扮一起探索脑宇宙，寻找真相吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"黑门",
 		"fan_id":"黑门",
-		"fan_item_ids":"3",
+		"fan_item_ids":"38297,38310,38311,38312",
 		"fan_mid":"1464603779",
 		"fan_no_color":"#06428d",
 		"fan_recommend_desc":"一场看似普通的公交事故，引发一连串意外，悬案背后的危机远超想象！在人类探索自身极限的同时，也再次站在了进化的十字路口，一个波澜壮阔的大时代已拉开序幕！\n",
@@ -36,6 +36,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

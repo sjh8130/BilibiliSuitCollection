@@ -8,7 +8,7 @@
 		"desc":"各式各样可可爱爱的米米子，真的不想领回家一只嘛！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"要来点米米子么",
 		"fan_id":"要来点米米子么",
-		"fan_item_ids":"4",
+		"fan_item_ids":"47135,47558,47559,47560,47561,47562",
 		"fan_mid":"1993302",
 		"fan_no_color":"#8a48ac",
 		"fan_recommend_desc":"米米子是UP主米神哟幻想出来自己的性转角色，喜欢吃甜品，有一小部分米宝的Hentai粉将其称为老婆。\n",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5360,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

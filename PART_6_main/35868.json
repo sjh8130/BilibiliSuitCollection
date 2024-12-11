@@ -8,7 +8,7 @@
 		"desc":"萌萌奶龙闪亮登场！换上装扮和萌萌奶龙一起开启冒险之旅吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"奶龙",
 		"fan_id":"奶龙",
-		"fan_item_ids":"3",
+		"fan_item_ids":"35852,35865,35866,35867",
 		"fan_mid":"230481071",
 		"fan_no_color":"#fedc01",
 		"fan_recommend_desc":"萌萌奶龙和少年小七这对活宝的日常，奶龙因所在的星球发生变故，来到地球，遇到小七，小七带着奶龙穿梭在武林空间。荒岛空间，游戏空间展开冒险，发生一系列爆笑故事。",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

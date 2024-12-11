@@ -8,7 +8,7 @@
 		"desc":"快来一起换上東雪蓮的装扮吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"東雪蓮",
 		"fan_id":"東雪蓮",
-		"fan_item_ids":"3",
+		"fan_item_ids":"37817,37820,37821,37822,37823,37824",
 		"fan_mid":"1437582453",
 		"fan_no_color":"#b7a8cc",
 		"fan_recommend_desc":"東雪蓮喜欢音乐，自己也会作曲作词。",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -498,6 +506,6 @@
 	"fan_user":{
 		"mid":1437582453,
 		"nickname":"東雪蓮Official",
-		"avatar":"https://i0.hdslb.com/bfs/face/644b2a6f21a4ecbf394cc36fe7303369dd5d5d51.jpg"
+		"avatar":"https://i0.hdslb.com/bfs/face/e92c03498eb9a4c8fe850b2c4ec74db6f226e0b7.jpg"
 	}
 }

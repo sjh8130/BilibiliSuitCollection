@@ -8,7 +8,7 @@
 		"desc":"可爱猫猫修女降临你身边，陪你过圣诞！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"天曰小雏圣诞",
 		"fan_id":"天曰小雏圣诞",
-		"fan_item_ids":"4",
+		"fan_item_ids":"44247,44249,44250,44251,44252,44253",
 		"fan_mid":"2007781080",
 		"fan_no_color":"#fe6795",
 		"fan_recommend_desc":"在这万物归于安详的圣夜，可爱猫猫修女来到你身边。让天曰小雏陪伴在你身边，体验难忘的平安夜，度过一个不一样的圣诞！\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"up"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5360,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

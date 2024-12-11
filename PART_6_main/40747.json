@@ -8,7 +8,7 @@
 		"desc":"嘘～小队长莞儿专属装扮上线啦！\n本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"莞儿睡不醒",
 		"fan_id":"莞儿睡不醒",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40599,40600,40602,40604,40605,40632",
 		"fan_mid":"1875044092",
 		"fan_no_color":"#f04b25",
 		"fan_recommend_desc":"EOE的队长，天才小厨娘莞儿。当她拿起炒勺，会给大家献上佳肴，而当她拿起麦克风，会给大家带来安心。但终有一天，会成为一鸣惊人的小队长！\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -492,6 +500,6 @@
 	"fan_user":{
 		"mid":1875044092,
 		"nickname":"莞儿睡不醒",
-		"avatar":"https://i1.hdslb.com/bfs/face/b9d2b8ddca93ff306a7d84452d2ad3e363c935b2.webp"
+		"avatar":"https://i1.hdslb.com/bfs/face/fb8b21d3f2c20b3e642f47cc271e9b96b376d316.webp"
 	}
 }

@@ -31,6 +31,14 @@
 		"suit_card_type":"big_img",
 		"type":"ip"
 	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":480,
+		"price_bp_forever":2000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
+	},
 	"suit_items":{
 		"card":[
 			{
@@ -100,7 +108,6 @@
 						"item_id":70912,
 						"name":"[大会员生日表情包_生日快乐]",
 						"tab_id":7,
-						"suit_item_id":0,
 						"properties":{
 							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/7232d7f3dd42589aa3bcabedca0a1fae49546787.png",
@@ -112,7 +119,6 @@
 						"item_id":70913,
 						"name":"[大会员生日表情包_生日帽]",
 						"tab_id":7,
-						"suit_item_id":0,
 						"properties":{
 							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/92fef957a06d25f3ff7f91ecfc127567e93fcf70.png",
@@ -124,7 +130,6 @@
 						"item_id":70914,
 						"name":"[大会员生日表情包_干杯]",
 						"tab_id":7,
-						"suit_item_id":0,
 						"properties":{
 							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/e786220677ac67b5e8fc1f129890060e10b29c31.png",
@@ -136,7 +141,6 @@
 						"item_id":70915,
 						"name":"[大会员生日表情包_瞥一眼]",
 						"tab_id":7,
-						"suit_item_id":0,
 						"properties":{
 							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/c0295ea41f4feec103fa74016fd1ce00cd86f848.png",
@@ -148,7 +152,6 @@
 						"item_id":70916,
 						"name":"[大会员生日表情包_wink]",
 						"tab_id":7,
-						"suit_item_id":0,
 						"properties":{
 							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/1981700f81a834a61fded898eb0eef007d37f8cb.png",
@@ -160,7 +163,6 @@
 						"item_id":70917,
 						"name":"[大会员生日表情包_哼]",
 						"tab_id":7,
-						"suit_item_id":0,
 						"properties":{
 							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/0faf0f3141ef6adf9a3c471c819ef4cd520f4aac.png",
@@ -172,7 +174,6 @@
 						"item_id":70918,
 						"name":"[大会员生日表情包_乐]",
 						"tab_id":7,
-						"suit_item_id":0,
 						"properties":{
 							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/ab43e7cf4d167bada963cd9b697a6852de2fb919.png",
@@ -184,7 +185,6 @@
 						"item_id":70919,
 						"name":"[大会员生日表情包_比心]",
 						"tab_id":7,
-						"suit_item_id":0,
 						"properties":{
 							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/80592d1692356647a046e96a11b52b5f406f2695.png",
@@ -196,7 +196,6 @@
 						"item_id":70920,
 						"name":"[大会员生日表情包_庆祝]",
 						"tab_id":7,
-						"suit_item_id":0,
 						"properties":{
 							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/c3150243b95204a966a01d347411b80ad9a1fa85.png",
@@ -208,7 +207,6 @@
 						"item_id":70921,
 						"name":"[大会员生日表情包_礼物给你]",
 						"tab_id":7,
-						"suit_item_id":0,
 						"properties":{
 							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/d01afe51b511487b1378c7ac89c543c4368fae29.png",
@@ -311,6 +309,6 @@
 	"fan_user":{
 		"mid":647193094,
 		"nickname":"装扮小姐姐",
-		"avatar":"https://i1.hdslb.com/bfs/face/baa15280b6157891427323fab5fbe3e3b42010cf.jpg"
+		"avatar":"https://i1.hdslb.com/bfs/baselabs/523830e526a81001e4c3dcec9f317623a4f1dd2e.png"
 	}
 }

@@ -8,7 +8,7 @@
 		"desc":"世间妖怪，皆有温度。一起来看看神都中那些令人印象深刻的妖灵吧！套装含动态卡片、超萌表情，永久购买可以成为认证粉丝，领取专属装扮！",
 		"fan_desc":"神都夜行录",
 		"fan_id":"神都夜行录",
-		"fan_item_ids":"4",
+		"fan_item_ids":"46244,46313,46330,46332",
 		"fan_mid":"176846636",
 		"fan_no_color":"#179fe9",
 		"fan_recommend_desc":"国韵之美，归于盛唐。万千妖灵、神都风志，尽于「神都夜行录」亲历。\n每有妖物作乱之日，便是降妖师现身之时，让我们一起走进国风妖怪的世界！",
@@ -33,6 +33,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

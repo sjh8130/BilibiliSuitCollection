@@ -8,7 +8,7 @@
 		"desc":"嗷呜！奶凶奶凶的茶茶龙登场！装扮包含表情包，动态卡片，点赞动画。粉丝套装还有个性主题和专属编号哦～",
 		"fan_desc":"茶茶龙",
 		"fan_id":"茶茶龙",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40298,40326,40327,40328",
 		"fan_mid":"1732540672",
 		"fan_no_color":"#40a79c",
 		"fan_recommend_desc":"浅茶色的小奶龙，真的不凶啦～最喜欢的就是吃饭和睡觉！虽然有点呆呆的，但是！真的很会哄人啦～茶茶龙申请和饲养员一起玩耍！",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

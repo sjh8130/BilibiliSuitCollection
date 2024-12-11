@@ -8,7 +8,7 @@
 		"desc":"小鳄鱼小兔子和小长颈鹿他们，潜入到你到主页，在动态卡片和表情包里都住下了，来看看他们在干什么吧！永久购买还能成为认证粉丝，领取粉丝专属装扮哦",
 		"fan_desc":"小矛动物园",
 		"fan_id":"小矛动物园",
-		"fan_item_ids":"4",
+		"fan_item_ids":"43834,44021,44115,44116",
 		"fan_mid":"280729664",
 		"fan_no_color":"#264f8f",
 		"fan_recommend_desc":"\"这是一家开在动画里的动物园，讲述了一群充满童趣，脑洞清奇的小动物们，爆笑离奇的日常生活故事，挑战动画想象力天花板！同名动画全网火热更新中！\n\"\n",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

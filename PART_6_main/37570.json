@@ -8,7 +8,7 @@
 		"desc":"天字榜首大侠沈剑心的套装来了！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"沈剑心第三季专属装扮",
 		"fan_id":"沈剑心第三季专属装扮",
-		"fan_item_ids":"3",
+		"fan_item_ids":"37546,37565,37566,37567,37568,37569",
 		"fan_mid":"326309575",
 		"fan_no_color":"#72540c",
 		"fan_recommend_desc":"沈剑心出生在稻香村，师从华山纯阳。在江湖历练时寻找“侠”的真谛。受红衣教所迫，久别中原的沈剑心再次回到长安，承担起沉重的大侠之名，重新踏入属于他的江湖路。",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

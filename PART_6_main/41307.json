@@ -8,7 +8,7 @@
 		"desc":"呼叫e小星们换上武汉eStarPro战队专属个性装扮，一起做最闪耀的星！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"武汉eStarPro",
 		"fan_id":"武汉eStarPro",
-		"fan_item_ids":"4",
+		"fan_item_ids":"41286,41304,41305,41306",
 		"fan_mid":"13947624",
 		"fan_no_color":"#1c2d65",
 		"fan_recommend_desc":"武汉eStarPro是王者荣耀职业联赛“七冠王”战队，一直秉承“始于电竞、忠于电竞”的核心理念，怀揣着对电竞的梦想，在王者征途上摘取更辉煌的职业荣耀。\n",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

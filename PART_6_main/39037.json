@@ -8,7 +8,7 @@
 		"desc":"农民王的不平凡冒险之旅，快换上农民技能专属装扮一起成为最强冒险者吧！本套装包括加载动画、动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"点满农民相关技能",
 		"fan_id":"点满农民相关技能",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39008,39032,39033,39034,39035,39036",
 		"fan_mid":"1820544334",
 		"fan_no_color":"#47b4f2",
 		"fan_recommend_desc":"平凡务农青年竟是隐藏的实力者？！从小立志成为“农民王”的他，在点满农民相关技能后生活却急转直下，开始与农民截然不同的方向发展。平凡农民的不平凡冒险超燃来袭！",
@@ -36,6 +36,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

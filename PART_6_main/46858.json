@@ -8,7 +8,7 @@
 		"desc":"作为 kuENJOY 鲲集文化与 Ubisoft 育碧基于疯狂兔子 IP 共同策划的展览，以「宇宙博物馆」为出发点,以油画、装置、互动等多种展现形式在多元化的创作中探索与疯狂兔子的奇趣之旅。快来锁定你的专属粉丝编号吧，更有线下展览权益等你兑换！",
 		"fan_desc":"疯狂兔子宇宙博物馆",
 		"fan_id":"疯狂兔子宇宙博物馆",
-		"fan_item_ids":"4",
+		"fan_item_ids":"46833,46855,46856,46857",
 		"fan_mid":"16836724",
 		"fan_no_color":"#204a4c",
 		"fan_share_image":"https://i0.hdslb.com/bfs/garb/item/ab78e57e8e216c2d3c014c3979a7cd15d88eeedb.png",
@@ -30,6 +30,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

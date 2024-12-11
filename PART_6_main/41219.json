@@ -8,7 +8,7 @@
 		"desc":"日本动漫小巫女九重紫在迎来自己的二周年纪念之际，首套装扮也一起降临啦！装扮里是可爱的紫，努力的紫，整活的紫，还有爱就一个紫！穿上装扮，一起来摸鱼吧！",
 		"fan_desc":"九重紫",
 		"fan_id":"九重紫",
-		"fan_item_ids":"4",
+		"fan_item_ids":"41218,41247,41248,41249,41250,41251",
 		"fan_mid":"225347042",
 		"fan_no_color":"#c86254",
 		"fan_recommend_desc":"谢谢粉丝们的支持！日本动漫小巫女九重紫在迎来自己的二周年纪念之际，首套装扮也一起降临啦！装扮里是可爱的紫，努力的紫，整活的紫，还有爱就一个紫！\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

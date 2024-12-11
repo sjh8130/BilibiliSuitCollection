@@ -8,7 +8,7 @@
 		"desc":"“逆风如解意，容易莫摧残。”甄嬛传系列套装上线啦！本套装包括动态卡片等，更有可爱又有趣的甄嬛传专属表情包等你来使用，快来锁定你的专属粉丝编号吧！",
 		"fan_desc":"甄嬛传系列",
 		"fan_id":"甄嬛传系列",
-		"fan_item_ids":"4",
+		"fan_item_ids":"45809,45826,45827,45841",
 		"fan_mid":"647193094",
 		"fan_no_color":"#5dc3e5",
 		"fan_share_image":"https://i0.hdslb.com/bfs/garb/item/a6a500023ba933883324e866f453618d40170b66.jpg",
@@ -30,6 +30,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -326,6 +334,6 @@
 	"fan_user":{
 		"mid":647193094,
 		"nickname":"装扮小姐姐",
-		"avatar":"https://i1.hdslb.com/bfs/face/baa15280b6157891427323fab5fbe3e3b42010cf.jpg"
+		"avatar":"https://i1.hdslb.com/bfs/baselabs/523830e526a81001e4c3dcec9f317623a4f1dd2e.png"
 	}
 }

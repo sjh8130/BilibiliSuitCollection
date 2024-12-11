@@ -8,7 +8,7 @@
 		"desc":"豆瓣高分神作《中国奇谭》带你遇见不一样的“小妖怪”！快来锁定你的粉丝专属装扮吧！",
 		"fan_desc":"中国奇谭",
 		"fan_id":"中国奇谭",
-		"fan_item_ids":"4",
+		"fan_item_ids":"45906,45923,45924,45925",
 		"fan_mid":"75930105",
 		"fan_no_color":"#3db5a9",
 		"fan_share_image":"https://i0.hdslb.com/bfs/garb/item/650b14641f643d999f8c3fcf0fb3dbe465740496.jpg",
@@ -30,6 +30,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

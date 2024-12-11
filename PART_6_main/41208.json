@@ -8,7 +8,7 @@
 		"desc":"配音演员小N的粉丝专属个性装扮上线啦！谢谢大家一直以来的支持，我要将最美好的祝福送给你们！",
 		"fan_desc":"配音演员小N",
 		"fan_id":"配音演员小N",
-		"fan_item_ids":"4",
+		"fan_item_ids":"41155,41183,41184,41185,41186,41187",
 		"fan_mid":"249118",
 		"fan_no_color":"#5d3aaf",
 		"fan_recommend_desc":"配音演员小N的第一套粉丝专属个性装扮。快来感受百变配音演员的魅力吧！\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4720,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

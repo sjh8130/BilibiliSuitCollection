@@ -8,7 +8,7 @@
 		"desc":"莲宝陪你过新年啦！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"兔年吉祥東雪蓮",
 		"fan_id":"兔年吉祥東雪蓮",
-		"fan_item_ids":"4",
+		"fan_item_ids":"46741,46769,46770,46771,46772,46773",
 		"fan_mid":"1437582453",
 		"fan_no_color":"#959bef",
 		"fan_recommend_desc":"绝世美少女莲莲祝你新年快乐！这样的机会可不多见哦...？让莲宝陪你一起度过一个特殊的中国年吧！",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"up"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -500,6 +508,6 @@
 	"fan_user":{
 		"mid":1437582453,
 		"nickname":"東雪蓮Official",
-		"avatar":"https://i0.hdslb.com/bfs/face/644b2a6f21a4ecbf394cc36fe7303369dd5d5d51.jpg"
+		"avatar":"https://i0.hdslb.com/bfs/face/e92c03498eb9a4c8fe850b2c4ec74db6f226e0b7.jpg"
 	}
 }

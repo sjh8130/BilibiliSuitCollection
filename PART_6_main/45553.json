@@ -8,7 +8,7 @@
 		"desc":"下岗偶像杜松子，虚拟主播再就业中！快换上装扮和我一起重返舞台吧~本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"杜松子_Gin",
 		"fan_id":"杜松子_Gin",
-		"fan_item_ids":"4",
+		"fan_item_ids":"45520,45548,45549,45550,45551,45552",
 		"fan_mid":"471460273",
 		"fan_no_color":"#3b67d6",
 		"fan_recommend_desc":"同时身为「下岗偶像」和「超强声优」的虚拟主播杜松子，用极富感染力的声音在直播与配音作品里为大家带来快乐！\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"up"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

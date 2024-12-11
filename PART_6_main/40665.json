@@ -8,7 +8,7 @@
 		"desc":"咿呀咿呀蛋酒一家！本套装包括动态卡片和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"蛋酒一家",
 		"fan_id":"蛋酒一家",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40588,40635,40637,40662",
 		"fan_mid":"504406727",
 		"fan_no_color":"#21abea",
 		"fan_recommend_desc":"咿呀咿呀蛋酒一家，我们的故事一直在继续哦！",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -493,6 +501,6 @@
 	"fan_user":{
 		"mid":504406727,
 		"nickname":"顶晟无线",
-		"avatar":"https://i2.hdslb.com/bfs/face/ba8b71a8a4c85695845a40326b6d2f6aded49f92.jpg"
+		"avatar":"https://i2.hdslb.com/bfs/baselabs/c056181c76e0af283ac37f2294d116e55d8b812d.png"
 	}
 }

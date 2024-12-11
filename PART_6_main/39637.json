@@ -8,7 +8,7 @@
 		"desc":"百闻不如一“戬”，换上杨戬专属装扮，开启华丽冒险！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"新神榜：杨戬",
 		"fan_id":"新神榜：杨戬",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39581,39599,39600,39601",
 		"fan_mid":"15773384",
 		"fan_no_color":"#ec5a3d",
 		"fan_recommend_desc":"奇幻仙境，绝美国风，追光动画最新力作，众神较量各显神通，法天象地战力全开！二哥杨戬战神归来！",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

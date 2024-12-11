@@ -8,7 +8,7 @@
 		"desc":"和可爱的眠眠兔一起度过这个冬天吧～软乎乎奶芙芙的小兔叽谁不爱！装扮包含表情包，动态卡片。粉丝套装还有个性主题和专属编号哦～",
 		"fan_desc":"眠眠兔",
 		"fan_id":"眠眠兔",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39842,39856,39858,39859",
 		"fan_mid":"1732540672",
 		"fan_no_color":"#d06767",
 		"fan_recommend_desc":"眠眠兔是粉蓝大家族最具代表性的一只垂耳兔。通体雪白的奶团子，可爱又治愈～眠眠兔是个粘人精，可喜欢撒娇啦！准备好成为眠眠兔的饲养员了吗？一定要一直陪着它很久哦",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

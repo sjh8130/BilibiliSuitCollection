@@ -8,7 +8,7 @@
 		"desc":"\"戏中盛景，如梦如幻；戏外众生，皆醉其中。\n无故消失的灵魂，追寻真相的主宰，久别重逢的老熟人，明眸皓齿的小月亮，与人偶形影相随的少女。\n人间戏幕，戏梦人生；幻境现实，如何掺辨？\"",
 		"fan_desc":"决战!平安京灯影戏梦",
 		"fan_id":"决战!平安京灯影戏梦",
-		"fan_item_ids":"4",
+		"fan_item_ids":"45016,45039,45040,45041,45042,45043",
 		"fan_mid":"267637532",
 		"fan_no_color":"#f89250",
 		"fan_recommend_desc":"《决战！平安京》是一款无符文对称MOBA手游，秉承 5V5公平竞技理念，告别符文系统，无游戏内数值付费，真正绿色公平竞技；多元画风细腻唯美，为玩家带来全面革",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -419,6 +427,6 @@
 	"fan_user":{
 		"mid":267637532,
 		"nickname":"决战平安京官方",
-		"avatar":"https://i2.hdslb.com/bfs/face/5ea6ebe4591c037c735e6a5a57d0bc1d63d5d332.jpg"
+		"avatar":"https://i2.hdslb.com/bfs/face/7022e4b5f3451ddde29e4203a5f715e6ae99884e.jpg"
 	}
 }

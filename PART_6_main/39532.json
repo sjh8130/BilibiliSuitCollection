@@ -8,7 +8,7 @@
 		"desc":"NHOT BOT首套专属全员装扮惊喜来袭！一起换上NHOT BOT的专属装扮华丽变身吧！\n本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"NHOT_BOT",
 		"fan_id":"NHOT_BOT",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39396,39428,39429,39430,39431,39432,39434",
 		"fan_mid":"1400431115",
 		"fan_no_color":"#4258c2",
 		"fan_recommend_desc":"\"✦指原莉乃✦bilibili✦日本索尼音乐✦携手打造一年限定Vup王道组合NHOT BOT！\"",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":960,
+		"price_bp_forever":7120,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

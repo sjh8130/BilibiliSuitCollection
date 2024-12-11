@@ -8,7 +8,7 @@
 		"desc":"以真心换真心！穿过眼泪与寂寞，想要陪伴在你身边带来欢笑。本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"今天鸽子球咕咕了吗",
 		"fan_id":"今天鸽子球咕咕了吗",
-		"fan_item_ids":"4",
+		"fan_item_ids":"45717,45731,45732,45734,45735,45736",
 		"fan_mid":"1496903",
 		"fan_no_color":"#ffa11d",
 		"fan_recommend_desc":"喜欢打游戏的真实系少女“鸽子球”！在无数个深夜电台中等待有缘之人，希望被人注视与被人所爱。",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5360,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

@@ -8,7 +8,7 @@
 		"desc":"不拼尽全力试一下又怎么会知道！换上伍六七套装，一起拼尽全力吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"伍六七",
 		"fan_id":"伍六七",
-		"fan_item_ids":"3",
+		"fan_item_ids":"36096,36097,36098,36100,36112,36113",
 		"fan_mid":"268990278",
 		"fan_no_color":"#8da8df",
 		"fan_recommend_desc":"《伍六七》是一部充满爱与热血的暖心中国原创动漫。主人公伍六七在帮助别人和寻找自我的过程中认识不同的人与不同的角色之间发生了许多有趣的故事，最终用爱化解仇恨",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -331,7 +339,7 @@
 	},
 	"fan_user":{
 		"mid":268990278,
-		"nickname":"啊哈时光AHAMOMENT",
-		"avatar":"https://i0.hdslb.com/bfs/face/b7400491da5ce621172b03f4ac9df344100f39fb.jpg"
+		"nickname":"啊哈",
+		"avatar":"https://i0.hdslb.com/bfs/face/4a1e4e0ddb80449a2b02aea0d8247608953a936c.jpg"
 	}
 }

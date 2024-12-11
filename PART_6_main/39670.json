@@ -8,7 +8,7 @@
 		"desc":"机智的粉粉鲨和憨憨的肥肥鲨来了！独家限定3d图库奉上！永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"肥肥鲨",
 		"fan_id":"肥肥鲨",
-		"fan_item_ids":"3",
+		"fan_item_ids":"39639,39667,39668,39669",
 		"fan_mid":"702241647",
 		"fan_no_color":"#b0c8eb",
 		"fan_recommend_desc":"肥肥鲨是一只正在人类社会打工的胖鲨鱼，努力打工购买海底大house,迎娶粉粉鲨，走向鲨生巅峰！",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -468,7 +476,7 @@
 	},
 	"fan_user":{
 		"mid":702241647,
-		"nickname":"肥肥鲨的日常",
+		"nickname":"肥肥鲨之家",
 		"avatar":"https://i0.hdslb.com/bfs/face/9e85fa517b518a27423e8199ffc6acc10d8a650a.jpg"
 	}
 }

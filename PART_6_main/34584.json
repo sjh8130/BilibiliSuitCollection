@@ -8,7 +8,7 @@
 		"desc":"来自不同国家和地区、代表不同文明的多位外国青年共聚一堂，共同探讨中国年轻人普遍关心的热点话题及事例，打破文化间的隔阂与偏⻅，促进相互之间的平等与理解。",
 		"fan_desc":"非正式会谈7",
 		"fan_id":"非正式会谈7",
-		"fan_item_ids":"3",
+		"fan_item_ids":"34582,34740,34741,34742,34743,34744",
 		"fan_mid":"15080107",
 		"fan_no_color":"#ff5858",
 		"fan_recommend_desc":"来自不同国家和地区、代表不同文明的多位外国青年共聚一堂，共同探讨中国年轻人普遍关心的热点话题及事例，打破文化间的隔阂与偏⻅，促进相互之间的平等与理解。",
@@ -36,6 +36,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

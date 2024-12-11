@@ -33,6 +33,14 @@
 		"timing_online_unix":"1703761200",
 		"type":"ip"
 	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5200,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
+	},
 	"suit_items":{
 		"card":[
 			{

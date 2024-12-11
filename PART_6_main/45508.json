@@ -8,7 +8,7 @@
 		"desc":"又肥又美的敦煌兔子来啦！兔头是可爱又讨喜的形象，快来换上墩墩兔春节套装吧！永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"墩墩兔",
 		"fan_id":"墩墩兔",
-		"fan_item_ids":"4",
+		"fan_item_ids":"45487,45488,45489,45490",
 		"fan_mid":"3493080527276309",
 		"fan_no_color":"#a8563f",
 		"fan_recommend_desc":"敦煌文创墩墩兔，灵感来源于敦煌壁画，12只墩墩兔的角色包含有、反弹琵琶、千手观音、供养人、阮咸乐师、敦煌飞天等。\n",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

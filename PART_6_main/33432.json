@@ -8,7 +8,7 @@
 		"desc":"来自雪国精灵的邀约，换上精灵专属装扮成为我的骑士吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"花花雪精灵",
 		"fan_id":"花花雪精灵",
-		"fan_item_ids":"3",
+		"fan_item_ids":"33409,33427,33428,33429,33430,33431",
 		"fan_mid":"269415357",
 		"fan_no_color":"#00c7ff",
 		"fan_recommend_desc":"曾经是可爱又调皮的精灵，阴差阳错来到这里开了一家小酒馆，是调皮的小妹妹，还是成熟的大姐姐？需要你慢慢来探寻！\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"multi_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":560,
+		"price_bp_forever":4320,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

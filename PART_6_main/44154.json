@@ -8,7 +8,7 @@
 		"desc":"萌妹帅气来袭！快换上萌妹专属装扮吧~~",
 		"fan_desc":"萌妹",
 		"fan_id":"萌妹",
-		"fan_item_ids":"4",
+		"fan_item_ids":"44124,44151,44152,44153",
 		"fan_mid":"33461313",
 		"fan_no_color":"#ff62c8",
 		"fan_recommend_desc":"哼哼..大家好我是萌妹\n",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

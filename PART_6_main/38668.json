@@ -8,7 +8,7 @@
 		"desc":"行来春色三分雨，睡去巫山一片云，2233人生百戏·牡丹亭装扮上线啦！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！\"",
 		"fan_desc":"人生百戏·牡丹亭",
 		"fan_id":"人生百戏·牡丹亭",
-		"fan_item_ids":"3",
+		"fan_item_ids":"38646,38665,38666,38667",
 		"fan_mid":"35365327",
 		"fan_no_color":"#a7c8dc",
 		"fan_recommend_desc":"行来春色三分雨，睡去巫山一片云，2233人生百戏·牡丹亭装扮上线啦！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
@@ -36,6 +36,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

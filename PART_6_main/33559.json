@@ -8,7 +8,7 @@
 		"desc":"拿起画笔，换上蓝色时期主题装扮，一起肆涂抹你眼中的世界吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"蓝色时期",
 		"fan_id":"蓝色时期",
-		"fan_item_ids":"3",
+		"fan_item_ids":"33531,33554,33555,33556,33557,33558",
 		"fan_mid":"1779709282",
 		"fan_no_color":"#2b99d6",
 		"fan_recommend_desc":"成绩优秀的高中生矢口八虎虽然过着充实的高中生活，内心深处却总觉得有些空虚和焦躁。某天，矢口八虎被一幅画俘虏，从此进入了美丽但是严苛的美术世界！",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":560,
+		"price_bp_forever":4240,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

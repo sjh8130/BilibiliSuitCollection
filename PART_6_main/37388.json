@@ -8,7 +8,7 @@
 		"desc":"本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！哔哩哔哩舞蹈嘉年华，一起来开心地跳舞吧！",
 		"fan_desc":"哔哩哔哩舞蹈嘉年华",
 		"fan_id":"哔哩哔哩舞蹈嘉年华",
-		"fan_item_ids":"3",
+		"fan_item_ids":"37359,37383,37384,37385,37386,37387",
 		"fan_mid":"32708657",
 		"fan_no_color":"#15c2c2",
 		"fan_recommend_desc":"哔哩哔哩舞蹈嘉年华是B站舞蹈区一年一度的活动，旨在邀约所有人一起来开心地跳舞！\n",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

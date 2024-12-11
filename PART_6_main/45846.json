@@ -8,7 +8,7 @@
 		"desc":"可爱又迷人的花卷羊小恶魔和小天使来辣！快来一起换上小翅膀吧！套装内包含动态卡片和可爱表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"花卷羊  恶魔小可爱",
 		"fan_id":"花卷羊  恶魔小可爱",
-		"fan_item_ids":"4",
+		"fan_item_ids":"45829,45843,45844,45845",
 		"fan_mid":"436377373",
 		"fan_no_color":"#7c3ef1",
 		"fan_recommend_desc":"一只喜欢美丽事物的小羊，偶然间吃了一朵神奇的花，于是变成了一个有花朵和羊咩咩特征的小精灵，花卷羊诞生啦！这次摇身一变成为了捣蛋鬼小恶魔，快来一起玩耍吧！\n",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

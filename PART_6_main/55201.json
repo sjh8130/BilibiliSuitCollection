@@ -32,6 +32,14 @@
 		"suit_card_type":"big_img",
 		"type":"ip"
 	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5200,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
+	},
 	"suit_items":{
 		"card":[
 			{
@@ -365,11 +373,11 @@
 					"head_myself_mp4_bg":"https://i0.hdslb.com/bfs/garb/item/44c4ee5cadb62be65054479ece96a0fd4c17614f.mp4",
 					"head_myself_mp4_play":"loop",
 					"head_myself_squared_bg":"https://i0.hdslb.com/bfs/garb/item/f361c8ff4d42f11ead42d1fed38a68d8907e3fbd.png",
-					"head_tab_bg":"https://i0.hdslb.com/bfs/garb/item/0ef1c5d2c842ffe64c2ec7c8ef6b1f0af17ce6dc.jpg",
+					"head_tab_bg":"https://i0.hdslb.com/bfs/garb/item/852643630a79b7939108cc29db5d63ba660bbe70.jpg",
 					"image_cover":"https://i0.hdslb.com/bfs/garb/item/f6ad8347fc99591234a1ed51694c40e42779eee2.jpg",
 					"image_preview":"https://i0.hdslb.com/bfs/garb/item/4e5c2b5e0e7b61b6c6f4600398d07b734858285e.jpg",
-					"package_md5":"34e2de7960ea5efe17e668a667961364",
-					"package_url":"https://i0.hdslb.com/bfs/garb/zip/253ade33efd6ca8a9e2adeca8485347eb83fc9b9.zip",
+					"package_md5":"cadcdd5f55f83d2200f5e5bde336be3b",
+					"package_url":"https://i0.hdslb.com/bfs/garb/zip/f44062a3c03d48801b883d3ffe7b71acb4610707.zip",
 					"realname_auth":"false",
 					"skin_mode":"normal",
 					"tail_bg":"https://i0.hdslb.com/bfs/garb/item/dab4a6333bd9972b38d84598dd1969cafb571c7e.png",
@@ -390,7 +398,7 @@
 					"tail_icon_selected_pub_btn_bg":"https://i0.hdslb.com/bfs/garb/item/10d8d7c4d00c746bbf9715aa447a5a023cffa573.png",
 					"tail_icon_selected_shop":"https://i0.hdslb.com/bfs/garb/item/b842814781edb5a68a056328bebede5d1597d41b.png",
 					"tail_icon_shop":"https://i0.hdslb.com/bfs/garb/item/191465161e87ac8927ec809e7762c19d130c9508.png",
-					"ver":"1695007578"
+					"ver":"1723547650"
 				}
 			}
 		],

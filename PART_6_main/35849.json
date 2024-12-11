@@ -8,7 +8,7 @@
 		"desc":"他日巅峰重相逢，一声道友尽沧桑，换上凡人专属装扮，驰骋星海，快意恩仇！套装包括动态卡片、点赞动效和表情包，永久购买成为认证粉丝，领取道友专属装扮！",
 		"fan_desc":"凡人修仙传",
 		"fan_id":"凡人修仙传",
-		"fan_item_ids":"3",
+		"fan_item_ids":"35826,35844,35845,35846,35847,35848",
 		"fan_mid":"557818222",
 		"fan_no_color":"#0e8fd1",
 		"fan_recommend_desc":"看机智的凡人小子韩立如何稳健发展、步步为营，战魔道、夺至宝、驰骋星海、快意恩仇，成为纵横三界的强者。他日仙界重相逢，一声道友尽沧桑。",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

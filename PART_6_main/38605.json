@@ -8,7 +8,7 @@
 		"desc":"扮扮糖集合啦！装扮小姐姐邀你共度秋日午后~",
 		"fan_desc":"装扮小姐姐·秋日午后",
 		"fan_id":"装扮小姐姐·秋日午后",
-		"fan_item_ids":"3",
+		"fan_item_ids":"38555,38602,38603,38604",
 		"fan_mid":"647193094",
 		"fan_no_color":"#666bb9",
 		"fan_recommend_desc":"扮扮糖集合啦！装扮小姐姐邀你共度秋日午后~",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -512,6 +520,6 @@
 	"fan_user":{
 		"mid":647193094,
 		"nickname":"装扮小姐姐",
-		"avatar":"https://i1.hdslb.com/bfs/face/baa15280b6157891427323fab5fbe3e3b42010cf.jpg"
+		"avatar":"https://i1.hdslb.com/bfs/baselabs/523830e526a81001e4c3dcec9f317623a4f1dd2e.png"
 	}
 }

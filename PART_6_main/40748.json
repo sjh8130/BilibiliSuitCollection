@@ -8,7 +8,7 @@
 		"desc":"舞台之星虞莫专属装扮来临！\n本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"虞莫MOMO",
 		"fan_id":"虞莫MOMO",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40579,40581,40582,40583,40584,40585",
 		"fan_mid":"1811071010",
 		"fan_no_color":"#6e3aaf",
 		"fan_recommend_desc":"EOE的舞蹈担当虞莫，旋转跳跃，舞力全开（包括高雅花手）！也是团队的“胆”当，游乐园里鬼屋最镇定的人。热爱舞台，热爱生活，热爱买买买！\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -492,6 +500,6 @@
 	"fan_user":{
 		"mid":1811071010,
 		"nickname":"虞莫MOMO",
-		"avatar":"https://i2.hdslb.com/bfs/face/f00a122c71303a97a4eba81aa2c5b1c8a2a0c700.jpg"
+		"avatar":"https://i2.hdslb.com/bfs/face/c633da9bcebe8f8dfb5a0e5c19a69c5197812583.webp"
 	}
 }

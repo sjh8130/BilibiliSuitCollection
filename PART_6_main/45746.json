@@ -8,7 +8,7 @@
 		"desc":"你也在看星星吗？换上星尘专属春节装扮一起开心过年吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"星尘",
 		"fan_id":"星尘的新年祝福",
-		"fan_item_ids":"4",
+		"fan_item_ids":"45739,45741,45742,45743,45744,45745",
 		"fan_mid":"15817819",
 		"fan_no_color":"#f75856",
 		"fan_recommend_desc":"虚拟歌姬「星尘」是创作企划「五维介质」的一员。星光闪烁，她承载着创作者们的梦想而诞生，给予你踏出“谱写属于你我的世界”第一步的勇气。\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"up"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5360,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

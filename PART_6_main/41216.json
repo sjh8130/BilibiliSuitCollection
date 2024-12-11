@@ -8,7 +8,7 @@
 		"desc":"看起来不太聪明的小怪兽什么都吃！把所有的负能量也都吃掉！此套装包含动态卡片和表情包。购买粉丝套装还有专属粉丝装扮~获取粉丝编号，和小怪兽一起征服宇宙！",
 		"fan_desc":"小怪兽",
 		"fan_id":"小怪兽",
-		"fan_item_ids":"4",
+		"fan_item_ids":"41189,41213,41214,41215",
 		"fan_mid":"1732540672",
 		"fan_no_color":"#4ba698",
 		"fan_recommend_desc":"嗷嗷嗷——小怪兽来啦！人类的世界太有趣啦！尤其是各种好吃的美食！小怪兽没有那么多烦恼，每天都能量满满！我们的目标是统治宇宙！",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

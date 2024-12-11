@@ -8,7 +8,7 @@
 		"desc":"欢迎来到小熊奶黄包的乐园，换上我的专属装扮陪Jenny和Bao bao一起玩耍吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"小熊奶黄包",
 		"fan_id":"小熊奶黄包",
-		"fan_item_ids":"4",
+		"fan_item_ids":"45451,46453,46505,46506",
 		"fan_mid":"550292277",
 		"fan_no_color":"#f37350",
 		"fan_recommend_desc":"欢迎来到小熊奶黄包的乐园，这里有一只叫Baobao的小熊和一只叫Jenny的兔子，期待更多的伙伴喜欢并加入我们！\n",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

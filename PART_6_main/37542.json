@@ -8,7 +8,7 @@
 		"desc":"新选组的替身们，在喧闹中匡正世道的故事即将开幕！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"幕末替身传说",
 		"fan_id":"幕末替身传说",
-		"fan_item_ids":"3",
+		"fan_item_ids":"37508,37538,37539,37540,37543,37544",
 		"fan_mid":"928123",
 		"fan_no_color":"#3daded",
 		"fan_recommend_desc":"在武士统治日本的时代……维持京都治安的新选组被杂面之鬼全灭。于是，七个罪犯被选为了新选组的替身。曾经的罪犯挺身而出，在喧闹中匡正世道的故事即将开幕！",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

@@ -8,7 +8,7 @@
 		"desc":"泠鸢yousa入站十周年啦，感谢一直陪伴的鸟蛋们！在今后我们的故事一起继续书写下去吧！",
 		"fan_desc":"泠鸢yousa十周年",
 		"fan_id":"泠鸢yousa十周年",
-		"fan_item_ids":"3",
+		"fan_item_ids":"38382,38405,38406,38407,38408,38409",
 		"fan_mid":"282994",
 		"fan_no_color":"#f25766",
 		"fan_recommend_desc":"泠鸢yousa，创作型歌手、虚拟艺人。本体是一只品种不详的鸟，爱好唱歌，擅长作词。代表作有《大喜》《还是你的笑容做可爱》《与你有关》等。",
@@ -36,6 +36,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

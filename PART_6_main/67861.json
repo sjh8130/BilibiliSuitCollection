@@ -32,6 +32,14 @@
 		"suit_card_type":"big_img",
 		"type":"ip"
 	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5200,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
+	},
 	"suit_items":{
 		"card":[
 			{
@@ -663,6 +671,6 @@
 	"fan_user":{
 		"mid":171818544,
 		"nickname":"BanGDream梦想协奏曲",
-		"avatar":"https://i0.hdslb.com/bfs/face/3339a2a768390ef12a3f42086c6c25e04c1a0bdb.jpg"
+		"avatar":"https://i0.hdslb.com/bfs/face/64865c4ce2d1062986df14b7f0e8da49b3ee3b02.jpg"
 	}
 }

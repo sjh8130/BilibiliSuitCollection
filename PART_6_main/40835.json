@@ -8,7 +8,7 @@
 		"desc":"结发为夫妻，恩爱两不疑。换上两不疑专属装扮让甜蜜陪伴你左右！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"两不疑第二季",
 		"fan_id":"两不疑第二季",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40751,40771,40772,40777",
 		"fan_mid":"40366262",
 		"fan_no_color":"#f87ba1",
 		"fan_recommend_desc":"原本两看生厌的大辰皇帝和皇后因意外身体互换体会到了彼此的难处，并逐渐开始相知相爱。就在帝后二人克服万难顺利换回身体之后，鞑靼女王突然入宫，朝野上下风云骤起…",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

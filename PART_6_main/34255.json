@@ -8,7 +8,7 @@
 		"desc":"想拥有各式各样的冰冰吗？那就快来领取吧！本套包括动态卡片、点赞动效、专属进度条、加载动画、表情包，心动就快带回家吧！",
 		"fan_desc":"新月冰冰！",
 		"fan_id":"新月冰冰！",
-		"fan_item_ids":"3",
+		"fan_item_ids":"34222,34223,34225,34226,34227,34228",
 		"fan_mid":"3295",
 		"fan_no_color":"#89b747",
 		"fan_recommend_desc":"新月冰冰虚拟人设是14岁（看起来），每天都肝且加班。擅长并热衷于配音，坚持早（上）睡！点击这里和冰冰一起享受爆肝的快乐吧！",
@@ -36,6 +36,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":480,
+		"price_bp_forever":4160,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

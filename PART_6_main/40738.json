@@ -8,7 +8,7 @@
 		"desc":"叮——! 好鸽们，有禽况！文明小鸟芋圆B站限定套装终于上线啦！！快把这只小鸟接回家吧！",
 		"fan_desc":"小鸟芋圆",
 		"fan_id":"小鸟芋圆",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40673,40703,40704,40716",
 		"fan_mid":"1544297163",
 		"fan_no_color":"#a2b1d2",
 		"fan_recommend_desc":"蒜鸟、色禽、菜鸟……小鸟芋圆正式上线！这是一只很有个性的牡丹鹦鹉，它身上到底发生过哪些鸟事儿呢？\n",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

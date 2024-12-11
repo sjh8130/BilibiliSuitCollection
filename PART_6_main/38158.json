@@ -8,7 +8,7 @@
 		"desc":"换上这套战神系统装扮，开启你的开挂修炼人生！",
 		"fan_desc":"靠你啦！战神系统",
 		"fan_id":"靠你啦！战神系统",
-		"fan_item_ids":"3",
+		"fan_item_ids":"38138,38152,38153,38155,38156,38157",
 		"fan_mid":"1292354935",
 		"fan_no_color":"#5c8de0",
 		"fan_recommend_desc":"普通青年安林偶遇强大修行者，对方赠予他一套战神系统，并把他送至灵界修炼。资质平平的安林被辱为“最强关系户”。为洗去污名，安林在系统的帮助下，踏上逆袭之路。\n",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

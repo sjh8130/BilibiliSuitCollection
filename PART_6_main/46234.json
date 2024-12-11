@@ -8,7 +8,7 @@
 		"desc":"谁能拒绝这样一群调皮捣蛋，又可爱萌趣的小黄人呢？2023年，小黄人送上兔年祝福，前兔似锦！快来锁定你的专属粉丝编号吧！",
 		"fan_desc":"小黄人大眼萌",
 		"fan_id":"小黄人大眼萌",
-		"fan_item_ids":"4",
+		"fan_item_ids":"46197,48184,48185,48186",
 		"fan_mid":"494915529",
 		"fan_no_color":"#f6c50d",
 		"fan_share_image":"https://i0.hdslb.com/bfs/garb/item/04b04a6f242584e0eae4642d7014cf718d02dedf.jpg",
@@ -30,6 +30,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -277,6 +285,6 @@
 	"fan_user":{
 		"mid":494915529,
 		"nickname":"环球影业Official",
-		"avatar":"http://i0.hdslb.com/bfs/face/e9c5201acf5bb59b52e96341008743f576fc8811.jpg"
+		"avatar":"https://i0.hdslb.com/bfs/face/9cfaf7d7b210585f94ac830618c7e43be783750d.jpg"
 	}
 }

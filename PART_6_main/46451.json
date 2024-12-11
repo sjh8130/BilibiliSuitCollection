@@ -8,7 +8,7 @@
 		"desc":"是谁拥有着让人感到安心和治愈的力量？是谁在源源不断的制造快乐？没错！就是她！来自0323海域的鲸鱼少女——鲸宝！（好羞耻）",
 		"fan_desc":"希月萌奈",
 		"fan_id":"希月萌奈",
-		"fan_item_ids":"4",
+		"fan_item_ids":"46383,46411,46412,46413,46416,46418",
 		"fan_mid":"591892279",
 		"fan_no_color":"#335ac9",
 		"fan_recommend_desc":"这里是希月，于2021年5月开始活动的治愈系虚拟鲸鱼。一路收获了大家的很多支持与陪伴，谢谢你们！小鲸鱼还在继续成长中，期待与你同行~\n",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"up"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":800,
+		"price_bp_forever":5520,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -479,6 +487,6 @@
 	"fan_user":{
 		"mid":591892279,
 		"nickname":"希月萌奈",
-		"avatar":"https://i1.hdslb.com/bfs/baselabs/af3881a47f8e8b143d2bb1fdd0524d22fb74537a.png"
+		"avatar":"https://i1.hdslb.com/bfs/face/e132078df15d47bab40f911b7cbb01491020ee56.webp"
 	}
 }

@@ -8,7 +8,7 @@
 		"desc":"神仙妖怪在哪里？换上神仙套装一起成为非人哉吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"非人哉",
 		"fan_id":"非人哉",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40837,40863,40864,40865,40866,40867",
 		"fan_mid":"32741563",
 		"fan_no_color":"#89bbc7",
 		"fan_recommend_desc":"中国神话传说中“著名”精怪成为现代生活中有着神仙特色的宅女、暖男、上班族等，上演着搞笑而怪诞的小故事，在我们平凡、忙碌的日常构建了不可思议的的二次元神仙幻境",
@@ -34,6 +34,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

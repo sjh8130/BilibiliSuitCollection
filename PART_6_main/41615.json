@@ -8,7 +8,7 @@
 		"desc":"迎接黑鸦鸦的降临吧！本套装包括动态卡片、点赞动画、表情包和精致的空间粉丝图，永久购买还能成为认证粉丝，领取粉丝专属装扮，想成为黑鸦鸦眷属的你一定不要错过哟！",
 		"fan_desc":"黑鸦鸦",
 		"fan_id":"黑鸦鸦",
-		"fan_item_ids":"4",
+		"fan_item_ids":"41492,41609,41610,41611,41612,41673",
 		"fan_mid":"355143",
 		"fan_no_color":"#5571ff",
 		"fan_recommend_desc":"黑鸦鸦是知名插画师原子Dan所设计的原创角色，本装扮包含了由原子Dan亲自绘制的多款Q版表情包和空间粉丝图，支持你喜欢的画师和角色，就是现在啦~！\n",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

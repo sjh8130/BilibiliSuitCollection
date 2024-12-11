@@ -8,7 +8,7 @@
 		"desc":"出发！目标是——史上最强千从狩！千从狩专属装扮正式上线，一起来为梦想奋斗！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"千从狩",
 		"fan_id":"千从狩",
-		"fan_item_ids":"3",
+		"fan_item_ids":"34373,34374,34375,34376",
 		"fan_mid":"1169340258",
 		"fan_no_color":"#a72de3",
 		"fan_recommend_desc":"来自“华”国的少年千从，是个有印却无法使用言能的哑炮，但即使如此，他也梦想着能成为最强的言能师，并为此进入学城求学，开启了他的不灭人生。",
@@ -36,6 +36,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":560,
+		"price_bp_forever":3600,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

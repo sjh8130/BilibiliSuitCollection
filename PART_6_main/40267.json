@@ -8,7 +8,7 @@
 		"desc":"三团幼稚园开业啦！软软糯糯小三团等你来rua！三团首套个性装扮包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！期待您光临！",
 		"fan_desc":"三团幼稚园",
 		"fan_id":"三团幼稚园",
-		"fan_item_ids":"4",
+		"fan_item_ids":"40234,40264,40265,40266",
 		"fan_mid":"506635212",
 		"fan_no_color":"#e34238",
 		"fan_recommend_desc":"三团幼稚园开始营业啦！全是软软糯糯‘、可可爱爱的萌三团，快来找一起玩耍叭",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

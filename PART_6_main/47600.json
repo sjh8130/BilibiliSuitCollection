@@ -8,7 +8,7 @@
 		"desc":"这累死累活又赚不到的生活实在太让鲨鲨我着迷了，打工人专属装扮来了，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"肥肥鲨打工人",
 		"fan_id":"肥肥鲨打工人",
-		"fan_item_ids":"4",
+		"fan_item_ids":"47568,47596,47597,47599",
 		"fan_mid":"702241647",
 		"fan_no_color":"#6d91ec",
 		"fan_recommend_desc":"肥肥鲨是一只从鲨县来到大城市打工的鲨鱼，好好上班，努力挣钱!",
@@ -35,6 +35,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4000,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -468,7 +476,7 @@
 	},
 	"fan_user":{
 		"mid":702241647,
-		"nickname":"肥肥鲨的日常",
+		"nickname":"肥肥鲨之家",
 		"avatar":"https://i0.hdslb.com/bfs/face/9e85fa517b518a27423e8199ffc6acc10d8a650a.jpg"
 	}
 }

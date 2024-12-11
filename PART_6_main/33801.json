@@ -8,7 +8,7 @@
 		"desc":"喜欢游戏和抽卡的宅女月隐空夜，总是用她热情的尖叫击中观众们的心（和耳朵）！进来先喊一声：月宝天下第一！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"月隐空夜",
 		"fan_id":"月隐空夜",
-		"fan_item_ids":"3",
+		"fan_item_ids":"33771,33796,33797,33798,33799,33800",
 		"fan_mid":"49631892",
 		"fan_no_color":"#d84f88",
 		"fan_recommend_desc":"喜欢游戏和抽卡的宅女月隐空夜，总是用她热情的尖叫击中观众们的心（和耳朵）！进来先喊一声：月宝天下第一！",
@@ -37,6 +37,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4320,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -454,6 +462,6 @@
 	"fan_user":{
 		"mid":49631892,
 		"nickname":"月隐空夜",
-		"avatar":"https://i0.hdslb.com/bfs/face/7d1db38f3e9b1bd02d2323bee418cfb0baa44de5.jpg"
+		"avatar":"https://i0.hdslb.com/bfs/face/cf66f259cf93cf122edc2bea142e69a491e06b5d.jpg"
 	}
 }

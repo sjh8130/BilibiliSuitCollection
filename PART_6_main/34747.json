@@ -8,7 +8,7 @@
 		"desc":"天命之人集结！换上时空之隙专属装扮一起来攻略时空之隙吧！本套装包括动态卡片、点赞动效和表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_desc":"时空之隙",
 		"fan_id":"时空之隙",
-		"fan_item_ids":"3",
+		"fan_item_ids":"34751,34767,34768,34769",
 		"fan_mid":"67378210",
 		"fan_no_color":"#ec403c",
 		"fan_recommend_desc":"现世与异界间因能量不稳定而产生的时空之隙，是身处异界的怪物们通往现世的唯一通道，为了阻挡怪物入侵，现世里，一群拥有特殊体质的天命之人，勇敢地站在时空之隙中",
@@ -36,6 +36,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":560,
+		"price_bp_forever":3120,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[

@@ -8,7 +8,7 @@
 		"desc":"让世界看见你的光！本套装包含动态卡片、点赞特效和表情包，永久购买还能成为认证粉丝，领取粉丝专属套装！一起为2022王者世冠加油吧～",
 		"fan_desc":"2022王者荣耀世冠",
 		"fan_id":"2022王者世冠",
-		"fan_item_ids":"4",
+		"fan_item_ids":"41253,41278,41279,41280,41282,41283",
 		"fan_mid":"392836434",
 		"fan_no_color":"#dbba90",
 		"fan_recommend_desc":"2022年王者荣耀世界冠军杯是王者荣耀赛事体系的最高级别赛事，于11月底开启外卡赛，12月3日开启正赛。欢迎来自全世界的王者荣耀爱好者共同参与这一场盛会。",
@@ -33,6 +33,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":4400,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
@@ -592,6 +600,6 @@
 	"fan_user":{
 		"mid":392836434,
 		"nickname":"哔哩哔哩王者荣耀赛事",
-		"avatar":"https://i0.hdslb.com/bfs/face/df9bb92bae388740db3869a4e2c76448c01e1d0c.jpg"
+		"avatar":"https://i0.hdslb.com/bfs/face/7e6ffb7ba5fe4b4d5ca23b49f7d07e21b4a42fab.jpg"
 	}
 }

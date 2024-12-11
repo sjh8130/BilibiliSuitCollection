@@ -8,7 +8,7 @@
 		"desc":"那些有你陪伴的日子，每一天都是氛围满满的纪念日～#阿狸·冬日来信# 圣诞节彩蛋温暖上线，让我们一同重拾冬日里的种种美好与开心，嗨皮起来吧～",
 		"fan_desc":"阿狸·冬日来信",
 		"fan_id":"阿狸·冬日来信",
-		"fan_item_ids":"4",
+		"fan_item_ids":"43753,43775,43776,43777",
 		"fan_mid":"4486494",
 		"fan_no_color":"#ea5357",
 		"fan_recommend_desc":"阿狸，诞生于2006年，是Hans创作的一只温暖治愈的红色小狐狸。他以哲思和温暖触动人们心底的柔软，让我们面对成长与生活时都能保持不变的童心与热情。",
@@ -33,6 +33,14 @@
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
+	},
+	"next_activity":{
+		"type":"open_platform_vip_discount",
+		"time_limit":true,
+		"price_bp_month":640,
+		"price_bp_forever":2800,
+		"type_month":"open_platform_vip_discount",
+		"time_limit_month":true
 	},
 	"suit_items":{
 		"card":[
