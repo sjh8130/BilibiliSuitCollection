@@ -26,7 +26,7 @@
 		"sale_sku_id_1":"2002405012",
 		"sale_sku_id_2":"2002405011",
 		"sale_time_begin":"1710486000",
-		"sale_time_end":"1734019200",
+		"sale_time_end":"1765555200",
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
@@ -104,19 +104,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[粉米花2_震惊]",
+						"name":"[粉米花2_awsl]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/76285324a4cc0bbceb606e65ca6b52420153a4b3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[粉米花2_裂开]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/da11b2552a2dae3293245e30e3a9044d167c3b69.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0791908e63b758ce9dc6a4ed8ab1d959efa3ea25.png",
 							"sale_type":"pay"
 						}
 					},
@@ -131,10 +122,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[粉米花2_害]",
+						"name":"[粉米花2_不愧是你]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d8c120e369fb04e9b6b7006672a5604b6b635a9e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/bd71786ef76d0d04ea57cef911b2b6d25c447564.png",
 							"sale_type":"pay"
 						}
 					},
@@ -149,10 +140,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[粉米花2_awsl]",
+						"name":"[粉米花2_可以]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0791908e63b758ce9dc6a4ed8ab1d959efa3ea25.png",
+							"image":"https://i0.hdslb.com/bfs/garb/92e4934b0fa7d106fe911c99532908f6cf0d1974.png",
 							"sale_type":"pay"
 						}
 					},
@@ -167,6 +158,24 @@
 					},
 					{
 						"item_id":0,
+						"name":"[粉米花2_害]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d8c120e369fb04e9b6b7006672a5604b6b635a9e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[粉米花2_愣住]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/416de2a84b48c0c5f78527a1af04b28b1b47958d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[粉米花2_我酸了]",
 						"tab_id":0,
 						"properties":{
@@ -176,10 +185,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[粉米花2_可以]",
+						"name":"[粉米花2_揪心]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/92e4934b0fa7d106fe911c99532908f6cf0d1974.png",
+							"image":"https://i0.hdslb.com/bfs/garb/cf908703482715c39247f46aca5c1068c4eb9dbf.png",
 							"sale_type":"pay"
 						}
 					},
@@ -203,28 +212,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[粉米花2_不愧是你]",
+						"name":"[粉米花2_裂开]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bd71786ef76d0d04ea57cef911b2b6d25c447564.png",
+							"image":"https://i0.hdslb.com/bfs/garb/da11b2552a2dae3293245e30e3a9044d167c3b69.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[粉米花2_愣住]",
+						"name":"[粉米花2_震惊]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/416de2a84b48c0c5f78527a1af04b28b1b47958d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[粉米花2_揪心]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cf908703482715c39247f46aca5c1068c4eb9dbf.png",
+							"image":"https://i0.hdslb.com/bfs/garb/76285324a4cc0bbceb606e65ca6b52420153a4b3.png",
 							"sale_type":"pay"
 						}
 					},

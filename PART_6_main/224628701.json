@@ -122,60 +122,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[星星的孩子2.0_掌]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/593cb8ece1bee1af101873e9b4079352fdf9796b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星星的孩子2.0_星星眼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fc9c805f16221cab540b27d6b0ddc69934c8710c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星星的孩子2.0_疑惑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9449a7d566b5e5a6df50106617769ea113dfe533.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星星的孩子2.0_惊艳]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e3ea2a80a0ad319e3b6ea826c7e665e14e84e6d9.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星星的孩子2.0_花束]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/58a40f9a0530d74845fec5a95b9b3e663e11638e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星星的孩子2.0_可怜巴巴]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6eff8938485af4e5704b79918f86804324ba5ab1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[星星的孩子2.0_加油]",
 						"tab_id":0,
 						"properties":{
@@ -194,6 +140,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[星星的孩子2.0_可怜巴巴]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6eff8938485af4e5704b79918f86804324ba5ab1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[星星的孩子2.0_开动]",
 						"tab_id":0,
 						"properties":{
@@ -203,10 +158,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[星星的孩子2.0_痴呆]",
+						"name":"[星星的孩子2.0_惊艳]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a8710b4ac62a4c14e1235b3a6fa85e25c98485ff.png",
+							"image":"https://i0.hdslb.com/bfs/garb/e3ea2a80a0ad319e3b6ea826c7e665e14e84e6d9.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星星的孩子2.0_投降]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b71ecdab457347a4ae7bb6c4927fbe0b88123956.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星星的孩子2.0_掌]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/593cb8ece1bee1af101873e9b4079352fdf9796b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星星的孩子2.0_星星眼]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/fc9c805f16221cab540b27d6b0ddc69934c8710c.png",
 							"sale_type":"pay"
 						}
 					},
@@ -221,10 +203,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[星星的孩子2.0_投降]",
+						"name":"[星星的孩子2.0_疑惑]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b71ecdab457347a4ae7bb6c4927fbe0b88123956.png",
+							"image":"https://i0.hdslb.com/bfs/garb/9449a7d566b5e5a6df50106617769ea113dfe533.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星星的孩子2.0_痴呆]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a8710b4ac62a4c14e1235b3a6fa85e25c98485ff.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星星的孩子2.0_花束]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/58a40f9a0530d74845fec5a95b9b3e663e11638e.png",
 							"sale_type":"pay"
 						}
 					},
@@ -298,6 +298,6 @@
 	"fan_user":{
 		"mid":3493134470220310,
 		"nickname":"京极科技",
-		"avatar":"https://i1.hdslb.com/bfs/face/a7458cc4a694bbf742a33f8065a4c43d63cd971e.jpg"
+		"avatar":"https://i1.hdslb.com/bfs/face/0f0a2291991ead4d857428cd3c54acfbc3622319.jpg"
 	}
 }

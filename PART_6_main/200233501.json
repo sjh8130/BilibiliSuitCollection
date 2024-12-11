@@ -103,42 +103,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[蟑小螂·第二弹_夸颂]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/40033da7cca42a88cbd542be17fd2ab93a3b0bc9.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[蟑小螂·第二弹_诶嘿]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e9b6839141bf746b5654807f8113547e6dbedc1b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[蟑小螂·第二弹_隐忍]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/82ed808a7a3b85c171d8ac295b1501980bc948bb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[蟑小螂·第二弹_投降]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7e532c43f256169bc34c03d67938e818b92f895a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[蟑小螂·第二弹_占领地球]",
 						"tab_id":0,
 						"properties":{
@@ -148,10 +112,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[蟑小螂·第二弹_逃离地球]",
+						"name":"[蟑小螂·第二弹_发红包]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7f1fa77d552ea8d290e8e3efeb241b06e766071a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/5f35118fd3dec00e1e06493250766b06c0cdfb9a.png",
 							"sale_type":"pay"
 						}
 					},
@@ -175,10 +139,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[蟑小螂·第二弹_看戏]",
+						"name":"[蟑小螂·第二弹_夸颂]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/11edaa1eb46dd679bbe0657bc04ffb2dcf8b8a17.png",
+							"image":"https://i0.hdslb.com/bfs/garb/40033da7cca42a88cbd542be17fd2ab93a3b0bc9.png",
 							"sale_type":"pay"
 						}
 					},
@@ -193,19 +157,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[蟑小螂·第二弹_走亲访友]",
+						"name":"[蟑小螂·第二弹_心慌慌]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/43198efd2200319ef49a8816f978ef88633ca1fc.png",
+							"image":"https://i0.hdslb.com/bfs/garb/ae8b46fbf33c93918bb666794736522c7248e8e7.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[蟑小螂·第二弹_发红包]",
+						"name":"[蟑小螂·第二弹_投降]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5f35118fd3dec00e1e06493250766b06c0cdfb9a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/7e532c43f256169bc34c03d67938e818b92f895a.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,19 +184,55 @@
 					},
 					{
 						"item_id":0,
-						"name":"[蟑小螂·第二弹_心慌慌]",
+						"name":"[蟑小螂·第二弹_烧起来了]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ae8b46fbf33c93918bb666794736522c7248e8e7.png",
+							"image":"https://i0.hdslb.com/bfs/garb/8dc906b73d68cefcdabbc4c5d4014ff65a791172.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[蟑小螂·第二弹_烧起来了]",
+						"name":"[蟑小螂·第二弹_看戏]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8dc906b73d68cefcdabbc4c5d4014ff65a791172.png",
+							"image":"https://i0.hdslb.com/bfs/garb/11edaa1eb46dd679bbe0657bc04ffb2dcf8b8a17.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[蟑小螂·第二弹_诶嘿]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e9b6839141bf746b5654807f8113547e6dbedc1b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[蟑小螂·第二弹_走亲访友]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/43198efd2200319ef49a8816f978ef88633ca1fc.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[蟑小螂·第二弹_逃离地球]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7f1fa77d552ea8d290e8e3efeb241b06e766071a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[蟑小螂·第二弹_隐忍]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/82ed808a7a3b85c171d8ac295b1501980bc948bb.png",
 							"sale_type":"pay"
 						}
 					}

@@ -104,6 +104,24 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[见习小魔女1_一点魔法]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/40a07fce9e4deee22a9783c8837d39811a482919.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[见习小魔女1_偷笑]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a7e48eeb4a9c050b217b716d6fc9c08f659b996a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[见习小魔女1_光波]",
 						"tab_id":0,
 						"properties":{
@@ -131,28 +149,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[见习小魔女1_热]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2b55f344559b4f0220f7e79101e5a75e792f7ec1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[见习小魔女1_可爱鬼]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/95bd2f4fe5462c73c00530e1559796cba42d37d7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[见习小魔女1_偷笑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a7e48eeb4a9c050b217b716d6fc9c08f659b996a.png",
 							"sale_type":"pay"
 						}
 					},
@@ -167,55 +167,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[见习小魔女1_查攻略]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e6fc395eca536ef915f9fd90fd40a3ea984be2d0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[见习小魔女1_一点魔法]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/40a07fce9e4deee22a9783c8837d39811a482919.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[见习小魔女1_圣遗魔杖]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ced8e6d7dc3f1867d39f49a4956dfea803a13d28.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[见习小魔女1_黑猫挂件]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1b471eb6d304c5c5c2ba31f1a54c8e88ab15302b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[见习小魔女1_送爱心]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f6bdec763c57e5858b9bf19dddcf6233fa31dc6d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[见习小魔女1_绅士]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/84e84466c9f3c7e98981b24a5f27f24e3b883c05.png",
 							"sale_type":"pay"
 						}
 					},
@@ -230,10 +185,55 @@
 					},
 					{
 						"item_id":0,
+						"name":"[见习小魔女1_查攻略]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e6fc395eca536ef915f9fd90fd40a3ea984be2d0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[见习小魔女1_热]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2b55f344559b4f0220f7e79101e5a75e792f7ec1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[见习小魔女1_绅士]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/84e84466c9f3c7e98981b24a5f27f24e3b883c05.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[见习小魔女1_送爱心]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f6bdec763c57e5858b9bf19dddcf6233fa31dc6d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[见习小魔女1_魔法书]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9acfa2e54633a616db0e12355a716e4457416957.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[见习小魔女1_黑猫挂件]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1b471eb6d304c5c5c2ba31f1a54c8e88ab15302b.png",
 							"sale_type":"pay"
 						}
 					}

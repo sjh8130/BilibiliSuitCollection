@@ -104,82 +104,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[确诊为人机_好饿]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/85226bc17b64208da9bab92b6c4d29bfacb69e34.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[确诊为人机_不解]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/527cd079c327d3c613a029ef0275c81b69d18d6a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[确诊为人机_累]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b77dc4f7dce29214d42c4946764bca63c4c2abe5.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[确诊为人机_NO]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eca2d6440d00a5ed584d9badd8708e79649aab22.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[确诊为人机_放屁]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/455c4c9771521905c82640d4744cbb18e37118d2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[确诊为人机_猫]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fba91e8df64dc679d416a1bbe231bf138abc6fa7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[确诊为人机_无语]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8ce4f8204192382d5c45a30d1225bd4080bd0b77.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[确诊为人机_哈哈]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bb77a599f90332969016d99593259ec81d8d5420.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[确诊为人机_捂脸]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d8373727f393c6fa590f99e3b2c0b8097e333e81.png",
 							"sale_type":"pay"
 						}
 					},
@@ -194,10 +122,55 @@
 					},
 					{
 						"item_id":0,
+						"name":"[确诊为人机_不解]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/527cd079c327d3c613a029ef0275c81b69d18d6a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[确诊为人机_哈哈]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/bb77a599f90332969016d99593259ec81d8d5420.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[确诊为人机_大怒]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/44ef1dd82ffc69eacd0b81e1cad6e0db39a2f88f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[确诊为人机_好饿]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/85226bc17b64208da9bab92b6c4d29bfacb69e34.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[确诊为人机_尊嘟假嘟]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/66f2cd7e7c44b90a038326ac7e20a8c8ed59c005.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[确诊为人机_捂脸]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d8373727f393c6fa590f99e3b2c0b8097e333e81.png",
 							"sale_type":"pay"
 						}
 					},
@@ -212,10 +185,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[确诊为人机_赞]",
+						"name":"[确诊为人机_放屁]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/354d458dcd880999e7990afd3ebd7142729f9dce.png",
+							"image":"https://i0.hdslb.com/bfs/garb/455c4c9771521905c82640d4744cbb18e37118d2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[确诊为人机_无语]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8ce4f8204192382d5c45a30d1225bd4080bd0b77.png",
 							"sale_type":"pay"
 						}
 					},
@@ -230,10 +212,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[确诊为人机_大怒]",
+						"name":"[确诊为人机_猫]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/44ef1dd82ffc69eacd0b81e1cad6e0db39a2f88f.png",
+							"image":"https://i0.hdslb.com/bfs/garb/fba91e8df64dc679d416a1bbe231bf138abc6fa7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[确诊为人机_累]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b77dc4f7dce29214d42c4946764bca63c4c2abe5.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[确诊为人机_赞]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/354d458dcd880999e7990afd3ebd7142729f9dce.png",
 							"sale_type":"pay"
 						}
 					}

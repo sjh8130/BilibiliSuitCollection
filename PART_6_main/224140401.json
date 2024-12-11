@@ -104,15 +104,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[秋_孔雀开屏]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b3697490444304ff8ef054e378d1c48f04d3232a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[秋_吃吃]",
 						"tab_id":0,
 						"properties":{
@@ -131,42 +122,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[秋_牛马]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fb334fcaecff7fee1558009f94cf984d80c60b29.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[秋_晴天娃娃]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e154a7ce89e48f37075b7863940dae0a3fcc7c3d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[秋_我来助你]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2800c9b1847d7b2ae091d654d97a674efa4ea1dd.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[秋_臭美]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a5d45a718a1b69036afe74ee8bd860135da1bc23.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[秋_嗅嗅]",
 						"tab_id":0,
 						"properties":{
@@ -176,37 +131,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[秋_打洞鼠鼠]",
+						"name":"[秋_孔雀开屏]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/38a5a9ffa34cabd573a0c6eeba0ae2a5a36839d4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[秋_邪魅一笑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2314da654f07c03b5510796912d75777374ffa2c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[秋_我吃]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/34a728d771bfd84cf19988b4dd653fe21260706d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[秋_求饭饭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8e07c0d152dcef295035ff2387c598a0cfdc1a11.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b3697490444304ff8ef054e378d1c48f04d3232a.png",
 							"sale_type":"pay"
 						}
 					},
@@ -221,10 +149,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[秋_鬼鬼祟祟]",
+						"name":"[秋_我吃]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/38862a90f2066a4b2e5594716a22947087ed47d7.png",
+							"image":"https://i0.hdslb.com/bfs/garb/34a728d771bfd84cf19988b4dd653fe21260706d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[秋_我来助你]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2800c9b1847d7b2ae091d654d97a674efa4ea1dd.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[秋_打洞鼠鼠]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/38a5a9ffa34cabd573a0c6eeba0ae2a5a36839d4.png",
 							"sale_type":"pay"
 						}
 					},
@@ -234,6 +180,60 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b3e41be947285bbb73eed98dfe7b35289532e3f1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[秋_晴天娃娃]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e154a7ce89e48f37075b7863940dae0a3fcc7c3d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[秋_求饭饭]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8e07c0d152dcef295035ff2387c598a0cfdc1a11.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[秋_牛马]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/fb334fcaecff7fee1558009f94cf984d80c60b29.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[秋_臭美]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a5d45a718a1b69036afe74ee8bd860135da1bc23.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[秋_邪魅一笑]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2314da654f07c03b5510796912d75777374ffa2c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[秋_鬼鬼祟祟]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/38862a90f2066a4b2e5594716a22947087ed47d7.png",
 							"sale_type":"pay"
 						}
 					}

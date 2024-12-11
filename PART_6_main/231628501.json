@@ -104,28 +104,19 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[卡皮巴拉·玩趣冬日_冷]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/080d278890af4495be5056619215d654979d509c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[卡皮巴拉·玩趣冬日_发抖]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/139f23aacd47b0972c0603cea2385eaa1f0ff979.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[卡皮巴拉·玩趣冬日_雪球]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1d967663c6df24700a3e11a7135930bf7b2e97ff.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[卡皮巴拉·玩趣冬日_打雪仗]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c17c44472082c240e330720fe8a001f916623ef7.png",
 							"sale_type":"pay"
 						}
 					},
@@ -140,10 +131,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[卡皮巴拉·玩趣冬日_雪球堆]",
+						"name":"[卡皮巴拉·玩趣冬日_堆雪人豚]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7d7961e025a140fa484e34e06cb8f9d4d0448f01.png",
+							"image":"https://i0.hdslb.com/bfs/garb/161861a47c025f0dae75ef01ae2370d3658062ac.png",
 							"sale_type":"pay"
 						}
 					},
@@ -167,10 +158,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[卡皮巴拉·玩趣冬日_菠萝包]",
+						"name":"[卡皮巴拉·玩趣冬日_打雪仗]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/349b6033d91ce196414c1114fa89e80862830150.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c17c44472082c240e330720fe8a001f916623ef7.png",
 							"sale_type":"pay"
 						}
 					},
@@ -185,19 +176,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[卡皮巴拉·玩趣冬日_堆雪人豚]",
+						"name":"[卡皮巴拉·玩趣冬日_菠萝包]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/161861a47c025f0dae75ef01ae2370d3658062ac.png",
+							"image":"https://i0.hdslb.com/bfs/garb/349b6033d91ce196414c1114fa89e80862830150.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[卡皮巴拉·玩趣冬日_饺子]",
+						"name":"[卡皮巴拉·玩趣冬日_雪球]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f7baafd571433616b8c238d3ef92b8170dc6ea04.png",
+							"image":"https://i0.hdslb.com/bfs/garb/1d967663c6df24700a3e11a7135930bf7b2e97ff.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[卡皮巴拉·玩趣冬日_雪球堆]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7d7961e025a140fa484e34e06cb8f9d4d0448f01.png",
 							"sale_type":"pay"
 						}
 					},
@@ -207,6 +207,15 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e36cf4c4d029629671d30c6fe19ed799945e60f4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[卡皮巴拉·玩趣冬日_饺子]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f7baafd571433616b8c238d3ef92b8170dc6ea04.png",
 							"sale_type":"pay"
 						}
 					},
@@ -225,15 +234,6 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/493ea7f8d64193561ca534c072b45d494c5e12aa.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[卡皮巴拉·玩趣冬日_冷]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/080d278890af4495be5056619215d654979d509c.png",
 							"sale_type":"pay"
 						}
 					}

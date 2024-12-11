@@ -105,37 +105,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[Q版猪猪侠_我发誓]",
+						"name":"[Q版猪猪侠_down机]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/08a72d27f710db5659ad09b8e99f37e25497bc86.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Q版猪猪侠_送你棒棒糖]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4da14cd3cfc3f7fcb56dc9ef11fc56330a180f41.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Q版猪猪侠_哇]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/292d731de6be7f89df4d945dee8f102f624221ab.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Q版猪猪侠_吸欧气]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d66c722088443fd7a282ff7ed3a8406222e4b5c1.png",
+							"image":"https://i0.hdslb.com/bfs/garb/1133382112572b8e1358a72352e17361ad62bfca.png",
 							"sale_type":"pay"
 						}
 					},
@@ -150,46 +123,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[Q版猪猪侠_哼]",
+						"name":"[Q版猪猪侠_停]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fdda7e681ae36815947ce7ff02eb1b64a0635a9b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Q版猪猪侠_强作镇定]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cfab7395c9626324bdf487af6415cee35df62680.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Q版猪猪侠_谢谢老板]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/609b7cd5e122256237d67662f0d587884fda8973.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Q版猪猪侠_忙着赚钱]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f9f0b9e0f865681ba7c296f68705a7d945d44913.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Q版猪猪侠_躺平]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/71476ec7c5a8803806e1b6ff522f771d265d3e4e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/5458f7673c7f4ed3859153324be45fb2d29c4271.png",
 							"sale_type":"pay"
 						}
 					},
@@ -204,10 +141,91 @@
 					},
 					{
 						"item_id":0,
+						"name":"[Q版猪猪侠_吸欧气]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d66c722088443fd7a282ff7ed3a8406222e4b5c1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Q版猪猪侠_哇]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/292d731de6be7f89df4d945dee8f102f624221ab.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Q版猪猪侠_哼]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/fdda7e681ae36815947ce7ff02eb1b64a0635a9b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[Q版猪猪侠_唉]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1b4881eedef9ccaa748191e3fb8c9e30e4a30f16.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Q版猪猪侠_头大]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8ee1a9c6591613a006f335f0748662797983cda2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Q版猪猪侠_强作镇定]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cfab7395c9626324bdf487af6415cee35df62680.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Q版猪猪侠_忙着赚钱]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f9f0b9e0f865681ba7c296f68705a7d945d44913.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Q版猪猪侠_我不困]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cf6349bfa06a91fbaf264a3c795a6dccdad2f888.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Q版猪猪侠_我发誓]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/08a72d27f710db5659ad09b8e99f37e25497bc86.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Q版猪猪侠_我没逝]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9d9ee37537784f941d2bb1303ce06863d56ff252.png",
 							"sale_type":"pay"
 						}
 					},
@@ -231,55 +249,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[Q版猪猪侠_down机]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1133382112572b8e1358a72352e17361ad62bfca.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Q版猪猪侠_头大]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8ee1a9c6591613a006f335f0748662797983cda2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Q版猪猪侠_我没逝]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9d9ee37537784f941d2bb1303ce06863d56ff252.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Q版猪猪侠_停]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5458f7673c7f4ed3859153324be45fb2d29c4271.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Q版猪猪侠_我不困]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cf6349bfa06a91fbaf264a3c795a6dccdad2f888.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[Q版猪猪侠_紧张]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b5b69a81bcff0ad11b254448de9e6a2442da5b5d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Q版猪猪侠_谢谢老板]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/609b7cd5e122256237d67662f0d587884fda8973.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Q版猪猪侠_躺平]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/71476ec7c5a8803806e1b6ff522f771d265d3e4e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Q版猪猪侠_送你棒棒糖]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4da14cd3cfc3f7fcb56dc9ef11fc56330a180f41.png",
 							"sale_type":"pay"
 						}
 					}
