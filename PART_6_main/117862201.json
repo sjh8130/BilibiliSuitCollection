@@ -7,7 +7,7 @@
 	"properties":{
 		"desc":"期待夏天桃子汽水一样的心动",
 		"fan_id":"117862201",
-		"fan_item_ids":"1687869963001,1687869202001,1687867038001,1687868922001",
+		"fan_item_ids":"1687867038001,1687868922001,1687869202001,1687869963001",
 		"fan_mid":"3493131450321632",
 		"fan_share_image":"https://i0.hdslb.com/bfs/garb/a53a67fdce90875d242c54ede3b97d8125b4cfcc.png",
 		"image_cover":"https://i0.hdslb.com/bfs/garb/d1e118906705a6309b8b10307cdad9a4114a6538.png",
@@ -33,6 +33,20 @@
 	"suit_items":{
 		"card":[
 			{
+				"item_id":1687866989001,
+				"name":"陶芝芝·七月沙滩派对装扮",
+				"tab_id":0,
+				"suit_item_id":117862201,
+				"properties":{
+					"fan_no_color":"#ED7096",
+					"fans_image":"https://i0.hdslb.com/bfs/garb/a4be7a228f95172a0bdb3d84a97e510a67b3c626.png",
+					"fans_material_id":"1687869963001",
+					"goods_type":"suit",
+					"image":"https://i0.hdslb.com/bfs/garb/4579129021e9d6e94d9ddd7be14d5c85f8942909.png",
+					"sale_type":"other"
+				}
+			},
+			{
 				"item_id":1687869963001,
 				"name":"陶芝芝·七月沙滩派对装扮粉丝",
 				"tab_id":0,
@@ -44,20 +58,6 @@
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a4be7a228f95172a0bdb3d84a97e510a67b3c626.png",
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/392f90ae98be5d19dfcacff3b2224a0068522a1e.png",
-					"sale_type":"other"
-				}
-			},
-			{
-				"item_id":1687866989001,
-				"name":"陶芝芝·七月沙滩派对装扮",
-				"tab_id":0,
-				"suit_item_id":117862201,
-				"properties":{
-					"fan_no_color":"#ED7096",
-					"fans_image":"https://i0.hdslb.com/bfs/garb/a4be7a228f95172a0bdb3d84a97e510a67b3c626.png",
-					"fans_material_id":"1687869963001",
-					"goods_type":"suit",
-					"image":"https://i0.hdslb.com/bfs/garb/4579129021e9d6e94d9ddd7be14d5c85f8942909.png",
 					"sale_type":"other"
 				}
 			}

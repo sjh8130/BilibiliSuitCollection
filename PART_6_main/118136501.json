@@ -7,7 +7,7 @@
 	"properties":{
 		"desc":"承影 浮生若梦个性装扮",
 		"fan_id":"118136501",
-		"fan_item_ids":"1688098245001,1688097910002,1688480017001,1688098298001",
+		"fan_item_ids":"1688097910002,1688098245001,1688098298001,1688480017001",
 		"fan_mid":"3493261228378998",
 		"fan_share_image":"https://i0.hdslb.com/bfs/garb/31d30b2c492b6148a2d2c330d0afbb88d10f8e24.png",
 		"image_cover":"https://i0.hdslb.com/bfs/garb/0666ca1ee115a5bfe60974ab4bc8c4f6c79f5308.jpg",
@@ -33,6 +33,20 @@
 	"suit_items":{
 		"card":[
 			{
+				"item_id":1688097910001,
+				"name":"承影浮生若梦",
+				"tab_id":0,
+				"suit_item_id":118136501,
+				"properties":{
+					"fan_no_color":"#A44BFF",
+					"fans_image":"https://i0.hdslb.com/bfs/garb/e6521257db015900706c5b48cd07c22b9556bf06.png",
+					"fans_material_id":"1688097910002",
+					"goods_type":"suit",
+					"image":"https://i0.hdslb.com/bfs/garb/4a712dc57001201a07d1bbb516845ba524e27927.png",
+					"sale_type":"other"
+				}
+			},
+			{
 				"item_id":1688097910002,
 				"name":"承影浮生若梦粉丝",
 				"tab_id":0,
@@ -44,20 +58,6 @@
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e6521257db015900706c5b48cd07c22b9556bf06.png",
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/e35b39c5676082ef6d7541733eb13ff7d4203f03.png",
-					"sale_type":"other"
-				}
-			},
-			{
-				"item_id":1688097910001,
-				"name":"承影浮生若梦",
-				"tab_id":0,
-				"suit_item_id":118136501,
-				"properties":{
-					"fan_no_color":"#A44BFF",
-					"fans_image":"https://i0.hdslb.com/bfs/garb/e6521257db015900706c5b48cd07c22b9556bf06.png",
-					"fans_material_id":"1688097910002",
-					"goods_type":"suit",
-					"image":"https://i0.hdslb.com/bfs/garb/4a712dc57001201a07d1bbb516845ba524e27927.png",
 					"sale_type":"other"
 				}
 			}
