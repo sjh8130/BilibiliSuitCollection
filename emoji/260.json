@@ -20,16 +20,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"？"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":4318,
@@ -41,16 +37,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"BAN"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":4319,
@@ -62,16 +54,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"不知道"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":4320,
@@ -83,16 +71,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"打call"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":4321,
@@ -104,16 +88,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"打工"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":4322,
@@ -125,16 +105,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"打游戏"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":4323,
@@ -146,16 +122,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"得意"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":4324,
@@ -167,16 +139,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"古守空港"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":4325,
@@ -188,16 +156,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"好耶"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":4326,
@@ -209,16 +173,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"寂寞"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":4327,
@@ -230,16 +190,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"摸鱼"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":4328,
@@ -251,16 +207,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"睡大觉"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":4329,
@@ -272,16 +224,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"嗦面"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":4330,
@@ -293,16 +241,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"通宵"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":4331,
@@ -314,23 +258,17 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"早上好"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		}
 	],
 	"flags":{
 		"no_access":true
 	},
-	"label":null,
-	"package_sub_title":"",
 	"ref_mid":0,
 	"resource_type":0
 }

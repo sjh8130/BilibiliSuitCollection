@@ -20,16 +20,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"点赞"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2392,
@@ -41,16 +37,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"得意"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2393,
@@ -62,16 +54,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"花手"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2394,
@@ -83,16 +71,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"懵逼"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2395,
@@ -104,16 +88,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"妙啊"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2396,
@@ -125,16 +105,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"过分了"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2397,
@@ -146,16 +122,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"我装的"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2398,
@@ -167,16 +139,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"无话可说"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2399,
@@ -188,16 +156,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"这题不会"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2400,
@@ -209,23 +173,17 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"我哭了"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		}
 	],
 	"flags":{
 		"no_access":true
 	},
-	"label":null,
-	"package_sub_title":"",
 	"ref_mid":0,
 	"resource_type":0
 }

@@ -20,16 +20,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"闭嘴"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2855,
@@ -41,16 +37,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"吃"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2856,
@@ -62,16 +54,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"喝饮料"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2857,
@@ -83,16 +71,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"奸笑"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2858,
@@ -104,16 +88,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"哭笑"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2859,
@@ -125,16 +105,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"怒骂"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2860,
@@ -146,16 +122,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"丧"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2861,
@@ -167,16 +139,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"睡"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2862,
@@ -188,16 +156,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"调皮"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":2863,
@@ -209,23 +173,17 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"笑"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		}
 	],
 	"flags":{
 		"no_access":true
 	},
-	"label":null,
-	"package_sub_title":"",
 	"ref_mid":0,
 	"resource_type":0
 }

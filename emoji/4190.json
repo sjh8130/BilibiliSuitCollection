@@ -20,16 +20,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"吃"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59569,
@@ -41,16 +37,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"出发"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59570,
@@ -62,16 +54,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"出去玩"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59571,
@@ -83,16 +71,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"打卡"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59572,
@@ -104,16 +88,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"饿了"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59573,
@@ -125,16 +105,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"干杯"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59574,
@@ -146,16 +122,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"累了"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59575,
@@ -167,16 +139,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"迷路"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59576,
@@ -188,16 +156,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"拍照"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59577,
@@ -209,16 +173,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"热"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59578,
@@ -230,16 +190,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"我来啦"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59579,
@@ -251,16 +207,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"谢谢"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59580,
@@ -272,16 +224,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"悠闲"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59581,
@@ -293,16 +241,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"再见"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59582,
@@ -314,16 +258,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"赞"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":59583,
@@ -335,23 +275,17 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"找路"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		}
 	],
 	"flags":{
 		"no_access":true
 	},
-	"label":null,
-	"package_sub_title":"",
 	"ref_mid":0,
 	"resource_type":0
 }

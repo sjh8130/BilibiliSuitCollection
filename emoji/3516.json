@@ -20,16 +20,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"超车"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":48378,
@@ -41,16 +37,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"冲刺！"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":48379,
@@ -62,16 +54,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"急刹"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":48380,
@@ -83,16 +71,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"加速"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":48381,
@@ -104,16 +88,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"禁止暴走"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":48382,
@@ -125,16 +105,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"轮胎"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":48383,
@@ -146,16 +122,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"灭灭火"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":48384,
@@ -167,16 +139,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"碰"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":48385,
@@ -188,16 +156,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"漂移"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":48386,
@@ -209,16 +173,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"赛车"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":48387,
@@ -230,16 +190,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"上车"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":48388,
@@ -251,16 +207,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"速度与激情"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":48389,
@@ -272,16 +224,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"停车"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":48390,
@@ -293,16 +241,12 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"印记"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		},
 		{
 			"id":48391,
@@ -314,23 +258,17 @@
 			"attr":0,
 			"meta":{
 				"size":2,
-				"suggest":[
-					""
-				],
 				"alias":"危险"
 			},
 			"flags":{
 				"no_access":true,
 				"unlocked":false
-			},
-			"activity":null
+			}
 		}
 	],
 	"flags":{
 		"no_access":true
 	},
-	"label":null,
-	"package_sub_title":"",
 	"ref_mid":0,
 	"resource_type":0
 }
