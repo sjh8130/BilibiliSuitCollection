@@ -2,7 +2,7 @@
 	"id":53,
 	"text":"热词系列一",
 	"url":"https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
-	"mtime":1727797693,
+	"mtime":1736149596,
 	"type":1,
 	"attr":2,
 	"meta":{
@@ -1111,6 +1111,20 @@
 			"meta":{
 				"size":2,
 				"alias":"上任鹅城"
+			}
+		},
+		{
+			"id":98064,
+			"package_id":53,
+			"text":"[热词系列_并不简单]",
+			"url":"https://i0.hdslb.com/bfs/emote/1a0412b86b71f6488fddda0536e2df631f555cd3.png",
+			"mtime":1734923176,
+			"type":8,
+			"meta":{
+				"size":2,
+				"label_text":"限时",
+				"label_color":"#FF20AAe2",
+				"alias":"并不简单"
 			}
 		}
 	]
