@@ -112,42 +112,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[不安全出口_打飞]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f0ade7a5f093ba7572df675df0a4fe1ad31dd14c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[不安全出口_尊嘟假嘟]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6dfdcfe20a8430edaa4d8892e788c1f3162b5b43.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[不安全出口_封口]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0e274f825e01974e64c296b9525ab192065aa7ac.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[不安全出口_微笑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e77170d9cf67480c1ad633514c3ad173092929c5.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[不安全出口_别走]",
 						"tab_id":0,
 						"properties":{
@@ -175,28 +139,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[不安全出口_捂嘴]",
+						"name":"[不安全出口_封口]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/041f652c6aec971b4bae9201536f19d7584fecb1.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0e274f825e01974e64c296b9525ab192065aa7ac.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[不安全出口_电摇达人]",
+						"name":"[不安全出口_尊嘟假嘟]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6406f790f9556bf9a6206eec120d4611220ba05e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/6dfdcfe20a8430edaa4d8892e788c1f3162b5b43.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[不安全出口_拒绝]",
+						"name":"[不安全出口_微笑]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/48146272305774f5ee1e29e27e678ecd510dff91.png",
+							"image":"https://i0.hdslb.com/bfs/garb/e77170d9cf67480c1ad633514c3ad173092929c5.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[不安全出口_打飞]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f0ade7a5f093ba7572df675df0a4fe1ad31dd14c.png",
 							"sale_type":"pay"
 						}
 					},
@@ -211,10 +184,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[不安全出口_说谎长鼻子]",
+						"name":"[不安全出口_拒绝]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/07a5572f4e622daff3ad717e15ddce1718d6736d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/48146272305774f5ee1e29e27e678ecd510dff91.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[不安全出口_捂嘴]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/041f652c6aec971b4bae9201536f19d7584fecb1.png",
 							"sale_type":"pay"
 						}
 					},
@@ -229,10 +211,28 @@
 					},
 					{
 						"item_id":0,
+						"name":"[不安全出口_电摇达人]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6406f790f9556bf9a6206eec120d4611220ba05e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[不安全出口_看拳]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/11c37b1e6f67fe15e69aafbb0fe9c4627cf7fb0b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[不安全出口_说谎长鼻子]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/07a5572f4e622daff3ad717e15ddce1718d6736d.png",
 							"sale_type":"pay"
 						}
 					}

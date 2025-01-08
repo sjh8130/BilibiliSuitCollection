@@ -104,19 +104,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[文真则_就这]",
+						"name":"[文真则_典]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/42f719d8e807583165fa7f575cd184eab95303e6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[文真则_盒武器]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a91f9ff031f2764f251368ae04838ae68ef3cf68.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c4e6fb3899c0e02bfb4f3577ce4ba07f73f54016.png",
 							"sale_type":"pay"
 						}
 					},
@@ -131,42 +122,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[文真则_典]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c4e6fb3899c0e02bfb4f3577ce4ba07f73f54016.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[文真则_车呢？]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2047754fa229f6026d5ae88d31abc70471bb8cf0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[文真则_憋笑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5aa1b5893418e91c3181003441d0646ea0f3e22b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[文真则_流汗]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/62f114c0520a228749c6a788403be8b6259bc6f7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[文真则_小丑]",
 						"tab_id":0,
 						"properties":{
@@ -176,37 +131,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[文真则_我全都要]",
+						"name":"[文真则_就这]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9cdc59b816f48d9d2ccb68670f68f7c54e6681f3.png",
+							"image":"https://i0.hdslb.com/bfs/garb/42f719d8e807583165fa7f575cd184eab95303e6.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[文真则_文带逛]",
+						"name":"[文真则_微笑]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/817a03880f4e8003a16b072ea9bfd79ce570d67a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[文真则_投降]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9af15524894e88cb77518679148c2ae81e3072d4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[文真则_顺从]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d5b26376b2e3623ab8f6228667abb5ec16c498e4.png",
+							"image":"https://i0.hdslb.com/bfs/garb/6a2c730dd53ab63cbcb7f36540f826b8c4b6c7d5.png",
 							"sale_type":"pay"
 						}
 					},
@@ -221,6 +158,60 @@
 					},
 					{
 						"item_id":0,
+						"name":"[文真则_憋笑]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5aa1b5893418e91c3181003441d0646ea0f3e22b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[文真则_我全都要]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9cdc59b816f48d9d2ccb68670f68f7c54e6681f3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[文真则_投降]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9af15524894e88cb77518679148c2ae81e3072d4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[文真则_文带逛]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/817a03880f4e8003a16b072ea9bfd79ce570d67a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[文真则_流汗]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/62f114c0520a228749c6a788403be8b6259bc6f7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[文真则_盒武器]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a91f9ff031f2764f251368ae04838ae68ef3cf68.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[文真则_老司机]",
 						"tab_id":0,
 						"properties":{
@@ -230,10 +221,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[文真则_微笑]",
+						"name":"[文真则_车呢？]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6a2c730dd53ab63cbcb7f36540f826b8c4b6c7d5.png",
+							"image":"https://i0.hdslb.com/bfs/garb/2047754fa229f6026d5ae88d31abc70471bb8cf0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[文真则_顺从]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d5b26376b2e3623ab8f6228667abb5ec16c498e4.png",
 							"sale_type":"pay"
 						}
 					}

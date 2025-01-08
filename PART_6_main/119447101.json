@@ -112,10 +112,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[多巴胺脸脸_指]",
+						"name":"[多巴胺脸脸_吓]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b4dc75f48f08828fe3d6bf400cc93c12427295ae.png",
+							"image":"https://i0.hdslb.com/bfs/garb/546f78307fa7e79f39e7c8f844ab8f92f7b9e5c3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[多巴胺脸脸_囧]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/de96b4fd7df8557538828ab66ff6cb2d05a6b545.png",
 							"sale_type":"pay"
 						}
 					},
@@ -139,10 +148,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[多巴胺脸脸_黑化]",
+						"name":"[多巴胺脸脸_干瞪眼]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/80a648f6a930c025c8bbefe65bec14194d0f8ab2.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b5e8965ec6eecfc19b9beb9b4af3d58fae7022b7.png",
 							"sale_type":"pay"
 						}
 					},
@@ -157,37 +166,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[多巴胺脸脸_耶]",
+						"name":"[多巴胺脸脸_指]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c1811a741f5dd4979748cda7d4aea4df4122ed3c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[多巴胺脸脸_吓]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/546f78307fa7e79f39e7c8f844ab8f92f7b9e5c3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[多巴胺脸脸_干瞪眼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b5e8965ec6eecfc19b9beb9b4af3d58fae7022b7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[多巴胺脸脸_裂开]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/77ebe275677e8dd727731e371372b36067dc7fe1.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b4dc75f48f08828fe3d6bf400cc93c12427295ae.png",
 							"sale_type":"pay"
 						}
 					},
@@ -211,10 +193,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[多巴胺脸脸_囧]",
+						"name":"[多巴胺脸脸_累瘫]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/de96b4fd7df8557538828ab66ff6cb2d05a6b545.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b77fbdb8ec364c0da8b31a8c1afe5467761cd238.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[多巴胺脸脸_耶]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c1811a741f5dd4979748cda7d4aea4df4122ed3c.png",
 							"sale_type":"pay"
 						}
 					},
@@ -229,10 +220,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[多巴胺脸脸_累瘫]",
+						"name":"[多巴胺脸脸_裂开]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b77fbdb8ec364c0da8b31a8c1afe5467761cd238.png",
+							"image":"https://i0.hdslb.com/bfs/garb/77ebe275677e8dd727731e371372b36067dc7fe1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[多巴胺脸脸_黑化]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/80a648f6a930c025c8bbefe65bec14194d0f8ab2.png",
 							"sale_type":"pay"
 						}
 					}

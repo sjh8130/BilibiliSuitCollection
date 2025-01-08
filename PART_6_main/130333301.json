@@ -121,28 +121,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[秋天快乐_维持秩序]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d052c615a30cfdce3fcbbb639f4b0c1c95711a36.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[秋天快乐_溜了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d8c2a380b11dafb1d8f9da2ec852b0de7a0050d6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[秋天快乐_丰收啦]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fca3d30b83a6a07c7e660bc6136c3fb83b1648c9.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[秋天快乐_乐]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4d51d626e772160226ab048a6b0a8a87f9c52ce6.png",
 							"sale_type":"pay"
 						}
 					},
@@ -166,37 +157,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[秋天快乐_电子哈基米]",
+						"name":"[秋天快乐_啊]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/61e0ab205d60f6b756071826efd6407d91460d77.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[秋天快乐_苦读]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d4efba59991ad7be4802b68e786b1954430a4f21.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[秋天快乐_晚安喵]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/af123a09978262776bfb8e22a5310fed288a2ce0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[秋天快乐_秋]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/00b6660cd366e057c35bde68f03883922d5e4f0a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c1f231161dcb4394c126920c879cc53af4725132.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,19 +184,55 @@
 					},
 					{
 						"item_id":0,
-						"name":"[秋天快乐_乐]",
+						"name":"[秋天快乐_晚安喵]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4d51d626e772160226ab048a6b0a8a87f9c52ce6.png",
+							"image":"https://i0.hdslb.com/bfs/garb/af123a09978262776bfb8e22a5310fed288a2ce0.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[秋天快乐_啊]",
+						"name":"[秋天快乐_溜了]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c1f231161dcb4394c126920c879cc53af4725132.png",
+							"image":"https://i0.hdslb.com/bfs/garb/d8c2a380b11dafb1d8f9da2ec852b0de7a0050d6.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[秋天快乐_电子哈基米]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/61e0ab205d60f6b756071826efd6407d91460d77.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[秋天快乐_秋]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/00b6660cd366e057c35bde68f03883922d5e4f0a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[秋天快乐_维持秩序]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d052c615a30cfdce3fcbbb639f4b0c1c95711a36.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[秋天快乐_苦读]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d4efba59991ad7be4802b68e786b1954430a4f21.png",
 							"sale_type":"pay"
 						}
 					}

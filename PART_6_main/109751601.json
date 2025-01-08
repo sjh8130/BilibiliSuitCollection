@@ -104,10 +104,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[露比的裁缝铺_我裂开了]",
+						"name":"[露比的裁缝铺_修理你]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0112ca3253a95621977c9c8d525ae5ae70de4082.png",
+							"image":"https://i0.hdslb.com/bfs/garb/02c396c8ae6635f8f796c9aff7a656b1c56d9d76.png",
 							"sale_type":"pay"
 						}
 					},
@@ -140,33 +140,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[露比的裁缝铺_背刺你]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1705d96a7d5a5f09665f247e135c655ecab61b14.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[露比的裁缝铺_累辽]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/458e21e2568ae56cdea8dba84b8c7d98a12e96fa.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[露比的裁缝铺_修理你]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/02c396c8ae6635f8f796c9aff7a656b1c56d9d76.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[露比的裁缝铺_恐吓]",
 						"tab_id":0,
 						"properties":{
@@ -176,10 +149,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[露比的裁缝铺_让我听听]",
+						"name":"[露比的裁缝铺_我裂开了]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/379232812e4006d49405429480b7051062983524.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0112ca3253a95621977c9c8d525ae5ae70de4082.png",
 							"sale_type":"pay"
 						}
 					},
@@ -189,6 +162,15 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a4228c17904a61b6e9fafd796cf54028b4019882.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[露比的裁缝铺_拳打棉花]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0e285a9441d9e58fae7a97378ff3c7bcbd1036f2.png",
 							"sale_type":"pay"
 						}
 					},
@@ -212,15 +194,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[露比的裁缝铺_灰头土脸]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/94d3d53c10850a2be51f4f4ae76e841b72d5da03.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[露比的裁缝铺_没眼看]",
 						"tab_id":0,
 						"properties":{
@@ -230,10 +203,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[露比的裁缝铺_拳打棉花]",
+						"name":"[露比的裁缝铺_灰头土脸]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0e285a9441d9e58fae7a97378ff3c7bcbd1036f2.png",
+							"image":"https://i0.hdslb.com/bfs/garb/94d3d53c10850a2be51f4f4ae76e841b72d5da03.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[露比的裁缝铺_累辽]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/458e21e2568ae56cdea8dba84b8c7d98a12e96fa.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[露比的裁缝铺_背刺你]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1705d96a7d5a5f09665f247e135c655ecab61b14.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[露比的裁缝铺_让我听听]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/379232812e4006d49405429480b7051062983524.png",
 							"sale_type":"pay"
 						}
 					}

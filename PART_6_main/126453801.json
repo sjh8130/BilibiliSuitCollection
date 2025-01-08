@@ -113,46 +113,19 @@
 					},
 					{
 						"item_id":0,
+						"name":"[穿靴子的猫_ok]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/348a27edfd9b902caf74764aad50664b4678a912.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[穿靴子的猫_wow]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0522e2f742f22f1a3ad8aecaa8a8784d7f89560e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[穿靴子的猫_疑惑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ad4b3b268b3d5d5ac34ee0b764c9358dc94e5d69.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[穿靴子的猫_哭哭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d63f90a4a501c7429f4ea0f3d777c6595311269b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[穿靴子的猫_惊]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/44dfba69f1e492bd14a720621f397df33dbbf048.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[穿靴子的猫_谢谢]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b3f4026b48454342b8f414b0bff2f783baa6b001.png",
 							"sale_type":"pay"
 						}
 					},
@@ -167,6 +140,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[穿靴子的猫_哭哭]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d63f90a4a501c7429f4ea0f3d777c6595311269b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[穿靴子的猫_哼]",
 						"tab_id":0,
 						"properties":{
@@ -176,10 +158,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[穿靴子的猫_赞]",
+						"name":"[穿靴子的猫_嗯嗯]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d67ac8ccdaf12646203796181bb05d507e6fcff3.png",
+							"image":"https://i0.hdslb.com/bfs/garb/fcc85c489558360e51e16470d86771aa1a2e878e.png",
 							"sale_type":"pay"
 						}
 					},
@@ -194,10 +176,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[穿靴子的猫_ok]",
+						"name":"[穿靴子的猫_惊]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/348a27edfd9b902caf74764aad50664b4678a912.png",
+							"image":"https://i0.hdslb.com/bfs/garb/44dfba69f1e492bd14a720621f397df33dbbf048.png",
 							"sale_type":"pay"
 						}
 					},
@@ -207,15 +189,6 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a09097ab5a4cc89a98333d7afc2e5105c4f306d4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[穿靴子的猫_嗯嗯]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fcc85c489558360e51e16470d86771aa1a2e878e.png",
 							"sale_type":"pay"
 						}
 					},
@@ -234,6 +207,33 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ff6dc9bcc94025342a536a3ac634fc253cc19425.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[穿靴子的猫_疑惑]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ad4b3b268b3d5d5ac34ee0b764c9358dc94e5d69.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[穿靴子的猫_谢谢]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b3f4026b48454342b8f414b0bff2f783baa6b001.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[穿靴子的猫_赞]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d67ac8ccdaf12646203796181bb05d507e6fcff3.png",
 							"sale_type":"pay"
 						}
 					}

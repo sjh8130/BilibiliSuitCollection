@@ -113,28 +113,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[柴柴的日常_凭什么]",
+						"name":"[柴柴的日常_休息一下]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3caf85dd857f7ec036dc5af1046b9987febb5680.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[柴柴的日常_好想逃]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a5fb24aaf15e08ad435bdfd4a4926ff36c622e63.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[柴柴的日常_救救我]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fe680687ad7451deebe88bfe8be8a253bc8d49ae.png",
+							"image":"https://i0.hdslb.com/bfs/garb/f97cedb4d605115fe179fce9c15a359f007b365f.png",
 							"sale_type":"pay"
 						}
 					},
@@ -158,37 +140,55 @@
 					},
 					{
 						"item_id":0,
-						"name":"[柴柴的日常_我好忙]",
+						"name":"[柴柴的日常_先走一步]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/31c4b3e4fd2e8b7bfdbd73130502d7f0a64e1d87.png",
+							"image":"https://i0.hdslb.com/bfs/garb/4a8a25ca09831874d50f387db34ab2ac516a4e10.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[柴柴的日常_迷惑]",
+						"name":"[柴柴的日常_冲呀]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/73942da3603eebe8f94e727048c62497548582e1.png",
+							"image":"https://i0.hdslb.com/bfs/garb/4f6462a03726c7dc0b2cd84622f6aa9f96a9c2d2.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[柴柴的日常_嘻嘻嘻]",
+						"name":"[柴柴的日常_凭什么]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/07f3a12474d426abcc94e1c9e4b29b062df6ffe6.png",
+							"image":"https://i0.hdslb.com/bfs/garb/3caf85dd857f7ec036dc5af1046b9987febb5680.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[柴柴的日常_成交]",
+						"name":"[柴柴的日常_哈啰]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/327f0f3ec9915b420cca2516e8b7d1a7b6e40844.png",
+							"image":"https://i0.hdslb.com/bfs/garb/7690b88f96c25415bbf909f36c212e2b38d3a483.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[柴柴的日常_啊对对对]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0f620ac949c3d3efa53586dfbfb6b0768eca95ca.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[柴柴的日常_啪]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/07ac51bbfb13c5d942b2a2536e26ec77d1ecbb52.png",
 							"sale_type":"pay"
 						}
 					},
@@ -203,10 +203,46 @@
 					},
 					{
 						"item_id":0,
-						"name":"[柴柴的日常_离谱]",
+						"name":"[柴柴的日常_嘻嘻嘻]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/675e0b6629d1ff5b6f5c970a01ed448cf4701751.png",
+							"image":"https://i0.hdslb.com/bfs/garb/07f3a12474d426abcc94e1c9e4b29b062df6ffe6.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[柴柴的日常_好想逃]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a5fb24aaf15e08ad435bdfd4a4926ff36c622e63.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[柴柴的日常_成交]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/327f0f3ec9915b420cca2516e8b7d1a7b6e40844.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[柴柴的日常_我好忙]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/31c4b3e4fd2e8b7bfdbd73130502d7f0a64e1d87.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[柴柴的日常_救救我]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/fe680687ad7451deebe88bfe8be8a253bc8d49ae.png",
 							"sale_type":"pay"
 						}
 					},
@@ -230,55 +266,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[柴柴的日常_哈啰]",
+						"name":"[柴柴的日常_离谱]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7690b88f96c25415bbf909f36c212e2b38d3a483.png",
+							"image":"https://i0.hdslb.com/bfs/garb/675e0b6629d1ff5b6f5c970a01ed448cf4701751.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[柴柴的日常_冲呀]",
+						"name":"[柴柴的日常_迷惑]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4f6462a03726c7dc0b2cd84622f6aa9f96a9c2d2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[柴柴的日常_休息一下]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f97cedb4d605115fe179fce9c15a359f007b365f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[柴柴的日常_啪]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/07ac51bbfb13c5d942b2a2536e26ec77d1ecbb52.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[柴柴的日常_啊对对对]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0f620ac949c3d3efa53586dfbfb6b0768eca95ca.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[柴柴的日常_先走一步]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4a8a25ca09831874d50f387db34ab2ac516a4e10.png",
+							"image":"https://i0.hdslb.com/bfs/garb/73942da3603eebe8f94e727048c62497548582e1.png",
 							"sale_type":"pay"
 						}
 					}

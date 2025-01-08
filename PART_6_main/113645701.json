@@ -103,19 +103,19 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[坠落_athlete]",
+						"name":"[坠落_Hiphop]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6cd048d5243be8b64414c2caec70d98aae6ca95a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/8a828206cef32e7b27f82d6f3583e26cbb690ce5.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[坠落_model]",
+						"name":"[坠落_athlete]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c212d1934612ba5f87bd4569bf8fb226f1a8a32d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/6cd048d5243be8b64414c2caec70d98aae6ca95a.png",
 							"sale_type":"pay"
 						}
 					},
@@ -139,6 +139,24 @@
 					},
 					{
 						"item_id":0,
+						"name":"[坠落_fashion]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/50fa36a126c44fbdbae4f8e1ccde71e070b21b1b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[坠落_model]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c212d1934612ba5f87bd4569bf8fb226f1a8a32d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[坠落_musician]",
 						"tab_id":0,
 						"properties":{
@@ -157,10 +175,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[坠落_fashion]",
+						"name":"[坠落_友仔]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/50fa36a126c44fbdbae4f8e1ccde71e070b21b1b.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a5f9023c6874951c3a1e325af2bebb84b1700bbe.png",
 							"sale_type":"pay"
 						}
 					},
@@ -175,24 +193,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[坠落_友仔]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a5f9023c6874951c3a1e325af2bebb84b1700bbe.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[坠落_滑板少年]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6c987a6be089e129fb1b03722d65ac2a21f15e42.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[坠落_在校生]",
 						"tab_id":0,
 						"properties":{
@@ -202,10 +202,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[坠落_Hiphop]",
+						"name":"[坠落_滑板少年]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8a828206cef32e7b27f82d6f3583e26cbb690ce5.png",
+							"image":"https://i0.hdslb.com/bfs/garb/6c987a6be089e129fb1b03722d65ac2a21f15e42.png",
 							"sale_type":"pay"
 						}
 					},

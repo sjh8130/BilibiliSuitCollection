@@ -103,10 +103,19 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[TUGOU_狗头]",
+						"name":"[TUGOU_圣诞老人]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/64a55eb32fa74ee2ad605c9017fb28d16eeed22a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b3a4836365dd5866179a5da976be6b133b8a96d4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[TUGOU_圣诞袜]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9c68fb58e55f7fd49d4b0dd629a5c610bf2a9c51.png",
 							"sale_type":"pay"
 						}
 					},
@@ -121,37 +130,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[TUGOU_圣诞老人]",
+						"name":"[TUGOU_小草]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b3a4836365dd5866179a5da976be6b133b8a96d4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[TUGOU_铃铛]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c6e0c918b3bbd4218e0905abd23e19f092929eb2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[TUGOU_窃喜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/84e44df97903cc4fdd0be028e1766e5dc9b698c2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[TUGOU_自信]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f5dc06440d9d4236a657dc4916f997ebfcd9a9ba.png",
+							"image":"https://i0.hdslb.com/bfs/garb/6761d28b26f2225ff17c766734ce9acb188879bc.png",
 							"sale_type":"pay"
 						}
 					},
@@ -166,19 +148,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[TUGOU_篝火]",
+						"name":"[TUGOU_毛线]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4d8b93e1352b3b553062b17ceffb2e072a74bd21.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[TUGOU_小草]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6761d28b26f2225ff17c766734ce9acb188879bc.png",
+							"image":"https://i0.hdslb.com/bfs/garb/66b2a01f86f8c0a56603fce01292bef874d0750a.png",
 							"sale_type":"pay"
 						}
 					},
@@ -193,28 +166,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[TUGOU_绵阳]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ae0f6faead75702daaa4fa68748d539f8da3b6d5.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[TUGOU_炫耀]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dad136992847c8f0386039f86f1a7f8afaba2b3f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[TUGOU_毛线]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/66b2a01f86f8c0a56603fce01292bef874d0750a.png",
 							"sale_type":"pay"
 						}
 					},
@@ -229,10 +184,55 @@
 					},
 					{
 						"item_id":0,
-						"name":"[TUGOU_圣诞袜]",
+						"name":"[TUGOU_狗头]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9c68fb58e55f7fd49d4b0dd629a5c610bf2a9c51.png",
+							"image":"https://i0.hdslb.com/bfs/garb/64a55eb32fa74ee2ad605c9017fb28d16eeed22a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[TUGOU_窃喜]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/84e44df97903cc4fdd0be028e1766e5dc9b698c2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[TUGOU_篝火]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4d8b93e1352b3b553062b17ceffb2e072a74bd21.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[TUGOU_绵阳]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ae0f6faead75702daaa4fa68748d539f8da3b6d5.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[TUGOU_自信]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f5dc06440d9d4236a657dc4916f997ebfcd9a9ba.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[TUGOU_铃铛]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c6e0c918b3bbd4218e0905abd23e19f092929eb2.png",
 							"sale_type":"pay"
 						}
 					}

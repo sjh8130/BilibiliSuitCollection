@@ -104,6 +104,24 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[人格贴纸-ESFP_出来玩]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/90452438b14098c53838749c9bdf46e0a6340d67.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[人格贴纸-ESFP_加载]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e42218b8ce38fa8d0f62e0ace006ad1d1369ce0e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[人格贴纸-ESFP_呐喊]",
 						"tab_id":0,
 						"properties":{
@@ -113,10 +131,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-ESFP_没事吧]",
+						"name":"[人格贴纸-ESFP_啊]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5208c570cfb24f8114cd5e4b775bd19fb4541f8c.png",
+							"image":"https://i0.hdslb.com/bfs/garb/d06ca3cc5b34a23928d4ee6372a3bcd31199c4dc.png",
 							"sale_type":"pay"
 						}
 					},
@@ -126,15 +144,6 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/02d76d85a1b1445f88cb2ff67e00b5c61fdd3b82.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[人格贴纸-ESFP_出来玩]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/90452438b14098c53838749c9bdf46e0a6340d67.png",
 							"sale_type":"pay"
 						}
 					},
@@ -158,15 +167,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-ESFP_注入灵魂]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/738bf7e87be0137dfe8dd6ba3edbaef5111c06cf.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[人格贴纸-ESFP_头大]",
 						"tab_id":0,
 						"properties":{
@@ -185,24 +185,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-ESFP_加载]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e42218b8ce38fa8d0f62e0ace006ad1d1369ce0e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[人格贴纸-ESFP_啊]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d06ca3cc5b34a23928d4ee6372a3bcd31199c4dc.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[人格贴纸-ESFP_懒]",
 						"tab_id":0,
 						"properties":{
@@ -212,10 +194,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-ESFP_鬼点子]",
+						"name":"[人格贴纸-ESFP_没事吧]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bb270f5fc33f036d23796a1a626551bc9a895281.png",
+							"image":"https://i0.hdslb.com/bfs/garb/5208c570cfb24f8114cd5e4b775bd19fb4541f8c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[人格贴纸-ESFP_注入灵魂]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/738bf7e87be0137dfe8dd6ba3edbaef5111c06cf.png",
 							"sale_type":"pay"
 						}
 					},
@@ -234,6 +225,15 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d7236959eef571133117d3de7c200e4641d77089.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[人格贴纸-ESFP_鬼点子]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/bb270f5fc33f036d23796a1a626551bc9a895281.png",
 							"sale_type":"pay"
 						}
 					}

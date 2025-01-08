@@ -104,6 +104,24 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[普通小狗 牛乳少女_hi]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3a98b6fd629ff4bfeeef8349104179d699a070ac.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 牛乳少女_喜欢]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1d15645003842424ab0e097d8ad4c904d57e9909.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[普通小狗 牛乳少女_噗]",
 						"tab_id":0,
 						"properties":{
@@ -117,15 +135,6 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a68ab0f67f99762c0ac874e944d7958ef52d0970.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 牛乳少女_hi]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3a98b6fd629ff4bfeeef8349104179d699a070ac.png",
 							"sale_type":"pay"
 						}
 					},
@@ -149,24 +158,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[普通小狗 牛乳少女_试试]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ac1ff0d5f481e9f0d2e86d78fd9e09014b785135.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 牛乳少女_喜欢]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1d15645003842424ab0e097d8ad4c904d57e9909.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[普通小狗 牛乳少女_好耶]",
 						"tab_id":0,
 						"properties":{
@@ -185,19 +176,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[普通小狗 牛乳少女_点赞]",
+						"name":"[普通小狗 牛乳少女_忍]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/407c63d0f9008ecf5b1bee97164290512097b602.png",
+							"image":"https://i0.hdslb.com/bfs/garb/8e42c0b44e86c5ad8de926a25b6c7cf7f186136e.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[普通小狗 牛乳少女_忍]",
+						"name":"[普通小狗 牛乳少女_打包带走]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8e42c0b44e86c5ad8de926a25b6c7cf7f186136e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/8b101d54be2de79ee1fee62067f72d8e5ca35ec2.png",
 							"sale_type":"pay"
 						}
 					},
@@ -212,19 +203,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[普通小狗 牛乳少女_送花]",
+						"name":"[普通小狗 牛乳少女_点赞]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/29564731da89514ac38c1ed152cd875a37b789fe.png",
+							"image":"https://i0.hdslb.com/bfs/garb/407c63d0f9008ecf5b1bee97164290512097b602.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[普通小狗 牛乳少女_打包带走]",
+						"name":"[普通小狗 牛乳少女_试试]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8b101d54be2de79ee1fee62067f72d8e5ca35ec2.png",
+							"image":"https://i0.hdslb.com/bfs/garb/ac1ff0d5f481e9f0d2e86d78fd9e09014b785135.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 牛乳少女_送花]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/29564731da89514ac38c1ed152cd875a37b789fe.png",
 							"sale_type":"pay"
 						}
 					},

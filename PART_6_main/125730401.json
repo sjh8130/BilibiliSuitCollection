@@ -104,28 +104,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[LOOPY打工的一天_早起打工]",
+						"name":"[LOOPY打工的一天_上班路上]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a3a0d72cf64aee0602854f52af49876e0652f38c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[LOOPY打工的一天_朝九上班]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/04aa877f8d7c8f8def93b40eed0da433f62d1408.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[LOOPY打工的一天_午休干饭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/87bf758eef04d79bdaf6d60ab2e22bebda22a986.png",
+							"image":"https://i0.hdslb.com/bfs/garb/579168f1ea02ee90e0e4ece4e217f174f9465ad6.png",
 							"sale_type":"pay"
 						}
 					},
@@ -140,55 +122,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[LOOPY打工的一天_晚上熬夜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/778592ca5768f0c386e1a887666b275766d06077.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[LOOPY打工的一天_您说的对]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b0f87f8a18a161c22d39ff5f3c13c4a9e758ecbe.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[LOOPY打工的一天_上班路上]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/579168f1ea02ee90e0e4ece4e217f174f9465ad6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[LOOPY打工的一天_在跑外勤]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a6f9dc0bf0d66bea2392b4a64ec96d3958f6d47f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[LOOPY打工的一天_明天周一]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/345ff626ffd7ae733a2a0b4fc8140010c8416b60.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[LOOPY打工的一天_今天周一]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/40bc8b42c251bc5727f86082324636fa9bd5f8b2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[LOOPY打工的一天_准时下班]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4685dee537b27a84119c10e8169867d7e59f1260.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[LOOPY打工的一天_午休干饭]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/87bf758eef04d79bdaf6d60ab2e22bebda22a986.png",
 							"sale_type":"pay"
 						}
 					},
@@ -203,19 +158,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[LOOPY打工的一天_有下午茶]",
+						"name":"[LOOPY打工的一天_在跑外勤]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1a94407738f15723b1787583f2771996c115107c.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a6f9dc0bf0d66bea2392b4a64ec96d3958f6d47f.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[LOOPY打工的一天_被迫加班]",
+						"name":"[LOOPY打工的一天_您说的对]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ab2f72d1ba1f3f93c3d2c606171f480d71a79aba.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b0f87f8a18a161c22d39ff5f3c13c4a9e758ecbe.png",
 							"sale_type":"pay"
 						}
 					},
@@ -230,10 +185,55 @@
 					},
 					{
 						"item_id":0,
-						"name":"[LOOPY打工的一天_准时下班]",
+						"name":"[LOOPY打工的一天_早起打工]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4685dee537b27a84119c10e8169867d7e59f1260.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a3a0d72cf64aee0602854f52af49876e0652f38c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[LOOPY打工的一天_明天周一]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/345ff626ffd7ae733a2a0b4fc8140010c8416b60.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[LOOPY打工的一天_晚上熬夜]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/778592ca5768f0c386e1a887666b275766d06077.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[LOOPY打工的一天_有下午茶]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1a94407738f15723b1787583f2771996c115107c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[LOOPY打工的一天_朝九上班]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/04aa877f8d7c8f8def93b40eed0da433f62d1408.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[LOOPY打工的一天_被迫加班]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ab2f72d1ba1f3f93c3d2c606171f480d71a79aba.png",
 							"sale_type":"pay"
 						}
 					}

@@ -103,87 +103,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[普通小狗 福启新岁_接红包啦]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7db01269ebd1c042d5369547a18c8e81b4580f18.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 福启新岁_粗来玩]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d90ff9b105dc563e27b50cf37c8a88c943ffb11d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 福启新岁_新年快乐]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/52161f6f21624b705e93298e7d277665dd17baa4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 福启新岁_福气满满]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7c80c0bf57b6235702ef7819ba7a6f22568a6e5c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 福启新岁_送桃花]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/018438cf2c92bb3f7ada3c9af52641997d989c5a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 福启新岁_大吉]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ad2aaa28a6ebe131e0ebcb3e86ab0ac778b857cb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 福启新岁_暴富]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7778708f411bf2c199f3415585098bb1c21b6757.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 福启新岁_福]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/db526340d6501c65c8fde280a352285095d2dcd9.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 福启新岁_发发发]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c76bab5fac398403e216dda59dfe725b6e5ed950.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[普通小狗 福启新岁_一切顺利]",
 						"tab_id":0,
 						"properties":{
@@ -202,19 +121,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[普通小狗 福启新岁_获得钞能力]",
+						"name":"[普通小狗 福启新岁_发发发]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/007bcc8fe5f72a346654a3dc6db4f2a1e94a1399.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 福启新岁_钱来]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e6fba823969f37a41fcfbd47c32f6342740f9c18.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c76bab5fac398403e216dda59dfe725b6e5ed950.png",
 							"sale_type":"pay"
 						}
 					},
@@ -229,10 +139,100 @@
 					},
 					{
 						"item_id":0,
+						"name":"[普通小狗 福启新岁_大吉]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ad2aaa28a6ebe131e0ebcb3e86ab0ac778b857cb.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 福启新岁_接红包啦]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7db01269ebd1c042d5369547a18c8e81b4580f18.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 福启新岁_新年快乐]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/52161f6f21624b705e93298e7d277665dd17baa4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 福启新岁_暴富]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7778708f411bf2c199f3415585098bb1c21b6757.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[普通小狗 福启新岁_祈福中]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/95f5da8422b447bf32bda32144d6b1f2567f1456.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 福启新岁_福]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/db526340d6501c65c8fde280a352285095d2dcd9.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 福启新岁_福气满满]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7c80c0bf57b6235702ef7819ba7a6f22568a6e5c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 福启新岁_粗来玩]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d90ff9b105dc563e27b50cf37c8a88c943ffb11d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 福启新岁_获得钞能力]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/007bcc8fe5f72a346654a3dc6db4f2a1e94a1399.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 福启新岁_送桃花]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/018438cf2c92bb3f7ada3c9af52641997d989c5a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 福启新岁_钱来]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e6fba823969f37a41fcfbd47c32f6342740f9c18.png",
 							"sale_type":"pay"
 						}
 					}

@@ -104,28 +104,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[出逃新娘_吓]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ca7d377ad14e631697f0b57215394cd210e229f4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[出逃新娘_不行]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/58cb83162bbe11b3acbff89aa5fd9b8cea88a4b9.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[出逃新娘_哦！]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1cf9c3a2ac13994c7a4fb7f3aa2faa33a30b4e82.png",
 							"sale_type":"pay"
 						}
 					},
@@ -140,73 +122,28 @@
 					},
 					{
 						"item_id":0,
+						"name":"[出逃新娘_吓]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ca7d377ad14e631697f0b57215394cd210e229f4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[出逃新娘_哦！]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1cf9c3a2ac13994c7a4fb7f3aa2faa33a30b4e82.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[出逃新娘_在吗]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d09eca757a7b607dfd3ad3ab9945e488589c9193.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[出逃新娘_摊]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c9e79bbf9d2796ed7656ddbd56722fb0881b1d4e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[出逃新娘_比心]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4309551ea2e5a3a91e09e112a5a9e49fca7050f3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[出逃新娘_无语]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/683b5a8d29f4eac7e3bdf39d3139dbfd2661a070.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[出逃新娘_打call]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/729929b43cd9553039bc3fe6518747971d04609b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[出逃新娘_略]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/12f5b440c2f58cbccb2896581bbaf365c6c88a46.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[出逃新娘_帅]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5f8441cae569bad022ac5e792301ca39d4b3cb42.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[出逃新娘_闹]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5b0a1dc36d32e59d920804a96445581dc830593e.png",
 							"sale_type":"pay"
 						}
 					},
@@ -221,10 +158,73 @@
 					},
 					{
 						"item_id":0,
+						"name":"[出逃新娘_帅]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5f8441cae569bad022ac5e792301ca39d4b3cb42.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[出逃新娘_当机]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f76836c44229564767009e64a2352c6c4ef67b66.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[出逃新娘_打call]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/729929b43cd9553039bc3fe6518747971d04609b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[出逃新娘_摊]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c9e79bbf9d2796ed7656ddbd56722fb0881b1d4e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[出逃新娘_无语]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/683b5a8d29f4eac7e3bdf39d3139dbfd2661a070.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[出逃新娘_比心]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4309551ea2e5a3a91e09e112a5a9e49fca7050f3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[出逃新娘_略]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/12f5b440c2f58cbccb2896581bbaf365c6c88a46.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[出逃新娘_闹]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5b0a1dc36d32e59d920804a96445581dc830593e.png",
 							"sale_type":"pay"
 						}
 					},

@@ -103,15 +103,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[面包房小狗_打call]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/58d959bad2c52d7ce219dc6fbd4a93dce4370298.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[面包房小狗_doge]",
 						"tab_id":0,
 						"properties":{
@@ -121,10 +112,55 @@
 					},
 					{
 						"item_id":0,
+						"name":"[面包房小狗_可怜]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e85bfff452ccde438e0bcc5beae339eb6b9946f7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[面包房小狗_吃瓜]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6a22288cee11cda8b2478a39d86e7484ae30c75a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[面包房小狗_呕吐]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5da930145d06a7a2fef2b4aa0ec0b6fa7da1af0b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[面包房小狗_喜欢]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c9dfb75b41c02686ec73aefde076cdfe70b20bed.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[面包房小狗_惊讶]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3a1b715fdd015f7786aa58e9bdf3eabacf5a3df0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[面包房小狗_打call]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/58d959bad2c52d7ce219dc6fbd4a93dce4370298.png",
 							"sale_type":"pay"
 						}
 					},
@@ -157,64 +193,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[面包房小狗_可怜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e85bfff452ccde438e0bcc5beae339eb6b9946f7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[面包房小狗_呕吐]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5da930145d06a7a2fef2b4aa0ec0b6fa7da1af0b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[面包房小狗_酷酷]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a9348b97f3e7cb120990802714793e793dfeea21.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[面包房小狗_色]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/45bb22771d5662e19da49a51b6b5df5c49fa10e0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[面包房小狗_惊讶]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3a1b715fdd015f7786aa58e9bdf3eabacf5a3df0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[面包房小狗_疑惑]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/63fb15c95df22995c837a7273727f66f3556b3eb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[面包房小狗_调皮]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/31fb7b1daa9c1bf5f8a61e41f559c31aadaf81b6.png",
 							"sale_type":"pay"
 						}
 					},
@@ -229,10 +211,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[面包房小狗_吃瓜]",
+						"name":"[面包房小狗_色]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6a22288cee11cda8b2478a39d86e7484ae30c75a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/45bb22771d5662e19da49a51b6b5df5c49fa10e0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[面包房小狗_调皮]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/31fb7b1daa9c1bf5f8a61e41f559c31aadaf81b6.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[面包房小狗_酷酷]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a9348b97f3e7cb120990802714793e793dfeea21.png",
 							"sale_type":"pay"
 						}
 					}

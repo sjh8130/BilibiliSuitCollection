@@ -103,91 +103,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[星座指示-狮子座_狮子座]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/96a46bcc331c5eb03117221b4ab579a0198fcd88.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星座指示-狮子座_打招呼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/206adfd36120995331b3c7464aaacdf4bd990857.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星座指示-狮子座_得意]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/57cc87f8ed2a5af6d674c73b60fbb44a3b1186fb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星座指示-狮子座_投币]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/46c0e8ba207e1a97af42c7633bbe3392b463db81.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星座指示-狮子座_噔噔！]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/07c3cbd465399c3a0f810f8230e00021bc1f641b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星座指示-狮子座_骂骂咧咧]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6889624bd6da237a297be567d7e7c8a0c7a716e0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星座指示-狮子座_打call]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7bbf3619647fb43785c0ba58b6df6faf174ea0ab.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星座指示-狮子座_小太阳]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b7329b6b75dfc5595f18d4c9a91b80e83ea95e76.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[星座指示-狮子座_你好美女]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/92c38caee569a8ddde9269c51a4f215e880948a1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星座指示-狮子座_后退]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/58ca76bf1f3ec4d23ccacf6816fc78c2301b63f3.png",
 							"sale_type":"pay"
 						}
 					},
@@ -202,10 +121,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[星座指示-狮子座_视线转移]",
+						"name":"[星座指示-狮子座_后退]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c264616ee4aae6343a1172356a461a9b49346e73.png",
+							"image":"https://i0.hdslb.com/bfs/garb/58ca76bf1f3ec4d23ccacf6816fc78c2301b63f3.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,10 +139,55 @@
 					},
 					{
 						"item_id":0,
-						"name":"[星座指示-狮子座_隐忍]",
+						"name":"[星座指示-狮子座_噔噔！]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1d21d71130b4215e2c5c59feef098060dc75bb35.png",
+							"image":"https://i0.hdslb.com/bfs/garb/07c3cbd465399c3a0f810f8230e00021bc1f641b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星座指示-狮子座_小太阳]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b7329b6b75dfc5595f18d4c9a91b80e83ea95e76.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星座指示-狮子座_得意]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/57cc87f8ed2a5af6d674c73b60fbb44a3b1186fb.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星座指示-狮子座_打call]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7bbf3619647fb43785c0ba58b6df6faf174ea0ab.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星座指示-狮子座_打招呼]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/206adfd36120995331b3c7464aaacdf4bd990857.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星座指示-狮子座_投币]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/46c0e8ba207e1a97af42c7633bbe3392b463db81.png",
 							"sale_type":"pay"
 						}
 					},
@@ -233,6 +197,42 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/75664923a793baae5bac4126db6c76c5b8e78923.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星座指示-狮子座_狮子座]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/96a46bcc331c5eb03117221b4ab579a0198fcd88.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星座指示-狮子座_视线转移]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c264616ee4aae6343a1172356a461a9b49346e73.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星座指示-狮子座_隐忍]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1d21d71130b4215e2c5c59feef098060dc75bb35.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星座指示-狮子座_骂骂咧咧]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6889624bd6da237a297be567d7e7c8a0c7a716e0.png",
 							"sale_type":"pay"
 						}
 					}
@@ -299,6 +299,6 @@
 	"fan_user":{
 		"mid":3493134470220310,
 		"nickname":"京极科技",
-		"avatar":"https://i1.hdslb.com/bfs/face/0f0a2291991ead4d857428cd3c54acfbc3622319.jpg"
+		"avatar":"https://i1.hdslb.com/bfs/face/d7a9cbfa42761c654d61f88941771082de524eb7.jpg"
 	}
 }

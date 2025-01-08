@@ -103,28 +103,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[小狼·阿加莎_嗷呜]",
+						"name":"[小狼·阿加莎_乐开花]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f874debf9c570ef18fb1a532b61868a72a7c8c3c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小狼·阿加莎_喝奶茶]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/50f64305992f3afef1a95fa9a4605a3fe89a23e5.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小狼·阿加莎_昏了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cd63a596642e3c75dcc9a5916d0b0cdff2690bb3.png",
+							"image":"https://i0.hdslb.com/bfs/garb/5ba8a72da1deb8e534aabe46acf45c596657f281.png",
 							"sale_type":"pay"
 						}
 					},
@@ -148,46 +130,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[小狼·阿加莎_狼脑过载]",
+						"name":"[小狼·阿加莎_喝奶茶]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4afb29eef7f4eb97449580037a6b127db44d873e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小狼·阿加莎_乐开花]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5ba8a72da1deb8e534aabe46acf45c596657f281.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小狼·阿加莎_眉头一皱]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/55127e5bacf3938c9cd7d82209dfc732d5702454.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小狼·阿加莎_揉脸]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8ceb900a95fa471078865d26f9d3d35131d2f032.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小狼·阿加莎_思考]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/751eac3a51896836d9a6c804b8d4973a876eeb4b.png",
+							"image":"https://i0.hdslb.com/bfs/garb/50f64305992f3afef1a95fa9a4605a3fe89a23e5.png",
 							"sale_type":"pay"
 						}
 					},
@@ -202,6 +148,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[小狼·阿加莎_嗷呜]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f874debf9c570ef18fb1a532b61868a72a7c8c3c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[小狼·阿加莎_微笑]",
 						"tab_id":0,
 						"properties":{
@@ -211,10 +166,55 @@
 					},
 					{
 						"item_id":0,
+						"name":"[小狼·阿加莎_思考]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/751eac3a51896836d9a6c804b8d4973a876eeb4b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小狼·阿加莎_揉脸]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8ceb900a95fa471078865d26f9d3d35131d2f032.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[小狼·阿加莎_无语]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d29f62d82f2884b36363df1aeb7bb91fcca70a44.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小狼·阿加莎_昏了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cd63a596642e3c75dcc9a5916d0b0cdff2690bb3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小狼·阿加莎_狼脑过载]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4afb29eef7f4eb97449580037a6b127db44d873e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小狼·阿加莎_眉头一皱]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/55127e5bacf3938c9cd7d82209dfc732d5702454.png",
 							"sale_type":"pay"
 						}
 					},

@@ -104,6 +104,15 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[MC迷彩_OK]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/baf33da0a1880609989bbd4132cd11121f03cab9.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[MC迷彩_下来]",
 						"tab_id":0,
 						"properties":{
@@ -122,24 +131,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[MC迷彩_不要理会]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/991f2479152354bd46e70cdf35914f3e1bd278e3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MC迷彩_OK]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/baf33da0a1880609989bbd4132cd11121f03cab9.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[MC迷彩_不行]",
 						"tab_id":0,
 						"properties":{
@@ -149,10 +140,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[MC迷彩_步枪]",
+						"name":"[MC迷彩_不要理会]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/767645426fbd2cf9c2edb0aaa3843f7ee85f2b77.png",
+							"image":"https://i0.hdslb.com/bfs/garb/991f2479152354bd46e70cdf35914f3e1bd278e3.png",
 							"sale_type":"pay"
 						}
 					},
@@ -167,19 +158,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[MC迷彩_掩护]",
+						"name":"[MC迷彩_听见]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e50509e719c34a557948be21bea497ac8646d170.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MC迷彩_肃静]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/86ad5ffed90b5b7c56e110659ea775190c6945e7.png",
+							"image":"https://i0.hdslb.com/bfs/garb/388348c34a1bb901ff63ec79234a041f632bfc15.png",
 							"sale_type":"pay"
 						}
 					},
@@ -194,24 +176,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[MC迷彩_手枪]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/862abb9325b212b4c94cf4451a78baa2f8cdecb1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MC迷彩_听见]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/388348c34a1bb901ff63ec79234a041f632bfc15.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[MC迷彩_我]",
 						"tab_id":0,
 						"properties":{
@@ -221,10 +185,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[MC迷彩_霰弹枪]",
+						"name":"[MC迷彩_手枪]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/68aa86fe1b04c417ba169bc8465371d689a6007a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/862abb9325b212b4c94cf4451a78baa2f8cdecb1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MC迷彩_掩护]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e50509e719c34a557948be21bea497ac8646d170.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MC迷彩_步枪]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/767645426fbd2cf9c2edb0aaa3843f7ee85f2b77.png",
 							"sale_type":"pay"
 						}
 					},
@@ -234,6 +216,24 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8bd6576d1fca32a79e631ff2594319480c8c1545.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MC迷彩_肃静]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/86ad5ffed90b5b7c56e110659ea775190c6945e7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MC迷彩_霰弹枪]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/68aa86fe1b04c417ba169bc8465371d689a6007a.png",
 							"sale_type":"pay"
 						}
 					}

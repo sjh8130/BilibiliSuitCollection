@@ -103,6 +103,15 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[catzz 追光少女_加油]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3db23f4e93345032f7a957fb80efc5d630549d77.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[catzz 追光少女_吃瓜]",
 						"tab_id":0,
 						"properties":{
@@ -121,10 +130,28 @@
 					},
 					{
 						"item_id":0,
+						"name":"[catzz 追光少女_大佬]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/77da6f7b7bc3c0ef17b15b90afe035d71d2e5b6f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[catzz 追光少女_尬住]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3697f8621a4191d933a4bb9b0ac5f34a63b27dff.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[catzz 追光少女_我讲两句]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/be4ce57c0cd4ea737b51cb46e6bc012d78a89de7.png",
 							"sale_type":"pay"
 						}
 					},
@@ -139,6 +166,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[catzz 追光少女_欢呼]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b4c824be0e629d2162cf4acacc963671635b9cad.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[catzz 追光少女_画大饼]",
 						"tab_id":0,
 						"properties":{
@@ -148,19 +184,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[catzz 追光少女_加油]",
+						"name":"[catzz 追光少女_疑惑]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3db23f4e93345032f7a957fb80efc5d630549d77.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[catzz 追光少女_大佬]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/77da6f7b7bc3c0ef17b15b90afe035d71d2e5b6f.png",
+							"image":"https://i0.hdslb.com/bfs/garb/bc0426763a2808ddc937383962cbcd1207ee0506.png",
 							"sale_type":"pay"
 						}
 					},
@@ -170,15 +197,6 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/921b4e6e18db2ea9d702c51e182e7c7279269431.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[catzz 追光少女_我讲两句]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/be4ce57c0cd4ea737b51cb46e6bc012d78a89de7.png",
 							"sale_type":"pay"
 						}
 					},
@@ -202,24 +220,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[catzz 追光少女_鸽了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1b489b9b234e78ee2c637dba51b1ad394f764185.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[catzz 追光少女_欢呼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b4c824be0e629d2162cf4acacc963671635b9cad.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[catzz 追光少女_闪现]",
 						"tab_id":0,
 						"properties":{
@@ -229,10 +229,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[catzz 追光少女_疑惑]",
+						"name":"[catzz 追光少女_鸽了]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bc0426763a2808ddc937383962cbcd1207ee0506.png",
+							"image":"https://i0.hdslb.com/bfs/garb/1b489b9b234e78ee2c637dba51b1ad394f764185.png",
 							"sale_type":"pay"
 						}
 					}

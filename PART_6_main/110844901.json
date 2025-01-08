@@ -103,24 +103,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[地雷少女_主人]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/07f325812144dab17f1dc6a7a2699e03d8dcba97.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[地雷少女_哼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8b4c8712bc9f1f94450feb7af72ef842afd6630c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[地雷少女_rich]",
 						"tab_id":0,
 						"properties":{
@@ -130,19 +112,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[地雷少女_哒咩]",
+						"name":"[地雷少女_世界一番]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/782dbdfe6f788728721e7afa80a6e815cce3d077.png",
+							"image":"https://i0.hdslb.com/bfs/garb/4b1f3b7918e09a9289958cee5466cb0950d9976d.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[地雷少女_世界一番]",
+						"name":"[地雷少女_主人]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4b1f3b7918e09a9289958cee5466cb0950d9976d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/07f325812144dab17f1dc6a7a2699e03d8dcba97.png",
 							"sale_type":"pay"
 						}
 					},
@@ -166,10 +148,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[地雷少女_歪头]",
+						"name":"[地雷少女_哒咩]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/410685de63c47ec4523f0e62fb31ee3b554aa556.png",
+							"image":"https://i0.hdslb.com/bfs/garb/782dbdfe6f788728721e7afa80a6e815cce3d077.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[地雷少女_哼]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8b4c8712bc9f1f94450feb7af72ef842afd6630c.png",
 							"sale_type":"pay"
 						}
 					},
@@ -184,28 +175,19 @@
 					},
 					{
 						"item_id":0,
+						"name":"[地雷少女_歪头]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/410685de63c47ec4523f0e62fb31ee3b554aa556.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[地雷少女_汗]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f43bf47186236ba6b51806220f2629986ec5e36a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[地雷少女_过分]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/37d9980152c2eb4b568d273ccf7df45ffbee1b3b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[地雷少女_破防了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/02e4805671ebc4613e44ba66f63317c35310e2e9.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,10 +202,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[地雷少女_难绷]",
+						"name":"[地雷少女_破防了]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c4bc36c9a33d2cf4a17a73c3a2d0f51eb837b78c.png",
+							"image":"https://i0.hdslb.com/bfs/garb/02e4805671ebc4613e44ba66f63317c35310e2e9.png",
 							"sale_type":"pay"
 						}
 					},
@@ -233,6 +215,24 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7a69674377cc7f5d283c2f3f213456ad20ae6c08.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[地雷少女_过分]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/37d9980152c2eb4b568d273ccf7df45ffbee1b3b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[地雷少女_难绷]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c4bc36c9a33d2cf4a17a73c3a2d0f51eb837b78c.png",
 							"sale_type":"pay"
 						}
 					}

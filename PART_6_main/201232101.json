@@ -103,28 +103,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[悍猛格挡_胸肌]",
+						"name":"[悍猛格挡_上勾拳]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e6fea312fe9689fb69e66cc26ed7d8b9356a317f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[悍猛格挡_流汗]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a45a95800d0af3b701b95f43f666d925ec41f8aa.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[悍猛格挡_愤怒]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/72a92487c1c66329ecdef11f96e9d2d060c5c676.png",
+							"image":"https://i0.hdslb.com/bfs/garb/20ea0cc69337f146d998d5e440dc233698244015.png",
 							"sale_type":"pay"
 						}
 					},
@@ -139,10 +121,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[悍猛格挡_飞起来]",
+						"name":"[悍猛格挡_嘤嘤嘤]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/51ba1ecdc2f6b1fe8d01dfb27e41cee7315593fc.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b3144ce236f0a466a8abb0add32063e45052d786.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[悍猛格挡_小猫]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1a723aa83bb91d409b4583f6829da1b010c666c2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[悍猛格挡_愤怒]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/72a92487c1c66329ecdef11f96e9d2d060c5c676.png",
 							"sale_type":"pay"
 						}
 					},
@@ -166,19 +166,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[悍猛格挡_爆金币了]",
+						"name":"[悍猛格挡_标记]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/63735c43da3d8bf8f2a0b5bba34ed04e5a57ddfa.png",
+							"image":"https://i0.hdslb.com/bfs/garb/8b9b369a194ec9f79f388ea5adcd7380d8afab89.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[悍猛格挡_释放忍术]",
+						"name":"[悍猛格挡_流汗]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/df14c6677f84cd38b65d8caa43193f2c8de2fb57.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a45a95800d0af3b701b95f43f666d925ec41f8aa.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[悍猛格挡_爆金币了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/63735c43da3d8bf8f2a0b5bba34ed04e5a57ddfa.png",
 							"sale_type":"pay"
 						}
 					},
@@ -193,28 +202,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[悍猛格挡_小猫]",
+						"name":"[悍猛格挡_胸肌]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1a723aa83bb91d409b4583f6829da1b010c666c2.png",
+							"image":"https://i0.hdslb.com/bfs/garb/e6fea312fe9689fb69e66cc26ed7d8b9356a317f.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[悍猛格挡_上勾拳]",
+						"name":"[悍猛格挡_释放忍术]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/20ea0cc69337f146d998d5e440dc233698244015.png",
+							"image":"https://i0.hdslb.com/bfs/garb/df14c6677f84cd38b65d8caa43193f2c8de2fb57.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[悍猛格挡_标记]",
+						"name":"[悍猛格挡_飞起来]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8b9b369a194ec9f79f388ea5adcd7380d8afab89.png",
+							"image":"https://i0.hdslb.com/bfs/garb/51ba1ecdc2f6b1fe8d01dfb27e41cee7315593fc.png",
 							"sale_type":"pay"
 						}
 					},
@@ -224,15 +233,6 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/76b199c83fd90b3b48b387cca142f9d4e5471892.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[悍猛格挡_嘤嘤嘤]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b3144ce236f0a466a8abb0add32063e45052d786.png",
 							"sale_type":"pay"
 						}
 					}

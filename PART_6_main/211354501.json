@@ -113,37 +113,19 @@
 					},
 					{
 						"item_id":0,
+						"name":"[美式男孩M3_严肃]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4cdb0a69270500125baf9daefb9bd9f51db9970c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[美式男孩M3_什么鬼]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2dc9ae6a5423aef061f4a57242bec3abf17966bd.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[美式男孩M3_再见]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/566c5764f1e6836f458f3fab7757e4cc49d1eb1c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[美式男孩M3_弹幕]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a0b012511672f7f4b1b3ea1cfa2e9b46a8f4bbf3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[美式男孩M3_兄弟]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7471db587ac053470dcc84619d6b6f492387e94b.png",
 							"sale_type":"pay"
 						}
 					},
@@ -158,15 +140,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[美式男孩M3_严肃]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4cdb0a69270500125baf9daefb9bd9f51db9970c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[美式男孩M3_你懂的]",
 						"tab_id":0,
 						"properties":{
@@ -176,19 +149,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[美式男孩M3_啊哈]",
+						"name":"[美式男孩M3_兄弟]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0329d41b1090e0b29824e8f72bba343c86480f28.png",
+							"image":"https://i0.hdslb.com/bfs/garb/7471db587ac053470dcc84619d6b6f492387e94b.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[美式男孩M3_神圣的]",
+						"name":"[美式男孩M3_再见]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/058b2876edfe57939b2a995fed4956f90c903ff4.png",
+							"image":"https://i0.hdslb.com/bfs/garb/566c5764f1e6836f458f3fab7757e4cc49d1eb1c.png",
 							"sale_type":"pay"
 						}
 					},
@@ -203,19 +176,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[美式男孩M3_有钱]",
+						"name":"[美式男孩M3_啊哈]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/57a0491b73654989e3965307cf7c571a0695f734.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[美式男孩M3_行吧]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2c1f1789d19a64a5758d8669a0f571021398d7c2.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0329d41b1090e0b29824e8f72bba343c86480f28.png",
 							"sale_type":"pay"
 						}
 					},
@@ -225,6 +189,42 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/210f2880f31d9472aa370e19827d837a3ce52e33.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[美式男孩M3_弹幕]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a0b012511672f7f4b1b3ea1cfa2e9b46a8f4bbf3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[美式男孩M3_有钱]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/57a0491b73654989e3965307cf7c571a0695f734.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[美式男孩M3_神圣的]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/058b2876edfe57939b2a995fed4956f90c903ff4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[美式男孩M3_行吧]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2c1f1789d19a64a5758d8669a0f571021398d7c2.png",
 							"sale_type":"pay"
 						}
 					},

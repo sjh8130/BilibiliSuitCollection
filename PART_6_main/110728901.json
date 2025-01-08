@@ -103,37 +103,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[打工阿鲨_干杯]",
+						"name":"[打工阿鲨_下班啦]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a6aa8af05e510ecfdd6b7e42ad64c3211dca00bd.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[打工阿鲨_搬砖]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/90aadedda0471f3f6352478a8d69da312222093f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[打工阿鲨_累了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dc885c55a48383e281d5905c9827e6c0f0bb1d1b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[打工阿鲨_呜呜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c2497a34fdd44357eaa2f9ef648c8e308d8357b9.png",
+							"image":"https://i0.hdslb.com/bfs/garb/5db6a7168c8d20d975fcf7e2e18487fc241f9d8a.png",
 							"sale_type":"pay"
 						}
 					},
@@ -148,10 +121,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[打工阿鲨_下班啦]",
+						"name":"[打工阿鲨_压力山大]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5db6a7168c8d20d975fcf7e2e18487fc241f9d8a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/7f56ad7faa28011ef974f374334d33ad176a888e.png",
 							"sale_type":"pay"
 						}
 					},
@@ -166,46 +139,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[打工阿鲨_压力山大]",
+						"name":"[打工阿鲨_呜呜]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7f56ad7faa28011ef974f374334d33ad176a888e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[打工阿鲨_快逃]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/234ca1643e8fc4b8ac927cadcb60d131994abb70.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[打工阿鲨_汗]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1f37657a60c164f51bdf8859a6739330e257bc61.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[打工阿鲨_带薪摸鱼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/376eb25b3fac159c311db826c688435778608fe6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[打工阿鲨_血槽已空]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/360ad9e61b50c8fec8fe23c6876df324ce03d09e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c2497a34fdd44357eaa2f9ef648c8e308d8357b9.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,10 +157,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[打工阿鲨_致富秘籍]",
+						"name":"[打工阿鲨_带薪摸鱼]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/16e73b614f174a4577d62ffe23a00922588d8106.png",
+							"image":"https://i0.hdslb.com/bfs/garb/376eb25b3fac159c311db826c688435778608fe6.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[打工阿鲨_干杯]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a6aa8af05e510ecfdd6b7e42ad64c3211dca00bd.png",
 							"sale_type":"pay"
 						}
 					},
@@ -233,6 +179,60 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea3f4d36c77f6256140a3426766d7b6a1b0a6e7e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[打工阿鲨_快逃]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/234ca1643e8fc4b8ac927cadcb60d131994abb70.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[打工阿鲨_搬砖]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/90aadedda0471f3f6352478a8d69da312222093f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[打工阿鲨_汗]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1f37657a60c164f51bdf8859a6739330e257bc61.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[打工阿鲨_累了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/dc885c55a48383e281d5905c9827e6c0f0bb1d1b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[打工阿鲨_致富秘籍]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/16e73b614f174a4577d62ffe23a00922588d8106.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[打工阿鲨_血槽已空]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/360ad9e61b50c8fec8fe23c6876df324ce03d09e.png",
 							"sale_type":"pay"
 						}
 					}

@@ -103,46 +103,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[圣诞小狗_打招呼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0cf5ecad6d72fb04ff5508af1bee8d89b0eebf4b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[圣诞小狗_一起]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1d8b61fb0f7ed06feabd980444ac504b9aac9a77.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞小狗_贴贴]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c3a67d2c20030ad25817f0ba89eff6c1bb1afe4c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞小狗_窗外]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/13a327ee3b1ca485b0d4f6223aa6c97097c4de68.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞小狗_施展魔法]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2a15f7ddb76e658490821c5049ef41e82aa6dcfa.png",
 							"sale_type":"pay"
 						}
 					},
@@ -157,64 +121,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[圣诞小狗_点赞]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a926d4d790fd8ce6244ef1703394bab97a022878.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞小狗_收藏]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e9d01ed5596d573dc34f88239660f4f93d17eda1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞小狗_投币]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/57db23f02487acf37a814a2d4453a74f53e5d738.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞小狗_睡觉]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/09257d09cc946cc1fe13b957f81cc4f3d5a618d1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[圣诞小狗_孤单]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3b6114f20bc6e24e823adb2b388d68dc03819d1f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞小狗_送礼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a3e3bebdf7354fbbe60f0af6603a83bcd2d24092.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞小狗_礼物]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4993ffaa708ca158abd39af50fa9f8aca7ac6e61.png",
 							"sale_type":"pay"
 						}
 					},
@@ -229,10 +139,100 @@
 					},
 					{
 						"item_id":0,
+						"name":"[圣诞小狗_打招呼]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0cf5ecad6d72fb04ff5508af1bee8d89b0eebf4b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞小狗_投币]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/57db23f02487acf37a814a2d4453a74f53e5d738.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[圣诞小狗_收到]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a1bde7fff996ad48919a6f0289bea60d1e4841de.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞小狗_收藏]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e9d01ed5596d573dc34f88239660f4f93d17eda1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞小狗_施展魔法]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2a15f7ddb76e658490821c5049ef41e82aa6dcfa.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞小狗_点赞]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a926d4d790fd8ce6244ef1703394bab97a022878.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞小狗_睡觉]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/09257d09cc946cc1fe13b957f81cc4f3d5a618d1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞小狗_礼物]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4993ffaa708ca158abd39af50fa9f8aca7ac6e61.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞小狗_窗外]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/13a327ee3b1ca485b0d4f6223aa6c97097c4de68.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞小狗_贴贴]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c3a67d2c20030ad25817f0ba89eff6c1bb1afe4c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞小狗_送礼]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a3e3bebdf7354fbbe60f0af6603a83bcd2d24092.png",
 							"sale_type":"pay"
 						}
 					}
@@ -299,6 +299,6 @@
 	"fan_user":{
 		"mid":3493134470220310,
 		"nickname":"京极科技",
-		"avatar":"https://i1.hdslb.com/bfs/face/0f0a2291991ead4d857428cd3c54acfbc3622319.jpg"
+		"avatar":"https://i1.hdslb.com/bfs/face/d7a9cbfa42761c654d61f88941771082de524eb7.jpg"
 	}
 }

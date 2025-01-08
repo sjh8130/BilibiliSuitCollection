@@ -103,6 +103,15 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[可爱鬼一二_出去鬼混]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/85cf42c7dabd7b08a683a5e9781a902f5a5b6bb3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[可爱鬼一二_削苹果]",
 						"tab_id":0,
 						"properties":{
@@ -139,10 +148,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[可爱鬼一二_扮僵尸]",
+						"name":"[可爱鬼一二_已黑化]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/53f1e09c4e4f83367b54ad59c1ca2da0038835d2.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a4717a5d2b132827676999cff19f2488e499eca2.png",
 							"sale_type":"pay"
 						}
 					},
@@ -157,55 +166,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[可爱鬼一二_出去鬼混]",
+						"name":"[可爱鬼一二_扮僵尸]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/85cf42c7dabd7b08a683a5e9781a902f5a5b6bb3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[可爱鬼一二_无脸一二]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6b68fc0f7c7e6368bd67f103fb37d63c5e322ee4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[可爱鬼一二_探头]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/115c764e2c030962c2ced48a232dd690c614d8b3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[可爱鬼一二_来啦]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ca4862bfe7e4a74f8367a100b894dcc078fdf111.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[可爱鬼一二_已黑化]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a4717a5d2b132827676999cff19f2488e499eca2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[可爱鬼一二_摘下面具]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2baee29cbb747a8f06b6608081e8d3755522e79c.png",
+							"image":"https://i0.hdslb.com/bfs/garb/53f1e09c4e4f83367b54ad59c1ca2da0038835d2.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,19 +184,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[可爱鬼一二_看刀]",
+						"name":"[可爱鬼一二_探头]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ac15289e64b12614a9fcd6e45ff4cc9101bdc491.png",
+							"image":"https://i0.hdslb.com/bfs/garb/115c764e2c030962c2ced48a232dd690c614d8b3.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[可爱鬼一二_飞行]",
+						"name":"[可爱鬼一二_摘下面具]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1270cc8ec9a1546f9f7a1fc8c6b89c83f50fb7b5.png",
+							"image":"https://i0.hdslb.com/bfs/garb/2baee29cbb747a8f06b6608081e8d3755522e79c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[可爱鬼一二_无脸一二]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6b68fc0f7c7e6368bd67f103fb37d63c5e322ee4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[可爱鬼一二_来啦]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ca4862bfe7e4a74f8367a100b894dcc078fdf111.png",
 							"sale_type":"pay"
 						}
 					},
@@ -251,6 +233,15 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f84fac434f9413f21694ec86b233eaadfa0bfb0a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[可爱鬼一二_看刀]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ac15289e64b12614a9fcd6e45ff4cc9101bdc491.png",
 							"sale_type":"pay"
 						}
 					},
@@ -278,6 +269,15 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/16d6ce53e66d451a7cdae717815a7d74c4ede218.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[可爱鬼一二_飞行]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1270cc8ec9a1546f9f7a1fc8c6b89c83f50fb7b5.png",
 							"sale_type":"pay"
 						}
 					}

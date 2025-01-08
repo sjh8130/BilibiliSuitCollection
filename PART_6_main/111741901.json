@@ -104,42 +104,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[2PP粉红兔_接收中]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5c551411c56becf74349fe519ab5b268efe425e0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[2PP粉红兔_极度愤怒]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5b46206d3b4b2a0967e13db5a9360c9da54f0066.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[2PP粉红兔_我康康]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3410321c71dfa4da6444c82b5c6951d2a2584c15.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[2PP粉红兔_润了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a0d5edece8db9bbd7fdacd81a4c96170ba2afcda.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[2PP粉红兔_come]",
 						"tab_id":0,
 						"properties":{
@@ -153,6 +117,24 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5168f8172337c0dba48036a699ba6a9f1541d1f8.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[2PP粉红兔_ok]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e838d0e2260eff10c00b98fdcd6b4eae06bbe6ac.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[2PP粉红兔_上天]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5ae49ef77686b70402d45352555c70af98d74f48.png",
 							"sale_type":"pay"
 						}
 					},
@@ -176,19 +158,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[2PP粉红兔_请开始表演]",
+						"name":"[2PP粉红兔_快落]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/58015053b4ba5c8982ab67d774034d5273f5b1e8.png",
+							"image":"https://i0.hdslb.com/bfs/garb/f8f9f4c2d28b4152e140c77540d7e803c2307cfd.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[2PP粉红兔_上天]",
+						"name":"[2PP粉红兔_我康康]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5ae49ef77686b70402d45352555c70af98d74f48.png",
+							"image":"https://i0.hdslb.com/bfs/garb/3410321c71dfa4da6444c82b5c6951d2a2584c15.png",
 							"sale_type":"pay"
 						}
 					},
@@ -203,6 +185,33 @@
 					},
 					{
 						"item_id":0,
+						"name":"[2PP粉红兔_接收中]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5c551411c56becf74349fe519ab5b268efe425e0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[2PP粉红兔_极度愤怒]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5b46206d3b4b2a0967e13db5a9360c9da54f0066.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[2PP粉红兔_润了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a0d5edece8db9bbd7fdacd81a4c96170ba2afcda.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[2PP粉红兔_爱你]",
 						"tab_id":0,
 						"properties":{
@@ -212,19 +221,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[2PP粉红兔_ok]",
+						"name":"[2PP粉红兔_请开始表演]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e838d0e2260eff10c00b98fdcd6b4eae06bbe6ac.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[2PP粉红兔_快落]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f8f9f4c2d28b4152e140c77540d7e803c2307cfd.png",
+							"image":"https://i0.hdslb.com/bfs/garb/58015053b4ba5c8982ab67d774034d5273f5b1e8.png",
 							"sale_type":"pay"
 						}
 					},

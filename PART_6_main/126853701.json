@@ -103,10 +103,37 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[强壮阿柴_豪横]",
+						"name":"[强壮阿柴_伸展]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/61a12d1505a8aa062b4102d91f4406a329b95258.png",
+							"image":"https://i0.hdslb.com/bfs/garb/5ca728c23b895dfdfdf499d61a57c7be78e57dfd.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[强壮阿柴_哈哈哈哈]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/16f3e4067f0485039161613e7ead4b8e68be2976.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[强壮阿柴_威武]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e3049e42f0062788c883c237ec9c743d01e554f7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[强壮阿柴_害怕]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cf27596daaa987f25863ee75cdbc4a95ba0c36ec.png",
 							"sale_type":"pay"
 						}
 					},
@@ -116,6 +143,33 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1dbd178e789dbc7b48557b6356093738eed7c184.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[强壮阿柴_招财]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/38b998b7ed9aefec4f4ca470b2c5d7112ce3d84c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[强壮阿柴_无法理解]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b9462440204ca8d5a34fdffb355c1d96033866e8.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[强壮阿柴_水龙头]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c1d541ff623c4bcd0cdb0bc40f07e6587103bf02.png",
 							"sale_type":"pay"
 						}
 					},
@@ -139,28 +193,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[强壮阿柴_威武]",
+						"name":"[强壮阿柴_肌肉]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e3049e42f0062788c883c237ec9c743d01e554f7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[强壮阿柴_哈哈哈哈]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/16f3e4067f0485039161613e7ead4b8e68be2976.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[强壮阿柴_菜狗]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c15ca6e1d54f2e98c02be693e6b780622a2a702e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/643e636f26e51d188cf7544af98a519126e43627.png",
 							"sale_type":"pay"
 						}
 					},
@@ -175,64 +211,28 @@
 					},
 					{
 						"item_id":0,
+						"name":"[强壮阿柴_菜狗]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c15ca6e1d54f2e98c02be693e6b780622a2a702e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[强壮阿柴_豪横]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/61a12d1505a8aa062b4102d91f4406a329b95258.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[强壮阿柴_这像画吗]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1a8c618f06dcd75f369887a72b7f345dc7557b70.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[强壮阿柴_水龙头]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c1d541ff623c4bcd0cdb0bc40f07e6587103bf02.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[强壮阿柴_肌肉]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/643e636f26e51d188cf7544af98a519126e43627.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[强壮阿柴_招财]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/38b998b7ed9aefec4f4ca470b2c5d7112ce3d84c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[强壮阿柴_伸展]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5ca728c23b895dfdfdf499d61a57c7be78e57dfd.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[强壮阿柴_害怕]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cf27596daaa987f25863ee75cdbc4a95ba0c36ec.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[强壮阿柴_无法理解]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b9462440204ca8d5a34fdffb355c1d96033866e8.png",
 							"sale_type":"pay"
 						}
 					}

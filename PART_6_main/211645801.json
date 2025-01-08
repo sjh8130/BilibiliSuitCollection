@@ -104,10 +104,55 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[我系广东嘅_中意鲤]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cfac42ad79952fa21f803c4a781b83466bcb3aa5.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[我系广东嘅_你的强来了]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/789ae253644920799b1bf892b339af7924220346.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[我系广东嘅_塞]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a7381a26f81d73e3dc5d74db8d6311d63ac1de98.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[我系广东嘅_得闲饮茶]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4c9b42d0fa6991c7af4d3d96c80a77040a11df38.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[我系广东嘅_我咩都无]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/31df76399c47efbed0cf8b0b1d0fad5a09dbda50.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[我系广东嘅_晴为何物]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6322f54ab7def56a9b34eb9f5f933101581c55e8.png",
 							"sale_type":"pay"
 						}
 					},
@@ -131,64 +176,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[我系广东嘅_训觉觉啦]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2e933786fd998b244227b1dfa91f63c98f5c3026.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[我系广东嘅_我咩都无]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/31df76399c47efbed0cf8b0b1d0fad5a09dbda50.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[我系广东嘅_素质out]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b5e58a08f34149f64fd3706254c4afc30be2648d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[我系广东嘅_晴为何物]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6322f54ab7def56a9b34eb9f5f933101581c55e8.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[我系广东嘅_猴]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c78d5d2252dcdcb23ec2ab9547d2412cb0cc321c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[我系广东嘅_塞]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a7381a26f81d73e3dc5d74db8d6311d63ac1de98.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[我系广东嘅_雷]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/60d1ed6a4936e411ef3df1ff28e4ce19519e9af9.png",
 							"sale_type":"pay"
 						}
 					},
@@ -203,28 +194,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[我系广东嘅_中意鲤]",
+						"name":"[我系广东嘅_素质out]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cfac42ad79952fa21f803c4a781b83466bcb3aa5.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b5e58a08f34149f64fd3706254c4afc30be2648d.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[我系广东嘅_得闲饮茶]",
+						"name":"[我系广东嘅_训觉觉啦]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4c9b42d0fa6991c7af4d3d96c80a77040a11df38.png",
+							"image":"https://i0.hdslb.com/bfs/garb/2e933786fd998b244227b1dfa91f63c98f5c3026.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[我系广东嘅_鲤猴]",
+						"name":"[我系广东嘅_雷]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/601c81748e692ed7129346d726e2613488fed409.png",
+							"image":"https://i0.hdslb.com/bfs/garb/60d1ed6a4936e411ef3df1ff28e4ce19519e9af9.png",
 							"sale_type":"pay"
 						}
 					},
@@ -234,6 +225,15 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f2797d86d4fcf0c97b9266777d24ea6775574950.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[我系广东嘅_鲤猴]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/601c81748e692ed7129346d726e2613488fed409.png",
 							"sale_type":"pay"
 						}
 					}

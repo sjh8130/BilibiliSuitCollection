@@ -26,7 +26,7 @@
 		"sale_sku_id_1":"2030296012",
 		"sale_sku_id_2":"2030296011",
 		"sale_time_begin":"1708066800",
-		"sale_time_end":"1736265600",
+		"sale_time_end":"1767801600",
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
 		"type":"ip"
@@ -113,19 +113,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[栗子熊和欧气熊_傲娇]",
+						"name":"[栗子熊和欧气熊_ok]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f4a83c30c401eb7fece080399783ae9a5eb0ba89.png",
+							"image":"https://i0.hdslb.com/bfs/garb/245676f247f5f121c889635b20375998f7328c4a.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[栗子熊和欧气熊_喜欢你]",
+						"name":"[栗子熊和欧气熊_傲娇]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2478ab048032f6facb9f30c9e057f260611c0e01.png",
+							"image":"https://i0.hdslb.com/bfs/garb/f4a83c30c401eb7fece080399783ae9a5eb0ba89.png",
 							"sale_type":"pay"
 						}
 					},
@@ -140,37 +140,28 @@
 					},
 					{
 						"item_id":0,
+						"name":"[栗子熊和欧气熊_咬你]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0ff3b44c038c645fd0c35593adef11a0313d7d8a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[栗子熊和欧气熊_喜欢你]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2478ab048032f6facb9f30c9e057f260611c0e01.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[栗子熊和欧气熊_困]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9f8a116bf31a7f74121386f5fc9a6e78ccba689b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[栗子熊和欧气熊_悠闲]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cf4c292e0615e5d25c84f1b7b1b2df751c1fe47b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[栗子熊和欧气熊_抠鼻]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f818cd389603a4e74e399f35d4a0c8d663872369.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[栗子熊和欧气熊_生气]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2e911c86fddf2faf63e5e918753c5ab559bf6f3e.png",
 							"sale_type":"pay"
 						}
 					},
@@ -185,19 +176,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[栗子熊和欧气熊_晚安]",
+						"name":"[栗子熊和欧气熊_悠闲]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b7a5be98ad584841526517c09cb97322d5f71a98.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[栗子熊和欧气熊_自信]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/50c9c53f0824ebe6a87b731772faa689fd8d7c01.png",
+							"image":"https://i0.hdslb.com/bfs/garb/cf4c292e0615e5d25c84f1b7b1b2df751c1fe47b.png",
 							"sale_type":"pay"
 						}
 					},
@@ -212,28 +194,46 @@
 					},
 					{
 						"item_id":0,
-						"name":"[栗子熊和欧气熊_咬你]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0ff3b44c038c645fd0c35593adef11a0313d7d8a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[栗子熊和欧气熊_ok]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/245676f247f5f121c889635b20375998f7328c4a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[栗子熊和欧气熊_惊喜]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ada699a629fed0a4385a9931f3668049e2ae2d10.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[栗子熊和欧气熊_抠鼻]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f818cd389603a4e74e399f35d4a0c8d663872369.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[栗子熊和欧气熊_晚安]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b7a5be98ad584841526517c09cb97322d5f71a98.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[栗子熊和欧气熊_生气]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2e911c86fddf2faf63e5e918753c5ab559bf6f3e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[栗子熊和欧气熊_自信]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/50c9c53f0824ebe6a87b731772faa689fd8d7c01.png",
 							"sale_type":"pay"
 						}
 					}

@@ -104,28 +104,19 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[涂涂软萌小可爱_可爱]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2a32993be17820795ba00975cd62fc334ee3c86b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[涂涂软萌小可爱_可爱狗]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20b7b6ca0d48301fd88c95f825603478d1ab5212.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[涂涂软萌小可爱_小猫咪]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/69df3c801248a696805b891de387c600d068824c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[涂涂软萌小可爱_小熊]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d300a885a52ef205af7a5bafbcca258a3782ff77.png",
 							"sale_type":"pay"
 						}
 					},
@@ -140,10 +131,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[涂涂软萌小可爱_蛋糕]",
+						"name":"[涂涂软萌小可爱_小熊]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5843ddc5e1712a09c8af5d308d50cbb21f949b14.png",
+							"image":"https://i0.hdslb.com/bfs/garb/d300a885a52ef205af7a5bafbcca258a3782ff77.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[涂涂软萌小可爱_小猫咪]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/69df3c801248a696805b891de387c600d068824c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[涂涂软萌小可爱_彩虹]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/55bd4adecd9ba04b5ec06fe80555bbe0b79abf44.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[涂涂软萌小可爱_星星]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/bb9db70dcb57757e4e2c9c477421b260685ac0ea.png",
 							"sale_type":"pay"
 						}
 					},
@@ -153,15 +171,6 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/303b6034b50ff12d409c4070b4d673bb6c9b1bb2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[涂涂软萌小可爱_蝴蝶结]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c0b3d988bb558e2c21efe7c1cb7a4890792d339f.png",
 							"sale_type":"pay"
 						}
 					},
@@ -185,15 +194,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[涂涂软萌小可爱_可爱]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2a32993be17820795ba00975cd62fc334ee3c86b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[涂涂软萌小可爱_草莓]",
 						"tab_id":0,
 						"properties":{
@@ -203,28 +203,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[涂涂软萌小可爱_彩虹]",
+						"name":"[涂涂软萌小可爱_蛋糕]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/55bd4adecd9ba04b5ec06fe80555bbe0b79abf44.png",
+							"image":"https://i0.hdslb.com/bfs/garb/5843ddc5e1712a09c8af5d308d50cbb21f949b14.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[涂涂软萌小可爱_饮品]",
+						"name":"[涂涂软萌小可爱_蝴蝶结]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5f740cc3c895f396f909c01d1061408317ab1f59.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[涂涂软萌小可爱_星星]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bb9db70dcb57757e4e2c9c477421b260685ac0ea.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c0b3d988bb558e2c21efe7c1cb7a4890792d339f.png",
 							"sale_type":"pay"
 						}
 					},
@@ -234,6 +225,15 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9854467e475ec0afca0d31f5ed59471b6f604ed7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[涂涂软萌小可爱_饮品]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5f740cc3c895f396f909c01d1061408317ab1f59.png",
 							"sale_type":"pay"
 						}
 					}

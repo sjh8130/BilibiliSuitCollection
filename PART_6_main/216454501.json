@@ -104,19 +104,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[搞怪小灰灰_摸摸头]",
+						"name":"[搞怪小灰灰_一起睡觉]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/87511c6ec79fa4daff6758f76f4ce9422d7bfa07.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[搞怪小灰灰_锤飞地球]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5b3d6db37899aee762950295204de18fc6e6b374.png",
+							"image":"https://i0.hdslb.com/bfs/garb/034eb84cc00101412bd12677def38e5f5a1f34c6.png",
 							"sale_type":"pay"
 						}
 					},
@@ -126,42 +117,6 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9cf0a6cadf962258360d9e16e4ade41db5e41815.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[搞怪小灰灰_想焦]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d84080f3845bb1ae9ed3d0b4efac197fb3f3c038.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[搞怪小灰灰_我也要]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e0f527a03a979e30b315b75ba2bece9b2f92cbf1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[搞怪小灰灰_香蕉攻击]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cfc9c9bf544be54f7a95d02eb35bdcaceb353104.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[搞怪小灰灰_错了但不改]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7d8a41a3bb21b45145c839b6b67d2d9c149e87ed.png",
 							"sale_type":"pay"
 						}
 					},
@@ -185,6 +140,42 @@
 					},
 					{
 						"item_id":0,
+						"name":"[搞怪小灰灰_想焦]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d84080f3845bb1ae9ed3d0b4efac197fb3f3c038.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[搞怪小灰灰_我也要]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e0f527a03a979e30b315b75ba2bece9b2f92cbf1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[搞怪小灰灰_摸摸头]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/87511c6ec79fa4daff6758f76f4ce9422d7bfa07.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[搞怪小灰灰_无语子]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/dfcd554a7009c3860d7f32bfee7832ac8b96e258.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[搞怪小灰灰_生气气]",
 						"tab_id":0,
 						"properties":{
@@ -203,15 +194,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[搞怪小灰灰_一起睡觉]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/034eb84cc00101412bd12677def38e5f5a1f34c6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[搞怪小灰灰_贴贴]",
 						"tab_id":0,
 						"properties":{
@@ -221,10 +203,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[搞怪小灰灰_无语子]",
+						"name":"[搞怪小灰灰_错了但不改]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dfcd554a7009c3860d7f32bfee7832ac8b96e258.png",
+							"image":"https://i0.hdslb.com/bfs/garb/7d8a41a3bb21b45145c839b6b67d2d9c149e87ed.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[搞怪小灰灰_锤飞地球]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5b3d6db37899aee762950295204de18fc6e6b374.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[搞怪小灰灰_香蕉攻击]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cfc9c9bf544be54f7a95d02eb35bdcaceb353104.png",
 							"sale_type":"pay"
 						}
 					},

@@ -103,33 +103,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[魔性鹅鹅_鹅头]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/89d80583e963de140a39bd8fb2811c3c8348c67e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[魔性鹅鹅_鹅身]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ca10d98888134ac11f3149f5b76cf71299fd12f0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[魔性鹅鹅_鹅尾]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/64f88dfcac26439ddef4c0079f83562ba60c2dea.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[魔性鹅鹅_一摊鹅]",
 						"tab_id":0,
 						"properties":{
@@ -139,19 +112,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[魔性鹅鹅_戳]",
+						"name":"[魔性鹅鹅_上天堂鹅]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/672dc6bbbe9c21e38e90abf44483bfc063e8cf61.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[魔性鹅鹅_铁锅炖大鹅]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bd0881112c85a5d349f53beb0dc522d533fe0438.png",
+							"image":"https://i0.hdslb.com/bfs/garb/77d047a6b72ea78116349b397bd49b33494c4ed5.png",
 							"sale_type":"pay"
 						}
 					},
@@ -193,10 +157,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[魔性鹅鹅_起杀心]",
+						"name":"[魔性鹅鹅_戳]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a11cf0125eceeb0a73fadc155feb2818a463b388.png",
+							"image":"https://i0.hdslb.com/bfs/garb/672dc6bbbe9c21e38e90abf44483bfc063e8cf61.png",
 							"sale_type":"pay"
 						}
 					},
@@ -211,15 +175,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[魔性鹅鹅_精神良好]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fe22300d0b942ef0b272cc5e3afbff5d99c41043.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[魔性鹅鹅_着急]",
 						"tab_id":0,
 						"properties":{
@@ -229,10 +184,55 @@
 					},
 					{
 						"item_id":0,
-						"name":"[魔性鹅鹅_上天堂鹅]",
+						"name":"[魔性鹅鹅_精神良好]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/77d047a6b72ea78116349b397bd49b33494c4ed5.png",
+							"image":"https://i0.hdslb.com/bfs/garb/fe22300d0b942ef0b272cc5e3afbff5d99c41043.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[魔性鹅鹅_起杀心]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a11cf0125eceeb0a73fadc155feb2818a463b388.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[魔性鹅鹅_铁锅炖大鹅]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/bd0881112c85a5d349f53beb0dc522d533fe0438.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[魔性鹅鹅_鹅头]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/89d80583e963de140a39bd8fb2811c3c8348c67e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[魔性鹅鹅_鹅尾]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/64f88dfcac26439ddef4c0079f83562ba60c2dea.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[魔性鹅鹅_鹅身]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ca10d98888134ac11f3149f5b76cf71299fd12f0.png",
 							"sale_type":"pay"
 						}
 					}

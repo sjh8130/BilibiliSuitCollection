@@ -113,10 +113,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[璃舞-纪念_吃瓜]",
+						"name":"[璃舞-纪念_举手投降]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4606d6a06aa97fbc62489f0a20e64785dc6ba2b4.png",
+							"image":"https://i0.hdslb.com/bfs/garb/79a84a9af8b443e7b339e180f9093fedca5da71e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[璃舞-纪念_你是]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ebb97a671b9a04bd081e8f834dbab0e2da7629c2.png",
 							"sale_type":"pay"
 						}
 					},
@@ -131,10 +140,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[璃舞-纪念_打call]",
+						"name":"[璃舞-纪念_吃瓜]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/15fc2805d7ea25c1310d1e2d27b14bf7f491f7ca.png",
+							"image":"https://i0.hdslb.com/bfs/garb/4606d6a06aa97fbc62489f0a20e64785dc6ba2b4.png",
 							"sale_type":"pay"
 						}
 					},
@@ -149,55 +158,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[璃舞-纪念_蛋包饭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b78a551860d0f0b77d155749d7323dbae5afbaaa.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[璃舞-纪念_端披萨]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/95707e54d7e1fe6d86150572e8c675194802d70e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[璃舞-纪念_结婚]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a4e51438f2796503a0b3d448fce8a1cd4e87a258.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[璃舞-纪念_举手投降]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/79a84a9af8b443e7b339e180f9093fedca5da71e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[璃舞-纪念_流汗]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a703af017a01e77a2b1e165a2b13e58ed9e9a5e4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[璃舞-纪念_妈]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a56e5c0aa84d1f0d373b269b5ed106edb6daaa31.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[璃舞-纪念_手机有款]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/47deee93f1f8efef2bfd833cf600df92aebf7e55.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[璃舞-纪念_打call]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/15fc2805d7ea25c1310d1e2d27b14bf7f491f7ca.png",
 							"sale_type":"pay"
 						}
 					},
@@ -221,19 +203,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[璃舞-纪念_你是]",
+						"name":"[璃舞-纪念_永远爱你]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ebb97a671b9a04bd081e8f834dbab0e2da7629c2.png",
+							"image":"https://i0.hdslb.com/bfs/garb/dbe26cf725ac2a6e535539d98f96a0070cb7427e.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[璃舞-纪念_手机有款]",
+						"name":"[璃舞-纪念_流汗]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/47deee93f1f8efef2bfd833cf600df92aebf7e55.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a703af017a01e77a2b1e165a2b13e58ed9e9a5e4.png",
 							"sale_type":"pay"
 						}
 					},
@@ -248,15 +230,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[璃舞-纪念_舞门]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/746c4903d74759ad0d4dc905df613023172f7dce.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[璃舞-纪念_稀有]",
 						"tab_id":0,
 						"properties":{
@@ -266,19 +239,46 @@
 					},
 					{
 						"item_id":0,
-						"name":"[璃舞-纪念_谢谢老板]",
+						"name":"[璃舞-纪念_端披萨]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6a6eda3c14f13998b7e0d93f0e05b597a7c66eda.png",
+							"image":"https://i0.hdslb.com/bfs/garb/95707e54d7e1fe6d86150572e8c675194802d70e.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[璃舞-纪念_永远爱你]",
+						"name":"[璃舞-纪念_结婚]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dbe26cf725ac2a6e535539d98f96a0070cb7427e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a4e51438f2796503a0b3d448fce8a1cd4e87a258.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[璃舞-纪念_舞门]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/746c4903d74759ad0d4dc905df613023172f7dce.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[璃舞-纪念_蛋包饭]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b78a551860d0f0b77d155749d7323dbae5afbaaa.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[璃舞-纪念_谢谢老板]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6a6eda3c14f13998b7e0d93f0e05b597a7c66eda.png",
 							"sale_type":"pay"
 						}
 					}

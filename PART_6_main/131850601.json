@@ -103,37 +103,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[你关注的鸽子_在路上了]",
+						"name":"[你关注的鸽子_AWSL]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e2d5f3a8e6e611dddcc973bf12f151961283f7a4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[你关注的鸽子_爷关鸽]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/73a932394a7975147dbd24f44dbddb87a303d3cd.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[你关注的鸽子_看好东西]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/16c9fa901e7c9ac839026496f19d1e31ff2ab2aa.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[你关注的鸽子_骗你的]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9e8927759c045ec653ae395e0e4f431dbef5bf6d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/9b27a0a83d73d72af5618c4c2175018663b917ff.png",
 							"sale_type":"pay"
 						}
 					},
@@ -148,19 +121,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[你关注的鸽子_理直气壮]",
+						"name":"[你关注的鸽子_偷吃一口]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ea9237ad14712dab7a2c0d4a9f9e0c85b0804b95.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[你关注的鸽子_运动]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/235cab1a98907be3ae854eb129817bea5c3465e0.png",
+							"image":"https://i0.hdslb.com/bfs/garb/3466b70c046a9ba6deb60f8e3c68559dc846037e.png",
 							"sale_type":"pay"
 						}
 					},
@@ -175,28 +139,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[你关注的鸽子_AWSL]",
+						"name":"[你关注的鸽子_在路上了]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9b27a0a83d73d72af5618c4c2175018663b917ff.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[你关注的鸽子_偷吃一口]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3466b70c046a9ba6deb60f8e3c68559dc846037e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[你关注的鸽子_更新了吗]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d62906b9295a48f9125e2261f8d035f2e538cf54.png",
+							"image":"https://i0.hdslb.com/bfs/garb/e2d5f3a8e6e611dddcc973bf12f151961283f7a4.png",
 							"sale_type":"pay"
 						}
 					},
@@ -211,10 +157,64 @@
 					},
 					{
 						"item_id":0,
+						"name":"[你关注的鸽子_无法抵挡]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d0ba7929a1995e52ef5c568c2d90dcd80142f5e6.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[你关注的鸽子_更新了吗]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d62906b9295a48f9125e2261f8d035f2e538cf54.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[你关注的鸽子_爷关鸽]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/73a932394a7975147dbd24f44dbddb87a303d3cd.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[你关注的鸽子_理直气壮]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ea9237ad14712dab7a2c0d4a9f9e0c85b0804b95.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[你关注的鸽子_看好东西]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/16c9fa901e7c9ac839026496f19d1e31ff2ab2aa.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[你关注的鸽子_真下饭]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f91f6453e011243852ae52753eb0b3c6b26f945a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[你关注的鸽子_运动]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/235cab1a98907be3ae854eb129817bea5c3465e0.png",
 							"sale_type":"pay"
 						}
 					},
@@ -229,10 +229,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[你关注的鸽子_无法抵挡]",
+						"name":"[你关注的鸽子_骗你的]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d0ba7929a1995e52ef5c568c2d90dcd80142f5e6.png",
+							"image":"https://i0.hdslb.com/bfs/garb/9e8927759c045ec653ae395e0e4f431dbef5bf6d.png",
 							"sale_type":"pay"
 						}
 					}
@@ -299,6 +299,6 @@
 	"fan_user":{
 		"mid":3493134470220310,
 		"nickname":"京极科技",
-		"avatar":"https://i1.hdslb.com/bfs/face/0f0a2291991ead4d857428cd3c54acfbc3622319.jpg"
+		"avatar":"https://i1.hdslb.com/bfs/face/d7a9cbfa42761c654d61f88941771082de524eb7.jpg"
 	}
 }

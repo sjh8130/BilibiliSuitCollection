@@ -103,6 +103,24 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[光之少年_v我50]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d3016e42fed7cf4cc642d1fe4399e9ceca1cf5b1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[光之少年_你先别急]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7e0c9e9a7482ef61f41003d24c468023769e9427.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[光之少年_吃我一拳]",
 						"tab_id":0,
 						"properties":{
@@ -121,42 +139,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[光之少年_好耶]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6d5e4f12d394fc9a03e07bef362fd2529f1d7ba9.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[光之少年_v我50]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d3016e42fed7cf4cc642d1fe4399e9ceca1cf5b1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[光之少年_送fafa]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8def631d264e9178d929531a746d0521446d0202.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[光之少年_你先别急]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7e0c9e9a7482ef61f41003d24c468023769e9427.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[光之少年_大脑过载]",
 						"tab_id":0,
 						"properties":{
@@ -166,10 +148,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[光之少年_对不起]",
+						"name":"[光之少年_好耶]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e56b1fa5976dc8a76f57e5fe372b0ebd7dad68fa.png",
+							"image":"https://i0.hdslb.com/bfs/garb/6d5e4f12d394fc9a03e07bef362fd2529f1d7ba9.png",
 							"sale_type":"pay"
 						}
 					},
@@ -184,37 +166,19 @@
 					},
 					{
 						"item_id":0,
+						"name":"[光之少年_对不起]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e56b1fa5976dc8a76f57e5fe372b0ebd7dad68fa.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[光之少年_急急急]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bd70d6f0177768be1c4bb6ea6e101340eaab8e7c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[光之少年_机智如我]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4aca471b0d29ed3a38fee21acc7f997cf7153e4a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[光之少年_疑惑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/018db6e04940aeebf44006408a4080cd32ef2003.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[光之少年_生气]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9c1b1a7ca0a8ff3d735bfb16fa5187e3c91bbb8f.png",
 							"sale_type":"pay"
 						}
 					},
@@ -229,10 +193,46 @@
 					},
 					{
 						"item_id":0,
+						"name":"[光之少年_机智如我]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4aca471b0d29ed3a38fee21acc7f997cf7153e4a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[光之少年_生气]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9c1b1a7ca0a8ff3d735bfb16fa5187e3c91bbb8f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[光之少年_疑惑]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/018db6e04940aeebf44006408a4080cd32ef2003.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[光之少年_睡]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a5de9203f53c73dfbb4371faab7fae660721749d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[光之少年_送fafa]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8def631d264e9178d929531a746d0521446d0202.png",
 							"sale_type":"pay"
 						}
 					}

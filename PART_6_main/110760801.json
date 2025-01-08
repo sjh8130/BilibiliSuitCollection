@@ -121,10 +121,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[十二生肖·可爱牛牛_晕了]",
+						"name":"[十二生肖·可爱牛牛_偷看]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/720893164653f01452692d05bfa294fbace84556.png",
+							"image":"https://i0.hdslb.com/bfs/garb/9633673266ec531ffff0aec41da3309e7a8027ee.png",
 							"sale_type":"pay"
 						}
 					},
@@ -139,73 +139,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[十二生肖·可爱牛牛_崇拜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/958f8157955fdac03b0d7a110e96be0380273236.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[十二生肖·可爱牛牛_开眼了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/277feab55a413f8442549487ae1629f907bdee64.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[十二生肖·可爱牛牛_撒花]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/64624b74ef4bde2ccddf18ef0c5cbeda82b382d1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[十二生肖·可爱牛牛_润！]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7f909c5de5e5497dd39ffc971e5da40a4613a766.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[十二生肖·可爱牛牛_听到了！]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c5a411e060c31fe7eae8d5c1f029de69f808e9cb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[十二生肖·可爱牛牛_偷看]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9633673266ec531ffff0aec41da3309e7a8027ee.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[十二生肖·可爱牛牛_无语]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/092b03de83918335cb3d62c44a24d95a4b005e13.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[十二生肖·可爱牛牛_石化]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1ca8cc6dd726ffb8509a269177ff356bf1ddc130.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,6 +157,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[十二生肖·可爱牛牛_崇拜]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/958f8157955fdac03b0d7a110e96be0380273236.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[十二生肖·可爱牛牛_庆祝一下]",
 						"tab_id":0,
 						"properties":{
@@ -229,10 +175,64 @@
 					},
 					{
 						"item_id":0,
+						"name":"[十二生肖·可爱牛牛_开眼了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/277feab55a413f8442549487ae1629f907bdee64.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[十二生肖·可爱牛牛_彩虹生产者]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c5f4cd26299f4196ea88236dbba426d4ef4726bb.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[十二生肖·可爱牛牛_撒花]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/64624b74ef4bde2ccddf18ef0c5cbeda82b382d1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[十二生肖·可爱牛牛_无语]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/092b03de83918335cb3d62c44a24d95a4b005e13.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[十二生肖·可爱牛牛_晕了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/720893164653f01452692d05bfa294fbace84556.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[十二生肖·可爱牛牛_润！]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7f909c5de5e5497dd39ffc971e5da40a4613a766.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[十二生肖·可爱牛牛_石化]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1ca8cc6dd726ffb8509a269177ff356bf1ddc130.png",
 							"sale_type":"pay"
 						}
 					}

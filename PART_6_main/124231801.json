@@ -103,24 +103,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[卡哇伊少女_有钱了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b99ead60f0ca267459ffa9aa1e49905b5dc332fe.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[卡哇伊少女_摸鱼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ae5ca39c2613e0cb903b23cc09a8d42e599aebd3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[卡哇伊少女_兔兔]",
 						"tab_id":0,
 						"properties":{
@@ -130,10 +112,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[卡哇伊少女_猫猫]",
+						"name":"[卡哇伊少女_垃圾桶]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3c9dde4a0e216712b3146514404ad7dcad75f2ea.png",
+							"image":"https://i0.hdslb.com/bfs/garb/fe2dfe54f64da2cc9d61459dbae62940e7c3b5a0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[卡哇伊少女_委屈]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/73af38642a5c879680cd7223f38b0747c1f416c6.png",
 							"sale_type":"pay"
 						}
 					},
@@ -157,28 +148,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[卡哇伊少女_流泪]",
+						"name":"[卡哇伊少女_摸鱼]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ca395d4b439f34846b7513ba7531ea491a20a425.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[卡哇伊少女_给你一拳]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e5df58229a54534246849178c67b9096f73869be.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[卡哇伊少女_委屈]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/73af38642a5c879680cd7223f38b0747c1f416c6.png",
+							"image":"https://i0.hdslb.com/bfs/garb/ae5ca39c2613e0cb903b23cc09a8d42e599aebd3.png",
 							"sale_type":"pay"
 						}
 					},
@@ -202,6 +175,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[卡哇伊少女_有钱了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b99ead60f0ca267459ffa9aa1e49905b5dc332fe.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[卡哇伊少女_期待]",
 						"tab_id":0,
 						"properties":{
@@ -220,10 +202,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[卡哇伊少女_垃圾桶]",
+						"name":"[卡哇伊少女_流泪]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fe2dfe54f64da2cc9d61459dbae62940e7c3b5a0.png",
+							"image":"https://i0.hdslb.com/bfs/garb/ca395d4b439f34846b7513ba7531ea491a20a425.png",
 							"sale_type":"pay"
 						}
 					},
@@ -233,6 +215,24 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/124fa6dc9b65f12b892cd3751933d1d87bd2c630.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[卡哇伊少女_猫猫]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3c9dde4a0e216712b3146514404ad7dcad75f2ea.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[卡哇伊少女_给你一拳]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e5df58229a54534246849178c67b9096f73869be.png",
 							"sale_type":"pay"
 						}
 					}

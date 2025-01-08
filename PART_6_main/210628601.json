@@ -103,64 +103,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[像素猫宇宙2.0_求求了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4047fd4f2333ebad68d9ced60e79a3c22832f8f7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[像素猫宇宙2.0_科目三]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/962d95af956ecbb6fcc74250804065473f3998ac.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[像素猫宇宙2.0_上网]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5f3e6b8c73d64c3cda5e604e4dd02d28a12c7062.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[像素猫宇宙2.0_委屈]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1373a60aecdbd0232da807c4ae4fc090c0f35ca4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[像素猫宇宙2.0_尖叫]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/701b1fd8f101d4c3b597c5be1b41f06da05240ca.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[像素猫宇宙2.0_呕]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/164893888c3c2955de011ddcaee9d3b7681db16c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[像素猫宇宙2.0_端庄]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/978c00f3c863008a295d448bb03d62b1bd22fd05.png",
 							"sale_type":"pay"
 						}
 					},
@@ -175,19 +121,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[像素猫宇宙2.0_张嘴]",
+						"name":"[像素猫宇宙2.0_凝视]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4c72c475ce2f8ff27c95fa9871de5fcdda59e7b5.png",
+							"image":"https://i0.hdslb.com/bfs/garb/bb01e49494dffb822d96f371ba5e309e273c7705.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[像素猫宇宙2.0_开心]",
+						"name":"[像素猫宇宙2.0_呕]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5a914ba4e4f2dd20c42ef2ecf750330b05e70ba4.png",
+							"image":"https://i0.hdslb.com/bfs/garb/164893888c3c2955de011ddcaee9d3b7681db16c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[像素猫宇宙2.0_嘎嘣脆]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6484cffc6132abbf20550b1623e9933893a736d9.png",
 							"sale_type":"pay"
 						}
 					},
@@ -211,10 +166,64 @@
 					},
 					{
 						"item_id":0,
-						"name":"[像素猫宇宙2.0_凝视]",
+						"name":"[像素猫宇宙2.0_委屈]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bb01e49494dffb822d96f371ba5e309e273c7705.png",
+							"image":"https://i0.hdslb.com/bfs/garb/1373a60aecdbd0232da807c4ae4fc090c0f35ca4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[像素猫宇宙2.0_尖叫]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/701b1fd8f101d4c3b597c5be1b41f06da05240ca.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[像素猫宇宙2.0_开心]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5a914ba4e4f2dd20c42ef2ecf750330b05e70ba4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[像素猫宇宙2.0_张嘴]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4c72c475ce2f8ff27c95fa9871de5fcdda59e7b5.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[像素猫宇宙2.0_求求了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4047fd4f2333ebad68d9ced60e79a3c22832f8f7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[像素猫宇宙2.0_科目三]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/962d95af956ecbb6fcc74250804065473f3998ac.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[像素猫宇宙2.0_端庄]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/978c00f3c863008a295d448bb03d62b1bd22fd05.png",
 							"sale_type":"pay"
 						}
 					},
@@ -224,15 +233,6 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b0d630fca42e3f141a1379637121af0f25e08d19.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[像素猫宇宙2.0_嘎嘣脆]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6484cffc6132abbf20550b1623e9933893a736d9.png",
 							"sale_type":"pay"
 						}
 					}

@@ -103,37 +103,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[火柴人科目三_左摇手]",
+						"name":"[火柴人科目三_nice]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e33890d3afe4fb3cac989c87ab8de73ebbf84cb8.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[火柴人科目三_右摇手]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b28a2ae109dfd3700de974909115f9a7fea4ade6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[火柴人科目三_手转圈]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e14a28ec0512031b6d835043d6ee0110b5499933.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[火柴人科目三_叉腰]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bfd2c1fd3057f4a7ed62ee79351322e640b3b216.png",
+							"image":"https://i0.hdslb.com/bfs/garb/385d91e3b75cd0afc5efbb62637ff0e75609dec6.png",
 							"sale_type":"pay"
 						}
 					},
@@ -148,37 +121,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[火柴人科目三_往左]",
+						"name":"[火柴人科目三_举灯牌]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/63603d6437472c3f9eba6acbd7dddece8554c54c.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a4bcdda31936f3a162a29c2f7daae0104fcc2050.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[火柴人科目三_插手]",
+						"name":"[火柴人科目三_叉腰]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/931c69a186d25d6ec82f41ce96482723c89e0138.png",
+							"image":"https://i0.hdslb.com/bfs/garb/bfd2c1fd3057f4a7ed62ee79351322e640b3b216.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[火柴人科目三_往右]",
+						"name":"[火柴人科目三_右摇手]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2d3fb1cbe3c3063dcf3446d1d426015b3abefd96.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[火柴人科目三_手向上]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a4a7f1fb2ce8f694c0c69fa8111275a6463ff3b9.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b28a2ae109dfd3700de974909115f9a7fea4ade6.png",
 							"sale_type":"pay"
 						}
 					},
@@ -193,19 +157,64 @@
 					},
 					{
 						"item_id":0,
-						"name":"[火柴人科目三_音乐]",
+						"name":"[火柴人科目三_左摇手]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/16ffdfae34ff76cbed78c4e12aa6430a8578adc8.png",
+							"image":"https://i0.hdslb.com/bfs/garb/e33890d3afe4fb3cac989c87ab8de73ebbf84cb8.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[火柴人科目三_举灯牌]",
+						"name":"[火柴人科目三_往右]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a4bcdda31936f3a162a29c2f7daae0104fcc2050.png",
+							"image":"https://i0.hdslb.com/bfs/garb/2d3fb1cbe3c3063dcf3446d1d426015b3abefd96.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[火柴人科目三_往左]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/63603d6437472c3f9eba6acbd7dddece8554c54c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[火柴人科目三_手向上]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a4a7f1fb2ce8f694c0c69fa8111275a6463ff3b9.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[火柴人科目三_手转圈]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e14a28ec0512031b6d835043d6ee0110b5499933.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[火柴人科目三_插手]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/931c69a186d25d6ec82f41ce96482723c89e0138.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[火柴人科目三_看烟花]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0412a57e670d256395d3a19f436735a994f1f4ef.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,19 +229,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[火柴人科目三_nice]",
+						"name":"[火柴人科目三_音乐]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/385d91e3b75cd0afc5efbb62637ff0e75609dec6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[火柴人科目三_看烟花]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0412a57e670d256395d3a19f436735a994f1f4ef.png",
+							"image":"https://i0.hdslb.com/bfs/garb/16ffdfae34ff76cbed78c4e12aa6430a8578adc8.png",
 							"sale_type":"pay"
 						}
 					}

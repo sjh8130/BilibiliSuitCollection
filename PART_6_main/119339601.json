@@ -103,10 +103,19 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[复古鱼鱼_鱼尾]",
+						"name":"[复古鱼鱼_什么东西]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/18cf3d7a1b1bdbf0bd5c2ee17c447c248083a03a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b223f09667ff1059bbbf4c034b19d70cccd880a7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[复古鱼鱼_光环]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/901f6d93e6dc4209dd010fa9618a4c70d1753452.png",
 							"sale_type":"pay"
 						}
 					},
@@ -121,19 +130,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[复古鱼鱼_鱼头]",
+						"name":"[复古鱼鱼_力量汲取]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8d77d76b877ded003c9c046172f0f1c2707dffa1.png",
+							"image":"https://i0.hdslb.com/bfs/garb/1a4387e1d9846505db6b9678019f79a97914a9cb.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[复古鱼鱼_嘬嘬]",
+						"name":"[复古鱼鱼_原来是你]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/031e0d20a276cef510e83499d2a13595dd9b701a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/e8d3c0d45d95b553be83b1c9972fd2cf4bf00c3d.png",
 							"sale_type":"pay"
 						}
 					},
@@ -157,37 +166,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[复古鱼鱼_镜像]",
+						"name":"[复古鱼鱼_嘬嘬]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3b08f3be511656b4251e500a3ff8cd076856e044.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[复古鱼鱼_光环]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/901f6d93e6dc4209dd010fa9618a4c70d1753452.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[复古鱼鱼_悠闲]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b1546567380b9500b550d192d6ccdf3bb210365d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[复古鱼鱼_灵光一现]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/12b93f8c12ca021d2fe2099efdd98b64881ab3b9.png",
+							"image":"https://i0.hdslb.com/bfs/garb/031e0d20a276cef510e83499d2a13595dd9b701a.png",
 							"sale_type":"pay"
 						}
 					},
@@ -202,6 +184,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[复古鱼鱼_悠闲]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b1546567380b9500b550d192d6ccdf3bb210365d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[复古鱼鱼_无语]",
 						"tab_id":0,
 						"properties":{
@@ -211,28 +202,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[复古鱼鱼_力量汲取]",
+						"name":"[复古鱼鱼_灵光一现]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1a4387e1d9846505db6b9678019f79a97914a9cb.png",
+							"image":"https://i0.hdslb.com/bfs/garb/12b93f8c12ca021d2fe2099efdd98b64881ab3b9.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[复古鱼鱼_什么东西]",
+						"name":"[复古鱼鱼_镜像]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b223f09667ff1059bbbf4c034b19d70cccd880a7.png",
+							"image":"https://i0.hdslb.com/bfs/garb/3b08f3be511656b4251e500a3ff8cd076856e044.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[复古鱼鱼_原来是你]",
+						"name":"[复古鱼鱼_鱼头]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e8d3c0d45d95b553be83b1c9972fd2cf4bf00c3d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/8d77d76b877ded003c9c046172f0f1c2707dffa1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[复古鱼鱼_鱼尾]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/18cf3d7a1b1bdbf0bd5c2ee17c447c248083a03a.png",
 							"sale_type":"pay"
 						}
 					}

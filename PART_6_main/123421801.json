@@ -103,10 +103,19 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[断手猫_害羞]",
+						"name":"[断手猫_买买买]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/68e048128bf731899b356264ac717d60fbf5ec47.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0199f2253bb197f15c44ec0912ef99639c94df1c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[断手猫_右上]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9bc95f8a34f1df6f91e3c4f8d5ee4c88a7ba4739.png",
 							"sale_type":"pay"
 						}
 					},
@@ -121,10 +130,55 @@
 					},
 					{
 						"item_id":0,
-						"name":"[断手猫_正下]",
+						"name":"[断手猫_右边]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cf94710780783e0e126fe72ed12b301dc377296d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/fd298de8726c5c420cc6727ef60fea378304472b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[断手猫_吃瓜]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/64c8ae864beb36c61f2c4763b095c258c8dc3a4a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[断手猫_哭哭]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a773303a23ecb9a232cc38b864df1d6336bc81a2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[断手猫_害羞]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/68e048128bf731899b356264ac717d60fbf5ec47.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[断手猫_小丑]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/21539e4c3fdb09e472be642402870c3dc45a459d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[断手猫_左上]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/295a2777d807b323d5b2b76b635e3d56ccdb2424.png",
 							"sale_type":"pay"
 						}
 					},
@@ -139,28 +193,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[断手猫_买买买]",
+						"name":"[断手猫_左边]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0199f2253bb197f15c44ec0912ef99639c94df1c.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a550a2be34d260c44f23a7888964ae612aad1f3a.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[断手猫_看手机]",
+						"name":"[断手猫_挥手]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6fa309be4062937a13acd5437c57ad7a85e87974.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[断手猫_右边]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fd298de8726c5c420cc6727ef60fea378304472b.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a6f0cb9edf60c064cba95961060e09f805e3b7d6.png",
 							"sale_type":"pay"
 						}
 					},
@@ -175,10 +220,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[断手猫_左边]",
+						"name":"[断手猫_杂鱼]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a550a2be34d260c44f23a7888964ae612aad1f3a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/4021e1814319391d5114c53dcc5af3df07c0fef4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[断手猫_正上]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7ed07b584cb23a12457d5b053d46c14c037ca98a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[断手猫_正下]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cf94710780783e0e126fe72ed12b301dc377296d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[断手猫_看手机]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6fa309be4062937a13acd5437c57ad7a85e87974.png",
 							"sale_type":"pay"
 						}
 					},
@@ -202,82 +274,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[断手猫_右上]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9bc95f8a34f1df6f91e3c4f8d5ee4c88a7ba4739.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[断手猫_正上]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7ed07b584cb23a12457d5b053d46c14c037ca98a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[断手猫_左上]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/295a2777d807b323d5b2b76b635e3d56ccdb2424.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[断手猫_吃瓜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/64c8ae864beb36c61f2c4763b095c258c8dc3a4a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[断手猫_震惊]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/687966d3b5aac0b38e84bbf7c72fccbfa5cb14f9.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[断手猫_杂鱼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4021e1814319391d5114c53dcc5af3df07c0fef4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[断手猫_小丑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/21539e4c3fdb09e472be642402870c3dc45a459d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[断手猫_哭哭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a773303a23ecb9a232cc38b864df1d6336bc81a2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[断手猫_挥手]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a6f0cb9edf60c064cba95961060e09f805e3b7d6.png",
 							"sale_type":"pay"
 						}
 					}

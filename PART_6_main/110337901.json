@@ -104,87 +104,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[大耳狗_抱]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/923b4196b4dd2240d8684efec18737a2b62524a3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗_许下星愿]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e0765a77be5457b4f695ee988a04111a2ea1d0e9.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗_蹦蹦]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9bd909c8401be6f9a9992f38d7fcd33298df0256.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗_突然出现]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ba2e1f7587e6c31480434485ae42aa8f0dbe6943.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗_跳舞]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cdf1a4c8cf05975f024fb902fcf0981e01b22fc2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗_递茶]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4c53a90e523b5afe1a875694c9c5317f852dd8ce.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗_疑惑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/65693683e53c6f970345384879c995ff9f5f5329.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗_把心给你]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/aa2212d9d5b480f627d9ab7366f78246ca7ee636.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗_期待]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6931903b0ef8be9f99314d265bb5d794d9663fd2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[大耳狗_一起看书]",
 						"tab_id":0,
 						"properties":{
@@ -212,15 +131,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[大耳狗_来信啦]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0a8c7ce012159e9e91f8e10d3e71e15bbc99afeb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[大耳狗_我趴]",
 						"tab_id":0,
 						"properties":{
@@ -230,10 +140,100 @@
 					},
 					{
 						"item_id":0,
+						"name":"[大耳狗_把心给你]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/aa2212d9d5b480f627d9ab7366f78246ca7ee636.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗_抱]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/923b4196b4dd2240d8684efec18737a2b62524a3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗_期待]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6931903b0ef8be9f99314d265bb5d794d9663fd2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗_来信啦]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0a8c7ce012159e9e91f8e10d3e71e15bbc99afeb.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[大耳狗_来喽]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/356e310b67189174ee3337ab46279bb9c3dcaf81.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗_疑惑]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/65693683e53c6f970345384879c995ff9f5f5329.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗_突然出现]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ba2e1f7587e6c31480434485ae42aa8f0dbe6943.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗_许下星愿]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e0765a77be5457b4f695ee988a04111a2ea1d0e9.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗_跳舞]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cdf1a4c8cf05975f024fb902fcf0981e01b22fc2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗_蹦蹦]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9bd909c8401be6f9a9992f38d7fcd33298df0256.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗_递茶]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4c53a90e523b5afe1a875694c9c5317f852dd8ce.png",
 							"sale_type":"pay"
 						}
 					}

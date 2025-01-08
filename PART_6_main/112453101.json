@@ -103,73 +103,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[星际乐章Melody_用点脑子]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2f334fc9d12297cab80a682fbc8f498c8da34e40.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星际乐章Melody_别说话]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/41fdc2391b674478d7781ae2691278e44a9d20ab.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星际乐章Melody_哼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5e350942aef4b4bae9457a7943445ed6ae732976.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星际乐章Melody_干我屁事]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/35c67c8f1d1a96791a72298c46a9f9baf3c5c1d8.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星际乐章Melody_邦]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9eff960645574f66ace0dc9d1028882d667e9014.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[星际乐章Melody_Do]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/28908a91639d3f71615f51ddc5c18ce38f328c6b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星际乐章Melody_Re]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/260d8c1bb60a26eff9d9cb4459f146a7a95ca90d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星际乐章Melody_Mi]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/450b72e8c8d14c94687f142be691aad126f4b60c.png",
 							"sale_type":"pay"
 						}
 					},
@@ -184,19 +121,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[星际乐章Melody_Suo]",
+						"name":"[星际乐章Melody_La]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/00fc65baf763d98494acbdcb09e7947e9850afeb.png",
+							"image":"https://i0.hdslb.com/bfs/garb/2da67ddf1c90ab02f3e71d98d93e019f69b1aaaa.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[星际乐章Melody_La]",
+						"name":"[星际乐章Melody_Mi]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2da67ddf1c90ab02f3e71d98d93e019f69b1aaaa.png",
+							"image":"https://i0.hdslb.com/bfs/garb/450b72e8c8d14c94687f142be691aad126f4b60c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星际乐章Melody_Re]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/260d8c1bb60a26eff9d9cb4459f146a7a95ca90d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星际乐章Melody_Suo]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/00fc65baf763d98494acbdcb09e7947e9850afeb.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,10 +175,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[星际乐章Melody_想吃]",
+						"name":"[星际乐章Melody_别说话]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1b0364f90272037930f8479955232a62888ab048.png",
+							"image":"https://i0.hdslb.com/bfs/garb/41fdc2391b674478d7781ae2691278e44a9d20ab.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星际乐章Melody_哼]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5e350942aef4b4bae9457a7943445ed6ae732976.png",
 							"sale_type":"pay"
 						}
 					},
@@ -233,6 +197,42 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d09d8df84b231e36eb3c9ea00aec4585dd44509b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星际乐章Melody_干我屁事]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/35c67c8f1d1a96791a72298c46a9f9baf3c5c1d8.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星际乐章Melody_想吃]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1b0364f90272037930f8479955232a62888ab048.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星际乐章Melody_用点脑子]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2f334fc9d12297cab80a682fbc8f498c8da34e40.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星际乐章Melody_邦]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9eff960645574f66ace0dc9d1028882d667e9014.png",
 							"sale_type":"pay"
 						}
 					}

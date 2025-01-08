@@ -131,15 +131,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[fa_超]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9eb28cf8614237bae2763691a2c97ee550fd62ab.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[fa_哭闹]",
 						"tab_id":0,
 						"properties":{
@@ -149,19 +140,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[fa_绷]",
+						"name":"[fa_啊？]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/32df9b303c3c69221c93047caeda4d5d6dbe1aa5.png",
+							"image":"https://i0.hdslb.com/bfs/garb/f45679cc3a657b70bff949678e02d33bb5e22e7d.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[fa_啊？]",
+						"name":"[fa_困]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f45679cc3a657b70bff949678e02d33bb5e22e7d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/1bec3b17b3992eda45ce76ec79eef45000c4d4c1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[fa_我]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/fa3e4b62cd6171ce4b60ccc6210873e22a9a263d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[fa_打call]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1fd115bdfd80541e5a8c2d15845f68d9e2ced663.png",
 							"sale_type":"pay"
 						}
 					},
@@ -185,10 +194,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[fa_困]",
+						"name":"[fa_晚安]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1bec3b17b3992eda45ce76ec79eef45000c4d4c1.png",
+							"image":"https://i0.hdslb.com/bfs/garb/18d3e401c906506d612e0a6dd5fb3bbed713d1d6.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[fa_绷]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/32df9b303c3c69221c93047caeda4d5d6dbe1aa5.png",
 							"sale_type":"pay"
 						}
 					},
@@ -203,19 +221,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[fa_晚安]",
+						"name":"[fa_超]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/18d3e401c906506d612e0a6dd5fb3bbed713d1d6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[fa_打call]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1fd115bdfd80541e5a8c2d15845f68d9e2ced663.png",
+							"image":"https://i0.hdslb.com/bfs/garb/9eb28cf8614237bae2763691a2c97ee550fd62ab.png",
 							"sale_type":"pay"
 						}
 					},
@@ -225,15 +234,6 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b7500865aee453bf07f6cf9de9929bbea03215c9.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[fa_我]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fa3e4b62cd6171ce4b60ccc6210873e22a9a263d.png",
 							"sale_type":"pay"
 						}
 					}

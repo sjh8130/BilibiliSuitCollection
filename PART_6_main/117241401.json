@@ -122,10 +122,28 @@
 					},
 					{
 						"item_id":0,
+						"name":"[羊了个羊_存钱羊]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ab7e5f887aada6915d21d37b92307b04b986e936.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[羊了个羊_战神羊]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/351298d489e076e48f58aee8256f5927d6d064b8.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[羊了个羊_披着羊皮]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ba6ff410d368c3dc13c2053d14c4d3f18336d843.png",
 							"sale_type":"pay"
 						}
 					},
@@ -149,64 +167,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[羊了个羊_电竞羊]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/be5b1fa30b6f9de747a9e39a0803ee3429741216.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[羊了个羊_正确羊]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/369f398308d42e68136efe6bbdeb694cb4cb4229.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[羊了个羊_笋羊]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/98b0aca1cccece50c3b7360c31110bb0c1214ddd.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[羊了个羊_披着羊皮]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ba6ff410d368c3dc13c2053d14c4d3f18336d843.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[羊了个羊_鲨羊]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7b974680a33f94349b515c5012e021c198a9d7ef.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[羊了个羊_电视羊]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e67b03b7f88a502114853b180cacc18d5d4ca111.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[羊了个羊_存钱羊]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ab7e5f887aada6915d21d37b92307b04b986e936.png",
 							"sale_type":"pay"
 						}
 					},
@@ -221,10 +185,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[羊了个羊_赚他一个亿]",
+						"name":"[羊了个羊_电竞羊]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c6608acba37a209cfc4603fa1f99ab02d2a8e5d7.png",
+							"image":"https://i0.hdslb.com/bfs/garb/be5b1fa30b6f9de747a9e39a0803ee3429741216.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[羊了个羊_电视羊]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e67b03b7f88a502114853b180cacc18d5d4ca111.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[羊了个羊_笋羊]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/98b0aca1cccece50c3b7360c31110bb0c1214ddd.png",
 							"sale_type":"pay"
 						}
 					},
@@ -234,6 +216,24 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0712bbdd8cf8440872968d9a5d338c11bb5f6556.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[羊了个羊_赚他一个亿]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c6608acba37a209cfc4603fa1f99ab02d2a8e5d7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[羊了个羊_鲨羊]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7b974680a33f94349b515c5012e021c198a9d7ef.png",
 							"sale_type":"pay"
 						}
 					}

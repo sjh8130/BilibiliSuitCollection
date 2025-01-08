@@ -103,60 +103,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[万圣-火烛幽灵_不想返魂]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2e488ccac265d9acc7b20156343408b4a0fc4472.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[万圣-火烛幽灵_给糖]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/28ac5d1601b32d55b50db2c4d5620e9d78670102.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[万圣-火烛幽灵_搓手手]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fcf943f551c0bc722b13e2aea9540a65fe607ed6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[万圣-火烛幽灵_捣乱]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/84d86ef89eec2cb01f364c78b39fa608d3d7fdc0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[万圣-火烛幽灵_士下座]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/076fc999db0558f799562bb113631b7d33dabc38.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[万圣-火烛幽灵_指指点点]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0f884c394a0503885d2374cdad3901fea0b7f58f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[万圣-火烛幽灵_Huh？]",
 						"tab_id":0,
 						"properties":{
@@ -166,19 +112,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[万圣-火烛幽灵_离我远点]",
+						"name":"[万圣-火烛幽灵_不想返魂]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5d17c447c80c77da7ecc759a6cbdaf71c8168a5d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[万圣-火烛幽灵_心脏骤停]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/db93a4d9689a6a233982ea78ca6d8583c0725064.png",
+							"image":"https://i0.hdslb.com/bfs/garb/2e488ccac265d9acc7b20156343408b4a0fc4472.png",
 							"sale_type":"pay"
 						}
 					},
@@ -202,6 +139,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[万圣-火烛幽灵_士下座]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/076fc999db0558f799562bb113631b7d33dabc38.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[万圣-火烛幽灵_好耶]",
 						"tab_id":0,
 						"properties":{
@@ -211,10 +157,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[万圣-火烛幽灵_真的没有]",
+						"name":"[万圣-火烛幽灵_小丑]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dc0fcc29cb6b6d40a9a4b9b02658e70be9c7866e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/59209ffc1176154c1bb78cf11304f9362943b713.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[万圣-火烛幽灵_心脏骤停]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/db93a4d9689a6a233982ea78ca6d8583c0725064.png",
 							"sale_type":"pay"
 						}
 					},
@@ -229,10 +184,55 @@
 					},
 					{
 						"item_id":0,
-						"name":"[万圣-火烛幽灵_小丑]",
+						"name":"[万圣-火烛幽灵_指指点点]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/59209ffc1176154c1bb78cf11304f9362943b713.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0f884c394a0503885d2374cdad3901fea0b7f58f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[万圣-火烛幽灵_捣乱]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/84d86ef89eec2cb01f364c78b39fa608d3d7fdc0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[万圣-火烛幽灵_搓手手]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/fcf943f551c0bc722b13e2aea9540a65fe607ed6.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[万圣-火烛幽灵_真的没有]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/dc0fcc29cb6b6d40a9a4b9b02658e70be9c7866e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[万圣-火烛幽灵_离我远点]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5d17c447c80c77da7ecc759a6cbdaf71c8168a5d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[万圣-火烛幽灵_给糖]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/28ac5d1601b32d55b50db2c4d5620e9d78670102.png",
 							"sale_type":"pay"
 						}
 					}
@@ -297,6 +297,6 @@
 	"fan_user":{
 		"mid":3493134470220310,
 		"nickname":"京极科技",
-		"avatar":"https://i1.hdslb.com/bfs/face/0f0a2291991ead4d857428cd3c54acfbc3622319.jpg"
+		"avatar":"https://i1.hdslb.com/bfs/face/d7a9cbfa42761c654d61f88941771082de524eb7.jpg"
 	}
 }

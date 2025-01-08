@@ -104,33 +104,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[酷洛米 睡衣派对_交个朋友]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/47cca3979e796e03c114ffa03500b556ddb5d1e7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[酷洛米 睡衣派对_泰困辣]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ee334d7a26946140703b312d1a2a2d93e9ea57e2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[酷洛米 睡衣派对_泰裤辣]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a8b350fcc097104cad32cd64436cb3fbf4e17033.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[酷洛米 睡衣派对_suki]",
 						"tab_id":0,
 						"properties":{
@@ -149,10 +122,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[酷洛米 睡衣派对_冲鸭]",
+						"name":"[酷洛米 睡衣派对_三十八岁]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c9a935a1f3b70fc11d60c4eea6bc45cd0465c7e4.png",
+							"image":"https://i0.hdslb.com/bfs/garb/243299d2df0a498caac7677afcad223d8dbe893b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[酷洛米 睡衣派对_交个朋友]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/47cca3979e796e03c114ffa03500b556ddb5d1e7.png",
 							"sale_type":"pay"
 						}
 					},
@@ -167,10 +149,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[酷洛米 睡衣派对_三十八岁]",
+						"name":"[酷洛米 睡衣派对_冲鸭]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/243299d2df0a498caac7677afcad223d8dbe893b.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c9a935a1f3b70fc11d60c4eea6bc45cd0465c7e4.png",
 							"sale_type":"pay"
 						}
 					},
@@ -203,10 +185,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[酷洛米 睡衣派对_起床]",
+						"name":"[酷洛米 睡衣派对_泰困辣]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e9c59d391334dc4dc9e1f4f6ccfcb052817a7d31.png",
+							"image":"https://i0.hdslb.com/bfs/garb/ee334d7a26946140703b312d1a2a2d93e9ea57e2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[酷洛米 睡衣派对_泰裤辣]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a8b350fcc097104cad32cd64436cb3fbf4e17033.png",
 							"sale_type":"pay"
 						}
 					},
@@ -234,6 +225,15 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5f2cdc7e6b8f0c993b9eb28f91e8553ab61f7f73.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[酷洛米 睡衣派对_起床]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e9c59d391334dc4dc9e1f4f6ccfcb052817a7d31.png",
 							"sale_type":"pay"
 						}
 					}

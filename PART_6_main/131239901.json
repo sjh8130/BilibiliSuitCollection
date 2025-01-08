@@ -104,19 +104,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[呱呱第二弹_捏捏]",
+						"name":"[呱呱第二弹_吃撑]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/92a72fe5a07c42482eb09f9135e061101449bc41.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[呱呱第二弹_揉揉]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6641b9ad258a013136b7295bc1af6b866f2f52ce.png",
+							"image":"https://i0.hdslb.com/bfs/garb/599c83e00bca5ccfbc894de39151e6b1ed7d132f.png",
 							"sale_type":"pay"
 						}
 					},
@@ -131,37 +122,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[呱呱第二弹_来吃]",
+						"name":"[呱呱第二弹_咖啡呼呼]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/de01bbba37ace2691e4c941ed8fc3eb020dfd598.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[呱呱第二弹_嘶溜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4a66d8fba8aee5d7cc32e22bf7c303cf2b8260b7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[呱呱第二弹_锻炼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a8f7968f533c5923faa7e5b2990ee94c63844dd8.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[呱呱第二弹_吃撑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/599c83e00bca5ccfbc894de39151e6b1ed7d132f.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0b16d84094881604dc66a9c99d089ce36cf51712.png",
 							"sale_type":"pay"
 						}
 					},
@@ -176,28 +140,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[呱呱第二弹_第二杯]",
+						"name":"[呱呱第二弹_嘶溜]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c53fc5565b44162ed031d7d8a9f4caad402bf051.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[呱呱第二弹_火花儿]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/eeee03470b1804d6bec9d363845a2c6d5f29048e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[呱呱第二弹_咖啡呼呼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0b16d84094881604dc66a9c99d089ce36cf51712.png",
+							"image":"https://i0.hdslb.com/bfs/garb/4a66d8fba8aee5d7cc32e22bf7c303cf2b8260b7.png",
 							"sale_type":"pay"
 						}
 					},
@@ -221,10 +167,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[呱呱第二弹_面包呼呼]",
+						"name":"[呱呱第二弹_捏捏]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/279eebca11c26e2bed78766d14a8b89133213ee6.png",
+							"image":"https://i0.hdslb.com/bfs/garb/92a72fe5a07c42482eb09f9135e061101449bc41.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[呱呱第二弹_揉揉]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6641b9ad258a013136b7295bc1af6b866f2f52ce.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[呱呱第二弹_来吃]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/de01bbba37ace2691e4c941ed8fc3eb020dfd598.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[呱呱第二弹_火花儿]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/eeee03470b1804d6bec9d363845a2c6d5f29048e.png",
 							"sale_type":"pay"
 						}
 					},
@@ -234,6 +207,33 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3b9622695f5a0347ac92344ced55544a8a7662b5.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[呱呱第二弹_第二杯]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c53fc5565b44162ed031d7d8a9f4caad402bf051.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[呱呱第二弹_锻炼]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a8f7968f533c5923faa7e5b2990ee94c63844dd8.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[呱呱第二弹_面包呼呼]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/279eebca11c26e2bed78766d14a8b89133213ee6.png",
 							"sale_type":"pay"
 						}
 					}

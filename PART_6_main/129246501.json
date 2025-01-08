@@ -104,10 +104,37 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[小幽灵_略略略]",
+						"name":"[小幽灵_买买买]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0c9bf7396bd4104e5e745659a34bd582e320532d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/84993eba39e425d2da13e4265d467d9c49de3f0c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小幽灵_冲呀]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ccac175418bbcccaf0fc57fb95dac1b1092be67e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小幽灵_发糖啦]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1db9204f5750786a5c36c51210bb69911e837a43.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小幽灵_呜呼]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/455baf2e237b181bce26219c49767e662f4c5391.png",
 							"sale_type":"pay"
 						}
 					},
@@ -122,19 +149,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[小幽灵_捣蛋鬼]",
+						"name":"[小幽灵_好难]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3c4977a41d9df19d42293e802f8281306f53c696.png",
+							"image":"https://i0.hdslb.com/bfs/garb/167f11e408e8b294e2a0794acdc70e06cbbfdc61.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[小幽灵_发糖啦]",
+						"name":"[小幽灵_尊嘟假嘟]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1db9204f5750786a5c36c51210bb69911e837a43.png",
+							"image":"https://i0.hdslb.com/bfs/garb/3f866aa3afc59984227504d0abe0ec8883873b64.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小幽灵_尴尬]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/61fc126fc516026bd481d441b59fa5c1eeb6428e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小幽灵_干杯]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/38c4c688d9fc3019c3b719439eef0d20066466c6.png",
 							"sale_type":"pay"
 						}
 					},
@@ -167,10 +212,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[小幽灵_买买买]",
+						"name":"[小幽灵_捣蛋鬼]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/84993eba39e425d2da13e4265d467d9c49de3f0c.png",
+							"image":"https://i0.hdslb.com/bfs/garb/3c4977a41d9df19d42293e802f8281306f53c696.png",
 							"sale_type":"pay"
 						}
 					},
@@ -185,55 +230,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[小幽灵_干杯]",
+						"name":"[小幽灵_略略略]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/38c4c688d9fc3019c3b719439eef0d20066466c6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小幽灵_冲呀]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ccac175418bbcccaf0fc57fb95dac1b1092be67e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小幽灵_尊嘟假嘟]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3f866aa3afc59984227504d0abe0ec8883873b64.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小幽灵_呜呼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/455baf2e237b181bce26219c49767e662f4c5391.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小幽灵_尴尬]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/61fc126fc516026bd481d441b59fa5c1eeb6428e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小幽灵_好难]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/167f11e408e8b294e2a0794acdc70e06cbbfdc61.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0c9bf7396bd4104e5e745659a34bd582e320532d.png",
 							"sale_type":"pay"
 						}
 					}

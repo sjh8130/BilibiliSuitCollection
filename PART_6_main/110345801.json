@@ -113,6 +113,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[布丁狗_偷听]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a3fcb386eae74b15e4e78a491e098a99fb97554e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[布丁狗_咕噜咕噜]",
 						"tab_id":0,
 						"properties":{
@@ -122,10 +131,46 @@
 					},
 					{
 						"item_id":0,
-						"name":"[布丁狗_偷听]",
+						"name":"[布丁狗_学习]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a3fcb386eae74b15e4e78a491e098a99fb97554e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/cff745ae9983fbc4ccf7bf762e594f5893ab4a71.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布丁狗_开心]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e3fa36aac029be53f67d99b415c802576b9fc06f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布丁狗_开派对]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7bb669f9df744a8bec65249cc267a355aa633e52.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布丁狗_思索]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cded6eb6824c4d860cc8ae507716463acf4c8a8e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布丁狗_放学]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8aff90376a5056d51eee35c7c64eac230d12b426.png",
 							"sale_type":"pay"
 						}
 					},
@@ -149,10 +194,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[布丁狗_放学]",
+						"name":"[布丁狗_累]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8aff90376a5056d51eee35c7c64eac230d12b426.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c9f888927e76e9385a58c9e8c9766015e1095b08.png",
 							"sale_type":"pay"
 						}
 					},
@@ -167,46 +212,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[布丁狗_递茶]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/eaed17358f28fb39bc0fef453ef9a171bb0dd25d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布丁狗_学习]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cff745ae9983fbc4ccf7bf762e594f5893ab4a71.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布丁狗_累]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c9f888927e76e9385a58c9e8c9766015e1095b08.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[布丁狗_贴贴]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/516ca68ac504142ddf9fcdc9de33562bc8b318b3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布丁狗_开派对]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7bb669f9df744a8bec65249cc267a355aa633e52.png",
 							"sale_type":"pay"
 						}
 					},
@@ -221,19 +230,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[布丁狗_开心]",
+						"name":"[布丁狗_递茶]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e3fa36aac029be53f67d99b415c802576b9fc06f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布丁狗_思索]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cded6eb6824c4d860cc8ae507716463acf4c8a8e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/eaed17358f28fb39bc0fef453ef9a171bb0dd25d.png",
 							"sale_type":"pay"
 						}
 					}

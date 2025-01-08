@@ -114,10 +114,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[酷洛米草莓芭菲_请慢用]",
+						"name":"[酷洛米草莓芭菲_乖巧]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/08a45b08eddc3ca18856ed1457028b731b1bb806.png",
+							"image":"https://i0.hdslb.com/bfs/garb/1b63ac5d69d165f3c9c3faa077e0e136f50c358d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[酷洛米草莓芭菲_休息]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/aecdcf4607a5f91f71e0f38dede762af8331228c.png",
 							"sale_type":"pay"
 						}
 					},
@@ -141,19 +150,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[酷洛米草莓芭菲_比个心]",
+						"name":"[酷洛米草莓芭菲_吃甜甜圈]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c10df3578b033905f85dae3fbe144c571bee3251.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[酷洛米草莓芭菲_吃蛋包饭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9745247d1140fd965f7ae923d874bd6748d5a57c.png",
+							"image":"https://i0.hdslb.com/bfs/garb/2474780012a90d3a32c76ba87786ed4dc616a488.png",
 							"sale_type":"pay"
 						}
 					},
@@ -168,19 +168,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[酷洛米草莓芭菲_喂你吃]",
+						"name":"[酷洛米草莓芭菲_吃芭菲]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f24f1e8f1ea62ffd1852e9fbed35e61b68674803.png",
+							"image":"https://i0.hdslb.com/bfs/garb/d014f688da5a10001f58e037d9e8a33cd844c469.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[酷洛米草莓芭菲_休息]",
+						"name":"[酷洛米草莓芭菲_吃蛋包饭]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/aecdcf4607a5f91f71e0f38dede762af8331228c.png",
+							"image":"https://i0.hdslb.com/bfs/garb/9745247d1140fd965f7ae923d874bd6748d5a57c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[酷洛米草莓芭菲_喂你吃]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f24f1e8f1ea62ffd1852e9fbed35e61b68674803.png",
 							"sale_type":"pay"
 						}
 					},
@@ -195,15 +204,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[酷洛米草莓芭菲_端茶]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/77bb5afe0d4c3d3443d4bd5ade55a5610a7e21d1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[酷洛米草莓芭菲_我开动啦]",
 						"tab_id":0,
 						"properties":{
@@ -213,28 +213,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[酷洛米草莓芭菲_乖巧]",
+						"name":"[酷洛米草莓芭菲_比个心]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1b63ac5d69d165f3c9c3faa077e0e136f50c358d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c10df3578b033905f85dae3fbe144c571bee3251.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[酷洛米草莓芭菲_吃甜甜圈]",
+						"name":"[酷洛米草莓芭菲_端茶]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2474780012a90d3a32c76ba87786ed4dc616a488.png",
+							"image":"https://i0.hdslb.com/bfs/garb/77bb5afe0d4c3d3443d4bd5ade55a5610a7e21d1.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[酷洛米草莓芭菲_吃芭菲]",
+						"name":"[酷洛米草莓芭菲_请慢用]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d014f688da5a10001f58e037d9e8a33cd844c469.png",
+							"image":"https://i0.hdslb.com/bfs/garb/08a45b08eddc3ca18856ed1457028b731b1bb806.png",
 							"sale_type":"pay"
 						}
 					}

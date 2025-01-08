@@ -104,6 +104,15 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[人格贴纸-INTP_EMO]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0577a298088234202fabd43afa1915d86fda5ff3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[人格贴纸-INTP_不省人事]",
 						"tab_id":0,
 						"properties":{
@@ -113,10 +122,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-INTP_整点薯条]",
+						"name":"[人格贴纸-INTP_吨吨吨]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dbfe20053b1d374f889c20177fea3675541a40d0.png",
+							"image":"https://i0.hdslb.com/bfs/garb/f624af8bd46d0d22213e17d90e4f63c4ea329b89.png",
 							"sale_type":"pay"
 						}
 					},
@@ -131,19 +140,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-INTP_EMO]",
+						"name":"[人格贴纸-INTP_妈妈生的]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0577a298088234202fabd43afa1915d86fda5ff3.png",
+							"image":"https://i0.hdslb.com/bfs/garb/360f7cda331c26751d7d1627a92c002130e2e8a3.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-INTP_瘫]",
+						"name":"[人格贴纸-INTP_宕机]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a4c7b86052fe4145616baf5ff25fe23775ba929e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0d85b5fe297b0a4051592df540bba78bf7f3dd40.png",
 							"sale_type":"pay"
 						}
 					},
@@ -167,37 +176,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-INTP_妈妈生的]",
+						"name":"[人格贴纸-INTP_整点薯条]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/360f7cda331c26751d7d1627a92c002130e2e8a3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[人格贴纸-INTP_吨吨吨]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f624af8bd46d0d22213e17d90e4f63c4ea329b89.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[人格贴纸-INTP_熬夜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/40dbda8629c1831a0709ef98c0511ab5d354dff6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[人格贴纸-INTP_瞪眼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/eff130164d3dd1f98467bdd3b949299160731d85.png",
+							"image":"https://i0.hdslb.com/bfs/garb/dbfe20053b1d374f889c20177fea3675541a40d0.png",
 							"sale_type":"pay"
 						}
 					},
@@ -212,10 +194,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-INTP_超凡脱俗]",
+						"name":"[人格贴纸-INTP_熬夜]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b006cc78bc3db9d22ee980a65679f88cc968f9a4.png",
+							"image":"https://i0.hdslb.com/bfs/garb/40dbda8629c1831a0709ef98c0511ab5d354dff6.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[人格贴纸-INTP_瘫]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a4c7b86052fe4145616baf5ff25fe23775ba929e.png",
 							"sale_type":"pay"
 						}
 					},
@@ -230,10 +221,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-INTP_宕机]",
+						"name":"[人格贴纸-INTP_瞪眼]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0d85b5fe297b0a4051592df540bba78bf7f3dd40.png",
+							"image":"https://i0.hdslb.com/bfs/garb/eff130164d3dd1f98467bdd3b949299160731d85.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[人格贴纸-INTP_超凡脱俗]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b006cc78bc3db9d22ee980a65679f88cc968f9a4.png",
 							"sale_type":"pay"
 						}
 					}

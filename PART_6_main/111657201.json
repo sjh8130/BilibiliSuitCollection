@@ -98,19 +98,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[帕恰狗 星光_去哪啦]",
+						"name":"[帕恰狗 星光_乖巧]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e8d4170fad072ac72563e8252837d16838c1553e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/94f34653acf46b6c7a326b71b34bf0539e995fe7.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[帕恰狗 星光_乖巧]",
+						"name":"[帕恰狗 星光_倾听]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/94f34653acf46b6c7a326b71b34bf0539e995fe7.png",
+							"image":"https://i0.hdslb.com/bfs/garb/ee923a934f980b3b6dc1c4039d9652ba2aaeab58.png",
 							"sale_type":"pay"
 						}
 					},
@@ -125,10 +125,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[帕恰狗 星光_怎么了]",
+						"name":"[帕恰狗 星光_功夫]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e8916a412968e2748b361928a241a8f05b574bf8.png",
+							"image":"https://i0.hdslb.com/bfs/garb/e054c83eb02b87143449cee9e4c9e92ab8b600f2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[帕恰狗 星光_去哪啦]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e8d4170fad072ac72563e8252837d16838c1553e.png",
 							"sale_type":"pay"
 						}
 					},
@@ -152,10 +161,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[帕恰狗 星光_功夫]",
+						"name":"[帕恰狗 星光_怎么了]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e054c83eb02b87143449cee9e4c9e92ab8b600f2.png",
+							"image":"https://i0.hdslb.com/bfs/garb/e8916a412968e2748b361928a241a8f05b574bf8.png",
 							"sale_type":"pay"
 						}
 					},
@@ -170,19 +179,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[帕恰狗 星光_倾听]",
+						"name":"[帕恰狗 星光_扶我起来]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ee923a934f980b3b6dc1c4039d9652ba2aaeab58.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[帕恰狗 星光_相依为命]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b5d0a6dc36f40833c7db0c2a3aef08ad3829cf1a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/e7713ce7158dfa468b1cacfd217ebbba654d9a5d.png",
 							"sale_type":"pay"
 						}
 					},
@@ -197,19 +197,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[帕恰狗 星光_追不上我]",
+						"name":"[帕恰狗 星光_相依为命]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5707f24722405e49bbefa9e6133a5c74d9b96f77.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[帕恰狗 星光_扶我起来]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e7713ce7158dfa468b1cacfd217ebbba654d9a5d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b5d0a6dc36f40833c7db0c2a3aef08ad3829cf1a.png",
 							"sale_type":"pay"
 						}
 					},
@@ -219,6 +210,15 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ba8b19eed83d6c610fb5c76920c6f698cfe4f8f1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[帕恰狗 星光_追不上我]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5707f24722405e49bbefa9e6133a5c74d9b96f77.png",
 							"sale_type":"pay"
 						}
 					}

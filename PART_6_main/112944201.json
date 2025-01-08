@@ -104,91 +104,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[大耳狗·梦幻游乐园_摸下巴]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/82ce15b4b4aa76efa74ef238494dfa19dd906e44.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[大耳狗·梦幻游乐园_上车]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aebea0627d82787e8de2d0962418155ab42eaca8.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗·梦幻游乐园_帅气登场]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4961e50e113efbd0fb787932ac3dc58b1730bbe4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗·梦幻游乐园_观察]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9cce819b374ca673ec2b82863c2ac942db9a9fc0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗·梦幻游乐园_滑铲]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c1a498a9fd1e6ba8c560c5434246a305cb281c0c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗·梦幻游乐园_打招呼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8c33c823e0ade4ded417a983f6e3b97e38d2d4ed.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗·梦幻游乐园_溜了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fe8ade8857357c99b9512753c15b6defff89736a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗·梦幻游乐园_晚安]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a07eacd1f52e1754618f0d4d10d6367205f224d9.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗·梦幻游乐园_认真]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/475cb6343e12416fff9f1dc34acaa24f399454bb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[大耳狗·梦幻游乐园_情书]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b30108e7b4a433f70ff4e0d53cabb4e3ff22735a.png",
 							"sale_type":"pay"
 						}
 					},
@@ -203,10 +122,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[大耳狗·梦幻游乐园_递茶]",
+						"name":"[大耳狗·梦幻游乐园_帅气登场]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/528c5e541445bc3c35bb1d166ac28566696e434d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/4961e50e113efbd0fb787932ac3dc58b1730bbe4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗·梦幻游乐园_情书]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b30108e7b4a433f70ff4e0d53cabb4e3ff22735a.png",
 							"sale_type":"pay"
 						}
 					},
@@ -221,10 +149,82 @@
 					},
 					{
 						"item_id":0,
+						"name":"[大耳狗·梦幻游乐园_打招呼]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8c33c823e0ade4ded417a983f6e3b97e38d2d4ed.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗·梦幻游乐园_摸下巴]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/82ce15b4b4aa76efa74ef238494dfa19dd906e44.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗·梦幻游乐园_晚安]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a07eacd1f52e1754618f0d4d10d6367205f224d9.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗·梦幻游乐园_溜了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/fe8ade8857357c99b9512753c15b6defff89736a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗·梦幻游乐园_滑铲]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c1a498a9fd1e6ba8c560c5434246a305cb281c0c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[大耳狗·梦幻游乐园_突然出现]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f6f475e655d2a78474ce565dd497de8e6fa9842b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗·梦幻游乐园_观察]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9cce819b374ca673ec2b82863c2ac942db9a9fc0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗·梦幻游乐园_认真]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/475cb6343e12416fff9f1dc34acaa24f399454bb.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[大耳狗·梦幻游乐园_递茶]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/528c5e541445bc3c35bb1d166ac28566696e434d.png",
 							"sale_type":"pay"
 						}
 					},

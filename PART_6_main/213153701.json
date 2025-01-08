@@ -104,42 +104,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[旋转小羊_喜欢]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0a752f32df307c7c8f84583a5483087bd7989629.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[旋转小羊_飞扑小羊]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dc648716c57cc674ed2efca74dffaf569092855f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[旋转小羊_打伞]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d23ea15213dfdce5b682962e251179f3adf557ab.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[旋转小羊_旋转小狗]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/116ffd021e1b5cb8483683a33ba2e5731a5d6e4d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[旋转小羊_削苹果]",
 						"tab_id":0,
 						"properties":{
@@ -149,55 +113,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[旋转小羊_抱苹果]",
+						"name":"[旋转小羊_喜欢]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cc194cfaf2e57cb1d31fe4a66c739b947d93dd9c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[旋转小羊_扑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c810ff9989f47edb73e34fe3bb530abbd6affca3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[旋转小羊_旋转小兔]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2c4193d1edabe2c0e62c200d0ee784d1e4f4d268.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[旋转小羊_送花]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7b9119cba39a876ba6306c7b9e7b215baecf6210.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[旋转小羊_苹果皮中间]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b575402529841a185a60ed5a3769c841fd44e9e5.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[旋转小羊_天使小羊]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a72b84c7bad0a73e373b3d5a623cad02210d8e33.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0a752f32df307c7c8f84583a5483087bd7989629.png",
 							"sale_type":"pay"
 						}
 					},
@@ -212,10 +131,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[旋转小羊_挤奶油]",
+						"name":"[旋转小羊_天使小羊]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a859006bb1b7eff02807844ea49a22354a327254.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a72b84c7bad0a73e373b3d5a623cad02210d8e33.png",
 							"sale_type":"pay"
 						}
 					},
@@ -230,10 +149,91 @@
 					},
 					{
 						"item_id":0,
+						"name":"[旋转小羊_扑]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c810ff9989f47edb73e34fe3bb530abbd6affca3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[旋转小羊_打伞]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d23ea15213dfdce5b682962e251179f3adf557ab.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[旋转小羊_抱苹果]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cc194cfaf2e57cb1d31fe4a66c739b947d93dd9c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[旋转小羊_挤奶油]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a859006bb1b7eff02807844ea49a22354a327254.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[旋转小羊_旋转小兔]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2c4193d1edabe2c0e62c200d0ee784d1e4f4d268.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[旋转小羊_旋转小狗]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/116ffd021e1b5cb8483683a33ba2e5731a5d6e4d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[旋转小羊_苹果皮中间]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b575402529841a185a60ed5a3769c841fd44e9e5.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[旋转小羊_苹果皮底部]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f206330e72566fc0c5bbc1eb394277af74a9786e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[旋转小羊_送花]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7b9119cba39a876ba6306c7b9e7b215baecf6210.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[旋转小羊_飞扑小羊]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/dc648716c57cc674ed2efca74dffaf569092855f.png",
 							"sale_type":"pay"
 						}
 					}

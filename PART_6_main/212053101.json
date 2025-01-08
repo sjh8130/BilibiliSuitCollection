@@ -104,73 +104,19 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[甩头小狗_乖巧]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dd454c05f077c6e6282a98fc6fa641772492c858.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[甩头小狗_来啦]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d0bd1ac6f39fefdcdd6fb02ed3dea52b3ea5c994.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[甩头小狗_被抓]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9c9ebd634344bd631754e838bc5d469e43ee4899.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[甩头小狗_懵]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3988e26641ad8c92f03f8bf6c3407d56a4c490d3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[甩头小狗_给你爱心]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/32665df95ecfb4a00f95d0fc604d8e9e76b1744a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[甩头小狗_超凶]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/66c9b77f20b88b5f2be3cdb0f12ef7c2546819d1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[甩头小狗_放屁]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fd16b0725485f17b5d9e1b4ed3bd8f88874a1d26.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[甩头小狗_不听不听]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d16fc3ad9ce0068996c6756ddf5b897920fff9bb.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[甩头小狗_乖巧]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/dd454c05f077c6e6282a98fc6fa641772492c858.png",
 							"sale_type":"pay"
 						}
 					},
@@ -185,28 +131,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[甩头小狗_？]",
+						"name":"[甩头小狗_哼]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/97652e08ffdd00acfb2c31f239bf0432a0a13dec.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[甩头小狗_完犊紫]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6a7b429a46114ae325d98c10f6262401d16e4ffc.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[甩头小狗_收到]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2e50597f17e33e42a11148fdafcb64e22e01670f.png",
+							"image":"https://i0.hdslb.com/bfs/garb/6c7ddf9bf87c9ee07889a1341484407fbef2bef9.png",
 							"sale_type":"pay"
 						}
 					},
@@ -221,10 +149,46 @@
 					},
 					{
 						"item_id":0,
-						"name":"[甩头小狗_哼]",
+						"name":"[甩头小狗_完犊紫]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6c7ddf9bf87c9ee07889a1341484407fbef2bef9.png",
+							"image":"https://i0.hdslb.com/bfs/garb/6a7b429a46114ae325d98c10f6262401d16e4ffc.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[甩头小狗_懵]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3988e26641ad8c92f03f8bf6c3407d56a4c490d3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[甩头小狗_收到]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2e50597f17e33e42a11148fdafcb64e22e01670f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[甩头小狗_放屁]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/fd16b0725485f17b5d9e1b4ed3bd8f88874a1d26.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[甩头小狗_来啦]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d0bd1ac6f39fefdcdd6fb02ed3dea52b3ea5c994.png",
 							"sale_type":"pay"
 						}
 					},
@@ -234,6 +198,42 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8a4f2937759583fb4e5beaf7013b994e4059e086.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[甩头小狗_给你爱心]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/32665df95ecfb4a00f95d0fc604d8e9e76b1744a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[甩头小狗_被抓]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9c9ebd634344bd631754e838bc5d469e43ee4899.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[甩头小狗_超凶]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/66c9b77f20b88b5f2be3cdb0f12ef7c2546819d1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[甩头小狗_？]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/97652e08ffdd00acfb2c31f239bf0432a0a13dec.png",
 							"sale_type":"pay"
 						}
 					}

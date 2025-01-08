@@ -193,10 +193,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[章章梦工厂_加]",
+						"name":"[章章梦工厂_乘]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/68f3f833fdd1ab80c6958d7bd2637b332a90040c.png",
+							"image":"https://i0.hdslb.com/bfs/garb/9f8abfa70cd5788230343e0be68a84cf222d78d3.png",
 							"sale_type":"pay"
 						}
 					},
@@ -211,19 +211,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[章章梦工厂_乘]",
+						"name":"[章章梦工厂_加]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9f8abfa70cd5788230343e0be68a84cf222d78d3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[章章梦工厂_除]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/caa0a2a6bed0d6c9077283e3c3de94cdf9c95a7d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/68f3f833fdd1ab80c6958d7bd2637b332a90040c.png",
 							"sale_type":"pay"
 						}
 					},
@@ -233,6 +224,15 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4d07f53bf2f01c78ac8a1c655c88cf19d886a896.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[章章梦工厂_除]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/caa0a2a6bed0d6c9077283e3c3de94cdf9c95a7d.png",
 							"sale_type":"pay"
 						}
 					}

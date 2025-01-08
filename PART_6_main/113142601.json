@@ -103,37 +103,19 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[小狗贴贴_激动]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/921107d15a2ff33edbb08cecbfe12c8d9d604596.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小狗贴贴_送你礼物]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/37e4b63a7ba54d3c83859a6c9f0271e612d28a71.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小狗贴贴_高兴跳起]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3b02c3d4213249aa766a25e1df38f5862a83db66.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[小狗贴贴_丘比特狗]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d59c174f7ea55f12e68b58ec2056583051ea1373.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小狗贴贴_发射爱心]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ddb9947fc78c21b7013ef16b8523b4ff0f6a8c07.png",
 							"sale_type":"pay"
 						}
 					},
@@ -157,55 +139,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[小狗贴贴_发射爱心]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ddb9947fc78c21b7013ef16b8523b4ff0f6a8c07.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小狗贴贴_爱你哦]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1a64fbe35694d1b10d676a3ad92abdebe8db2baf.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小狗贴贴_接收爱心]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/365b42056e67307ccde2122f171a1ba73dcd247e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[小狗贴贴_心碎狗狗]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/28fe9f690bf30c931818e158cceac48cebf9ad83.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小狗贴贴_表达爱意]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/36a3cd9af47d22405705303804ab494f42ecbfe2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小狗贴贴_爱神之箭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6bc5795b10bc3a71dfc0dde74f44efac702fff8e.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,10 +157,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[小狗贴贴_送你花花]",
+						"name":"[小狗贴贴_接收爱心]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4bad9ac42e7bca645d345a7f7f4b7e3f57af4f7c.png",
+							"image":"https://i0.hdslb.com/bfs/garb/365b42056e67307ccde2122f171a1ba73dcd247e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小狗贴贴_激动]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/921107d15a2ff33edbb08cecbfe12c8d9d604596.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小狗贴贴_爱你哦]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1a64fbe35694d1b10d676a3ad92abdebe8db2baf.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小狗贴贴_爱神之箭]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6bc5795b10bc3a71dfc0dde74f44efac702fff8e.png",
 							"sale_type":"pay"
 						}
 					},
@@ -233,6 +197,42 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/47780bb2c06aa4a227db2139a3d2781dc7f2f6dc.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小狗贴贴_表达爱意]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/36a3cd9af47d22405705303804ab494f42ecbfe2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小狗贴贴_送你礼物]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/37e4b63a7ba54d3c83859a6c9f0271e612d28a71.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小狗贴贴_送你花花]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4bad9ac42e7bca645d345a7f7f4b7e3f57af4f7c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小狗贴贴_高兴跳起]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3b02c3d4213249aa766a25e1df38f5862a83db66.png",
 							"sale_type":"pay"
 						}
 					}

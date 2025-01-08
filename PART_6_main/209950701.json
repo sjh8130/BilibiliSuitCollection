@@ -103,10 +103,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[普通小狗 少女乌托邦_上车]",
+						"name":"[普通小狗 少女乌托邦_get]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cb4c3f08a5165dd36f8dec8c90e6ab5652c93d87.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c79228b60b98bd6e29a5a9a48e562deb6dba962b.png",
 							"sale_type":"pay"
 						}
 					},
@@ -121,19 +121,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[普通小狗 少女乌托邦_get]",
+						"name":"[普通小狗 少女乌托邦_上车]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c79228b60b98bd6e29a5a9a48e562deb6dba962b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 少女乌托邦_天真舞鞋]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6049c72099957b95cd39fa7db55bbaf4b5706b1e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/cb4c3f08a5165dd36f8dec8c90e6ab5652c93d87.png",
 							"sale_type":"pay"
 						}
 					},
@@ -148,15 +139,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[普通小狗 少女乌托邦_仙女贴贴]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bd8c6bb09ceaf4398952b8e90fe5649ad14e819e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[普通小狗 少女乌托邦_仙女无语]",
 						"tab_id":0,
 						"properties":{
@@ -166,46 +148,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[普通小狗 少女乌托邦_给点儿]",
+						"name":"[普通小狗 少女乌托邦_仙女贴贴]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3b38be3e7dd7f96d855e9ae25992053430aa3021.png",
+							"image":"https://i0.hdslb.com/bfs/garb/bd8c6bb09ceaf4398952b8e90fe5649ad14e819e.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[普通小狗 少女乌托邦_爱你]",
+						"name":"[普通小狗 少女乌托邦_告白]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cab4c3e0f1246b6a057a8fa05ee72ea3154e6a5a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 少女乌托邦_闪闪惹人爱]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f97a93f4ba26df7da3ad4f55f1d683e78591eb44.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 少女乌托邦_认真脸]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e087a9327bafa2bc57908eb7c8c83b601e3e8eb8.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 少女乌托邦_抱抱你]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a06477f1d2532c7178578367c658b0fcd2616c2e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/02880f7dd662fab4275d739b772986666faac7e6.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,6 +175,51 @@
 					},
 					{
 						"item_id":0,
+						"name":"[普通小狗 少女乌托邦_天真舞鞋]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6049c72099957b95cd39fa7db55bbaf4b5706b1e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 少女乌托邦_抱抱你]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a06477f1d2532c7178578367c658b0fcd2616c2e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 少女乌托邦_爱你]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cab4c3e0f1246b6a057a8fa05ee72ea3154e6a5a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 少女乌托邦_给点儿]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3b38be3e7dd7f96d855e9ae25992053430aa3021.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 少女乌托邦_认真脸]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e087a9327bafa2bc57908eb7c8c83b601e3e8eb8.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[普通小狗 少女乌托邦_选我超甜]",
 						"tab_id":0,
 						"properties":{
@@ -229,10 +229,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[普通小狗 少女乌托邦_告白]",
+						"name":"[普通小狗 少女乌托邦_闪闪惹人爱]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/02880f7dd662fab4275d739b772986666faac7e6.png",
+							"image":"https://i0.hdslb.com/bfs/garb/f97a93f4ba26df7da3ad4f55f1d683e78591eb44.png",
 							"sale_type":"pay"
 						}
 					}

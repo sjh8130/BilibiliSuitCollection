@@ -103,91 +103,19 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[MBTI黄豆_INTJ]",
+						"name":"[MBTI黄豆_ENFJ]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/83461ed7d279db405db6d456f4faa25d97fd20b7.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b3516eb13afafe9b9ff4acbd1c0ec942dd6e5c48.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[MBTI黄豆_INFJ]",
+						"name":"[MBTI黄豆_ENFP]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/51489a5d3a8111e7ed0490487d3ea919ae5a4827.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MBTI黄豆_ISTJ]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4d0215df8929e580249461f8993923263ce8586a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MBTI黄豆_ISTP]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/97083f7eba21fdf6b6838808f0217ac3ec71f4f5.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MBTI黄豆_你是什么]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3d2a9df486eee8704b864e3432197896098beff9.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MBTI黄豆_INTP]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ef9cca2e49d17e96260d151a447c74f052b78661.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MBTI黄豆_INFP]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/081cd6dc2a25707b4b5fa2a089b47b202d144598.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MBTI黄豆_TSFJ]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7a017efa43927a76d334749c8077f3da698ff7ba.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MBTI黄豆_ISFP]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d2841b6c443f5118177e3e1148ce90bb26e720a7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MBTI黄豆_MBTI]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/faa661ca66706f8d973d37f01973b2a2db33b7d5.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c079a62dc43795d3d2249b308249f4e454fb7891.png",
 							"sale_type":"pay"
 						}
 					},
@@ -202,10 +130,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[MBTI黄豆_ENFJ]",
+						"name":"[MBTI黄豆_ENTP]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b3516eb13afafe9b9ff4acbd1c0ec942dd6e5c48.png",
+							"image":"https://i0.hdslb.com/bfs/garb/cb12ef194576ab7cc79e89d29598820f63538ed4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MBTI黄豆_ESFJ]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/bca969a4cb9eb68ee0c7f68eb489f9c086096fc6.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MBTI黄豆_ESFP]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/430b5d0bc2ef94cfff0a3b8f922f39ee82ffe947.png",
 							"sale_type":"pay"
 						}
 					},
@@ -229,46 +175,100 @@
 					},
 					{
 						"item_id":0,
+						"name":"[MBTI黄豆_INFJ]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/51489a5d3a8111e7ed0490487d3ea919ae5a4827.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MBTI黄豆_INFP]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/081cd6dc2a25707b4b5fa2a089b47b202d144598.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MBTI黄豆_INTJ]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/83461ed7d279db405db6d456f4faa25d97fd20b7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MBTI黄豆_INTP]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ef9cca2e49d17e96260d151a447c74f052b78661.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MBTI黄豆_ISFP]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d2841b6c443f5118177e3e1148ce90bb26e720a7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MBTI黄豆_ISTJ]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4d0215df8929e580249461f8993923263ce8586a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MBTI黄豆_ISTP]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/97083f7eba21fdf6b6838808f0217ac3ec71f4f5.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MBTI黄豆_MBTI]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/faa661ca66706f8d973d37f01973b2a2db33b7d5.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MBTI黄豆_TSFJ]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7a017efa43927a76d334749c8077f3da698ff7ba.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[MBTI黄豆_你是什么]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3d2a9df486eee8704b864e3432197896098beff9.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[MBTI黄豆_我是E人]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/878d9d17fa4e3f68255f845e6d588420cedeb1ad.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MBTI黄豆_ENTP]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cb12ef194576ab7cc79e89d29598820f63538ed4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MBTI黄豆_ENFP]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c079a62dc43795d3d2249b308249f4e454fb7891.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MBTI黄豆_ESFJ]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bca969a4cb9eb68ee0c7f68eb489f9c086096fc6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[MBTI黄豆_ESFP]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/430b5d0bc2ef94cfff0a3b8f922f39ee82ffe947.png",
 							"sale_type":"pay"
 						}
 					},

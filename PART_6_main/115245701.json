@@ -104,64 +104,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[红伞伞_震惊]",
+						"name":"[红伞伞_YES]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/45502d9a280a048ab5cb2a84a9ccfd7caa4225a7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[红伞伞_阿巴阿巴]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bbcc736f775c487ab107ae613c72d926c0637d44.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[红伞伞_尖叫]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/55ab4c812e4c9611f049ac18f1fcc665f706d5a6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[红伞伞_精神]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b96486f647c22c87365a39c70b35e1c39803fdd0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[红伞伞_想吃]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9d6a724b72d08806654155975acb3268b42682aa.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[红伞伞_小人跳舞]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ca5974bef20454652c5979534001c34862ae108f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[红伞伞_香菇]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/07bc07e08b1ee32ec390e0d928f5caec00ffb8b4.png",
+							"image":"https://i0.hdslb.com/bfs/garb/81accd22d2330e16b4f6f8713a72ff5b20ac288c.png",
 							"sale_type":"pay"
 						}
 					},
@@ -176,10 +122,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[红伞伞_贴贴]",
+						"name":"[红伞伞_小人跳舞]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6d138a66ee3c2e69284f78c3c963fa841f2be753.png",
+							"image":"https://i0.hdslb.com/bfs/garb/ca5974bef20454652c5979534001c34862ae108f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[红伞伞_尖叫]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/55ab4c812e4c9611f049ac18f1fcc665f706d5a6.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[红伞伞_想吃]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9d6a724b72d08806654155975acb3268b42682aa.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[红伞伞_摸了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b209f15a7cab11af154e58200cc7a9d9e87d80a8.png",
 							"sale_type":"pay"
 						}
 					},
@@ -189,6 +162,33 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0e3f8d6cf2af795bd9d90bd813f517fab7bad2a8.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[红伞伞_精神]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b96486f647c22c87365a39c70b35e1c39803fdd0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[红伞伞_菇勇者]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9b2db50a360447380fd4d2ffe9b9cbbfff445181.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[红伞伞_贴贴]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6d138a66ee3c2e69284f78c3c963fa841f2be753.png",
 							"sale_type":"pay"
 						}
 					},
@@ -212,28 +212,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[红伞伞_菇勇者]",
+						"name":"[红伞伞_阿巴阿巴]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9b2db50a360447380fd4d2ffe9b9cbbfff445181.png",
+							"image":"https://i0.hdslb.com/bfs/garb/bbcc736f775c487ab107ae613c72d926c0637d44.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[红伞伞_YES]",
+						"name":"[红伞伞_震惊]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/81accd22d2330e16b4f6f8713a72ff5b20ac288c.png",
+							"image":"https://i0.hdslb.com/bfs/garb/45502d9a280a048ab5cb2a84a9ccfd7caa4225a7.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[红伞伞_摸了]",
+						"name":"[红伞伞_香菇]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b209f15a7cab11af154e58200cc7a9d9e87d80a8.png",
+							"image":"https://i0.hdslb.com/bfs/garb/07bc07e08b1ee32ec390e0d928f5caec00ffb8b4.png",
 							"sale_type":"pay"
 						}
 					}

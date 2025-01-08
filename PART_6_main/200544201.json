@@ -103,73 +103,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[一堆鲨鲨_超级巨鲨]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bef7d03c177dd440bf79021a0f657038e63d8ffc.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[一堆鲨鲨_摸摸]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3a0bd4acf63b69ff78d1b7ef13e2dcfa05e87daf.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[一堆鲨鲨_潜水]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0751b9bbdf6f7db0b264ce51eee3da0102a972b0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[一堆鲨鲨_出现]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d6d4fc3a45f2b7386fdfb497412c632621eb98bf.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[一堆鲨鲨_满足]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e97d251072eb52de937752000d160d341404313d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[一堆鲨鲨_抱抱]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d53a68b9fe2ade4ed55decd3d1ee9ba1aa374d12.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[一堆鲨鲨_大鲨小鲨]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d9f62581facf13654b9e7b89076f813f00477889.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[一堆鲨鲨_鲨了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0accb9f1041b1e560a7814cfecbcd3da9c6b0f93.png",
 							"sale_type":"pay"
 						}
 					},
@@ -184,37 +121,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[一堆鲨鲨_箱子鲨]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5b2c3a93f88576cf77e63a08ca683a37c53c1749.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[一堆鲨鲨_咬]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b53b44d26d3a7fc6a06068dd6cf44a4ac8cee304.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[一堆鲨鲨_睡觉]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8d05cbc5b413a802560801c9230e284a4738c04d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[一堆鲨鲨_要抱抱]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d91c1eff7bbd4a630a4a977fc56a00ec798a490b.png",
 							"sale_type":"pay"
 						}
 					},
@@ -229,10 +139,100 @@
 					},
 					{
 						"item_id":0,
+						"name":"[一堆鲨鲨_大鲨小鲨]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d9f62581facf13654b9e7b89076f813f00477889.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[一堆鲨鲨_抱抱]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d53a68b9fe2ade4ed55decd3d1ee9ba1aa374d12.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[一堆鲨鲨_摸摸]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3a0bd4acf63b69ff78d1b7ef13e2dcfa05e87daf.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[一堆鲨鲨_晕了]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbe6bc44dca6f1d8ce5e13ac43b6ac0e51df1382.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[一堆鲨鲨_满足]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e97d251072eb52de937752000d160d341404313d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[一堆鲨鲨_潜水]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0751b9bbdf6f7db0b264ce51eee3da0102a972b0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[一堆鲨鲨_睡觉]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8d05cbc5b413a802560801c9230e284a4738c04d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[一堆鲨鲨_箱子鲨]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5b2c3a93f88576cf77e63a08ca683a37c53c1749.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[一堆鲨鲨_要抱抱]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d91c1eff7bbd4a630a4a977fc56a00ec798a490b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[一堆鲨鲨_超级巨鲨]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/bef7d03c177dd440bf79021a0f657038e63d8ffc.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[一堆鲨鲨_鲨了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0accb9f1041b1e560a7814cfecbcd3da9c6b0f93.png",
 							"sale_type":"pay"
 						}
 					}

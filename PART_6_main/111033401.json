@@ -104,15 +104,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[普通小狗 夏日游园会_令人兴奋]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5feb962d777e3919bd521937ddd57f8d52a5c492.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[普通小狗 夏日游园会_wink]",
 						"tab_id":0,
 						"properties":{
@@ -131,10 +122,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[普通小狗 夏日游园会_吃到大瓜]",
+						"name":"[普通小狗 夏日游园会_亲亲]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dc742455edc6344dcc727431b37a9d9ff0719f65.png",
+							"image":"https://i0.hdslb.com/bfs/garb/041c9d0f6eeb9f2f43ba02bba5e661afada73416.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 夏日游园会_令人兴奋]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5feb962d777e3919bd521937ddd57f8d52a5c492.png",
 							"sale_type":"pay"
 						}
 					},
@@ -149,73 +149,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[普通小狗 夏日游园会_收到回复]",
+						"name":"[普通小狗 夏日游园会_吃到大瓜]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e9ad0f7280c9d5b48d3366655b3d2259133e77bb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 夏日游园会_战斗]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/27f78fffc9f4a184e18cbdd76ca72b622c680794.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 夏日游园会_玉玉了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/de1b7cbb84797d7941226812119a77c388ca17a0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 夏日游园会_爱神之箭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a2651723885c0ebc1d140fc1db27909e7d0db93f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 夏日游园会_留念]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3e128a209963f31098e110274a6cd36fb3b24fd6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 夏日游园会_闪亮登场]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/134cf6a61b0aa10ff71fd26d08ddd9fa83c1a7ec.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 夏日游园会_累了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c889aee6abee6ba0de60ec1b79e370636ff539a4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[普通小狗 夏日游园会_亲亲]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/041c9d0f6eeb9f2f43ba02bba5e661afada73416.png",
+							"image":"https://i0.hdslb.com/bfs/garb/dc742455edc6344dcc727431b37a9d9ff0719f65.png",
 							"sale_type":"pay"
 						}
 					},
@@ -234,6 +171,69 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3de6d4be2e92f0b090ae7b994361f5e4d2a9c619.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 夏日游园会_战斗]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/27f78fffc9f4a184e18cbdd76ca72b622c680794.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 夏日游园会_收到回复]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e9ad0f7280c9d5b48d3366655b3d2259133e77bb.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 夏日游园会_爱神之箭]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a2651723885c0ebc1d140fc1db27909e7d0db93f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 夏日游园会_玉玉了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/de1b7cbb84797d7941226812119a77c388ca17a0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 夏日游园会_留念]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3e128a209963f31098e110274a6cd36fb3b24fd6.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 夏日游园会_累了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c889aee6abee6ba0de60ec1b79e370636ff539a4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[普通小狗 夏日游园会_闪亮登场]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/134cf6a61b0aa10ff71fd26d08ddd9fa83c1a7ec.png",
 							"sale_type":"pay"
 						}
 					}

@@ -104,24 +104,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[布丁狗和小伙伴2_不想理你]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bde23332b40ba5c24f28f40fe71419a453544f17.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布丁狗和小伙伴2_偷听]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/01f63ffa27ec46b2df7847af4f005fb5d78c1665.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[布丁狗和小伙伴2_不听不听]",
 						"tab_id":0,
 						"properties":{
@@ -131,64 +113,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[布丁狗和小伙伴2_加油]",
+						"name":"[布丁狗和小伙伴2_不想理你]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/20e0fa1ac4a4e241913edbd798007fefba6c81b0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布丁狗和小伙伴2_对不起]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/69a79f55984277898e92956998667be77fe47443.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布丁狗和小伙伴2_哭哭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cb3ddac0faccc8e9629de2a3b263c18040a1a3fb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布丁狗和小伙伴2_开心]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7d2311d325fbc647b4e5aacc4efc9d7034cfce96.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布丁狗和小伙伴2_惊了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6dde0172aee40ed98cb24a273abe6c97031dd6a1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布丁狗和小伙伴2_疑惑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/28b276d76fd5d759fbc40629e6d2a4ac5729d8ae.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布丁狗和小伙伴2_弱小可怜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/23f8e51c0c3b023ad6d41678cd42a633f5349e94.png",
+							"image":"https://i0.hdslb.com/bfs/garb/bde23332b40ba5c24f28f40fe71419a453544f17.png",
 							"sale_type":"pay"
 						}
 					},
@@ -203,10 +131,82 @@
 					},
 					{
 						"item_id":0,
+						"name":"[布丁狗和小伙伴2_偷听]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/01f63ffa27ec46b2df7847af4f005fb5d78c1665.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布丁狗和小伙伴2_加油]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/20e0fa1ac4a4e241913edbd798007fefba6c81b0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布丁狗和小伙伴2_哭哭]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cb3ddac0faccc8e9629de2a3b263c18040a1a3fb.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[布丁狗和小伙伴2_好困]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/97930d2f2871f241cca47035d45cd2ef189c0f51.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布丁狗和小伙伴2_对不起]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/69a79f55984277898e92956998667be77fe47443.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布丁狗和小伙伴2_开心]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7d2311d325fbc647b4e5aacc4efc9d7034cfce96.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布丁狗和小伙伴2_弱小可怜]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/23f8e51c0c3b023ad6d41678cd42a633f5349e94.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布丁狗和小伙伴2_惊了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6dde0172aee40ed98cb24a273abe6c97031dd6a1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布丁狗和小伙伴2_抱抱]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4e5f4b093d44bb419ee7c0274ce86065b09c9f6e.png",
 							"sale_type":"pay"
 						}
 					},
@@ -221,10 +221,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[布丁狗和小伙伴2_抱抱]",
+						"name":"[布丁狗和小伙伴2_疑惑]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4e5f4b093d44bb419ee7c0274ce86065b09c9f6e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/28b276d76fd5d759fbc40629e6d2a4ac5729d8ae.png",
 							"sale_type":"pay"
 						}
 					},

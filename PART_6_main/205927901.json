@@ -103,6 +103,42 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[自愿上学_不堪一击]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f5aabd37e1a3da8a51cc68f9fd0b86cf1e250166.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[自愿上学_不就是上学]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/91304525578c16caedf2d2174b600c0a39233d98.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[自愿上学_不想开学]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/348faa43ab3c6a2c7a833d437d950093ea6f7de2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[自愿上学_佛]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6de7f7dd730873b8ad050e9213269d10b3827107.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[自愿上学_回学校]",
 						"tab_id":0,
 						"properties":{
@@ -121,37 +157,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[自愿上学_自愿上学]",
+						"name":"[自愿上学_是否开学]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/12b8484fa1376b66d42692006342305c04508937.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[自愿上学_自愿]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7ef2221398fddc557b298dbe61748294e2b8cd3b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[自愿上学_精神状态]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cf0542d1f1889cf4d5f7df0a222618c6024a4d35.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[自愿上学_不想开学]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/348faa43ab3c6a2c7a833d437d950093ea6f7de2.png",
+							"image":"https://i0.hdslb.com/bfs/garb/9427308b8002f4e5096051ded6b6253195a7bba5.png",
 							"sale_type":"pay"
 						}
 					},
@@ -166,46 +175,19 @@
 					},
 					{
 						"item_id":0,
+						"name":"[自愿上学_睁大眼睛]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9751e2cd78975ad3072775888abe05b51b758631.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[自愿上学_睁眼]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7246673516441d4f3dde34f2d51f56ba4a661cd6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[自愿上学_不就是上学]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/91304525578c16caedf2d2174b600c0a39233d98.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[自愿上学_是否开学]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9427308b8002f4e5096051ded6b6253195a7bba5.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[自愿上学_佛]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6de7f7dd730873b8ad050e9213269d10b3827107.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[自愿上学_跨入学校]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c41e574daee38a62000a42d27ee3477e1b416728.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,19 +202,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[自愿上学_睁大眼睛]",
+						"name":"[自愿上学_精神状态]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9751e2cd78975ad3072775888abe05b51b758631.png",
+							"image":"https://i0.hdslb.com/bfs/garb/cf0542d1f1889cf4d5f7df0a222618c6024a4d35.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[自愿上学_不堪一击]",
+						"name":"[自愿上学_自愿]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f5aabd37e1a3da8a51cc68f9fd0b86cf1e250166.png",
+							"image":"https://i0.hdslb.com/bfs/garb/7ef2221398fddc557b298dbe61748294e2b8cd3b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[自愿上学_自愿上学]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/12b8484fa1376b66d42692006342305c04508937.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[自愿上学_跨入学校]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c41e574daee38a62000a42d27ee3477e1b416728.png",
 							"sale_type":"pay"
 						}
 					}

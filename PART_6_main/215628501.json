@@ -104,91 +104,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[Oime_D小狗_好困困嗷]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b260522b879926b01d7f8c1daa5b9899bef5096c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Oime_D小狗_送你花花]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/296114a70449f4aeaba00df845b681087df8cfab.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Oime_D小狗_宝宝贴贴]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a25273d2b8b69418db928eb023679d4d32e21dd2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[Oime_D小狗_亲亲约嘛]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9205495f8b57a62d3573d81d27bbf08e48b6aff2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Oime_D小狗_变成花花]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8157f9d0558dc341924348c939f7a17783017eae.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Oime_D小狗_好桑心呜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/acbb45efb426d291e3852eb20046bbc058555cb3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Oime_D小狗_我在这里]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/415ac765a5fb2212ac176fa0e5f35fb29317256b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Oime_D小狗_好生气哦]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3f45a3bac4b346b3fee452a57ddaf532354dcb63.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Oime_D小狗_喝奶茶嘞]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f86e656ea92429bf3d29065d7d605d31fd4ce95f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[Oime_D小狗_心平气和]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/80c75992fedf5114b5ff1aabc5f0fd507a5abb40.png",
 							"sale_type":"pay"
 						}
 					},
@@ -203,10 +122,82 @@
 					},
 					{
 						"item_id":0,
-						"name":"[Oime_D小狗_狗狗歪头]",
+						"name":"[Oime_D小狗_变成花花]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4cbe36bfbd2905117122f805e11ba7131519443d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/8157f9d0558dc341924348c939f7a17783017eae.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Oime_D小狗_喝奶茶嘞]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f86e656ea92429bf3d29065d7d605d31fd4ce95f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Oime_D小狗_好困困嗷]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b260522b879926b01d7f8c1daa5b9899bef5096c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Oime_D小狗_好桑心呜]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/acbb45efb426d291e3852eb20046bbc058555cb3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Oime_D小狗_好生气哦]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3f45a3bac4b346b3fee452a57ddaf532354dcb63.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Oime_D小狗_宝宝贴贴]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a25273d2b8b69418db928eb023679d4d32e21dd2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Oime_D小狗_心平气和]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/80c75992fedf5114b5ff1aabc5f0fd507a5abb40.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Oime_D小狗_惊喜狗狗]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d06dd92248dec791823e0a8c3e8991410dfb9cf2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[Oime_D小狗_我在这里]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/415ac765a5fb2212ac176fa0e5f35fb29317256b.png",
 							"sale_type":"pay"
 						}
 					},
@@ -221,6 +212,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[Oime_D小狗_狗狗歪头]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4cbe36bfbd2905117122f805e11ba7131519443d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[Oime_D小狗_讨厌作业]",
 						"tab_id":0,
 						"properties":{
@@ -230,10 +230,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[Oime_D小狗_惊喜狗狗]",
+						"name":"[Oime_D小狗_送你花花]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d06dd92248dec791823e0a8c3e8991410dfb9cf2.png",
+							"image":"https://i0.hdslb.com/bfs/garb/296114a70449f4aeaba00df845b681087df8cfab.png",
 							"sale_type":"pay"
 						}
 					}

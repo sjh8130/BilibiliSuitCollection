@@ -112,10 +112,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[功德木鱼_功德无量]",
+						"name":"[功德木鱼_亿点点]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c01ac3dbb505f4b078a7c6dc6644948f26dd5fe1.png",
+							"image":"https://i0.hdslb.com/bfs/garb/f11ddec6a42826fcbcb1eaee27a9107c26bc84ed.png",
 							"sale_type":"pay"
 						}
 					},
@@ -130,19 +130,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[功德木鱼_亿点点]",
+						"name":"[功德木鱼_功德无量]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f11ddec6a42826fcbcb1eaee27a9107c26bc84ed.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[功德木鱼_开心]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c09c0c24aab79354fd5c08e1ca9623f95423e78e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c01ac3dbb505f4b078a7c6dc6644948f26dd5fe1.png",
 							"sale_type":"pay"
 						}
 					},
@@ -157,6 +148,33 @@
 					},
 					{
 						"item_id":0,
+						"name":"[功德木鱼_开心]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c09c0c24aab79354fd5c08e1ca9623f95423e78e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[功德木鱼_心无杂念]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c6343ddceb2aa8fdc4495851f16859486b54ed64.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[功德木鱼_慈悲]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8c5d9d4b767ee845a50d541ab1bb6fa1c18cf84c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[功德木鱼_晦气]",
 						"tab_id":0,
 						"properties":{
@@ -166,28 +184,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[功德木鱼_考神附体]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/931ca47e60e1ee0b51afe3e696259e029a06d418.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[功德木鱼_智慧]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b150e0293b4f4bf4d6297f8c2e247735701c7c2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[功德木鱼_烦恼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e457efc2cd349d87a3942456ebacb08bc5a319df.png",
 							"sale_type":"pay"
 						}
 					},
@@ -211,10 +211,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[功德木鱼_心无杂念]",
+						"name":"[功德木鱼_烦恼]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c6343ddceb2aa8fdc4495851f16859486b54ed64.png",
+							"image":"https://i0.hdslb.com/bfs/garb/e457efc2cd349d87a3942456ebacb08bc5a319df.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[功德木鱼_考神附体]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/931ca47e60e1ee0b51afe3e696259e029a06d418.png",
 							"sale_type":"pay"
 						}
 					},
@@ -224,15 +233,6 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1ffc901d6933d7f427b2337674a098412ba62f86.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[功德木鱼_慈悲]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8c5d9d4b767ee845a50d541ab1bb6fa1c18cf84c.png",
 							"sale_type":"pay"
 						}
 					}

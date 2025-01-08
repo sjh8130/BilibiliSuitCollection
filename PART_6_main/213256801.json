@@ -139,6 +139,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[蟹佬海鲜餐_扇贝]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/eb90f61ee1a6df1ac34b6d88daa598445fdecea6.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[蟹佬海鲜餐_暗中观察]",
 						"tab_id":0,
 						"properties":{
@@ -152,6 +161,33 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0e0cce1639b8fd1b5711016c752bf6d46fb3b657.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[蟹佬海鲜餐_生蚝]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c61a64cdc8711ec706a935f8ac7f0da7ec419606.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[蟹佬海鲜餐_虾]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0962b9e17cd422a75f13a9af73b66274f97957fc.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[蟹佬海鲜餐_螺]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8f459532701fd7eb04154b4e545a6e87fb377e93.png",
 							"sale_type":"pay"
 						}
 					},
@@ -184,55 +220,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[蟹佬海鲜餐_黑线]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/01d29f83740e2d24f59187b945c24fbe8d180c66.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[蟹佬海鲜餐_虾]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0962b9e17cd422a75f13a9af73b66274f97957fc.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[蟹佬海鲜餐_扇贝]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/eb90f61ee1a6df1ac34b6d88daa598445fdecea6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[蟹佬海鲜餐_生蚝]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c61a64cdc8711ec706a935f8ac7f0da7ec419606.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[蟹佬海鲜餐_螺]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8f459532701fd7eb04154b4e545a6e87fb377e93.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[蟹佬海鲜餐_青口]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/739e16890e0fe7bf14ccfd0922c8e18642649349.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[蟹佬海鲜餐_黑线]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/01d29f83740e2d24f59187b945c24fbe8d180c66.png",
 							"sale_type":"pay"
 						}
 					}

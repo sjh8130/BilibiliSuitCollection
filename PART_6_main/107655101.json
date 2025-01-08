@@ -104,10 +104,28 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[线条小狗-运动篇_一起]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/96df0f03fdc7b990d2d65a911c25e53e296eb20a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[线条小狗-运动篇_乖孩子]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e06319045a732721a60e119c426aec50ddacd018.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[线条小狗-运动篇_出走]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/28b9c3076818eac7555df7ce0eb8c87049631b68.png",
 							"sale_type":"pay"
 						}
 					},
@@ -122,10 +140,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[线条小狗-运动篇_来了]",
+						"name":"[线条小狗-运动篇_安慰]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/50de1cf44d6f61e9648094296bea9f973bf9a56d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/2a8bac606dd7cc794ead8ab623664eb5fc099d09.png",
 							"sale_type":"pay"
 						}
 					},
@@ -140,24 +158,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[线条小狗-运动篇_耍脾气]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5e6aa6af6808e7766af659bd88a5faecbc99015f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[线条小狗-运动篇_真棒]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b4e725e26d0c6a7d692aa99e8b25c94c66632dfe.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[线条小狗-运动篇_抱抱]",
 						"tab_id":0,
 						"properties":{
@@ -167,10 +167,55 @@
 					},
 					{
 						"item_id":0,
+						"name":"[线条小狗-运动篇_摇晃]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/74520af078c64a9df539c7996f3161ccdc63c39d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[线条小狗-运动篇_收到花花]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1dc17d81079affe5d6c570a94bcca5597827ac52.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[线条小狗-运动篇_无聊]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1c227aef9f74a51234095a0c1f396b6b7cd6ae77.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[线条小狗-运动篇_晚安]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2298a4762b07422792d0add29da8c1c94f32319f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[线条小狗-运动篇_来了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/50de1cf44d6f61e9648094296bea9f973bf9a56d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[线条小狗-运动篇_来嘛]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f8f68cf75e47c06cb6aeb22b0a29296f23b58eeb.png",
 							"sale_type":"pay"
 						}
 					},
@@ -194,24 +239,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[线条小狗-运动篇_摇晃]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/74520af078c64a9df539c7996f3161ccdc63c39d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[线条小狗-运动篇_安慰]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2a8bac606dd7cc794ead8ab623664eb5fc099d09.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[线条小狗-运动篇_玩]",
 						"tab_id":0,
 						"properties":{
@@ -221,19 +248,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[线条小狗-运动篇_一起]",
+						"name":"[线条小狗-运动篇_真棒]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/96df0f03fdc7b990d2d65a911c25e53e296eb20a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[线条小狗-运动篇_出走]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/28b9c3076818eac7555df7ce0eb8c87049631b68.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b4e725e26d0c6a7d692aa99e8b25c94c66632dfe.png",
 							"sale_type":"pay"
 						}
 					},
@@ -248,19 +266,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[线条小狗-运动篇_收到花花]",
+						"name":"[线条小狗-运动篇_耍脾气]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1dc17d81079affe5d6c570a94bcca5597827ac52.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[线条小狗-运动篇_来嘛]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f8f68cf75e47c06cb6aeb22b0a29296f23b58eeb.png",
+							"image":"https://i0.hdslb.com/bfs/garb/5e6aa6af6808e7766af659bd88a5faecbc99015f.png",
 							"sale_type":"pay"
 						}
 					},
@@ -270,15 +279,6 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/573ee2556aa1569c285dd9fcc052dc922302e84b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[线条小狗-运动篇_晚安]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2298a4762b07422792d0add29da8c1c94f32319f.png",
 							"sale_type":"pay"
 						}
 					}

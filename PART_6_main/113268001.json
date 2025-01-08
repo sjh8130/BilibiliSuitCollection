@@ -157,6 +157,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[喵喵精英团_乘号]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9227d852b1afa1142b05217c59289d294a501218.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[喵喵精英团_减号]",
 						"tab_id":0,
 						"properties":{
@@ -175,28 +184,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[喵喵精英团_除号]",
+						"name":"[喵喵精英团_喜欢]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cabc3d655e772597a60e4edbf86fee39407512c3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[喵喵精英团_乘号]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9227d852b1afa1142b05217c59289d294a501218.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[喵喵精英团_小于号]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/33274a196d83841bc4058e5674889dddf3e0a5ba.png",
+							"image":"https://i0.hdslb.com/bfs/garb/1426976779fd7d4069c8d99b4f4f1a6353552a23.png",
 							"sale_type":"pay"
 						}
 					},
@@ -211,10 +202,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[喵喵精英团_喜欢]",
+						"name":"[喵喵精英团_小于号]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1426976779fd7d4069c8d99b4f4f1a6353552a23.png",
+							"image":"https://i0.hdslb.com/bfs/garb/33274a196d83841bc4058e5674889dddf3e0a5ba.png",
 							"sale_type":"pay"
 						}
 					},
@@ -224,6 +215,15 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2106451729cc6eec7a1e18f9e284e7590f9181ac.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[喵喵精英团_除号]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cabc3d655e772597a60e4edbf86fee39407512c3.png",
 							"sale_type":"pay"
 						}
 					},

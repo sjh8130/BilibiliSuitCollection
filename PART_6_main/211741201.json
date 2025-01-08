@@ -103,10 +103,19 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[你是哪种Bee_蜂了吗]",
+						"name":"[你是哪种Bee_兜儿]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4228195e7b2d0ecf4a669ed8cfef27f5a48af880.png",
+							"image":"https://i0.hdslb.com/bfs/garb/364fde51cc6f685979c6e62cf4756bc769092643.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[你是哪种Bee_厉害呀]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a38c64d4a9c9f4e68dd422be7329becdbe70e5b2.png",
 							"sale_type":"pay"
 						}
 					},
@@ -116,6 +125,60 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0f55d27ad37d8784974bb559c75592059cdae0ff.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[你是哪种Bee_小丑蜂]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4050854fbc544c59284cfc6f409d519275827b84.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[你是哪种Bee_小马蜂]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/67987244da6f6270be25e56f86087775802d1d01.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[你是哪种Bee_火烧蜂]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f079be2d8ed8aa1cdead8e300e33072119738a4f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[你是哪种Bee_牛牛蜂]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0bb712025ff1bdad9adaf0fbae276eb6650f6795.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[你是哪种Bee_狗狗蜂]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/610ec4499ee3d0ed38361251154b194d816c9a7d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[你是哪种Bee_禁止]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4abee38ed947ce267264127995a8746f6445fbc7.png",
 							"sale_type":"pay"
 						}
 					},
@@ -139,10 +202,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[你是哪种Bee_火烧蜂]",
+						"name":"[你是哪种Bee_萨卡班蜂]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f079be2d8ed8aa1cdead8e300e33072119738a4f.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b0d20bf2b77b76c8011ab8047b6670341a7d645c.png",
 							"sale_type":"pay"
 						}
 					},
@@ -157,37 +220,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[你是哪种Bee_小丑蜂]",
+						"name":"[你是哪种Bee_蜂了吗]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4050854fbc544c59284cfc6f409d519275827b84.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[你是哪种Bee_狗狗蜂]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/610ec4499ee3d0ed38361251154b194d816c9a7d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[你是哪种Bee_牛牛蜂]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0bb712025ff1bdad9adaf0fbae276eb6650f6795.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[你是哪种Bee_萨卡班蜂]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b0d20bf2b77b76c8011ab8047b6670341a7d645c.png",
+							"image":"https://i0.hdslb.com/bfs/garb/4228195e7b2d0ecf4a669ed8cfef27f5a48af880.png",
 							"sale_type":"pay"
 						}
 					},
@@ -197,42 +233,6 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bc3f24343a95e570b3d919d745f97153f0b47676.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[你是哪种Bee_小马蜂]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/67987244da6f6270be25e56f86087775802d1d01.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[你是哪种Bee_厉害呀]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a38c64d4a9c9f4e68dd422be7329becdbe70e5b2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[你是哪种Bee_兜儿]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/364fde51cc6f685979c6e62cf4756bc769092643.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[你是哪种Bee_禁止]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4abee38ed947ce267264127995a8746f6445fbc7.png",
 							"sale_type":"pay"
 						}
 					}

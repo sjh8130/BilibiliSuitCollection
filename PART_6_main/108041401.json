@@ -131,10 +131,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[小丑先生_大笑]",
+						"name":"[小丑先生_嘶哈]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/62cbf08d7c476d22ac09c1870cec542d95fb6fa5.png",
+							"image":"https://i0.hdslb.com/bfs/garb/4c2fb4ea34cb1d4276be6f1d87fb06097e13a4fb.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[小丑先生_嘿嘿]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a05c66dbef3140515e4951286b64da2a9b66b2f5.png",
 							"sale_type":"pay"
 						}
 					},
@@ -149,10 +158,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[小丑先生_微笑]",
+						"name":"[小丑先生_大笑]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cc1aacefd07ca7132812c34c6689f1db02617232.png",
+							"image":"https://i0.hdslb.com/bfs/garb/62cbf08d7c476d22ac09c1870cec542d95fb6fa5.png",
 							"sale_type":"pay"
 						}
 					},
@@ -167,10 +176,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[小丑先生_爱了]",
+						"name":"[小丑先生_微笑]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ae482d1afc7aabda859ec141478ade3e3b6958f8.png",
+							"image":"https://i0.hdslb.com/bfs/garb/cc1aacefd07ca7132812c34c6689f1db02617232.png",
 							"sale_type":"pay"
 						}
 					},
@@ -185,19 +194,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[小丑先生_骂骂咧咧]",
+						"name":"[小丑先生_熬夜]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3e48c1ab11f7dee4361c4c52c42fe717d9fe4749.png",
+							"image":"https://i0.hdslb.com/bfs/garb/03d1fff09f3052d47cdc14a6f7273e955b731e83.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[小丑先生_熬夜]",
+						"name":"[小丑先生_爱了]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/03d1fff09f3052d47cdc14a6f7273e955b731e83.png",
+							"image":"https://i0.hdslb.com/bfs/garb/ae482d1afc7aabda859ec141478ade3e3b6958f8.png",
 							"sale_type":"pay"
 						}
 					},
@@ -221,19 +230,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[小丑先生_嘿嘿]",
+						"name":"[小丑先生_骂骂咧咧]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a05c66dbef3140515e4951286b64da2a9b66b2f5.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[小丑先生_嘶哈]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4c2fb4ea34cb1d4276be6f1d87fb06097e13a4fb.png",
+							"image":"https://i0.hdslb.com/bfs/garb/3e48c1ab11f7dee4361c4c52c42fe717d9fe4749.png",
 							"sale_type":"pay"
 						}
 					}
@@ -298,6 +298,6 @@
 	"fan_user":{
 		"mid":2398887,
 		"nickname":"catshark猫鲨",
-		"avatar":"https://i0.hdslb.com/bfs/face/64a1060c469c8c332c49d31308c0dcadcf570849.jpg"
+		"avatar":"https://i0.hdslb.com/bfs/face/3d1ce8c124e16cfeade1d12901d35ab9ff461aad.jpg"
 	}
 }

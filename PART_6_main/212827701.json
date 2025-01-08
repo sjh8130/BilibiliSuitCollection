@@ -112,19 +112,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[我OUT_U]",
+						"name":"[我OUT_T]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7c099d20a3fc0cf417f3c55fa41ccb75064b6890.png",
+							"image":"https://i0.hdslb.com/bfs/garb/207d494c8eafd4dcec53a73622b9fc47819b23ad.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[我OUT_T]",
+						"name":"[我OUT_U]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/207d494c8eafd4dcec53a73622b9fc47819b23ad.png",
+							"image":"https://i0.hdslb.com/bfs/garb/7c099d20a3fc0cf417f3c55fa41ccb75064b6890.png",
 							"sale_type":"pay"
 						}
 					},
@@ -139,10 +139,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[我OUT_复活]",
+						"name":"[我OUT_outout]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0d5cbe9361ce55742efcfb70b19cc3c14ceceeaa.png",
+							"image":"https://i0.hdslb.com/bfs/garb/9c377de51535e17776d305dae3a334c7205c1aaf.png",
 							"sale_type":"pay"
 						}
 					},
@@ -157,19 +157,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[我OUT_会赢的]",
+						"name":"[我OUT_上班out]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/064769496b952ef859a7e4ef16800dfbe014a6a9.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[我OUT_曼巴out]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d892508c951b05d99ca30cac329feca433b40f98.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a5eb3b99d9127ddf76d4a555f5b059e82c93d1e5.png",
 							"sale_type":"pay"
 						}
 					},
@@ -184,28 +175,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[我OUT_睡眠out]",
+						"name":"[我OUT_会赢的]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e86e18645df3a312e3d7f1c7a6520a9d40768999.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[我OUT_学校out]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1c37bca101b18de177380398b814fe752e2d5f5b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[我OUT_上班out]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a5eb3b99d9127ddf76d4a555f5b059e82c93d1e5.png",
+							"image":"https://i0.hdslb.com/bfs/garb/064769496b952ef859a7e4ef16800dfbe014a6a9.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,6 +193,24 @@
 					},
 					{
 						"item_id":0,
+						"name":"[我OUT_复活]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0d5cbe9361ce55742efcfb70b19cc3c14ceceeaa.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[我OUT_学校out]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1c37bca101b18de177380398b814fe752e2d5f5b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[我OUT_我out]",
 						"tab_id":0,
 						"properties":{
@@ -229,10 +220,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[我OUT_outout]",
+						"name":"[我OUT_曼巴out]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9c377de51535e17776d305dae3a334c7205c1aaf.png",
+							"image":"https://i0.hdslb.com/bfs/garb/d892508c951b05d99ca30cac329feca433b40f98.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[我OUT_睡眠out]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e86e18645df3a312e3d7f1c7a6520a9d40768999.png",
 							"sale_type":"pay"
 						}
 					}

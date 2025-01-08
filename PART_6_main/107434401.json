@@ -103,15 +103,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[笨笨猪_不关我事]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e370f0bbac429f192e64f9f0b009c65047719195.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[笨笨猪_V20]",
 						"tab_id":0,
 						"properties":{
@@ -121,10 +112,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[笨笨猪_吃我一拳]",
+						"name":"[笨笨猪_不关我事]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1ac4d154efbed66ac040acda5a483f30ca10bb59.png",
+							"image":"https://i0.hdslb.com/bfs/garb/e370f0bbac429f192e64f9f0b009c65047719195.png",
 							"sale_type":"pay"
 						}
 					},
@@ -139,55 +130,19 @@
 					},
 					{
 						"item_id":0,
+						"name":"[笨笨猪_吃我一拳]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1ac4d154efbed66ac040acda5a483f30ca10bb59.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[笨笨猪_哭成猪头]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a8a2a13cdc88329d0e3f6c57522ec284ec99cc1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[笨笨猪_无语]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fb169db0ff6d25d2474d8c8b7623f583625c19df.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[笨笨猪_委屈巴巴]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1426c93f44eb7d44b8a063e4f4436052a7dcd51c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[笨笨猪_给我爬]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1c4d03fb5fee4437710ed5e463b81b1d78b24139.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[笨笨猪_喝奶茶]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0ba3aa5704c146631541545fe61e1ae6fed795b3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[笨笨猪_零下冷酷]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/88effb7ac27a7bc0936b33f7ac46f6817c1567a9.png",
 							"sale_type":"pay"
 						}
 					},
@@ -202,10 +157,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[笨笨猪_静静的看]",
+						"name":"[笨笨猪_喝奶茶]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7998ee2f5033a6f45df832b7d21ee0441c265577.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0ba3aa5704c146631541545fe61e1ae6fed795b3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[笨笨猪_委屈巴巴]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1426c93f44eb7d44b8a063e4f4436052a7dcd51c.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,10 +184,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[笨笨猪_让我抱一下]",
+						"name":"[笨笨猪_无语]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dc6c110fb4a4c455991a5af71a3527ffa4d048dc.png",
+							"image":"https://i0.hdslb.com/bfs/garb/fb169db0ff6d25d2474d8c8b7623f583625c19df.png",
 							"sale_type":"pay"
 						}
 					},
@@ -233,6 +197,42 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0697661c67fa42244b2c4196e81cd6ce66b84006.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[笨笨猪_给我爬]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1c4d03fb5fee4437710ed5e463b81b1d78b24139.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[笨笨猪_让我抱一下]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/dc6c110fb4a4c455991a5af71a3527ffa4d048dc.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[笨笨猪_零下冷酷]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/88effb7ac27a7bc0936b33f7ac46f6817c1567a9.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[笨笨猪_静静的看]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7998ee2f5033a6f45df832b7d21ee0441c265577.png",
 							"sale_type":"pay"
 						}
 					}

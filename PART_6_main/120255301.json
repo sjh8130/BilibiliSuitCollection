@@ -122,6 +122,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[人格贴纸-ISFJ_内向]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/196a156406acf00aed391193faf84ac67173cfe0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[人格贴纸-ISFJ_双倍焦虑]",
 						"tab_id":0,
 						"properties":{
@@ -131,10 +140,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-ISFJ_内向]",
+						"name":"[人格贴纸-ISFJ_受伤]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/196a156406acf00aed391193faf84ac67173cfe0.png",
+							"image":"https://i0.hdslb.com/bfs/garb/307738e5caa4ce8aa3bb09bba5cc8c829880bfac.png",
 							"sale_type":"pay"
 						}
 					},
@@ -158,64 +167,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-ISFJ_受伤]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/307738e5caa4ce8aa3bb09bba5cc8c829880bfac.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[人格贴纸-ISFJ_失智]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3e2b2dcad39c018c0522f100bc75efb6f36760d2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[人格贴纸-ISFJ_极度社恐]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ada3c2539be1b9a63d0307d4f27db877e041a342.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[人格贴纸-ISFJ_收到]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ef7ab6335bdb0d39edac5f584fdc257b6dfa2c6a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[人格贴纸-ISFJ_贴贴]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/71c2172579a5a78f7ae9402c27f95cc3b778b077.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[人格贴纸-ISFJ_强忍泪水]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2a52aadb2ee1d3f15b0e91856479fb95f19a2e16.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[人格贴纸-ISFJ_超生气]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/94bc3ce70af972ef6b44b3b9be64d8fae2e8876a.png",
 							"sale_type":"pay"
 						}
 					},
@@ -230,10 +185,55 @@
 					},
 					{
 						"item_id":0,
+						"name":"[人格贴纸-ISFJ_强忍泪水]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2a52aadb2ee1d3f15b0e91856479fb95f19a2e16.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[人格贴纸-ISFJ_收到]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ef7ab6335bdb0d39edac5f584fdc257b6dfa2c6a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[人格贴纸-ISFJ_极度社恐]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ada3c2539be1b9a63d0307d4f27db877e041a342.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[人格贴纸-ISFJ_深夜emo]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ae6724d1bd3ab0644fc71b10ae8af41d2693f300.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[人格贴纸-ISFJ_贴贴]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/71c2172579a5a78f7ae9402c27f95cc3b778b077.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[人格贴纸-ISFJ_超生气]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/94bc3ce70af972ef6b44b3b9be64d8fae2e8876a.png",
 							"sale_type":"pay"
 						}
 					}

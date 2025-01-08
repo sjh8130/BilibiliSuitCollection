@@ -104,10 +104,46 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[奶茶甜点猫 白兰装扮001_emmm]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/32795e2fee9d25aae7386a86b8c4de4c4c24aa59.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[奶茶甜点猫 白兰装扮001_喝奶茶]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2655213a8d632a6b95de5d1725adaba6bef568b9.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[奶茶甜点猫 白兰装扮001_奶茶]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/368f2376412fcdd3a93a484cfba0154e6501db0c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[奶茶甜点猫 白兰装扮001_奶茶连续]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/725fa32492da70fabf792a41ef80ae70e71bc7fb.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[奶茶甜点猫 白兰装扮001_布丁]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b93c56e5f1ab908e6c1c3ea0526f2b2d39b8c212.png",
 							"sale_type":"pay"
 						}
 					},
@@ -122,19 +158,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[奶茶甜点猫 白兰装扮001_问号]",
+						"name":"[奶茶甜点猫 白兰装扮001_猫猫咖啡]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/37e3a21933f0fbdeee1098b54cabea6303e2a442.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[奶茶甜点猫 白兰装扮001_emmm]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/32795e2fee9d25aae7386a86b8c4de4c4c24aa59.png",
+							"image":"https://i0.hdslb.com/bfs/garb/387cda0c7bc4ba86144a7b6252cf3c98ed7f90cc.png",
 							"sale_type":"pay"
 						}
 					},
@@ -158,19 +185,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[奶茶甜点猫 白兰装扮001_草莓饼]",
+						"name":"[奶茶甜点猫 白兰装扮001_茶壶]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ca7bf6332fb4522a4fde062de95e62cb362d97c2.png",
+							"image":"https://i0.hdslb.com/bfs/garb/f2dc4fba5adc23205696c435b86cf5a208ff93c7.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[奶茶甜点猫 白兰装扮001_布丁]",
+						"name":"[奶茶甜点猫 白兰装扮001_茶杯]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b93c56e5f1ab908e6c1c3ea0526f2b2d39b8c212.png",
+							"image":"https://i0.hdslb.com/bfs/garb/5857b9970dc411ec74b33168c1aa4d901e3e5bfe.png",
 							"sale_type":"pay"
 						}
 					},
@@ -185,24 +212,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[奶茶甜点猫 白兰装扮001_奶茶]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/368f2376412fcdd3a93a484cfba0154e6501db0c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[奶茶甜点猫 白兰装扮001_猫猫咖啡]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/387cda0c7bc4ba86144a7b6252cf3c98ed7f90cc.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[奶茶甜点猫 白兰装扮001_草莓泡芙]",
 						"tab_id":0,
 						"properties":{
@@ -212,28 +221,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[奶茶甜点猫 白兰装扮001_茶壶]",
+						"name":"[奶茶甜点猫 白兰装扮001_草莓饼]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f2dc4fba5adc23205696c435b86cf5a208ff93c7.png",
+							"image":"https://i0.hdslb.com/bfs/garb/ca7bf6332fb4522a4fde062de95e62cb362d97c2.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[奶茶甜点猫 白兰装扮001_奶茶连续]",
+						"name":"[奶茶甜点猫 白兰装扮001_问号]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/725fa32492da70fabf792a41ef80ae70e71bc7fb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[奶茶甜点猫 白兰装扮001_茶杯]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5857b9970dc411ec74b33168c1aa4d901e3e5bfe.png",
+							"image":"https://i0.hdslb.com/bfs/garb/37e3a21933f0fbdeee1098b54cabea6303e2a442.png",
 							"sale_type":"pay"
 						}
 					}

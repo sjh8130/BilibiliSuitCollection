@@ -112,91 +112,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[圣诞happy鸭_圣诞鸭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bbff5fbd370888943639655ff34e26ca11dfc7b1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞happy鸭_姜饼鸭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/775409868e2ef9c8f0f2d9509728d199ea72bcac.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞happy鸭_堆雪人]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3cd9c1687de4649cdcba8f0ed11e0c60e6df5d36.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞happy鸭_圣诞树]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d3a5ab98b498504c823b1b05b7d141501241458d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[圣诞happy鸭_伸手]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d61acf43413f3a5ec4479e6d178638599b750c1f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞happy鸭_拿来]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dd7a37269baa33904a4b182ea37f96156756a7ad.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞happy鸭_送贺卡]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4a5be4ff7f795f9d7dc769dcc5172f8b209b0bf2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞happy鸭_礼物]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/74cf5718d50c54103bf0c1f201c1fa4660eff77e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞happy鸭_回家]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5832674ea4a596f25c184998cd50ca5abadebd86.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[圣诞happy鸭_苹果]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a554fb91a1ad37ab0cdcc063287b21f100a0f611.png",
 							"sale_type":"pay"
 						}
 					},
@@ -211,10 +130,64 @@
 					},
 					{
 						"item_id":0,
-						"name":"[圣诞happy鸭_糖炒栗子]",
+						"name":"[圣诞happy鸭_回家]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/89c855e4cc35260512ea94a8f29f3e775fa21433.png",
+							"image":"https://i0.hdslb.com/bfs/garb/5832674ea4a596f25c184998cd50ca5abadebd86.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞happy鸭_圣诞树]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d3a5ab98b498504c823b1b05b7d141501241458d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞happy鸭_圣诞鸭]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/bbff5fbd370888943639655ff34e26ca11dfc7b1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞happy鸭_堆雪人]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3cd9c1687de4649cdcba8f0ed11e0c60e6df5d36.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞happy鸭_姜饼鸭]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/775409868e2ef9c8f0f2d9509728d199ea72bcac.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞happy鸭_拿来]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/dd7a37269baa33904a4b182ea37f96156756a7ad.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞happy鸭_晚安]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6cd9443cd35134895f96cb9444140b5a19b94740.png",
 							"sale_type":"pay"
 						}
 					},
@@ -229,10 +202,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[圣诞happy鸭_晚安]",
+						"name":"[圣诞happy鸭_礼物]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6cd9443cd35134895f96cb9444140b5a19b94740.png",
+							"image":"https://i0.hdslb.com/bfs/garb/74cf5718d50c54103bf0c1f201c1fa4660eff77e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞happy鸭_糖炒栗子]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/89c855e4cc35260512ea94a8f29f3e775fa21433.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞happy鸭_苹果]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a554fb91a1ad37ab0cdcc063287b21f100a0f611.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[圣诞happy鸭_送贺卡]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4a5be4ff7f795f9d7dc769dcc5172f8b209b0bf2.png",
 							"sale_type":"pay"
 						}
 					}

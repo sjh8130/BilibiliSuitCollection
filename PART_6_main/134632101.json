@@ -112,82 +112,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[天选打工吗喽_吗喽沉默]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bb6d81c67926b7ca0686db1e72661556a751be97.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[天选打工吗喽_洗喽]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/617bb732403611e0fb9cc6945485801549b10060.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[天选打工吗喽_报一丝哈]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/84da5990242a64c009f87742602be335e952d88d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[天选打工吗喽_睡觉]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9000d840d7c23cf578761a0d6aed48e1924740eb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[天选打工吗喽_爱心]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7bdca5c722156514b86ce2056f614da067179dda.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[天选打工吗喽_晴天霹雳]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2479aec8508004dcef42960cd4d53c94d97baadd.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[天选打工吗喽_同意]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dca96d1b542a1055fffbdf50f0997ddf410e3e35.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[天选打工吗喽_拒绝]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/613c43381fdc9b8e5f375bff93444c6a1e9eff9d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[天选打工吗喽_工作]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/efd39bc4b169cda1e415481a8d2e87160954e068.png",
 							"sale_type":"pay"
 						}
 					},
@@ -202,10 +130,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[天选打工吗喽_瑟瑟发抖]",
+						"name":"[天选打工吗喽_吗喽沉默]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/02ca3b3df3a8009a62ec1e8b281d69904668aa41.png",
+							"image":"https://i0.hdslb.com/bfs/garb/bb6d81c67926b7ca0686db1e72661556a751be97.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[天选打工吗喽_吗喽证]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/247842de1cf4b75667787953af7492c27488059c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[天选打工吗喽_工作]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/efd39bc4b169cda1e415481a8d2e87160954e068.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,6 +166,33 @@
 					},
 					{
 						"item_id":0,
+						"name":"[天选打工吗喽_报一丝哈]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/84da5990242a64c009f87742602be335e952d88d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[天选打工吗喽_拒绝]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/613c43381fdc9b8e5f375bff93444c6a1e9eff9d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[天选打工吗喽_晴天霹雳]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2479aec8508004dcef42960cd4d53c94d97baadd.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[天选打工吗喽_暗中观察]",
 						"tab_id":0,
 						"properties":{
@@ -229,10 +202,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[天选打工吗喽_吗喽证]",
+						"name":"[天选打工吗喽_洗喽]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/247842de1cf4b75667787953af7492c27488059c.png",
+							"image":"https://i0.hdslb.com/bfs/garb/617bb732403611e0fb9cc6945485801549b10060.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[天选打工吗喽_爱心]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7bdca5c722156514b86ce2056f614da067179dda.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[天选打工吗喽_瑟瑟发抖]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/02ca3b3df3a8009a62ec1e8b281d69904668aa41.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[天选打工吗喽_睡觉]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9000d840d7c23cf578761a0d6aed48e1924740eb.png",
 							"sale_type":"pay"
 						}
 					}

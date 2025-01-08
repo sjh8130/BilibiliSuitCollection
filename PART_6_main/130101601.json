@@ -103,10 +103,46 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[量子猫EH·小彩虹_略略略]",
+						"name":"[量子猫EH·小彩虹_丢掉]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a49114bba3f5bc367c854a600d359d7c31e6545a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/aea337a78fb98531abe43746032ce31fb042452c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[量子猫EH·小彩虹_叉腰]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0e010ce19a35a437584fd4450442a4deebe0644d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[量子猫EH·小彩虹_吃瓜]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/dd4d5487145864180d222449e7dfcd77d1762afe.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[量子猫EH·小彩虹_吹口哨]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2143ee4ad8ba0a9721d3b34b9e7fef7115d43941.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[量子猫EH·小彩虹_咬人]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/19ed6dd5fd6a102e0f1c43150ab26dd36fad75fe.png",
 							"sale_type":"pay"
 						}
 					},
@@ -130,91 +166,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[量子猫EH·小彩虹_叉腰]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0e010ce19a35a437584fd4450442a4deebe0644d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[量子猫EH·小彩虹_喜欢]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/06997b841323e81f5c071f026e42725b3a16fc58.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[量子猫EH·小彩虹_咬人]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/19ed6dd5fd6a102e0f1c43150ab26dd36fad75fe.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[量子猫EH·小彩虹_诶嘿]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/34503ec58284aec896e5a8d67eeee7ddc0c42cbd.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[量子猫EH·小彩虹_睡了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/762919e411402f4c022a77c151b0399d87f8cb44.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[量子猫EH·小彩虹_挥挥]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a0188d50c9d83689d58bfe103330a722b52f1e2a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[量子猫EH·小彩虹_吹口哨]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2143ee4ad8ba0a9721d3b34b9e7fef7115d43941.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[量子猫EH·小彩虹_丢掉]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/aea337a78fb98531abe43746032ce31fb042452c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[量子猫EH·小彩虹_吃瓜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dd4d5487145864180d222449e7dfcd77d1762afe.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[量子猫EH·小彩虹_走你]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ca48e936d170ebaecb31f00faa16758197694c94.png",
 							"sale_type":"pay"
 						}
 					},
@@ -233,6 +188,51 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9055487531978352251bbdc66f9fec3caa1074a9.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[量子猫EH·小彩虹_挥挥]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a0188d50c9d83689d58bfe103330a722b52f1e2a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[量子猫EH·小彩虹_略略略]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a49114bba3f5bc367c854a600d359d7c31e6545a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[量子猫EH·小彩虹_睡了]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/762919e411402f4c022a77c151b0399d87f8cb44.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[量子猫EH·小彩虹_诶嘿]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/34503ec58284aec896e5a8d67eeee7ddc0c42cbd.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[量子猫EH·小彩虹_走你]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ca48e936d170ebaecb31f00faa16758197694c94.png",
 							"sale_type":"pay"
 						}
 					}

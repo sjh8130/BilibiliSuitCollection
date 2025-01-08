@@ -104,64 +104,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[凯蒂猫·悠闲假日_收获满满]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f5e941cde55a461a0f0439ef2ebd5f739ee0f6d2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[凯蒂猫·悠闲假日_洗澡澡]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8b1f1448843d1201fe1348f2ec3c3b61a6e99b2c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[凯蒂猫·悠闲假日_挑选]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fb8a2ad1980c9bae081b0b6d02ecadeb64299b24.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[凯蒂猫·悠闲假日_下午茶]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9cd3e82991f8a5771dd139b3c8c4fc56958a2238.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[凯蒂猫·悠闲假日_甜点]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bde4f0be953af19265cf9bae3b251f13b83d7a20.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[凯蒂猫·悠闲假日_抽奖]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3b441879f701193d3a2a9d690869433a1878233c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[凯蒂猫·悠闲假日_晾晒衣服]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0189c4ce985c7b539b510c8c239e5efd1c401a64.png",
 							"sale_type":"pay"
 						}
 					},
@@ -176,37 +122,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[凯蒂猫·悠闲假日_臭美]",
+						"name":"[凯蒂猫·悠闲假日_抽奖]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cf4706cbc7e70b019eeee0dc5aaf3b31563cb291.png",
+							"image":"https://i0.hdslb.com/bfs/garb/3b441879f701193d3a2a9d690869433a1878233c.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[凯蒂猫·悠闲假日_给你]",
+						"name":"[凯蒂猫·悠闲假日_挑选]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/eec128c8ef251eb9a83d41bad71386055436fb89.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[凯蒂猫·悠闲假日_查看]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f3f4d3acfe382a89959bb417df2ed56cffc6d304.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[凯蒂猫·悠闲假日_晚安]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9f4f973751a54b59047337012d6cb433db5d9006.png",
+							"image":"https://i0.hdslb.com/bfs/garb/fb8a2ad1980c9bae081b0b6d02ecadeb64299b24.png",
 							"sale_type":"pay"
 						}
 					},
@@ -221,10 +149,55 @@
 					},
 					{
 						"item_id":0,
-						"name":"[凯蒂猫·悠闲假日_送你]",
+						"name":"[凯蒂猫·悠闲假日_收获满满]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d1f0581b1a35adaa0c73da9d784df0b2b23d5ef5.png",
+							"image":"https://i0.hdslb.com/bfs/garb/f5e941cde55a461a0f0439ef2ebd5f739ee0f6d2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[凯蒂猫·悠闲假日_晚安]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9f4f973751a54b59047337012d6cb433db5d9006.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[凯蒂猫·悠闲假日_晾晒衣服]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0189c4ce985c7b539b510c8c239e5efd1c401a64.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[凯蒂猫·悠闲假日_查看]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f3f4d3acfe382a89959bb417df2ed56cffc6d304.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[凯蒂猫·悠闲假日_洗澡澡]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8b1f1448843d1201fe1348f2ec3c3b61a6e99b2c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[凯蒂猫·悠闲假日_甜点]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/bde4f0be953af19265cf9bae3b251f13b83d7a20.png",
 							"sale_type":"pay"
 						}
 					},
@@ -234,6 +207,33 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/014c315fc1f398cd3393ec075ea25004eb418545.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[凯蒂猫·悠闲假日_给你]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/eec128c8ef251eb9a83d41bad71386055436fb89.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[凯蒂猫·悠闲假日_臭美]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cf4706cbc7e70b019eeee0dc5aaf3b31563cb291.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[凯蒂猫·悠闲假日_送你]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d1f0581b1a35adaa0c73da9d784df0b2b23d5ef5.png",
 							"sale_type":"pay"
 						}
 					}

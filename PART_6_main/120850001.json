@@ -104,15 +104,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[人格贴纸-INFJ_什么玩意]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/52d5961976bc7defe3755946823a3911b7e0f84a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[人格贴纸-INFJ_power]",
 						"tab_id":0,
 						"properties":{
@@ -122,19 +113,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-INFJ_强调重点]",
+						"name":"[人格贴纸-INFJ_什么玩意]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/24d0829c91a2df41bf3f87c532b99010e8d99cdd.png",
+							"image":"https://i0.hdslb.com/bfs/garb/52d5961976bc7defe3755946823a3911b7e0f84a.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-INFJ_害羞羞]",
+						"name":"[人格贴纸-INFJ_你被开除了]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/090a0b093217af5f4c4e2c7ae2c4fe841abc15c3.png",
+							"image":"https://i0.hdslb.com/bfs/garb/3030f74033978402fb1e859fbb8ac65259aba331.png",
 							"sale_type":"pay"
 						}
 					},
@@ -149,10 +140,46 @@
 					},
 					{
 						"item_id":0,
+						"name":"[人格贴纸-INFJ_啵啵]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/bb52b0f59a889663731f8af653ba4c286fd8f6de.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[人格贴纸-INFJ_天堂蹦迪]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d4e72bb7a27ac4af0b4fe84ec30e707c377a221.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[人格贴纸-INFJ_妈妈生的]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/084117bb708ad53e03b6d6b44d98961d791028e4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[人格贴纸-INFJ_害羞羞]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/090a0b093217af5f4c4e2c7ae2c4fe841abc15c3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[人格贴纸-INFJ_强调重点]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/24d0829c91a2df41bf3f87c532b99010e8d99cdd.png",
 							"sale_type":"pay"
 						}
 					},
@@ -167,19 +194,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-INFJ_啵啵]",
+						"name":"[人格贴纸-INFJ_惊吓]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bb52b0f59a889663731f8af653ba4c286fd8f6de.png",
+							"image":"https://i0.hdslb.com/bfs/garb/7b6c6c3411cfaa4fb60fe827ae6a83ca77e5c967.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-INFJ_你被开除了]",
+						"name":"[人格贴纸-INFJ_渣渣]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3030f74033978402fb1e859fbb8ac65259aba331.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0ab60594b716eb7cba73f94df4628a230be452c0.png",
 							"sale_type":"pay"
 						}
 					},
@@ -203,37 +230,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[人格贴纸-INFJ_妈妈生的]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/084117bb708ad53e03b6d6b44d98961d791028e4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[人格贴纸-INFJ_惊吓]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7b6c6c3411cfaa4fb60fe827ae6a83ca77e5c967.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[人格贴纸-INFJ_这都几点了]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ac6b8ed31bab08804889aa6663e6dcecccd52264.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[人格贴纸-INFJ_渣渣]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0ab60594b716eb7cba73f94df4628a230be452c0.png",
 							"sale_type":"pay"
 						}
 					}

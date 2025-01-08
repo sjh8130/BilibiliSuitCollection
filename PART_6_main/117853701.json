@@ -104,15 +104,6 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[炫酷帕恰狗_听音乐]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/10289cab3eca2a1b49ce80c2c9934cef020ff5b6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[炫酷帕恰狗_偷看]",
 						"tab_id":0,
 						"properties":{
@@ -131,10 +122,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[炫酷帕恰狗_晚安]",
+						"name":"[炫酷帕恰狗_听音乐]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/410b69dcecf95e58d9a93bcc18729f9cb850e6a4.png",
+							"image":"https://i0.hdslb.com/bfs/garb/10289cab3eca2a1b49ce80c2c9934cef020ff5b6.png",
 							"sale_type":"pay"
 						}
 					},
@@ -158,19 +149,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[炫酷帕恰狗_街舞]",
+						"name":"[炫酷帕恰狗_排好队]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/330dfc8301b477c8383e80f67d6a1bf4f0f938c0.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a502d61d5c6c9123df61f3479a756b318b002f8b.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[炫酷帕恰狗_爬墙]",
+						"name":"[炫酷帕恰狗_晚安]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9beaec0b094a32ef8a55cb7712c5031afa25515d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/410b69dcecf95e58d9a93bcc18729f9cb850e6a4.png",
 							"sale_type":"pay"
 						}
 					},
@@ -185,19 +176,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[炫酷帕恰狗_排好队]",
+						"name":"[炫酷帕恰狗_爬墙]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a502d61d5c6c9123df61f3479a756b318b002f8b.png",
+							"image":"https://i0.hdslb.com/bfs/garb/9beaec0b094a32ef8a55cb7712c5031afa25515d.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[炫酷帕恰狗_送花]",
+						"name":"[炫酷帕恰狗_爱你]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a130feaeabc232f7d83d85132af3a59638aef5fc.png",
+							"image":"https://i0.hdslb.com/bfs/garb/39ef579eebe14a33bfc67a023f58ad9258d394bd.png",
 							"sale_type":"pay"
 						}
 					},
@@ -212,19 +203,28 @@
 					},
 					{
 						"item_id":0,
-						"name":"[炫酷帕恰狗_酷]",
+						"name":"[炫酷帕恰狗_街舞]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f3ab274b219470d4d689a87566f3a40f3c6a3fa4.png",
+							"image":"https://i0.hdslb.com/bfs/garb/330dfc8301b477c8383e80f67d6a1bf4f0f938c0.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[炫酷帕恰狗_爱你]",
+						"name":"[炫酷帕恰狗_送花]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/39ef579eebe14a33bfc67a023f58ad9258d394bd.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a130feaeabc232f7d83d85132af3a59638aef5fc.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[炫酷帕恰狗_酷]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f3ab274b219470d4d689a87566f3a40f3c6a3fa4.png",
 							"sale_type":"pay"
 						}
 					},

@@ -103,37 +103,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[三星堆陶猪_智慧]",
+						"name":"[三星堆陶猪_CPU烧了]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/692a0e6676ebcce7057ecbc0fd3713727ad9a13e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[三星堆陶猪_难办]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b62804ad4982c91fc87b5032bd7bd62c4fb3f881.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[三星堆陶猪_面部扭曲]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9708307cc575b4099aabdb34bf4c7d314f30a8c8.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[三星堆陶猪_细品]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/50326aafb81d8cf56c204e5c1beba1337df5d4f8.png",
+							"image":"https://i0.hdslb.com/bfs/garb/bee058032520c50ca09891b2c6e6ae3b9002f265.png",
 							"sale_type":"pay"
 						}
 					},
@@ -157,6 +130,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[三星堆陶猪_对不起]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9f513556f22fe42177b44e249c5e6adc4612e47f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[三星堆陶猪_就这]",
 						"tab_id":0,
 						"properties":{
@@ -175,10 +157,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[三星堆陶猪_顶！]",
+						"name":"[三星堆陶猪_智慧]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cdb2c4a2b1797fee6249b0d42a91328c1c172cd7.png",
+							"image":"https://i0.hdslb.com/bfs/garb/692a0e6676ebcce7057ecbc0fd3713727ad9a13e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[三星堆陶猪_细品]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/50326aafb81d8cf56c204e5c1beba1337df5d4f8.png",
 							"sale_type":"pay"
 						}
 					},
@@ -188,15 +179,6 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/62ad049fc678289347c69099f190d3dfee10774f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[三星堆陶猪_闪亮左]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/478ee0d23437ae6b94cb24f1afc00204cea45aac.png",
 							"sale_type":"pay"
 						}
 					},
@@ -220,19 +202,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[三星堆陶猪_对不起]",
+						"name":"[三星堆陶猪_闪亮左]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9f513556f22fe42177b44e249c5e6adc4612e47f.png",
+							"image":"https://i0.hdslb.com/bfs/garb/478ee0d23437ae6b94cb24f1afc00204cea45aac.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[三星堆陶猪_CPU烧了]",
+						"name":"[三星堆陶猪_难办]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bee058032520c50ca09891b2c6e6ae3b9002f265.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b62804ad4982c91fc87b5032bd7bd62c4fb3f881.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[三星堆陶猪_面部扭曲]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9708307cc575b4099aabdb34bf4c7d314f30a8c8.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[三星堆陶猪_顶！]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cdb2c4a2b1797fee6249b0d42a91328c1c172cd7.png",
 							"sale_type":"pay"
 						}
 					}

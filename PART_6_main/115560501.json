@@ -103,55 +103,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[夏日甜度满分_收到]",
+						"name":"[夏日甜度满分_CHU]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6d56091241b14852cb2cc294873d6d3744d59e9e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏日甜度满分_来杯美式]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/62ec396a6b7c0d9f970f8b0d64909b6e857b7f4b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏日甜度满分_来杯拿铁]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b5e6517bcc187937cb683a487d32fbf6ef5c4172.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏日甜度满分_奶茶续命]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/153c850b1d6b10c78e115e7d3380dc4d0c796ccd.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏日甜度满分_友谊干杯]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8f5ca64e9e24ebfe7ca11aa17dc1e45585014536.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏日甜度满分_摸鱼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c5c7d6767e5a29a3037b424aeb2b9a2dd770f13d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/4875f90ee6a78f1b888d579cba96df65eef519a6.png",
 							"sale_type":"pay"
 						}
 					},
@@ -166,19 +121,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[夏日甜度满分_加冰]",
+						"name":"[夏日甜度满分_全糖]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0a402bb41b70cfd4b329db5c33a31718c95a6866.png",
+							"image":"https://i0.hdslb.com/bfs/garb/6d4c6b93a32f03d2a3118f748b61f5070a0dda80.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[夏日甜度满分_全糖]",
+						"name":"[夏日甜度满分_加冰]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6d4c6b93a32f03d2a3118f748b61f5070a0dda80.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0a402bb41b70cfd4b329db5c33a31718c95a6866.png",
 							"sale_type":"pay"
 						}
 					},
@@ -202,6 +157,24 @@
 					},
 					{
 						"item_id":0,
+						"name":"[夏日甜度满分_友谊干杯]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8f5ca64e9e24ebfe7ca11aa17dc1e45585014536.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏日甜度满分_奶茶续命]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/153c850b1d6b10c78e115e7d3380dc4d0c796ccd.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[夏日甜度满分_我喝两杯]",
 						"tab_id":0,
 						"properties":{
@@ -211,10 +184,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[夏日甜度满分_CHU]",
+						"name":"[夏日甜度满分_摸鱼]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4875f90ee6a78f1b888d579cba96df65eef519a6.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c5c7d6767e5a29a3037b424aeb2b9a2dd770f13d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏日甜度满分_收到]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6d56091241b14852cb2cc294873d6d3744d59e9e.png",
 							"sale_type":"pay"
 						}
 					},
@@ -233,6 +215,24 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7dcf2d56065283f01cf73cf46704016edab701fd.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏日甜度满分_来杯拿铁]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b5e6517bcc187937cb683a487d32fbf6ef5c4172.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏日甜度满分_来杯美式]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/62ec396a6b7c0d9f970f8b0d64909b6e857b7f4b.png",
 							"sale_type":"pay"
 						}
 					}

@@ -104,55 +104,10 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[爱瑞丝_早安打工人]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d8f281a97d5ca46d97b2cb093c9d81aba3729ab8.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[爱瑞丝_来杯咖啡？]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ce2768dacc0fb9c8c1c5c52bac5569378b2fd8a2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[爱瑞丝_中午吃啥]",
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/be0dcf1e367f3cfea0383de87bb5fd24f1f337dd.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[爱瑞丝_恰饭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8e3033a789cc4a6a4a322660db23fc7bf6ac28d5.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[爱瑞丝_收钱]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ad5156f72869538ea02af8bf1c48f9882fe7c65b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[爱瑞丝_带我]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c0f345cc4e87a15e6577e901433a2a0aab90ad41.png",
 							"sale_type":"pay"
 						}
 					},
@@ -167,15 +122,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[爱瑞丝_达咩]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7c4c26c359bb0d28f2651d11d1784512ca2462f4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[爱瑞丝_大佬请客]",
 						"tab_id":0,
 						"properties":{
@@ -185,19 +131,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[爱瑞丝_有瓜吃]",
+						"name":"[爱瑞丝_带我]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d0f3a8f2d0780da3a4921cb245dd40079e8af885.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c0f345cc4e87a15e6577e901433a2a0aab90ad41.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[爱瑞丝_群收款啦]",
+						"name":"[爱瑞丝_恰饭]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/484fcb68a11e1b1e6f0117bce12a1a0d7a4d8989.png",
+							"image":"https://i0.hdslb.com/bfs/garb/8e3033a789cc4a6a4a322660db23fc7bf6ac28d5.png",
 							"sale_type":"pay"
 						}
 					},
@@ -212,6 +158,42 @@
 					},
 					{
 						"item_id":0,
+						"name":"[爱瑞丝_收钱]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ad5156f72869538ea02af8bf1c48f9882fe7c65b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[爱瑞丝_早安打工人]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d8f281a97d5ca46d97b2cb093c9d81aba3729ab8.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[爱瑞丝_有瓜吃]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d0f3a8f2d0780da3a4921cb245dd40079e8af885.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[爱瑞丝_来杯咖啡？]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ce2768dacc0fb9c8c1c5c52bac5569378b2fd8a2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[爱瑞丝_点好啦]",
 						"tab_id":0,
 						"properties":{
@@ -221,10 +203,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[爱瑞丝_饮茶先]",
+						"name":"[爱瑞丝_群收款啦]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e4406518d4a7139488fac6f5d4b88b42c5f84eb0.png",
+							"image":"https://i0.hdslb.com/bfs/garb/484fcb68a11e1b1e6f0117bce12a1a0d7a4d8989.png",
 							"sale_type":"pay"
 						}
 					},
@@ -234,6 +216,24 @@
 						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f71532b17c3638e3524e2ab7f12f05f326f529ee.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[爱瑞丝_达咩]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7c4c26c359bb0d28f2651d11d1784512ca2462f4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[爱瑞丝_饮茶先]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e4406518d4a7139488fac6f5d4b88b42c5f84eb0.png",
 							"sale_type":"pay"
 						}
 					}

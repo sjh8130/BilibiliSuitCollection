@@ -103,6 +103,15 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[布偶的报恩_什么事呀]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/aa5b01577bdc1c434b78d9bcad91f5c85a7ae162.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[布偶的报恩_制作中]",
 						"tab_id":0,
 						"properties":{
@@ -112,10 +121,19 @@
 					},
 					{
 						"item_id":0,
-						"name":"[布偶的报恩_摸摸]",
+						"name":"[布偶的报恩_布偶]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d442ee0c1932601b9976a3e2e85ab45f4f07850e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/fa1f9cc4e9499eaadbec20c0db81aa4e0f22b27d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布偶的报恩_忙碌中]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b3979b3a674c4897cc73e2a65bbf759a6c194b68.png",
 							"sale_type":"pay"
 						}
 					},
@@ -130,6 +148,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[布偶的报恩_摸摸]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d442ee0c1932601b9976a3e2e85ab45f4f07850e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[布偶的报恩_期待！]",
 						"tab_id":0,
 						"properties":{
@@ -139,10 +166,37 @@
 					},
 					{
 						"item_id":0,
-						"name":"[布偶的报恩_什么事呀]",
+						"name":"[布偶的报恩_汗流浃背]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/aa5b01577bdc1c434b78d9bcad91f5c85a7ae162.png",
+							"image":"https://i0.hdslb.com/bfs/garb/873e0b048376af818511d409aa00bf4cf557992c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布偶的报恩_洒扫]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/df4a5ef6141abc69b9d697964cdd82ac11a83937.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布偶的报恩_疑惑]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a685cae851993eb494156ce5f4b350ef10f56aa0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[布偶的报恩_肖像画]",
+						"tab_id":0,
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b2fcda36c67a65eb06db1ca183a9020d07b51337.png",
 							"sale_type":"pay"
 						}
 					},
@@ -166,42 +220,6 @@
 					},
 					{
 						"item_id":0,
-						"name":"[布偶的报恩_黑苹果]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f0ba0f75dc90efd9d8ca5e4b9f6dd82e1c521586.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布偶的报恩_汗流浃背]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/873e0b048376af818511d409aa00bf4cf557992c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布偶的报恩_布偶]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fa1f9cc4e9499eaadbec20c0db81aa4e0f22b27d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布偶的报恩_洒扫]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/df4a5ef6141abc69b9d697964cdd82ac11a83937.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[布偶的报恩_鸡毛掸子]",
 						"tab_id":0,
 						"properties":{
@@ -211,28 +229,10 @@
 					},
 					{
 						"item_id":0,
-						"name":"[布偶的报恩_疑惑]",
+						"name":"[布偶的报恩_黑苹果]",
 						"tab_id":0,
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a685cae851993eb494156ce5f4b350ef10f56aa0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布偶的报恩_忙碌中]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b3979b3a674c4897cc73e2a65bbf759a6c194b68.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[布偶的报恩_肖像画]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b2fcda36c67a65eb06db1ca183a9020d07b51337.png",
+							"image":"https://i0.hdslb.com/bfs/garb/f0ba0f75dc90efd9d8ca5e4b9f6dd82e1c521586.png",
 							"sale_type":"pay"
 						}
 					}
