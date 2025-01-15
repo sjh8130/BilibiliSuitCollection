@@ -17,14 +17,9 @@
 			"url":"http://i0.hdslb.com/bfs/garb/8256874055cc229fad52f5e032d7dc21ac4d0979.png",
 			"mtime":1666940278,
 			"type":12,
-			"attr":0,
 			"meta":{
 				"size":2,
 				"alias":"哭了"
-			},
-			"flags":{
-				"no_access":true,
-				"unlocked":false
 			}
 		},
 		{
@@ -34,14 +29,9 @@
 			"url":"http://i0.hdslb.com/bfs/garb/1f7d310528d335dcd36274adf03849e054ee839f.png",
 			"mtime":1666940278,
 			"type":12,
-			"attr":0,
 			"meta":{
 				"size":2,
 				"alias":"汉堡"
-			},
-			"flags":{
-				"no_access":true,
-				"unlocked":false
 			}
 		},
 		{
@@ -51,14 +41,9 @@
 			"url":"http://i0.hdslb.com/bfs/garb/56f58e65198f539d5168a69a7ca0e6bf6e06f98a.png",
 			"mtime":1666940278,
 			"type":12,
-			"attr":0,
 			"meta":{
 				"size":2,
 				"alias":"射箭"
-			},
-			"flags":{
-				"no_access":true,
-				"unlocked":false
 			}
 		},
 		{
@@ -68,14 +53,9 @@
 			"url":"http://i0.hdslb.com/bfs/garb/7219f8e4d0e17b7a92aa9908a6c58565c1cb81c8.png",
 			"mtime":1666940278,
 			"type":12,
-			"attr":0,
 			"meta":{
 				"size":2,
 				"alias":"沉默"
-			},
-			"flags":{
-				"no_access":true,
-				"unlocked":false
 			}
 		},
 		{
@@ -85,25 +65,16 @@
 			"url":"https://i0.hdslb.com/bfs/garb/53085f41bb47feb9e452e6865e580b5df4c5c18e.png",
 			"mtime":1666940278,
 			"type":12,
-			"attr":0,
 			"meta":{
 				"size":2,
 				"alias":"开心"
-			},
-			"flags":{
-				"no_access":true,
-				"unlocked":false
 			}
 		}
 	],
-	"flags":{
-		"no_access":true
-	},
 	"label":{
 		"font_color":"#FFB027",
 		"background_color":"#FFF6E4",
 		"text":"充电"
 	},
-	"ref_mid":1555090958,
-	"resource_type":0
+	"ref_mid":1555090958
 }
