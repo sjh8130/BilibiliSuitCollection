@@ -15,7 +15,7 @@ if __name__ == "__main__":
         files = sys.argv[1:]
         for file in files:
             _main(file)
-    except Exception as e:
+    except Exception:
         import time
 
         time.sleep(10)

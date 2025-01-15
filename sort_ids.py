@@ -15,26 +15,28 @@ def _sort_str_list(s: str) -> str:
     return ",".join(str(c) for c in b)
 
 
-def _sort_list_dict(l: list[dict], k1: str, k2: str) -> list[dict]:
-    items_with_k1 = [item for item in l if item[k1] not in [0, "0"]]
-    items_with_k2 = [item for item in l if item[k1] in [0, "0"]]
+def _sort_list_dict(ld: list[dict], k1: str, k2: str) -> list[dict]:
+    items_with_k1 = [item for item in ld if item[k1] not in [0, "0"]]
+    items_with_k2 = [item for item in ld if item[k1] in [0, "0"]]
     items_with_k1.sort(key=lambda x: x[k1])
     items_with_k2.sort(key=lambda x: x[k2])
     return items_with_k1 + items_with_k2
 
 
-def _sort_p6_emoji(l: list[dict]) -> list[dict]:
-    for i in range(len(l)):
-        if isinstance(l[i].get("properties"), dict):
-            if isinstance(l[i]["properties"].get("item_ids"), str):
-                l[i]["properties"]["item_ids"] = _sort_str_list(l[i]["properties"]["item_ids"])
-        l[i]["items"] = _sort_list_dict(l[i]["items"], "item_id", "name")
-    return l
+def _sort_p6_emoji(ld: list[dict]) -> list[dict]:
+    for i in range(len(ld)):
+        if isinstance(ld[i].get("properties"), dict):
+            if isinstance(ld[i]["properties"].get("item_ids"), str):
+                ld[i]["properties"]["item_ids"] = _sort_str_list(ld[i]["properties"]["item_ids"])
+        ld[i]["items"] = _sort_list_dict(ld[i]["items"], "item_id", "name")
+    return ld
 
 
 def _del_keys_anyway(d: dict, k: str, r=True):
     if k in d:
         d.pop(k)
+    if not r:
+        return
     for key in d:
         if isinstance(d[key], dict):
             _del_keys_anyway(d[key], k, r)
@@ -103,7 +105,7 @@ def _main(path: str):
     with open(path, "r", encoding="utf-8") as fp:
         item: dict = json.load(fp)
     s1 = len(item)
-    if item.get("suit_items") == None:
+    if item.get("suit_items") is None:
         return
     print(item["item_id"])
     match item["part_id"]:
@@ -164,10 +166,8 @@ def _main(path: str):
     _del_keys_if_eq_value(item, "activity_entrance", _EMPTY_ACTIVITY_ENTRANCE, False)
     _del_keys_if_eq_value(item, "fan_user", _EMPTY_FAN_USER, False)
     _del_keys_if_eq_value(item, "suit_items", {})
-
     _del_keys_anyway(item, "current_activity")
     _del_keys_anyway(item, "current_sources")
-    _del_keys_anyway(item, "finish_sources")
     _del_keys_anyway(item, "gray_rule_type")
     _del_keys_anyway(item, "gray_rule")
     _del_keys_anyway(item, "hot")
@@ -177,10 +177,10 @@ def _main(path: str):
     _del_keys_anyway(item, "sale_count_desc")
     _del_keys_anyway(item, "sale_left_time")
     _del_keys_anyway(item, "sale_surplus")
+    _del_keys_anyway(item, "sale_time_end", False)
     _del_keys_anyway(item, "state")
     _del_keys_anyway(item, "tag")
     _del_keys_anyway(item, "total_count_desc")
-
     _del_keys_if_eq_value(item, "activity_entrance", None, False)
     _del_keys_if_eq_value(item, "associate_words", "")
     _del_keys_if_eq_value(item, "items", None)
@@ -190,7 +190,6 @@ def _main(path: str):
     _del_keys_if_eq_value(item, "suit_item_id", 0)
     _del_keys_if_eq_value(item, "unlock_items", None)
     _del_keys_if_int_cmp(item, "sale_time_end", 0, OPR.LEQ)
-
     if s1 != len(item):
         print("WARN:", item["item_id"])
     with open(path, "w", encoding="utf-8") as fp:
