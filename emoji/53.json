@@ -2,7 +2,7 @@
 	"id":53,
 	"text":"热词系列一",
 	"url":"https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
-	"mtime":1736149596,
+	"mtime":1736753992,
 	"type":1,
 	"attr":2,
 	"meta":{
@@ -1136,6 +1136,106 @@
 					"活动截至2025-01-13 23:59"
 				],
 				"jump_btn_desc":"看纪录片领“并不简单”表情包"
+			}
+		},
+		{
+			"id":100627,
+			"package_id":53,
+			"text":"[热词系列_吃瓜]",
+			"url":"https://i0.hdslb.com/bfs/emote/599cdfb45b288d1c627d8128bc988be538fae943.png",
+			"mtime":1736347875,
+			"type":8,
+			"meta":{
+				"size":2,
+				"label_text":"限时",
+				"label_color":"#FF20AAe2",
+				"alias":"吃瓜"
+			},
+			"activity":{
+				"title":"bilibili吃瓜大会",
+				"start_time":1736352000,
+				"end_time":1740672000,
+				"jump_url":"https://www.bilibili.com/blackboard/era/hM4jHpXtGfRH8VeL.html?msource=bq",
+				"unlock_descs":[
+					"分享【吃瓜战报】限时解锁“吃瓜”表情包",
+					"活动截至2025-02-28 00:00"
+				],
+				"jump_btn_desc":"分享吃瓜战报领表情包"
+			}
+		},
+		{
+			"id":100819,
+			"package_id":53,
+			"text":"[热词系列_好起来了]",
+			"url":"https://i0.hdslb.com/bfs/emote/9b9d4e65e81fd9d7869bd166a5dab0b86584dac0.png",
+			"mtime":1736753730,
+			"type":8,
+			"meta":{
+				"size":2,
+				"label_text":"限时",
+				"label_color":"#FF20AAe2",
+				"alias":"好起来了"
+			},
+			"activity":{
+				"title":"感谢你，大好人！",
+				"start_time":1736697600,
+				"end_time":1738339200,
+				"jump_url":"https://www.bilibili.com/blackboard/era/g4rqKhFngcYbPSHG.html",
+				"unlock_descs":[
+					"为公益项目捐款或发布动态",
+					"活动截至2025-02-01 00:00"
+				],
+				"jump_btn_desc":"前往活动解锁"
+			}
+		},
+		{
+			"id":100820,
+			"package_id":53,
+			"text":"[热词系列_好人好抱]",
+			"url":"https://i0.hdslb.com/bfs/emote/5131c2fddf5d4857b26b0a1e98e6d626f64f7d25.png",
+			"mtime":1736753730,
+			"type":8,
+			"meta":{
+				"size":2,
+				"label_text":"限时",
+				"label_color":"#FF20AAe2",
+				"alias":"好人好抱"
+			},
+			"activity":{
+				"title":"感谢你，大好人！",
+				"start_time":1736697600,
+				"end_time":1738339200,
+				"jump_url":"https://www.bilibili.com/blackboard/era/g4rqKhFngcYbPSHG.html",
+				"unlock_descs":[
+					"为公益项目捐款或发布动态",
+					"活动截至2025-02-01 00:00"
+				],
+				"jump_btn_desc":"前往活动解锁"
+			}
+		},
+		{
+			"id":100821,
+			"package_id":53,
+			"text":"[热词系列_接好运]",
+			"url":"https://i0.hdslb.com/bfs/emote/8dde1762a7647992ec1e055f86c8bf91f5bdc05b.png",
+			"mtime":1736753730,
+			"type":8,
+			"meta":{
+				"size":2,
+				"label_text":"限时",
+				"label_color":"#FF20AAe2",
+				"alias":"接好运"
+			},
+			"activity":{
+				"title":"感谢你，大好人！",
+				"start_time":1736697600,
+				"end_time":1738339200,
+				"jump_url":"https://www.bilibili.com/blackboard/era/g4rqKhFngcYbPSHG.html",
+				"unlock_descs":[
+					"为公益项目捐款或发布动态",
+					"活动截至2025-02-01 00:00"
+				],
+				"jump_btn_desc":"前往活动解锁"
 			}
 		}
 	],

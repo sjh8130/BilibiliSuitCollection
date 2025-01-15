@@ -9,7 +9,7 @@
 		"biz":"reply,dynamic,comic_reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
 		"is_symbol":"false",
-		"item_ids":"1023,1024,1025,1026,1027,1028,1029,1030,1031,1032,1033,1034,1035,1036,1037,1038,1436,1437,1438,1439,1440,1441,1442,1464,1465,1565,1591,1592,1593,1594,1599,1617,1627,1628,1629,1630,1694,1723,1760,1761,1873,1874,1875,1967,2013,2157,2370,2484,2507,2732,2819,3004,4009,4012,4013,4014,4015,4016,4154,4203,4410,4868,4924,5446,5447,5865,5866,6158,6330,6331,6332,6333,6521,32223,32224,32523,32834,32835,32837,33203,33402,33403,33404,33405,33406,33701,33702,33703,33880,33881,33999,34004,34142,34143,34144,34145,34146,34147,34148,34149,34150,35174,35824,35972,36170,36291,38002,38050,44631,45929,48139,48180,48181,53078,53079,56174,56702,58830,61090,61700,61701,63785,65231,66691,66692,66693,66858,66859,68169,68170,68171,68703,69677,70563,70794,70795,70796,70797,70883,70884,71168,71778,72215",
+		"item_ids":"1023,1024,1025,1026,1027,1028,1029,1030,1031,1032,1033,1034,1035,1036,1037,1038,1436,1437,1438,1439,1440,1441,1442,1464,1465,1565,1591,1592,1593,1594,1599,1617,1627,1628,1629,1630,1694,1723,1760,1761,1873,1874,1875,1967,2013,2157,2370,2484,2507,2732,2819,3004,4009,4012,4013,4014,4015,4016,4154,4203,4410,4868,4924,5446,5447,5865,5866,6158,6330,6331,6332,6333,6521,32223,32224,32523,32834,32835,32837,33203,33402,33403,33404,33405,33406,33701,33702,33703,33880,33881,33999,34004,34142,34143,34144,34145,34146,34147,34148,34149,34150,35174,35824,35972,36170,36291,38002,38050,44631,45929,48139,48180,48181,53078,53079,56174,56702,58830,61090,61700,61701,63785,65231,66691,66692,66693,66858,66859,68169,68170,68171,68703,69677,70563,70794,70795,70796,70797,70883,70884,71168,71778,72215,72226,72227,72228",
 		"permanent":"true",
 		"preview":"false",
 		"realname_auth":"false",
@@ -421,7 +421,6 @@
 				"tab_id":7,
 				"properties":{
 					"associate":"true",
-					"associate_words":"",
 					"image":"https://i0.hdslb.com/bfs/emote/5cc6c3357c4df544dd8de9d5c5c0cec97c7c9a56.png",
 					"image_gif":"",
 					"is_symbol":"false",
@@ -514,7 +513,6 @@
 				"tab_id":7,
 				"properties":{
 					"associate":"true",
-					"associate_words":"",
 					"image":"https://i0.hdslb.com/bfs/emote/d77e2de26da143249f0c0ad7a608c27152c985bf.png",
 					"image_gif":"",
 					"is_symbol":"false",
@@ -572,7 +570,6 @@
 				"tab_id":7,
 				"properties":{
 					"associate":"true",
-					"associate_words":"",
 					"image":"https://i0.hdslb.com/bfs/emote/bd285ff94db16ad52557c3effe930d64663e8375.png",
 					"image_gif":"",
 					"is_symbol":"false",
@@ -585,7 +582,6 @@
 				"tab_id":7,
 				"properties":{
 					"associate":"true",
-					"associate_words":"",
 					"image":"https://i0.hdslb.com/bfs/emote/f2f81c8e47db6252becd633a5d1ee14e15df2ea8.png",
 					"image_gif":"",
 					"is_symbol":"false",
@@ -1649,6 +1645,30 @@
 				}
 			},
 			{
+				"item_id":70883,
+				"name":"[热词系列_因为TA善]",
+				"tab_id":7,
+				"properties":{
+					"associate":"false",
+					"image":"https://i0.hdslb.com/bfs/emote/883eedb469e2dda8bbe8f1e298b5830c3fc9cf9a.png",
+					"is_symbol":"false",
+					"sale_promo":"activity_unlock",
+					"sale_type":"free"
+				}
+			},
+			{
+				"item_id":70884,
+				"name":"[热词系列_又幸福了]",
+				"tab_id":7,
+				"properties":{
+					"associate":"false",
+					"image":"https://i0.hdslb.com/bfs/emote/0e8ff0a7d28ccb2134b3f4cf352489bb13f07f91.png",
+					"is_symbol":"false",
+					"sale_promo":"activity_unlock",
+					"sale_type":"free"
+				}
+			},
+			{
 				"item_id":70884,
 				"name":"[热词系列_又幸福了]",
 				"tab_id":7,
@@ -1691,6 +1711,54 @@
 				"properties":{
 					"associate":"false",
 					"image":"https://i0.hdslb.com/bfs/emote/599cdfb45b288d1c627d8128bc988be538fae943.png",
+					"is_symbol":"false",
+					"sale_promo":"activity_unlock",
+					"sale_type":"free"
+				}
+			},
+			{
+				"item_id":72215,
+				"name":"[热词系列_吃瓜]",
+				"tab_id":7,
+				"properties":{
+					"associate":"false",
+					"image":"https://i0.hdslb.com/bfs/emote/599cdfb45b288d1c627d8128bc988be538fae943.png",
+					"is_symbol":"false",
+					"sale_promo":"activity_unlock",
+					"sale_type":"free"
+				}
+			},
+			{
+				"item_id":72226,
+				"name":"[热词系列_好起来了]",
+				"tab_id":7,
+				"properties":{
+					"associate":"false",
+					"image":"https://i0.hdslb.com/bfs/emote/9b9d4e65e81fd9d7869bd166a5dab0b86584dac0.png",
+					"is_symbol":"false",
+					"sale_promo":"activity_unlock",
+					"sale_type":"free"
+				}
+			},
+			{
+				"item_id":72227,
+				"name":"[热词系列_好人好抱]",
+				"tab_id":7,
+				"properties":{
+					"associate":"false",
+					"image":"https://i0.hdslb.com/bfs/emote/5131c2fddf5d4857b26b0a1e98e6d626f64f7d25.png",
+					"is_symbol":"false",
+					"sale_promo":"activity_unlock",
+					"sale_type":"free"
+				}
+			},
+			{
+				"item_id":72228,
+				"name":"[热词系列_接好运]",
+				"tab_id":7,
+				"properties":{
+					"associate":"false",
+					"image":"https://i0.hdslb.com/bfs/emote/8dde1762a7647992ec1e055f86c8bf91f5bdc05b.png",
 					"is_symbol":"false",
 					"sale_promo":"activity_unlock",
 					"sale_type":"free"

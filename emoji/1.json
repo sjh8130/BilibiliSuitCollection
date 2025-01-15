@@ -2,7 +2,7 @@
 	"id":1,
 	"text":"小黄脸",
 	"url":"https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
-	"mtime":1736249448,
+	"mtime":1736605355,
 	"type":1,
 	"attr":322,
 	"meta":{
@@ -2239,6 +2239,18 @@
 			"meta":{
 				"size":1,
 				"alias":"嘿"
+			}
+		},
+		{
+			"id":100781,
+			"package_id":1,
+			"text":"[坂本_佛系]",
+			"url":"https://i0.hdslb.com/bfs/emote/89c70d9044637a66fceaf99d89b257984117ce36.png",
+			"mtime":1736605303,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"佛系"
 			}
 		}
 	],
