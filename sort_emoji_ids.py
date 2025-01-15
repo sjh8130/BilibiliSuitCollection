@@ -42,9 +42,14 @@ def _main(path):
     print(item["id"])
     _del_keys_if_eq_value(item, "suggest", [""])
     _del_keys_if_eq_value(item, "flags", {})
+    _del_keys_if_eq_value(item, "flags", {"no_access": True, "unlocked": False})
+    _del_keys_if_eq_value(item, "flags", {"no_access": True})
     _del_keys_if_eq_value(item, "activity", None)
     _del_keys_if_eq_value(item, "label", None)
+    _del_keys_if_eq_value(item, "attr", 0)
     _del_keys_if_eq_value(item, "package_sub_title", "")
+    _del_keys_if_eq_value(item, "ref_mid", 0)
+    _del_keys_if_eq_value(item, "resource_type", 0)
     if "emote" in item:
         item["emote"] = sort_list_dict(item["emote"])
     with open(path, "w", encoding="utf-8") as fp:
