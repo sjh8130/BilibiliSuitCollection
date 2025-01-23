@@ -1,6 +1,6 @@
-from enum import StrEnum
 import json
-import sys
+import os
+from enum import StrEnum
 
 _EMPTY_FAN_USER = {"mid": 0, "nickname": "", "avatar": ""}
 _EMPTY_ACTIVITY_ENTRANCE = {"id": 0, "item_id": 0, "title": "", "image_cover": "", "jump_link": ""}
@@ -67,6 +67,7 @@ class OPR(StrEnum):
     LT = "<"
     GEQ = ">="
     LEQ = "<="
+    ANY = "ANY"
 
 
 def _del_keys_if_int_cmp(d: dict, k: str, v: int, opr: OPR, r=True):
@@ -90,6 +91,8 @@ def _del_keys_if_int_cmp(d: dict, k: str, v: int, opr: OPR, r=True):
             case OPR.NEQ:
                 if d.get(k) != v:
                     d.pop(k)
+            case OPR.ANY:
+                d.pop(k)
     if not r:
         return
     for key in d:
@@ -101,22 +104,16 @@ def _del_keys_if_int_cmp(d: dict, k: str, v: int, opr: OPR, r=True):
                     _del_keys_if_int_cmp(item, k, v, opr)
 
 
-def _main(path: str):
-    with open(path, "r", encoding="utf-8") as fp:
-        item: dict = json.load(fp)
-    s1 = len(item)
-    if item.get("suit_items") is None:
-        return
-    print(item["item_id"])
+def _p_main(item):
     match item["part_id"]:
         case 1:
-            ...
+            pass
         case 2:
-            ...
+            pass
         case 3:
-            ...
+            pass
         case 4:
-            ...
+            pass
         case 5:
             if isinstance(item.get("properties"), dict):
                 if isinstance(item["properties"].get("item_ids"), str):
@@ -148,21 +145,21 @@ def _main(path: str):
                 if isinstance(item["suit_items"].get("emoji_package"), list):
                     item["suit_items"]["emoji_package"] = _sort_p6_emoji(item["suit_items"]["emoji_package"])
         case 7:
-            ...
+            pass
         case 8:
-            ...
+            pass
         case 9:
-            ...
+            pass
         case 10:
-            ...
+            pass
         case 11:
-            ...
+            pass
         case 12:
-            ...
+            pass
         case 13:
-            ...
+            pass
         case _:
-            ...
+            pass
     _del_keys_if_eq_value(item, "activity_entrance", _EMPTY_ACTIVITY_ENTRANCE, False)
     _del_keys_if_eq_value(item, "fan_user", _EMPTY_FAN_USER, False)
     _del_keys_if_eq_value(item, "suit_items", {})
@@ -183,6 +180,7 @@ def _main(path: str):
     _del_keys_anyway(item, "total_count_desc")
     _del_keys_if_eq_value(item, "activity_entrance", None, False)
     _del_keys_if_eq_value(item, "associate_words", "")
+    _del_keys_if_eq_value(item, "finish_sources", None)
     _del_keys_if_eq_value(item, "items", None)
     _del_keys_if_eq_value(item, "jump_link", "")
     _del_keys_if_eq_value(item, "ref_mid", "0")
@@ -190,19 +188,58 @@ def _main(path: str):
     _del_keys_if_eq_value(item, "suit_item_id", 0)
     _del_keys_if_eq_value(item, "unlock_items", None)
     _del_keys_if_int_cmp(item, "sale_time_end", 0, OPR.LEQ)
-    if s1 != len(item):
-        print("WARN:", item["item_id"])
-    with open(path, "w", encoding="utf-8") as fp:
-        json.dump(item, fp, ensure_ascii=False, separators=(",", ":"), indent="\t")
+
+
+def walk_dir(path):
+    walk_result = os.walk(os.path.join(base_path, path))
+    ret_list = []
+    for r in walk_result:
+        for p in r[2]:
+            ret_list.append(os.path.join(base_path, path, p))
+    return ret_list
+
+
+def _main(path: str):
+    if path.endswith(".jsonl"):
+        with open(path, "r", encoding="utf-8") as fp:
+            a = ""
+            for line in fp.readlines():
+                item: dict = json.loads(line)
+                _p_main(item)
+                a += json.dumps(item, ensure_ascii=False, separators=(",", ":")) + "\n"
+        with open(path, "w", encoding="utf-8") as fp:
+            fp.write(a)
+        del a
+    else:
+        with open(path, "r", encoding="utf-8") as fp:
+            item: dict = json.load(fp)
+        _p_main(item)
+        with open(path, "w", encoding="utf-8") as fp:
+            json.dump(item, fp, ensure_ascii=False, separators=(",", ":"), indent="\t")
 
 
 if __name__ == "__main__":
+    base_path = os.path.abspath(".")
+    t_list: list[str] = (
+        walk_dir("PART_5_表情包")
+        + walk_dir("PART_6_main")
+        + [
+            "PART_10_加载动画.jsonl",
+            "PART_11_进度条装扮.jsonl",
+            "PART_12_test.jsonl",
+            "PART_13_NFT.jsonl",
+            "PART_1_头像框.jsonl",
+            "PART_2_动态卡片.jsonl",
+            "PART_3_点赞效果.jsonl",
+            "PART_4_表情.jsonl",
+            "PART_7_空间背景.jsonl",
+            "PART_8_勋章.jsonl",
+            "PART_9_皮肤.jsonl",
+        ]
+    )
+
     try:
-        files = sys.argv[1:]
-        for file in files:
+        for file in t_list:
             _main(file)
     finally:
         pass
-    import time
-
-    time.sleep(10)

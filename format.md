@@ -22,7 +22,7 @@ total_count_desc			|str			|	|
 tag							|str			|	|
 jump_link					|str			|	|
 sales_mode					|num			|	|
-suit_items					|obj			| card card_bg emoji_package loading pendant play_icon skin space_bg thumbup	|
+suit_items					|obj			| card card_bg<br>emoji_package<br>loading<br>pendant<br>play_icon<br>skin<br>space_bg<br>thumbup	|
 fan_user					|obj			|	|
 unlock_items				|null			|	|
 activity_entrance			|obj			|	|
@@ -55,7 +55,7 @@ item_id_pendant				|str	|	|
 item_id_thumbup				|str	|	|
 item_stock_surplus			|str	|库存	|
 open_platform_vip_discount	|str	|	|
-owner_uid					|str	|版权方？/制作方？	|
+owner_uid					|str	|版权方？<br>制作方？	|
 pub_btn_plus_color			|str	|	|
 pub_btn_shade_color_bottom	|str	|	|
 pub_btn_shade_color_top		|str	|	|
@@ -68,7 +68,7 @@ sale_bp_pm_raw				|str	|	|
 sale_buy_num_limit			|str	|限购	|
 sale_quantity_limit			|str	|总量	|
 sale_quantity				|str	|	|
-sale_region_ip_limit		|str	|区域限制	|"全球" "大陆地区"
+sale_region_ip_limit		|str	|区域限制	|"全球"<br>"大陆地区" |
 sale_reserve_switch			|str	|	|
 sale_sku_id_1				|str	|	|
 sale_sku_id_2				|str	|	|
@@ -77,7 +77,7 @@ sale_time_end				|str	|	|
 sale_type					|str	|	|
 suit_card_type				|str	|	|
 timing_online_unix			|str	|	|
-type						|str	|	|ip up
+type						|str	|	|ip<br>up |
 
 ## finish_sources
 | key | type | desc | value |
@@ -93,10 +93,10 @@ source_type					|num	|	|
 ## current_activity next_activity
 | key | type | desc | value |
 |:--|:--|:--|:--|
-type						|num	|	|open_platform_vip_discount / vip_discount
+type						|num	|	|open_platform_vip_discount<br>vip_discount
 time_limit					|bool	|	|
 time_left					|str	|剩余时间(秒)	|
-tag							|num	|	|新品 / 即将售罄 / 正在预约 / 即将下架 / 大会员平台折扣 / 粉丝套装已售罄
+tag							|num	|	|新品<br>即将售罄<br>正在预约<br>即将下架<br>大会员平台折扣<br>粉丝套装已售罄 |
 price_bp_month				|num	|基础套装 折扣价	|
 price_bp_forever			|num	|折扣价	|
 type_month					|num	|	|
@@ -139,7 +139,7 @@ jump_link					|num		|	|
 |:--|:--|:--|:--|
 item_id						|num		|物品id	|
 name						|str		|装扮名称	|
-state						|str		|状态	|"active"	"inactive"
+state						|str		|状态	|"active"<br>"inactive"
 tab_id						|str		|	|
 suit_item_id				|num		|	|
 properties					|obj		|	|
