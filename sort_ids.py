@@ -1,6 +1,6 @@
 import json
 import os
-from enum import StrEnum
+from enum import StrEnum, auto
 
 _EMPTY_FAN_USER = {"mid": 0, "nickname": "", "avatar": ""}
 _EMPTY_ACTIVITY_ENTRANCE = {"id": 0, "item_id": 0, "title": "", "image_cover": "", "jump_link": ""}
@@ -32,50 +32,32 @@ def _sort_p6_emoji(ld: list[dict]) -> list[dict]:
     return ld
 
 
-def _del_keys_anyway(d: dict, k: str, r=True):
-    if k in d:
-        d.pop(k)
-    if not r:
-        return
-    for key in d:
-        if isinstance(d[key], dict):
-            _del_keys_anyway(d[key], k, r)
-        elif isinstance(d[key], list):
-            for item in d[key]:
-                if isinstance(item, dict):
-                    _del_keys_anyway(item, k, r)
-
-
-def _del_keys_if_eq_value(d: dict, k: str, v, r=True):
-    if k in d and d.get(k) == v:
-        d.pop(k)
-    if not r:
-        return
-    for key in d:
-        if isinstance(d[key], dict):
-            _del_keys_if_eq_value(d[key], k, v)
-        if isinstance(d[key], list):
-            for item in d[key]:
-                if isinstance(item, dict):
-                    _del_keys_if_eq_value(item, k, v)
-
-
 class OPR(StrEnum):
-    EQ = "=="
-    NEQ = "!="
-    GT = ">"
-    LT = "<"
-    GEQ = ">="
-    LEQ = "<="
-    ANY = "ANY"
+    EQ = auto()
+    NEQ = auto()
+    GT = auto()
+    LT = auto()
+    GEQ = auto()
+    LEQ = auto()
+    ANY = auto()
+    IN = auto()
+    INEQ = auto()
+    NIN = auto()
+    IS = auto()
+    NIS = auto()
 
 
-def _del_keys_if_int_cmp(d: dict, k: str, v: int, opr: OPR, r=True):
-    if k in d and isinstance(d[k], int):
-        match opr:
+def _del_keys(d: dict, k: str, v=None, operator: OPR = OPR.EQ, recursive=True):
+    if k in d and isinstance(d, dict):
+        match operator:
             case OPR.EQ:
                 if d.get(k) == v:
                     d.pop(k)
+            case OPR.IN | OPR.INEQ:
+                if d.get(k) in v:  # type:ignore[reportOperatorIssue]
+                    d.pop(k)
+            case OPR.ANY:
+                d.pop(k)
             case OPR.GT:
                 if d.get(k) > v:  # type: ignore[reportOptionalOperand]
                     d.pop(k)
@@ -91,17 +73,26 @@ def _del_keys_if_int_cmp(d: dict, k: str, v: int, opr: OPR, r=True):
             case OPR.NEQ:
                 if d.get(k) != v:
                     d.pop(k)
-            case OPR.ANY:
-                d.pop(k)
-    if not r:
+            case OPR.NIN:
+                if d.get(k) not in v:  # type:ignore[reportOperatorIssue]
+                    d.pop(k)
+            case OPR.IS:
+                if d.get(k) is v:
+                    d.pop(k)
+            case OPR.NIS:
+                if d.get(k) is not v:
+                    d.pop(k)
+            case _:
+                raise "*ToDo"
+    if not recursive:
         return
     for key in d:
         if isinstance(d[key], dict):
-            _del_keys_if_int_cmp(d[key], k, v, opr)
+            _del_keys(d[key], k, v, operator, recursive)
         if isinstance(d[key], list):
             for item in d[key]:
                 if isinstance(item, dict):
-                    _del_keys_if_int_cmp(item, k, v, opr)
+                    _del_keys(item, k, v, operator, recursive)
 
 
 def _p_main(item):
@@ -160,34 +151,34 @@ def _p_main(item):
             pass
         case _:
             pass
-    _del_keys_if_eq_value(item, "activity_entrance", _EMPTY_ACTIVITY_ENTRANCE, False)
-    _del_keys_if_eq_value(item, "fan_user", _EMPTY_FAN_USER, False)
-    _del_keys_if_eq_value(item, "suit_items", {})
-    _del_keys_anyway(item, "current_activity")
-    _del_keys_anyway(item, "current_sources")
-    _del_keys_anyway(item, "gray_rule_type")
-    _del_keys_anyway(item, "gray_rule")
-    _del_keys_anyway(item, "hot")
-    _del_keys_anyway(item, "item_stock_surplus")
-    _del_keys_anyway(item, "next_activity")
-    _del_keys_anyway(item, "open_platform_vip_discount")
-    _del_keys_anyway(item, "sale_count_desc")
-    _del_keys_anyway(item, "sale_left_time")
-    _del_keys_anyway(item, "sale_surplus")
-    _del_keys_anyway(item, "sale_time_end", False)
-    _del_keys_anyway(item, "state")
-    _del_keys_anyway(item, "tag")
-    _del_keys_anyway(item, "total_count_desc")
-    _del_keys_if_eq_value(item, "activity_entrance", None, False)
-    _del_keys_if_eq_value(item, "associate_words", "")
-    _del_keys_if_eq_value(item, "finish_sources", None)
-    _del_keys_if_eq_value(item, "items", None)
-    _del_keys_if_eq_value(item, "jump_link", "")
-    _del_keys_if_eq_value(item, "ref_mid", "0")
-    _del_keys_if_eq_value(item, "sales_mode", 0)
-    _del_keys_if_eq_value(item, "suit_item_id", 0)
-    _del_keys_if_eq_value(item, "unlock_items", None)
-    _del_keys_if_int_cmp(item, "sale_time_end", 0, OPR.LEQ)
+    _del_keys(item, "activity_entrance", _EMPTY_ACTIVITY_ENTRANCE, recursive=False)
+    _del_keys(item, "activity_entrance", None, recursive=False)
+    _del_keys(item, "associate_words", "")
+    _del_keys(item, "current_activity", operator=OPR.ANY)
+    _del_keys(item, "current_sources", operator=OPR.ANY)
+    _del_keys(item, "fan_user", _EMPTY_FAN_USER, recursive=False)
+    _del_keys(item, "finish_sources", None)
+    _del_keys(item, "gray_rule_type", operator=OPR.ANY)
+    _del_keys(item, "gray_rule", operator=OPR.ANY)
+    _del_keys(item, "hot", operator=OPR.ANY)
+    _del_keys(item, "item_stock_surplus", operator=OPR.ANY)
+    _del_keys(item, "items", None)
+    _del_keys(item, "jump_link", "")
+    _del_keys(item, "next_activity", operator=OPR.ANY)
+    _del_keys(item, "open_platform_vip_discount", operator=OPR.ANY)
+    _del_keys(item, "ref_mid", "0")
+    _del_keys(item, "sale_count_desc", operator=OPR.ANY)
+    _del_keys(item, "sale_left_time", operator=OPR.ANY)
+    _del_keys(item, "sale_surplus", operator=OPR.ANY)
+    _del_keys(item, "sale_time_end", 0, OPR.LEQ)
+    _del_keys(item, "sale_time_end", recursive=False, operator=OPR.ANY)
+    _del_keys(item, "sales_mode", 0)
+    _del_keys(item, "state", operator=OPR.ANY)
+    _del_keys(item, "suit_item_id", 0)
+    _del_keys(item, "suit_items", {})
+    _del_keys(item, "tag", operator=OPR.ANY)
+    _del_keys(item, "total_count_desc", operator=OPR.ANY)
+    _del_keys(item, "unlock_items", None)
 
 
 def walk_dir(path):
@@ -202,20 +193,33 @@ def walk_dir(path):
 def _main(path: str):
     if path.endswith(".jsonl"):
         with open(path, "r", encoding="utf-8") as fp:
-            a = ""
-            for line in fp.readlines():
+            src = fp.read()
+            target = ""
+            for line in src.splitlines():
                 item: dict = json.loads(line)
                 _p_main(item)
-                a += json.dumps(item, ensure_ascii=False, separators=(",", ":")) + "\n"
+                target += json.dumps(item, ensure_ascii=False, separators=(",", ":")) + "\n"
+        if src == target:
+            return
+            print(f"EQ:{path}")
+        else:
+            print(f"NEQ:{path}")
         with open(path, "w", encoding="utf-8") as fp:
-            fp.write(a)
-        del a
+            fp.write(target)
+        del target
     else:
         with open(path, "r", encoding="utf-8") as fp:
-            item: dict = json.load(fp)
+            src = fp.read()
+            item: dict = json.loads(src)
         _p_main(item)
+        target = json.dumps(item, ensure_ascii=False, separators=(",", ":"), indent="\t")
+        if src == target:
+            return
+            print(f"EQ:{path}")
+        else:
+            print(f"NEQ:{path}")
         with open(path, "w", encoding="utf-8") as fp:
-            json.dump(item, fp, ensure_ascii=False, separators=(",", ":"), indent="\t")
+            fp.write(target)
 
 
 if __name__ == "__main__":
