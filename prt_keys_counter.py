@@ -4,9 +4,9 @@ import time
 from types import NoneType
 
 result: dict = {}
-DONT_CARE_INDEX_SEP: str = "IDX"
-DONT_CARE_INDEX_LIST = set(
-    [
+if 1:
+    DONT_CARE_INDEX_SEP: str = "IDX"
+    DONT_CARE_INDEX_LIST = {
         "root.finish_sources",
         "root.suit_items.card_bg",
         "root.suit_items.card",
@@ -20,10 +20,8 @@ DONT_CARE_INDEX_LIST = set(
         "root.suit_items.skin",
         "root.suit_items.space_bg",
         "root.suit_items.thumbup",
-    ]
-)
-IGNORE_LIST = set(
-    [
+    }
+    IGNORE_LIST = {
         "root.fan_user.avatar",
         "root.fan_user.mid",
         "root.fan_user.nickname",
@@ -172,10 +170,8 @@ IGNORE_LIST = set(
         "root.suit_items.thumbup[IDX].properties.image_ani",
         "root.suit_items.thumbup[IDX].properties.image_preview",
         "root.suit_items.thumbup[IDX].suit_item_id",
-    ]
-)
-S1 = set(
-    [
+    }
+    S1 = {
         "root.suit_items.space_bg[IDX].properties.image1_landscape",
         "root.suit_items.space_bg[IDX].properties.image2_landscape",
         "root.suit_items.space_bg[IDX].properties.image3_landscape",
@@ -187,10 +183,8 @@ S1 = set(
         "root.suit_items.space_bg[IDX].properties.image9_landscape",
         "root.suit_items.space_bg[IDX].properties.image10_landscape",
         "root.suit_items.space_bg[IDX].properties.image11_landscape",
-    ]
-)
-S2 = set(
-    [
+    }
+    S2 = {
         "root.suit_items.space_bg[IDX].properties.image1_portrait",
         "root.suit_items.space_bg[IDX].properties.image2_portrait",
         "root.suit_items.space_bg[IDX].properties.image3_portrait",
@@ -202,10 +196,8 @@ S2 = set(
         "root.suit_items.space_bg[IDX].properties.image9_portrait",
         "root.suit_items.space_bg[IDX].properties.image10_portrait",
         "root.suit_items.space_bg[IDX].properties.image11_portrait",
-    ]
-)
-S3 = set(
-    [
+    }
+    S3 = {
         "root.properties.image1_landscape",
         "root.properties.image2_landscape",
         "root.properties.image3_landscape",
@@ -217,10 +209,8 @@ S3 = set(
         "root.properties.image9_landscape",
         "root.properties.image10_landscape",
         "root.properties.image11_landscape",
-    ]
-)
-S4 = set(
-    [
+    }
+    S4 = {
         "root.properties.image1_portrait",
         "root.properties.image2_portrait",
         "root.properties.image3_portrait",
@@ -232,18 +222,17 @@ S4 = set(
         "root.properties.image9_portrait",
         "root.properties.image10_portrait",
         "root.properties.image11_portrait",
-    ]
-)
+    }
 
 
 def sort_final(item):
     if isinstance(item, dict):
         for key in item.keys():
             sort_final(item[key])
-    elif isinstance(item, list):
+    elif isinstance(item, list) and bool(item):
         item.sort()
         for itm in item:
-            if isinstance(itm, list):
+            if isinstance(itm, dict):
                 sort_final(itm)
 
 
@@ -260,7 +249,7 @@ def analyze_structure(depth: int, item: int | str | list | dict | bool | None, t
         result[target_key] = {"type": {}}
     _typ = type(item).__name__
     if target_key in ("root.suit_items.emoji_package[IDX].properties.item_emoji_list", "root.suit_items.skin[IDX].properties.head_myself_mp4_bg_list"):
-        item = json.loads(item)
+        item = json.loads(item)  # type:ignore[reportOperatorIssue]
         _typ = "str_list"
     if _typ not in result[target_key]["type"]:
         result[target_key]["type"][_typ] = result[target_key]["type"].get(_typ, 0) + 1
@@ -286,9 +275,9 @@ def analyze_structure(depth: int, item: int | str | list | dict | bool | None, t
     result[target_key]["value"][t1] = result[target_key]["value"][t1] + 1
 
 
-def walk_dir(path):
+def walk_dir(path) -> list[str]:
     walk_result = os.walk(os.path.join(base_path, path))
-    ret_list = []
+    ret_list: list[str] = []
     for r in walk_result:
         for p in r[2]:
             ret_list.append(os.path.join(base_path, path, p))
@@ -344,7 +333,7 @@ if __name__ == "__main__":
     start_time = time.time()
     main(output_dir)
     with open(os.path.join(output_dir, "result.json"), "w", encoding="utf-8") as fp:
-        json.dump(result, fp, ensure_ascii=False, indent="\t")
+        json.dump(result, fp, ensure_ascii=False, indent="\t", sort_keys=True)
     total_time = time.time() - start_time
     print(f"处理完成，耗时：{total_time:.3f}秒")
     # time.sleep(10)
