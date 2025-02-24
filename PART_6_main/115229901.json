@@ -35,7 +35,6 @@
 			{
 				"item_id":1685584324001,
 				"name":"怪味豆",
-				"tab_id":0,
 				"suit_item_id":115229901,
 				"properties":{
 					"fan_no_color":"#A677E2",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1685606980001,
 				"name":"怪味豆粉丝",
-				"tab_id":0,
 				"suit_item_id":115229901,
 				"properties":{
 					"fan_no_color":"#A677E2",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1685584371001,
 				"name":"怪味豆",
-				"tab_id":0,
 				"suit_item_id":115229901,
 				"properties":{
 					"fan_no_color":"#825640",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1684987411001,
 				"name":"怪怪小黄豆",
-				"tab_id":0,
 				"suit_item_id":115229901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1fc310cbd6ce5b050afdd9393b72b263ffb613dd.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"略略略\",\"image\":\"https://i0.hdslb.com/bfs/garb/19a6882d4a449587ca48de9b5e4aad053a022ccd.png\"},{\"name\":\"嗯？\",\"image\":\"https://i0.hdslb.com/bfs/garb/296732a016716dc016a07b502fa5ac2cdacb79b2.png\"},{\"name\":\"喘气\",\"image\":\"https://i0.hdslb.com/bfs/garb/74cad1ebdb24a0e68528abbc16c13fd51477bc2e.png\"},{\"name\":\"忍耐\",\"image\":\"https://i0.hdslb.com/bfs/garb/a49de97f9d6f31ec4803f56ed337062d7b3e8a74.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd2b130929dc71e4aeaf0b3112a1157418e0db20.png\"},{\"name\":\"脸红\",\"image\":\"https://i0.hdslb.com/bfs/garb/d66844ac44311a5089bc23eeffd31b280f9b457d.png\"},{\"name\":\"和善\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e13bb9025e86529ed98468aa3ece48326184de5.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f19caa94843f02ce63b7562d532b91c6e0456bb.png\"},{\"name\":\"棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/222323d68009e39c86a042547862bd993d2228d8.png\"},{\"name\":\"多喝热水\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8950388349937b966f1ec29274a126b8efc79ee.png\"},{\"name\":\"补钙\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ce9969076cc8f46ba9c51219ca5e4d4989372c1.png\"},{\"name\":\"吓昏\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ee7113e1e4c887f110f38bf1a44c2160d9eaac5.png\"},{\"name\":\"没睡好\",\"image\":\"https://i0.hdslb.com/bfs/garb/2686e720f6e373a03882474e27363a0ade067168.png\"},{\"name\":\"叹气\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a02dca73d978b3f347cb7ef9406528bd5aec4fd.png\"},{\"name\":\"祈祷\",\"image\":\"https://i0.hdslb.com/bfs/garb/45b3b4e35ee7f447275a4ce372eecf9f80868d63.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_叹气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8a02dca73d978b3f347cb7ef9406528bd5aec4fd.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_吓昏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ee7113e1e4c887f110f38bf1a44c2160d9eaac5.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_和善]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0e13bb9025e86529ed98468aa3ece48326184de5.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2f19caa94843f02ce63b7562d532b91c6e0456bb.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_喘气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/74cad1ebdb24a0e68528abbc16c13fd51477bc2e.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_嗯？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/296732a016716dc016a07b502fa5ac2cdacb79b2.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_多喝热水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b8950388349937b966f1ec29274a126b8efc79ee.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_害怕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bd2b130929dc71e4aeaf0b3112a1157418e0db20.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_忍耐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a49de97f9d6f31ec4803f56ed337062d7b3e8a74.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/222323d68009e39c86a042547862bd993d2228d8.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_没睡好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2686e720f6e373a03882474e27363a0ade067168.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_略略略]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/19a6882d4a449587ca48de9b5e4aad053a022ccd.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_祈祷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/45b3b4e35ee7f447275a4ce372eecf9f80868d63.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_脸红]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d66844ac44311a5089bc23eeffd31b280f9b457d.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[怪怪小黄豆_补钙]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4ce9969076cc8f46ba9c51219ca5e4d4989372c1.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1685584589001,
 				"name":"小黄豆3.0 怪味豆",
-				"tab_id":0,
 				"suit_item_id":115229901,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1685585359001,
 				"name":"怪怪黄豆",
-				"tab_id":0,
 				"suit_item_id":115229901,
 				"properties":{
 					"fan_no_color":"#ffffff",

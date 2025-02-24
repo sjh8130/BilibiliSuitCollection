@@ -36,7 +36,6 @@
 			{
 				"item_id":1683773767001,
 				"name":"酷洛米·女仆咖啡厅",
-				"tab_id":0,
 				"suit_item_id":113133401,
 				"properties":{
 					"fan_no_color":"#DB85C5",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1683773767002,
 				"name":"酷洛米·女仆咖啡厅粉丝",
-				"tab_id":0,
 				"suit_item_id":113133401,
 				"properties":{
 					"fan_no_color":"#DB85C5",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1683773791001,
 				"name":"酷洛米·女仆咖啡厅",
-				"tab_id":0,
 				"suit_item_id":113133401,
 				"properties":{
 					"fan_no_color":"#DB85C5",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1683774075001,
 				"name":"酷洛米·女仆咖啡厅",
-				"tab_id":0,
 				"suit_item_id":113133401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/919d49d2e06a10c6cb81c0f63b316554e8c23ed7.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"小天使\",\"image\":\"https://i0.hdslb.com/bfs/garb/069e86c74f0b78016ccf86901738351814fdcb87.png\"},{\"name\":\"小恶魔\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a574e7cd21c3b2c66153ef34e1b69cbb5b78b4e.png\"},{\"name\":\"偷笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a3c8f7ab438d5093289e50fbc932029515f653a.png\"},{\"name\":\"闭嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/84a150e8f6cc1bcf44716a66e068871b953a00e6.png\"},{\"name\":\"冲呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/46ff66fa1718dce150aa11128f7af741a094b1a1.png\"},{\"name\":\"好吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/473938fa581b9a5f62c2cbca3ab720876939e514.png\"},{\"name\":\"统统清除\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b509cad504936711132ca9d070bf1ee9f507c95.png\"},{\"name\":\"第一\",\"image\":\"https://i0.hdslb.com/bfs/garb/66653f01167230ff4a6318305e777ea0d0bda578.png\"},{\"name\":\"超爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/1cc0d92cb29b4e5ac4caf522cf4ef624fff4047a.png\"},{\"name\":\"我看看\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d7279efd7e333d57f7671a6daa630549b139e52.png\"},{\"name\":\"吓\",\"image\":\"https://i0.hdslb.com/bfs/garb/af89c5756c33850c6ad1d3f706e452fa296c37f7.png\"},{\"name\":\"略略略\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b6dccd4fe51bc8ab343147e98332aefcad6f236.png\"},{\"name\":\"陶醉\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f08bb86f8c2eacf5e4720970e6914a9e3e38173.png\"},{\"name\":\"来咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c939490d3e6c282aeb50dc796cc50cdfa0a1f8d.png\"},{\"name\":\"乖巧\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d8b26a018bfedc300040c38ac1724ec52f41fa6.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_乖巧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9d8b26a018bfedc300040c38ac1724ec52f41fa6.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_偷笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4a3c8f7ab438d5093289e50fbc932029515f653a.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_冲呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/46ff66fa1718dce150aa11128f7af741a094b1a1.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_吓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af89c5756c33850c6ad1d3f706e452fa296c37f7.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_好吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/473938fa581b9a5f62c2cbca3ab720876939e514.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_小天使]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/069e86c74f0b78016ccf86901738351814fdcb87.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_小恶魔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7a574e7cd21c3b2c66153ef34e1b69cbb5b78b4e.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_我看看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6d7279efd7e333d57f7671a6daa630549b139e52.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_来咯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0c939490d3e6c282aeb50dc796cc50cdfa0a1f8d.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_略略略]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5b6dccd4fe51bc8ab343147e98332aefcad6f236.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_第一]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/66653f01167230ff4a6318305e777ea0d0bda578.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_统统清除]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8b509cad504936711132ca9d070bf1ee9f507c95.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_超爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1cc0d92cb29b4e5ac4caf522cf4ef624fff4047a.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_闭嘴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/84a150e8f6cc1bcf44716a66e068871b953a00e6.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米·女仆咖啡厅_陶醉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2f08bb86f8c2eacf5e4720970e6914a9e3e38173.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1683774298001,
 				"name":"酷洛米·女仆咖啡厅",
-				"tab_id":0,
 				"suit_item_id":113133401,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1683774052001,
 				"name":"酷洛米·女仆咖啡厅",
-				"tab_id":0,
 				"suit_item_id":113133401,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -26,7 +26,6 @@
 		"item_id_thumbup":"1127",
 		"owner_uid":"647193094",
 		"rank_investor_show":"false",
-		"realname_auth":"false",
 		"sale_bp_forever_raw":"5000",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"50",
@@ -88,7 +87,6 @@
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"image":"https://i0.hdslb.com/bfs/emote/1812d7021da1427ae9213aa172be2e679364c45c.png",
-					"is_symbol":"false",
 					"item_ids":"1128,1129,1130,1131,1132,1133,1134,1135,1136,1137",
 					"permanent":"false",
 					"recently_used":"false",
@@ -106,8 +104,6 @@
 						"tab_id":7,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/emote/f2d4e77c2a49644f96856b4563dea72d7842b15d.png",
-							"is_symbol":"false",
-							"non_associate":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -117,8 +113,6 @@
 						"tab_id":7,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/emote/377e7a437a783c3f23de19580f1cc543232b9cfc.png",
-							"is_symbol":"false",
-							"non_associate":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -128,8 +122,6 @@
 						"tab_id":7,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/emote/08711f0f96dfbd66feeb0ab5b2a3456b1e1531d1.png",
-							"is_symbol":"false",
-							"non_associate":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -139,8 +131,6 @@
 						"tab_id":7,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/emote/b546a8c6c49c8731c2893741f1fcd9f644bae163.png",
-							"is_symbol":"false",
-							"non_associate":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -150,8 +140,6 @@
 						"tab_id":7,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/emote/406b5c9d01ecfbced79ad53e43aacde726ed9cd0.png",
-							"is_symbol":"false",
-							"non_associate":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -161,8 +149,6 @@
 						"tab_id":7,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/emote/058dc4b9498779da9018da5962875961d32fa19f.png",
-							"is_symbol":"false",
-							"non_associate":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -172,8 +158,6 @@
 						"tab_id":7,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/emote/6ceb4e7f17f9db78d30d13e84ba38ccc16350f5b.png",
-							"is_symbol":"false",
-							"non_associate":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -183,8 +167,6 @@
 						"tab_id":7,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/emote/57a90ada46a10b8ea95dfe2182b810d1b316ffe1.png",
-							"is_symbol":"false",
-							"non_associate":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -194,8 +176,6 @@
 						"tab_id":7,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/emote/6e5a1cfa1900c17ee345935964c42bc18ce1a940.png",
-							"is_symbol":"false",
-							"non_associate":"false",
 							"sale_type":"pay"
 						}
 					}
@@ -273,8 +253,7 @@
 					"image2_landscape":"https://i0.hdslb.com/bfs/garb/item/8eb2703a39588d3af6c6e88b8434c42834b06017.png",
 					"image2_portrait":"https://i0.hdslb.com/bfs/garb/item/6ec00c5b8859d15b19428f2f923ef0141039078b.jpg",
 					"image3_landscape":"https://i0.hdslb.com/bfs/garb/item/d42e338458e50d5bc7256f0022363cb89861b06a.png",
-					"image3_portrait":"https://i0.hdslb.com/bfs/garb/item/76a0a92aa29f2fc7aaa59a7882bc1d2a2c91c8dc.jpg",
-					"realname_auth":"false"
+					"image3_portrait":"https://i0.hdslb.com/bfs/garb/item/76a0a92aa29f2fc7aaa59a7882bc1d2a2c91c8dc.jpg"
 				}
 			}
 		],

@@ -36,7 +36,6 @@
 			{
 				"item_id":1687176348001,
 				"name":"来一口糖果兔2",
-				"tab_id":0,
 				"suit_item_id":115353401,
 				"properties":{
 					"fan_no_color":"#FF96B2",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1687176348002,
 				"name":"来一口糖果兔2粉丝",
-				"tab_id":0,
 				"suit_item_id":115353401,
 				"properties":{
 					"fan_no_color":"#FF96B2",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1685698274001,
 				"name":"来一口糖果兔",
-				"tab_id":0,
 				"suit_item_id":115353401,
 				"properties":{
 					"fan_no_color":"#FF96B2",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1685698515001,
 				"name":"来一口糖果兔",
-				"tab_id":0,
 				"suit_item_id":115353401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f3f9400084a1c614ce23f786ccf05fe2f40bac92.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"抱大腿\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8436d402fca806391de7dcdac6e0ab6e15ed1dc.png\"},{\"name\":\"发糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b9f68989c8835dd7dec42759284a9e61907531b.png\"},{\"name\":\"糖葫芦串头\",\"image\":\"https://i0.hdslb.com/bfs/garb/12c16c238ed0fc17c6d91e967260273459e5c89b.png\"},{\"name\":\"甜度爆表\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad79f389b754889ac5086bff06e1f67479960757.png\"},{\"name\":\"撒糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a5dd95e06d92ebefefadf4af2f7237845be315c.png\"},{\"name\":\"给你棒棒糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/002177de503b97913c3a99ccc653bdf84bb2c465.png\"},{\"name\":\"吐彩虹\",\"image\":\"https://i0.hdslb.com/bfs/garb/5223e977f5907b945f41469b40402c5484c0a5a1.png\"},{\"name\":\"糖葫芦串中\",\"image\":\"https://i0.hdslb.com/bfs/garb/2914a7d61ee9f2262c9347ed7190b0cc46972466.png\"},{\"name\":\"裂开\",\"image\":\"https://i0.hdslb.com/bfs/garb/3afd03b1e5591e01c6ca18c3ec7995428b7a3ec7.png\"},{\"name\":\"糖果雨1\",\"image\":\"https://i0.hdslb.com/bfs/garb/675b62b2c8e01663277014fdc8359eb37f3495ac.png\"},{\"name\":\"全都给你\",\"image\":\"https://i0.hdslb.com/bfs/garb/825a22764461a870e1b15d336bcf3984e5ddbaea.png\"},{\"name\":\"你真好\",\"image\":\"https://i0.hdslb.com/bfs/garb/05a3c9527d166a118f46098c7ea3ef7d0eae2045.png\"},{\"name\":\"糖葫芦串尾\",\"image\":\"https://i0.hdslb.com/bfs/garb/02a23f7363ddb28fa20a5f4550d811da7ea1cc8f.png\"},{\"name\":\"受伤\",\"image\":\"https://i0.hdslb.com/bfs/garb/6cb4f299d866f117585f313b3f90f13ef601ee3a.png\"},{\"name\":\"糖果雨2\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd5c237753f63e6e826b7a3795385aaac9f9b28a.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_你真好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/05a3c9527d166a118f46098c7ea3ef7d0eae2045.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_全都给你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/825a22764461a870e1b15d336bcf3984e5ddbaea.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_发糖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6b9f68989c8835dd7dec42759284a9e61907531b.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_受伤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6cb4f299d866f117585f313b3f90f13ef601ee3a.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_吐彩虹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5223e977f5907b945f41469b40402c5484c0a5a1.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_抱大腿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e8436d402fca806391de7dcdac6e0ab6e15ed1dc.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_撒糖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8a5dd95e06d92ebefefadf4af2f7237845be315c.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_甜度爆表]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ad79f389b754889ac5086bff06e1f67479960757.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_糖果雨1]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/675b62b2c8e01663277014fdc8359eb37f3495ac.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_糖果雨2]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bd5c237753f63e6e826b7a3795385aaac9f9b28a.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_糖葫芦串中]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2914a7d61ee9f2262c9347ed7190b0cc46972466.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_糖葫芦串头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/12c16c238ed0fc17c6d91e967260273459e5c89b.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_糖葫芦串尾]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/02a23f7363ddb28fa20a5f4550d811da7ea1cc8f.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_给你棒棒糖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/002177de503b97913c3a99ccc653bdf84bb2c465.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[来一口糖果兔_裂开]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3afd03b1e5591e01c6ca18c3ec7995428b7a3ec7.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1686903492001,
 				"name":"来一口糖果兔2",
-				"tab_id":0,
 				"suit_item_id":115353401,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1686903382001,
 				"name":"来一口糖果兔2",
-				"tab_id":0,
 				"suit_item_id":115353401,
 				"properties":{
 					"fan_no_color":"#ffffff",

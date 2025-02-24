@@ -35,7 +35,6 @@
 			{
 				"item_id":1721792563001,
 				"name":"B.Duck和小伙伴们",
-				"tab_id":0,
 				"suit_item_id":220647401,
 				"properties":{
 					"fan_no_color":"#23E2E8",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1721792563002,
 				"name":"B.Duck和小伙伴们粉丝",
-				"tab_id":0,
 				"suit_item_id":220647401,
 				"properties":{
 					"fan_no_color":"#23E2E8",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1721792604001,
 				"name":"B.Duck和小伙伴们",
-				"tab_id":0,
 				"suit_item_id":220647401,
 				"properties":{
 					"fan_no_color":"#C25C08",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1721792657001,
 				"name":"B.Duck和小伙伴们",
-				"tab_id":0,
 				"suit_item_id":220647401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8db947e8e9fb118a763e5c8d5edd7788d4a54567.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/21fd92f64bdaa23514ea7f429683e03f1f697924.png\"},{\"name\":\"怒\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9b01828e88103a1aecd995d08b8ae2daf8d20fb.png\"},{\"name\":\"赏月\",\"image\":\"https://i0.hdslb.com/bfs/garb/ecb9fbce2ed3e9bd6a68853b2ca00aafd9babb35.png\"},{\"name\":\"赏花\",\"image\":\"https://i0.hdslb.com/bfs/garb/32ee736be8748bb1ce9e750992a836f44ebd3402.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/20eb178615ae118e665da47d8ea1db0d381eadbf.png\"},{\"name\":\"洗澡\",\"image\":\"https://i0.hdslb.com/bfs/garb/aca3d6ebb09f1788dc27f983fb6bafba7c5a2b4a.png\"},{\"name\":\"击掌\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7b12468f80b00e66ae0efa4b5e1c420bd818513.png\"},{\"name\":\"悠闲\",\"image\":\"https://i0.hdslb.com/bfs/garb/f6609ea4be26af0e25db4339f8187d3c121afb50.png\"},{\"name\":\"在干嘛\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c0426ae27ccd4b7a418572fd9d814b1f65499d8.png\"},{\"name\":\"飘了\",\"image\":\"https://i0.hdslb.com/bfs/garb/723f5e0390ccf21c7a2176000d5ce1c617264c2d.png\"},{\"name\":\"饿了\",\"image\":\"https://i0.hdslb.com/bfs/garb/51990322f024b688629993edbaf9107aabf2229c.png\"},{\"name\":\"生日快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/20cfe24f07d47a1901b644e42116ede5c1d9ca46.png\"},{\"name\":\"喝咖啡\",\"image\":\"https://i0.hdslb.com/bfs/garb/d48302b4350f509d74ab3a6b2ea81a814ad23b21.png\"},{\"name\":\"耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/b4314e11267549ca0e9902a4a1d334099fe20289.png\"},{\"name\":\"走了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c03044caf110bef3b6e4f645e3c038540d7d7de1.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a78ffe99bf51f65be6138c4dfdda355f835ea51.png\"},{\"name\":\"学习\",\"image\":\"https://i0.hdslb.com/bfs/garb/5464311bf21834567dca3a49f662e40ac6c5c560.png\"},{\"name\":\"飞吻\",\"image\":\"https://i0.hdslb.com/bfs/garb/cfd6c98a57e35277a7f824ce0d0b93ca5c2012eb.png\"},{\"name\":\"流泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d9840f3a46eb6678cd596f55270a1aa6503deba.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce4974fad90170d6ddb163040027ed9217f16415.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_击掌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f7b12468f80b00e66ae0efa4b5e1c420bd818513.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_喝咖啡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d48302b4350f509d74ab3a6b2ea81a814ad23b21.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_在干嘛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c0426ae27ccd4b7a418572fd9d814b1f65499d8.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_学习]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5464311bf21834567dca3a49f662e40ac6c5c560.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_微笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/21fd92f64bdaa23514ea7f429683e03f1f697924.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_怒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a9b01828e88103a1aecd995d08b8ae2daf8d20fb.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_悠闲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f6609ea4be26af0e25db4339f8187d3c121afb50.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_洗澡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aca3d6ebb09f1788dc27f983fb6bafba7c5a2b4a.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_流泪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5d9840f3a46eb6678cd596f55270a1aa6503deba.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a78ffe99bf51f65be6138c4dfdda355f835ea51.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_生日快乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20cfe24f07d47a1901b644e42116ede5c1d9ca46.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_盯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce4974fad90170d6ddb163040027ed9217f16415.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b4314e11267549ca0e9902a4a1d334099fe20289.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_赏月]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ecb9fbce2ed3e9bd6a68853b2ca00aafd9babb35.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_赏花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/32ee736be8748bb1ce9e750992a836f44ebd3402.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_走了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c03044caf110bef3b6e4f645e3c038540d7d7de1.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_送花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20eb178615ae118e665da47d8ea1db0d381eadbf.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_飘了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/723f5e0390ccf21c7a2176000d5ce1c617264c2d.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_飞吻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cfd6c98a57e35277a7f824ce0d0b93ca5c2012eb.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[B.Duck和小伙伴们_饿了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/51990322f024b688629993edbaf9107aabf2229c.png",
 							"sale_type":"pay"
@@ -289,7 +264,6 @@
 			{
 				"item_id":1721793079001,
 				"name":"B.Duck和小伙伴们",
-				"tab_id":0,
 				"suit_item_id":220647401,
 				"properties":{
 					"color":"#ffffff",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1721792627001,
 				"name":"B.Duck和小伙伴们",
-				"tab_id":0,
 				"suit_item_id":220647401,
 				"properties":{
 					"fan_no_color":"#ffffff",

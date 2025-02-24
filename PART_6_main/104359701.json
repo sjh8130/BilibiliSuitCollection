@@ -33,7 +33,6 @@
 			{
 				"item_id":1676202208001,
 				"name":"恋恋海蓝色",
-				"tab_id":0,
 				"suit_item_id":104359701,
 				"properties":{
 					"fan_no_color":"#177CF0",
@@ -47,7 +46,6 @@
 			{
 				"item_id":1676202208002,
 				"name":"恋恋海蓝色粉丝",
-				"tab_id":0,
 				"suit_item_id":104359701,
 				"properties":{
 					"fan_no_color":"#177CF0",
@@ -64,7 +62,6 @@
 			{
 				"item_id":1676202744001,
 				"name":"恋恋海蓝色",
-				"tab_id":0,
 				"suit_item_id":104359701,
 				"properties":{
 					"fan_no_color":"#177CF0",
@@ -79,14 +76,12 @@
 			{
 				"item_id":1676202245001,
 				"name":"恋恋海蓝色",
-				"tab_id":0,
 				"suit_item_id":104359701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b3d90e48acaf0da1557e4cdacc222b2763bb8b9b.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"不屑\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a3740170616f83b371604bc8c7ca4f545e4d4eb.png\"},{\"name\":\"哒咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c66a4bc86bf6babf41e21ea6752028337e4fde1.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae153e51a6fb02ac816bf63ecce32421be8fab8f.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/f36bd758a8928bc22f4308b02e1732f7c4afdcbe.png\"},{\"name\":\"嘿嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/c10e561e4ce766025c6bd4a0a9be901258b43e83.png\"},{\"name\":\"喵呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b99d7c5c18be19d4d187173b40464622a45f080.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/74e095d7b6090185252b68778becac6f2911e274.png\"},{\"name\":\"困困\",\"image\":\"https://i0.hdslb.com/bfs/garb/523b3ebf9b93e5c57775daeb931edce04214be74.png\"},{\"name\":\"略略略\",\"image\":\"https://i0.hdslb.com/bfs/garb/f894021100e1ef53b597324564d9eb0fd9792e4b.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/1880ea22f67fdbb759d6ce3f9cba9331fa75cd12.png\"},{\"name\":\"cpu爆炸\",\"image\":\"https://i0.hdslb.com/bfs/garb/db4576710634e499c021697e0d97663faf5628e9.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/59db714be01d2b90bab184379986ecfbb12ba7d7.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b322982f8629531c70cdf72f31fd1616f42e65c.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/78b6441f506b79283e3221f9fdc47a3d6ff1af0c.png\"},{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/20e4e0fa8dcc74387a084a38aaebecc1fafd6cb1.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -102,7 +97,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_cpu爆炸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db4576710634e499c021697e0d97663faf5628e9.png",
 							"sale_type":"pay"
@@ -111,7 +105,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_不屑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2a3740170616f83b371604bc8c7ca4f545e4d4eb.png",
 							"sale_type":"pay"
@@ -120,7 +113,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_哒咩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7c66a4bc86bf6babf41e21ea6752028337e4fde1.png",
 							"sale_type":"pay"
@@ -129,7 +121,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_喵呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6b99d7c5c18be19d4d187173b40464622a45f080.png",
 							"sale_type":"pay"
@@ -138,7 +129,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_嘿嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c10e561e4ce766025c6bd4a0a9be901258b43e83.png",
 							"sale_type":"pay"
@@ -147,7 +137,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_困困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/523b3ebf9b93e5c57775daeb931edce04214be74.png",
 							"sale_type":"pay"
@@ -156,7 +145,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_大哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ae153e51a6fb02ac816bf63ecce32421be8fab8f.png",
 							"sale_type":"pay"
@@ -165,7 +153,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_委屈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/74e095d7b6090185252b68778becac6f2911e274.png",
 							"sale_type":"pay"
@@ -174,7 +161,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/59db714be01d2b90bab184379986ecfbb12ba7d7.png",
 							"sale_type":"pay"
@@ -183,7 +169,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f36bd758a8928bc22f4308b02e1732f7c4afdcbe.png",
 							"sale_type":"pay"
@@ -192,7 +177,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_投币]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20e4e0fa8dcc74387a084a38aaebecc1fafd6cb1.png",
 							"sale_type":"pay"
@@ -201,7 +185,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1880ea22f67fdbb759d6ce3f9cba9331fa75cd12.png",
 							"sale_type":"pay"
@@ -210,7 +193,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/78b6441f506b79283e3221f9fdc47a3d6ff1af0c.png",
 							"sale_type":"pay"
@@ -219,7 +201,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7b322982f8629531c70cdf72f31fd1616f42e65c.png",
 							"sale_type":"pay"
@@ -228,7 +209,6 @@
 					{
 						"item_id":0,
 						"name":"[恋恋海蓝色_略略略]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f894021100e1ef53b597324564d9eb0fd9792e4b.png",
 							"sale_type":"pay"
@@ -241,7 +221,6 @@
 			{
 				"item_id":1676202667001,
 				"name":"恋恋海蓝色",
-				"tab_id":0,
 				"suit_item_id":104359701,
 				"properties":{
 					"color":"#000000",
@@ -281,7 +260,6 @@
 			{
 				"item_id":1676202333001,
 				"name":"恋恋海蓝色",
-				"tab_id":0,
 				"suit_item_id":104359701,
 				"properties":{
 					"fan_no_color":"#ffffff",

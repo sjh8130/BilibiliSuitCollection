@@ -36,7 +36,6 @@
 			{
 				"item_id":1707386001001,
 				"name":"海虎动态卡片",
-				"tab_id":0,
 				"suit_item_id":203954301,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1707386001002,
 				"name":"海虎动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":203954301,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1707386731001,
 				"name":"海虎评论背景",
-				"tab_id":0,
 				"suit_item_id":203954301,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1707386496001,
 				"name":"海虎表情包",
-				"tab_id":0,
 				"suit_item_id":203954301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1f19ad444e5bd7871d78f264a4ab8fbc855d7c75.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"毛虫\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f455193d8f74b109dc162f902fc225a16b75f8a.png\"},{\"name\":\"想象力\",\"image\":\"https://i0.hdslb.com/bfs/garb/6338882837ed8f827272aa3ba23d1fd5156e508a.png\"},{\"name\":\"姦\",\"image\":\"https://i0.hdslb.com/bfs/garb/d449eb2d81c85c5a786a35d18ee7022c2a85f9cc.png\"},{\"name\":\"好劲呀！！\",\"image\":\"https://i0.hdslb.com/bfs/garb/48091f91ccb829f9526c162bda3a0a7884ba19e0.png\"},{\"name\":\"喜欢到极呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/7dfed2a888ce1beb8fa4ec516448531927d9dd47.png\"},{\"name\":\"不\",\"image\":\"https://i0.hdslb.com/bfs/garb/97b039e794d678f589368a043d4e62231d6306d0.png\"},{\"name\":\"有点极端了\",\"image\":\"https://i0.hdslb.com/bfs/garb/0174fd71406647440f831a25cd5d105036827783.png\"},{\"name\":\"不知所谓\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a474bccc2f1719e23b56ca1b36d065087edae52.png\"},{\"name\":\"合体\",\"image\":\"https://i0.hdslb.com/bfs/garb/1313bcd43d79a19dd22e31b30f58c0564d28bb8f.png\"},{\"name\":\".......\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe51b0b895345b08a2f6409f1519912d2ee9107d.png\"},{\"name\":\"波士万岁\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8748abf78cc71d06475f08dfe2772a931565b2b.png\"},{\"name\":\"求饶\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8e5d718edea1420740b35a772df3f4e3c93dabe.png\"},{\"name\":\"可以和解吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3be86b68241eceb9fb3ba55aeabf8143d28ad55.png\"},{\"name\":\"高手\",\"image\":\"https://i0.hdslb.com/bfs/garb/d98f6f66c41adb190fb8e95779d667d114d71d8b.png\"},{\"name\":\"秋天！\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd5aa2db0d7c430da2b424037d9e39879db624dc.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_.......]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fe51b0b895345b08a2f6409f1519912d2ee9107d.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_不]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/97b039e794d678f589368a043d4e62231d6306d0.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_不知所谓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4a474bccc2f1719e23b56ca1b36d065087edae52.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_可以和解吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b3be86b68241eceb9fb3ba55aeabf8143d28ad55.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_合体]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1313bcd43d79a19dd22e31b30f58c0564d28bb8f.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_喜欢到极呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7dfed2a888ce1beb8fa4ec516448531927d9dd47.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_好劲呀！！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/48091f91ccb829f9526c162bda3a0a7884ba19e0.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_姦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d449eb2d81c85c5a786a35d18ee7022c2a85f9cc.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_想象力]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6338882837ed8f827272aa3ba23d1fd5156e508a.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_有点极端了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0174fd71406647440f831a25cd5d105036827783.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_毛虫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0f455193d8f74b109dc162f902fc225a16b75f8a.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_求饶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a8e5d718edea1420740b35a772df3f4e3c93dabe.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_波士万岁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c8748abf78cc71d06475f08dfe2772a931565b2b.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_秋天！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cd5aa2db0d7c430da2b424037d9e39879db624dc.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[海虎表情包_高手]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d98f6f66c41adb190fb8e95779d667d114d71d8b.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1707386773001,
 				"name":"海虎主题",
-				"tab_id":0,
 				"suit_item_id":203954301,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1707386689001,
 				"name":"海虎空间背景",
-				"tab_id":0,
 				"suit_item_id":203954301,
 				"properties":{
 					"fan_no_color":"#ffffff",

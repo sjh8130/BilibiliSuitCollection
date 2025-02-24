@@ -36,7 +36,6 @@
 			{
 				"item_id":1677232561001,
 				"name":"小突兔-动态卡片",
-				"tab_id":0,
 				"suit_item_id":105934401,
 				"properties":{
 					"fan_no_color":"#C3602B",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1677232561002,
 				"name":"小突兔-动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":105934401,
 				"properties":{
 					"fan_no_color":"#C3602B",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1677234306001,
 				"name":"小突兔-评论背景",
-				"tab_id":0,
 				"suit_item_id":105934401,
 				"properties":{
 					"fan_no_color":"#AE710F",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1677233275001,
 				"name":"小突兔-表情包",
-				"tab_id":0,
 				"suit_item_id":105934401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/dfb8da402822518e37a365b66ce771bd48a73251.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/4167c5b5d31650bfcb73b3b64b6fa4b1e4beb030.png\"},{\"name\":\"OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/4997f93d6e81b7d4a4e197a01a25e508e95c4a81.png\"},{\"name\":\"在忙\",\"image\":\"https://i0.hdslb.com/bfs/garb/31ea8509c78292fed21a41418d8428f12fe01148.png\"},{\"name\":\"不想上班\",\"image\":\"https://i0.hdslb.com/bfs/garb/5212c1fc6f2d25e921d07f71e4bc9a9fb6468666.png\"},{\"name\":\"好烦\",\"image\":\"https://i0.hdslb.com/bfs/garb/c32dc057094c18679bdf8158143a6c1d85c9dbea.png\"},{\"name\":\"不干了\",\"image\":\"https://i0.hdslb.com/bfs/garb/b705e1281745c0073ee827895b0d4c3c233a9fb3.png\"},{\"name\":\"加班\",\"image\":\"https://i0.hdslb.com/bfs/garb/fba5429fe9f0ef1ee78ce118889b2d0210e54712.png\"},{\"name\":\"啊啊啊啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6f0baf0332ee74c8844d05a871a661a0bce4e53.png\"},{\"name\":\"穷\",\"image\":\"https://i0.hdslb.com/bfs/garb/494363fb82455b4fccb08918df234dafb4699b06.png\"},{\"name\":\"不想起\",\"image\":\"https://i0.hdslb.com/bfs/garb/668e3ade270b49250211c6bb3a5f41eeb913acc7.png\"},{\"name\":\"早上好\",\"image\":\"https://i0.hdslb.com/bfs/garb/88b737c46371e23712d7abf79182b4d7c33a43a5.png\"},{\"name\":\"挤\",\"image\":\"https://i0.hdslb.com/bfs/garb/33a1d1373c78808a2040c1f1352c4bd5f9237609.png\"},{\"name\":\"感动\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f731d8d8bf50ed4e3a6ace14d7f26908a76bde8.png\"},{\"name\":\"爆笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc0ba5442a9e936648b9135afe114ba838391e61.png\"},{\"name\":\"谢谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/7cb9ebae023338643089e831efbdfa5a69d89a91.png\"},{\"name\":\"好的\",\"image\":\"https://i0.hdslb.com/bfs/garb/01f116efa286f370cbc8a88033ee27c85ef23274.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/78abc4f754518100aca2103adff7dc6f9daec4a5.png\"},{\"name\":\"蹦迪\",\"image\":\"https://i0.hdslb.com/bfs/garb/02a056e38e988c3d2c77f44944b677f21bf48f42.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/576980a41317dabda0281e181dbdfd9ffaee355e.png\"},{\"name\":\"噗嗤\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b724047b280bb48e02dc8dd2e3ac7777ca80bc4.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_OK]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4997f93d6e81b7d4a4e197a01a25e508e95c4a81.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_不干了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b705e1281745c0073ee827895b0d4c3c233a9fb3.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_不想上班]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5212c1fc6f2d25e921d07f71e4bc9a9fb6468666.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_不想起]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/668e3ade270b49250211c6bb3a5f41eeb913acc7.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/576980a41317dabda0281e181dbdfd9ffaee355e.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_加班]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fba5429fe9f0ef1ee78ce118889b2d0210e54712.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_啊啊啊啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c6f0baf0332ee74c8844d05a871a661a0bce4e53.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_噗嗤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3b724047b280bb48e02dc8dd2e3ac7777ca80bc4.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_在忙]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/31ea8509c78292fed21a41418d8428f12fe01148.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_好烦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c32dc057094c18679bdf8158143a6c1d85c9dbea.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_好的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/01f116efa286f370cbc8a88033ee27c85ef23274.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_感动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0f731d8d8bf50ed4e3a6ace14d7f26908a76bde8.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_挤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/33a1d1373c78808a2040c1f1352c4bd5f9237609.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_早上好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/88b737c46371e23712d7abf79182b4d7c33a43a5.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4167c5b5d31650bfcb73b3b64b6fa4b1e4beb030.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_爆笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dc0ba5442a9e936648b9135afe114ba838391e61.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/78abc4f754518100aca2103adff7dc6f9daec4a5.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_穷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/494363fb82455b4fccb08918df234dafb4699b06.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_谢谢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7cb9ebae023338643089e831efbdfa5a69d89a91.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[小突兔-表情包_蹦迪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/02a056e38e988c3d2c77f44944b677f21bf48f42.png",
 							"sale_type":"pay"
@@ -289,7 +264,6 @@
 			{
 				"item_id":1677234272001,
 				"name":"小突兔-个性主题",
-				"tab_id":0,
 				"suit_item_id":105934401,
 				"properties":{
 					"color":"#000000",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1677233374001,
 				"name":"小突兔-空间背景",
-				"tab_id":0,
 				"suit_item_id":105934401,
 				"properties":{
 					"fan_no_color":"#ffffff",

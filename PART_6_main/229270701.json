@@ -36,7 +36,6 @@
 			{
 				"item_id":1729264716001,
 				"name":"复古涂鸦小狗",
-				"tab_id":0,
 				"suit_item_id":229270701,
 				"properties":{
 					"fan_no_color":"#AF7C56",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1729264716002,
 				"name":"复古涂鸦小狗粉丝",
-				"tab_id":0,
 				"suit_item_id":229270701,
 				"properties":{
 					"fan_no_color":"#AF7C56",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1729265512001,
 				"name":"复古涂鸦小狗",
-				"tab_id":0,
 				"suit_item_id":229270701,
 				"properties":{
 					"fan_no_color":"#D3AF83",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1729265024001,
 				"name":"复古涂鸦小狗",
-				"tab_id":0,
 				"suit_item_id":229270701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e27ea56bb3dc2e2cb33b7793d22ea35a802fe9ac.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"蓝领结小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/705c835741cb9de6353b7e87091f2020951df40e.png\"},{\"name\":\"围巾小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/b348bd4d5877e540986cb7124a7490e66b37e24e.png\"},{\"name\":\"侧脸小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/c008a86c47b7301e30a37805c04c7e4149874e3c.png\"},{\"name\":\"粉领小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3b6325e74b768f6308f442ccf642883694e92ef.png\"},{\"name\":\"仰头小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/937b5016025ab52f6d75bc5b8004b5b33542cd61.png\"},{\"name\":\"蓝帽小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/d7abdab5ba1e643b9aec8d72584849954491d110.png\"},{\"name\":\"笑眯小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/003492d80f285299ad5d89e4cd6c79761ce76320.png\"},{\"name\":\"粉帽小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ddf1335fb800d0bbd83fff0e3f24dc1d6050a95.png\"},{\"name\":\"南瓜派\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b00723ace34e381baf77abab99b6abbbaf7f57f.png\"},{\"name\":\"桌布面包\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca3048f0df2391c313cdd2173264ff1be7da9b52.png\"},{\"name\":\"野餐帽\",\"image\":\"https://i0.hdslb.com/bfs/garb/11151d7afada384b714dee66b3b19d5106e1507a.png\"},{\"name\":\"狗狗袜\",\"image\":\"https://i0.hdslb.com/bfs/garb/98b91a8bc4497c4cc389944d3d72ed7db70e2112.png\"},{\"name\":\"蓝色围巾\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2deb6753b32c0936cbff1a605c089366c941122.png\"},{\"name\":\"礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/cce1ce406bd83c8e304869a62f2fc835faae6edf.png\"},{\"name\":\"牛角面包\",\"image\":\"https://i0.hdslb.com/bfs/garb/80e766d639bf9e3f1f4ccd7987cac936949ee763.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_仰头小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/937b5016025ab52f6d75bc5b8004b5b33542cd61.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_侧脸小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c008a86c47b7301e30a37805c04c7e4149874e3c.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_南瓜派]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9b00723ace34e381baf77abab99b6abbbaf7f57f.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_围巾小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b348bd4d5877e540986cb7124a7490e66b37e24e.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_桌布面包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ca3048f0df2391c313cdd2173264ff1be7da9b52.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_牛角面包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/80e766d639bf9e3f1f4ccd7987cac936949ee763.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_狗狗袜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/98b91a8bc4497c4cc389944d3d72ed7db70e2112.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_礼物]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cce1ce406bd83c8e304869a62f2fc835faae6edf.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_笑眯小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/003492d80f285299ad5d89e4cd6c79761ce76320.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_粉帽小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5ddf1335fb800d0bbd83fff0e3f24dc1d6050a95.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_粉领小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e3b6325e74b768f6308f442ccf642883694e92ef.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_蓝帽小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d7abdab5ba1e643b9aec8d72584849954491d110.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_蓝色围巾]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f2deb6753b32c0936cbff1a605c089366c941122.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_蓝领结小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/705c835741cb9de6353b7e87091f2020951df40e.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[复古涂鸦小狗_野餐帽]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/11151d7afada384b714dee66b3b19d5106e1507a.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1729265479001,
 				"name":"复古涂鸦小狗",
-				"tab_id":0,
 				"suit_item_id":229270701,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1729265109001,
 				"name":"复古涂鸦小狗",
-				"tab_id":0,
 				"suit_item_id":229270701,
 				"properties":{
 					"fan_no_color":"#ffffff",

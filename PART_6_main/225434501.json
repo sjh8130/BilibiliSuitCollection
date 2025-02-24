@@ -36,7 +36,6 @@
 			{
 				"item_id":1725938749001,
 				"name":"赛博皇帝",
-				"tab_id":0,
 				"suit_item_id":225434501,
 				"properties":{
 					"fan_no_color":"#B64537",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1725938749002,
 				"name":"赛博皇帝粉丝",
-				"tab_id":0,
 				"suit_item_id":225434501,
 				"properties":{
 					"fan_no_color":"#B64537",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1725938768001,
 				"name":"赛博皇帝",
-				"tab_id":0,
 				"suit_item_id":225434501,
 				"properties":{
 					"fan_no_color":"#B64537",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1725938835001,
 				"name":"赛博皇帝",
-				"tab_id":0,
 				"suit_item_id":225434501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/078f16314a4d9548288a0c20830268e040b2b65c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"赏\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d603170888531e19262ebae24e99784ff714e72.png\"},{\"name\":\"奴才知错\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c5b48622a938e431539f02a785600c917171362.png\"},{\"name\":\"何罪之有\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a5bcfd14963b9cb296c30493e2999b4e28eca5e.png\"},{\"name\":\"圣旨到\",\"image\":\"https://i0.hdslb.com/bfs/garb/949bf49a6b72a1a99b2137072341cb51dc3eacec.png\"},{\"name\":\"启禀陛下\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d78fba8968365470c349663a6410d400d523a1e.png\"},{\"name\":\"传令\",\"image\":\"https://i0.hdslb.com/bfs/garb/f4656369fc175e06afa5a2ab826e762996946006.png\"},{\"name\":\"有事起奏\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5cf83d782d33961d91f44af2e40b5b1f4b3c19c.png\"},{\"name\":\"黑暗\",\"image\":\"https://i0.hdslb.com/bfs/garb/3552a0be5bc7d0d7f00e745a4d2f445265dcd17a.png\"},{\"name\":\"翻牌\",\"image\":\"https://i0.hdslb.com/bfs/garb/c181f4748cacf813aec8b3ce215f30be4b4f1cd5.png\"},{\"name\":\"哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/da3412aeef63b3fe7632f673d980e63254ca950a.png\"},{\"name\":\"无事退朝\",\"image\":\"https://i0.hdslb.com/bfs/garb/c21e3ad3928e173cac891acc788bd66106b78b82.png\"},{\"name\":\"臣妾做不到\",\"image\":\"https://i0.hdslb.com/bfs/garb/e29cc4c7ce5c535c2b84afd88d97e767ef961988.png\"},{\"name\":\"冤枉\",\"image\":\"https://i0.hdslb.com/bfs/garb/7571fe5e2ad79bb194880dc7a4ab86fae76ccdcd.png\"},{\"name\":\"气煞我也\",\"image\":\"https://i0.hdslb.com/bfs/garb/c16aee6868652f9cb98692607a44899ca5ee866e.png\"},{\"name\":\"奴才告退\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5b977c747c47c0eba5caf99647d50f09a695174.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_传令]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f4656369fc175e06afa5a2ab826e762996946006.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_何罪之有]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7a5bcfd14963b9cb296c30493e2999b4e28eca5e.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_冤枉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7571fe5e2ad79bb194880dc7a4ab86fae76ccdcd.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_启禀陛下]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2d78fba8968365470c349663a6410d400d523a1e.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/da3412aeef63b3fe7632f673d980e63254ca950a.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_圣旨到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/949bf49a6b72a1a99b2137072341cb51dc3eacec.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_奴才告退]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f5b977c747c47c0eba5caf99647d50f09a695174.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_奴才知错]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1c5b48622a938e431539f02a785600c917171362.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_无事退朝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c21e3ad3928e173cac891acc788bd66106b78b82.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_有事起奏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d5cf83d782d33961d91f44af2e40b5b1f4b3c19c.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_气煞我也]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c16aee6868652f9cb98692607a44899ca5ee866e.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_翻牌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c181f4748cacf813aec8b3ce215f30be4b4f1cd5.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_臣妾做不到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e29cc4c7ce5c535c2b84afd88d97e767ef961988.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_赏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2d603170888531e19262ebae24e99784ff714e72.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博皇帝_黑暗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3552a0be5bc7d0d7f00e745a4d2f445265dcd17a.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1725938971001,
 				"name":"赛博皇帝",
-				"tab_id":0,
 				"suit_item_id":225434501,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1725938784001,
 				"name":"赛博皇帝",
-				"tab_id":0,
 				"suit_item_id":225434501,
 				"properties":{
 					"fan_no_color":"#ffffff",

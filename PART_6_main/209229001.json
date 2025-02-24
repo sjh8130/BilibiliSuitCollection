@@ -35,7 +35,6 @@
 			{
 				"item_id":1711702883001,
 				"name":"星星的孩子",
-				"tab_id":0,
 				"suit_item_id":209229001,
 				"properties":{
 					"fan_no_color":"#E99E2D",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1711704774001,
 				"name":"星星的孩子粉丝",
-				"tab_id":0,
 				"suit_item_id":209229001,
 				"properties":{
 					"fan_no_color":"#E99E2D",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1711702906002,
 				"name":"星星的孩子",
-				"tab_id":0,
 				"suit_item_id":209229001,
 				"properties":{
 					"fan_no_color":"#F18928",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1711703000001,
 				"name":"星星的孩子",
-				"tab_id":0,
 				"suit_item_id":209229001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e61c52a73cbdb48377436dc74fe3821624475378.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"巨星\",\"image\":\"https://i0.hdslb.com/bfs/garb/51ff18f9f0df389da415aca4dd298c19838bdb0d.png\"},{\"name\":\"起\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba91ba8bbadd07f03435a690badfa659fdc996d6.png\"},{\"name\":\"一一\",\"image\":\"https://i0.hdslb.com/bfs/garb/52bedae25ad946aec630d03852e9e0422a5b91dc.png\"},{\"name\":\"跳\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed02162448b6fe4bf742c8a072c70b7e6fbc5da2.png\"},{\"name\":\"星光大道\",\"image\":\"https://i0.hdslb.com/bfs/garb/e11eaad40b1da84e004e469e24389eec9582c8d6.png\"},{\"name\":\"星8\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdf149bc8da771831581543b4b9e1a8e4defb530.png\"},{\"name\":\"星行好\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c92e48055b05050fe076148c2e827effc38549b.png\"},{\"name\":\"星之落泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/b4528b966b7441dda9749d5a5a37bd82be9cdadc.png\"},{\"name\":\"歌星\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c9e5865a25955a5f7ac4ba34f611683e21f5ac8.png\"},{\"name\":\"球星\",\"image\":\"https://i0.hdslb.com/bfs/garb/d720417ecbeb863d78573989a7b6ccda9a5aa309.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2f77420243a29985bd6da95f62d5258bc48cd3e.png\"},{\"name\":\"收藏\",\"image\":\"https://i0.hdslb.com/bfs/garb/41ca75ac7f7a7efb4fe99dbdead3358f908d04f3.png\"},{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/f45af77e14cae649f2380b0774ef06cdf8113914.png\"},{\"name\":\"星坐\",\"image\":\"https://i0.hdslb.com/bfs/garb/483939546bdcec5f43daa2d7f7e4585fed83938c.png\"},{\"name\":\"星醒\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce57c24d8b44ebaa594cf66854115311ff066b3d.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_一一]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/52bedae25ad946aec630d03852e9e0422a5b91dc.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_巨星]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/51ff18f9f0df389da415aca4dd298c19838bdb0d.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_投币]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f45af77e14cae649f2380b0774ef06cdf8113914.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_收藏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/41ca75ac7f7a7efb4fe99dbdead3358f908d04f3.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_星8]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bdf149bc8da771831581543b4b9e1a8e4defb530.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_星之落泪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b4528b966b7441dda9749d5a5a37bd82be9cdadc.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_星光大道]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e11eaad40b1da84e004e469e24389eec9582c8d6.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_星坐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/483939546bdcec5f43daa2d7f7e4585fed83938c.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_星行好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0c92e48055b05050fe076148c2e827effc38549b.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_星醒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce57c24d8b44ebaa594cf66854115311ff066b3d.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_歌星]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c9e5865a25955a5f7ac4ba34f611683e21f5ac8.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c2f77420243a29985bd6da95f62d5258bc48cd3e.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_球星]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d720417ecbeb863d78573989a7b6ccda9a5aa309.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_起]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ba91ba8bbadd07f03435a690badfa659fdc996d6.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[星星的孩子_跳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ed02162448b6fe4bf742c8a072c70b7e6fbc5da2.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1711704731001,
 				"name":"星星的孩子",
-				"tab_id":0,
 				"suit_item_id":209229001,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1711704536001,
 				"name":"星星的孩子",
-				"tab_id":0,
 				"suit_item_id":209229001,
 				"properties":{
 					"fan_no_color":"#ffffff",

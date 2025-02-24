@@ -36,7 +36,6 @@
 			{
 				"item_id":1719970082001,
 				"name":"天使三丽鸥家族",
-				"tab_id":0,
 				"suit_item_id":218528601,
 				"properties":{
 					"fan_no_color":"#F48795",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1719970082002,
 				"name":"天使三丽鸥家族粉丝",
-				"tab_id":0,
 				"suit_item_id":218528601,
 				"properties":{
 					"fan_no_color":"#F48795",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1719970106001,
 				"name":"天使三丽鸥家族",
-				"tab_id":0,
 				"suit_item_id":218528601,
 				"properties":{
 					"fan_no_color":"#F48795",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1719970234001,
 				"name":"天使三丽鸥家族",
-				"tab_id":0,
 				"suit_item_id":218528601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1b42b9cda4863894b1326e097befd9353782d57f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"送星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/653b7da18da17bed0f1c88f3cd61be9878933cfe.png\"},{\"name\":\"送糖果\",\"image\":\"https://i0.hdslb.com/bfs/garb/405c79fe433b4dae3ab7c92904d0f12bcc761b3e.png\"},{\"name\":\"乐器\",\"image\":\"https://i0.hdslb.com/bfs/garb/fb73e5bb5bef328e1bcd0d19dbc7427f3f4bc909.png\"},{\"name\":\"送礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/b814b07632a5d0e023d9dc9ca63cc521e87e35df.png\"},{\"name\":\"送铃铛\",\"image\":\"https://i0.hdslb.com/bfs/garb/991d5a6da09e5d28dbf217cdc3670e253a138d9f.png\"},{\"name\":\"偷偷看\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5aa1502b0723c9a2a3dae2036c9a5b4d733b856.png\"},{\"name\":\"起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/55a67a0e880ffdf8b56519e26221225becbd2439.png\"},{\"name\":\"送小熊\",\"image\":\"https://i0.hdslb.com/bfs/garb/f42773925f003f311807a0e36058c92b693c2ec5.png\"},{\"name\":\"乖乖坐着\",\"image\":\"https://i0.hdslb.com/bfs/garb/b20de144cb185e01de0ffb82b7d8a88a02e1b4a1.png\"},{\"name\":\"交响乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/09ad6e8c2b39a6821b513555c01e6593b22c45eb.png\"},{\"name\":\"撒下星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e19434a15977e2fdf224f18f92e19adaf067088.png\"},{\"name\":\"撒下礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/42791ec9a0e7ac9c60f637e4e4688716f8b8b0ed.png\"},{\"name\":\"粉刷甜美\",\"image\":\"https://i0.hdslb.com/bfs/garb/291ef9adb88f0a2ae52d1fae359c20639a01db6f.png\"},{\"name\":\"拨打电话\",\"image\":\"https://i0.hdslb.com/bfs/garb/68099eb31c63ed201f97267590325ad8f847ce9f.png\"},{\"name\":\"撒下糖果\",\"image\":\"https://i0.hdslb.com/bfs/garb/cafc5bf72214a46c6ad85edb1783685ac1cc7dc6.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_乐器]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fb73e5bb5bef328e1bcd0d19dbc7427f3f4bc909.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_乖乖坐着]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b20de144cb185e01de0ffb82b7d8a88a02e1b4a1.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_交响乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/09ad6e8c2b39a6821b513555c01e6593b22c45eb.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_偷偷看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c5aa1502b0723c9a2a3dae2036c9a5b4d733b856.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_拨打电话]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/68099eb31c63ed201f97267590325ad8f847ce9f.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_撒下星星]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8e19434a15977e2fdf224f18f92e19adaf067088.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_撒下礼物]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/42791ec9a0e7ac9c60f637e4e4688716f8b8b0ed.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_撒下糖果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cafc5bf72214a46c6ad85edb1783685ac1cc7dc6.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_粉刷甜美]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/291ef9adb88f0a2ae52d1fae359c20639a01db6f.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_起飞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/55a67a0e880ffdf8b56519e26221225becbd2439.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_送小熊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f42773925f003f311807a0e36058c92b693c2ec5.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_送星星]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/653b7da18da17bed0f1c88f3cd61be9878933cfe.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_送礼物]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b814b07632a5d0e023d9dc9ca63cc521e87e35df.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_送糖果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/405c79fe433b4dae3ab7c92904d0f12bcc761b3e.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[天使三丽鸥家族_送铃铛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/991d5a6da09e5d28dbf217cdc3670e253a138d9f.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1719970310001,
 				"name":"天使三丽鸥家族",
-				"tab_id":0,
 				"suit_item_id":218528601,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1719970133001,
 				"name":"天使三丽鸥家族",
-				"tab_id":0,
 				"suit_item_id":218528601,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -36,7 +36,6 @@
 			{
 				"item_id":1689764860001,
 				"name":"LOOPY可爱图鉴",
-				"tab_id":0,
 				"suit_item_id":120234301,
 				"properties":{
 					"fan_no_color":"#E09595",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1689764860002,
 				"name":"LOOPY可爱图鉴粉丝",
-				"tab_id":0,
 				"suit_item_id":120234301,
 				"properties":{
 					"fan_no_color":"#E09595",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1689764879001,
 				"name":"LOOPY可爱图鉴",
-				"tab_id":0,
 				"suit_item_id":120234301,
 				"properties":{
 					"fan_no_color":"#C70A0A",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1689764905001,
 				"name":"LOOPY可爱图鉴",
-				"tab_id":0,
 				"suit_item_id":120234301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4b1c9963cf1b8782aa89eca11d5a03b456a2bf02.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/820dbf3fc87022faec7e9c70e8b84d2c126553bc.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c5116f8c3478b6db65fcbada17ba2920c4eb8ce.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/dede674d9498b65f27f813cea181846ecaa0ef40.png\"},{\"name\":\"啊哈哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/90a9da5bd6e475ec2b1cf0c0cc5cbae39227ff0b.png\"},{\"name\":\"不愿面对\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ddca0a33ba2d09477a60eb36f8cd279a59eaa12.png\"},{\"name\":\"饿了\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d3cf363351fc06b6f8c908e37de8b05b33eab7a.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/34dfc425f115ff22a3ffd9dc7a93f620dc9a810d.png\"},{\"name\":\"卖萌\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e455efc29052e6ce28a6820a4b7df7c8eb2621f.png\"},{\"name\":\"口吐芬芳\",\"image\":\"https://i0.hdslb.com/bfs/garb/33f1ee90ab85d803979a4255aef115c5b76df8fb.png\"},{\"name\":\"笑发财了\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3f52ded30cea793b0b20b598ffc3bdf61804572.png\"},{\"name\":\"好吧\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1519226dd5d9e0e85af631b184a58e560d0a3dd.png\"},{\"name\":\"累到变形\",\"image\":\"https://i0.hdslb.com/bfs/garb/4eef32e2d73e62281b5f3bdf10a51e639c5455b2.png\"},{\"name\":\"天呐\",\"image\":\"https://i0.hdslb.com/bfs/garb/587877970c6ed260cdb059561c793477306d9eaa.png\"},{\"name\":\"行吧\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3d906d6c52f22f79f1d56f83f9d22103200fb60.png\"},{\"name\":\"让我看看\",\"image\":\"https://i0.hdslb.com/bfs/garb/94f1e0d5175ceae0cd818fe902c41afd928bee93.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_不愿面对]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5ddca0a33ba2d09477a60eb36f8cd279a59eaa12.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_卖萌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e455efc29052e6ce28a6820a4b7df7c8eb2621f.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_口吐芬芳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/33f1ee90ab85d803979a4255aef115c5b76df8fb.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_呆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/820dbf3fc87022faec7e9c70e8b84d2c126553bc.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_啊哈哈哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/90a9da5bd6e475ec2b1cf0c0cc5cbae39227ff0b.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_嘻嘻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6c5116f8c3478b6db65fcbada17ba2920c4eb8ce.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_天呐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/587877970c6ed260cdb059561c793477306d9eaa.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_好吧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c1519226dd5d9e0e85af631b184a58e560d0a3dd.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dede674d9498b65f27f813cea181846ecaa0ef40.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_笑发财了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b3f52ded30cea793b0b20b598ffc3bdf61804572.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_累到变形]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4eef32e2d73e62281b5f3bdf10a51e639c5455b2.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_行吧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e3d906d6c52f22f79f1d56f83f9d22103200fb60.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_让我看看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/94f1e0d5175ceae0cd818fe902c41afd928bee93.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/34dfc425f115ff22a3ffd9dc7a93f620dc9a810d.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[LOOPY可爱图鉴_饿了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2d3cf363351fc06b6f8c908e37de8b05b33eab7a.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1689765068001,
 				"name":"LOOPY可爱图鉴",
-				"tab_id":0,
 				"suit_item_id":120234301,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1689818280001,
 				"name":"LOOPY可爱图鉴",
-				"tab_id":0,
 				"suit_item_id":120234301,
 				"properties":{
 					"fan_no_color":"#ffffff",

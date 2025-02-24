@@ -35,7 +35,6 @@
 			{
 				"item_id":1737095720001,
 				"name":"口袋迷ag",
-				"tab_id":0,
 				"suit_item_id":302041801,
 				"properties":{
 					"fan_no_color":"#F1749C",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1737095720002,
 				"name":"口袋迷ag粉丝",
-				"tab_id":0,
 				"suit_item_id":302041801,
 				"properties":{
 					"fan_no_color":"#F1749C",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1737097189001,
 				"name":"口袋迷ag",
-				"tab_id":0,
 				"suit_item_id":302041801,
 				"properties":{
 					"fan_no_color":"#F1749C",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1737096995001,
 				"name":"口袋迷ag",
-				"tab_id":0,
 				"suit_item_id":302041801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/27443b89588431e79c22887d3233242edc64f61e.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"有病吃药\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a86c2ff7c5accac2a99f74a76945e627702e5e3.png\"},{\"name\":\"这合理吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a60a0359d3308598f4d4f4e72a92d8f5510a04e.png\"},{\"name\":\"睡三回合\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd1e3ed8207c197ac33e9040ad9da1c3226a24de.png\"},{\"name\":\"咋回事啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f0eddde8661ad7c4ca947e162c464170717a20c.png\"},{\"name\":\"让我康康\",\"image\":\"https://i0.hdslb.com/bfs/garb/04fd3293fbe5f7d4a9ca921cc078ede9046a3e03.png\"},{\"name\":\"这合法吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf3107b16c36fff7c4e98194f86d273262be67b9.png\"},{\"name\":\"大吃一惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a968d9bf12ebd4a2fc611e6b79ba71ab33529547.png\"},{\"name\":\"汗流浃背\",\"image\":\"https://i0.hdslb.com/bfs/garb/815438580b33eb00868dca5a8c1bc58c5e445f6c.png\"},{\"name\":\"重锤火花\",\"image\":\"https://i0.hdslb.com/bfs/garb/ee5c2f8cf29b097e2ae3f8e6675064caa5b73f00.png\"},{\"name\":\"哎嘿嘿嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/2e9533ef9ac0d469531c3c0940ff77573b1674b8.png\"},{\"name\":\"吞噬手柄\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff400c78f336bfd8f6dde5d2e5980118dbb6eae5.png\"},{\"name\":\"捶胸顿足\",\"image\":\"https://i0.hdslb.com/bfs/garb/efb6e106492cfc63ee432658f5429d04323674a5.png\"},{\"name\":\"够赞够赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/b52ab5b6807622e5f43ed19ae7fca02c0577aa6e.png\"},{\"name\":\"大声咆哮\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce0e26fab51f416c193525e1b16eeb0db79371ab.png\"},{\"name\":\"我爆炸了\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5344a9aa32b54957747eb42c7016a440d64bfc4.png\"},{\"name\":\"可靠背影\",\"image\":\"https://i0.hdslb.com/bfs/garb/b13bf20d11a3748a3092be5c4bd29137f42e0ff2.png\"},{\"name\":\"重度烧伤\",\"image\":\"https://i0.hdslb.com/bfs/garb/9c041e1013d50debd0f9ac61cb2686d4586040fc.png\"},{\"name\":\"麻痹不动\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d33c49d42cb8fceca845dac27200018d5288bdb.png\"},{\"name\":\"挥手拒绝\",\"image\":\"https://i0.hdslb.com/bfs/garb/12b67a3227ab34e7d7c6b00187ee8ec9a23ec544.png\"},{\"name\":\"什么情况\",\"image\":\"https://i0.hdslb.com/bfs/garb/4edfc2032ae73e90d5088cdba5082fe307249946.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,98 +99,23 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[口袋迷ag_有病吃药]",
-						"tab_id":0,
+						"name":"[口袋迷ag_什么情况]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7a86c2ff7c5accac2a99f74a76945e627702e5e3.png",
+							"image":"https://i0.hdslb.com/bfs/garb/4edfc2032ae73e90d5088cdba5082fe307249946.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[口袋迷ag_这合理吗]",
-						"tab_id":0,
+						"name":"[口袋迷ag_可靠背影]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1a60a0359d3308598f4d4f4e72a92d8f5510a04e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[口袋迷ag_睡三回合]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dd1e3ed8207c197ac33e9040ad9da1c3226a24de.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[口袋迷ag_咋回事啊]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2f0eddde8661ad7c4ca947e162c464170717a20c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[口袋迷ag_让我康康]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/04fd3293fbe5f7d4a9ca921cc078ede9046a3e03.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[口袋迷ag_这合法吗]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cf3107b16c36fff7c4e98194f86d273262be67b9.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[口袋迷ag_大吃一惊]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a968d9bf12ebd4a2fc611e6b79ba71ab33529547.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[口袋迷ag_汗流浃背]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/815438580b33eb00868dca5a8c1bc58c5e445f6c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[口袋迷ag_重锤火花]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ee5c2f8cf29b097e2ae3f8e6675064caa5b73f00.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[口袋迷ag_哎嘿嘿嘿]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2e9533ef9ac0d469531c3c0940ff77573b1674b8.png",
+							"image":"https://i0.hdslb.com/bfs/garb/b13bf20d11a3748a3092be5c4bd29137f42e0ff2.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[口袋迷ag_吞噬手柄]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ff400c78f336bfd8f6dde5d2e5980118dbb6eae5.png",
 							"sale_type":"pay"
@@ -203,17 +123,23 @@
 					},
 					{
 						"item_id":0,
-						"name":"[口袋迷ag_捶胸顿足]",
-						"tab_id":0,
+						"name":"[口袋迷ag_咋回事啊]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/efb6e106492cfc63ee432658f5429d04323674a5.png",
+							"image":"https://i0.hdslb.com/bfs/garb/2f0eddde8661ad7c4ca947e162c464170717a20c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[口袋迷ag_哎嘿嘿嘿]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2e9533ef9ac0d469531c3c0940ff77573b1674b8.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[口袋迷ag_够赞够赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b52ab5b6807622e5f43ed19ae7fca02c0577aa6e.png",
 							"sale_type":"pay"
@@ -221,8 +147,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[口袋迷ag_大吃一惊]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a968d9bf12ebd4a2fc611e6b79ba71ab33529547.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[口袋迷ag_大声咆哮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce0e26fab51f416c193525e1b16eeb0db79371ab.png",
 							"sale_type":"pay"
@@ -231,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[口袋迷ag_我爆炸了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f5344a9aa32b54957747eb42c7016a440d64bfc4.png",
 							"sale_type":"pay"
@@ -239,35 +171,7 @@
 					},
 					{
 						"item_id":0,
-						"name":"[口袋迷ag_可靠背影]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b13bf20d11a3748a3092be5c4bd29137f42e0ff2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[口袋迷ag_重度烧伤]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9c041e1013d50debd0f9ac61cb2686d4586040fc.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[口袋迷ag_麻痹不动]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0d33c49d42cb8fceca845dac27200018d5288bdb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[口袋迷ag_挥手拒绝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/12b67a3227ab34e7d7c6b00187ee8ec9a23ec544.png",
 							"sale_type":"pay"
@@ -275,10 +179,81 @@
 					},
 					{
 						"item_id":0,
-						"name":"[口袋迷ag_什么情况]",
-						"tab_id":0,
+						"name":"[口袋迷ag_捶胸顿足]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4edfc2032ae73e90d5088cdba5082fe307249946.png",
+							"image":"https://i0.hdslb.com/bfs/garb/efb6e106492cfc63ee432658f5429d04323674a5.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[口袋迷ag_有病吃药]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7a86c2ff7c5accac2a99f74a76945e627702e5e3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[口袋迷ag_汗流浃背]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/815438580b33eb00868dca5a8c1bc58c5e445f6c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[口袋迷ag_睡三回合]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/dd1e3ed8207c197ac33e9040ad9da1c3226a24de.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[口袋迷ag_让我康康]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/04fd3293fbe5f7d4a9ca921cc078ede9046a3e03.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[口袋迷ag_这合法吗]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cf3107b16c36fff7c4e98194f86d273262be67b9.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[口袋迷ag_这合理吗]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1a60a0359d3308598f4d4f4e72a92d8f5510a04e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[口袋迷ag_重度烧伤]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9c041e1013d50debd0f9ac61cb2686d4586040fc.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[口袋迷ag_重锤火花]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ee5c2f8cf29b097e2ae3f8e6675064caa5b73f00.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[口袋迷ag_麻痹不动]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0d33c49d42cb8fceca845dac27200018d5288bdb.png",
 							"sale_type":"pay"
 						}
 					}
@@ -289,7 +264,6 @@
 			{
 				"item_id":1737270136001,
 				"name":"口袋迷ag主题",
-				"tab_id":0,
 				"suit_item_id":302041801,
 				"properties":{
 					"color":"#000000",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1737095260001,
 				"name":"大声咆哮",
-				"tab_id":0,
 				"suit_item_id":302041801,
 				"properties":{
 					"fan_no_color":"#ffffff",

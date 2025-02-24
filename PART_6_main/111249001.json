@@ -36,7 +36,6 @@
 			{
 				"item_id":1682148708001,
 				"name":"赤色彩的调和",
-				"tab_id":0,
 				"suit_item_id":111249001,
 				"properties":{
 					"fan_no_color":"#DB301F",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1682149198001,
 				"name":"赤色彩的调和粉丝",
-				"tab_id":0,
 				"suit_item_id":111249001,
 				"properties":{
 					"fan_no_color":"#DB301F",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1682148870001,
 				"name":"赤色彩的调和",
-				"tab_id":0,
 				"suit_item_id":111249001,
 				"properties":{
 					"fan_no_color":"#DB301F",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1681906091001,
 				"name":"赤色彩的调和",
-				"tab_id":0,
 				"suit_item_id":111249001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8a0913f148d1b103e7b16a8dd6f50c64a507a182.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"希望人没事\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea602e582b89831b5e30e2fc843acf211bc58fb6.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/e580747ebf4615aaec51e9181ca3db17a5b5d42d.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/51f33c39f776e35c9405215f8c6ea48f400ed260.png\"},{\"name\":\"落泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab363510d92e036c998fee4ab5a789bd69f449bd.png\"},{\"name\":\"？？？\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e5319cf64408332f8e796e05a1823971701790f.png\"},{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/399e3ccc54dfbd48b3b7be20311c3b56706d5573.png\"},{\"name\":\"末门\",\"image\":\"https://i0.hdslb.com/bfs/garb/10bffb190c6a6e93fb96f14487271feee911bfb4.png\"},{\"name\":\"功德加一\",\"image\":\"https://i0.hdslb.com/bfs/garb/1552a4cbc38457331d167f4352d1696c94654b7f.png\"},{\"name\":\"抓起来\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2ce4ef2c4765a4f84ae5338c6afd159361175da.png\"},{\"name\":\"早八人\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d96e123d5b40086d434b1301323421c11ea6f9f.png\"},{\"name\":\"？？\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7716a341d86ffe7fd71f29d242486fa0354c8f5.png\"},{\"name\":\"失魂\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f8c9a90d9f79ffd0ecaa0680fb954df7afb791c.png\"},{\"name\":\"啦啦啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3fb5192cd3e5bd51d2b198a333fc8369ca5f53a.png\"},{\"name\":\"mua\",\"image\":\"https://i0.hdslb.com/bfs/garb/fbc1e57fbf5fd8ad75c321e54c361180c54903e3.png\"},{\"name\":\"汗汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/db8a31d197152f3a074cc7be935c00749459cac2.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_mua]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fbc1e57fbf5fd8ad75c321e54c361180c54903e3.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_功德加一]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1552a4cbc38457331d167f4352d1696c94654b7f.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_啦啦啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a3fb5192cd3e5bd51d2b198a333fc8369ca5f53a.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_失魂]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5f8c9a90d9f79ffd0ecaa0680fb954df7afb791c.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_好耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/399e3ccc54dfbd48b3b7be20311c3b56706d5573.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_害怕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/51f33c39f776e35c9405215f8c6ea48f400ed260.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_希望人没事]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea602e582b89831b5e30e2fc843acf211bc58fb6.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e580747ebf4615aaec51e9181ca3db17a5b5d42d.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_抓起来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c2ce4ef2c4765a4f84ae5338c6afd159361175da.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_早八人]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9d96e123d5b40086d434b1301323421c11ea6f9f.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_末门]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/10bffb190c6a6e93fb96f14487271feee911bfb4.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_汗汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db8a31d197152f3a074cc7be935c00749459cac2.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_落泪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ab363510d92e036c998fee4ab5a789bd69f449bd.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_？？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b7716a341d86ffe7fd71f29d242486fa0354c8f5.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[赤色彩的调和_？？？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0e5319cf64408332f8e796e05a1823971701790f.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1682151088001,
 				"name":"赤色彩的调和",
-				"tab_id":0,
 				"suit_item_id":111249001,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1682149189001,
 				"name":"赤色彩的调和",
-				"tab_id":0,
 				"suit_item_id":111249001,
 				"properties":{
 					"fan_no_color":"#ffffff",

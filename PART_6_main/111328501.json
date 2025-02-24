@@ -35,7 +35,6 @@
 			{
 				"item_id":1682043866001,
 				"name":"魔法小兔",
-				"tab_id":0,
 				"suit_item_id":111328501,
 				"properties":{
 					"fan_no_color":"#F49DC0",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1682044989001,
 				"name":"魔法小兔粉丝",
-				"tab_id":0,
 				"suit_item_id":111328501,
 				"properties":{
 					"fan_no_color":"#F49DC0",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1682044338001,
 				"name":"可爱小兔",
-				"tab_id":0,
 				"suit_item_id":111328501,
 				"properties":{
 					"fan_no_color":"#F49DC0",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1682044186001,
 				"name":"Animal萌萌们",
-				"tab_id":0,
 				"suit_item_id":111328501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5cfa481e2b92c68e79f43c6c205da06414861922.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"那我走\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7890ee12ccbe4a1d297f1579dfab88a63a2d849.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/9986342b76370d71f3375c459dc7542e0a5e7dd5.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/850f709ae03e8220a11e182a9ff9a0f5c1c000c7.png\"},{\"name\":\"狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ed08787c85abf3e7f80149b7c4e90ddee3f017d.png\"},{\"name\":\"耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b5066311d22d3e8f504f277be6a97ce15d2eb9e.png\"},{\"name\":\"长蘑菇惹\",\"image\":\"https://i0.hdslb.com/bfs/garb/4bc851ffb44e74a8c9b8f67de94233652f1b96d4.png\"},{\"name\":\"受伤\",\"image\":\"https://i0.hdslb.com/bfs/garb/7210ba94560a35902cc3f6e2a18a21f9b5a5d0e5.png\"},{\"name\":\"魔法攻击\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d2b91fdf9fca56243ab8c43a50dfd8396bbc0a6.png\"},{\"name\":\"蹦迪\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b569b6fdc320429dcbe0cfdd8420b899cab7763.png\"},{\"name\":\"弱小无助\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4e904017b4e114768461595bd588ade6899d333.png\"},{\"name\":\"你胖了\",\"image\":\"https://i0.hdslb.com/bfs/garb/0040194ce0b4bf53e70a317c079d063085d059bb.png\"},{\"name\":\"电到\",\"image\":\"https://i0.hdslb.com/bfs/garb/75dd28252df2078a235a8181fb4c9acb104fa679.png\"},{\"name\":\"挤出爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e677de464de47cdce526c09b4f2731d35bb8d89.png\"},{\"name\":\"嗷嗷大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/7193a0e2e765cc2b9d1dcaf8479f70b3f544f400.png\"},{\"name\":\"翻脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/6482037e1cab99f0dafda72f410b235a581c04f8.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_你胖了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0040194ce0b4bf53e70a317c079d063085d059bb.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_受伤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7210ba94560a35902cc3f6e2a18a21f9b5a5d0e5.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_嗷嗷大哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7193a0e2e765cc2b9d1dcaf8479f70b3f544f400.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_委屈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/850f709ae03e8220a11e182a9ff9a0f5c1c000c7.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_弱小无助]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e4e904017b4e114768461595bd588ade6899d333.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_挤出爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e677de464de47cdce526c09b4f2731d35bb8d89.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7ed08787c85abf3e7f80149b7c4e90ddee3f017d.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_电到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/75dd28252df2078a235a8181fb4c9acb104fa679.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_盯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9986342b76370d71f3375c459dc7542e0a5e7dd5.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_翻脸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6482037e1cab99f0dafda72f410b235a581c04f8.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5b5066311d22d3e8f504f277be6a97ce15d2eb9e.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_蹦迪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1b569b6fdc320429dcbe0cfdd8420b899cab7763.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_那我走]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c7890ee12ccbe4a1d297f1579dfab88a63a2d849.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_长蘑菇惹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4bc851ffb44e74a8c9b8f67de94233652f1b96d4.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal萌萌们_魔法攻击]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2d2b91fdf9fca56243ab8c43a50dfd8396bbc0a6.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1682044959001,
 				"name":"Animal萌萌们",
-				"tab_id":0,
 				"suit_item_id":111328501,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1682044247001,
 				"name":"欢乐Animal萌萌",
-				"tab_id":0,
 				"suit_item_id":111328501,
 				"properties":{
 					"fan_no_color":"#ffffff",

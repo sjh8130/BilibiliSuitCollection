@@ -35,7 +35,6 @@
 			{
 				"item_id":1713837542001,
 				"name":"叶罗丽仙子游记",
-				"tab_id":0,
 				"suit_item_id":211735001,
 				"properties":{
 					"fan_no_color":"#F99494",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1714026097001,
 				"name":"叶罗丽仙子游记粉丝",
-				"tab_id":0,
 				"suit_item_id":211735001,
 				"properties":{
 					"fan_no_color":"#F99494",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1713837503001,
 				"name":"叶罗丽仙子游记",
-				"tab_id":0,
 				"suit_item_id":211735001,
 				"properties":{
 					"fan_no_color":"#F8A5B1",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1713837463001,
 				"name":"叶罗丽",
-				"tab_id":0,
 				"suit_item_id":211735001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/82da397122c323bb19eac1ced0e84d6a681d4062.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"早上好\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b7737ceec8650f5b0a52b305342cc36e353de43.png\"},{\"name\":\"怎么这样\",\"image\":\"https://i0.hdslb.com/bfs/garb/1818e0d061e440f0d85d823149c4a3ddce54e9de.png\"},{\"name\":\"哇塞\",\"image\":\"https://i0.hdslb.com/bfs/garb/1295df996db0ff48a4f6099e54025b3c2f1b7e34.png\"},{\"name\":\"哎\",\"image\":\"https://i0.hdslb.com/bfs/garb/f4025c877fa9d3e35a9eca8983b1c2c560abd067.png\"},{\"name\":\"好哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c31c643866837674d937ea4a21ae35888aac543.png\"},{\"name\":\"什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/d71102f00e5065ea6fb17cd0a1186db89ce9225c.png\"},{\"name\":\"一起吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/94474f79b86920dbdc03eb09c53240364e8fa084.png\"},{\"name\":\"了解\",\"image\":\"https://i0.hdslb.com/bfs/garb/c524967e2af22d13b59929873e922d1f2029ae53.png\"},{\"name\":\"这样啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c8893267e779d68861fd0708057f6d0eb915582.png\"},{\"name\":\"拿你没办法\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff356465218271f60ae6521f6dd3abfa74f30b7b.png\"},{\"name\":\"冲啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/7008e5048f0d61340e89e35825b64632f5c4770c.png\"},{\"name\":\"不怕困难\",\"image\":\"https://i0.hdslb.com/bfs/garb/33f50b353690e44686deb765fd532c601f9365d4.png\"},{\"name\":\"要加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/38f6dc550678bdea385fcba2e9d2cff3b1d55109.png\"},{\"name\":\"谢谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd738d1dadf95416e394568cbb53ad1aeb0e1f7d.png\"},{\"name\":\"知识的力量\",\"image\":\"https://i0.hdslb.com/bfs/garb/020ed8d71acfb28b7eac9ff203a05089e929aa24.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_一起吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/94474f79b86920dbdc03eb09c53240364e8fa084.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_不怕困难]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/33f50b353690e44686deb765fd532c601f9365d4.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_了解]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c524967e2af22d13b59929873e922d1f2029ae53.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_什么]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d71102f00e5065ea6fb17cd0a1186db89ce9225c.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_冲啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7008e5048f0d61340e89e35825b64632f5c4770c.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_哇塞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1295df996db0ff48a4f6099e54025b3c2f1b7e34.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_哎]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f4025c877fa9d3e35a9eca8983b1c2c560abd067.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_好哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7c31c643866837674d937ea4a21ae35888aac543.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_怎么这样]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1818e0d061e440f0d85d823149c4a3ddce54e9de.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_拿你没办法]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ff356465218271f60ae6521f6dd3abfa74f30b7b.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_早上好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9b7737ceec8650f5b0a52b305342cc36e353de43.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_知识的力量]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/020ed8d71acfb28b7eac9ff203a05089e929aa24.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_要加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/38f6dc550678bdea385fcba2e9d2cff3b1d55109.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_谢谢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fd738d1dadf95416e394568cbb53ad1aeb0e1f7d.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[叶罗丽_这样啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3c8893267e779d68861fd0708057f6d0eb915582.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1714025997001,
 				"name":"叶罗丽仙子游记",
-				"tab_id":0,
 				"suit_item_id":211735001,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1714026075001,
 				"name":"叶罗丽仙子游记",
-				"tab_id":0,
 				"suit_item_id":211735001,
 				"properties":{
 					"fan_no_color":"#ffffff",

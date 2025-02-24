@@ -35,7 +35,6 @@
 			{
 				"item_id":1709630440001,
 				"name":"晚酌梦",
-				"tab_id":0,
 				"suit_item_id":207255301,
 				"properties":{
 					"fan_no_color":"#FEA3A2",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1710145669001,
 				"name":"晚酌梦粉丝",
-				"tab_id":0,
 				"suit_item_id":207255301,
 				"properties":{
 					"fan_no_color":"#FEA3A2",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1709630459001,
 				"name":"晚酌梦",
-				"tab_id":0,
 				"suit_item_id":207255301,
 				"properties":{
 					"fan_no_color":"#FEA3A2",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1709630527001,
 				"name":"晚酌梦",
-				"tab_id":0,
 				"suit_item_id":207255301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/3c469e7908d39ed5f1675cd9718271097438b2b0.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"哈哈哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8340321bc412952aed6ed8aa505487e5543b73f.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae976bf81b477863576b75c947f469bf59ffc505.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/e884d9866bcd7e3a7ec0ee6ff868f4b7eede67c3.png\"},{\"name\":\"好运来\",\"image\":\"https://i0.hdslb.com/bfs/garb/a819028594412c364bf2348c28262631c84f7006.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d8740224fe38faa097c88b33a57c07f785f6e89.png\"},{\"name\":\"上岸\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e164c62e9e35422336d087db88934b217d1ac9f.png\"},{\"name\":\"唱歌\",\"image\":\"https://i0.hdslb.com/bfs/garb/67722ade12a92bd3a030c58d12e7bda306f16273.png\"},{\"name\":\"智慧的眼神\",\"image\":\"https://i0.hdslb.com/bfs/garb/da48d1683ea7b4320f64853759d49ce52d1ad54b.png\"},{\"name\":\"嗷呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e667fb242603c208dc00d73f33534cd4c2b5b88.png\"},{\"name\":\"地铁老人\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3a1cb7349b98626b8c0c7af8173752685ada744.png\"},{\"name\":\"给你一锤\",\"image\":\"https://i0.hdslb.com/bfs/garb/f061cc0238995941c839ddd7204cf0293306a5cf.png\"},{\"name\":\"给你一拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/7fc755178b0f6829fb51ef9c72586d9a4f476001.png\"},{\"name\":\"给你一脚\",\"image\":\"https://i0.hdslb.com/bfs/garb/545b9abf9c4807daadc5a4c96ea1bda2f169013f.png\"},{\"name\":\"下班啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/0fbdd5b9b99b633287a72a260da7ea4474857466.png\"},{\"name\":\"爹！\",\"image\":\"https://i0.hdslb.com/bfs/garb/22063c39b7191f1f261b45a82d63bb8866456d7b.png\"},{\"name\":\"妈！\",\"image\":\"https://i0.hdslb.com/bfs/garb/0fca4d2ff4c426f3601681e0b8fb3e3fe6efd1f0.png\"},{\"name\":\"心凉透了\",\"image\":\"https://i0.hdslb.com/bfs/garb/94e3e6ddbb47eb207428a65febdc283f33c78bb3.png\"},{\"name\":\"我会生气的\",\"image\":\"https://i0.hdslb.com/bfs/garb/058e233f141ec16e5ac2e6c41ec543a6669f9699.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/593bf6dedce04ca6a60e2d9e8fe39d37e27c846d.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/eeaba5083dd03959a66151a7c8cab8e9b87325f7.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_上岸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5e164c62e9e35422336d087db88934b217d1ac9f.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_下班啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0fbdd5b9b99b633287a72a260da7ea4474857466.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/593bf6dedce04ca6a60e2d9e8fe39d37e27c846d.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_哈哈哈哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a8340321bc412952aed6ed8aa505487e5543b73f.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_唱歌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/67722ade12a92bd3a030c58d12e7bda306f16273.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_嗷呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e667fb242603c208dc00d73f33534cd4c2b5b88.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_地铁老人]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c3a1cb7349b98626b8c0c7af8173752685ada744.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_好运来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a819028594412c364bf2348c28262631c84f7006.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_妈！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0fca4d2ff4c426f3601681e0b8fb3e3fe6efd1f0.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_心凉透了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/94e3e6ddbb47eb207428a65febdc283f33c78bb3.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_思考]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eeaba5083dd03959a66151a7c8cab8e9b87325f7.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_我会生气的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/058e233f141ec16e5ac2e6c41ec543a6669f9699.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e884d9866bcd7e3a7ec0ee6ff868f4b7eede67c3.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_摸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d8740224fe38faa097c88b33a57c07f785f6e89.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_智慧的眼神]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/da48d1683ea7b4320f64853759d49ce52d1ad54b.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ae976bf81b477863576b75c947f469bf59ffc505.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_爹！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/22063c39b7191f1f261b45a82d63bb8866456d7b.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_给你一拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7fc755178b0f6829fb51ef9c72586d9a4f476001.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_给你一脚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/545b9abf9c4807daadc5a4c96ea1bda2f169013f.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[晚酌梦_给你一锤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f061cc0238995941c839ddd7204cf0293306a5cf.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1709630713001,
 				"name":"晚酌梦",
-				"tab_id":0,
 				"suit_item_id":207255301,
 				"properties":{
 					"color":"#000000",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1709630478001,
 				"name":"晚酌梦",
-				"tab_id":0,
 				"suit_item_id":207255301,
 				"properties":{
 					"fan_no_color":"#ffffff",

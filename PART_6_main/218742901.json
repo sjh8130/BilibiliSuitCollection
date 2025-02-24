@@ -35,7 +35,6 @@
 			{
 				"item_id":1720145831001,
 				"name":"Animal第四弹",
-				"tab_id":0,
 				"suit_item_id":218742901,
 				"properties":{
 					"fan_no_color":"#866DB7",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1720145831002,
 				"name":"Animal第四弹粉丝",
-				"tab_id":0,
 				"suit_item_id":218742901,
 				"properties":{
 					"fan_no_color":"#866DB7",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1720145912001,
 				"name":"Animal第四弹",
-				"tab_id":0,
 				"suit_item_id":218742901,
 				"properties":{
 					"fan_no_color":"#AD87BF",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1718088980001,
 				"name":"Animal第四弹",
-				"tab_id":0,
 				"suit_item_id":218742901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d218f800c13848f49e179a9c302c51dd4e01ca64.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"偷懒中\",\"image\":\"https://i0.hdslb.com/bfs/garb/496a50d688f1860a0c06d22548c436f194e105ec.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/00d814b8841310a0498704efc848c370ab829816.png\"},{\"name\":\"呜呜！\",\"image\":\"https://i0.hdslb.com/bfs/garb/a4b4e902895208d9d9737da4e971ed3f6f0bc3c7.png\"},{\"name\":\"冒火\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8003a938f12817640fd3831ffa0a8cd476f3497.png\"},{\"name\":\"司米嘛噻\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac07da14dbae36f920b7d4fd761ca07dac154c76.png\"},{\"name\":\"？\",\"image\":\"https://i0.hdslb.com/bfs/garb/ee2f0bcd6dd4ec297b30ec710897161649db7508.png\"},{\"name\":\"自拍\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ab6a723eb39aebd328ed2dbcc9b5d330f9b1568.png\"},{\"name\":\"喝咖啡\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a90ae6f8c174affb869d3cab29d3a4b9eaf81ce.png\"},{\"name\":\"克系猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/46cb230f6ffa02383da7c57e162d957aa061d724.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef397ba888c42d017e1d0bd4b5d3dfb616bb4146.png\"},{\"name\":\"舔一下\",\"image\":\"https://i0.hdslb.com/bfs/garb/abc919e5c4f6d7689716a0ffe25b15bff1b6945e.png\"},{\"name\":\"好酸\",\"image\":\"https://i0.hdslb.com/bfs/garb/24c8ce13bd7dfb8ff7e2178597e56b04bed69ac1.png\"},{\"name\":\"哭到模糊\",\"image\":\"https://i0.hdslb.com/bfs/garb/f91ea37113db1438b9518cf4e0c86ce5a53bb637.png\"},{\"name\":\"气\",\"image\":\"https://i0.hdslb.com/bfs/garb/39304cc3feb1ca0b1d47e22ca0bf88e5a907cf0b.png\"},{\"name\":\"惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/83e8c803528e0b4acbdddbc62e69a11a0a5dca59.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_偷懒中]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/496a50d688f1860a0c06d22548c436f194e105ec.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_克系猫猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/46cb230f6ffa02383da7c57e162d957aa061d724.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_冒火]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e8003a938f12817640fd3831ffa0a8cd476f3497.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_司米嘛噻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ac07da14dbae36f920b7d4fd761ca07dac154c76.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_呜呜！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a4b4e902895208d9d9737da4e971ed3f6f0bc3c7.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_哭到模糊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f91ea37113db1438b9518cf4e0c86ce5a53bb637.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_喝咖啡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7a90ae6f8c174affb869d3cab29d3a4b9eaf81ce.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_好酸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/24c8ce13bd7dfb8ff7e2178597e56b04bed69ac1.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/83e8c803528e0b4acbdddbc62e69a11a0a5dca59.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ef397ba888c42d017e1d0bd4b5d3dfb616bb4146.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/39304cc3feb1ca0b1d47e22ca0bf88e5a907cf0b.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_盯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/00d814b8841310a0498704efc848c370ab829816.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_自拍]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7ab6a723eb39aebd328ed2dbcc9b5d330f9b1568.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_舔一下]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/abc919e5c4f6d7689716a0ffe25b15bff1b6945e.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[Animal第四弹_？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ee2f0bcd6dd4ec297b30ec710897161649db7508.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1720147542001,
 				"name":"Animal第四弹",
-				"tab_id":0,
 				"suit_item_id":218742901,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1720081032001,
 				"name":"Animal第四弹",
-				"tab_id":0,
 				"suit_item_id":218742901,
 				"properties":{
 					"fan_no_color":"#ffffff",

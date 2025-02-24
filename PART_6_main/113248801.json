@@ -36,7 +36,6 @@
 			{
 				"item_id":1691041782001,
 				"name":"酷洛米 塔罗占卜师1",
-				"tab_id":0,
 				"suit_item_id":113248801,
 				"properties":{
 					"fan_no_color":"#A96BD0",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1691041782002,
 				"name":"酷洛米 塔罗占卜师1粉丝",
-				"tab_id":0,
 				"suit_item_id":113248801,
 				"properties":{
 					"fan_no_color":"#A96BD0",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1683879272001,
 				"name":"酷洛米 塔罗占卜师",
-				"tab_id":0,
 				"suit_item_id":113248801,
 				"properties":{
 					"fan_no_color":"#A96BD0",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1683878590001,
 				"name":"酷洛米 塔罗占卜师",
-				"tab_id":0,
 				"suit_item_id":113248801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/19e1d9e2b2bdf43065054b829f04f69af5df2689.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"VIP\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc17e6f052cc112c54fc80dbac85f9258d861ea4.png\"},{\"name\":\"预言家\",\"image\":\"https://i0.hdslb.com/bfs/garb/528442c89b42ac793d578f43939908623c8c490b.png\"},{\"name\":\"喝茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e3ca97465c4622cc1794238cf3a05825aa49bab.png\"},{\"name\":\"为你占卜\",\"image\":\"https://i0.hdslb.com/bfs/garb/f04976379d27ed513d3a9c3aaa4001b962a17351.png\"},{\"name\":\"细品\",\"image\":\"https://i0.hdslb.com/bfs/garb/92483309ffa70a71663d71657a2c8a0789e50f7c.png\"},{\"name\":\"噤声\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e665dcdc1eca4374de3b8b4ed3609ad24b28b70.png\"},{\"name\":\"大声哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/a05acaef1930068a330bf2d8ae211a7910ad6988.png\"},{\"name\":\"学习中\",\"image\":\"https://i0.hdslb.com/bfs/garb/dccffeab8b331b8e9c1debfee339b5955ab5298f.png\"},{\"name\":\"乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a942efc9e6c257e64756d87c72a3529bee9bd3b.png\"},{\"name\":\"嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/8cb3a7d37ed92f346638a2d467e3eb27b3d7a89a.png\"},{\"name\":\"献花\",\"image\":\"https://i0.hdslb.com/bfs/garb/c31039b770d5f05efccd91739a99cc541a071f1d.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/165073d9e6df16fffc80a7c72db068de8a61f4ee.png\"},{\"name\":\"示爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/70bcf8001377f87ebd01c7be7ec018d37427f94c.png\"},{\"name\":\"许愿球\",\"image\":\"https://i0.hdslb.com/bfs/garb/747d752a4ea2c6a4de862179fefb008b826dd46d.png\"},{\"name\":\"伤心\",\"image\":\"https://i0.hdslb.com/bfs/garb/21a3be707fa0fc1f2fcace3b8e56864250bbb1ac.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_VIP]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dc17e6f052cc112c54fc80dbac85f9258d861ea4.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_为你占卜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f04976379d27ed513d3a9c3aaa4001b962a17351.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a942efc9e6c257e64756d87c72a3529bee9bd3b.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_伤心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/21a3be707fa0fc1f2fcace3b8e56864250bbb1ac.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_喝茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9e3ca97465c4622cc1794238cf3a05825aa49bab.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_嘻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8cb3a7d37ed92f346638a2d467e3eb27b3d7a89a.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_噤声]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4e665dcdc1eca4374de3b8b4ed3609ad24b28b70.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_大声哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a05acaef1930068a330bf2d8ae211a7910ad6988.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_学习中]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dccffeab8b331b8e9c1debfee339b5955ab5298f.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/165073d9e6df16fffc80a7c72db068de8a61f4ee.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_献花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c31039b770d5f05efccd91739a99cc541a071f1d.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_示爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/70bcf8001377f87ebd01c7be7ec018d37427f94c.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_细品]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/92483309ffa70a71663d71657a2c8a0789e50f7c.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_许愿球]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/747d752a4ea2c6a4de862179fefb008b826dd46d.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 塔罗占卜师_预言家]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/528442c89b42ac793d578f43939908623c8c490b.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1683879248001,
 				"name":"酷洛米 塔罗占卜师",
-				"tab_id":0,
 				"suit_item_id":113248801,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1683878636001,
 				"name":"酷洛米 塔罗占卜师",
-				"tab_id":0,
 				"suit_item_id":113248801,
 				"properties":{
 					"fan_no_color":"#ffffff",

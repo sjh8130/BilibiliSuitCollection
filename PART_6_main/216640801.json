@@ -36,7 +36,6 @@
 			{
 				"item_id":1718342490001,
 				"name":"波呜咘的度假日",
-				"tab_id":0,
 				"suit_item_id":216640801,
 				"properties":{
 					"fan_no_color":"#EF6F6F",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1718342490002,
 				"name":"波呜咘的度假日粉丝",
-				"tab_id":0,
 				"suit_item_id":216640801,
 				"properties":{
 					"fan_no_color":"#EF6F6F",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1718342726001,
 				"name":"波呜咘的度假日",
-				"tab_id":0,
 				"suit_item_id":216640801,
 				"properties":{
 					"fan_no_color":"#F55959",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1718342514001,
 				"name":"波呜咘的度假日",
-				"tab_id":0,
 				"suit_item_id":216640801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5417b670ef5f5222db7a0371355bff63467d8ea1.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"ok\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ff28c07a8f05794687c15a08629ae88d66174c4.png\"},{\"name\":\"安慰一下\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb59700213ec4bbb38c8a7a35d2559c8ac3aaf58.png\"},{\"name\":\"棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/8eb8ebb8ed11eaacc731ccd24f6a4c244cde5abf.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a47d91e9fa8954c484e8ef8ec78dc70ab1a1aae.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c778c09fa475ac88da205d073a4334244f2fbfa.png\"},{\"name\":\"腹肌\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3ae327b4cec888c7a9c3011b8124353b20c4238.png\"},{\"name\":\"感谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd01e85867aeda64969f4a1552fdd1c074753d98.png\"},{\"name\":\"好吧\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a6571e6cceaef9e957b681c1bf311791e5309e8.png\"},{\"name\":\"好姐妹\",\"image\":\"https://i0.hdslb.com/bfs/garb/191bc44221401c1b8884783dd86fd35229042236.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf19230fc4a54e19188f59c9e8bc35aaf2f97835.png\"},{\"name\":\"看我\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b923b738157e8bc365b708c8e847dff3377b986.png\"},{\"name\":\"在干嘛\",\"image\":\"https://i0.hdslb.com/bfs/garb/08d2c6bcef37cca9e7be849dc12d575a68eeff0a.png\"},{\"name\":\"你走\",\"image\":\"https://i0.hdslb.com/bfs/garb/cdc64f11b51f7c7776548d0d0ec8a860234a2578.png\"},{\"name\":\"庆祝\",\"image\":\"https://i0.hdslb.com/bfs/garb/837a8c7789fc646b0cf7e565597279e9ccd9ae4b.png\"},{\"name\":\"收到\",\"image\":\"https://i0.hdslb.com/bfs/garb/393534bebf9ade07f6bb0b65b7deec9d3c4689a9.png\"},{\"name\":\"送外卖\",\"image\":\"https://i0.hdslb.com/bfs/garb/b757fcf6e2f2d9284ae01905b451546e29afbef9.png\"},{\"name\":\"我来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a945e48cbb3d1ee895962397741b9bd2b24ef57.png\"},{\"name\":\"哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ccf6e70ae541cedf22430b8409934d6a16ddf26.png\"},{\"name\":\"闲\",\"image\":\"https://i0.hdslb.com/bfs/garb/649337a2126dea31ec7c386f25ec37efa4e37940.png\"},{\"name\":\"炸鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/2bef94345ad0eb6bad6b33d3dff5e7e80a3e2ea1.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_ok]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ff28c07a8f05794687c15a08629ae88d66174c4.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_你走]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cdc64f11b51f7c7776548d0d0ec8a860234a2578.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ccf6e70ae541cedf22430b8409934d6a16ddf26.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_在干嘛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/08d2c6bcef37cca9e7be849dc12d575a68eeff0a.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_好吧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a6571e6cceaef9e957b681c1bf311791e5309e8.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_好姐妹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/191bc44221401c1b8884783dd86fd35229042236.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_安慰一下]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cb59700213ec4bbb38c8a7a35d2559c8ac3aaf58.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_庆祝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/837a8c7789fc646b0cf7e565597279e9ccd9ae4b.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bf19230fc4a54e19188f59c9e8bc35aaf2f97835.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_感谢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dd01e85867aeda64969f4a1552fdd1c074753d98.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_我来了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3a945e48cbb3d1ee895962397741b9bd2b24ef57.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a47d91e9fa8954c484e8ef8ec78dc70ab1a1aae.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_收到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/393534bebf9ade07f6bb0b65b7deec9d3c4689a9.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8eb8ebb8ed11eaacc731ccd24f6a4c244cde5abf.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3c778c09fa475ac88da205d073a4334244f2fbfa.png",
 							"sale_type":"pay"
@@ -241,7 +221,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_炸鸡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2bef94345ad0eb6bad6b33d3dff5e7e80a3e2ea1.png",
 							"sale_type":"pay"
@@ -250,7 +229,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_看我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3b923b738157e8bc365b708c8e847dff3377b986.png",
 							"sale_type":"pay"
@@ -259,7 +237,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_腹肌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b3ae327b4cec888c7a9c3011b8124353b20c4238.png",
 							"sale_type":"pay"
@@ -268,7 +245,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_送外卖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b757fcf6e2f2d9284ae01905b451546e29afbef9.png",
 							"sale_type":"pay"
@@ -277,7 +253,6 @@
 					{
 						"item_id":0,
 						"name":"[波呜咘的度假日_闲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/649337a2126dea31ec7c386f25ec37efa4e37940.png",
 							"sale_type":"pay"
@@ -290,7 +265,6 @@
 			{
 				"item_id":1718342698001,
 				"name":"波呜咘的度假日",
-				"tab_id":0,
 				"suit_item_id":216640801,
 				"properties":{
 					"color":"#ffffff",
@@ -330,7 +304,6 @@
 			{
 				"item_id":1718342532001,
 				"name":"波呜咘的度假日",
-				"tab_id":0,
 				"suit_item_id":216640801,
 				"properties":{
 					"fan_no_color":"#ffffff",

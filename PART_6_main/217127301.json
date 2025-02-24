@@ -35,7 +35,6 @@
 			{
 				"item_id":1718618800001,
 				"name":"夏日泳装派对",
-				"tab_id":0,
 				"suit_item_id":217127301,
 				"properties":{
 					"fan_no_color":"#64CBDC",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1718618800002,
 				"name":"夏日泳装派对粉丝",
-				"tab_id":0,
 				"suit_item_id":217127301,
 				"properties":{
 					"fan_no_color":"#64CBDC",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1718619513001,
 				"name":"夏日泳装派对",
-				"tab_id":0,
 				"suit_item_id":217127301,
 				"properties":{
 					"fan_no_color":"#76CAD8",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1718618890001,
 				"name":"夏日泳装派对",
-				"tab_id":0,
 				"suit_item_id":217127301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/cfeed19c07eafe11e1188729b058c4cfb3d40ce1.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"不要\",\"image\":\"https://i0.hdslb.com/bfs/garb/20dec15567e9dafc12fa50bb9508672b5027d28f.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/17cea963b14a966a55efce393093c42c0c6196a8.png\"},{\"name\":\"超大号\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f8303bf574c81818a5e21759af0247208d78938.png\"},{\"name\":\"无所谓\",\"image\":\"https://i0.hdslb.com/bfs/garb/1916607233d30e51cd103a2032f03ae38731af5e.png\"},{\"name\":\"骄傲\",\"image\":\"https://i0.hdslb.com/bfs/garb/904b26b86efa1e47494687f1add62f12473c6462.png\"},{\"name\":\"喝椰汁\",\"image\":\"https://i0.hdslb.com/bfs/garb/653eabac68e1d552048b4c91064388142ef16a90.png\"},{\"name\":\"打喷嚏\",\"image\":\"https://i0.hdslb.com/bfs/garb/d82b7bbca3a21a8a2edf43e9bc6e78332c559e19.png\"},{\"name\":\"摇手指\",\"image\":\"https://i0.hdslb.com/bfs/garb/a32031d6cf8105da2db97240e41ebe4f6305ae14.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a5d5ca7b1f47942187ba4af472156c8562783de.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b957e2711cc790c3cb7f85aa2c0c10086cb7f1c.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2839a0d84a36e62d84aaff476ff577fe51b686e.png\"},{\"name\":\"老人手机\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0c758bf24acc93835fd03550d7a03d2616ce5c8.png\"},{\"name\":\"晕了\",\"image\":\"https://i0.hdslb.com/bfs/garb/e091977eb55e9047862ab0a2d0ce75e59fc6721b.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/477a85a20dc0721735a85d13d47bef073bc30572.png\"},{\"name\":\"吓到\",\"image\":\"https://i0.hdslb.com/bfs/garb/b348274827cb76fddeee3361ba9e80c2b6a1320a.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_不要]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20dec15567e9dafc12fa50bb9508672b5027d28f.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_吓到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b348274827cb76fddeee3361ba9e80c2b6a1320a.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/17cea963b14a966a55efce393093c42c0c6196a8.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_喝椰汁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/653eabac68e1d552048b4c91064388142ef16a90.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3b957e2711cc790c3cb7f85aa2c0c10086cb7f1c.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5a5d5ca7b1f47942187ba4af472156c8562783de.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_打喷嚏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d82b7bbca3a21a8a2edf43e9bc6e78332c559e19.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_摇手指]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a32031d6cf8105da2db97240e41ebe4f6305ae14.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_无所谓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1916607233d30e51cd103a2032f03ae38731af5e.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d2839a0d84a36e62d84aaff476ff577fe51b686e.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_晕了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e091977eb55e9047862ab0a2d0ce75e59fc6721b.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/477a85a20dc0721735a85d13d47bef073bc30572.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_老人手机]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b0c758bf24acc93835fd03550d7a03d2616ce5c8.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_超大号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8f8303bf574c81818a5e21759af0247208d78938.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日泳装派对_骄傲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/904b26b86efa1e47494687f1add62f12473c6462.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1718619447001,
 				"name":"夏日泳装派对",
-				"tab_id":0,
 				"suit_item_id":217127301,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1718618936001,
 				"name":"夏日泳装派对",
-				"tab_id":0,
 				"suit_item_id":217127301,
 				"properties":{
 					"fan_no_color":"#ffffff",

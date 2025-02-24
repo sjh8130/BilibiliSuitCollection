@@ -35,7 +35,6 @@
 			{
 				"item_id":1684298652001,
 				"name":"神秘星曲 天秤座",
-				"tab_id":0,
 				"suit_item_id":113738501,
 				"properties":{
 					"fan_no_color":"#C45B27",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1684298652002,
 				"name":"神秘星曲 天秤座粉丝",
-				"tab_id":0,
 				"suit_item_id":113738501,
 				"properties":{
 					"fan_no_color":"#C45B27",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1684298945001,
 				"name":"神秘星曲 天秤座",
-				"tab_id":0,
 				"suit_item_id":113738501,
 				"properties":{
 					"fan_no_color":"#C45B27",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1684298708001,
 				"name":"神秘星曲 天秤座",
-				"tab_id":0,
 				"suit_item_id":113738501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ad0de5d9e99f08f7f5fb74b46ed1cd61ce91d7e9.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"端水大师\",\"image\":\"https://i0.hdslb.com/bfs/garb/44da934e8ecb1f75bbc25e158f210e1c0436b1e7.png\"},{\"name\":\"与世无争\",\"image\":\"https://i0.hdslb.com/bfs/garb/80e3beb7f16bd307961d1e598dd329ed4c6a4e01.png\"},{\"name\":\"法外狂徒\",\"image\":\"https://i0.hdslb.com/bfs/garb/221cd4f3abb91946bd024e57b926659b4e9e53ff.png\"},{\"name\":\"肃静\",\"image\":\"https://i0.hdslb.com/bfs/garb/0020774791d4410efd26cd9c9129fc2bfee8a83f.png\"},{\"name\":\"无妻徒刑\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5fa381dc277d6b55d0508b09eace80e5cd6d132.png\"},{\"name\":\"数星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/6691a2180c481bee1f7e076527b452663e383e1c.png\"},{\"name\":\"半斤八两\",\"image\":\"https://i0.hdslb.com/bfs/garb/fb2121b9ba90ec87bf0d70700698e3535090eeba.png\"},{\"name\":\"秤不住啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/549ba5fd11175a92c96106e6f9227ccb79a18d3e.png\"},{\"name\":\"平安喜乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e489dbf67e631e6a558e53f91c16c4b3237577a.png\"},{\"name\":\"孤独\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fd2b2114660b3b7626311690a4def783ecf12ec.png\"},{\"name\":\"寂寞\",\"image\":\"https://i0.hdslb.com/bfs/garb/6dbcdfccbcc71ba8d155460164bfb780521d9cb1.png\"},{\"name\":\"冷\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8453fe43c29110d2ee2f74e01416f77a7bd7463.png\"},{\"name\":\"水逆退散\",\"image\":\"https://i0.hdslb.com/bfs/garb/d34cacb39329059bdbbf527024e68664e78dba8d.png\"},{\"name\":\"诸事不顺\",\"image\":\"https://i0.hdslb.com/bfs/garb/11aeba0ab39c11d9c31a4f3617c6400ed3581582.png\"},{\"name\":\"诸事皆宜\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3ef607238ee8b04e737241d556c3431299cee04.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_与世无争]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/80e3beb7f16bd307961d1e598dd329ed4c6a4e01.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_冷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e8453fe43c29110d2ee2f74e01416f77a7bd7463.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_半斤八两]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fb2121b9ba90ec87bf0d70700698e3535090eeba.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_孤独]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1fd2b2114660b3b7626311690a4def783ecf12ec.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_寂寞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6dbcdfccbcc71ba8d155460164bfb780521d9cb1.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_平安喜乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1e489dbf67e631e6a558e53f91c16c4b3237577a.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_数星星]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6691a2180c481bee1f7e076527b452663e383e1c.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_无妻徒刑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a5fa381dc277d6b55d0508b09eace80e5cd6d132.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_水逆退散]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d34cacb39329059bdbbf527024e68664e78dba8d.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_法外狂徒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/221cd4f3abb91946bd024e57b926659b4e9e53ff.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_秤不住啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/549ba5fd11175a92c96106e6f9227ccb79a18d3e.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_端水大师]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/44da934e8ecb1f75bbc25e158f210e1c0436b1e7.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_肃静]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0020774791d4410efd26cd9c9129fc2bfee8a83f.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_诸事不顺]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/11aeba0ab39c11d9c31a4f3617c6400ed3581582.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[神秘星曲 天秤座_诸事皆宜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c3ef607238ee8b04e737241d556c3431299cee04.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1684298919001,
 				"name":"神秘星曲 天秤座",
-				"tab_id":0,
 				"suit_item_id":113738501,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1684298780001,
 				"name":"神秘星曲 天秤座",
-				"tab_id":0,
 				"suit_item_id":113738501,
 				"properties":{
 					"fan_no_color":"#ffffff",

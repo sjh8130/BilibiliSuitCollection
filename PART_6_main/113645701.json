@@ -35,7 +35,6 @@
 			{
 				"item_id":1684219882001,
 				"name":"坠落",
-				"tab_id":0,
 				"suit_item_id":113645701,
 				"properties":{
 					"fan_no_color":"#4D40E6",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1684219882002,
 				"name":"坠落粉丝",
-				"tab_id":0,
 				"suit_item_id":113645701,
 				"properties":{
 					"fan_no_color":"#4D40E6",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1684220048001,
 				"name":"豆豆眼",
-				"tab_id":0,
 				"suit_item_id":113645701,
 				"properties":{
 					"fan_no_color":"#4D40E6",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1684219950001,
 				"name":"坠落",
-				"tab_id":0,
 				"suit_item_id":113645701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5d89bd254dc22e7e266e19b5b8302ac22389ace7.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"athlete\",\"image\":\"https://i0.hdslb.com/bfs/garb/6cd048d5243be8b64414c2caec70d98aae6ca95a.png\"},{\"name\":\"model\",\"image\":\"https://i0.hdslb.com/bfs/garb/c212d1934612ba5f87bd4569bf8fb226f1a8a32d.png\"},{\"name\":\"dancer\",\"image\":\"https://i0.hdslb.com/bfs/garb/91348ce96e33e623c41b8385daf4c80a79714749.png\"},{\"name\":\"designer\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b3284918cc3e4b9ebeb866b3e3f8ce96c7c906b.png\"},{\"name\":\"musician\",\"image\":\"https://i0.hdslb.com/bfs/garb/29c248530e556156dd63da56538e9b305b54d5ca.png\"},{\"name\":\"上班族\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a033eeb32d0dd274d5c8b8b0e959c175d26964b.png\"},{\"name\":\"fashion\",\"image\":\"https://i0.hdslb.com/bfs/garb/50fa36a126c44fbdbae4f8e1ccde71e070b21b1b.png\"},{\"name\":\"友女\",\"image\":\"https://i0.hdslb.com/bfs/garb/3926abb5e4fa8f8ecbe423da6e008c5442fc3c2a.png\"},{\"name\":\"友仔\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5f9023c6874951c3a1e325af2bebb84b1700bbe.png\"},{\"name\":\"滑板少年\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c987a6be089e129fb1b03722d65ac2a21f15e42.png\"},{\"name\":\"在校生\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b4f50ca589aca698b431df7bfb459a85620d66d.png\"},{\"name\":\"Hiphop\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a828206cef32e7b27f82d6f3583e26cbb690ce5.png\"},{\"name\":\"爱狗人士\",\"image\":\"https://i0.hdslb.com/bfs/garb/2fc99a9a8f77e8cedeefa6fd15a342cd623923a5.png\"},{\"name\":\"爱猫人士\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0dd9aeb04929c4d9541ac1d0717ad49888c1097.png\"},{\"name\":\"萝莉\",\"image\":\"https://i0.hdslb.com/bfs/garb/71beeeea293c506de05753eb76561325dd98e790.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_Hiphop]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8a828206cef32e7b27f82d6f3583e26cbb690ce5.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_athlete]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6cd048d5243be8b64414c2caec70d98aae6ca95a.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_dancer]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/91348ce96e33e623c41b8385daf4c80a79714749.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_designer]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6b3284918cc3e4b9ebeb866b3e3f8ce96c7c906b.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_fashion]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/50fa36a126c44fbdbae4f8e1ccde71e070b21b1b.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_model]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c212d1934612ba5f87bd4569bf8fb226f1a8a32d.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_musician]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/29c248530e556156dd63da56538e9b305b54d5ca.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_上班族]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1a033eeb32d0dd274d5c8b8b0e959c175d26964b.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_友仔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a5f9023c6874951c3a1e325af2bebb84b1700bbe.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_友女]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3926abb5e4fa8f8ecbe423da6e008c5442fc3c2a.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_在校生]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4b4f50ca589aca698b431df7bfb459a85620d66d.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_滑板少年]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6c987a6be089e129fb1b03722d65ac2a21f15e42.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_爱狗人士]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2fc99a9a8f77e8cedeefa6fd15a342cd623923a5.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_爱猫人士]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f0dd9aeb04929c4d9541ac1d0717ad49888c1097.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[坠落_萝莉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/71beeeea293c506de05753eb76561325dd98e790.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1684220015001,
 				"name":"坠落",
-				"tab_id":0,
 				"suit_item_id":113645701,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1684219987001,
 				"name":"坠落",
-				"tab_id":0,
 				"suit_item_id":113645701,
 				"properties":{
 					"fan_no_color":"#ffffff",

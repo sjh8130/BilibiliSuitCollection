@@ -35,7 +35,6 @@
 			{
 				"item_id":1736918401001,
 				"name":"水色天使.幻境系列1",
-				"tab_id":0,
 				"suit_item_id":301562501,
 				"properties":{
 					"fan_no_color":"#46B8FF",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1736918401002,
 				"name":"水色天使.幻境系列1粉丝",
-				"tab_id":0,
 				"suit_item_id":301562501,
 				"properties":{
 					"fan_no_color":"#46B8FF",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1736918705001,
 				"name":"水色天使.幻境系列1",
-				"tab_id":0,
 				"suit_item_id":301562501,
 				"properties":{
 					"fan_no_color":"#46B8FF",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1736945450001,
 				"name":"水色天使.幻境系列1",
-				"tab_id":0,
 				"suit_item_id":301562501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/024d93100bb3daea2f2547aca87b5c8fecb88de9.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"天使光线\",\"image\":\"https://i0.hdslb.com/bfs/garb/94ab4d35b1976b384854235dc314d1bac7fefdd7.png\"},{\"name\":\"祈祷\",\"image\":\"https://i0.hdslb.com/bfs/garb/6939b2ee8cfca1631eb9b9aeeee0073be7c1ec50.png\"},{\"name\":\"让我看看\",\"image\":\"https://i0.hdslb.com/bfs/garb/3429c791c8c05483cd97a078991500d2fbe19b3a.png\"},{\"name\":\"逼近\",\"image\":\"https://i0.hdslb.com/bfs/garb/15ad6ff739948d98d7ba1d0632beb226c4f7d62a.png\"},{\"name\":\"指指点点\",\"image\":\"https://i0.hdslb.com/bfs/garb/e403c60914a54633d3ce389b5a4553c1beeda85a.png\"},{\"name\":\"墨镜\",\"image\":\"https://i0.hdslb.com/bfs/garb/828184e5abfa14b36ee38a822930e32a23f8f531.png\"},{\"name\":\"吃惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/915921b0dba6a24facc24e48c83738c5b8dfe7dc.png\"},{\"name\":\"马上治疗\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ef544265ba7aef657ef243b37bdf3c40f092b8e.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/f66e3bbfcd5ae6e4623b184e27ffd2333074a73e.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/46dfaad8bc9ec4550b43b79eaadc899a9a263c13.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/a56279136a5e775bc13b532a31680183226e4d80.png\"},{\"name\":\"你醒醒\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4be5d33c0aad201d6a27b06f69fc7885a664cd3.png\"},{\"name\":\"裂开\",\"image\":\"https://i0.hdslb.com/bfs/garb/ffa8c411f9d8faa721bdb86f4d70638c0d137013.png\"},{\"name\":\"烦\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8139c450cc510e2e4018bfc9f3def6b0af8eb4a.png\"},{\"name\":\"哼！\",\"image\":\"https://i0.hdslb.com/bfs/garb/b20d654fd753a7976e6c2999831b69829daa0206.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,8 +99,55 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[水色天使.幻境系列1_你醒醒]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c4be5d33c0aad201d6a27b06f69fc7885a664cd3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[水色天使.幻境系列1_加油]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a56279136a5e775bc13b532a31680183226e4d80.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[水色天使.幻境系列1_吃惊]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/915921b0dba6a24facc24e48c83738c5b8dfe7dc.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[水色天使.幻境系列1_哇]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f66e3bbfcd5ae6e4623b184e27ffd2333074a73e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[水色天使.幻境系列1_哼！]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b20d654fd753a7976e6c2999831b69829daa0206.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[水色天使.幻境系列1_墨镜]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/828184e5abfa14b36ee38a822930e32a23f8f531.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[水色天使.幻境系列1_天使光线]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/94ab4d35b1976b384854235dc314d1bac7fefdd7.png",
 							"sale_type":"pay"
@@ -113,8 +155,31 @@
 					},
 					{
 						"item_id":0,
+						"name":"[水色天使.幻境系列1_指指点点]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e403c60914a54633d3ce389b5a4553c1beeda85a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[水色天使.幻境系列1_流汗]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/46dfaad8bc9ec4550b43b79eaadc899a9a263c13.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[水色天使.幻境系列1_烦]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e8139c450cc510e2e4018bfc9f3def6b0af8eb4a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[水色天使.幻境系列1_祈祷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6939b2ee8cfca1631eb9b9aeeee0073be7c1ec50.png",
 							"sale_type":"pay"
@@ -122,8 +187,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[水色天使.幻境系列1_裂开]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ffa8c411f9d8faa721bdb86f4d70638c0d137013.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[水色天使.幻境系列1_让我看看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3429c791c8c05483cd97a078991500d2fbe19b3a.png",
 							"sale_type":"pay"
@@ -132,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[水色天使.幻境系列1_逼近]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/15ad6ff739948d98d7ba1d0632beb226c4f7d62a.png",
 							"sale_type":"pay"
@@ -140,100 +211,9 @@
 					},
 					{
 						"item_id":0,
-						"name":"[水色天使.幻境系列1_指指点点]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e403c60914a54633d3ce389b5a4553c1beeda85a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[水色天使.幻境系列1_墨镜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/828184e5abfa14b36ee38a822930e32a23f8f531.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[水色天使.幻境系列1_吃惊]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/915921b0dba6a24facc24e48c83738c5b8dfe7dc.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[水色天使.幻境系列1_马上治疗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3ef544265ba7aef657ef243b37bdf3c40f092b8e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[水色天使.幻境系列1_哇]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f66e3bbfcd5ae6e4623b184e27ffd2333074a73e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[水色天使.幻境系列1_流汗]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/46dfaad8bc9ec4550b43b79eaadc899a9a263c13.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[水色天使.幻境系列1_加油]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a56279136a5e775bc13b532a31680183226e4d80.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[水色天使.幻境系列1_你醒醒]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c4be5d33c0aad201d6a27b06f69fc7885a664cd3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[水色天使.幻境系列1_裂开]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ffa8c411f9d8faa721bdb86f4d70638c0d137013.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[水色天使.幻境系列1_烦]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e8139c450cc510e2e4018bfc9f3def6b0af8eb4a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[水色天使.幻境系列1_哼！]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b20d654fd753a7976e6c2999831b69829daa0206.png",
 							"sale_type":"pay"
 						}
 					}
@@ -244,7 +224,6 @@
 			{
 				"item_id":1736946874001,
 				"name":"水色天使.幻境系列1",
-				"tab_id":0,
 				"suit_item_id":301562501,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1736850405001,
 				"name":"水色天使.幻境系列1",
-				"tab_id":0,
 				"suit_item_id":301562501,
 				"properties":{
 					"fan_no_color":"#ffffff",

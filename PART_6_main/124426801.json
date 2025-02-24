@@ -36,7 +36,6 @@
 			{
 				"item_id":1693529606001,
 				"name":"人格贴纸-ENFJ",
-				"tab_id":0,
 				"suit_item_id":124426801,
 				"properties":{
 					"fan_no_color":"#21AE6B",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1693529606002,
 				"name":"人格贴纸-ENFJ粉丝",
-				"tab_id":0,
 				"suit_item_id":124426801,
 				"properties":{
 					"fan_no_color":"#21AE6B",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1693529624001,
 				"name":"人格贴纸-ENFJ",
-				"tab_id":0,
 				"suit_item_id":124426801,
 				"properties":{
 					"fan_no_color":"#75A67C",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1693529707001,
 				"name":"人格贴纸-ENFJ",
-				"tab_id":0,
 				"suit_item_id":124426801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/12d24d1372c8fa4281516f4edd0a460c32868ba4.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"呀灭纳塞\",\"image\":\"https://i0.hdslb.com/bfs/garb/83d775b8f9b212ea23cfe362085a057ae19e6e83.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/3700c703d2090cb7832cfa13f2b4c9ccaf6760af.png\"},{\"name\":\"点赞星人\",\"image\":\"https://i0.hdslb.com/bfs/garb/208d6fffc6545bfb03b4bdaf536091b40313012f.png\"},{\"name\":\"夸夸\",\"image\":\"https://i0.hdslb.com/bfs/garb/07641a550628d5973af9c707c49f033b685991e3.png\"},{\"name\":\"强壮\",\"image\":\"https://i0.hdslb.com/bfs/garb/0802bf1af702cf5ee97b50e86d8b8e918def0eba.png\"},{\"name\":\"呜呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ea0495e22f6d62931a49b57052b9f69f9c17120.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/98482345416026ce24a0c1d6b9cb1e4f682f2981.png\"},{\"name\":\"愣住\",\"image\":\"https://i0.hdslb.com/bfs/garb/2082c20542f9aed2a7ace7d6aa03a44fd4afead1.png\"},{\"name\":\"魁梧男子\",\"image\":\"https://i0.hdslb.com/bfs/garb/565e68ae2ff20db8616d74bad26029a0934de622.png\"},{\"name\":\"给你点了\",\"image\":\"https://i0.hdslb.com/bfs/garb/835740bbab2cbbdf86adb4d2f3071871d5702a0d.png\"},{\"name\":\"power\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8e1c06d346d73139d297f660cdbb162a36c18e3.png\"},{\"name\":\"绳之以法\",\"image\":\"https://i0.hdslb.com/bfs/garb/9006175433fee2ea416937d7b4c8dcc1407a1766.png\"},{\"name\":\"跟你拼了\",\"image\":\"https://i0.hdslb.com/bfs/garb/591d77e9aef4add4d74c66530c9dd7caf9d29662.png\"},{\"name\":\"英雄登场\",\"image\":\"https://i0.hdslb.com/bfs/garb/bac6606471a50ce7d3e35f4f8ca7bd9b3989f7f2.png\"},{\"name\":\"烦了\",\"image\":\"https://i0.hdslb.com/bfs/garb/94774e50db5a0e5dc0be4cb2396f988705cf8fcd.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_power]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e8e1c06d346d73139d297f660cdbb162a36c18e3.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_呀灭纳塞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/83d775b8f9b212ea23cfe362085a057ae19e6e83.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_呜呜呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7ea0495e22f6d62931a49b57052b9f69f9c17120.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_啊？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/98482345416026ce24a0c1d6b9cb1e4f682f2981.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_夸夸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/07641a550628d5973af9c707c49f033b685991e3.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3700c703d2090cb7832cfa13f2b4c9ccaf6760af.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_强壮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0802bf1af702cf5ee97b50e86d8b8e918def0eba.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_愣住]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2082c20542f9aed2a7ace7d6aa03a44fd4afead1.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_点赞星人]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/208d6fffc6545bfb03b4bdaf536091b40313012f.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_烦了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/94774e50db5a0e5dc0be4cb2396f988705cf8fcd.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_给你点了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/835740bbab2cbbdf86adb4d2f3071871d5702a0d.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_绳之以法]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9006175433fee2ea416937d7b4c8dcc1407a1766.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_英雄登场]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bac6606471a50ce7d3e35f4f8ca7bd9b3989f7f2.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_跟你拼了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/591d77e9aef4add4d74c66530c9dd7caf9d29662.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[人格贴纸-ENFJ_魁梧男子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/565e68ae2ff20db8616d74bad26029a0934de622.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1693529769001,
 				"name":"人格贴纸-ENFJ",
-				"tab_id":0,
 				"suit_item_id":124426801,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1693529647001,
 				"name":"人格贴纸-ENFJ",
-				"tab_id":0,
 				"suit_item_id":124426801,
 				"properties":{
 					"fan_no_color":"#ffffff",

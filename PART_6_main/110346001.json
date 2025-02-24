@@ -35,7 +35,6 @@
 			{
 				"item_id":1681369147001,
 				"name":"像素布莱克",
-				"tab_id":0,
 				"suit_item_id":110346001,
 				"properties":{
 					"fan_no_color":"#774FA0",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1681370130001,
 				"name":"像素布莱克粉丝",
-				"tab_id":0,
 				"suit_item_id":110346001,
 				"properties":{
 					"fan_no_color":"#774FA0",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1681369275001,
 				"name":"像素布莱克",
-				"tab_id":0,
 				"suit_item_id":110346001,
 				"properties":{
 					"fan_no_color":"#774FA0",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1681369610001,
 				"name":"像素布莱克",
-				"tab_id":0,
 				"suit_item_id":110346001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1829981eb9bc81bc82db649be024712a716943fc.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"禁止\",\"image\":\"https://i0.hdslb.com/bfs/garb/f20203457aed444787e07fda4ca1a6d5c0018de7.png\"},{\"name\":\"发财\",\"image\":\"https://i0.hdslb.com/bfs/garb/39d66fc9e0b365094c3415a0251d4b0c39d8e031.png\"},{\"name\":\"你好\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b4f6a433e852dfdd2d8440ff83e90bf4f6c6a94.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/210a54e776dd5125796e9b59c1807cb10dcaa2cd.png\"},{\"name\":\"狂热\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7f989782d6043417d1718977c47f0a45be2db9c.png\"},{\"name\":\"加载中\",\"image\":\"https://i0.hdslb.com/bfs/garb/995dbc1ce10c15a9f52c7cc9fa5078ae93a81e4c.png\"},{\"name\":\"伤心\",\"image\":\"https://i0.hdslb.com/bfs/garb/138c61470e38c746afd9bfb60b4371959a799743.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/821c5ed7d9e05af37a5982592b22bb3d42bff4e0.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/870715a92e9d497ae0c7eabfb674d6763ab2ebfd.png\"},{\"name\":\"瞌睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5756c45d09ec5635b7f163058e72381f2d58941.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/10d420cfb6584d045cc38c81c6c8ac1c2b840a77.png\"},{\"name\":\"送温暖\",\"image\":\"https://i0.hdslb.com/bfs/garb/2e26b612760665bdf81845b472a2b4f23afd47bc.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/20975285b628c88066036626ae9c924cb1ecb71c.png\"},{\"name\":\"拳拳到肉\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9d2619486295dad0e597642dadda6e8d4b7eda1.png\"},{\"name\":\"华丽退场\",\"image\":\"https://i0.hdslb.com/bfs/garb/f688ff47ade0c6f047695f2361760b039e3eabb8.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_伤心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/138c61470e38c746afd9bfb60b4371959a799743.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_你好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9b4f6a433e852dfdd2d8440ff83e90bf4f6c6a94.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_加载中]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/995dbc1ce10c15a9f52c7cc9fa5078ae93a81e4c.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_华丽退场]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f688ff47ade0c6f047695f2361760b039e3eabb8.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_发财]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/39d66fc9e0b365094c3415a0251d4b0c39d8e031.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_委屈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/10d420cfb6584d045cc38c81c6c8ac1c2b840a77.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_拳拳到肉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f9d2619486295dad0e597642dadda6e8d4b7eda1.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20975285b628c88066036626ae9c924cb1ecb71c.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/210a54e776dd5125796e9b59c1807cb10dcaa2cd.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_狂热]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e7f989782d6043417d1718977c47f0a45be2db9c.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/870715a92e9d497ae0c7eabfb674d6763ab2ebfd.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_瞌睡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b5756c45d09ec5635b7f163058e72381f2d58941.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_禁止]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f20203457aed444787e07fda4ca1a6d5c0018de7.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_送温暖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2e26b612760665bdf81845b472a2b4f23afd47bc.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[像素布莱克_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/821c5ed7d9e05af37a5982592b22bb3d42bff4e0.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1681370116001,
 				"name":"像素布莱克",
-				"tab_id":0,
 				"suit_item_id":110346001,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1681369545001,
 				"name":"像素布莱克",
-				"tab_id":0,
 				"suit_item_id":110346001,
 				"properties":{
 					"fan_no_color":"#ffffff",

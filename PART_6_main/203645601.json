@@ -36,7 +36,6 @@
 			{
 				"item_id":1707573223001,
 				"name":"推的孩子",
-				"tab_id":0,
 				"suit_item_id":203645601,
 				"properties":{
 					"fan_no_color":"#AA8431",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1707573223002,
 				"name":"推的孩子粉丝",
-				"tab_id":0,
 				"suit_item_id":203645601,
 				"properties":{
 					"fan_no_color":"#AA8431",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1707574274001,
 				"name":"梭哈",
-				"tab_id":0,
 				"suit_item_id":203645601,
 				"properties":{
 					"fan_no_color":"#000000",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1707132989001,
 				"name":"我推的孩子",
-				"tab_id":0,
 				"suit_item_id":203645601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/33993bb25b4971fdc199430b9a768ba1cba02223.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"技术性调整\",\"image\":\"https://i0.hdslb.com/bfs/garb/556dde6d2f96b4f6cd49dd2dadccbb123f9f9ab9.png\"},{\"name\":\"大丰收\",\"image\":\"https://i0.hdslb.com/bfs/garb/6266952fea09f5f86e2417f0cac2401c1ff91623.png\"},{\"name\":\"上天台\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c63dcd807e6568d2ddd48bc9d02e3bb9336df82.png\"},{\"name\":\"我推的孩子\",\"image\":\"https://i0.hdslb.com/bfs/garb/10dc1fc229bf2e00b78e1669fafeac226051a2a1.png\"},{\"name\":\"是一种智慧\",\"image\":\"https://i0.hdslb.com/bfs/garb/496101fe2d1defc1fe95ef0a356115fb63c0b6c4.png\"},{\"name\":\"抄底\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a7ea74d31276237da7bb96633dd299ffb4ce1ab.png\"},{\"name\":\"涨\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e7d47273646056ffb3b2a31567ebf85f2db43f1.png\"},{\"name\":\"全仓\",\"image\":\"https://i0.hdslb.com/bfs/garb/92bf38cf6179af23e873b65049369bc8cc8ab721.png\"},{\"name\":\"跌\",\"image\":\"https://i0.hdslb.com/bfs/garb/a446247cf72be481866a7cbdc534c2d68d4d7164.png\"},{\"name\":\"加仓\",\"image\":\"https://i0.hdslb.com/bfs/garb/d062cc6aa638eee8b160044b19430fe2f3f1cf2d.png\"},{\"name\":\"去哪儿了\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d30d2a1507c296d46f1a4c4cf5c6951dcd22381.png\"},{\"name\":\"买\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6ac73e6c689c6109567a8e6081fe16c4c716b1e.png\"},{\"name\":\"冲\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc2e48419da4e2aef2ce5d1892be336a7372aee5.png\"},{\"name\":\"卖\",\"image\":\"https://i0.hdslb.com/bfs/garb/32b28c4926da1bac73f060fe7eaba3c713c22da6.png\"},{\"name\":\"保佑\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3bafb3cfefeb55861fa5f43c9ba20e481377c14.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_上天台]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6c63dcd807e6568d2ddd48bc9d02e3bb9336df82.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_买]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d6ac73e6c689c6109567a8e6081fe16c4c716b1e.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_保佑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c3bafb3cfefeb55861fa5f43c9ba20e481377c14.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_全仓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/92bf38cf6179af23e873b65049369bc8cc8ab721.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_冲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dc2e48419da4e2aef2ce5d1892be336a7372aee5.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_加仓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d062cc6aa638eee8b160044b19430fe2f3f1cf2d.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_卖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/32b28c4926da1bac73f060fe7eaba3c713c22da6.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_去哪儿了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d30d2a1507c296d46f1a4c4cf5c6951dcd22381.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_大丰收]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6266952fea09f5f86e2417f0cac2401c1ff91623.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_我推的孩子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/10dc1fc229bf2e00b78e1669fafeac226051a2a1.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_技术性调整]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/556dde6d2f96b4f6cd49dd2dadccbb123f9f9ab9.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_抄底]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0a7ea74d31276237da7bb96633dd299ffb4ce1ab.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_是一种智慧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/496101fe2d1defc1fe95ef0a356115fb63c0b6c4.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_涨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9e7d47273646056ffb3b2a31567ebf85f2db43f1.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[我推的孩子_跌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a446247cf72be481866a7cbdc534c2d68d4d7164.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1707577702001,
 				"name":"推的孩子",
-				"tab_id":0,
 				"suit_item_id":203645601,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1707572014001,
 				"name":"推的孩子",
-				"tab_id":0,
 				"suit_item_id":203645601,
 				"properties":{
 					"fan_no_color":"#ffffff",

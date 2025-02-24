@@ -35,7 +35,6 @@
 			{
 				"item_id":1692786146001,
 				"name":"祝你好眠",
-				"tab_id":0,
 				"suit_item_id":123654301,
 				"properties":{
 					"fan_no_color":"#F88811",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1692786146002,
 				"name":"祝你好眠粉丝",
-				"tab_id":0,
 				"suit_item_id":123654301,
 				"properties":{
 					"fan_no_color":"#F88811",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1692786168001,
 				"name":"祝你好眠",
-				"tab_id":0,
 				"suit_item_id":123654301,
 				"properties":{
 					"fan_no_color":"#FFAC27",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1692786339001,
 				"name":"祝你好眠",
-				"tab_id":0,
 				"suit_item_id":123654301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/68d432f96eade37c8c1b208f3ef466ece974ed71.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/28ade1bf3ebebc6a22b616fc649505119908c0e3.png\"},{\"name\":\"给你一拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd6e35b097b3adaa4af7163a4657c4946ef57b26.png\"},{\"name\":\"睡了\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e6ed28c65f14f2b0126b427120f83b127af20b9.png\"},{\"name\":\"嘬奶\",\"image\":\"https://i0.hdslb.com/bfs/garb/b87c93ea6302eecdb9a1916c237795f0f03c9c78.png\"},{\"name\":\"重锤出击\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e88ab5efc6f5cd608d046948c33f13762cd7fb4.png\"},{\"name\":\"天亮了\",\"image\":\"https://i0.hdslb.com/bfs/garb/752709c78adab10ab4b92252dd4addea2c36bef2.png\"},{\"name\":\"满脑子都是\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff599677e2568571c2eb1bf474d90d56249cd293.png\"},{\"name\":\"EW\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a1c0de5db65217c016cb9856689edfa5c52afce.png\"},{\"name\":\"自闭\",\"image\":\"https://i0.hdslb.com/bfs/garb/518ec48c8fb9499f1f10d0e1f1be6793586368c1.png\"},{\"name\":\"谁敢睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6e5282db3fa3d63ec0830b1deaae7e900207149.png\"},{\"name\":\"吃番茄酱\",\"image\":\"https://i0.hdslb.com/bfs/garb/2980a84bd622237fb5952a0d0dc87cc56d032764.png\"},{\"name\":\"蛋包饭猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0a4dc9c10b6b0cba8c250fd0319d437df5915da.png\"},{\"name\":\"油炸猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/1213d86ae78c81f6d24071692fd1e056018f279e.png\"},{\"name\":\"倒头就睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/a18d690c4566b325525aef3f17a4834655f38552.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd86448c462adf428f268c71f9d6eee0ca8a98e0.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_EW]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a1c0de5db65217c016cb9856689edfa5c52afce.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_倒头就睡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a18d690c4566b325525aef3f17a4834655f38552.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_吃番茄酱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2980a84bd622237fb5952a0d0dc87cc56d032764.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_嘬奶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b87c93ea6302eecdb9a1916c237795f0f03c9c78.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_天亮了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/752709c78adab10ab4b92252dd4addea2c36bef2.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/28ade1bf3ebebc6a22b616fc649505119908c0e3.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_油炸猫猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1213d86ae78c81f6d24071692fd1e056018f279e.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_满脑子都是]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ff599677e2568571c2eb1bf474d90d56249cd293.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bd86448c462adf428f268c71f9d6eee0ca8a98e0.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_睡了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e6ed28c65f14f2b0126b427120f83b127af20b9.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_给你一拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bd6e35b097b3adaa4af7163a4657c4946ef57b26.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_自闭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/518ec48c8fb9499f1f10d0e1f1be6793586368c1.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_蛋包饭猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f0a4dc9c10b6b0cba8c250fd0319d437df5915da.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_谁敢睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b6e5282db3fa3d63ec0830b1deaae7e900207149.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[祝你好眠_重锤出击]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8e88ab5efc6f5cd608d046948c33f13762cd7fb4.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1692786502001,
 				"name":"祝你好眠",
-				"tab_id":0,
 				"suit_item_id":123654301,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1692786198001,
 				"name":"祝你好眠",
-				"tab_id":0,
 				"suit_item_id":123654301,
 				"properties":{
 					"fan_no_color":"#ffffff",

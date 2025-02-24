@@ -2,7 +2,7 @@
 	"id":3290,
 	"text":"装扮小姐姐专属",
 	"url":"https://i0.hdslb.com/bfs/garb/item/eab164c4cc080d0be3503609badec1a0f7a69627.png",
-	"mtime":1692958492,
+	"mtime":1737969195,
 	"type":3,
 	"attr":28,
 	"meta":{
@@ -212,6 +212,18 @@
 			"meta":{
 				"size":2,
 				"alias":"福利"
+			}
+		},
+		{
+			"id":103310,
+			"package_id":3290,
+			"text":"[装扮小姐姐专属_新年快乐]",
+			"url":"https://i0.hdslb.com/bfs/emote/d4d500bc4b1ee93caa5a5fd0fd19731229c55845.png",
+			"mtime":1737969195,
+			"type":3,
+			"meta":{
+				"size":2,
+				"alias":"新年快乐"
 			}
 		}
 	]

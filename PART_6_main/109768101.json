@@ -35,7 +35,6 @@
 			{
 				"item_id":1680851308001,
 				"name":"李培楠开酒纪念装扮",
-				"tab_id":0,
 				"suit_item_id":109768101,
 				"properties":{
 					"fan_no_color":"#3D57EA",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1680851308002,
 				"name":"李培楠开酒纪念装扮粉丝",
-				"tab_id":0,
 				"suit_item_id":109768101,
 				"properties":{
 					"fan_no_color":"#3D57EA",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1680877790001,
 				"name":"李少开酒",
-				"tab_id":0,
 				"suit_item_id":109768101,
 				"properties":{
 					"fan_no_color":"#3741F7",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1680851474001,
 				"name":"我们是冠军表情包",
-				"tab_id":0,
 				"suit_item_id":109768101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/519e79ac9575d279d75ed110b76d3db115d2b2cb.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7e98f8027551f6701741a3ca6e3765e2cda0032.png\"},{\"name\":\"银杯子\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1a24e37256ff4fb4ff13ee7759a1e22dec0cbdf.png\"},{\"name\":\"蓝带子\",\"image\":\"https://i0.hdslb.com/bfs/garb/43757b4d7aafb851069f0b3b2e90a4c05cd1a499.png\"},{\"name\":\"他们黑我\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a3bcda6c159cdddac84415fbceb71b509b5ab2c.png\"},{\"name\":\"鼓掌\",\"image\":\"https://i0.hdslb.com/bfs/garb/8289003d7452141e80854f41e646ce2e053abd53.png\"},{\"name\":\"Payman\",\"image\":\"https://i0.hdslb.com/bfs/garb/a949b1706c5eddbf4d40ac25054f057ef8b8192b.png\"},{\"name\":\"野人一拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/a60a4985efa247dfa73287d6c50ce7675df3295e.png\"},{\"name\":\"肌肉\",\"image\":\"https://i0.hdslb.com/bfs/garb/c260f7ef4642fa0057bd6e5ce4492d9c7f2559d6.png\"},{\"name\":\"妈耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/3793c70dce4e3ceda9e18af9dbccca04e4067351.png\"},{\"name\":\"拍头\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ff61c36c9add2a2c8549d66d9eed2aef827b78c.png\"},{\"name\":\"寄\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c74e0337a63be11dd74cf551dc6e713b8e92852.png\"},{\"name\":\"什么鬼\",\"image\":\"https://i0.hdslb.com/bfs/garb/06ec71ee794f4c396131a8648ce57a795ce890a5.png\"},{\"name\":\"开酒\",\"image\":\"https://i0.hdslb.com/bfs/garb/7eb9a2de83bd78fa72cc89a9cc21853b87fa364c.png\"},{\"name\":\"谁在夸我\",\"image\":\"https://i0.hdslb.com/bfs/garb/0cb3620916a165e908b5e6167eeb9cf47c70fc4e.png\"},{\"name\":\"一道组特\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b233303441835db92a146dc868aff43830932e5.png\"},{\"name\":\"挠头\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c5d021ef494195cf015145571f74e8631ee23b7.png\"},{\"name\":\"一键三连\",\"image\":\"https://i0.hdslb.com/bfs/garb/00a32c9592a123dc8081403e64c58c2b9fbd9d68.png\"},{\"name\":\"赢啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/9deef299d54612c2433522a78b6c773beb379234.png\"},{\"name\":\"你醒啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/0befb280e97e78b4366f8a070d6b6cd24dc99b3b.png\"},{\"name\":\"洗碗工\",\"image\":\"https://i0.hdslb.com/bfs/garb/92d0e97d1a80a070c587a8d4295375625f19a0e2.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_Payman]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a949b1706c5eddbf4d40ac25054f057ef8b8192b.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_一道组特]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5b233303441835db92a146dc868aff43830932e5.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_一键三连]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/00a32c9592a123dc8081403e64c58c2b9fbd9d68.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_什么鬼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/06ec71ee794f4c396131a8648ce57a795ce890a5.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_他们黑我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2a3bcda6c159cdddac84415fbceb71b509b5ab2c.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_你醒啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0befb280e97e78b4366f8a070d6b6cd24dc99b3b.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_妈耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3793c70dce4e3ceda9e18af9dbccca04e4067351.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_寄]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3c74e0337a63be11dd74cf551dc6e713b8e92852.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_开酒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7eb9a2de83bd78fa72cc89a9cc21853b87fa364c.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_拍头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9ff61c36c9add2a2c8549d66d9eed2aef827b78c.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_挠头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6c5d021ef494195cf015145571f74e8631ee23b7.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_洗碗工]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/92d0e97d1a80a070c587a8d4295375625f19a0e2.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a7e98f8027551f6701741a3ca6e3765e2cda0032.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_肌肉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c260f7ef4642fa0057bd6e5ce4492d9c7f2559d6.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_蓝带子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/43757b4d7aafb851069f0b3b2e90a4c05cd1a499.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_谁在夸我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0cb3620916a165e908b5e6167eeb9cf47c70fc4e.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_赢啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9deef299d54612c2433522a78b6c773beb379234.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_野人一拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a60a4985efa247dfa73287d6c50ce7675df3295e.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_银杯子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c1a24e37256ff4fb4ff13ee7759a1e22dec0cbdf.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[我们是冠军表情包_鼓掌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8289003d7452141e80854f41e646ce2e053abd53.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1680878133001,
 				"name":"李少开酒",
-				"tab_id":0,
 				"suit_item_id":109768101,
 				"properties":{
 					"color":"#ffffff",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1680877828001,
 				"name":"李少开酒",
-				"tab_id":0,
 				"suit_item_id":109768101,
 				"properties":{
 					"fan_no_color":"#ffffff",

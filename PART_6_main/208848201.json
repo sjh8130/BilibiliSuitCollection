@@ -36,7 +36,6 @@
 			{
 				"item_id":1711544167001,
 				"name":"以闪亮之名一周年动态卡片",
-				"tab_id":0,
 				"suit_item_id":208848201,
 				"properties":{
 					"fan_no_color":"#FF6464",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1711544167002,
 				"name":"以闪亮之名一周年动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":208848201,
 				"properties":{
 					"fan_no_color":"#FF6464",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1711612897001,
 				"name":"以闪亮之名一周年评论背景",
-				"tab_id":0,
 				"suit_item_id":208848201,
 				"properties":{
 					"fan_no_color":"#AD0000",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1711544266001,
 				"name":"以闪亮之名一周年表情包",
-				"tab_id":0,
 				"suit_item_id":208848201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/99f696010eec1b850b51cb1f466d2198368eff67.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ef7769b51fb03932833b6e8bce59a9da4e096e5.png\"},{\"name\":\"生日\",\"image\":\"https://i0.hdslb.com/bfs/garb/95276ff039e46b1feacd00eb030bb28392952956.png\"},{\"name\":\"吃蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/16c2eae72b7415ec68ba35042e5922908c203572.png\"},{\"name\":\"转圈\",\"image\":\"https://i0.hdslb.com/bfs/garb/43b0986e1f1217deed2a647af254664e001e3477.png\"},{\"name\":\"吹蜡烛\",\"image\":\"https://i0.hdslb.com/bfs/garb/de120c9f010d33b3c2fff107e15c47226a4aa423.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/dfd84e7d27931e81067c0c7a96b5b350196f2dfc.png\"},{\"name\":\"许愿\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f91640e43dff45133c1dfb160648bbb1d284a96.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/48970888b6d7db722f89fc399aa62547d2aca5bf.png\"},{\"name\":\"针不戳\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ffdb6b31f428cad4f9f596cf304c30a9ebfa67b.png\"},{\"name\":\"送你花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2170424a857489146c01d4da3f0d6e50d79daaa.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7cd9fdc18e32dce09bb6d4a4b62f078cc172e63.png\"},{\"name\":\"好运莲莲\",\"image\":\"https://i0.hdslb.com/bfs/garb/87ff5b895d22f74f4035470164c538a8f7af4699.png\"},{\"name\":\"一键三连\",\"image\":\"https://i0.hdslb.com/bfs/garb/52ac4e8932f20495807189aaccdbd5ca1b0ccdc5.png\"},{\"name\":\"荷包空了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b36487c19b566f983f160f7863f0b67b84f60b2.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0e828af99dae8b2f0e4a37ce8c6b62501486c23.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_一键三连]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/52ac4e8932f20495807189aaccdbd5ca1b0ccdc5.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_吃蛋糕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/16c2eae72b7415ec68ba35042e5922908c203572.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_吹蜡烛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/de120c9f010d33b3c2fff107e15c47226a4aa423.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_啊？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b7cd9fdc18e32dce09bb6d4a4b62f078cc172e63.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_好运莲莲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/87ff5b895d22f74f4035470164c538a8f7af4699.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/48970888b6d7db722f89fc399aa62547d2aca5bf.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dfd84e7d27931e81067c0c7a96b5b350196f2dfc.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e0e828af99dae8b2f0e4a37ce8c6b62501486c23.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_生日]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/95276ff039e46b1feacd00eb030bb28392952956.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_荷包空了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7b36487c19b566f983f160f7863f0b67b84f60b2.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_许愿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3f91640e43dff45133c1dfb160648bbb1d284a96.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1ef7769b51fb03932833b6e8bce59a9da4e096e5.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_转圈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/43b0986e1f1217deed2a647af254664e001e3477.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_送你花花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c2170424a857489146c01d4da3f0d6e50d79daaa.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[以闪亮之名一周年表情包_针不戳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8ffdb6b31f428cad4f9f596cf304c30a9ebfa67b.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1711961676001,
 				"name":"以闪亮之名一周年个性主题套装",
-				"tab_id":0,
 				"suit_item_id":208848201,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1711700767001,
 				"name":"一周年空间背景套",
-				"tab_id":0,
 				"suit_item_id":208848201,
 				"properties":{
 					"fan_no_color":"#ffffff",

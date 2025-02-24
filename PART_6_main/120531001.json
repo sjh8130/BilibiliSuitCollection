@@ -34,7 +34,6 @@
 			{
 				"item_id":1689908266001,
 				"name":"Luya 天空之境",
-				"tab_id":0,
 				"suit_item_id":120531001,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -48,7 +47,6 @@
 			{
 				"item_id":1689908266002,
 				"name":"Luya 天空之境粉丝",
-				"tab_id":0,
 				"suit_item_id":120531001,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -65,7 +63,6 @@
 			{
 				"item_id":1689908842001,
 				"name":"Luya 天空之境",
-				"tab_id":0,
 				"suit_item_id":120531001,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -80,14 +77,12 @@
 			{
 				"item_id":1690164295001,
 				"name":"Luya 天空之镜",
-				"tab_id":0,
 				"suit_item_id":120531001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d982d0282b8610299d4646b8150dfafd31d96acf.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"傲娇脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/d762e578946017a8ef7015c2c119adce989b6e6c.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e7e467dc41a32ab3765d048675b641a2e00673a.png\"},{\"name\":\"吃我一拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/87440af314e73c29a2d4586770a9b9d38974e2d2.png\"},{\"name\":\"嘬\",\"image\":\"https://i0.hdslb.com/bfs/garb/db81ce9712ba3501bbfdfaad862b6657fd974bc8.png\"},{\"name\":\"达咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/59db531d3efca2ea043f37006714c3f721c51493.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/d66d643335cd0e7898fc573c3cb06c39a79c594e.png\"},{\"name\":\"多少给点\",\"image\":\"https://i0.hdslb.com/bfs/garb/f72966fd154d6f1f2a663b653069cd1cd7d7312e.png\"},{\"name\":\"惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ec252804f006c702fea477f48bbf9a1357301ac.png\"},{\"name\":\"老板大气\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e8abbec873acfc0c6f9dade2f3235ba8c3f080e.png\"},{\"name\":\"老卤认证\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea09e87cae73409ea576e8b26ed95fb7bbb8ef3d.png\"},{\"name\":\"上车\",\"image\":\"https://i0.hdslb.com/bfs/garb/009ce85c560f386aa2a5a770f6a7e5a575b4593c.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/49e9aaa0f9e220f48166ccc9967cc319094d02ea.png\"},{\"name\":\"awsl\",\"image\":\"https://i0.hdslb.com/bfs/garb/34d922b3e8e5e31bad7461011f7db7bcc341d4fb.png\"},{\"name\":\"mua\",\"image\":\"https://i0.hdslb.com/bfs/garb/4255bf9de1d34312f61f5411e12ada462f006e76.png\"},{\"name\":\"respect\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e916e607b262bbdf5e78bf7bebcbea6d384006f.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -103,7 +98,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_awsl]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/34d922b3e8e5e31bad7461011f7db7bcc341d4fb.png",
 							"sale_type":"pay"
@@ -112,7 +106,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_mua]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4255bf9de1d34312f61f5411e12ada462f006e76.png",
 							"sale_type":"pay"
@@ -121,7 +114,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_respect]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8e916e607b262bbdf5e78bf7bebcbea6d384006f.png",
 							"sale_type":"pay"
@@ -130,7 +122,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_上车]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/009ce85c560f386aa2a5a770f6a7e5a575b4593c.png",
 							"sale_type":"pay"
@@ -139,7 +130,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_傲娇脸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d762e578946017a8ef7015c2c119adce989b6e6c.png",
 							"sale_type":"pay"
@@ -148,7 +138,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_吃我一拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/87440af314e73c29a2d4586770a9b9d38974e2d2.png",
 							"sale_type":"pay"
@@ -157,7 +146,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_嘬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db81ce9712ba3501bbfdfaad862b6657fd974bc8.png",
 							"sale_type":"pay"
@@ -166,7 +154,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_多少给点]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f72966fd154d6f1f2a663b653069cd1cd7d7312e.png",
 							"sale_type":"pay"
@@ -175,7 +162,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ec252804f006c702fea477f48bbf9a1357301ac.png",
 							"sale_type":"pay"
@@ -184,7 +170,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d66d643335cd0e7898fc573c3cb06c39a79c594e.png",
 							"sale_type":"pay"
@@ -193,7 +178,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/49e9aaa0f9e220f48166ccc9967cc319094d02ea.png",
 							"sale_type":"pay"
@@ -202,7 +186,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9e7e467dc41a32ab3765d048675b641a2e00673a.png",
 							"sale_type":"pay"
@@ -211,7 +194,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_老卤认证]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea09e87cae73409ea576e8b26ed95fb7bbb8ef3d.png",
 							"sale_type":"pay"
@@ -220,7 +202,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_老板大气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5e8abbec873acfc0c6f9dade2f3235ba8c3f080e.png",
 							"sale_type":"pay"
@@ -229,7 +210,6 @@
 					{
 						"item_id":0,
 						"name":"[Luya 天空之镜_达咩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/59db531d3efca2ea043f37006714c3f721c51493.png",
 							"sale_type":"pay"
@@ -242,7 +222,6 @@
 			{
 				"item_id":1690164178001,
 				"name":"Luya 天空之境",
-				"tab_id":0,
 				"suit_item_id":120531001,
 				"properties":{
 					"color":"#000000",
@@ -282,7 +261,6 @@
 			{
 				"item_id":1689908600001,
 				"name":"Luya 天空之境",
-				"tab_id":0,
 				"suit_item_id":120531001,
 				"properties":{
 					"fan_no_color":"#ffffff",

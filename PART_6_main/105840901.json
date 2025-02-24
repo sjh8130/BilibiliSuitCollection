@@ -36,7 +36,6 @@
 			{
 				"item_id":1677226522001,
 				"name":"小呀小辣鸡-动态卡片",
-				"tab_id":0,
 				"suit_item_id":105840901,
 				"properties":{
 					"fan_no_color":"#EAA341",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1677226522002,
 				"name":"小呀小辣鸡-动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":105840901,
 				"properties":{
 					"fan_no_color":"#EAA341",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1677226888001,
 				"name":"小呀小辣鸡-评论背景",
-				"tab_id":0,
 				"suit_item_id":105840901,
 				"properties":{
 					"fan_no_color":"#C96D17",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1677226739001,
 				"name":"小呀小辣鸡-表情包",
-				"tab_id":0,
 				"suit_item_id":105840901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d6d63cc9b80a1c3b87e2c8295dbe43680157c236.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"....\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b615eb5d13a77244eeac853a1883a70ae82026d.png\"},{\"name\":\"ok\",\"image\":\"https://i0.hdslb.com/bfs/garb/7fc7427414ac6d5408eca6523bf2a9bf15ad4fe3.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/8734b9d6b1f3d74649760af3a176e6f9c8104612.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6a878a182e6f530b0ebad1f9b9454e8a428611d.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/13bc5333f13c4bc691d4cf7f1338f2d6f7ba8de7.png\"},{\"name\":\"谢谢老板\",\"image\":\"https://i0.hdslb.com/bfs/garb/d03f2d79b891e24baf46bf3e0e23d3ab6a9e0a27.png\"},{\"name\":\"不不\",\"image\":\"https://i0.hdslb.com/bfs/garb/6834c246489ddb7886bebae9dcd93facaa50a055.png\"},{\"name\":\"呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b345cb235859e415717bf474af52c28076b3da4.png\"},{\"name\":\"emo\",\"image\":\"https://i0.hdslb.com/bfs/garb/5da1438042c01a4d38d70f49ca9bec6fd10352b5.png\"},{\"name\":\"裂开\",\"image\":\"https://i0.hdslb.com/bfs/garb/02a741cb11c7dba66090b0d877c349f26c424c51.png\"},{\"name\":\"阿哒\",\"image\":\"https://i0.hdslb.com/bfs/garb/a10f6d316f873074965c19d49e2c9d405a02671b.png\"},{\"name\":\"出来玩\",\"image\":\"https://i0.hdslb.com/bfs/garb/d34164aabd67bf302a8f5ddc5497d25ca1a1236c.png\"},{\"name\":\"真香\",\"image\":\"https://i0.hdslb.com/bfs/garb/822eca3eee7c6c514b986124b7cfe8069741785d.png\"},{\"name\":\"害\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3964cc297fe5f674d07f92a00f5b3264c877615.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/5c38cf02d11d24dbe28458efde1648afa88fef24.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_....]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9b615eb5d13a77244eeac853a1883a70ae82026d.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_emo]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5da1438042c01a4d38d70f49ca9bec6fd10352b5.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_ok]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7fc7427414ac6d5408eca6523bf2a9bf15ad4fe3.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_不不]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6834c246489ddb7886bebae9dcd93facaa50a055.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_出来玩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d34164aabd67bf302a8f5ddc5497d25ca1a1236c.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_呜呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1b345cb235859e415717bf474af52c28076b3da4.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_害]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e3964cc297fe5f674d07f92a00f5b3264c877615.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5c38cf02d11d24dbe28458efde1648afa88fef24.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8734b9d6b1f3d74649760af3a176e6f9c8104612.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c6a878a182e6f530b0ebad1f9b9454e8a428611d.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_真香]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/822eca3eee7c6c514b986124b7cfe8069741785d.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_裂开]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/02a741cb11c7dba66090b0d877c349f26c424c51.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_谢谢老板]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d03f2d79b891e24baf46bf3e0e23d3ab6a9e0a27.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_问号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/13bc5333f13c4bc691d4cf7f1338f2d6f7ba8de7.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[小呀小辣鸡-表情包_阿哒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a10f6d316f873074965c19d49e2c9d405a02671b.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1677226861001,
 				"name":"小呀小辣鸡-个性主题",
-				"tab_id":0,
 				"suit_item_id":105840901,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1677226790001,
 				"name":"小呀小辣鸡-空间背景",
-				"tab_id":0,
 				"suit_item_id":105840901,
 				"properties":{
 					"fan_no_color":"#ffffff",

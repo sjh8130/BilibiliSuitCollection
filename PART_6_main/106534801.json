@@ -35,7 +35,6 @@
 			{
 				"item_id":1678073111001,
 				"name":"龙腾九霄",
-				"tab_id":0,
 				"suit_item_id":106534801,
 				"properties":{
 					"fan_no_color":"#EBB080",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1678073111002,
 				"name":"龙腾九霄粉丝",
-				"tab_id":0,
 				"suit_item_id":106534801,
 				"properties":{
 					"fan_no_color":"#EBB080",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1678073473001,
 				"name":"龙腾九霄",
-				"tab_id":0,
 				"suit_item_id":106534801,
 				"properties":{
 					"fan_no_color":"#EBB080",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1678073173001,
 				"name":"龙腾九霄",
-				"tab_id":0,
 				"suit_item_id":106534801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2254bd07fa875b0f6d66860200f5dc20634f13eb.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"叹气\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e7a6446dc7cdf616af7f41470febf358c55a5fc.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf4939e2a630788e1a817b61fe654094fa86db0f.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/84560036f59aec6df03bb98fd68aa401bbd55a5d.png\"},{\"name\":\"失落\",\"image\":\"https://i0.hdslb.com/bfs/garb/1cc9023f47872c2ad5a21ceecd9f37bef70b997b.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/efa54de819945103dc07ec6316b1ab0e3fc87786.png\"},{\"name\":\"已黑化\",\"image\":\"https://i0.hdslb.com/bfs/garb/155bb9768e4e577a502694959e3359ff8ad53c39.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/16c4a2a2a56ad94314ddb0a43f7b0695220616a4.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a677550f45eeed92e6df8dd8f40d9ae7b08ef2b.png\"},{\"name\":\"陷入沉思\",\"image\":\"https://i0.hdslb.com/bfs/garb/41d78098005853ad1b22612a5c08450ec07481ff.png\"},{\"name\":\"喷了\",\"image\":\"https://i0.hdslb.com/bfs/garb/079fe0b3acafd9b9aaf11bba0658e8e03d2e616c.png\"},{\"name\":\"坏笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea52a04013eee474e2eab30926294a9587f20dc6.png\"},{\"name\":\"头痛\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d1614987de0f9771e7692a160dd70f18e874266.png\"},{\"name\":\"小丑是我\",\"image\":\"https://i0.hdslb.com/bfs/garb/90393b715b7c210c0c2eaeb22116062085db8e8c.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/35aa2af46747f139f1c3473e51ed15b197c5fad2.png\"},{\"name\":\"已报警\",\"image\":\"https://i0.hdslb.com/bfs/garb/071e900178694a01c154ffac9ae11b3846e6974b.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_叹气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1e7a6446dc7cdf616af7f41470febf358c55a5fc.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/efa54de819945103dc07ec6316b1ab0e3fc87786.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_喷了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/079fe0b3acafd9b9aaf11bba0658e8e03d2e616c.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_坏笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea52a04013eee474e2eab30926294a9587f20dc6.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_大哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/16c4a2a2a56ad94314ddb0a43f7b0695220616a4.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_失落]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1cc9023f47872c2ad5a21ceecd9f37bef70b997b.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_头痛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d1614987de0f9771e7692a160dd70f18e874266.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_小丑是我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/90393b715b7c210c0c2eaeb22116062085db8e8c.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_已报警]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/071e900178694a01c154ffac9ae11b3846e6974b.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_已黑化]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/155bb9768e4e577a502694959e3359ff8ad53c39.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_暗中观察]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/35aa2af46747f139f1c3473e51ed15b197c5fad2.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a677550f45eeed92e6df8dd8f40d9ae7b08ef2b.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/84560036f59aec6df03bb98fd68aa401bbd55a5d.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cf4939e2a630788e1a817b61fe654094fa86db0f.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[龙腾九霄_陷入沉思]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/41d78098005853ad1b22612a5c08450ec07481ff.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1678073427001,
 				"name":"龙腾九霄",
-				"tab_id":0,
 				"suit_item_id":106534801,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1678073219001,
 				"name":"龙腾九霄",
-				"tab_id":0,
 				"suit_item_id":106534801,
 				"properties":{
 					"fan_no_color":"#ffffff",

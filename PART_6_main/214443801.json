@@ -36,7 +36,6 @@
 			{
 				"item_id":1716445195001,
 				"name":"mikko-丘比特之箭",
-				"tab_id":0,
 				"suit_item_id":214443801,
 				"properties":{
 					"fan_no_color":"#F3AAB4",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1716445195002,
 				"name":"mikko-丘比特之箭粉丝",
-				"tab_id":0,
 				"suit_item_id":214443801,
 				"properties":{
 					"fan_no_color":"#F3AAB4",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1716445217001,
 				"name":"mikko-丘比特之箭",
-				"tab_id":0,
 				"suit_item_id":214443801,
 				"properties":{
 					"fan_no_color":"#FBB8C2",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1716445666001,
 				"name":"mikko-丘比特之箭",
-				"tab_id":0,
 				"suit_item_id":214443801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/36eff4037a88c62c3aa7e48ee73405d1ea11da78.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"丘比特之箭\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9e7c52d7382497d938cf7d1bd85eccb29f83efe.png\"},{\"name\":\"箭\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b6ec7b9e7c7deebfbfe020c0c2b1e512d3fbccf.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb367c61e317c8556496b69d620c50feb7884ff2.png\"},{\"name\":\"喂我\",\"image\":\"https://i0.hdslb.com/bfs/garb/e56f005d7d81623ebbadb077a29d38e7e6698838.png\"},{\"name\":\"探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1636d4d11d71add09c7df6b340fde38abe07015.png\"},{\"name\":\"求抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b9ab008ef0959aee5a62cce384c9bc6370da1a9.png\"},{\"name\":\"卖萌\",\"image\":\"https://i0.hdslb.com/bfs/garb/a4722446b4bcfaa1d1c4d1714624f2ba7b285f0e.png\"},{\"name\":\"拍靓照\",\"image\":\"https://i0.hdslb.com/bfs/garb/cfe55dfbd197c185089a773f785a8929a5c8e803.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/5c9c6a4673b78f3ab905b62ad850439aced10e5b.png\"},{\"name\":\"馋了\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba10a0b5a344396c763124576123fea3f25f872e.png\"},{\"name\":\"静静看你\",\"image\":\"https://i0.hdslb.com/bfs/garb/d59b90c8652626fe2c1cc1ce8b8a5b0f795a9f93.png\"},{\"name\":\"喜欢你\",\"image\":\"https://i0.hdslb.com/bfs/garb/541cb6a3d5617630a5e7f9601e8a9c02eb9e93bc.png\"},{\"name\":\"接我一箭\",\"image\":\"https://i0.hdslb.com/bfs/garb/d294d109ec36a557d17e017a7a5c2ce29efa7b82.png\"},{\"name\":\"翻包包\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d56c18e192beafa3e67334081716d01ae1aec31.png\"},{\"name\":\"送你爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/017f39eb324fb7dc7e0cfccba1b4339234357023.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_丘比特之箭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e9e7c52d7382497d938cf7d1bd85eccb29f83efe.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_卖萌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a4722446b4bcfaa1d1c4d1714624f2ba7b285f0e.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_喂我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e56f005d7d81623ebbadb077a29d38e7e6698838.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cb367c61e317c8556496b69d620c50feb7884ff2.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_喜欢你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/541cb6a3d5617630a5e7f9601e8a9c02eb9e93bc.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_拍靓照]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cfe55dfbd197c185089a773f785a8929a5c8e803.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_探头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d1636d4d11d71add09c7df6b340fde38abe07015.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_接我一箭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d294d109ec36a557d17e017a7a5c2ce29efa7b82.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_求抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2b9ab008ef0959aee5a62cce384c9bc6370da1a9.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5c9c6a4673b78f3ab905b62ad850439aced10e5b.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_箭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3b6ec7b9e7c7deebfbfe020c0c2b1e512d3fbccf.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_翻包包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7d56c18e192beafa3e67334081716d01ae1aec31.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_送你爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/017f39eb324fb7dc7e0cfccba1b4339234357023.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_静静看你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d59b90c8652626fe2c1cc1ce8b8a5b0f795a9f93.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[mikko-丘比特之箭_馋了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ba10a0b5a344396c763124576123fea3f25f872e.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1716445825001,
 				"name":"mikko-丘比特之箭",
-				"tab_id":0,
 				"suit_item_id":214443801,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1716445547001,
 				"name":"mikko-丘比特之箭",
-				"tab_id":0,
 				"suit_item_id":214443801,
 				"properties":{
 					"fan_no_color":"#ffffff",

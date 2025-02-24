@@ -37,7 +37,6 @@
 			{
 				"item_id":1711267484001,
 				"name":"FKEY",
-				"tab_id":0,
 				"suit_item_id":208448201,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -51,7 +50,6 @@
 			{
 				"item_id":1711267484002,
 				"name":"FKEY粉丝",
-				"tab_id":0,
 				"suit_item_id":208448201,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -68,7 +66,6 @@
 			{
 				"item_id":1711268663001,
 				"name":"FKEY",
-				"tab_id":0,
 				"suit_item_id":208448201,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -83,14 +80,12 @@
 			{
 				"item_id":1711268062001,
 				"name":"FKEY",
-				"tab_id":0,
 				"suit_item_id":208448201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8170b2a53b6448976eefd5d39b49748cc01e2301.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"玫瑰\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c0ee390190e96bc8591576dd9682bb9bab9dc1f.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/23245c2dc919a099d03369923262293fdcbcba0f.png\"},{\"name\":\"加班\",\"image\":\"https://i0.hdslb.com/bfs/garb/548f8298ac0e81f5c37b376ac4a19940b6a8be1c.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/e66a6c74372d1b12e72b3ed5cf73dac7bc3b5519.png\"},{\"name\":\"猫猫问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/9110734ae69d89b7f69c4c18a23e6c454b7d5745.png\"},{\"name\":\"看戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/01f794f4436c0d9e1e18de38a1c41a56639e69d2.png\"},{\"name\":\"摸摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0e37213f0137d1502b96442f4dbde18aeaf0147.png\"},{\"name\":\"别肘\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8d7f35ce51fab0a1da11c4a1d6a9088b3716ae8.png\"},{\"name\":\"跟你爆了\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d01a3d1d3237c765527ea3bec41566a6fe40107.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/24b177c484bb3a3ef8195a02d3605353d4bf7c4b.png\"},{\"name\":\"你小子\",\"image\":\"https://i0.hdslb.com/bfs/garb/26c1ab8c95ce28e371c1d519be6aab938af50e52.png\"},{\"name\":\"喝奶茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/07cd97f32e150dc8c7ff869f94ef85bef6fed86d.png\"},{\"name\":\"给点\",\"image\":\"https://i0.hdslb.com/bfs/garb/82d03ec096c47a20f6130f4dc8f52b08f0d0b504.png\"},{\"name\":\"结芬\",\"image\":\"https://i0.hdslb.com/bfs/garb/5cb2609d80f5affb21247718bcbe7f28177cf21a.png\"},{\"name\":\"乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/664c5375b8dda2a6101995ba46ecdb352090dbb0.png\"},{\"name\":\"在画了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0d78a7fd4df63113aabdc99035e2a8e80c126b7.png\"},{\"name\":\"升天\",\"image\":\"https://i0.hdslb.com/bfs/garb/979a1e3bfee382337a78c141a3198ac245d7d18c.png\"},{\"name\":\"汉堡\",\"image\":\"https://i0.hdslb.com/bfs/garb/63d53291ca03a70966dcb1613d746882c6c6f1b1.png\"},{\"name\":\"要这个\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc52c539e8ef9cd750b1bec90c33d1d1250802ca.png\"},{\"name\":\"好运魔法\",\"image\":\"https://i0.hdslb.com/bfs/garb/6283fcea26fd587edbda0016b78d7bfbe7fcfb6d.png\"},{\"name\":\"希望之花\",\"image\":\"https://i0.hdslb.com/bfs/garb/b23df5066e4559429ff419fbdc9f358b03465094.png\"},{\"name\":\"请\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3c32d72cc3aac68db6a0dfc9f2c8d744a0830b2.png\"},{\"name\":\"宕机\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0ae7786cc42de31d03b0446e351feec3aca4f81.png\"},{\"name\":\"干活\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbafc72bd1f1406d623a9e535b3f80a8b355198a.png\"},{\"name\":\"oO\",\"image\":\"https://i0.hdslb.com/bfs/garb/704fc49f179d263ea6fc8137664fd50c0b96bb75.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_oO]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/704fc49f179d263ea6fc8137664fd50c0b96bb75.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/664c5375b8dda2a6101995ba46ecdb352090dbb0.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_你小子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/26c1ab8c95ce28e371c1d519be6aab938af50e52.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_别肘]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f8d7f35ce51fab0a1da11c4a1d6a9088b3716ae8.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_加班]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/548f8298ac0e81f5c37b376ac4a19940b6a8be1c.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_升天]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/979a1e3bfee382337a78c141a3198ac245d7d18c.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/23245c2dc919a099d03369923262293fdcbcba0f.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_喝奶茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/07cd97f32e150dc8c7ff869f94ef85bef6fed86d.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_在画了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c0d78a7fd4df63113aabdc99035e2a8e80c126b7.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_好运魔法]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6283fcea26fd587edbda0016b78d7bfbe7fcfb6d.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_宕机]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d0ae7786cc42de31d03b0446e351feec3aca4f81.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_希望之花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b23df5066e4559429ff419fbdc9f358b03465094.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_干活]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbafc72bd1f1406d623a9e535b3f80a8b355198a.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_摸摸头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e0e37213f0137d1502b96442f4dbde18aeaf0147.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_汉堡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/63d53291ca03a70966dcb1613d746882c6c6f1b1.png",
 							"sale_type":"pay"
@@ -241,7 +221,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_猫猫问号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9110734ae69d89b7f69c4c18a23e6c454b7d5745.png",
 							"sale_type":"pay"
@@ -250,7 +229,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_玫瑰]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1c0ee390190e96bc8591576dd9682bb9bab9dc1f.png",
 							"sale_type":"pay"
@@ -259,7 +237,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/24b177c484bb3a3ef8195a02d3605353d4bf7c4b.png",
 							"sale_type":"pay"
@@ -268,7 +245,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_看戏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/01f794f4436c0d9e1e18de38a1c41a56639e69d2.png",
 							"sale_type":"pay"
@@ -277,7 +253,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_结芬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5cb2609d80f5affb21247718bcbe7f28177cf21a.png",
 							"sale_type":"pay"
@@ -286,7 +261,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_给点]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/82d03ec096c47a20f6130f4dc8f52b08f0d0b504.png",
 							"sale_type":"pay"
@@ -295,7 +269,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_要这个]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc52c539e8ef9cd750b1bec90c33d1d1250802ca.png",
 							"sale_type":"pay"
@@ -304,7 +277,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_请]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b3c32d72cc3aac68db6a0dfc9f2c8d744a0830b2.png",
 							"sale_type":"pay"
@@ -313,7 +285,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e66a6c74372d1b12e72b3ed5cf73dac7bc3b5519.png",
 							"sale_type":"pay"
@@ -322,7 +293,6 @@
 					{
 						"item_id":0,
 						"name":"[FKEY_跟你爆了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5d01a3d1d3237c765527ea3bec41566a6fe40107.png",
 							"sale_type":"pay"
@@ -335,7 +305,6 @@
 			{
 				"item_id":1711268834001,
 				"name":"FKEY",
-				"tab_id":0,
 				"suit_item_id":208448201,
 				"properties":{
 					"goods_type":"suit",
@@ -350,7 +319,6 @@
 			{
 				"item_id":1711268909001,
 				"name":"FKEY",
-				"tab_id":0,
 				"suit_item_id":208448201,
 				"properties":{
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/744fc419935773f64a2e155e9a8b450574bd1cfb.png",
@@ -367,7 +335,6 @@
 			{
 				"item_id":1711268615001,
 				"name":"fkey-药指和菲奇子",
-				"tab_id":0,
 				"suit_item_id":208448201,
 				"properties":{
 					"color":"#ffffff",
@@ -408,7 +375,6 @@
 			{
 				"item_id":1711268307001,
 				"name":"FKEY",
-				"tab_id":0,
 				"suit_item_id":208448201,
 				"properties":{
 					"fan_no_color":"#ffffff",
@@ -438,7 +404,6 @@
 			{
 				"item_id":1711268705001,
 				"name":"FKEY",
-				"tab_id":0,
 				"suit_item_id":208448201,
 				"properties":{
 					"goods_type":"suit",

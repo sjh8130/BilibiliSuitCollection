@@ -36,7 +36,6 @@
 			{
 				"item_id":1722233631001,
 				"name":"海獭宝宝2.0",
-				"tab_id":0,
 				"suit_item_id":221142901,
 				"properties":{
 					"fan_no_color":"#5D93DB",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1722233631002,
 				"name":"海獭宝宝2.0粉丝",
-				"tab_id":0,
 				"suit_item_id":221142901,
 				"properties":{
 					"fan_no_color":"#5D93DB",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1722233657001,
 				"name":"海獭宝宝2.0",
-				"tab_id":0,
 				"suit_item_id":221142901,
 				"properties":{
 					"fan_no_color":"#5D93DB",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1722233703001,
 				"name":"海獭宝宝2.0",
-				"tab_id":0,
 				"suit_item_id":221142901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6e9227bf441368ff3c241933871ef059392d835d.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"撅腚\",\"image\":\"https://i0.hdslb.com/bfs/garb/5cf448e22eee852abb0693e9cecc3b6c0d0c2f8b.png\"},{\"name\":\"抱住\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2d7cef2398683b75ac443b6516f66d6f17f03ef.png\"},{\"name\":\"打招呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f45e111130d28d01d9e8aa26929a99f6a2df59e.png\"},{\"name\":\"叠叠獭\",\"image\":\"https://i0.hdslb.com/bfs/garb/09545d99f48e49b3cca65af3e50dba14545b2370.png\"},{\"name\":\"降温\",\"image\":\"https://i0.hdslb.com/bfs/garb/a304e51ce815a0d6bb720f0319fe4f094cad4d1c.png\"},{\"name\":\"攻击\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff697674596e021a862d9417e828046a2757c1b7.png\"},{\"name\":\"乖巧坐\",\"image\":\"https://i0.hdslb.com/bfs/garb/c11455e45c38e20669199dcafc38247a0e310d3c.png\"},{\"name\":\"凝视\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ff68affe7d07524c7e28aaa43c2c82d7c860fb4.png\"},{\"name\":\"给我\",\"image\":\"https://i0.hdslb.com/bfs/garb/a27aead1fb83c4bcc84c368b214593fd3c3ebfe1.png\"},{\"name\":\"藏贝壳\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6960577d10289f78ca1b407af5a73d6e88f7703.png\"},{\"name\":\"热化了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f71385055b9f2bba3cb5a8b389d66bb8fa4f09f.png\"},{\"name\":\"心动\",\"image\":\"https://i0.hdslb.com/bfs/garb/4cf7206f19489b6fa54dad0e1a1090955bf86030.png\"},{\"name\":\"獭可\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c45c2f9a9d2afa413a563ad8e3aeb89f9fa5e96.png\"},{\"name\":\"偷瞄\",\"image\":\"https://i0.hdslb.com/bfs/garb/60cc6baa623c51dee1f4e6fad606fc791d5c3230.png\"},{\"name\":\"抱抱宝宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/c140a2e99d690f2636bf0c60dc6c4959433829c0.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_乖巧坐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c11455e45c38e20669199dcafc38247a0e310d3c.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_偷瞄]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/60cc6baa623c51dee1f4e6fad606fc791d5c3230.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_凝视]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2ff68affe7d07524c7e28aaa43c2c82d7c860fb4.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_叠叠獭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/09545d99f48e49b3cca65af3e50dba14545b2370.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_心动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4cf7206f19489b6fa54dad0e1a1090955bf86030.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_打招呼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8f45e111130d28d01d9e8aa26929a99f6a2df59e.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_抱住]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a2d7cef2398683b75ac443b6516f66d6f17f03ef.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_抱抱宝宝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c140a2e99d690f2636bf0c60dc6c4959433829c0.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_撅腚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5cf448e22eee852abb0693e9cecc3b6c0d0c2f8b.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_攻击]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ff697674596e021a862d9417e828046a2757c1b7.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_热化了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7f71385055b9f2bba3cb5a8b389d66bb8fa4f09f.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_獭可]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c45c2f9a9d2afa413a563ad8e3aeb89f9fa5e96.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_给我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a27aead1fb83c4bcc84c368b214593fd3c3ebfe1.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_藏贝壳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d6960577d10289f78ca1b407af5a73d6e88f7703.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝2.0_降温]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a304e51ce815a0d6bb720f0319fe4f094cad4d1c.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1722233878001,
 				"name":"海獭宝宝2.0",
-				"tab_id":0,
 				"suit_item_id":221142901,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1722233681001,
 				"name":"海獭宝宝2.0",
-				"tab_id":0,
 				"suit_item_id":221142901,
 				"properties":{
 					"fan_no_color":"#ffffff",

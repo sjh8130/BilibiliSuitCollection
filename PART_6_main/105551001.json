@@ -36,7 +36,6 @@
 			{
 				"item_id":1677228656001,
 				"name":"非人哉咖啡馆",
-				"tab_id":0,
 				"suit_item_id":105551001,
 				"properties":{
 					"fan_no_color":"#8F5D56",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1677228656002,
 				"name":"非人哉咖啡馆粉丝",
-				"tab_id":0,
 				"suit_item_id":105551001,
 				"properties":{
 					"fan_no_color":"#8F5D56",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1677229297001,
 				"name":"非人哉咖啡馆",
-				"tab_id":0,
 				"suit_item_id":105551001,
 				"properties":{
 					"fan_no_color":"#825243",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1677228696001,
 				"name":"非人哉咖啡馆",
-				"tab_id":0,
 				"suit_item_id":105551001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/3cf157d938c279c3327a246e9c97593593c538be.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"嘚瑟\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a7198ed90114ac649204bff9d300924ef36963b.png\"},{\"name\":\"惊吓\",\"image\":\"https://i0.hdslb.com/bfs/garb/88d662d09282d7f48928b7c3167a4e80cde7ffc3.png\"},{\"name\":\"无聊\",\"image\":\"https://i0.hdslb.com/bfs/garb/323eb4f56260fd8ad4e3d60aaa5376e6fbdb4e7d.png\"},{\"name\":\"跪\",\"image\":\"https://i0.hdslb.com/bfs/garb/6162d15a491f3878aa47a7986f8410d6123fce82.png\"},{\"name\":\"膜拜\",\"image\":\"https://i0.hdslb.com/bfs/garb/d82ec234e3987ecef460c35b61ecb38482debccf.png\"},{\"name\":\"来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc6af851b1f0d7ee48fd9dee4067db1d03fc96b4.png\"},{\"name\":\"哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/fb520639d0b22b5ab4b79c230f9953500e22150f.png\"},{\"name\":\"真棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/4202a57a412c92df24418ad0553ce219feb4cdcb.png\"},{\"name\":\"躺\",\"image\":\"https://i0.hdslb.com/bfs/garb/3aacebc32261696bdc17e45532269daeaaf95b8a.png\"},{\"name\":\"洗澡\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a785774439c73ffa01c8e31488bafe72b86cea3.png\"},{\"name\":\"吃饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec5b4c3dba42fb0facba44dd46ef92614764360a.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/8fc4becea734135f8a2af80cfd22ded156cd0407.png\"},{\"name\":\"吐\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2abbeadc89f60d21f7d46585ad6012779854741.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/9dac18b1313eea17d1315a95f31a30247fee23f2.png\"},{\"name\":\"抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/d72daa4a1bb1c98e2da3abf678cdf187bdb20576.png\"},{\"name\":\"看看\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3663daaff74df91527e59b6db82240b72b07c3a.png\"},{\"name\":\"困\",\"image\":\"https://i0.hdslb.com/bfs/garb/d49c3a53eb3231c51eaf5fe7ca817afdd854619f.png\"},{\"name\":\"惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9914cc813619151750b8e42435b9cf5e604d198.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/a96edf271d6b6f8305eff7062bf481d02f931a02.png\"},{\"name\":\"怒\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2e3e6e27a116c7e45669d93fe0a2ef88b04933c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_吃饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ec5b4c3dba42fb0facba44dd46ef92614764360a.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_吐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f2abbeadc89f60d21f7d46585ad6012779854741.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fb520639d0b22b5ab4b79c230f9953500e22150f.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_嘚瑟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1a7198ed90114ac649204bff9d300924ef36963b.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d49c3a53eb3231c51eaf5fe7ca817afdd854619f.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a96edf271d6b6f8305eff7062bf481d02f931a02.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_怒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d2e3e6e27a116c7e45669d93fe0a2ef88b04933c.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f9914cc813619151750b8e42435b9cf5e604d198.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_惊吓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/88d662d09282d7f48928b7c3167a4e80cde7ffc3.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d72daa4a1bb1c98e2da3abf678cdf187bdb20576.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_无聊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/323eb4f56260fd8ad4e3d60aaa5376e6fbdb4e7d.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_来了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc6af851b1f0d7ee48fd9dee4067db1d03fc96b4.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9dac18b1313eea17d1315a95f31a30247fee23f2.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_洗澡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a785774439c73ffa01c8e31488bafe72b86cea3.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8fc4becea734135f8a2af80cfd22ded156cd0407.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_看看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b3663daaff74df91527e59b6db82240b72b07c3a.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_真棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4202a57a412c92df24418ad0553ce219feb4cdcb.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_膜拜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d82ec234e3987ecef460c35b61ecb38482debccf.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_跪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6162d15a491f3878aa47a7986f8410d6123fce82.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[非人哉咖啡馆_躺]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3aacebc32261696bdc17e45532269daeaaf95b8a.png",
 							"sale_type":"pay"
@@ -289,7 +264,6 @@
 			{
 				"item_id":1678341907001,
 				"name":"非人哉主题",
-				"tab_id":0,
 				"suit_item_id":105551001,
 				"properties":{
 					"color":"#000000",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1677228852001,
 				"name":"非人哉咖啡馆",
-				"tab_id":0,
 				"suit_item_id":105551001,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1732529715001,
 				"name":"奖狸型人格",
-				"tab_id":0,
 				"suit_item_id":233135701,
 				"properties":{
 					"fan_no_color":"#A0623E",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1732529715002,
 				"name":"奖狸型人格粉丝",
-				"tab_id":0,
 				"suit_item_id":233135701,
 				"properties":{
 					"fan_no_color":"#A0623E",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1732529751001,
 				"name":"奖狸型人格",
-				"tab_id":0,
 				"suit_item_id":233135701,
 				"properties":{
 					"fan_no_color":"#A0623E",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1732529170001,
 				"name":"奖狸型人格",
-				"tab_id":0,
 				"suit_item_id":233135701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/cf721d2e111797e70e2e7a10c078de73038109e7.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1569fe0fefb9cbc387c3c20f185fe9d89ae4810.png\"},{\"name\":\"大叫\",\"image\":\"https://i0.hdslb.com/bfs/garb/434eb80f27bfe76f3244cde050e2d0257a84064c.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9d75d2dad1a0df05f97aa4cdd1aa69da08c5c89.png\"},{\"name\":\"看手机\",\"image\":\"https://i0.hdslb.com/bfs/garb/f46a593ba3518d1d0534b1fc0b4da8dbdbbd71c0.png\"},{\"name\":\"吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5c54c2ad593535f1dde8f7476c918eb29752b3d.png\"},{\"name\":\"吃饱了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c97dc9b922971c9bf0bf5b84346755dce6cedbf4.png\"},{\"name\":\"发红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf3e67fb5d94b4cd5aea2d557c7ec7516fef32f6.png\"},{\"name\":\"佛\",\"image\":\"https://i0.hdslb.com/bfs/garb/92f9f6f0cb051be4ef2262be2cf32bed8e59de57.png\"},{\"name\":\"求求了\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9a300095aa36d9af0c9b95588afa8d7a458bb83.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/e46a972a169afdc96d60d390789caae62c4a4aa3.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a74956421c060877fc13d43025bc22c78cc7427.png\"},{\"name\":\"工作\",\"image\":\"https://i0.hdslb.com/bfs/garb/932bbddc495a555fc68de107a4a64e5d38580df5.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/a480b67661bf290bb699b371e7448b28ce876177.png\"},{\"name\":\"抱大腿\",\"image\":\"https://i0.hdslb.com/bfs/garb/9957d901ee82713023410fda8439a57dc504c115.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/bea906b38e8e03ad9e392020c9c5fd4f8bd9ba1b.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_佛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/92f9f6f0cb051be4ef2262be2cf32bed8e59de57.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_发红包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cf3e67fb5d94b4cd5aea2d557c7ec7516fef32f6.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d5c54c2ad593535f1dde8f7476c918eb29752b3d.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_吃饱了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c97dc9b922971c9bf0bf5b84346755dce6cedbf4.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_大叫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/434eb80f27bfe76f3244cde050e2d0257a84064c.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_工作]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/932bbddc495a555fc68de107a4a64e5d38580df5.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e9d75d2dad1a0df05f97aa4cdd1aa69da08c5c89.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c1569fe0fefb9cbc387c3c20f185fe9d89ae4810.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_抱大腿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9957d901ee82713023410fda8439a57dc504c115.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_摸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a480b67661bf290bb699b371e7448b28ce876177.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_求求了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e9a300095aa36d9af0c9b95588afa8d7a458bb83.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_看手机]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f46a593ba3518d1d0534b1fc0b4da8dbdbbd71c0.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e46a972a169afdc96d60d390789caae62c4a4aa3.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bea906b38e8e03ad9e392020c9c5fd4f8bd9ba1b.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[奖狸型人格_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a74956421c060877fc13d43025bc22c78cc7427.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1732529653001,
 				"name":"奖狸型人格",
-				"tab_id":0,
 				"suit_item_id":233135701,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1732529790001,
 				"name":"奖狸型人格",
-				"tab_id":0,
 				"suit_item_id":233135701,
 				"properties":{
 					"fan_no_color":"#ffffff",

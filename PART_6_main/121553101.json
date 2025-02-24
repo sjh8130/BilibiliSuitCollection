@@ -36,7 +36,6 @@
 			{
 				"item_id":1691055340001,
 				"name":"炸毛小天师",
-				"tab_id":0,
 				"suit_item_id":121553101,
 				"properties":{
 					"fan_no_color":"#EE9D4D",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1691055340002,
 				"name":"炸毛小天师粉丝",
-				"tab_id":0,
 				"suit_item_id":121553101,
 				"properties":{
 					"fan_no_color":"#EE9D4D",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1691055795001,
 				"name":"炸毛小天师",
-				"tab_id":0,
 				"suit_item_id":121553101,
 				"properties":{
 					"fan_no_color":"#EE9D4D",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1691055381001,
 				"name":"炸毛小天师",
-				"tab_id":0,
 				"suit_item_id":121553101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f10ea95f6ee556410d0b3bf6643eb310a40685bd.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/502f5d1d8db22259e0ab95891d9653e2badaeaa9.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b333e467a934aa8b2709aac551da3b0fb88ff3f.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/07602b3aa2d17a5d8a043055dc76d8d354ab7809.png\"},{\"name\":\"太好笑了\",\"image\":\"https://i0.hdslb.com/bfs/garb/51bf048cca1f70a66cfe6ce9b553594343b41255.png\"},{\"name\":\"打calll\",\"image\":\"https://i0.hdslb.com/bfs/garb/629aa515d42742c49bac5b73967286fdbd69a3df.png\"},{\"name\":\"闹了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c68b049c871225de8c70d4edb860398f7e25a2f9.png\"},{\"name\":\"emo\",\"image\":\"https://i0.hdslb.com/bfs/garb/56c9e59d63cd71b32b1da9b53739c23340b48d60.png\"},{\"name\":\"一键三连\",\"image\":\"https://i0.hdslb.com/bfs/garb/6955d2ae80c79bb7ea1db2bab7aeb566a67d3f28.png\"},{\"name\":\"狗头\",\"image\":\"https://i0.hdslb.com/bfs/garb/53314d0698d4fbb213ed2d15e66e301052861da6.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/e932365ff145eb76c3bf9ca8e38573bfb98f92a3.png\"},{\"name\":\"好的\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d926d44e10bc865259352163b5e2e64af9c0269.png\"},{\"name\":\"什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd36b85e9f60ecc96f27be24038d1be1d6581f91.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d1bac8400cc0be4ae8f56381d2e463d707209ad.png\"},{\"name\":\"扎心了\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5596340e92d0e294b8a88d943a830fea6d80f07.png\"},{\"name\":\"我晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdc78ec3442832d121a926b5dad4cd42b344ad2b.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_emo]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/56c9e59d63cd71b32b1da9b53739c23340b48d60.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_一键三连]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6955d2ae80c79bb7ea1db2bab7aeb566a67d3f28.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_什么]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fd36b85e9f60ecc96f27be24038d1be1d6581f91.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7b333e467a934aa8b2709aac551da3b0fb88ff3f.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_太好笑了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/51bf048cca1f70a66cfe6ce9b553594343b41255.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_好的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d926d44e10bc865259352163b5e2e64af9c0269.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_我晕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bdc78ec3442832d121a926b5dad4cd42b344ad2b.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_扎心了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f5596340e92d0e294b8a88d943a830fea6d80f07.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_打calll]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/629aa515d42742c49bac5b73967286fdbd69a3df.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e932365ff145eb76c3bf9ca8e38573bfb98f92a3.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/502f5d1d8db22259e0ab95891d9653e2badaeaa9.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_狗头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/53314d0698d4fbb213ed2d15e66e301052861da6.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6d1bac8400cc0be4ae8f56381d2e463d707209ad.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_闹了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c68b049c871225de8c70d4edb860398f7e25a2f9.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[炸毛小天师_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/07602b3aa2d17a5d8a043055dc76d8d354ab7809.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1691055708001,
 				"name":"炸毛小天师",
-				"tab_id":0,
 				"suit_item_id":121553101,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1691055617001,
 				"name":"炸毛小天师",
-				"tab_id":0,
 				"suit_item_id":121553101,
 				"properties":{
 					"fan_no_color":"#ffffff",

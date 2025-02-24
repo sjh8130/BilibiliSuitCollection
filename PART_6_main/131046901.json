@@ -36,7 +36,6 @@
 			{
 				"item_id":1699249351001,
 				"name":"小丧居 打工日记",
-				"tab_id":0,
 				"suit_item_id":131046901,
 				"properties":{
 					"fan_no_color":"#3799ED",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1699415413001,
 				"name":"小丧居 打工日记粉丝",
-				"tab_id":0,
 				"suit_item_id":131046901,
 				"properties":{
 					"fan_no_color":"#3799ED",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1699251959001,
 				"name":"小丧居 打工日记",
-				"tab_id":0,
 				"suit_item_id":131046901,
 				"properties":{
 					"fan_no_color":"#3799ED",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1699249671001,
 				"name":"小丧居 打工日记",
-				"tab_id":0,
 				"suit_item_id":131046901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2afd9edf11f02dd5a3649e67c9bfb74e3d8e3a26.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e6a9a7e32b2e1a8d5a5e229137df6424731fcb6.png\"},{\"name\":\"奥力给\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1f0ce7bd5e6a573ae728469831f6b7778857c2f.png\"},{\"name\":\"速来\",\"image\":\"https://i0.hdslb.com/bfs/garb/d58dcaf487750d81834ab8a39e55614448a7e3be.png\"},{\"name\":\"我饭呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/7617522798e991e7668ab34c64b4bffef93a936a.png\"},{\"name\":\"一亿\",\"image\":\"https://i0.hdslb.com/bfs/garb/10afae310c068a81334a327299a8f20ca6dd9318.png\"},{\"name\":\"饮茶啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/ee7137dcc56967552b7b00090f3e21fa0c369217.png\"},{\"name\":\"学生卡\",\"image\":\"https://i0.hdslb.com/bfs/garb/768064acb24bb6e37896a97e84d01592c2fb07cd.png\"},{\"name\":\"芜湖起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef021f10f8128d7151a85ec3fa7ed730105688a3.png\"},{\"name\":\"给力\",\"image\":\"https://i0.hdslb.com/bfs/garb/edeb25a270ec7dae7e85d531c826ec5391ccb8f1.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f6577735ecdf5255e01539d8538ce9fc50e6add.png\"},{\"name\":\"听着呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/de96ba493394eff282224b96f747325cc296e87b.png\"},{\"name\":\"我很好\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c9ab2279f6bebf2a05d70c47a6f036be3968abd.png\"},{\"name\":\"我想静静\",\"image\":\"https://i0.hdslb.com/bfs/garb/1130c3f3df37969c8f3a15e36aefd4048d98035f.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/954f3bcb65786020990a05d377ced714cbe8ac80.png\"},{\"name\":\"受教了\",\"image\":\"https://i0.hdslb.com/bfs/garb/166120a847ca8d57a11c2772bbc8cb77394e9f94.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_一亿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/10afae310c068a81334a327299a8f20ca6dd9318.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_受教了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/166120a847ca8d57a11c2772bbc8cb77394e9f94.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_听着呢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/de96ba493394eff282224b96f747325cc296e87b.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_啊？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/954f3bcb65786020990a05d377ced714cbe8ac80.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_奥力给]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d1f0ce7bd5e6a573ae728469831f6b7778857c2f.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_好耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3e6a9a7e32b2e1a8d5a5e229137df6424731fcb6.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_学生卡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/768064acb24bb6e37896a97e84d01592c2fb07cd.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_我很好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c9ab2279f6bebf2a05d70c47a6f036be3968abd.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_我想静静]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1130c3f3df37969c8f3a15e36aefd4048d98035f.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_我饭呢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7617522798e991e7668ab34c64b4bffef93a936a.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7f6577735ecdf5255e01539d8538ce9fc50e6add.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_给力]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/edeb25a270ec7dae7e85d531c826ec5391ccb8f1.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_芜湖起飞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ef021f10f8128d7151a85ec3fa7ed730105688a3.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_速来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d58dcaf487750d81834ab8a39e55614448a7e3be.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[小丧居 打工日记_饮茶啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ee7137dcc56967552b7b00090f3e21fa0c369217.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1699251786001,
 				"name":"小丧居 打工日记",
-				"tab_id":0,
 				"suit_item_id":131046901,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1699249728001,
 				"name":"小丧居 打工日记",
-				"tab_id":0,
 				"suit_item_id":131046901,
 				"properties":{
 					"fan_no_color":"#ffffff",

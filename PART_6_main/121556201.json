@@ -35,7 +35,6 @@
 			{
 				"item_id":1691059212001,
 				"name":"家人们 无语住了",
-				"tab_id":0,
 				"suit_item_id":121556201,
 				"properties":{
 					"fan_no_color":"#68A300",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1691059212002,
 				"name":"家人们 无语住了粉丝",
-				"tab_id":0,
 				"suit_item_id":121556201,
 				"properties":{
 					"fan_no_color":"#68A300",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1691059375001,
 				"name":"家人们 无语住了",
-				"tab_id":0,
 				"suit_item_id":121556201,
 				"properties":{
 					"fan_no_color":"#68A300",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1691059268001,
 				"name":"家人们 无语住了",
-				"tab_id":0,
 				"suit_item_id":121556201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2dbf9ccb1b848d0933b20f3152a862a25a3501af.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"萨卡班瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2037bc09777abe6bafb857e1512074165ae4fa8.png\"},{\"name\":\"横西瓜条\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9eddffe0fac3dceeae9729da4e58d544eb73c8f.png\"},{\"name\":\"横西瓜底\",\"image\":\"https://i0.hdslb.com/bfs/garb/b502b6b2400ba2c448e5ebe360562781d1400f75.png\"},{\"name\":\"瓜不理解\",\"image\":\"https://i0.hdslb.com/bfs/garb/71898698e85bf17b808085220179862b2b8225b0.png\"},{\"name\":\"黑美人\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb638634ad0000d6d026e168e9371016b9daa4c0.png\"},{\"name\":\"一整个难过\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf2ca4559f1866211f9cd79c1487bebfb4efb5e7.png\"},{\"name\":\"无语住了\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0cdbb1f245dc79ddbced7466e83348d869de828.png\"},{\"name\":\"蒸虾头\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fec2be0177f6a07cb23d0324492fe64abf094bf.png\"},{\"name\":\"有点小疯\",\"image\":\"https://i0.hdslb.com/bfs/garb/beeef9087b664409f86320dbbd51a68f8b352c4e.png\"},{\"name\":\"绝绝子\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a0abca38566f61df5c651cef2d4d9997ae77be9.png\"},{\"name\":\"在线等\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3e68d96669c8cc6508f11a9266a9041d92d16b7.png\"},{\"name\":\"谁问你了\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9bcee792a2757237054afda035d94fb680b5d4d.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/73bcd6195a9a15ef24791c656eed6baa3a8a5e5d.png\"},{\"name\":\"西瓜天使\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a44f2ff7c450c3454a65f350e43ca19086d1217.png\"},{\"name\":\"西瓜条贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4c3bc2a6b45395f327ef6c3c91def0b8a48faab.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_一整个难过]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bf2ca4559f1866211f9cd79c1487bebfb4efb5e7.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_在线等]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b3e68d96669c8cc6508f11a9266a9041d92d16b7.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_无语住了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b0cdbb1f245dc79ddbced7466e83348d869de828.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_暗中观察]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/73bcd6195a9a15ef24791c656eed6baa3a8a5e5d.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_有点小疯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/beeef9087b664409f86320dbbd51a68f8b352c4e.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_横西瓜底]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b502b6b2400ba2c448e5ebe360562781d1400f75.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_横西瓜条]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f9eddffe0fac3dceeae9729da4e58d544eb73c8f.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_瓜不理解]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/71898698e85bf17b808085220179862b2b8225b0.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_绝绝子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5a0abca38566f61df5c651cef2d4d9997ae77be9.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_萨卡班瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c2037bc09777abe6bafb857e1512074165ae4fa8.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_蒸虾头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1fec2be0177f6a07cb23d0324492fe64abf094bf.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_西瓜天使]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a44f2ff7c450c3454a65f350e43ca19086d1217.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_西瓜条贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e4c3bc2a6b45395f327ef6c3c91def0b8a48faab.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_谁问你了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b9bcee792a2757237054afda035d94fb680b5d4d.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[家人们 无语住了_黑美人]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bb638634ad0000d6d026e168e9371016b9daa4c0.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1691059353001,
 				"name":"家人们 无语住了",
-				"tab_id":0,
 				"suit_item_id":121556201,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1691059286001,
 				"name":"家人们 无语住了",
-				"tab_id":0,
 				"suit_item_id":121556201,
 				"properties":{
 					"fan_no_color":"#ffffff",

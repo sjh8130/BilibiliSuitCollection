@@ -35,7 +35,6 @@
 			{
 				"item_id":1703575478001,
 				"name":"苹狗派对",
-				"tab_id":0,
 				"suit_item_id":136131501,
 				"properties":{
 					"fan_no_color":"#D72929",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1703575933001,
 				"name":"苹狗派对粉丝",
-				"tab_id":0,
 				"suit_item_id":136131501,
 				"properties":{
 					"fan_no_color":"#D72929",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1703575474001,
 				"name":"苹狗派对",
-				"tab_id":0,
 				"suit_item_id":136131501,
 				"properties":{
 					"fan_no_color":"#E24E4E",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1703575460001,
 				"name":"苹狗派对",
-				"tab_id":0,
 				"suit_item_id":136131501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e7691ac9765a76f93f9ad92c264d9e82e554f691.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"苹什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f297a12a2ca5c456c365199cc14e875ed36eb03.png\"},{\"name\":\"苹实力\",\"image\":\"https://i0.hdslb.com/bfs/garb/95c8d822caeebab8f000fa025a64857063f27369.png\"},{\"name\":\"苹心而论\",\"image\":\"https://i0.hdslb.com/bfs/garb/74efd3d276b139203e7b18b2d7f9d26c1956f71b.png\"},{\"name\":\"我没睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/5838e85951c2c5a6cd32746ba9f1e32910c7e417.png\"},{\"name\":\"睡了\",\"image\":\"https://i0.hdslb.com/bfs/garb/5aeb53c19500406b47096a6cec02c93662c2074d.png\"},{\"name\":\"一天一苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c184f1162e2d670eedeb143aa4f475eaa5c5876.png\"},{\"name\":\"医生远离我\",\"image\":\"https://i0.hdslb.com/bfs/garb/9232be2d677e84475037ccf4e206607f7977f4e2.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ad54bb04ea242bb78025a0d9b84071313c3eca8.png\"},{\"name\":\"吧唧吧唧\",\"image\":\"https://i0.hdslb.com/bfs/garb/833e313bcda1b74bb4f43d1527ff6b471a2d23ba.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/676230510586ea81d61a54c7bf39a2ba5eafac0f.png\"},{\"name\":\"叹气\",\"image\":\"https://i0.hdslb.com/bfs/garb/d08898731e5c42baf9ab64c523eb2cb647bc038e.png\"},{\"name\":\"我来啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/2142fde632e5a22f9e1b67702661baa005786728.png\"},{\"name\":\"国宴\",\"image\":\"https://i0.hdslb.com/bfs/garb/480a26134be98c10b193148af4e4be268e8e1f4c.png\"},{\"name\":\"什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e07d4d2f68bde72be8ce9a819f456e9e3205a21.png\"},{\"name\":\"炸毛\",\"image\":\"https://i0.hdslb.com/bfs/garb/85383427cb75325fb7f30a04b925ab800a0818db.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_一天一苹果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3c184f1162e2d670eedeb143aa4f475eaa5c5876.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_什么]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3e07d4d2f68bde72be8ce9a819f456e9e3205a21.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_医生远离我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9232be2d677e84475037ccf4e206607f7977f4e2.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_叹气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d08898731e5c42baf9ab64c523eb2cb647bc038e.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_吧唧吧唧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/833e313bcda1b74bb4f43d1527ff6b471a2d23ba.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/676230510586ea81d61a54c7bf39a2ba5eafac0f.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_国宴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/480a26134be98c10b193148af4e4be268e8e1f4c.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_我来啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2142fde632e5a22f9e1b67702661baa005786728.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_我没睡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5838e85951c2c5a6cd32746ba9f1e32910c7e417.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_炸毛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/85383427cb75325fb7f30a04b925ab800a0818db.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_睡了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5aeb53c19500406b47096a6cec02c93662c2074d.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_苹什么]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5f297a12a2ca5c456c365199cc14e875ed36eb03.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_苹实力]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/95c8d822caeebab8f000fa025a64857063f27369.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_苹心而论]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/74efd3d276b139203e7b18b2d7f9d26c1956f71b.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[苹狗派对_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7ad54bb04ea242bb78025a0d9b84071313c3eca8.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1703575922001,
 				"name":"苹狗派对",
-				"tab_id":0,
 				"suit_item_id":136131501,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1703575637001,
 				"name":"苹狗派对",
-				"tab_id":0,
 				"suit_item_id":136131501,
 				"properties":{
 					"fan_no_color":"#ffffff",

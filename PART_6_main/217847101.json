@@ -35,7 +35,6 @@
 			{
 				"item_id":1719301954001,
 				"name":"土豆服务器",
-				"tab_id":0,
 				"suit_item_id":217847101,
 				"properties":{
 					"fan_no_color":"#FFC27F",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1719301954002,
 				"name":"土豆服务器粉丝",
-				"tab_id":0,
 				"suit_item_id":217847101,
 				"properties":{
 					"fan_no_color":"#FFC27F",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1719303059001,
 				"name":"土豆服务器",
-				"tab_id":0,
 				"suit_item_id":217847101,
 				"properties":{
 					"fan_no_color":"#404040",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1719302076001,
 				"name":"土豆服务器",
-				"tab_id":0,
 				"suit_item_id":217847101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9ca54d4965154a4cce7dc3fd55eaaa8b347fcc2d.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"网差\",\"image\":\"https://i0.hdslb.com/bfs/garb/659a3fa1f8a8a2d34f68b02d13ec9e2c374c6cdc.png\"},{\"name\":\"网好\",\"image\":\"https://i0.hdslb.com/bfs/garb/aed37e54a9fa9f2531e3965a96e5f4f6f733bbe8.png\"},{\"name\":\"加载\",\"image\":\"https://i0.hdslb.com/bfs/garb/064180b96fd66969a0581b6eebd9fecf7c72d50d.png\"},{\"name\":\"指点\",\"image\":\"https://i0.hdslb.com/bfs/garb/42313413d00ab68b381fd8a34d067113a86015cc.png\"},{\"name\":\"土豆发芽\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9e7c681285904da195bd51d0a46a6e24274dbaa.png\"},{\"name\":\"BUG\",\"image\":\"https://i0.hdslb.com/bfs/garb/52e41397bbdf1bc6e1488dd518f53a2068bcc6e6.png\"},{\"name\":\"土豆电源\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d56b90182cf81b3fb5baf06d2b92598e67126a3.png\"},{\"name\":\"土豆串联\",\"image\":\"https://i0.hdslb.com/bfs/garb/6061bcad2eda7c90925308e3fd01c081a5428615.png\"},{\"name\":\"服务器\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e9b6acd12bf74c926beebe7cf4d41e4e61e4bb6.png\"},{\"name\":\"电脑配件\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba818d96ea9ca2739380d0d58583f92449572163.png\"},{\"name\":\"等待加载\",\"image\":\"https://i0.hdslb.com/bfs/garb/01042352b43d8318ba5a735f313ea883b566d32f.png\"},{\"name\":\"0帧起手\",\"image\":\"https://i0.hdslb.com/bfs/garb/198cfeed1d9c8129980c8fda480586c55500f146.png\"},{\"name\":\"拔网线\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea185fe9b7d37657796612d0151ca3efb1b91ac5.png\"},{\"name\":\"ctrl\",\"image\":\"https://i0.hdslb.com/bfs/garb/8eca06d688eb82ecfee08ca07577267eed997eac.png\"},{\"name\":\"z\",\"image\":\"https://i0.hdslb.com/bfs/garb/da10f29773ceb68ff8584842188429c8b638f1c0.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_0帧起手]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/198cfeed1d9c8129980c8fda480586c55500f146.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_BUG]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/52e41397bbdf1bc6e1488dd518f53a2068bcc6e6.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_ctrl]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8eca06d688eb82ecfee08ca07577267eed997eac.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_z]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/da10f29773ceb68ff8584842188429c8b638f1c0.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_加载]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/064180b96fd66969a0581b6eebd9fecf7c72d50d.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_土豆串联]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6061bcad2eda7c90925308e3fd01c081a5428615.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_土豆发芽]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e9e7c681285904da195bd51d0a46a6e24274dbaa.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_土豆电源]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2d56b90182cf81b3fb5baf06d2b92598e67126a3.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_拔网线]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea185fe9b7d37657796612d0151ca3efb1b91ac5.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_指点]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/42313413d00ab68b381fd8a34d067113a86015cc.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_服务器]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8e9b6acd12bf74c926beebe7cf4d41e4e61e4bb6.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_电脑配件]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ba818d96ea9ca2739380d0d58583f92449572163.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_等待加载]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/01042352b43d8318ba5a735f313ea883b566d32f.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_网好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aed37e54a9fa9f2531e3965a96e5f4f6f733bbe8.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆服务器_网差]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/659a3fa1f8a8a2d34f68b02d13ec9e2c374c6cdc.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1719303000001,
 				"name":"土豆服务器",
-				"tab_id":0,
 				"suit_item_id":217847101,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1719302103001,
 				"name":"土豆服务器",
-				"tab_id":0,
 				"suit_item_id":217847101,
 				"properties":{
 					"fan_no_color":"#ffffff",

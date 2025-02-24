@@ -36,7 +36,6 @@
 			{
 				"item_id":1736404408001,
 				"name":"星河Sagi动态卡片",
-				"tab_id":0,
 				"suit_item_id":301448401,
 				"properties":{
 					"fan_no_color":"#B97CB5",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1736411088001,
 				"name":"星河Sagi动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":301448401,
 				"properties":{
 					"fan_no_color":"#B97CB5",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1736404231001,
 				"name":"星河Sagi评论背景",
-				"tab_id":0,
 				"suit_item_id":301448401,
 				"properties":{
 					"fan_no_color":"#B97CB5",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1735811740001,
 				"name":"星河Sagi表情包",
-				"tab_id":0,
 				"suit_item_id":301448401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4fe1db6aeadcd86019552268da653952f5fb1af1.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"好运来\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8a28be45641d7e8012f19e44b95b8e60434c5a4.png\"},{\"name\":\"抢红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/9aae6124c33c405cd0cb5de110737336b8a403a3.png\"},{\"name\":\"恭喜发财\",\"image\":\"https://i0.hdslb.com/bfs/garb/667bc43e88a356945e21729ae20d554ff5c68499.png\"},{\"name\":\"吨吨吨\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f3bfe0011e7a84ce9213f48cff698c910db1084.png\"},{\"name\":\"憨憨叁上\",\"image\":\"https://i0.hdslb.com/bfs/garb/e77c2fab823a3ab4d143a7839068623fbdefca62.png\"},{\"name\":\"3.3\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf13b74f4fe414d1fbc5758c18a1f63bd2574209.png\"},{\"name\":\"www\",\"image\":\"https://i0.hdslb.com/bfs/garb/5bdf574fa3e26ab79b7db95b59783f6b68cee907.png\"},{\"name\":\"急急急\",\"image\":\"https://i0.hdslb.com/bfs/garb/480f8e58f2a5f7193880c8dd16e2d1a2e738517f.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/570d868ff4532f2d6f2898bfd91aef6077f1ebef.png\"},{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5d442ffdabb07b0470b5803804e82c7fda1c113.png\"},{\"name\":\"一滩憨泥\",\"image\":\"https://i0.hdslb.com/bfs/garb/39473b738c8558e42852be58a0d0369ed8d4d8cf.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/2501f4bab37cddd0c7d56289c03c784718540d31.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c4b81a6f63274fe556772f99ac5dbf354874718.png\"},{\"name\":\"一键三连\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c4d311bdf481488199a61ccc9abfe053e3ff473.png\"},{\"name\":\"prpr\",\"image\":\"https://i0.hdslb.com/bfs/garb/81e5f0eeea24b4ccba183952bfc6318ebefb3754.png\"},{\"name\":\"太萌啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f047841ca6f5eb59a541f0ae4df757ca09eef85.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/adb7bc55b2ec6d9b61ad6e5aa4609528e16def81.png\"},{\"name\":\"单推\",\"image\":\"https://i0.hdslb.com/bfs/garb/95bf3d09c2bdb80ac75f01e7f8d6042071408dff.png\"},{\"name\":\"你醒啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed8ab4456b29ee32a53ba9c30593a2afaaaddfda.png\"},{\"name\":\"嘿嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/0dad33989026b06c2896d82f3c10254f36feb02f.png\"},{\"name\":\"笨蛋\",\"image\":\"https://i0.hdslb.com/bfs/garb/ded0f5b138a0311aea2f8e4857f454258f9ed4a9.png\"},{\"name\":\"心动\",\"image\":\"https://i0.hdslb.com/bfs/garb/ebe67924799e9d9eb913ca188a1af352078e87ba.png\"},{\"name\":\"憨德加一\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d81e150b6cee35079b0b1dd2aa6a5f2f588d9e7.png\"},{\"name\":\"哒咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/90d75d9572abd58d59f7c15deba381519567ca68.png\"},{\"name\":\"叹气\",\"image\":\"https://i0.hdslb.com/bfs/garb/81d5779038a8c3bde0bacd5d6a7ed2d8057c601f.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,53 +100,7 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[星河Sagi表情包_好运来]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c8a28be45641d7e8012f19e44b95b8e60434c5a4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星河Sagi表情包_抢红包]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9aae6124c33c405cd0cb5de110737336b8a403a3.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星河Sagi表情包_恭喜发财]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/667bc43e88a356945e21729ae20d554ff5c68499.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星河Sagi表情包_吨吨吨]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2f3bfe0011e7a84ce9213f48cff698c910db1084.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星河Sagi表情包_憨憨叁上]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e77c2fab823a3ab4d143a7839068623fbdefca62.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[星河Sagi表情包_3.3]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bf13b74f4fe414d1fbc5758c18a1f63bd2574209.png",
 							"sale_type":"pay"
@@ -159,80 +108,7 @@
 					},
 					{
 						"item_id":0,
-						"name":"[星河Sagi表情包_www]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5bdf574fa3e26ab79b7db95b59783f6b68cee907.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星河Sagi表情包_急急急]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/480f8e58f2a5f7193880c8dd16e2d1a2e738517f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星河Sagi表情包_吃瓜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/570d868ff4532f2d6f2898bfd91aef6077f1ebef.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星河Sagi表情包_好耶]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f5d442ffdabb07b0470b5803804e82c7fda1c113.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星河Sagi表情包_一滩憨泥]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/39473b738c8558e42852be58a0d0369ed8d4d8cf.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星河Sagi表情包_贴贴]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2501f4bab37cddd0c7d56289c03c784718540d31.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星河Sagi表情包_打call]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1c4b81a6f63274fe556772f99ac5dbf354874718.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星河Sagi表情包_一键三连]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4c4d311bdf481488199a61ccc9abfe053e3ff473.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[星河Sagi表情包_prpr]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/81e5f0eeea24b4ccba183952bfc6318ebefb3754.png",
 							"sale_type":"pay"
@@ -240,35 +116,31 @@
 					},
 					{
 						"item_id":0,
-						"name":"[星河Sagi表情包_太萌啦]",
-						"tab_id":0,
+						"name":"[星河Sagi表情包_www]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0f047841ca6f5eb59a541f0ae4df757ca09eef85.png",
+							"image":"https://i0.hdslb.com/bfs/garb/5bdf574fa3e26ab79b7db95b59783f6b68cee907.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[星河Sagi表情包_暗中观察]",
-						"tab_id":0,
+						"name":"[星河Sagi表情包_一滩憨泥]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/adb7bc55b2ec6d9b61ad6e5aa4609528e16def81.png",
+							"image":"https://i0.hdslb.com/bfs/garb/39473b738c8558e42852be58a0d0369ed8d4d8cf.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[星河Sagi表情包_单推]",
-						"tab_id":0,
+						"name":"[星河Sagi表情包_一键三连]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/95bf3d09c2bdb80ac75f01e7f8d6042071408dff.png",
+							"image":"https://i0.hdslb.com/bfs/garb/4c4d311bdf481488199a61ccc9abfe053e3ff473.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[星河Sagi表情包_你醒啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ed8ab4456b29ee32a53ba9c30593a2afaaaddfda.png",
 							"sale_type":"pay"
@@ -276,44 +148,39 @@
 					},
 					{
 						"item_id":0,
-						"name":"[星河Sagi表情包_嘿嘿]",
-						"tab_id":0,
+						"name":"[星河Sagi表情包_单推]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0dad33989026b06c2896d82f3c10254f36feb02f.png",
+							"image":"https://i0.hdslb.com/bfs/garb/95bf3d09c2bdb80ac75f01e7f8d6042071408dff.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[星河Sagi表情包_笨蛋]",
-						"tab_id":0,
+						"name":"[星河Sagi表情包_叹气]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ded0f5b138a0311aea2f8e4857f454258f9ed4a9.png",
+							"image":"https://i0.hdslb.com/bfs/garb/81d5779038a8c3bde0bacd5d6a7ed2d8057c601f.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[星河Sagi表情包_心动]",
-						"tab_id":0,
+						"name":"[星河Sagi表情包_吃瓜]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ebe67924799e9d9eb913ca188a1af352078e87ba.png",
+							"image":"https://i0.hdslb.com/bfs/garb/570d868ff4532f2d6f2898bfd91aef6077f1ebef.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[星河Sagi表情包_憨德加一]",
-						"tab_id":0,
+						"name":"[星河Sagi表情包_吨吨吨]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1d81e150b6cee35079b0b1dd2aa6a5f2f588d9e7.png",
+							"image":"https://i0.hdslb.com/bfs/garb/2f3bfe0011e7a84ce9213f48cff698c910db1084.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[星河Sagi表情包_哒咩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/90d75d9572abd58d59f7c15deba381519567ca68.png",
 							"sale_type":"pay"
@@ -321,10 +188,113 @@
 					},
 					{
 						"item_id":0,
-						"name":"[星河Sagi表情包_叹气]",
-						"tab_id":0,
+						"name":"[星河Sagi表情包_嘿嘿]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/81d5779038a8c3bde0bacd5d6a7ed2d8057c601f.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0dad33989026b06c2896d82f3c10254f36feb02f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星河Sagi表情包_太萌啦]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0f047841ca6f5eb59a541f0ae4df757ca09eef85.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星河Sagi表情包_好耶]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f5d442ffdabb07b0470b5803804e82c7fda1c113.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星河Sagi表情包_好运来]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c8a28be45641d7e8012f19e44b95b8e60434c5a4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星河Sagi表情包_心动]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ebe67924799e9d9eb913ca188a1af352078e87ba.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星河Sagi表情包_急急急]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/480f8e58f2a5f7193880c8dd16e2d1a2e738517f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星河Sagi表情包_恭喜发财]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/667bc43e88a356945e21729ae20d554ff5c68499.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星河Sagi表情包_憨德加一]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1d81e150b6cee35079b0b1dd2aa6a5f2f588d9e7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星河Sagi表情包_憨憨叁上]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e77c2fab823a3ab4d143a7839068623fbdefca62.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星河Sagi表情包_打call]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1c4b81a6f63274fe556772f99ac5dbf354874718.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星河Sagi表情包_抢红包]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9aae6124c33c405cd0cb5de110737336b8a403a3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星河Sagi表情包_暗中观察]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/adb7bc55b2ec6d9b61ad6e5aa4609528e16def81.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星河Sagi表情包_笨蛋]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ded0f5b138a0311aea2f8e4857f454258f9ed4a9.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星河Sagi表情包_贴贴]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2501f4bab37cddd0c7d56289c03c784718540d31.png",
 							"sale_type":"pay"
 						}
 					}
@@ -335,7 +305,6 @@
 			{
 				"item_id":1736404061001,
 				"name":"星河Sagi加载动画",
-				"tab_id":0,
 				"suit_item_id":301448401,
 				"properties":{
 					"goods_type":"suit",
@@ -350,7 +319,6 @@
 			{
 				"item_id":1736404118001,
 				"name":"星河Sagi进度条",
-				"tab_id":0,
 				"suit_item_id":301448401,
 				"properties":{
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/d09909bf4a92f847b87af8e690f69e0316ab1241.png",
@@ -367,7 +335,6 @@
 			{
 				"item_id":1736405074001,
 				"name":"星河Sagi个性主题",
-				"tab_id":0,
 				"suit_item_id":301448401,
 				"properties":{
 					"color":"#000000",
@@ -408,7 +375,6 @@
 			{
 				"item_id":1735812420001,
 				"name":"星河Sagi空间背景",
-				"tab_id":0,
 				"suit_item_id":301448401,
 				"properties":{
 					"fan_no_color":"#ffffff",
@@ -432,7 +398,6 @@
 			{
 				"item_id":1736403954001,
 				"name":"星河Sagi动态点赞",
-				"tab_id":0,
 				"suit_item_id":301448401,
 				"properties":{
 					"goods_type":"suit",

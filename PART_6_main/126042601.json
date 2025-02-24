@@ -35,7 +35,6 @@
 			{
 				"item_id":1695246907001,
 				"name":"MEIDAY",
-				"tab_id":0,
 				"suit_item_id":126042601,
 				"properties":{
 					"fan_no_color":"#FF689A",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1695489855001,
 				"name":"MEIDAY粉丝",
-				"tab_id":0,
 				"suit_item_id":126042601,
 				"properties":{
 					"fan_no_color":"#FF689A",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1695247400001,
 				"name":"MEIDAY",
-				"tab_id":0,
 				"suit_item_id":126042601,
 				"properties":{
 					"fan_no_color":"#FF004D",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1697462611001,
 				"name":"day",
-				"tab_id":0,
 				"suit_item_id":126042601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d76826aa28a10e9de58007a75370d3f5185b797a.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"荔枝\",\"image\":\"https://i0.hdslb.com/bfs/garb/67745a606b4e7edca230826b07aed87048ab6c34.png\"},{\"name\":\"切割\",\"image\":\"https://i0.hdslb.com/bfs/garb/8998848fbeaa79856cf6193facbe5c8b89dc1ebc.png\"},{\"name\":\"给你花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/25a02f7d2b2ffb38daf5e992a67fa8630721dd72.png\"},{\"name\":\"已阅\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0ecd85cec0cbf17e65b0ffddf818ced8bdeced4.png\"},{\"name\":\"run\",\"image\":\"https://i0.hdslb.com/bfs/garb/51fe866f8cd1ab417bb7e42d06d49f23af187ca3.png\"},{\"name\":\"麻了\",\"image\":\"https://i0.hdslb.com/bfs/garb/aafedde709813915f47da0c1e5dc35e655169ba4.png\"},{\"name\":\"落寞南瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7b199d744ea2c98f18d547f26ff4ca7a30919e2.png\"},{\"name\":\"做饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0b82a4111a46d91c63130c13bf149b6a513b8b7.png\"},{\"name\":\"就是就是\",\"image\":\"https://i0.hdslb.com/bfs/garb/46f2a92724af0ad89c574edbb1518068537f5f8b.png\"},{\"name\":\"哼哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7231ddb09d18aff16bfbf6024f61343e7376a4c.png\"},{\"name\":\"吃包子\",\"image\":\"https://i0.hdslb.com/bfs/garb/45bd94d586f1895b7b128f741d22118983c9c645.png\"},{\"name\":\"笑嘻了\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d2d4f0d965810f0f85cb23765c239fb4c0bef9d.png\"},{\"name\":\"爱心糖果\",\"image\":\"https://i0.hdslb.com/bfs/garb/c28fcc6c0a74459adee278765b253a17958d9863.png\"},{\"name\":\"黑脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/4d7abf15a99c3269d4b4d2201199f74bf3983430.png\"},{\"name\":\"我吸\",\"image\":\"https://i0.hdslb.com/bfs/garb/2146469da80dfe63ca8fab2a9c8a476fdb22d683.png\"},{\"name\":\"买买买\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc386147a560f48b106c0940d4c1c1b2f154fe7e.png\"},{\"name\":\"对不起\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1eb3c3f6c6795999c7cb0c047be45449544cc22.png\"},{\"name\":\"万圣节快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/0910ea45e95317dfc32fa04957944a4392fc409a.png\"},{\"name\":\"围观\",\"image\":\"https://i0.hdslb.com/bfs/garb/52a8bb8b543e25511af41268373bfb2aed2377aa.png\"},{\"name\":\"？\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa22325799c62979c199cbb1198acf7b5327df2c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[day_run]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/51fe866f8cd1ab417bb7e42d06d49f23af187ca3.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[day_万圣节快乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0910ea45e95317dfc32fa04957944a4392fc409a.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[day_买买买]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cc386147a560f48b106c0940d4c1c1b2f154fe7e.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[day_做饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d0b82a4111a46d91c63130c13bf149b6a513b8b7.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[day_切割]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8998848fbeaa79856cf6193facbe5c8b89dc1ebc.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[day_吃包子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/45bd94d586f1895b7b128f741d22118983c9c645.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[day_哼哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f7231ddb09d18aff16bfbf6024f61343e7376a4c.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[day_围观]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/52a8bb8b543e25511af41268373bfb2aed2377aa.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[day_对不起]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c1eb3c3f6c6795999c7cb0c047be45449544cc22.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[day_就是就是]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/46f2a92724af0ad89c574edbb1518068537f5f8b.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[day_已阅]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c0ecd85cec0cbf17e65b0ffddf818ced8bdeced4.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[day_我吸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2146469da80dfe63ca8fab2a9c8a476fdb22d683.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[day_爱心糖果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c28fcc6c0a74459adee278765b253a17958d9863.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[day_笑嘻了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1d2d4f0d965810f0f85cb23765c239fb4c0bef9d.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[day_给你花花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/25a02f7d2b2ffb38daf5e992a67fa8630721dd72.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[day_荔枝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/67745a606b4e7edca230826b07aed87048ab6c34.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[day_落寞南瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c7b199d744ea2c98f18d547f26ff4ca7a30919e2.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[day_麻了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aafedde709813915f47da0c1e5dc35e655169ba4.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[day_黑脸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4d7abf15a99c3269d4b4d2201199f74bf3983430.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[day_？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aa22325799c62979c199cbb1198acf7b5327df2c.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1693483544001,
 				"name":"MEIDAY",
-				"tab_id":0,
 				"suit_item_id":126042601,
 				"properties":{
 					"color":"#000000",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1694894695001,
 				"name":"MEIDAY",
-				"tab_id":0,
 				"suit_item_id":126042601,
 				"properties":{
 					"fan_no_color":"#ffffff",

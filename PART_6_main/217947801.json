@@ -35,7 +35,6 @@
 			{
 				"item_id":1719307334001,
 				"name":"该用户已注销",
-				"tab_id":0,
 				"suit_item_id":217947801,
 				"properties":{
 					"fan_no_color":"#C8C8C8",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1719393737001,
 				"name":"该用户已注销粉丝",
-				"tab_id":0,
 				"suit_item_id":217947801,
 				"properties":{
 					"fan_no_color":"#C8C8C8",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1719307383001,
 				"name":"该用户已注销",
-				"tab_id":0,
 				"suit_item_id":217947801,
 				"properties":{
 					"fan_no_color":"#ACACAC",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1719307283001,
 				"name":"该用户已注销",
-				"tab_id":0,
 				"suit_item_id":217947801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/33fab1e6b1530702576c16974447f439bfbbe12e.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"离线状态\",\"image\":\"https://i0.hdslb.com/bfs/garb/4026ecb92eebdcb075ba075d020b58ef1b47613b.png\"},{\"name\":\"裂了\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9408ea16ba8c12dd4ed38a2a016a59933d5178a.png\"},{\"name\":\"出故障\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b1661a99953b532fae37ba8f644886de3493bd0.png\"},{\"name\":\"禁止凝视\",\"image\":\"https://i0.hdslb.com/bfs/garb/03095f6ef3fd673dc0d7dce192a00991355caf10.png\"},{\"name\":\"安全感消失\",\"image\":\"https://i0.hdslb.com/bfs/garb/0423a251e9909cb3e389c88e77d9495eef4b57d2.png\"},{\"name\":\"加载中\",\"image\":\"https://i0.hdslb.com/bfs/garb/38362f3d8041c72e725d05418ccee0abdd53ef3e.png\"},{\"name\":\"out\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b9e6ddd906e5f48ebb0205243e807f318be2310.png\"},{\"name\":\"无信号\",\"image\":\"https://i0.hdslb.com/bfs/garb/4d1aad00d74c9429a3e53fa4b322c09f176517ec.png\"},{\"name\":\"茶香四溢\",\"image\":\"https://i0.hdslb.com/bfs/garb/b03b52dcc464292152f76ca76398893485101485.png\"},{\"name\":\"小太阳\",\"image\":\"https://i0.hdslb.com/bfs/garb/6af061345f3c46389b8713d89272cf8e5f86f89f.png\"},{\"name\":\"营业状态\",\"image\":\"https://i0.hdslb.com/bfs/garb/a51c2bdfc52f021bbd6483213858316e0a76aefb.png\"},{\"name\":\"跑路\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d92c3d37b750a414021f8896a0aa5080cbd0047.png\"},{\"name\":\"up！\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ad18572fc3e15e18d429bd75e6c8341706a304e.png\"},{\"name\":\"停止营业\",\"image\":\"https://i0.hdslb.com/bfs/garb/6edcbe8e1361c71b04ac2f701407efa2ee511dbf.png\"},{\"name\":\"天使猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c9b9789c282dfb924185196fb5257a55315ec05.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_out]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9b9e6ddd906e5f48ebb0205243e807f318be2310.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_up！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3ad18572fc3e15e18d429bd75e6c8341706a304e.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_停止营业]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6edcbe8e1361c71b04ac2f701407efa2ee511dbf.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_出故障]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6b1661a99953b532fae37ba8f644886de3493bd0.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_加载中]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/38362f3d8041c72e725d05418ccee0abdd53ef3e.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_天使猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6c9b9789c282dfb924185196fb5257a55315ec05.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_安全感消失]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0423a251e9909cb3e389c88e77d9495eef4b57d2.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_小太阳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6af061345f3c46389b8713d89272cf8e5f86f89f.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_无信号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4d1aad00d74c9429a3e53fa4b322c09f176517ec.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_禁止凝视]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/03095f6ef3fd673dc0d7dce192a00991355caf10.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_离线状态]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4026ecb92eebdcb075ba075d020b58ef1b47613b.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_茶香四溢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b03b52dcc464292152f76ca76398893485101485.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_营业状态]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a51c2bdfc52f021bbd6483213858316e0a76aefb.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_裂了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e9408ea16ba8c12dd4ed38a2a016a59933d5178a.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[该用户已注销_跑路]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2d92c3d37b750a414021f8896a0aa5080cbd0047.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1719307936001,
 				"name":"该用户已注销",
-				"tab_id":0,
 				"suit_item_id":217947801,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1719307820001,
 				"name":"该用户已注销",
-				"tab_id":0,
 				"suit_item_id":217947801,
 				"properties":{
 					"fan_no_color":"#ffffff",

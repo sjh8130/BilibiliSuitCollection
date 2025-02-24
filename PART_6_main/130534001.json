@@ -35,7 +35,6 @@
 			{
 				"item_id":1698040414001,
 				"name":"土豆巴拉",
-				"tab_id":0,
 				"suit_item_id":130534001,
 				"properties":{
 					"fan_no_color":"#ED8E0B",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1698040414002,
 				"name":"土豆巴拉粉丝",
-				"tab_id":0,
 				"suit_item_id":130534001,
 				"properties":{
 					"fan_no_color":"#ED8E0B",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1698040436001,
 				"name":"土豆巴拉",
-				"tab_id":0,
 				"suit_item_id":130534001,
 				"properties":{
 					"fan_no_color":"#F27B1A",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1698030834001,
 				"name":"土豆巴拉",
-				"tab_id":0,
 				"suit_item_id":130534001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/79faaaccc657db826e34fa0908f5020d161a22c9.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"瘫倒\",\"image\":\"https://i0.hdslb.com/bfs/garb/c55ae0f4dbcc831b05d9649e579d5bb38b53211b.png\"},{\"name\":\"欸嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/397a214f88791fad2c4ed87a5db11b6eda0850a7.png\"},{\"name\":\"放松\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a6ac2a4d8218affd4a83939303b65c31366ffdf.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/33e0b0223eb46af8a1645e68213c8a6cc849b1b9.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/c28476e1d0e6d71e3454c4a3b3a5ddf0297fbc3c.png\"},{\"name\":\"被吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad39810c4bc7876b096503324607a84227561bf1.png\"},{\"name\":\"又被吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/4900bc4cdaf1dac30ed4fca2ab3954d90ec94cb3.png\"},{\"name\":\"突然出现\",\"image\":\"https://i0.hdslb.com/bfs/garb/13ea11481ed9b9299ce6e55ff87497ab2242759f.png\"},{\"name\":\"快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/60bf171dc341edddec8440e2864ad4975cd572ac.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/c752e740a187c802831c39966778c4d0f6471501.png\"},{\"name\":\"泡汤\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e86242f0adfd603fa599ddfa1b7d2e8374f9837.png\"},{\"name\":\"大闹\",\"image\":\"https://i0.hdslb.com/bfs/garb/27c230f9eb88037fb444a060ae29d35f0127c423.png\"},{\"name\":\"智慧凝视\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1529b8d2c9cc4c1707ba2e80f148f5e66dbc0fb.png\"},{\"name\":\"单独泡汤\",\"image\":\"https://i0.hdslb.com/bfs/garb/9072a46e95a254a95584a2516faf953772c56126.png\"},{\"name\":\"颤抖\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8b4a812f8a561d5e7cfec13f68769c6f950b9f2.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_单独泡汤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9072a46e95a254a95584a2516faf953772c56126.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_又被吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4900bc4cdaf1dac30ed4fca2ab3954d90ec94cb3.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_大闹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/27c230f9eb88037fb444a060ae29d35f0127c423.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_快乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/60bf171dc341edddec8440e2864ad4975cd572ac.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_放松]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8a6ac2a4d8218affd4a83939303b65c31366ffdf.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_智慧凝视]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d1529b8d2c9cc4c1707ba2e80f148f5e66dbc0fb.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_欸嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/397a214f88791fad2c4ed87a5db11b6eda0850a7.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_泡汤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7e86242f0adfd603fa599ddfa1b7d2e8374f9837.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c28476e1d0e6d71e3454c4a3b3a5ddf0297fbc3c.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c752e740a187c802831c39966778c4d0f6471501.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_瘫倒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c55ae0f4dbcc831b05d9649e579d5bb38b53211b.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/33e0b0223eb46af8a1645e68213c8a6cc849b1b9.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_突然出现]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/13ea11481ed9b9299ce6e55ff87497ab2242759f.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_被吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ad39810c4bc7876b096503324607a84227561bf1.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆巴拉_颤抖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f8b4a812f8a561d5e7cfec13f68769c6f950b9f2.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1698040578001,
 				"name":"土豆巴拉",
-				"tab_id":0,
 				"suit_item_id":130534001,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1698040473001,
 				"name":"土豆巴拉",
-				"tab_id":0,
 				"suit_item_id":130534001,
 				"properties":{
 					"fan_no_color":"#ffffff",

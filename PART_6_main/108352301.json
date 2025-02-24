@@ -33,7 +33,6 @@
 			{
 				"item_id":1679291822001,
 				"name":"表情涂鸦",
-				"tab_id":0,
 				"suit_item_id":108352301,
 				"properties":{
 					"fan_no_color":"#000000",
@@ -47,7 +46,6 @@
 			{
 				"item_id":1679291822002,
 				"name":"表情涂鸦粉丝",
-				"tab_id":0,
 				"suit_item_id":108352301,
 				"properties":{
 					"fan_no_color":"#000000",
@@ -64,7 +62,6 @@
 			{
 				"item_id":1679291921001,
 				"name":"表情涂鸦",
-				"tab_id":0,
 				"suit_item_id":108352301,
 				"properties":{
 					"fan_no_color":"#7A7A7A",
@@ -79,14 +76,12 @@
 			{
 				"item_id":1679292794001,
 				"name":"表情涂鸦",
-				"tab_id":0,
 				"suit_item_id":108352301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/bea754ea4e8d6f4df703f00c9ba640a88842e762.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/be00fb0ee4d2cc94d62c9052cc82259f5c322b97.png\"},{\"name\":\"尴尬\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdf076298e65fd9b8f149f47fd7d7527d59b5cba.png\"},{\"name\":\"气愤\",\"image\":\"https://i0.hdslb.com/bfs/garb/57b251bf072a33e3dd064d3ac28a0ed0fbaffeb6.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/988076ddaf51a942192187d6259aab768e28bfe1.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/9c30792c580b1383046b223bf9f874fe77a409b3.png\"},{\"name\":\"晕眩\",\"image\":\"https://i0.hdslb.com/bfs/garb/81016b77fdc454d267217d9e0571702b906fe8bd.png\"},{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fb7ffcf46791dbb041b07bfddd9c931b2b4a8fe.png\"},{\"name\":\"乖巧\",\"image\":\"https://i0.hdslb.com/bfs/garb/cbe53d0d1809cee53f7ab9942a98dbc85cce8318.png\"},{\"name\":\"失落\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5f3ff8f450cc82ebc6e918c2746387b0005c041.png\"},{\"name\":\"崩溃\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d015b6a2268cfbadc41300f7d12e9997ec06e36.png\"},{\"name\":\"可怜\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b08c306ce68e072c1bca2867ab18dddfcce158a.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/32b2784348d5e7ac0efb43295e54e10fde314b63.png\"},{\"name\":\"帅气\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea65e7179d73b770062752c5835a0076f2419f1a.png\"},{\"name\":\"着迷\",\"image\":\"https://i0.hdslb.com/bfs/garb/36856df31364ec5ea99e4018db847b88aba6e811.png\"},{\"name\":\"小丑\",\"image\":\"https://i0.hdslb.com/bfs/garb/59610eec9d5b8bb95c715526f9c3b3d54f5cbefe.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -102,7 +97,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_乖巧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cbe53d0d1809cee53f7ab9942a98dbc85cce8318.png",
 							"sale_type":"pay"
@@ -111,7 +105,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_亲亲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1fb7ffcf46791dbb041b07bfddd9c931b2b4a8fe.png",
 							"sale_type":"pay"
@@ -120,7 +113,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_可怜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1b08c306ce68e072c1bca2867ab18dddfcce158a.png",
 							"sale_type":"pay"
@@ -129,7 +121,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_嘻嘻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/32b2784348d5e7ac0efb43295e54e10fde314b63.png",
 							"sale_type":"pay"
@@ -138,7 +129,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_失落]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c5f3ff8f450cc82ebc6e918c2746387b0005c041.png",
 							"sale_type":"pay"
@@ -147,7 +137,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9c30792c580b1383046b223bf9f874fe77a409b3.png",
 							"sale_type":"pay"
@@ -156,7 +145,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_小丑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/59610eec9d5b8bb95c715526f9c3b3d54f5cbefe.png",
 							"sale_type":"pay"
@@ -165,7 +153,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_尴尬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bdf076298e65fd9b8f149f47fd7d7527d59b5cba.png",
 							"sale_type":"pay"
@@ -174,7 +161,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_崩溃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d015b6a2268cfbadc41300f7d12e9997ec06e36.png",
 							"sale_type":"pay"
@@ -183,7 +169,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_帅气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea65e7179d73b770062752c5835a0076f2419f1a.png",
 							"sale_type":"pay"
@@ -192,7 +177,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/be00fb0ee4d2cc94d62c9052cc82259f5c322b97.png",
 							"sale_type":"pay"
@@ -201,7 +185,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_晕眩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/81016b77fdc454d267217d9e0571702b906fe8bd.png",
 							"sale_type":"pay"
@@ -210,7 +193,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/988076ddaf51a942192187d6259aab768e28bfe1.png",
 							"sale_type":"pay"
@@ -219,7 +201,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_气愤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/57b251bf072a33e3dd064d3ac28a0ed0fbaffeb6.png",
 							"sale_type":"pay"
@@ -228,7 +209,6 @@
 					{
 						"item_id":0,
 						"name":"[表情涂鸦_着迷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/36856df31364ec5ea99e4018db847b88aba6e811.png",
 							"sale_type":"pay"
@@ -241,7 +221,6 @@
 			{
 				"item_id":1679293753001,
 				"name":"表情涂鸦",
-				"tab_id":0,
 				"suit_item_id":108352301,
 				"properties":{
 					"color":"#000000",
@@ -281,7 +260,6 @@
 			{
 				"item_id":1679292127001,
 				"name":"表情涂鸦",
-				"tab_id":0,
 				"suit_item_id":108352301,
 				"properties":{
 					"fan_no_color":"#ffffff",

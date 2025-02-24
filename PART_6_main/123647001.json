@@ -37,7 +37,6 @@
 			{
 				"item_id":1692825963001,
 				"name":"动态卡片1",
-				"tab_id":0,
 				"suit_item_id":123647001,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -51,7 +50,6 @@
 			{
 				"item_id":1692825963002,
 				"name":"动态卡片1粉丝",
-				"tab_id":0,
 				"suit_item_id":123647001,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -68,7 +66,6 @@
 			{
 				"item_id":1692826020001,
 				"name":"评论背景1",
-				"tab_id":0,
 				"suit_item_id":123647001,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -83,14 +80,12 @@
 			{
 				"item_id":1692825860001,
 				"name":"表情包1",
-				"tab_id":0,
 				"suit_item_id":123647001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9cc400b16c3bb853c450175eec6d158c70647809.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb8d4c0057b83a69b48f135cca83873d27813dbd.png\"},{\"name\":\"？\",\"image\":\"https://i0.hdslb.com/bfs/garb/d24befe125f778d615775dc1aca6ad9bf0b47938.png\"},{\"name\":\"拜托了\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd75b6b1bdf96e24917357589440eaab0fcc1a78.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/1887063be36658e97f099636a43873825700e670.png\"},{\"name\":\"叉腰\",\"image\":\"https://i0.hdslb.com/bfs/garb/43ca8cf8c32aa77cfcae3aed22c468227a8302f5.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/a78837798e5d14d85f09f7b30b8d47d4ce261a99.png\"},{\"name\":\"麻了\",\"image\":\"https://i0.hdslb.com/bfs/garb/dfe3a05540b2d573ddfdfb462fb593829d23232f.png\"},{\"name\":\"抖\",\"image\":\"https://i0.hdslb.com/bfs/garb/95a5daee1ab382a7f74fb871d02fc6a982d817a0.png\"},{\"name\":\"hi\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c7141b8addbcf6c2fe99d57a5671681b6b54200.png\"},{\"name\":\"嘿嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/a75e0f693616efbbd23606e71fe26626e5302f53.png\"},{\"name\":\"乆\",\"image\":\"https://i0.hdslb.com/bfs/garb/56d3ab5e5f9a6310820aa6e10ac2bfe048b0c78f.png\"},{\"name\":\"就这？\",\"image\":\"https://i0.hdslb.com/bfs/garb/bed1f3592189024c086b1a140abf761618fd7480.png\"},{\"name\":\"灵魂出窍\",\"image\":\"https://i0.hdslb.com/bfs/garb/57eb6249541600c75913408a3fb9e23f2a8567cc.png\"},{\"name\":\"晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ab56bbadaf72e26b895bcc499321cce8304f14f.png\"},{\"name\":\"装酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/f25aabaab5ee2316189463b3fda0cd6ff1c672e9.png\"},{\"name\":\"嗦面\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca1771389acb0971c1548a75f9b4e77d6d13ab88.png\"},{\"name\":\"唉\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce65e27d625ff08a7eda84328451474406f6e77b.png\"},{\"name\":\"我全都要！\",\"image\":\"https://i0.hdslb.com/bfs/garb/e907a047b18f813034c918ae97359f471ff50d2b.png\"},{\"name\":\"呃\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd5c7bef8f981e152f1a589ec4404822512a80f3.png\"},{\"name\":\"下饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/91188fe418749c5f0fa82d2299f199e9d83a199c.png\"},{\"name\":\"嫌弃\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b06b774f04053c35881b00233f66ab055d824db.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/657c8579c02de3be5ee0bc9ceb8429bf16339200.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/3858df964e068b1e2fd1e2abff46e873c9698924.png\"},{\"name\":\"有一说一\",\"image\":\"https://i0.hdslb.com/bfs/garb/b889bbf79579badadfd9813825e6f1b0a9169447.png\"},{\"name\":\"惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/caeca02c77b5bba6832f0bf2b7a676f1ee7ebc0d.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_hi]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c7141b8addbcf6c2fe99d57a5671681b6b54200.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_下饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/91188fe418749c5f0fa82d2299f199e9d83a199c.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_乆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/56d3ab5e5f9a6310820aa6e10ac2bfe048b0c78f.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_叉腰]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/43ca8cf8c32aa77cfcae3aed22c468227a8302f5.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_呃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cd5c7bef8f981e152f1a589ec4404822512a80f3.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_哇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3858df964e068b1e2fd1e2abff46e873c9698924.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_唉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce65e27d625ff08a7eda84328451474406f6e77b.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_嗦面]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ca1771389acb0971c1548a75f9b4e77d6d13ab88.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_嘿嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a75e0f693616efbbd23606e71fe26626e5302f53.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_嫌弃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3b06b774f04053c35881b00233f66ab055d824db.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_就这？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bed1f3592189024c086b1a140abf761618fd7480.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_思考]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/657c8579c02de3be5ee0bc9ceb8429bf16339200.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/caeca02c77b5bba6832f0bf2b7a676f1ee7ebc0d.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_我全都要！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e907a047b18f813034c918ae97359f471ff50d2b.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a78837798e5d14d85f09f7b30b8d47d4ce261a99.png",
 							"sale_type":"pay"
@@ -241,7 +221,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_抖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/95a5daee1ab382a7f74fb871d02fc6a982d817a0.png",
 							"sale_type":"pay"
@@ -250,7 +229,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_拜托了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cd75b6b1bdf96e24917357589440eaab0fcc1a78.png",
 							"sale_type":"pay"
@@ -259,7 +237,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_晕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4ab56bbadaf72e26b895bcc499321cce8304f14f.png",
 							"sale_type":"pay"
@@ -268,7 +245,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_有一说一]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b889bbf79579badadfd9813825e6f1b0a9169447.png",
 							"sale_type":"pay"
@@ -277,7 +253,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1887063be36658e97f099636a43873825700e670.png",
 							"sale_type":"pay"
@@ -286,7 +261,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_灵魂出窍]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/57eb6249541600c75913408a3fb9e23f2a8567cc.png",
 							"sale_type":"pay"
@@ -295,7 +269,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eb8d4c0057b83a69b48f135cca83873d27813dbd.png",
 							"sale_type":"pay"
@@ -304,7 +277,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_装酷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f25aabaab5ee2316189463b3fda0cd6ff1c672e9.png",
 							"sale_type":"pay"
@@ -313,7 +285,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_麻了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dfe3a05540b2d573ddfdfb462fb593829d23232f.png",
 							"sale_type":"pay"
@@ -322,7 +293,6 @@
 					{
 						"item_id":0,
 						"name":"[表情包1_？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d24befe125f778d615775dc1aca6ad9bf0b47938.png",
 							"sale_type":"pay"
@@ -335,7 +305,6 @@
 			{
 				"item_id":1692826182001,
 				"name":"加载动画1",
-				"tab_id":0,
 				"suit_item_id":123647001,
 				"properties":{
 					"goods_type":"suit",
@@ -350,7 +319,6 @@
 			{
 				"item_id":1692826216001,
 				"name":"进度条2",
-				"tab_id":0,
 				"suit_item_id":123647001,
 				"properties":{
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/a19f7d1dda1f5d14234186dd7184d089df413e1f.png",
@@ -367,7 +335,6 @@
 			{
 				"item_id":1692862448001,
 				"name":"封面图1",
-				"tab_id":0,
 				"suit_item_id":123647001,
 				"properties":{
 					"color":"#000000",
@@ -407,7 +374,6 @@
 			{
 				"item_id":1692826072001,
 				"name":"空间背景1",
-				"tab_id":0,
 				"suit_item_id":123647001,
 				"properties":{
 					"fan_no_color":"#ffffff",
@@ -427,7 +393,6 @@
 			{
 				"item_id":1692826137001,
 				"name":"动态点赞1",
-				"tab_id":0,
 				"suit_item_id":123647001,
 				"properties":{
 					"goods_type":"suit",

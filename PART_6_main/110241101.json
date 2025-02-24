@@ -36,7 +36,6 @@
 			{
 				"item_id":1681182993001,
 				"name":"墨宝",
-				"tab_id":0,
 				"suit_item_id":110241101,
 				"properties":{
 					"fan_no_color":"#43474D",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1681182993002,
 				"name":"墨宝粉丝",
-				"tab_id":0,
 				"suit_item_id":110241101,
 				"properties":{
 					"fan_no_color":"#43474D",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1681183803001,
 				"name":"墨宝",
-				"tab_id":0,
 				"suit_item_id":110241101,
 				"properties":{
 					"fan_no_color":"#4A586E",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1681183016001,
 				"name":"墨宝",
-				"tab_id":0,
 				"suit_item_id":110241101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/613b00ec982f6ea2c290a590b8da3f039e029dc3.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"困惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/8bc1edbdea44223e9454c35d8da144a4ba2c26da.png\"},{\"name\":\"嗯\",\"image\":\"https://i0.hdslb.com/bfs/garb/db5ba53e210759130d5c99cdfe72465d4a45b535.png\"},{\"name\":\"回见\",\"image\":\"https://i0.hdslb.com/bfs/garb/f603f8f2a93938c66d65a94948ceadd429504dc9.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/03c972b609f1fd8091cb483461b8a3670b762370.png\"},{\"name\":\"靠谱\",\"image\":\"https://i0.hdslb.com/bfs/garb/498e8cc04ddea691cc78445109607dde089db928.png\"},{\"name\":\"干嘛\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0c04a4bca8fe6b3296796f31a46d3f5473e66ae.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/e85d0f3cd2b128284a39afd9e3a67bf3904fc086.png\"},{\"name\":\"哎哟喂\",\"image\":\"https://i0.hdslb.com/bfs/garb/b1ffecfdb1cc9f949541761e9a5007de9fb88a76.png\"},{\"name\":\"不用\",\"image\":\"https://i0.hdslb.com/bfs/garb/d4ede5a27df46c257c7cc34a6606923109461185.png\"},{\"name\":\"怕怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0f8a63d923bc00f722fe3e6c6939ca15d778705.png\"},{\"name\":\"来啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/603d7313fe71556b4007653acf105f043057acf6.png\"},{\"name\":\"倍棒儿\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ec31ad7660ac75cd768dc8cb09aac0d1d8b1c33.png\"},{\"name\":\"OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e4f02938b30ceb47524e44423cd4713b5f8c63b.png\"},{\"name\":\"喝奶茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b688bf329587206c83b8bbc84c028333335c8be.png\"},{\"name\":\"消停会\",\"image\":\"https://i0.hdslb.com/bfs/garb/37859c45333f09c161546e8a62b5457dc060c8bb.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_OK]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8e4f02938b30ceb47524e44423cd4713b5f8c63b.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_不用]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d4ede5a27df46c257c7cc34a6606923109461185.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_倍棒儿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7ec31ad7660ac75cd768dc8cb09aac0d1d8b1c33.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_哎哟喂]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b1ffecfdb1cc9f949541761e9a5007de9fb88a76.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_喝奶茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8b688bf329587206c83b8bbc84c028333335c8be.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_嗯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db5ba53e210759130d5c99cdfe72465d4a45b535.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_回见]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f603f8f2a93938c66d65a94948ceadd429504dc9.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_困惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8bc1edbdea44223e9454c35d8da144a4ba2c26da.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_干嘛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f0c04a4bca8fe6b3296796f31a46d3f5473e66ae.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e85d0f3cd2b128284a39afd9e3a67bf3904fc086.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_怕怕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f0f8a63d923bc00f722fe3e6c6939ca15d778705.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_来啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/603d7313fe71556b4007653acf105f043057acf6.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_消停会]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/37859c45333f09c161546e8a62b5457dc060c8bb.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/03c972b609f1fd8091cb483461b8a3670b762370.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[墨宝_靠谱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/498e8cc04ddea691cc78445109607dde089db928.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1681183688001,
 				"name":"墨宝",
-				"tab_id":0,
 				"suit_item_id":110241101,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1681183064001,
 				"name":"墨宝",
-				"tab_id":0,
 				"suit_item_id":110241101,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -36,7 +36,6 @@
 			{
 				"item_id":1689822745001,
 				"name":"棉花小兔Mofy3",
-				"tab_id":0,
 				"suit_item_id":121332401,
 				"properties":{
 					"fan_no_color":"#EF9494",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1689822745002,
 				"name":"棉花小兔Mofy3粉丝",
-				"tab_id":0,
 				"suit_item_id":121332401,
 				"properties":{
 					"fan_no_color":"#EF9494",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1681118243001,
 				"name":"棉花小兔Mofy",
-				"tab_id":0,
 				"suit_item_id":121332401,
 				"properties":{
 					"fan_no_color":"#F9ABAB",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1685333493001,
 				"name":"棉花小兔mofy2",
-				"tab_id":0,
 				"suit_item_id":121332401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/407f456d0a4d2b46f483846963b593c5f240500d.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"啊啊啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/b65b76686a6920600dabdbc021c4a20ccbf0a1da.png\"},{\"name\":\"吃松果\",\"image\":\"https://i0.hdslb.com/bfs/garb/1eb901791ee8bec09f53653d3c41f7617800ccb2.png\"},{\"name\":\"啊这\",\"image\":\"https://i0.hdslb.com/bfs/garb/481c81ba8bd31a85d0972599c7241767918143df.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a9abda3ee420ada5a0b303b3db9409e21042372.png\"},{\"name\":\"好朋友\",\"image\":\"https://i0.hdslb.com/bfs/garb/fa9cd376aac4c12e90a4f38ce2adb631c2e23994.png\"},{\"name\":\"怀疑\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9f80a8fe54c8d014653953392f8b9dbdb2f5e13.png\"},{\"name\":\"探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/196ec210e93fcf01de6e959cd23c4a954fa01f9d.png\"},{\"name\":\"看戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e2e8f1fd1a85d1fa7e7262bcae225c023d97e19.png\"},{\"name\":\"脸红\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a0edb6e7cee9d71941c865362ea5a1046850571.png\"},{\"name\":\"惊讶\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f3da8c65414814aa28a8fec3fa5213d7301101d.png\"},{\"name\":\"小委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/adc78f3699580ba86346d3f4283e06d5515bde84.png\"},{\"name\":\"小可怜\",\"image\":\"https://i0.hdslb.com/bfs/garb/23140422afd1d671e2f814fc558293ae471f87fb.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/53a2452b6cb486f14763f32b05dfefa930724f57.png\"},{\"name\":\"歪歪嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/4cb093f04d3d65a6c7ed6575305bd333897f6ab7.png\"},{\"name\":\"记下来\",\"image\":\"https://i0.hdslb.com/bfs/garb/03fff5970c59a5220f92955e20282b675185d90e.png\"},{\"name\":\"笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/fea7d802e482dc1014720b2e6ae4ac119a28c83a.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/3fb46857d0dba7a1ab6d2541df524ad1fef7ee47.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/a91d367b37fae4afe7ce19f044e8a4f6ce807ab0.png\"},{\"name\":\"送你花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/86c3570e00479380bd2277e1df268ddae07575e5.png\"},{\"name\":\"酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/9cd0b56bbbcba473e2a07cd38ea052c65b5fd4a4.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_吃松果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1eb901791ee8bec09f53653d3c41f7617800ccb2.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_啊啊啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b65b76686a6920600dabdbc021c4a20ccbf0a1da.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_啊这]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/481c81ba8bd31a85d0972599c7241767918143df.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_大哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3a9abda3ee420ada5a0b303b3db9409e21042372.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_好朋友]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fa9cd376aac4c12e90a4f38ce2adb631c2e23994.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_小可怜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/23140422afd1d671e2f814fc558293ae471f87fb.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_小委屈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/adc78f3699580ba86346d3f4283e06d5515bde84.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/53a2452b6cb486f14763f32b05dfefa930724f57.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_怀疑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d9f80a8fe54c8d014653953392f8b9dbdb2f5e13.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_惊讶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0f3da8c65414814aa28a8fec3fa5213d7301101d.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_探头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/196ec210e93fcf01de6e959cd23c4a954fa01f9d.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3fb46857d0dba7a1ab6d2541df524ad1fef7ee47.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_歪歪嘴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4cb093f04d3d65a6c7ed6575305bd333897f6ab7.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_盯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a91d367b37fae4afe7ce19f044e8a4f6ce807ab0.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_看戏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e2e8f1fd1a85d1fa7e7262bcae225c023d97e19.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fea7d802e482dc1014720b2e6ae4ac119a28c83a.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_脸红]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a0edb6e7cee9d71941c865362ea5a1046850571.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_记下来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/03fff5970c59a5220f92955e20282b675185d90e.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_送你花花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/86c3570e00479380bd2277e1df268ddae07575e5.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[棉花小兔mofy2_酷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9cd0b56bbbcba473e2a07cd38ea052c65b5fd4a4.png",
 							"sale_type":"pay"
@@ -289,7 +264,6 @@
 			{
 				"item_id":1689823799001,
 				"name":"棉花小兔Mofy2",
-				"tab_id":0,
 				"suit_item_id":121332401,
 				"properties":{
 					"color":"#000000",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1681116139001,
 				"name":"棉花小兔Mofy",
-				"tab_id":0,
 				"suit_item_id":121332401,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -36,7 +36,6 @@
 			{
 				"item_id":1678247424001,
 				"name":"脑斧仔动态卡片",
-				"tab_id":0,
 				"suit_item_id":105431801,
 				"properties":{
 					"fan_no_color":"#A37C28",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1678247424002,
 				"name":"脑斧仔动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":105431801,
 				"properties":{
 					"fan_no_color":"#A37C28",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1677045419001,
 				"name":"脑斧仔-评论背景",
-				"tab_id":0,
 				"suit_item_id":105431801,
 				"properties":{
 					"fan_no_color":"#756868",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1677044747001,
 				"name":"脑斧仔-表情包",
-				"tab_id":0,
 				"suit_item_id":105431801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/48f038e4fa592497223a6b087f98d347c9fc9ae6.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"呜哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/14d2c1b629aa6e555b58dfa39d4c2719da77e09c.png\"},{\"name\":\"菜虎\",\"image\":\"https://i0.hdslb.com/bfs/garb/65992a11c4009c2d76aa5d67678bce4891f4b589.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca80bcb34310025f133f109b8595010b20db0949.png\"},{\"name\":\"哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/37ea24f7551ab38ebe2aac5e447e1fe964cd7032.png\"},{\"name\":\"什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7e30dcff2f36bb723ec6c486e691e47d67998cd.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7e0b789907327ee32307ff169650e273579d23d.png\"},{\"name\":\"困了\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbac419a01395f0335acf543145d8c43abc7bda2.png\"},{\"name\":\"略\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e87a1ef74e261f59d4e6d9f460b16513efd5a8e.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/145247c9905456877cf4fdad785e7362d7df70e6.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3b6570b6a237ff1a0202626ec795a56ca754381.png\"},{\"name\":\"饿\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0bc588f4b9a9772ff1b0bd4204b9038531da7b8.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/97b70c01620de7fd78f058d3528b600b5ea5e59d.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/1704cc8bd82befd231a30f102cc3cd5712bab7d2.png\"},{\"name\":\"wow\",\"image\":\"https://i0.hdslb.com/bfs/garb/2fa19cdcc312afafc0c961d4d09343b75011e50b.png\"},{\"name\":\"水逆退散\",\"image\":\"https://i0.hdslb.com/bfs/garb/b31a89ecbbf725bd08df2549cc823c098a2b7358.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_wow]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2fa19cdcc312afafc0c961d4d09343b75011e50b.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_什么]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a7e30dcff2f36bb723ec6c486e691e47d67998cd.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e3b6570b6a237ff1a0202626ec795a56ca754381.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_呜哇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/14d2c1b629aa6e555b58dfa39d4c2719da77e09c.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/37ea24f7551ab38ebe2aac5e447e1fe964cd7032.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/145247c9905456877cf4fdad785e7362d7df70e6.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1704cc8bd82befd231a30f102cc3cd5712bab7d2.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_困了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbac419a01395f0335acf543145d8c43abc7bda2.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_水逆退散]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b31a89ecbbf725bd08df2549cc823c098a2b7358.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/97b70c01620de7fd78f058d3528b600b5ea5e59d.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ca80bcb34310025f133f109b8595010b20db0949.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_略]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4e87a1ef74e261f59d4e6d9f460b16513efd5a8e.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_菜虎]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/65992a11c4009c2d76aa5d67678bce4891f4b589.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a7e0b789907327ee32307ff169650e273579d23d.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[脑斧仔-表情包_饿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e0bc588f4b9a9772ff1b0bd4204b9038531da7b8.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1677045376001,
 				"name":"脑斧仔-个性主题",
-				"tab_id":0,
 				"suit_item_id":105431801,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1677044844001,
 				"name":"脑斧仔-空间背景",
-				"tab_id":0,
 				"suit_item_id":105431801,
 				"properties":{
 					"fan_no_color":"#ffffff",

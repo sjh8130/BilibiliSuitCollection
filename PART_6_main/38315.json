@@ -25,7 +25,6 @@
 		"item_id_thumbup":"38298",
 		"owner_uid":"647193094",
 		"rank_investor_show":"false",
-		"realname_auth":"false",
 		"sale_bp_forever_raw":"5000",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"100",
@@ -47,7 +46,6 @@
 				"suit_item_id":38315,
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/0ad20e4c54f6a0c07fc1d934cea4677552796e60.png",
-					"realname_auth":"false",
 					"sale_type":"other"
 				}
 			},
@@ -59,7 +57,6 @@
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/9de6b63df40ed437915bf1348f50c181370d4282.png",
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/8a75e87178cb4dd2828c118f0b3f9e6a49d23f89.png",
-					"realname_auth":"false",
 					"sale_type":"other"
 				}
 			}
@@ -73,7 +70,6 @@
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/aef5604981dd55f54975260ed866040569647324.png",
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/6b424061e41de535957b591e1a8103503bdabf6e.png",
-					"realname_auth":"false",
 					"sale_type":"suit"
 				}
 			}
@@ -88,11 +84,9 @@
 					"addable":"true",
 					"biz":"dynamic,reply,watch_full",
 					"image":"https://i0.hdslb.com/bfs/emote/242288fdbc951ba109c440e40968a8f324eaf9e9.png",
-					"is_symbol":"false",
 					"item_ids":"38299,38300,38301,38302,38303,38304,38305,38306,38307,38308",
 					"permanent":"false",
 					"preview":"false",
-					"realname_auth":"false",
 					"recently_used":"false",
 					"recommend":"false",
 					"removable":"true",
@@ -107,9 +101,7 @@
 						"name":"[黑门_OK]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/5cb0adb7d408670b1d26a2f53ca081b0e70c0283.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -118,9 +110,7 @@
 						"name":"[黑门_暴击]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/80c9785ef04932c1c0daeba425d974b128a72d95.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -129,9 +119,7 @@
 						"name":"[黑门_比心]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/f541947b7e962a6da65683c8cd495620e6c8ff1b.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -140,9 +128,7 @@
 						"name":"[黑门_吃瓜]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/63a58e9645abe7c23d075dd3ec43696c71e65118.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -151,9 +137,7 @@
 						"name":"[黑门_点赞]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/6890a9c3772453eb75abbeacba3027603b2ce61f.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -162,9 +146,7 @@
 						"name":"[黑门_溜了溜了]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/94dc941ac4462673ec37b51aa328274b2d5a0a16.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -173,9 +155,7 @@
 						"name":"[黑门_生气]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/5f9fcd414e494c0b10155378487bc467a9a509b7.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -184,9 +164,7 @@
 						"name":"[黑门_围观]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/e14a7c956d53276666108bb5ee1a22c4f1813277.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -195,9 +173,7 @@
 						"name":"[黑门_无语]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/513b20998db0b2e0375443bf687a4611c5330213.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -206,9 +182,7 @@
 						"name":"[黑门_震惊]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/ced84859d59825726238f75898126a9c546b8eed.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					}
@@ -233,7 +207,6 @@
 					"image_preview":"https://i0.hdslb.com/bfs/garb/item/0ba814c65118e64bde0d68c439bfc35648556399.jpg",
 					"package_md5":"4d97ffb93a14f037a8618d470f9aba4a",
 					"package_url":"https://i0.hdslb.com/bfs/garb/zip/8567751594073ab0cfcd6c4281e64da41b1b371f.zip",
-					"realname_auth":"false",
 					"skin_mode":"normal",
 					"tail_bg":"https://i0.hdslb.com/bfs/garb/item/dc028fcca4d287fcf747a4ee9d66be02d54695a5.png",
 					"tail_color":"#cdf2fc",
@@ -271,8 +244,7 @@
 					"image2_landscape":"https://i0.hdslb.com/bfs/garb/item/bc2b82bca6e79459c6f28e491c5948ecbaf39ec9.jpg",
 					"image2_portrait":"https://i0.hdslb.com/bfs/garb/item/17a27c9204cc4d9aca6526bcfbdffc469d22ffca.jpg",
 					"image3_landscape":"https://i0.hdslb.com/bfs/garb/item/7e2283c637794d646a7de65120bf22931f56eaa5.jpg",
-					"image3_portrait":"https://i0.hdslb.com/bfs/garb/item/1f54f9b2bb7d77ad40f0ebdca01c95e26f114da6.jpg",
-					"realname_auth":"false"
+					"image3_portrait":"https://i0.hdslb.com/bfs/garb/item/1f54f9b2bb7d77ad40f0ebdca01c95e26f114da6.jpg"
 				}
 			}
 		],
@@ -285,8 +257,7 @@
 				"properties":{
 					"image_ani":"https://i0.hdslb.com/bfs/garb/item/d42cb83a8b725eabd61557987a5858bb26655eae.bin",
 					"image_ani_cut":"https://i0.hdslb.com/bfs/garb/item/d42cb83a8b725eabd61557987a5858bb26655eae.bin",
-					"image_preview":"https://i0.hdslb.com/bfs/garb/item/c531839b37c1394f6817463260cdcfd3e93957c5.png",
-					"realname_auth":"false"
+					"image_preview":"https://i0.hdslb.com/bfs/garb/item/c531839b37c1394f6817463260cdcfd3e93957c5.png"
 				}
 			}
 		]

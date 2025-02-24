@@ -36,7 +36,6 @@
 			{
 				"item_id":1683877621001,
 				"name":"美乐蒂 甜蜜城堡",
-				"tab_id":0,
 				"suit_item_id":113247901,
 				"properties":{
 					"fan_no_color":"#FF7EA0",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1683877621002,
 				"name":"美乐蒂 甜蜜城堡粉丝",
-				"tab_id":0,
 				"suit_item_id":113247901,
 				"properties":{
 					"fan_no_color":"#FF7EA0",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1683878175001,
 				"name":"美乐蒂 甜蜜城堡",
-				"tab_id":0,
 				"suit_item_id":113247901,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1683877784001,
 				"name":"美乐蒂 甜蜜城堡",
-				"tab_id":0,
 				"suit_item_id":113247901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6dd22d028a596180f5e482e20b1a5891d2014cee.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"送我\",\"image\":\"https://i0.hdslb.com/bfs/garb/03dbdb3dd5d0dfc3ee30c0c61bee3318f310da0a.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/4d2ed714d4a597e0a9233c49ef11666f3f42395e.png\"},{\"name\":\"miss\",\"image\":\"https://i0.hdslb.com/bfs/garb/015c4d8a8163e6b8fda605197eebb3cafad20aa8.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f26cfdb8ac181bd9fe3cffe677061712652b602.png\"},{\"name\":\"求求了\",\"image\":\"https://i0.hdslb.com/bfs/garb/256bdc0b50b313056120fc4702b983ec2e3b6e2a.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3f79549b283ddf0c290ef4b2f80c81fb7788c4b.png\"},{\"name\":\"礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/30c761f40ea291db6307aa46f446cef1b1266339.png\"},{\"name\":\"请吃草莓\",\"image\":\"https://i0.hdslb.com/bfs/garb/c397d8755dd2deee340dee8d1e09f93bfd6e7c7b.png\"},{\"name\":\"困困\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d3ad445553b04876a0c4a649c09947feb92be81.png\"},{\"name\":\"抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b9f81e00cda731bfebaf866ba8e8d3e6095e160.png\"},{\"name\":\"超喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b01d02190f5834c7d6987d6ec34e68b76b38ff0.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/14b378cbcb2a259219febdd2ad0504244889b899.png\"},{\"name\":\"托腮\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc4310f2cbea1c287b0f974955672e68a8ec22d0.png\"},{\"name\":\"委屈巴巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c43bbe50b4745be2ffefb87ad5b4be9c01ebcf4.png\"},{\"name\":\"懵\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc07f924825f56912116665c202f07aae2ab867c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_miss]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/015c4d8a8163e6b8fda605197eebb3cafad20aa8.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3f26cfdb8ac181bd9fe3cffe677061712652b602.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_可爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4d2ed714d4a597e0a9233c49ef11666f3f42395e.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_困困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2d3ad445553b04876a0c4a649c09947feb92be81.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_委屈巴巴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c43bbe50b4745be2ffefb87ad5b4be9c01ebcf4.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/14b378cbcb2a259219febdd2ad0504244889b899.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_思考]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a3f79549b283ddf0c290ef4b2f80c81fb7788c4b.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_懵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc07f924825f56912116665c202f07aae2ab867c.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_托腮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc4310f2cbea1c287b0f974955672e68a8ec22d0.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1b9f81e00cda731bfebaf866ba8e8d3e6095e160.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_求求了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/256bdc0b50b313056120fc4702b983ec2e3b6e2a.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_礼物]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/30c761f40ea291db6307aa46f446cef1b1266339.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_请吃草莓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c397d8755dd2deee340dee8d1e09f93bfd6e7c7b.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_超喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b01d02190f5834c7d6987d6ec34e68b76b38ff0.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[美乐蒂 甜蜜城堡_送我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/03dbdb3dd5d0dfc3ee30c0c61bee3318f310da0a.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1683877980001,
 				"name":"美乐蒂 甜蜜城堡",
-				"tab_id":0,
 				"suit_item_id":113247901,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1683877819001,
 				"name":"美乐蒂 甜蜜城堡",
-				"tab_id":0,
 				"suit_item_id":113247901,
 				"properties":{
 					"fan_no_color":"#ffffff",

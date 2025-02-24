@@ -35,7 +35,6 @@
 			{
 				"item_id":1682047358002,
 				"name":"海洋生物鳐鱼君",
-				"tab_id":0,
 				"suit_item_id":111134801,
 				"properties":{
 					"fan_no_color":"#5F9AC1",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1682047358003,
 				"name":"海洋生物鳐鱼君粉丝",
-				"tab_id":0,
 				"suit_item_id":111134801,
 				"properties":{
 					"fan_no_color":"#5F9AC1",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1682047409001,
 				"name":"海洋生物鳐鱼君",
-				"tab_id":0,
 				"suit_item_id":111134801,
 				"properties":{
 					"fan_no_color":"#5F9AC1",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1682047187001,
 				"name":"海洋生物鳐鱼君",
-				"tab_id":0,
 				"suit_item_id":111134801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/46b7e99c6b97bf2334cb38a120b712d31bd3c409.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"一键三连\",\"image\":\"https://i0.hdslb.com/bfs/garb/9c1c30f528558193f16d348c6a136e3f9fcbe406.png\"},{\"name\":\"吃吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/355986e40c3d2520a458cb18a38cff6a0a6f7de1.png\"},{\"name\":\"鳐鱼干\",\"image\":\"https://i0.hdslb.com/bfs/garb/3aa8a4de5326ea9326ff0631d6a5be1142a2bab2.png\"},{\"name\":\"呆滞\",\"image\":\"https://i0.hdslb.com/bfs/garb/f81704be8ef99284722d06ea8b41aebc4b10235d.png\"},{\"name\":\"Hi\",\"image\":\"https://i0.hdslb.com/bfs/garb/c89e59d994b53d78e908b324b3d2f6047487377a.png\"},{\"name\":\"噢噢噢噢\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad28ba451158b883564c085e2d3f1b23292bcde7.png\"},{\"name\":\"看着你\",\"image\":\"https://i0.hdslb.com/bfs/garb/d7c84b5835897954e5fb4c37d27f4cb4dc408377.png\"},{\"name\":\"不可以吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/82f306bf100addebf42cdab975540ca97e19c6ba.png\"},{\"name\":\"咻溜\",\"image\":\"https://i0.hdslb.com/bfs/garb/74d26f22812dd7e8b6fed9ddc806c8b51f297524.png\"},{\"name\":\"叮\",\"image\":\"https://i0.hdslb.com/bfs/garb/b76118faaf2b7360e446928993e45f5ddadc744f.png\"},{\"name\":\"被撞\",\"image\":\"https://i0.hdslb.com/bfs/garb/fb7ff4f680d9cc0f977de1cc56e94e72abc96d1d.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd95100f94b8d63a952da71f8dbf44964fba3167.png\"},{\"name\":\"生气！\",\"image\":\"https://i0.hdslb.com/bfs/garb/cacf1e68964a018253c1eddb254784d55b45bec8.png\"},{\"name\":\"撒花\",\"image\":\"https://i0.hdslb.com/bfs/garb/97e032dc0759931e6d6918f2ba96ab1d307a4d35.png\"},{\"name\":\"担忧\",\"image\":\"https://i0.hdslb.com/bfs/garb/e832656a76f4b2d63eaebf1e34a0c800cc85d2e6.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_Hi]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c89e59d994b53d78e908b324b3d2f6047487377a.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_一键三连]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9c1c30f528558193f16d348c6a136e3f9fcbe406.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_不可以吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/82f306bf100addebf42cdab975540ca97e19c6ba.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_叮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b76118faaf2b7360e446928993e45f5ddadc744f.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_吃吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/355986e40c3d2520a458cb18a38cff6a0a6f7de1.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_呆滞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f81704be8ef99284722d06ea8b41aebc4b10235d.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_咻溜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/74d26f22812dd7e8b6fed9ddc806c8b51f297524.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dd95100f94b8d63a952da71f8dbf44964fba3167.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_噢噢噢噢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ad28ba451158b883564c085e2d3f1b23292bcde7.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_担忧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e832656a76f4b2d63eaebf1e34a0c800cc85d2e6.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_撒花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/97e032dc0759931e6d6918f2ba96ab1d307a4d35.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_生气！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cacf1e68964a018253c1eddb254784d55b45bec8.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_看着你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d7c84b5835897954e5fb4c37d27f4cb4dc408377.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_被撞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fb7ff4f680d9cc0f977de1cc56e94e72abc96d1d.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[海洋生物鳐鱼君_鳐鱼干]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3aa8a4de5326ea9326ff0631d6a5be1142a2bab2.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1682047710001,
 				"name":"海洋生物鳐鱼君",
-				"tab_id":0,
 				"suit_item_id":111134801,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1682047448001,
 				"name":"海洋生物鳐鱼君",
-				"tab_id":0,
 				"suit_item_id":111134801,
 				"properties":{
 					"fan_no_color":"#ffffff",

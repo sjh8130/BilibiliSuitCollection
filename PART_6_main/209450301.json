@@ -35,7 +35,6 @@
 			{
 				"item_id":1712133056001,
 				"name":"云上动物园",
-				"tab_id":0,
 				"suit_item_id":209450301,
 				"properties":{
 					"fan_no_color":"#4275B3",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1712133056002,
 				"name":"云上动物园粉丝",
-				"tab_id":0,
 				"suit_item_id":209450301,
 				"properties":{
 					"fan_no_color":"#4275B3",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1712133777001,
 				"name":"云上动物园",
-				"tab_id":0,
 				"suit_item_id":209450301,
 				"properties":{
 					"fan_no_color":"#4275B3",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1712133136001,
 				"name":"云上动物园",
-				"tab_id":0,
 				"suit_item_id":209450301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/bb09718fe70d7fb42201348cdce07564b1465d18.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"大熊猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b2bd25888406662b3008b86edb98617db8f45b7.png\"},{\"name\":\"小熊猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/939a545e377c5818c905960a7bb25328f1aaf477.png\"},{\"name\":\"卡皮巴拉\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd6aed1322842cc98383909390c7bbfc728623a9.png\"},{\"name\":\"小企鹅\",\"image\":\"https://i0.hdslb.com/bfs/garb/be2f504fb2641992c255905e08b16533fb87704c.png\"},{\"name\":\"吃瓜小象\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ffb419580af90c17e671ac446eeb9075081267b.png\"},{\"name\":\"小绵羊\",\"image\":\"https://i0.hdslb.com/bfs/garb/0aa09de1e938becf0c9012cd0942ebee3c13a204.png\"},{\"name\":\"小粉猪\",\"image\":\"https://i0.hdslb.com/bfs/garb/db865add5795737bd1c9e9d0d9aa874527196287.png\"},{\"name\":\"抱抱修狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8734e2ca490f31fa45dccbb71f868b5d867d1a0.png\"},{\"name\":\"跳舞修狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/98ae841831f4bc8f6607a1c5d902882ff9e6aefb.png\"},{\"name\":\"眨眼修狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/249c9a26dad1ff2cdb0e2d3b64eec202925ea395.png\"},{\"name\":\"比心考拉\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b5f150d1075de97dde329d928d5587aa5fe98a7.png\"},{\"name\":\"可爱猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/abc941b358952a269b392d83b6b5f419666bcd40.png\"},{\"name\":\"小熊\",\"image\":\"https://i0.hdslb.com/bfs/garb/8810b8daa9873144fd44712385b1485208e632b1.png\"},{\"name\":\"热气球\",\"image\":\"https://i0.hdslb.com/bfs/garb/faab8d642e4131325b1c0dd62b016cb871f22cd3.png\"},{\"name\":\"小刺猬\",\"image\":\"https://i0.hdslb.com/bfs/garb/8bf5c89294db75b69ff9e185728ff23af828d92f.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_卡皮巴拉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cd6aed1322842cc98383909390c7bbfc728623a9.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_可爱猫猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/abc941b358952a269b392d83b6b5f419666bcd40.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_吃瓜小象]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ffb419580af90c17e671ac446eeb9075081267b.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_大熊猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4b2bd25888406662b3008b86edb98617db8f45b7.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_小企鹅]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/be2f504fb2641992c255905e08b16533fb87704c.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_小刺猬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8bf5c89294db75b69ff9e185728ff23af828d92f.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_小熊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8810b8daa9873144fd44712385b1485208e632b1.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_小熊猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/939a545e377c5818c905960a7bb25328f1aaf477.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_小粉猪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db865add5795737bd1c9e9d0d9aa874527196287.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_小绵羊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0aa09de1e938becf0c9012cd0942ebee3c13a204.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_抱抱修狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f8734e2ca490f31fa45dccbb71f868b5d867d1a0.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_比心考拉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3b5f150d1075de97dde329d928d5587aa5fe98a7.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_热气球]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/faab8d642e4131325b1c0dd62b016cb871f22cd3.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_眨眼修狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/249c9a26dad1ff2cdb0e2d3b64eec202925ea395.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[云上动物园_跳舞修狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/98ae841831f4bc8f6607a1c5d902882ff9e6aefb.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1712133597001,
 				"name":"云上动物园",
-				"tab_id":0,
 				"suit_item_id":209450301,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1712134594001,
 				"name":"云上可爱动物园",
-				"tab_id":0,
 				"suit_item_id":209450301,
 				"properties":{
 					"fan_no_color":"#ffffff",

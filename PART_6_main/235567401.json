@@ -36,7 +36,6 @@
 			{
 				"item_id":1734704504001,
 				"name":"新年兔兔",
-				"tab_id":0,
 				"suit_item_id":235567401,
 				"properties":{
 					"fan_no_color":"#E57676",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1734704504002,
 				"name":"新年兔兔粉丝",
-				"tab_id":0,
 				"suit_item_id":235567401,
 				"properties":{
 					"fan_no_color":"#E57676",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1734704815001,
 				"name":"新年兔兔",
-				"tab_id":0,
 				"suit_item_id":235567401,
 				"properties":{
 					"fan_no_color":"#EF8C8C",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1734704644001,
 				"name":"新年兔兔",
-				"tab_id":0,
 				"suit_item_id":235567401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/87421f901db43abdfeabdcd00a2ad02ca782c87b.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"花灯\",\"image\":\"https://i0.hdslb.com/bfs/garb/1498b32050bb852729181e4b70978e6daa25b11a.png\"},{\"name\":\"背影\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf1ef8a4fbfc509f0b82b402a4e35bc1b2d11f4f.png\"},{\"name\":\"糖葫芦\",\"image\":\"https://i0.hdslb.com/bfs/garb/07ed69da9bb2a1aa36fa919b680a217009657a16.png\"},{\"name\":\"喝茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf2196ec49e0df2abc1268de25fc2a37da921d84.png\"},{\"name\":\"坐等\",\"image\":\"https://i0.hdslb.com/bfs/garb/e48bef4b629f5e28777436b185ce0c678a78385d.png\"},{\"name\":\"吃东西\",\"image\":\"https://i0.hdslb.com/bfs/garb/fcdb85545468b4f00e3a7d9e99bc38acc2600dc0.png\"},{\"name\":\"hi~\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d51c81aa5959f7ad6510137760fe22061d4dd68.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0fb7fd3d9fa5ff72c9c11f0a119cec0a56b70a1.png\"},{\"name\":\"兔兔左\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a1e1e2332e5fda7c7d5c29ae000b97c71ec570d.png\"},{\"name\":\"兔兔右\",\"image\":\"https://i0.hdslb.com/bfs/garb/98fd18a3ab534ae6db113a4ca6958f95f997c733.png\"},{\"name\":\"猫咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/42a0d6bc291631c306042841ff8bc7391240ede7.png\"},{\"name\":\"蛇\",\"image\":\"https://i0.hdslb.com/bfs/garb/76d450ba3afafd43974985324084ee904fbd08b8.png\"},{\"name\":\"烟花\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a2f57e55f8e39842e04b8450cf2849f998481b5.png\"},{\"name\":\"小鸭子\",\"image\":\"https://i0.hdslb.com/bfs/garb/93ed8ce8e720084f9a28f7878b50085d2944e92d.png\"},{\"name\":\"兔头\",\"image\":\"https://i0.hdslb.com/bfs/garb/1df77b62d7bb11442975cf01e5aa14b3077129f8.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_hi~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d51c81aa5959f7ad6510137760fe22061d4dd68.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_兔兔右]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/98fd18a3ab534ae6db113a4ca6958f95f997c733.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_兔兔左]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7a1e1e2332e5fda7c7d5c29ae000b97c71ec570d.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_兔头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1df77b62d7bb11442975cf01e5aa14b3077129f8.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_可爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a0fb7fd3d9fa5ff72c9c11f0a119cec0a56b70a1.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_吃东西]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fcdb85545468b4f00e3a7d9e99bc38acc2600dc0.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_喝茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bf2196ec49e0df2abc1268de25fc2a37da921d84.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_坐等]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e48bef4b629f5e28777436b185ce0c678a78385d.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_小鸭子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/93ed8ce8e720084f9a28f7878b50085d2944e92d.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_烟花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a2f57e55f8e39842e04b8450cf2849f998481b5.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_猫咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/42a0d6bc291631c306042841ff8bc7391240ede7.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_糖葫芦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/07ed69da9bb2a1aa36fa919b680a217009657a16.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_背影]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cf1ef8a4fbfc509f0b82b402a4e35bc1b2d11f4f.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_花灯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1498b32050bb852729181e4b70978e6daa25b11a.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[新年兔兔_蛇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/76d450ba3afafd43974985324084ee904fbd08b8.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1734704791001,
 				"name":"新年兔兔",
-				"tab_id":0,
 				"suit_item_id":235567401,
 				"properties":{
 					"color":"#ffffff",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1734704677001,
 				"name":"新年兔兔",
-				"tab_id":0,
 				"suit_item_id":235567401,
 				"properties":{
 					"fan_no_color":"#ffffff",

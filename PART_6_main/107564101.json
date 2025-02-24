@@ -35,7 +35,6 @@
 			{
 				"item_id":1678796317001,
 				"name":"夏日小荷",
-				"tab_id":0,
 				"suit_item_id":107564101,
 				"properties":{
 					"fan_no_color":"#24B459",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1678796317002,
 				"name":"夏日小荷粉丝",
-				"tab_id":0,
 				"suit_item_id":107564101,
 				"properties":{
 					"fan_no_color":"#24B459",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1678796912001,
 				"name":"夏日小荷",
-				"tab_id":0,
 				"suit_item_id":107564101,
 				"properties":{
 					"fan_no_color":"#25B259",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1678797037001,
 				"name":"夏日小荷",
-				"tab_id":0,
 				"suit_item_id":107564101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f0a2bb9ff2b38b85f1c64679d1ddb9c5ded9b5b4.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"打咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/f48d79ef123b727c0e903b801cd5b8a9532d3185.png\"},{\"name\":\"prpr\",\"image\":\"https://i0.hdslb.com/bfs/garb/03397c069f7440007b39296b765d5f1a25a41bb9.png\"},{\"name\":\"别走好吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7ba0d0a1f4e64789125a69136fe0be1044cb1f4.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/79d493d90c5e79b61eb80c6953933e94b813d45a.png\"},{\"name\":\"懂你意思\",\"image\":\"https://i0.hdslb.com/bfs/garb/1bc60e6002e435dcbd0b4078c527b90cb51b17e9.png\"},{\"name\":\"急了\",\"image\":\"https://i0.hdslb.com/bfs/garb/49cc232106fcbfb15393dc6049b7dc3e5e1609c8.png\"},{\"name\":\"投降\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c4c2b963c71a84a37a68cf7daea8b1bb892b172.png\"},{\"name\":\"还能说话吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/4520cf1a6101768d0e63974d14c11cef67431596.png\"},{\"name\":\"收收味\",\"image\":\"https://i0.hdslb.com/bfs/garb/33f62fe1f7d71d3b761aff1e5f09efdcf5ebeb0d.png\"},{\"name\":\"脑子飞飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c37ad9bdb3a504e6805db22a0d92e9e6466957c.png\"},{\"name\":\"嗯？\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d065c3a9820ecf83056369b24afa5850f4c0ffa.png\"},{\"name\":\"我来背负！\",\"image\":\"https://i0.hdslb.com/bfs/garb/911b704c12bed911efd7e3539625bd923d15049e.png\"},{\"name\":\"我学生送我\",\"image\":\"https://i0.hdslb.com/bfs/garb/26d0d6a0243bc5b7acde4337b474db329c0f8289.png\"},{\"name\":\"已结晶\",\"image\":\"https://i0.hdslb.com/bfs/garb/e023629f2215f6903bb75c989331285fb7ff8d4b.png\"},{\"name\":\"切割\",\"image\":\"https://i0.hdslb.com/bfs/garb/e876c6561ea78c8e76877bbc502aadfbb9002e53.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_prpr]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/03397c069f7440007b39296b765d5f1a25a41bb9.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_切割]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e876c6561ea78c8e76877bbc502aadfbb9002e53.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_别走好吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a7ba0d0a1f4e64789125a69136fe0be1044cb1f4.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_嗯？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7d065c3a9820ecf83056369b24afa5850f4c0ffa.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_已结晶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e023629f2215f6903bb75c989331285fb7ff8d4b.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_急了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/49cc232106fcbfb15393dc6049b7dc3e5e1609c8.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_懂你意思]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1bc60e6002e435dcbd0b4078c527b90cb51b17e9.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_我学生送我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/26d0d6a0243bc5b7acde4337b474db329c0f8289.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_我来背负！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/911b704c12bed911efd7e3539625bd923d15049e.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_打咩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f48d79ef123b727c0e903b801cd5b8a9532d3185.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_投降]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c4c2b963c71a84a37a68cf7daea8b1bb892b172.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_收收味]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/33f62fe1f7d71d3b761aff1e5f09efdcf5ebeb0d.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_流汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/79d493d90c5e79b61eb80c6953933e94b813d45a.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_脑子飞飞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1c37ad9bdb3a504e6805db22a0d92e9e6466957c.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日小荷_还能说话吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4520cf1a6101768d0e63974d14c11cef67431596.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1678797244001,
 				"name":"夏日小荷",
-				"tab_id":0,
 				"suit_item_id":107564101,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1678796934001,
 				"name":"夏日小荷",
-				"tab_id":0,
 				"suit_item_id":107564101,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -34,7 +34,6 @@
 			{
 				"item_id":1681477119001,
 				"name":"奶牛猫憨宝",
-				"tab_id":0,
 				"suit_item_id":111070201,
 				"properties":{
 					"fan_no_color":"#FFCE1E",
@@ -48,7 +47,6 @@
 			{
 				"item_id":1681998113001,
 				"name":"奶牛猫憨宝粉丝",
-				"tab_id":0,
 				"suit_item_id":111070201,
 				"properties":{
 					"fan_no_color":"#FFCE1E",
@@ -65,7 +63,6 @@
 			{
 				"item_id":1681999658001,
 				"name":"奶牛猫憨宝",
-				"tab_id":0,
 				"suit_item_id":111070201,
 				"properties":{
 					"fan_no_color":"#FFC20A",
@@ -80,14 +77,12 @@
 			{
 				"item_id":1681477581001,
 				"name":"奶牛猫憨宝",
-				"tab_id":0,
 				"suit_item_id":111070201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/52eed35f44452a1e04b875b30fc711509c8ce543.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"摸鱼咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/cca38115097b613408e6448201761438a63f58c7.png\"},{\"name\":\"委屈咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c7c82d926e08d352c02bcd788b69899a68ef041.png\"},{\"name\":\"期待咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a94dba3e4f31f41dd26d3a5b3108222c50b0caa.png\"},{\"name\":\"睡觉咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/1775de92d2ff05bd1fcd1a8a2ed40222ca3f4748.png\"},{\"name\":\"啾咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/0590230bb48d11ac059faed709b928051bfa2520.png\"},{\"name\":\"烦躁咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f86564fb7b6dc41da2b0dd361f88ecf3b185b5d.png\"},{\"name\":\"冲咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/4728cc9a81074385d481a2e42291a3126757d44d.png\"},{\"name\":\"好吃咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d84936077b6ea4e2437d82de07dbc9a4f1f0271.png\"},{\"name\":\"鲨了咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a339870619bb099968d2a819a6d62fdd768e4ac.png\"},{\"name\":\"无语咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/21e4b6d99602e8e4d4ed5a1d1ea1d9d796832ff6.png\"},{\"name\":\"疑惑咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/70dc6d0d9bc6eb984c1acba38abf8da94151a51d.png\"},{\"name\":\"爱你咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e31392e37a0fef1285489cf29fa008c0d0e3112.png\"},{\"name\":\"思考咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/dba6c8d80c192e1161565aabe5d2818e8a6177a6.png\"},{\"name\":\"呜哇咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e85759640f9b4ef281b6370db956d2cb187d7a3.png\"},{\"name\":\"学习咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5ea777d80a99209c4037913a6809b3a24093802.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -103,7 +98,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_冲咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4728cc9a81074385d481a2e42291a3126757d44d.png",
 							"sale_type":"pay"
@@ -112,7 +106,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_呜哇咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8e85759640f9b4ef281b6370db956d2cb187d7a3.png",
 							"sale_type":"pay"
@@ -121,7 +114,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_啾咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0590230bb48d11ac059faed709b928051bfa2520.png",
 							"sale_type":"pay"
@@ -130,7 +122,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_好吃咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9d84936077b6ea4e2437d82de07dbc9a4f1f0271.png",
 							"sale_type":"pay"
@@ -139,7 +130,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_委屈咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6c7c82d926e08d352c02bcd788b69899a68ef041.png",
 							"sale_type":"pay"
@@ -148,7 +138,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_学习咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f5ea777d80a99209c4037913a6809b3a24093802.png",
 							"sale_type":"pay"
@@ -157,7 +146,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_思考咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dba6c8d80c192e1161565aabe5d2818e8a6177a6.png",
 							"sale_type":"pay"
@@ -166,7 +154,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_摸鱼咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cca38115097b613408e6448201761438a63f58c7.png",
 							"sale_type":"pay"
@@ -175,7 +162,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_无语咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/21e4b6d99602e8e4d4ed5a1d1ea1d9d796832ff6.png",
 							"sale_type":"pay"
@@ -184,7 +170,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_期待咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2a94dba3e4f31f41dd26d3a5b3108222c50b0caa.png",
 							"sale_type":"pay"
@@ -193,7 +178,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_烦躁咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2f86564fb7b6dc41da2b0dd361f88ecf3b185b5d.png",
 							"sale_type":"pay"
@@ -202,7 +186,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_爱你咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4e31392e37a0fef1285489cf29fa008c0d0e3112.png",
 							"sale_type":"pay"
@@ -211,7 +194,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_疑惑咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/70dc6d0d9bc6eb984c1acba38abf8da94151a51d.png",
 							"sale_type":"pay"
@@ -220,7 +202,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_睡觉咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1775de92d2ff05bd1fcd1a8a2ed40222ca3f4748.png",
 							"sale_type":"pay"
@@ -229,7 +210,6 @@
 					{
 						"item_id":0,
 						"name":"[奶牛猫憨宝_鲨了咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0a339870619bb099968d2a819a6d62fdd768e4ac.png",
 							"sale_type":"pay"
@@ -242,7 +222,6 @@
 			{
 				"item_id":1682003331001,
 				"name":"奶牛猫憨宝",
-				"tab_id":0,
 				"suit_item_id":111070201,
 				"properties":{
 					"color":"#ffffff",
@@ -282,7 +261,6 @@
 			{
 				"item_id":1681478546001,
 				"name":"奶牛猫憨宝",
-				"tab_id":0,
 				"suit_item_id":111070201,
 				"properties":{
 					"fan_no_color":"#ffffff",

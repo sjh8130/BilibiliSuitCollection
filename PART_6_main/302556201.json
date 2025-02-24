@@ -36,7 +36,6 @@
 			{
 				"item_id":1737631111001,
 				"name":"夏天y团队",
-				"tab_id":0,
 				"suit_item_id":302556201,
 				"properties":{
 					"fan_no_color":"#D42F47",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1737801549001,
 				"name":"夏天y团队粉丝",
-				"tab_id":0,
 				"suit_item_id":302556201,
 				"properties":{
 					"fan_no_color":"#D42F47",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1737630655001,
 				"name":"夏天y团队",
-				"tab_id":0,
 				"suit_item_id":302556201,
 				"properties":{
 					"fan_no_color":"#D42F47",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1737641490001,
 				"name":"夏天y团队",
-				"tab_id":0,
 				"suit_item_id":302556201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/103b298d5aed3fb6b3b09bd94c6c021479832b91.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"看\",\"image\":\"https://i0.hdslb.com/bfs/garb/a53aa830f0f7224ae0341241f5c9e6545cf67306.png\"},{\"name\":\"zzz\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2a5d36b7ded95bef84372cbab2006dad33a90e7.png\"},{\"name\":\"小丑\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e60f1e9651e295afbfa7f4bdd74fb18180f9a43.png\"},{\"name\":\"破防\",\"image\":\"https://i0.hdslb.com/bfs/garb/226fa92eacfc0e8dfe6dc6a96ef8469ae1d59892.png\"},{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/43d687a1541517390adfcf8aa0a2c8b15177908e.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e153f3a902c2c3f420b02c10c10544039743639.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e963e97107a5f671e480d360fdd56baf649f5fe.png\"},{\"name\":\"菜\",\"image\":\"https://i0.hdslb.com/bfs/garb/dea4f149bdaf76afcb0ebc5db9b3e64adcb6da8c.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/be03a3ba1e364c24dc3926a619e0208c5d815180.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/a566871530bcf8205d4dd474f51cbd5f2b15d7b1.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/69b00a3979c974c0f65243da970401fc10fff91b.png\"},{\"name\":\"6\",\"image\":\"https://i0.hdslb.com/bfs/garb/033d86e9b2f2e30e40b5564b9ed1c4e8c211face.png\"},{\"name\":\"咕咕\",\"image\":\"https://i0.hdslb.com/bfs/garb/f61ac074c26457e727246f33c642506090531219.png\"},{\"name\":\"不行\",\"image\":\"https://i0.hdslb.com/bfs/garb/8500beed905c2b5f88bfa92fcbbcf936c85f1a4a.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a66d209dcb82e279ae39428c2e0d4193c210c8b.png\"},{\"name\":\"打卡\",\"image\":\"https://i0.hdslb.com/bfs/garb/87b6a68bf8e8b652c232ee976f8ebdc847c621ad.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/d44519308875501e7edb0bec7a9a3b60c6b933e4.png\"},{\"name\":\"ok\",\"image\":\"https://i0.hdslb.com/bfs/garb/231e5997c75c6cb8ca170689c4e5b49093c1c6b2.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/13d3bb86ddd5af388a0fd9b43382b5a5accd5601.png\"},{\"name\":\"捏拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/111afa7c15b3dc2569da368ae349fe861f342a61.png\"},{\"name\":\"苦涩\",\"image\":\"https://i0.hdslb.com/bfs/garb/60599e8692e3a18757ff1f17b366bd65c85ef2b0.png\"},{\"name\":\"沉思\",\"image\":\"https://i0.hdslb.com/bfs/garb/f13b55ac84feb64b7dc39e166a9e5190fd972b92.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/277c3ea7baa86a0877f4730d8d8c75018fbf9c72.png\"},{\"name\":\"牛！\",\"image\":\"https://i0.hdslb.com/bfs/garb/753791d2f348029207d49ff1e59e15927fc03ff7.png\"},{\"name\":\"亚比\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d88d114506230f9837b6b27e0fe3ec4c5590d2f.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,107 +100,7 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[夏天y团队_看]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a53aa830f0f7224ae0341241f5c9e6545cf67306.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_zzz]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f2a5d36b7ded95bef84372cbab2006dad33a90e7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_小丑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3e60f1e9651e295afbfa7f4bdd74fb18180f9a43.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_破防]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/226fa92eacfc0e8dfe6dc6a96ef8469ae1d59892.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_好耶]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/43d687a1541517390adfcf8aa0a2c8b15177908e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_无语]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0e153f3a902c2c3f420b02c10c10544039743639.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_吃瓜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7e963e97107a5f671e480d360fdd56baf649f5fe.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_菜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dea4f149bdaf76afcb0ebc5db9b3e64adcb6da8c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_哭哭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/be03a3ba1e364c24dc3926a619e0208c5d815180.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_生气]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a566871530bcf8205d4dd474f51cbd5f2b15d7b1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_流汗]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/69b00a3979c974c0f65243da970401fc10fff91b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[夏天y团队_6]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/033d86e9b2f2e30e40b5564b9ed1c4e8c211face.png",
 							"sale_type":"pay"
@@ -213,53 +108,7 @@
 					},
 					{
 						"item_id":0,
-						"name":"[夏天y团队_咕咕]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f61ac074c26457e727246f33c642506090531219.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_不行]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8500beed905c2b5f88bfa92fcbbcf936c85f1a4a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_嘻嘻]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9a66d209dcb82e279ae39428c2e0d4193c210c8b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_打卡]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/87b6a68bf8e8b652c232ee976f8ebdc847c621ad.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_赞]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d44519308875501e7edb0bec7a9a3b60c6b933e4.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[夏天y团队_ok]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/231e5997c75c6cb8ca170689c4e5b49093c1c6b2.png",
 							"sale_type":"pay"
@@ -267,17 +116,87 @@
 					},
 					{
 						"item_id":0,
-						"name":"[夏天y团队_问号]",
-						"tab_id":0,
+						"name":"[夏天y团队_zzz]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/13d3bb86ddd5af388a0fd9b43382b5a5accd5601.png",
+							"image":"https://i0.hdslb.com/bfs/garb/f2a5d36b7ded95bef84372cbab2006dad33a90e7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_不行]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8500beed905c2b5f88bfa92fcbbcf936c85f1a4a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_亚比]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6d88d114506230f9837b6b27e0fe3ec4c5590d2f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_吃瓜]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7e963e97107a5f671e480d360fdd56baf649f5fe.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_咕咕]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f61ac074c26457e727246f33c642506090531219.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_哭哭]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/be03a3ba1e364c24dc3926a619e0208c5d815180.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_嘻嘻]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9a66d209dcb82e279ae39428c2e0d4193c210c8b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_好耶]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/43d687a1541517390adfcf8aa0a2c8b15177908e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_小丑]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3e60f1e9651e295afbfa7f4bdd74fb18180f9a43.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_打卡]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/87b6a68bf8e8b652c232ee976f8ebdc847c621ad.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[夏天y团队_捏拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/111afa7c15b3dc2569da368ae349fe861f342a61.png",
 							"sale_type":"pay"
@@ -285,26 +204,15 @@
 					},
 					{
 						"item_id":0,
-						"name":"[夏天y团队_苦涩]",
-						"tab_id":0,
+						"name":"[夏天y团队_无语]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/60599e8692e3a18757ff1f17b366bd65c85ef2b0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[夏天y团队_沉思]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f13b55ac84feb64b7dc39e166a9e5190fd972b92.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0e153f3a902c2c3f420b02c10c10544039743639.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[夏天y团队_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/277c3ea7baa86a0877f4730d8d8c75018fbf9c72.png",
 							"sale_type":"pay"
@@ -312,8 +220,23 @@
 					},
 					{
 						"item_id":0,
+						"name":"[夏天y团队_沉思]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f13b55ac84feb64b7dc39e166a9e5190fd972b92.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_流汗]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/69b00a3979c974c0f65243da970401fc10fff91b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[夏天y团队_牛！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/753791d2f348029207d49ff1e59e15927fc03ff7.png",
 							"sale_type":"pay"
@@ -321,10 +244,57 @@
 					},
 					{
 						"item_id":0,
-						"name":"[夏天y团队_亚比]",
-						"tab_id":0,
+						"name":"[夏天y团队_生气]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6d88d114506230f9837b6b27e0fe3ec4c5590d2f.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a566871530bcf8205d4dd474f51cbd5f2b15d7b1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_看]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a53aa830f0f7224ae0341241f5c9e6545cf67306.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_破防]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/226fa92eacfc0e8dfe6dc6a96ef8469ae1d59892.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_苦涩]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/60599e8692e3a18757ff1f17b366bd65c85ef2b0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_菜]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/dea4f149bdaf76afcb0ebc5db9b3e64adcb6da8c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_赞]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d44519308875501e7edb0bec7a9a3b60c6b933e4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[夏天y团队_问号]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/13d3bb86ddd5af388a0fd9b43382b5a5accd5601.png",
 							"sale_type":"pay"
 						}
 					}
@@ -335,7 +305,6 @@
 			{
 				"item_id":1737634805001,
 				"name":"夏天y团队",
-				"tab_id":0,
 				"suit_item_id":302556201,
 				"properties":{
 					"goods_type":"suit",
@@ -350,7 +319,6 @@
 			{
 				"item_id":1737618447001,
 				"name":"夏天y团队",
-				"tab_id":0,
 				"suit_item_id":302556201,
 				"properties":{
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/0e3fcd6715c01cf918da087c612e7814e4074d01.png",
@@ -367,7 +335,6 @@
 			{
 				"item_id":1737632583001,
 				"name":"夏天y团队",
-				"tab_id":0,
 				"suit_item_id":302556201,
 				"properties":{
 					"color":"#ffffff",
@@ -408,7 +375,6 @@
 			{
 				"item_id":1737631933001,
 				"name":"夏天y团队",
-				"tab_id":0,
 				"suit_item_id":302556201,
 				"properties":{
 					"fan_no_color":"#ffffff",
@@ -432,7 +398,6 @@
 			{
 				"item_id":1737634601001,
 				"name":"夏天y团队",
-				"tab_id":0,
 				"suit_item_id":302556201,
 				"properties":{
 					"goods_type":"suit",

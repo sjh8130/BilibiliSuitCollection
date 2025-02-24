@@ -36,7 +36,6 @@
 			{
 				"item_id":1685353948001,
 				"name":"小柯基-夏日篇",
-				"tab_id":0,
 				"suit_item_id":114954801,
 				"properties":{
 					"fan_no_color":"#FC9A69",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1685353948002,
 				"name":"小柯基-夏日篇粉丝",
-				"tab_id":0,
 				"suit_item_id":114954801,
 				"properties":{
 					"fan_no_color":"#FC9A69",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1685354130001,
 				"name":"小柯基-夏日篇",
-				"tab_id":0,
 				"suit_item_id":114954801,
 				"properties":{
 					"fan_no_color":"#80B7CA",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1685354067001,
 				"name":"小柯基-夏日篇",
-				"tab_id":0,
 				"suit_item_id":114954801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/729f4eacf36841ce2084d1591fcfe5e04f78f7fb.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"你好\",\"image\":\"https://i0.hdslb.com/bfs/garb/451a727afcd2fe7447e8e631f3cf69986a212936.png\"},{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/a37294b6bce686c49a260261db715c6160016c1f.png\"},{\"name\":\"YES\",\"image\":\"https://i0.hdslb.com/bfs/garb/8fc225358dca750a9d2c9282b386f494f783bf47.png\"},{\"name\":\"NO\",\"image\":\"https://i0.hdslb.com/bfs/garb/62890375f24b9a3fa4e49d1fe98af04678352cdf.png\"},{\"name\":\"心动\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f974f01bfe665dc5838d6acbdb18e70db0799ad.png\"},{\"name\":\"禁止贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/a960194051f030b7d0a513ef8ea4a898542fd049.png\"},{\"name\":\"你有问题\",\"image\":\"https://i0.hdslb.com/bfs/garb/20b7b1078bb3b26279594cdb62f9340cc38cc14e.png\"},{\"name\":\"休息一下\",\"image\":\"https://i0.hdslb.com/bfs/garb/600a4ffe8877935017ae117f009323f930a45022.png\"},{\"name\":\"大餐\",\"image\":\"https://i0.hdslb.com/bfs/garb/867867bf3bfec15a39c1e32badf7b8983a72bb6b.png\"},{\"name\":\"揉眼睛\",\"image\":\"https://i0.hdslb.com/bfs/garb/af5fb2f19e23058d1379698cdfc6a591913569ab.png\"},{\"name\":\"郁闷\",\"image\":\"https://i0.hdslb.com/bfs/garb/03c2165bf049318f7ce0fb8a559780a6c963dcc1.png\"},{\"name\":\"失去色彩\",\"image\":\"https://i0.hdslb.com/bfs/garb/ffc239c72098cf1243da9a18d1b5c5759fd8e37b.png\"},{\"name\":\"叹气\",\"image\":\"https://i0.hdslb.com/bfs/garb/25a844fb77f7d7e6aaa859068e8435852fa17e26.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/d381d2caa1df585c9e127b24ea4860340af54e1e.png\"},{\"name\":\"瞌睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/17a67aff32d75a3b26f6fa842fbe6d1ea96a853c.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5592d1ecf73ae0f96b6e786ac3a3ababac1f04f.png\"},{\"name\":\"谢谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e1ed3bf576bd8e94807458ddd1c27709fa2269a.png\"},{\"name\":\"惊了\",\"image\":\"https://i0.hdslb.com/bfs/garb/fb1c8b1c8b60b493d45dd716f2854c98d6c84a6e.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/1936ac38b2f13b11f0e8095b903742aab7353e01.png\"},{\"name\":\"拜拜\",\"image\":\"https://i0.hdslb.com/bfs/garb/e24acfd92a666b2bb8eb95e9e71e7ec153922022.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_NO]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/62890375f24b9a3fa4e49d1fe98af04678352cdf.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_YES]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8fc225358dca750a9d2c9282b386f494f783bf47.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_休息一下]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/600a4ffe8877935017ae117f009323f930a45022.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_你好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/451a727afcd2fe7447e8e631f3cf69986a212936.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_你有问题]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20b7b1078bb3b26279594cdb62f9340cc38cc14e.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_叹气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/25a844fb77f7d7e6aaa859068e8435852fa17e26.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_大餐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/867867bf3bfec15a39c1e32badf7b8983a72bb6b.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_失去色彩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ffc239c72098cf1243da9a18d1b5c5759fd8e37b.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_好耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a37294b6bce686c49a260261db715c6160016c1f.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_心动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1f974f01bfe665dc5838d6acbdb18e70db0799ad.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_惊了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fb1c8b1c8b60b493d45dd716f2854c98d6c84a6e.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_拜拜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e24acfd92a666b2bb8eb95e9e71e7ec153922022.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_揉眼睛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af5fb2f19e23058d1379698cdfc6a591913569ab.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1936ac38b2f13b11f0e8095b903742aab7353e01.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e5592d1ecf73ae0f96b6e786ac3a3ababac1f04f.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d381d2caa1df585c9e127b24ea4860340af54e1e.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_瞌睡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/17a67aff32d75a3b26f6fa842fbe6d1ea96a853c.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_禁止贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a960194051f030b7d0a513ef8ea4a898542fd049.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_谢谢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5e1ed3bf576bd8e94807458ddd1c27709fa2269a.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[小柯基-夏日篇_郁闷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/03c2165bf049318f7ce0fb8a559780a6c963dcc1.png",
 							"sale_type":"pay"
@@ -289,7 +264,6 @@
 			{
 				"item_id":1685354945001,
 				"name":"小柯基-夏日篇",
-				"tab_id":0,
 				"suit_item_id":114954801,
 				"properties":{
 					"color":"#000000",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1685354644001,
 				"name":"小柯基-夏日",
-				"tab_id":0,
 				"suit_item_id":114954801,
 				"properties":{
 					"fan_no_color":"#ffffff",

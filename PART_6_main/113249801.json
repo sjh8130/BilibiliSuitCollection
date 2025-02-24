@@ -36,7 +36,6 @@
 			{
 				"item_id":1687861762001,
 				"name":"酷洛米 甜品世界1",
-				"tab_id":0,
 				"suit_item_id":113249801,
 				"properties":{
 					"fan_no_color":"#9967A5",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1687861762002,
 				"name":"酷洛米 甜品世界1粉丝",
-				"tab_id":0,
 				"suit_item_id":113249801,
 				"properties":{
 					"fan_no_color":"#9967A5",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1683880436001,
 				"name":"酷洛米 甜品世界",
-				"tab_id":0,
 				"suit_item_id":113249801,
 				"properties":{
 					"fan_no_color":"#9967A5",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1683880270001,
 				"name":"酷洛米 甜品世界",
-				"tab_id":0,
 				"suit_item_id":113249801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8447b75a7fc6c2a89e7a547f5d58fe6294bf0592.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"6\",\"image\":\"https://i0.hdslb.com/bfs/garb/58225b8e4e37a48262ee57bca1c6fda6dbf00493.png\"},{\"name\":\"诶嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/39a4b1c686fce071f369b99d15494c56b27591e3.png\"},{\"name\":\"乖巧\",\"image\":\"https://i0.hdslb.com/bfs/garb/7cc61991c9fdcac12624dde7fc20139958abd0e4.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d838262b87df1cd67c74115e96703e35da0d073.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/6865d89a0cae8b311a5a62f50ddb1dc54bdff6db.png\"},{\"name\":\"坐等饭饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/6742f88eff6b73535ea122078fa3e525c079941a.png\"},{\"name\":\"可爱捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb264d1d546bcc66ae53df2803ffa44bd1702e23.png\"},{\"name\":\"困惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/30d9dde2991cecadf8c622ba34ef35465ab0af9b.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/a92f47b7230ffa2bc1af3eda555f1af0d2fdbbbd.png\"},{\"name\":\"偷笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/68edf16d142b922f4967507b722b37b04abbdbc5.png\"},{\"name\":\"紧张\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc6f4c2b326e74a5689c5322617f4d14beb1458c.png\"},{\"name\":\"略咯略\",\"image\":\"https://i0.hdslb.com/bfs/garb/2559f1e76af3ab69234dfa4dcda9b0a9252cc7b2.png\"},{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/6404fb1b2d5066001e2bd2be438d2a1d76f7eb41.png\"},{\"name\":\"给你心心\",\"image\":\"https://i0.hdslb.com/bfs/garb/099a6a4f581161bba1fc9a6e53a2e6aa199b2c4c.png\"},{\"name\":\"让我康康\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d640551104dc20fce64877a1dd9e2fbeea37a12.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_6]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/58225b8e4e37a48262ee57bca1c6fda6dbf00493.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_乖巧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7cc61991c9fdcac12624dde7fc20139958abd0e4.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_偷笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/68edf16d142b922f4967507b722b37b04abbdbc5.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_可爱捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cb264d1d546bcc66ae53df2803ffa44bd1702e23.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6865d89a0cae8b311a5a62f50ddb1dc54bdff6db.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_嘻嘻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a92f47b7230ffa2bc1af3eda555f1af0d2fdbbbd.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_困惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/30d9dde2991cecadf8c622ba34ef35465ab0af9b.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_坐等饭饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6742f88eff6b73535ea122078fa3e525c079941a.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_好耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6404fb1b2d5066001e2bd2be438d2a1d76f7eb41.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_略咯略]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2559f1e76af3ab69234dfa4dcda9b0a9252cc7b2.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_盯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2d838262b87df1cd67c74115e96703e35da0d073.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_紧张]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dc6f4c2b326e74a5689c5322617f4d14beb1458c.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_给你心心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/099a6a4f581161bba1fc9a6e53a2e6aa199b2c4c.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_让我康康]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5d640551104dc20fce64877a1dd9e2fbeea37a12.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[酷洛米 甜品世界_诶嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/39a4b1c686fce071f369b99d15494c56b27591e3.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1683880389001,
 				"name":"酷洛米 甜品世界",
-				"tab_id":0,
 				"suit_item_id":113249801,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1683880301001,
 				"name":"酷洛米 甜品世界",
-				"tab_id":0,
 				"suit_item_id":113249801,
 				"properties":{
 					"fan_no_color":"#ffffff",

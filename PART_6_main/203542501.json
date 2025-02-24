@@ -36,7 +36,6 @@
 			{
 				"item_id":1707026359001,
 				"name":"tokidoki 甜甜圈朋友们",
-				"tab_id":0,
 				"suit_item_id":203542501,
 				"properties":{
 					"fan_no_color":"#F299B8",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1707026359002,
 				"name":"tokidoki 甜甜圈朋友们粉丝",
-				"tab_id":0,
 				"suit_item_id":203542501,
 				"properties":{
 					"fan_no_color":"#F299B8",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1707026376001,
 				"name":"tokidoki 甜甜圈朋友们",
-				"tab_id":0,
 				"suit_item_id":203542501,
 				"properties":{
 					"fan_no_color":"#F299B8",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1707026595001,
 				"name":"tokidoki 甜甜圈朋友们",
-				"tab_id":0,
 				"suit_item_id":203542501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b0bcaef71fce7e1ff82f5d865e859fbc6a94d783.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"你好\",\"image\":\"https://i0.hdslb.com/bfs/garb/c03b22168cbc758d0e4f24a6c4272922ab35fe10.png\"},{\"name\":\"买买买\",\"image\":\"https://i0.hdslb.com/bfs/garb/168732dd01f7a85f04cca27974b17d3f9fcb7e9a.png\"},{\"name\":\"兴奋\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f27155835e36e08bb8e1b32b41ea3f917989097.png\"},{\"name\":\"吃吃吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/82c6403be6ba1be63e829c2dbc3eb08a0d1c3310.png\"},{\"name\":\"加糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e7fac355022f024a9642d0316157f1b8a3263cc.png\"},{\"name\":\"出发\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1dee8f7031e7b35ba7fe67a6925b4cd53462480.png\"},{\"name\":\"拜拜\",\"image\":\"https://i0.hdslb.com/bfs/garb/6f77669f8be27a84752c1d1e3a0f41b8c38e5985.png\"},{\"name\":\"哇哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/054f8cea84255a66efb51b15d09df5402ec0460f.png\"},{\"name\":\"嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/8dd3fdc4fec1bcd04ca0df416433978c36acf294.png\"},{\"name\":\"干得好\",\"image\":\"https://i0.hdslb.com/bfs/garb/064887fc77946b8f386a3c9082736126e9091da1.png\"},{\"name\":\"报警\",\"image\":\"https://i0.hdslb.com/bfs/garb/6600acc70fceeed6ac3d4c6733f824b8f24e84c9.png\"},{\"name\":\"猫猫祟祟\",\"image\":\"https://i0.hdslb.com/bfs/garb/d156373bd2170219216b870713367dc79cd516c2.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/1aeb5cf886be76cf0420a3fa5a8277289b1566e8.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f23a954e49f8f4231d8a1f449ae0de6309cab38.png\"},{\"name\":\"起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/aeebcd5752a11b3569c2519fa885935c378a6356.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_买买买]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/168732dd01f7a85f04cca27974b17d3f9fcb7e9a.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_你好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c03b22168cbc758d0e4f24a6c4272922ab35fe10.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_兴奋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4f27155835e36e08bb8e1b32b41ea3f917989097.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_出发]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a1dee8f7031e7b35ba7fe67a6925b4cd53462480.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_加糖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e7fac355022f024a9642d0316157f1b8a3263cc.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_吃吃吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/82c6403be6ba1be63e829c2dbc3eb08a0d1c3310.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_哇哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/054f8cea84255a66efb51b15d09df5402ec0460f.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8dd3fdc4fec1bcd04ca0df416433978c36acf294.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_干得好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/064887fc77946b8f386a3c9082736126e9091da1.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_报警]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6600acc70fceeed6ac3d4c6733f824b8f24e84c9.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4f23a954e49f8f4231d8a1f449ae0de6309cab38.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_拜拜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6f77669f8be27a84752c1d1e3a0f41b8c38e5985.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_猫猫祟祟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d156373bd2170219216b870713367dc79cd516c2.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1aeb5cf886be76cf0420a3fa5a8277289b1566e8.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[tokidoki 甜甜圈朋友们_起飞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aeebcd5752a11b3569c2519fa885935c378a6356.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1707026920001,
 				"name":"tokidoki 甜甜圈朋友们",
-				"tab_id":0,
 				"suit_item_id":203542501,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1707026623001,
 				"name":"tokidoki 甜甜圈朋友们",
-				"tab_id":0,
 				"suit_item_id":203542501,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1735023956001,
 				"name":"春日花祭",
-				"tab_id":0,
 				"suit_item_id":300839801,
 				"properties":{
 					"fan_no_color":"#DE8E5D",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1735036281001,
 				"name":"春日花祭粉丝",
-				"tab_id":0,
 				"suit_item_id":300839801,
 				"properties":{
 					"fan_no_color":"#DE8E5D",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1735024063001,
 				"name":"春日花祭",
-				"tab_id":0,
 				"suit_item_id":300839801,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1735024116001,
 				"name":"春日花祭",
-				"tab_id":0,
 				"suit_item_id":300839801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/16f693276e1ae38c0f3d03a4fb1ad850261fc24e.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"卖萌\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3f4b5e64c779a2668e7c0433058b2bc48d3d657.png\"},{\"name\":\"聪明\",\"image\":\"https://i0.hdslb.com/bfs/garb/08cbfccef296f5589ecf12578f0d2b499c51e689.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/e29168e0b4626cd1b360a7fa62280b2772ae1481.png\"},{\"name\":\"哼哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c3bbe8b0ef4729ccec70430aa7efa42af3f7cd7.png\"},{\"name\":\"呃呃\",\"image\":\"https://i0.hdslb.com/bfs/garb/36491ed2e336eb1ce759a5506b8ee6c787eaafb2.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/21c216fb731dd27c23ff3aa7874348e4abdf9034.png\"},{\"name\":\"不到啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1b75e34b3220ff16ef5dea704c269b2e44435c5.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad24fdf132c10980b28c60ff0a651537b31de820.png\"},{\"name\":\"rua\",\"image\":\"https://i0.hdslb.com/bfs/garb/4d32ddee2dd765dea84b966cf729917a53f75e6f.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb48e56e56bfb6a165a6efa3a1caac8c4e30ce50.png\"},{\"name\":\"我\",\"image\":\"https://i0.hdslb.com/bfs/garb/06667acca657264301aecda3d038e06863ebba6d.png\"},{\"name\":\"爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/591e9954f8b33181f894d4828313fb4dcaee5549.png\"},{\"name\":\"你\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2ae80b6a7b158865098f741d897a2f8983e01d8.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/becde4f6af160c041770fa77a00451cc4e9a30ee.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/0050a46bfc0b0d096b1d9e51f76d5fe6819fda60.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_rua]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4d32ddee2dd765dea84b966cf729917a53f75e6f.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_不到啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c1b75e34b3220ff16ef5dea704c269b2e44435c5.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f2ae80b6a7b158865098f741d897a2f8983e01d8.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_卖萌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f3f4b5e64c779a2668e7c0433058b2bc48d3d657.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/21c216fb731dd27c23ff3aa7874348e4abdf9034.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_呃呃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/36491ed2e336eb1ce759a5506b8ee6c787eaafb2.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e29168e0b4626cd1b360a7fa62280b2772ae1481.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_哼哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7c3bbe8b0ef4729ccec70430aa7efa42af3f7cd7.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_嘻嘻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cb48e56e56bfb6a165a6efa3a1caac8c4e30ce50.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/06667acca657264301aecda3d038e06863ebba6d.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ad24fdf132c10980b28c60ff0a651537b31de820.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/becde4f6af160c041770fa77a00451cc4e9a30ee.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/591e9954f8b33181f894d4828313fb4dcaee5549.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0050a46bfc0b0d096b1d9e51f76d5fe6819fda60.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[春日花祭_聪明]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/08cbfccef296f5589ecf12578f0d2b499c51e689.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1735035209001,
 				"name":"春日花祭",
-				"tab_id":0,
 				"suit_item_id":300839801,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1735024091001,
 				"name":"春日花祭",
-				"tab_id":0,
 				"suit_item_id":300839801,
 				"properties":{
 					"fan_no_color":"#ffffff",

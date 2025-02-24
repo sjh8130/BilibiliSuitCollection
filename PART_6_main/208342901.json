@@ -36,7 +36,6 @@
 			{
 				"item_id":1711174421001,
 				"name":"春日物语",
-				"tab_id":0,
 				"suit_item_id":208342901,
 				"properties":{
 					"fan_no_color":"#FCB4C1",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1711174421002,
 				"name":"春日物语粉丝",
-				"tab_id":0,
 				"suit_item_id":208342901,
 				"properties":{
 					"fan_no_color":"#FCB4C1",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1711174468001,
 				"name":"春日物语",
-				"tab_id":0,
 				"suit_item_id":208342901,
 				"properties":{
 					"fan_no_color":"#FCB4C1",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1711174517001,
 				"name":"春日物语",
-				"tab_id":0,
 				"suit_item_id":208342901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f8777349f73d2f8699adbfc8d48b3fcf3214e88a.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"一袋面包\",\"image\":\"https://i0.hdslb.com/bfs/garb/b1facd6a1758fe9a2ea7bf0210d7d7afd6311ab9.png\"},{\"name\":\"兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/291c0855b0fd30feaaf5455aaefd98574cc1020b.png\"},{\"name\":\"啃吐司\",\"image\":\"https://i0.hdslb.com/bfs/garb/80fc6979f1576dee2a71ebaec5fc9b19598e95d2.png\"},{\"name\":\"天使小猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/052c7a6bf7f54749f7d98000983d74a2a8f45318.png\"},{\"name\":\"小蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/7dc90379c29e4db92ccfc66f9ca8ee0742af8f06.png\"},{\"name\":\"看你\",\"image\":\"https://i0.hdslb.com/bfs/garb/5bb879dce739e43fc7a749a55f96335054f67a88.png\"},{\"name\":\"拿粉笔\",\"image\":\"https://i0.hdslb.com/bfs/garb/baa148880fba371b20a01064187abfee8beda90e.png\"},{\"name\":\"睡了\",\"image\":\"https://i0.hdslb.com/bfs/garb/129e88d5d656d6f33537ddf08953f7ba77e54367.png\"},{\"name\":\"翻肚皮\",\"image\":\"https://i0.hdslb.com/bfs/garb/b68c8aa83a2f7cb881278b477ac496b92cfd3edb.png\"},{\"name\":\"穿花蛱蝶\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d5a8dd22f447c906f55153726efb2832ef26428.png\"},{\"name\":\"趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/88c95130b2c19f83b9fb794d14fe1992c8f3e66c.png\"},{\"name\":\"撅腚\",\"image\":\"https://i0.hdslb.com/bfs/garb/caf6c8bbb2f88bd2179b6957407ba5186fde5e53.png\"},{\"name\":\"驮面包\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e10a70c7054bccaa7d444fb3db929db17c56022.png\"},{\"name\":\"驮豚\",\"image\":\"https://i0.hdslb.com/bfs/garb/0df2f5db140247add6049f70bf8788971de9507e.png\"},{\"name\":\"糕点师傅\",\"image\":\"https://i0.hdslb.com/bfs/garb/914324f5971d0cf5079076f9be9b5ded167cdf7e.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_一袋面包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b1facd6a1758fe9a2ea7bf0210d7d7afd6311ab9.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_兔兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/291c0855b0fd30feaaf5455aaefd98574cc1020b.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_啃吐司]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/80fc6979f1576dee2a71ebaec5fc9b19598e95d2.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_天使小猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/052c7a6bf7f54749f7d98000983d74a2a8f45318.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_小蛋糕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7dc90379c29e4db92ccfc66f9ca8ee0742af8f06.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_拿粉笔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/baa148880fba371b20a01064187abfee8beda90e.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_撅腚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/caf6c8bbb2f88bd2179b6957407ba5186fde5e53.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_看你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5bb879dce739e43fc7a749a55f96335054f67a88.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_睡了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/129e88d5d656d6f33537ddf08953f7ba77e54367.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_穿花蛱蝶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1d5a8dd22f447c906f55153726efb2832ef26428.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_糕点师傅]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/914324f5971d0cf5079076f9be9b5ded167cdf7e.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_翻肚皮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b68c8aa83a2f7cb881278b477ac496b92cfd3edb.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_趴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/88c95130b2c19f83b9fb794d14fe1992c8f3e66c.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_驮豚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0df2f5db140247add6049f70bf8788971de9507e.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[春日物语_驮面包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e10a70c7054bccaa7d444fb3db929db17c56022.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1711174674001,
 				"name":"春日物语",
-				"tab_id":0,
 				"suit_item_id":208342901,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1711174491001,
 				"name":"春日物语",
-				"tab_id":0,
 				"suit_item_id":208342901,
 				"properties":{
 					"fan_no_color":"#ffffff",

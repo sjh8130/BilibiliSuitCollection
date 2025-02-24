@@ -35,7 +35,6 @@
 			{
 				"item_id":1707035067001,
 				"name":"星座指示-双子座",
-				"tab_id":0,
 				"suit_item_id":203728601,
 				"properties":{
 					"fan_no_color":"#483140",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1707038091001,
 				"name":"星座指示-双子座粉丝",
-				"tab_id":0,
 				"suit_item_id":203728601,
 				"properties":{
 					"fan_no_color":"#483140",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1707035090001,
 				"name":"星座指示-双子座",
-				"tab_id":0,
 				"suit_item_id":203728601,
 				"properties":{
 					"fan_no_color":"#FF9EC0",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1707035018001,
 				"name":"星座指示-双子座",
-				"tab_id":0,
 				"suit_item_id":203728601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/849633772fec6564f2535d20cfdd837e23d713aa.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"双子座\",\"image\":\"https://i0.hdslb.com/bfs/garb/991bbe119222f07459f35e3113266e2b37823742.png\"},{\"name\":\"哭泣\",\"image\":\"https://i0.hdslb.com/bfs/garb/665b5ace6c43513a4ae73a9e58d73dea1fcce1af.png\"},{\"name\":\"吓你\",\"image\":\"https://i0.hdslb.com/bfs/garb/868485a07ffffbd505aa457cda0b818520021e3e.png\"},{\"name\":\"安慰\",\"image\":\"https://i0.hdslb.com/bfs/garb/2fa95e5c6734aed17f338a3d33a1de3d79e30886.png\"},{\"name\":\"困困\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce1b8f1ef44ed6814a308b498a6bac2df6e91341.png\"},{\"name\":\"耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/317b0703938752d7344a7ed0f5df37a880e665fe.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab9aca67d691362ab94a491a44c0585782499994.png\"},{\"name\":\"哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/a289a2744e9c56c39c2ca599e5bd9a843661f9f0.png\"},{\"name\":\"欣赏\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f8c36afe53d32ab24974199ddf8bb1b7c874f75.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/a573321a99ef63829e73b95ee69a9a1f8e254b5f.png\"},{\"name\":\"嫌弃\",\"image\":\"https://i0.hdslb.com/bfs/garb/77bd7960d3ee63216a56e8ebd9b625e30c228bbd.png\"},{\"name\":\"吃饱\",\"image\":\"https://i0.hdslb.com/bfs/garb/bea099426e0cca4779d42eeb0ca2f3c4f78d1f63.png\"},{\"name\":\"唱歌\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d036a7452032ace61f6bae3735a9e2b117acc52.png\"},{\"name\":\"画画\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2b784cccd0263d9ae6fcd45562b29ae5fb718ad.png\"},{\"name\":\"摸摸\",\"image\":\"https://i0.hdslb.com/bfs/garb/9bb857cbcb54bded2eed62ee54996b4c42888b1c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_双子座]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/991bbe119222f07459f35e3113266e2b37823742.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_吃饱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bea099426e0cca4779d42eeb0ca2f3c4f78d1f63.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_吓你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/868485a07ffffbd505aa457cda0b818520021e3e.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_哈哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a289a2744e9c56c39c2ca599e5bd9a843661f9f0.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_哭泣]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/665b5ace6c43513a4ae73a9e58d73dea1fcce1af.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_唱歌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1d036a7452032ace61f6bae3735a9e2b117acc52.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_困困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce1b8f1ef44ed6814a308b498a6bac2df6e91341.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_嫌弃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/77bd7960d3ee63216a56e8ebd9b625e30c228bbd.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_安慰]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2fa95e5c6734aed17f338a3d33a1de3d79e30886.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_摸摸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9bb857cbcb54bded2eed62ee54996b4c42888b1c.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ab9aca67d691362ab94a491a44c0585782499994.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_欣赏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4f8c36afe53d32ab24974199ddf8bb1b7c874f75.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_画画]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c2b784cccd0263d9ae6fcd45562b29ae5fb718ad.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a573321a99ef63829e73b95ee69a9a1f8e254b5f.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-双子座_耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/317b0703938752d7344a7ed0f5df37a880e665fe.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1707039448001,
 				"name":"星座指示-双子座",
-				"tab_id":0,
 				"suit_item_id":203728601,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1707039503001,
 				"name":"星座指示-双子座",
-				"tab_id":0,
 				"suit_item_id":203728601,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1698377138001,
 				"name":"咩咩家族",
-				"tab_id":0,
 				"suit_item_id":130034501,
 				"properties":{
 					"fan_no_color":"#FF799C",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1698377138002,
 				"name":"咩咩家族粉丝",
-				"tab_id":0,
 				"suit_item_id":130034501,
 				"properties":{
 					"fan_no_color":"#FF799C",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1698377355001,
 				"name":"咩咩家族",
-				"tab_id":0,
 				"suit_item_id":130034501,
 				"properties":{
 					"fan_no_color":"#B88A68",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1698377197001,
 				"name":"咩咩家族",
-				"tab_id":0,
 				"suit_item_id":130034501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/c8375bb906f02f6bd69b1440d8028cee3e8173ac.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"举星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/d49845bea8aecc9ea6686a397edcd76d853db7eb.png\"},{\"name\":\"小太阳\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8ee057745bd198bddf9502d20dc6c99ac00e140.png\"},{\"name\":\"再来亿杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6ddc25646349c95ee4754427de26521d978367b.png\"},{\"name\":\"嗝...\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf45468b42561b928653303ff0016f057e6f569e.png\"},{\"name\":\"急\",\"image\":\"https://i0.hdslb.com/bfs/garb/57876745db0438e8ba3e3b216f0943ab75e6345a.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/61fea1dcb40c5f1e26f557c189dc5969e6ee4db2.png\"},{\"name\":\"开饭了吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/a548d10c9d0b6f90af056dbc3f2a6bfcb7c30fa0.png\"},{\"name\":\"切尔斯\",\"image\":\"https://i0.hdslb.com/bfs/garb/f562de927924a9aec4fbc833e14e1b1e9770352d.png\"},{\"name\":\"可爱捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b4dce6d448de4a99e7196e39bb59cab79f4d15b.png\"},{\"name\":\"晚安捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/514c1119b9cfe8fe468ad5f9c8112f1200f69064.png\"},{\"name\":\"馋死我了\",\"image\":\"https://i0.hdslb.com/bfs/garb/95b9b17ed5e97b3d12984d372c88026ddeaadaf5.png\"},{\"name\":\"爱了爱了\",\"image\":\"https://i0.hdslb.com/bfs/garb/174a5e24fc068bb0711019306bb68bc00b6bc413.png\"},{\"name\":\"求求\",\"image\":\"https://i0.hdslb.com/bfs/garb/0546ba88adad6ee6ffb561290f3fe47bbe0a6c0c.png\"},{\"name\":\"让我尝尝\",\"image\":\"https://i0.hdslb.com/bfs/garb/0eae96bad8e03486e8762b34437313b17aa4a6e4.png\"},{\"name\":\"沉思\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec9a5a0f198715ac629448ee806e5ba2c6922e0e.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_举星星]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d49845bea8aecc9ea6686a397edcd76d853db7eb.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_再来亿杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c6ddc25646349c95ee4754427de26521d978367b.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_切尔斯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f562de927924a9aec4fbc833e14e1b1e9770352d.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_可爱捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4b4dce6d448de4a99e7196e39bb59cab79f4d15b.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_嗝...]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cf45468b42561b928653303ff0016f057e6f569e.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_小太阳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e8ee057745bd198bddf9502d20dc6c99ac00e140.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_开饭了吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a548d10c9d0b6f90af056dbc3f2a6bfcb7c30fa0.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_急]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/57876745db0438e8ba3e3b216f0943ab75e6345a.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_晚安捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/514c1119b9cfe8fe468ad5f9c8112f1200f69064.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/61fea1dcb40c5f1e26f557c189dc5969e6ee4db2.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_求求]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0546ba88adad6ee6ffb561290f3fe47bbe0a6c0c.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_沉思]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ec9a5a0f198715ac629448ee806e5ba2c6922e0e.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_爱了爱了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/174a5e24fc068bb0711019306bb68bc00b6bc413.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_让我尝尝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0eae96bad8e03486e8762b34437313b17aa4a6e4.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩家族_馋死我了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/95b9b17ed5e97b3d12984d372c88026ddeaadaf5.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1698377306001,
 				"name":"咩咩家族",
-				"tab_id":0,
 				"suit_item_id":130034501,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1698377230001,
 				"name":"咩咩家族",
-				"tab_id":0,
 				"suit_item_id":130034501,
 				"properties":{
 					"fan_no_color":"#ffffff",

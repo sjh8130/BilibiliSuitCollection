@@ -35,7 +35,6 @@
 			{
 				"item_id":1687325607001,
 				"name":"中式早餐店",
-				"tab_id":0,
 				"suit_item_id":117563101,
 				"properties":{
 					"fan_no_color":"#F5A454",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1687325607002,
 				"name":"中式早餐店粉丝",
-				"tab_id":0,
 				"suit_item_id":117563101,
 				"properties":{
 					"fan_no_color":"#F5A454",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1687325645001,
 				"name":"中式早餐店",
-				"tab_id":0,
 				"suit_item_id":117563101,
 				"properties":{
 					"fan_no_color":"#D09A80",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1687326221001,
 				"name":"中式早餐店",
-				"tab_id":0,
 				"suit_item_id":117563101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/11bc393891f4650d248fba3743f08a2334fea6bc.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"包子\",\"image\":\"https://i0.hdslb.com/bfs/garb/e98a3309e600ef116f5626857b48a715a2dba02f.png\"},{\"name\":\"油条\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5e83134ac5a2b02c6aeb4853b588bdf3ab78b15.png\"},{\"name\":\"煎蛋\",\"image\":\"https://i0.hdslb.com/bfs/garb/d41623e0ecc0241c7edcf39d754ee740a360a649.png\"},{\"name\":\"油饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c27b64f824247c91a09fb1cede1cfac8266538a.png\"},{\"name\":\"玉米\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7fb42e916ac01b9aba57fc92e93cfc89a0457b3.png\"},{\"name\":\"粽子\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9ded328edcca1ef0d20743be0fb53445afbeed6.png\"},{\"name\":\"豆浆\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ef58039d936a3ba438fb7fc5723eabba855e5ee.png\"},{\"name\":\"馒头\",\"image\":\"https://i0.hdslb.com/bfs/garb/455a0e0eb4a9085f660356f79f824045732bb697.png\"},{\"name\":\"花卷\",\"image\":\"https://i0.hdslb.com/bfs/garb/4bfad9be9146a3a0406b56e696897fc4cf905305.png\"},{\"name\":\"食\",\"image\":\"https://i0.hdslb.com/bfs/garb/71b4232e9470c897e610512871ead8b99b825776.png\"},{\"name\":\"吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/889c8d0442e12fad0fb860ad8547c3c3fcf2b8b3.png\"},{\"name\":\"不\",\"image\":\"https://i0.hdslb.com/bfs/garb/8cefb64fdafd27c4d66d87a954bdc8ba2d9b104b.png\"},{\"name\":\"饿\",\"image\":\"https://i0.hdslb.com/bfs/garb/7da02738885b3950c871543a96905fb2cf1745f9.png\"},{\"name\":\"烧麦\",\"image\":\"https://i0.hdslb.com/bfs/garb/620840bbb2a731609d3d67094f76b33f590a31ac.png\"},{\"name\":\"煎饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/db83d7f2cc083fe47f338cd01858bbb54631a96d.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_不]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8cefb64fdafd27c4d66d87a954bdc8ba2d9b104b.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_包子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e98a3309e600ef116f5626857b48a715a2dba02f.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/889c8d0442e12fad0fb860ad8547c3c3fcf2b8b3.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_油条]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e5e83134ac5a2b02c6aeb4853b588bdf3ab78b15.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_油饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0c27b64f824247c91a09fb1cede1cfac8266538a.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_烧麦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/620840bbb2a731609d3d67094f76b33f590a31ac.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_煎蛋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d41623e0ecc0241c7edcf39d754ee740a360a649.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_煎饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db83d7f2cc083fe47f338cd01858bbb54631a96d.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_玉米]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f7fb42e916ac01b9aba57fc92e93cfc89a0457b3.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_粽子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f9ded328edcca1ef0d20743be0fb53445afbeed6.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_花卷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4bfad9be9146a3a0406b56e696897fc4cf905305.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_豆浆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2ef58039d936a3ba438fb7fc5723eabba855e5ee.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_食]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/71b4232e9470c897e610512871ead8b99b825776.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_饿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7da02738885b3950c871543a96905fb2cf1745f9.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[中式早餐店_馒头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/455a0e0eb4a9085f660356f79f824045732bb697.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1687326454001,
 				"name":"中式早餐店",
-				"tab_id":0,
 				"suit_item_id":117563101,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1687326079001,
 				"name":"中式早餐店",
-				"tab_id":0,
 				"suit_item_id":117563101,
 				"properties":{
 					"fan_no_color":"#ffffff",

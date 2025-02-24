@@ -36,7 +36,6 @@
 			{
 				"item_id":1697698070001,
 				"name":"小幽灵",
-				"tab_id":0,
 				"suit_item_id":129246501,
 				"properties":{
 					"fan_no_color":"#FF9100",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1697698070002,
 				"name":"小幽灵粉丝",
-				"tab_id":0,
 				"suit_item_id":129246501,
 				"properties":{
 					"fan_no_color":"#FF9100",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1697698130001,
 				"name":"小幽灵",
-				"tab_id":0,
 				"suit_item_id":129246501,
 				"properties":{
 					"fan_no_color":"#FF9100",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1697698240001,
 				"name":"小幽灵",
-				"tab_id":0,
 				"suit_item_id":129246501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0290c5491687f07057af0fa37fbb8c0673081c6a.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"略略略\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c9bf7396bd4104e5e745659a34bd582e320532d.png\"},{\"name\":\"哈哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/758c536d7bd52fdd5e6ca4d2ab7b0ba025fe819a.png\"},{\"name\":\"捣蛋鬼\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c4977a41d9df19d42293e802f8281306f53c696.png\"},{\"name\":\"发糖啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/1db9204f5750786a5c36c51210bb69911e837a43.png\"},{\"name\":\"感谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/5806f56e321457e0221166268fb933fc3a3fe1ba.png\"},{\"name\":\"我来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c09e1ed0f8ca7b5022ebc75cb0a15c3266659d19.png\"},{\"name\":\"抓不到我\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f1eade536de6e9b1518e77b032546c707eb7d3e.png\"},{\"name\":\"买买买\",\"image\":\"https://i0.hdslb.com/bfs/garb/84993eba39e425d2da13e4265d467d9c49de3f0c.png\"},{\"name\":\"收到\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc83e249fb16861d106120ecc50cdd3d2ad3abe0.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/38c4c688d9fc3019c3b719439eef0d20066466c6.png\"},{\"name\":\"冲呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/ccac175418bbcccaf0fc57fb95dac1b1092be67e.png\"},{\"name\":\"尊嘟假嘟\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f866aa3afc59984227504d0abe0ec8883873b64.png\"},{\"name\":\"呜呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/455baf2e237b181bce26219c49767e662f4c5391.png\"},{\"name\":\"尴尬\",\"image\":\"https://i0.hdslb.com/bfs/garb/61fc126fc516026bd481d441b59fa5c1eeb6428e.png\"},{\"name\":\"好难\",\"image\":\"https://i0.hdslb.com/bfs/garb/167f11e408e8b294e2a0794acdc70e06cbbfdc61.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_买买买]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/84993eba39e425d2da13e4265d467d9c49de3f0c.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_冲呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ccac175418bbcccaf0fc57fb95dac1b1092be67e.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_发糖啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1db9204f5750786a5c36c51210bb69911e837a43.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_呜呼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/455baf2e237b181bce26219c49767e662f4c5391.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_哈哈哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/758c536d7bd52fdd5e6ca4d2ab7b0ba025fe819a.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_好难]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/167f11e408e8b294e2a0794acdc70e06cbbfdc61.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_尊嘟假嘟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3f866aa3afc59984227504d0abe0ec8883873b64.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_尴尬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/61fc126fc516026bd481d441b59fa5c1eeb6428e.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/38c4c688d9fc3019c3b719439eef0d20066466c6.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_感谢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5806f56e321457e0221166268fb933fc3a3fe1ba.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_我来了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c09e1ed0f8ca7b5022ebc75cb0a15c3266659d19.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_抓不到我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1f1eade536de6e9b1518e77b032546c707eb7d3e.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_捣蛋鬼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3c4977a41d9df19d42293e802f8281306f53c696.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_收到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cc83e249fb16861d106120ecc50cdd3d2ad3abe0.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[小幽灵_略略略]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0c9bf7396bd4104e5e745659a34bd582e320532d.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1697698850001,
 				"name":"小幽灵",
-				"tab_id":0,
 				"suit_item_id":129246501,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1697698898001,
 				"name":"小幽灵",
-				"tab_id":0,
 				"suit_item_id":129246501,
 				"properties":{
 					"fan_no_color":"#ffffff",

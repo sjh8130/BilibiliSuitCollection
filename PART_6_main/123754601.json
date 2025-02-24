@@ -36,7 +36,6 @@
 			{
 				"item_id":1692958152001,
 				"name":"豆姆蛙和咪姆",
-				"tab_id":0,
 				"suit_item_id":123754601,
 				"properties":{
 					"fan_no_color":"#EB693B",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1692958152002,
 				"name":"豆姆蛙和咪姆粉丝",
-				"tab_id":0,
 				"suit_item_id":123754601,
 				"properties":{
 					"fan_no_color":"#EB693B",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1692958316001,
 				"name":"豆姆蛙和咪姆",
-				"tab_id":0,
 				"suit_item_id":123754601,
 				"properties":{
 					"fan_no_color":"#EB693B",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1692958182001,
 				"name":"豆姆蛙和咪姆",
-				"tab_id":0,
 				"suit_item_id":123754601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1446986559f9328ec65edcd0b022dfda02970c1c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"我很开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/104ec05e34e0fea9b4bda7a542e5c47734dad7cf.png\"},{\"name\":\"pia\",\"image\":\"https://i0.hdslb.com/bfs/garb/e16f5e7cd38ddcfa5224c12c2d7812465daa1228.png\"},{\"name\":\"今天也很美\",\"image\":\"https://i0.hdslb.com/bfs/garb/74ee36fbcefdb9f8b98194be0f2d7035766f9282.png\"},{\"name\":\"时尚\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e58771f1e4618a27f25569e9845fae988ba5137.png\"},{\"name\":\"富哥\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ae3729380a12b7d817d0b13abc7281491c9a0c1.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/a056cab67d14c3fc93a166af2a3fe1eb84a5732d.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/7137d98dea998c149d4eb250c74150aa2f1b1139.png\"},{\"name\":\"保佑\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3d1ebba8e6f9a692933a39bfe45d3daebd813e5.png\"},{\"name\":\"慈悲\",\"image\":\"https://i0.hdslb.com/bfs/garb/fccf51051858b452f99bb1bd757459c10ab034e6.png\"},{\"name\":\"成功\",\"image\":\"https://i0.hdslb.com/bfs/garb/006db21daea76d24aae906e5e4497a8df151c16a.png\"},{\"name\":\"起飞鱼鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c44bb6f7e818e28c25cb11ed0b713ff20f85660.png\"},{\"name\":\"哄我\",\"image\":\"https://i0.hdslb.com/bfs/garb/418f53387c369da8e3d7e9645dce1d63ad38356d.png\"},{\"name\":\"大无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/43959f650af2402ebc669f03809725d9168de701.png\"},{\"name\":\"起飞蛙蛙\",\"image\":\"https://i0.hdslb.com/bfs/garb/e00b69cf5f9c522bfb21cfc21f4f151d809eec55.png\"},{\"name\":\"忘惹爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/5149ce42661b324e7de71941d440507997fcf64a.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_pia]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e16f5e7cd38ddcfa5224c12c2d7812465daa1228.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_今天也很美]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/74ee36fbcefdb9f8b98194be0f2d7035766f9282.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_保佑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c3d1ebba8e6f9a692933a39bfe45d3daebd813e5.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_哄我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/418f53387c369da8e3d7e9645dce1d63ad38356d.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7137d98dea998c149d4eb250c74150aa2f1b1139.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_大无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/43959f650af2402ebc669f03809725d9168de701.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a056cab67d14c3fc93a166af2a3fe1eb84a5732d.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_富哥]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ae3729380a12b7d817d0b13abc7281491c9a0c1.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_忘惹爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5149ce42661b324e7de71941d440507997fcf64a.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_慈悲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fccf51051858b452f99bb1bd757459c10ab034e6.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_成功]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/006db21daea76d24aae906e5e4497a8df151c16a.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_我很开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/104ec05e34e0fea9b4bda7a542e5c47734dad7cf.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_时尚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7e58771f1e4618a27f25569e9845fae988ba5137.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_起飞蛙蛙]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e00b69cf5f9c522bfb21cfc21f4f151d809eec55.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[豆姆蛙和咪姆_起飞鱼鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6c44bb6f7e818e28c25cb11ed0b713ff20f85660.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1692958269001,
 				"name":"豆姆蛙和咪姆",
-				"tab_id":0,
 				"suit_item_id":123754601,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1692958201001,
 				"name":"豆姆蛙和咪姆",
-				"tab_id":0,
 				"suit_item_id":123754601,
 				"properties":{
 					"fan_no_color":"#ffffff",

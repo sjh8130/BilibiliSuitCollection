@@ -36,7 +36,6 @@
 			{
 				"item_id":1706878280001,
 				"name":"萌趣小可爱 平安喜乐",
-				"tab_id":0,
 				"suit_item_id":203363201,
 				"properties":{
 					"fan_no_color":"#80434F",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1706878280002,
 				"name":"萌趣小可爱 平安喜乐粉丝",
-				"tab_id":0,
 				"suit_item_id":203363201,
 				"properties":{
 					"fan_no_color":"#80434F",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1706878964001,
 				"name":"萌趣小可爱 平安喜乐",
-				"tab_id":0,
 				"suit_item_id":203363201,
 				"properties":{
 					"fan_no_color":"#814550",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1706878503001,
 				"name":"萌趣小可爱 平安喜乐",
-				"tab_id":0,
 				"suit_item_id":203363201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d48b5aee8d4982eea559fc87533b4bb5de72132b.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"你好呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/3adefea3e07a9fc916a0d7c337ed9c3741ac18f3.png\"},{\"name\":\"卖萌\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa79da0be96c297e52d95c893d4f2b3567c3a173.png\"},{\"name\":\"乖巧\",\"image\":\"https://i0.hdslb.com/bfs/garb/d614600663a5efc21f39752330292cb9eafb0e0f.png\"},{\"name\":\"发现宝藏\",\"image\":\"https://i0.hdslb.com/bfs/garb/29692c1135a3727c89523b43336b257e55a64bd3.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/b03ec7af1a1f8835fde5c6332f1726d2c1893423.png\"},{\"name\":\"再见\",\"image\":\"https://i0.hdslb.com/bfs/garb/26538824f76a9e7ab17aaad3e427b696030df445.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/f33b9b2cdd28004ca0200dc6edf9bc582ad504bb.png\"},{\"name\":\"嗯\",\"image\":\"https://i0.hdslb.com/bfs/garb/0bc9965981913baaa8e9d974202d68f2f7182c6c.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/6400e34ac9cda020752ec1e6ed82e97a4d3b4ad8.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/475ddeb97f393f62e044623ed935e319e88806b1.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a57d6757423ec720cd2240591e5b5fe9d7066da.png\"},{\"name\":\"睡了\",\"image\":\"https://i0.hdslb.com/bfs/garb/0cea92b29f48bc318cab79b9281dc67983574986.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/28150b87fb4f74d1147a575db38c2b633301a5ce.png\"},{\"name\":\"天呐\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec58839e80a77f4fa21514fe3a257b16e2bdf50e.png\"},{\"name\":\"收藏\",\"image\":\"https://i0.hdslb.com/bfs/garb/83a279f1e729dcbcb0fd5b8de15e290e1452f5cf.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_乖巧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d614600663a5efc21f39752330292cb9eafb0e0f.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_你好呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3adefea3e07a9fc916a0d7c337ed9c3741ac18f3.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_再见]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/26538824f76a9e7ab17aaad3e427b696030df445.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_卖萌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aa79da0be96c297e52d95c893d4f2b3567c3a173.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_发现宝藏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/29692c1135a3727c89523b43336b257e55a64bd3.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6400e34ac9cda020752ec1e6ed82e97a4d3b4ad8.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/475ddeb97f393f62e044623ed935e319e88806b1.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b03ec7af1a1f8835fde5c6332f1726d2c1893423.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_嗯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0bc9965981913baaa8e9d974202d68f2f7182c6c.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_天呐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ec58839e80a77f4fa21514fe3a257b16e2bdf50e.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_委屈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a57d6757423ec720cd2240591e5b5fe9d7066da.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_收藏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/83a279f1e729dcbcb0fd5b8de15e290e1452f5cf.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/28150b87fb4f74d1147a575db38c2b633301a5ce.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f33b9b2cdd28004ca0200dc6edf9bc582ad504bb.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣小可爱 平安喜乐_睡了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0cea92b29f48bc318cab79b9281dc67983574986.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1706878910001,
 				"name":"萌趣小可爱 平安喜乐",
-				"tab_id":0,
 				"suit_item_id":203363201,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1706878627001,
 				"name":"萌趣小可爱 平安喜乐",
-				"tab_id":0,
 				"suit_item_id":203363201,
 				"properties":{
 					"fan_no_color":"#ffffff",

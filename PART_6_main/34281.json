@@ -24,7 +24,6 @@
 		"item_id_emoji":"34278",
 		"item_id_thumbup":"34258",
 		"rank_investor_show":"false",
-		"realname_auth":"false",
 		"sale_bp_forever_raw":"5500",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"100",
@@ -46,7 +45,6 @@
 				"suit_item_id":34281,
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/58307dae83b4ada8104f4aa282d7854d6c79dfdd.png",
-					"realname_auth":"false",
 					"sale_type":"other"
 				}
 			},
@@ -58,7 +56,6 @@
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/37d2aab9d42e174deb717e2ca7b312e9a0d93703.png",
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/fcbf527bd965b53164a462a063b7b49be053b0c0.png",
-					"realname_auth":"false",
 					"sale_type":"other"
 				}
 			}
@@ -72,7 +69,6 @@
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/5ca778909027277d92294c5693cdd7d63cee2ce6.png",
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/730299b3ac01bdb12338037acd63ad179c065e15.png",
-					"realname_auth":"false",
 					"sale_type":"suit"
 				}
 			}
@@ -87,11 +83,9 @@
 					"addable":"true",
 					"biz":"dynamic,reply,watch_full",
 					"image":"https://i0.hdslb.com/bfs/emote/9111a1a21b942ba1404a52ca7f7a7840c690ed26.png",
-					"is_symbol":"false",
 					"item_ids":"34262,34263,34264,34265,34266,34267,34268,34269,34270,34271,34272,34273,34274,34276,34277",
 					"permanent":"false",
 					"preview":"false",
-					"realname_auth":"false",
 					"recently_used":"false",
 					"recommend":"false",
 					"removable":"true",
@@ -106,9 +100,7 @@
 						"name":"[KAITO_打call]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/ae3a57ea6fc1f9c766ae7a2520559efb9f888d41.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -117,9 +109,7 @@
 						"name":"[KAITO_唱歌]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/5d90c88e2ab07a449522f114205d5ce119200a07.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -128,9 +118,7 @@
 						"name":"[KAITO_吃糕群众]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/e7a3ad849122851aafefcb273b86484b2f234a95.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -139,9 +127,7 @@
 						"name":"[KAITO_冻住]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/349e827fd95e28ca0461807b9961b2d95aa63169.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -150,9 +136,7 @@
 						"name":"[KAITO_鼓掌]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/80962814ca1da2305f4f1464e1fef3ff983202e7.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -161,9 +145,7 @@
 						"name":"[KAITO_嗨]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/348d09e099ebf44e586d0aa5991df2d6ee8fe5ec.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -172,9 +154,7 @@
 						"name":"[KAITO_害羞]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/ad8c453d40199c8e8409df232f16e7f820b47f81.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -183,9 +163,7 @@
 						"name":"[KAITO_看看]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/8d9c98db02b1989e4955c5a5074820ab3fb3b257.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -194,9 +172,7 @@
 						"name":"[KAITO_聆听]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/4855866af3ffa4d2cea1e3c9941de07cb228d9cf.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -205,9 +181,7 @@
 						"name":"[KAITO_抹泪]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/424693c523e684fb05af3fe45597c9507bece609.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -216,9 +190,7 @@
 						"name":"[KAITO_哦吼]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/5f00b541d0f49a55551d566d17089620c21779ec.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -227,9 +199,7 @@
 						"name":"[KAITO_期待]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/ba7df559205d79dac130fc482ad0803b2a7e54bb.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -238,9 +208,7 @@
 						"name":"[KAITO_叹气]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/12c6532b6d174d1bd2351f6aea38ca7caba9f12c.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -249,9 +217,7 @@
 						"name":"[KAITO_心心]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/99e2cb6856df93573f6a0c10e1243abff781be26.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -260,9 +226,7 @@
 						"name":"[KAITO_抱抱]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/e297a45f13126389c2f3112c11e48b31814605d9.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					}
@@ -279,7 +243,6 @@
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/c8c17b75a55e0896d5149bc4aff0308975f77962.png",
 					"loading_frame_url":"https://i0.hdslb.com/bfs/garb/item/54007152e39d9ef6fb515f3d7a3a248900c2077f.png",
 					"loading_url":"https://i0.hdslb.com/bfs/garb/item/f570e42bb7efbc3ef4ce8d6d21e4cfaeba7c8e2e.webp",
-					"realname_auth":"false",
 					"ver":"1645094630"
 				}
 			}
@@ -295,7 +258,6 @@
 					"drag_icon_hash":"db4a2b814871a046123ecb3c6f16f8e9",
 					"icon":"https://i0.hdslb.com/bfs/garb/item/d063e814427d5fb28288fa489dd3f97ed13dba7d.json",
 					"icon_hash":"f5318a605e9dc1327c41a48711be81be",
-					"realname_auth":"false",
 					"squared_image":"https://i0.hdslb.com/bfs/garb/item/5cd670875a44f3df4a8ddab26b6f60f701b30e63.png",
 					"static_icon_image":"https://i0.hdslb.com/bfs/garb/item/06f16ca92a2a5e20f9372f95506a9af3d8580389.png",
 					"ver":"1645003781"
@@ -320,7 +282,6 @@
 					"image_preview":"https://i0.hdslb.com/bfs/garb/item/a5ac41ef15c3bb6987e4d6f04ea3bc74b9f45a89.jpg",
 					"package_md5":"62d336a1c26ef6985f845ff0c24b380c",
 					"package_url":"https://i0.hdslb.com/bfs/garb/zip/a015353430775119ce8878c5e55bb2f35db36aa5.zip",
-					"realname_auth":"false",
 					"side_bg_color":"#6bbdff",
 					"skin_mode":"normal",
 					"tail_bg":"https://i0.hdslb.com/bfs/garb/item/f3a8be1cf30b98c0e2c65689de5cdae7cbffc9d1.png",
@@ -357,8 +318,7 @@
 					"image1_landscape":"https://i0.hdslb.com/bfs/garb/item/6555770fad9dc9ecf13877e49af01fae0fd49d34.jpg",
 					"image1_portrait":"https://i0.hdslb.com/bfs/garb/item/06044938b4b6200c9e0df2a683622cc60468e364.jpg",
 					"image2_landscape":"https://i0.hdslb.com/bfs/garb/item/f4c404c70d2cdb4546bf686cfcf6e182366d5dbc.jpg",
-					"image2_portrait":"https://i0.hdslb.com/bfs/garb/item/a14e8c18c38e1a2e2e9537e9a93a0124690b2fa2.jpg",
-					"realname_auth":"false"
+					"image2_portrait":"https://i0.hdslb.com/bfs/garb/item/a14e8c18c38e1a2e2e9537e9a93a0124690b2fa2.jpg"
 				}
 			}
 		],
@@ -371,8 +331,7 @@
 				"properties":{
 					"image_ani":"https://i0.hdslb.com/bfs/garb/item/996fe3502cb0ef672ec821501df9aa1f7a0252a1.bin",
 					"image_ani_cut":"https://i0.hdslb.com/bfs/garb/item/a70eeff502a40d7afd68d0390d5d789878b3c4ad.bin",
-					"image_preview":"https://i0.hdslb.com/bfs/garb/item/05fe17b254e29366946379dabb2476f6c4fd30b4.png",
-					"realname_auth":"false"
+					"image_preview":"https://i0.hdslb.com/bfs/garb/item/05fe17b254e29366946379dabb2476f6c4fd30b4.png"
 				}
 			}
 		]

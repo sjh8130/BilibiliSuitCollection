@@ -35,7 +35,6 @@
 			{
 				"item_id":1682671924001,
 				"name":"漫游HAMI蜂",
-				"tab_id":0,
 				"suit_item_id":111851101,
 				"properties":{
 					"fan_no_color":"#935B7A",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1682671924002,
 				"name":"漫游HAMI蜂粉丝",
-				"tab_id":0,
 				"suit_item_id":111851101,
 				"properties":{
 					"fan_no_color":"#935B7A",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1682672424001,
 				"name":"漫游HAMI蜂",
-				"tab_id":0,
 				"suit_item_id":111851101,
 				"properties":{
 					"fan_no_color":"#935B7A",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1682671994001,
 				"name":"漫游HAMI蜂",
-				"tab_id":0,
 				"suit_item_id":111851101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f447f40d930e94fc38567081f2cd1a2aea2d61cb.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"0\",\"image\":\"https://i0.hdslb.com/bfs/garb/9aa30539fb782d416a8493c9647e83a1970f1284.png\"},{\"name\":\"42\",\"image\":\"https://i0.hdslb.com/bfs/garb/dac41f30f19b4e0bf846b9dfa89dd3f50736b4d9.png\"},{\"name\":\"哎呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f3db5a8dbe4354247c443c294b593238137578f.png\"},{\"name\":\"起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9c7b7cee2e1de1145668a0cf2474caa29420a04.png\"},{\"name\":\"啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/047cd9ed7bf3120a3b537a664826ec4d092d7470.png\"},{\"name\":\"收到\",\"image\":\"https://i0.hdslb.com/bfs/garb/2400d5e747e096856ccbc16cf50efba87b4a6b71.png\"},{\"name\":\"星星眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea266711ebb671003e5705f2b338d156f913e6af.png\"},{\"name\":\"充电中\",\"image\":\"https://i0.hdslb.com/bfs/garb/5181bc5b52fa857d7974762fc85b4de003138b26.png\"},{\"name\":\"战损\",\"image\":\"https://i0.hdslb.com/bfs/garb/4481fe1a2ac96c9166ef4e68ec995c6cdb460bba.png\"},{\"name\":\"坏了\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f2d13e80a2570a7e6a58e78cc43aa84ca69b441.png\"},{\"name\":\"哈喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/ebaab95400b7afa6b134b4fa16d42c74d7fca02c.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fef1b557024f589efc534507c56676e005ae9da.png\"},{\"name\":\"激光眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/20225da8c1fc31396b6e357b4d0fd7227e4fbbcf.png\"},{\"name\":\"没电了\",\"image\":\"https://i0.hdslb.com/bfs/garb/9659b8c672ff22c75d7f735369dbdc43f3247630.png\"},{\"name\":\"就是你啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/e2fb6c872cba7c74c9667e3860e35c85f14d4565.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_0]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9aa30539fb782d416a8493c9647e83a1970f1284.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_42]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dac41f30f19b4e0bf846b9dfa89dd3f50736b4d9.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_充电中]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5181bc5b52fa857d7974762fc85b4de003138b26.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_哈喽]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ebaab95400b7afa6b134b4fa16d42c74d7fca02c.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_哎呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3f3db5a8dbe4354247c443c294b593238137578f.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/047cd9ed7bf3120a3b537a664826ec4d092d7470.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_坏了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2f2d13e80a2570a7e6a58e78cc43aa84ca69b441.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1fef1b557024f589efc534507c56676e005ae9da.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_就是你啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e2fb6c872cba7c74c9667e3860e35c85f14d4565.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_战损]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4481fe1a2ac96c9166ef4e68ec995c6cdb460bba.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_收到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2400d5e747e096856ccbc16cf50efba87b4a6b71.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_星星眼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea266711ebb671003e5705f2b338d156f913e6af.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_没电了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9659b8c672ff22c75d7f735369dbdc43f3247630.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_激光眼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20225da8c1fc31396b6e357b4d0fd7227e4fbbcf.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[漫游HAMI蜂_起飞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f9c7b7cee2e1de1145668a0cf2474caa29420a04.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1682672399001,
 				"name":"漫游HAMI蜂",
-				"tab_id":0,
 				"suit_item_id":111851101,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1682672034001,
 				"name":"漫游HAMI蜂",
-				"tab_id":0,
 				"suit_item_id":111851101,
 				"properties":{
 					"fan_no_color":"#ffffff",

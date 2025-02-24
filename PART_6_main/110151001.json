@@ -35,7 +35,6 @@
 			{
 				"item_id":1681202243001,
 				"name":"森林小动物乐队",
-				"tab_id":0,
 				"suit_item_id":110151001,
 				"properties":{
 					"fan_no_color":"#FDC498",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1681203190001,
 				"name":"森林小动物乐队粉丝",
-				"tab_id":0,
 				"suit_item_id":110151001,
 				"properties":{
 					"fan_no_color":"#FDC498",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1681202437001,
 				"name":"森林小动物乐队",
-				"tab_id":0,
 				"suit_item_id":110151001,
 				"properties":{
 					"fan_no_color":"#C8544F",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1681200713001,
 				"name":"森林小动物乐队",
-				"tab_id":0,
 				"suit_item_id":110151001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4d9b1c9a13151ab9cb9449e80c2a94d9392dc225.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"一键三连\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e41b2ed57547d362b8098df503b96725254c686.png\"},{\"name\":\"你醒啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/17d54e8fa74d707be84249667ae2d72872aef765.png\"},{\"name\":\"啊！！！\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd2f274001564d7602ce7c460fd2e0b470c13cf7.png\"},{\"name\":\"哦...\",\"image\":\"https://i0.hdslb.com/bfs/garb/40a0d8ab9c307e3043767796cd165732d8b8c212.png\"},{\"name\":\"痛痛\",\"image\":\"https://i0.hdslb.com/bfs/garb/4dcfb675a8102d7517f70144c42b601868ef6921.png\"},{\"name\":\"毛蓬蓬\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8c2705accd6bfb7b34d94a0900330cc78e823df.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/87bbd7567db6966614af6a2330f8744d1bd001a9.png\"},{\"name\":\"耍猴呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/7110078e822a93394f1fe6c8b1fe14f28dc1d715.png\"},{\"name\":\"啊对对对\",\"image\":\"https://i0.hdslb.com/bfs/garb/318adcdea822ebf5d7a63af1d948b00f0d6eb0ef.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/807451720f72f53bd4911f6c035a3bfe47a47cba.png\"},{\"name\":\"烦恼\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5e983af7825027658a99b5c23e5916684dc58c3.png\"},{\"name\":\"没有吃哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/03ddeaf6c93b0c93119a4069402877f41210a626.png\"},{\"name\":\"爱你哟\",\"image\":\"https://i0.hdslb.com/bfs/garb/56f3a51409950e17b46590a936408a2b7968c739.png\"},{\"name\":\"好吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ecd4720d9c11ad6484825ef115b4c2ceefa15ee.png\"},{\"name\":\"吵闹\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdc8289631f0bca0af6aed352e1fdde4bdad4296.png\"},{\"name\":\"跟我来\",\"image\":\"https://i0.hdslb.com/bfs/garb/6786d5771fe80584be7e6d21fe6ae6552afa9309.png\"},{\"name\":\"好烦！\",\"image\":\"https://i0.hdslb.com/bfs/garb/fa266c41f9cd75311b5668888c4b9802158668a5.png\"},{\"name\":\"呜呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/e42f114336cafd0e348448ca1ef7336dc159d1a7.png\"},{\"name\":\"扭捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/86195b299051b681ab90a244dbce64b76201235b.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/c82087403ab763856c0ef800165be3f1fd6f0ac4.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_一键三连]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1e41b2ed57547d362b8098df503b96725254c686.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_你醒啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/17d54e8fa74d707be84249667ae2d72872aef765.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_吵闹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bdc8289631f0bca0af6aed352e1fdde4bdad4296.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_呜呜呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e42f114336cafd0e348448ca1ef7336dc159d1a7.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_哦...]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/40a0d8ab9c307e3043767796cd165732d8b8c212.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_啊对对对]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/318adcdea822ebf5d7a63af1d948b00f0d6eb0ef.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_啊！！！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cd2f274001564d7602ce7c460fd2e0b470c13cf7.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_啊？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/807451720f72f53bd4911f6c035a3bfe47a47cba.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_好吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9ecd4720d9c11ad6484825ef115b4c2ceefa15ee.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_好烦！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fa266c41f9cd75311b5668888c4b9802158668a5.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/87bbd7567db6966614af6a2330f8744d1bd001a9.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_扭捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/86195b299051b681ab90a244dbce64b76201235b.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_毛蓬蓬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a8c2705accd6bfb7b34d94a0900330cc78e823df.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_没有吃哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/03ddeaf6c93b0c93119a4069402877f41210a626.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_烦恼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f5e983af7825027658a99b5c23e5916684dc58c3.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_爱你哟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/56f3a51409950e17b46590a936408a2b7968c739.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c82087403ab763856c0ef800165be3f1fd6f0ac4.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_痛痛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4dcfb675a8102d7517f70144c42b601868ef6921.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_耍猴呢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7110078e822a93394f1fe6c8b1fe14f28dc1d715.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[森林小动物乐队_跟我来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6786d5771fe80584be7e6d21fe6ae6552afa9309.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1681202833001,
 				"name":"森林小动物乐队",
-				"tab_id":0,
 				"suit_item_id":110151001,
 				"properties":{
 					"color":"#000000",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1681203161001,
 				"name":"森林小动物乐队",
-				"tab_id":0,
 				"suit_item_id":110151001,
 				"properties":{
 					"fan_no_color":"#ffffff",

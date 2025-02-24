@@ -35,7 +35,6 @@
 			{
 				"item_id":1721265456001,
 				"name":"黑勾购物中心",
-				"tab_id":0,
 				"suit_item_id":222529401,
 				"properties":{
 					"fan_no_color":"#51C7EF",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1721265456002,
 				"name":"黑勾购物中心粉丝",
-				"tab_id":0,
 				"suit_item_id":222529401,
 				"properties":{
 					"fan_no_color":"#51C7EF",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1721265526001,
 				"name":"黑勾购物中心",
-				"tab_id":0,
 				"suit_item_id":222529401,
 				"properties":{
 					"fan_no_color":"#51C7EF",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1721265840001,
 				"name":"黑勾购物中心",
-				"tab_id":0,
 				"suit_item_id":222529401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b82a2a284ceb77dd0f11851ae3edf2cb1b19fa0a.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"偷偷观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e602f0a07b00b9080fdb47bae63804979e99538.png\"},{\"name\":\"封心不再爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/b10781753cd0a4eadfe0d29edded0c251b70cb58.png\"},{\"name\":\"蛐蛐你\",\"image\":\"https://i0.hdslb.com/bfs/garb/1cc3b9d2f2b8aab85fe096ed8b21cacb677f0179.png\"},{\"name\":\"嗬！忒！\",\"image\":\"https://i0.hdslb.com/bfs/garb/90d66430e3ce15f75d736fdbd15b13ad1cdc7627.png\"},{\"name\":\"爱你呦\",\"image\":\"https://i0.hdslb.com/bfs/garb/41d7b646b4e6b4cc2d12ffb52140e14e9032c07a.png\"},{\"name\":\"已老实\",\"image\":\"https://i0.hdslb.com/bfs/garb/087527440045afccaebd74e9ea488f9f949ae52a.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0dbfde0e085fa5de745e987b998fd4fe633e412.png\"},{\"name\":\"Happy~\",\"image\":\"https://i0.hdslb.com/bfs/garb/12d48fa8c986fe416b7c075ceaa7e4a8a8d1a9cb.png\"},{\"name\":\"懂？\",\"image\":\"https://i0.hdslb.com/bfs/garb/985ffa8275616f46758418c7a9ea0018f0809c10.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/f719d3b35c013bcfcce26c0d735b379721073420.png\"},{\"name\":\"带你开奔奔\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1f0b2a28af62b9aaa158fce039dde99b75648f4.png\"},{\"name\":\"为你打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b48b25250847b5eca97db820fcfb591aab0dfe2.png\"},{\"name\":\"嘤嘤嘤\",\"image\":\"https://i0.hdslb.com/bfs/garb/bef7f8393cdf933740b84b91414fcbcee3c2238c.png\"},{\"name\":\"暴龙出击\",\"image\":\"https://i0.hdslb.com/bfs/garb/2407c5e7f8f13b328ffa8b533af7f9f56528b0ed.png\"},{\"name\":\"逛街\",\"image\":\"https://i0.hdslb.com/bfs/garb/d214597db3a86c4e20bffad500b2d8c1f5bacc9a.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_Happy~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/12d48fa8c986fe416b7c075ceaa7e4a8a8d1a9cb.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_为你打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6b48b25250847b5eca97db820fcfb591aab0dfe2.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_偷偷观察]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e602f0a07b00b9080fdb47bae63804979e99538.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a0dbfde0e085fa5de745e987b998fd4fe633e412.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_嗬！忒！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/90d66430e3ce15f75d736fdbd15b13ad1cdc7627.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_嘤嘤嘤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bef7f8393cdf933740b84b91414fcbcee3c2238c.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_封心不再爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b10781753cd0a4eadfe0d29edded0c251b70cb58.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_已老实]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/087527440045afccaebd74e9ea488f9f949ae52a.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_带你开奔奔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e1f0b2a28af62b9aaa158fce039dde99b75648f4.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_懂？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/985ffa8275616f46758418c7a9ea0018f0809c10.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_暴龙出击]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2407c5e7f8f13b328ffa8b533af7f9f56528b0ed.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_爱你呦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/41d7b646b4e6b4cc2d12ffb52140e14e9032c07a.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_蛐蛐你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1cc3b9d2f2b8aab85fe096ed8b21cacb677f0179.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f719d3b35c013bcfcce26c0d735b379721073420.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[黑勾购物中心_逛街]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d214597db3a86c4e20bffad500b2d8c1f5bacc9a.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1721266521001,
 				"name":"黑勾购物中心",
-				"tab_id":0,
 				"suit_item_id":222529401,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1721265594001,
 				"name":"黑勾购物中心",
-				"tab_id":0,
 				"suit_item_id":222529401,
 				"properties":{
 					"fan_no_color":"#ffffff",

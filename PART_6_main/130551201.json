@@ -35,7 +35,6 @@
 			{
 				"item_id":1698826059001,
 				"name":"钱包1",
-				"tab_id":0,
 				"suit_item_id":130551201,
 				"properties":{
 					"fan_no_color":"#0DCD64",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1698826059002,
 				"name":"钱包1粉丝",
-				"tab_id":0,
 				"suit_item_id":130551201,
 				"properties":{
 					"fan_no_color":"#0DCD64",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1698826379001,
 				"name":"余额1",
-				"tab_id":0,
 				"suit_item_id":130551201,
 				"properties":{
 					"fan_no_color":"#4ABB79",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1698827443001,
 				"name":"钱包表情",
-				"tab_id":0,
 				"suit_item_id":130551201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1bd329ecea9c27232c701d8552554736e40065e1.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"钱包\",\"image\":\"https://i0.hdslb.com/bfs/garb/258703cc0d0733a5b986bcd4842e9c970cfe1ae9.png\"},{\"name\":\"失望\",\"image\":\"https://i0.hdslb.com/bfs/garb/1067980d5b14e0c500baeb29f48af43543eb00b8.png\"},{\"name\":\"余额\",\"image\":\"https://i0.hdslb.com/bfs/garb/612e3d67a83d7e6f9af4d8f4c97aa3137175d5c0.png\"},{\"name\":\"零钱\",\"image\":\"https://i0.hdslb.com/bfs/garb/fba69477f09561c815d320e29e90f8c8b89ba49a.png\"},{\"name\":\"额度\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce44889ed0805bfa5827a2d8e6aef199aec9bed5.png\"},{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/be6c84ed6f90f95cfec5664d480245971397549f.png\"},{\"name\":\"循环\",\"image\":\"https://i0.hdslb.com/bfs/garb/f21d9a5c57916386b2b02008201f342572bcfec5.png\"},{\"name\":\"警告\",\"image\":\"https://i0.hdslb.com/bfs/garb/933bd71ab8cf1eb7906c4b6c28598dc49abae7bd.png\"},{\"name\":\"钱钱\",\"image\":\"https://i0.hdslb.com/bfs/garb/f67d2359adae401ccc6ed6dfdccef7122b0ee49b.png\"},{\"name\":\"假笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e341a2eea07801b0a0ae7c506f35dd65a99660d.png\"},{\"name\":\"啊对对对\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4283c47ca68a740011dd691a2eacbecae366022.png\"},{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/a903f22203e51a65ec745b1a03086cff70234606.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/605411ead1301cdd252fe61e7a63113f8b578bc5.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e52214f2786dab969252a03c12d392af6d90d47.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b427ec5b4061b066af42da3d813b1ea331afa35.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_余额]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/612e3d67a83d7e6f9af4d8f4c97aa3137175d5c0.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_假笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4e341a2eea07801b0a0ae7c506f35dd65a99660d.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_啊对对对]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e4283c47ca68a740011dd691a2eacbecae366022.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_失望]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1067980d5b14e0c500baeb29f48af43543eb00b8.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_害怕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9b427ec5b4061b066af42da3d813b1ea331afa35.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_循环]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f21d9a5c57916386b2b02008201f342572bcfec5.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_微笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/be6c84ed6f90f95cfec5664d480245971397549f.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_投币]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a903f22203e51a65ec745b1a03086cff70234606.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/605411ead1301cdd252fe61e7a63113f8b578bc5.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1e52214f2786dab969252a03c12d392af6d90d47.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_警告]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/933bd71ab8cf1eb7906c4b6c28598dc49abae7bd.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_钱包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/258703cc0d0733a5b986bcd4842e9c970cfe1ae9.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_钱钱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f67d2359adae401ccc6ed6dfdccef7122b0ee49b.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_零钱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fba69477f09561c815d320e29e90f8c8b89ba49a.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[钱包表情_额度]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce44889ed0805bfa5827a2d8e6aef199aec9bed5.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1698823028001,
 				"name":"救济箱1",
-				"tab_id":0,
 				"suit_item_id":130551201,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1698826685001,
 				"name":"救济箱1",
-				"tab_id":0,
 				"suit_item_id":130551201,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1691569692001,
 				"name":"韶华依依",
-				"tab_id":0,
 				"suit_item_id":122157801,
 				"properties":{
 					"fan_no_color":"#09B5C8",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1691569692002,
 				"name":"韶华依依粉丝",
-				"tab_id":0,
 				"suit_item_id":122157801,
 				"properties":{
 					"fan_no_color":"#09B5C8",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1691568631001,
 				"name":"韶华依依评论背景",
-				"tab_id":0,
 				"suit_item_id":122157801,
 				"properties":{
 					"fan_no_color":"#09B5C8",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1691568314001,
 				"name":"韶华依依表情包",
-				"tab_id":0,
 				"suit_item_id":122157801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/13cbe42ed28c4fac689ca6cf5acc2069d3c068a0.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"泰乐辣\",\"image\":\"https://i0.hdslb.com/bfs/garb/fbdaa39e256bfcaf807b2612dc970a42968f4660.png\"},{\"name\":\"急急急急\",\"image\":\"https://i0.hdslb.com/bfs/garb/b208735d2d6e2f8596ddf66e8149a8cd24b92c3f.png\"},{\"name\":\"蚌埠住了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ea287892010204f876f2cb5be5fdb9ee0ae242e.png\"},{\"name\":\"我们是冠军\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2b32bbe7f8f6a3c01cd8e1a99291f4fbff881ce.png\"},{\"name\":\"麻了麻了\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ecc1c3473c598bfbcc438bc4892f1750c519098.png\"},{\"name\":\"泰典辣\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f8852b5c4e47042d30cda66fc33ab0a29f6579d.png\"},{\"name\":\"妈！吃饭！\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a11f199b635befaa5a4f323627bd15aced84923.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7bd2f81dba89139095ad15f9b4b1cbbe1e34b4f.png\"},{\"name\":\"杂鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/96ef913b59b0bbe495d699b17702c623f0104715.png\"},{\"name\":\"拿下！\",\"image\":\"https://i0.hdslb.com/bfs/garb/c468df9fc129dc43624e1c82c3525e47baa8874c.png\"},{\"name\":\"GN来咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea526036cd8bc0a0603df0724effb8e17399bb27.png\"},{\"name\":\"收收味\",\"image\":\"https://i0.hdslb.com/bfs/garb/18ed1c3f957cd209f6091a3e43bea1cb0a350bbb.png\"},{\"name\":\"请给我米\",\"image\":\"https://i0.hdslb.com/bfs/garb/8baa0cb009382ba3a3f71efb50f914a16c555393.png\"},{\"name\":\"哈哈哈哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/27f0818c98d74709bc397c0c1a9e99b68fc75f8d.png\"},{\"name\":\"韶华依依\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea6bffc0a49e434451d4f2287b16c9bfe6c2fb5f.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_GN来咯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea526036cd8bc0a0603df0724effb8e17399bb27.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_哈哈哈哈哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/27f0818c98d74709bc397c0c1a9e99b68fc75f8d.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_嘻嘻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f7bd2f81dba89139095ad15f9b4b1cbbe1e34b4f.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_妈！吃饭！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5a11f199b635befaa5a4f323627bd15aced84923.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_急急急急]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b208735d2d6e2f8596ddf66e8149a8cd24b92c3f.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_我们是冠军]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a2b32bbe7f8f6a3c01cd8e1a99291f4fbff881ce.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_拿下！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c468df9fc129dc43624e1c82c3525e47baa8874c.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_收收味]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/18ed1c3f957cd209f6091a3e43bea1cb0a350bbb.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_杂鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/96ef913b59b0bbe495d699b17702c623f0104715.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_泰乐辣]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fbdaa39e256bfcaf807b2612dc970a42968f4660.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_泰典辣]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4f8852b5c4e47042d30cda66fc33ab0a29f6579d.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_蚌埠住了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7ea287892010204f876f2cb5be5fdb9ee0ae242e.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_请给我米]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8baa0cb009382ba3a3f71efb50f914a16c555393.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_韶华依依]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea6bffc0a49e434451d4f2287b16c9bfe6c2fb5f.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[韶华依依表情包_麻了麻了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9ecc1c3473c598bfbcc438bc4892f1750c519098.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1691578991001,
 				"name":"韶华依依",
-				"tab_id":0,
 				"suit_item_id":122157801,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1691571859001,
 				"name":"韶华依依",
-				"tab_id":0,
 				"suit_item_id":122157801,
 				"properties":{
 					"fan_no_color":"#ffffff",

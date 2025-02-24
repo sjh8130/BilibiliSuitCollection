@@ -36,7 +36,6 @@
 			{
 				"item_id":1730110880001,
 				"name":"HAMSTA快乐小仓鼠日常",
-				"tab_id":0,
 				"suit_item_id":230361501,
 				"properties":{
 					"fan_no_color":"#F1746B",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1730110880002,
 				"name":"HAMSTA快乐小仓鼠日常粉丝",
-				"tab_id":0,
 				"suit_item_id":230361501,
 				"properties":{
 					"fan_no_color":"#F1746B",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1730111738001,
 				"name":"HAMSTA快乐小仓鼠日常",
-				"tab_id":0,
 				"suit_item_id":230361501,
 				"properties":{
 					"fan_no_color":"#FBC9C5",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1728647235001,
 				"name":"Hamsta快乐小仓鼠日常",
-				"tab_id":0,
 				"suit_item_id":230361501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/13814058358bb57a2727d5c02f8eb9d4578594b1.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"一起浪\",\"image\":\"https://i0.hdslb.com/bfs/garb/76e88af43fa7cf080b1ce54fa4c2a4c03d9c6c7a.png\"},{\"name\":\"真香\",\"image\":\"https://i0.hdslb.com/bfs/garb/4eb66042fe5574989fa9dbdb719ad3f30f738a04.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9c7e0c85e739d7b61b46679531070602b4c4f07.png\"},{\"name\":\"剁手党\",\"image\":\"https://i0.hdslb.com/bfs/garb/18587f0e0c8fed718aa685de3d2941b847cb1d86.png\"},{\"name\":\"星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/601f656d308f96a220da12141c2fff86dfc9fff4.png\"},{\"name\":\"生日快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f9c29a321e0ab233ff08b8a8ddc9551855e16c9.png\"},{\"name\":\"无辜\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b218d2d45fd0f49daaeb80809eafea7527637a4.png\"},{\"name\":\"欧了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8fd140fd9a1f18151c8973eb3c89210e78c79da.png\"},{\"name\":\"鬼来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/3381e05b1faad2350147434507f7845836b7f2b8.png\"},{\"name\":\"甜梦\",\"image\":\"https://i0.hdslb.com/bfs/garb/d3de273959e68b453146d1a3701a134c11087f1b.png\"},{\"name\":\"好闺蜜\",\"image\":\"https://i0.hdslb.com/bfs/garb/7bb4cf2858d6a91b555cd121c4132f10de3955e0.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b25885527535986d3126c20968040874798367d.png\"},{\"name\":\"内卷\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f7cad9c5098d2bd136073d38b0386e4edfa1ec7.png\"},{\"name\":\"怒了\",\"image\":\"https://i0.hdslb.com/bfs/garb/d542bad256e020c76ff53dfd2cc885e884a44e6f.png\"},{\"name\":\"我来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/1dd693f3fbcf337c0e9a31d318f412822c1fbe3a.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_一起浪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/76e88af43fa7cf080b1ce54fa4c2a4c03d9c6c7a.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_内卷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7f7cad9c5098d2bd136073d38b0386e4edfa1ec7.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_剁手党]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/18587f0e0c8fed718aa685de3d2941b847cb1d86.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_好闺蜜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7bb4cf2858d6a91b555cd121c4132f10de3955e0.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7b25885527535986d3126c20968040874798367d.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_怒了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d542bad256e020c76ff53dfd2cc885e884a44e6f.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_我来了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1dd693f3fbcf337c0e9a31d318f412822c1fbe3a.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_无辜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9b218d2d45fd0f49daaeb80809eafea7527637a4.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_星星]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/601f656d308f96a220da12141c2fff86dfc9fff4.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_欧了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c8fd140fd9a1f18151c8973eb3c89210e78c79da.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f9c7e0c85e739d7b61b46679531070602b4c4f07.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_甜梦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d3de273959e68b453146d1a3701a134c11087f1b.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_生日快乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8f9c29a321e0ab233ff08b8a8ddc9551855e16c9.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_真香]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4eb66042fe5574989fa9dbdb719ad3f30f738a04.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[Hamsta快乐小仓鼠日常_鬼来了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3381e05b1faad2350147434507f7845836b7f2b8.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1729860297001,
 				"name":"HAMSTA快乐小仓鼠日常",
-				"tab_id":0,
 				"suit_item_id":230361501,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1729486772001,
 				"name":"HAMSTA日常",
-				"tab_id":0,
 				"suit_item_id":230361501,
 				"properties":{
 					"fan_no_color":"#ffffff",

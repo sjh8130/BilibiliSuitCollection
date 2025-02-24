@@ -37,7 +37,6 @@
 			{
 				"item_id":1689171411001,
 				"name":"机智大灯灯动态卡片",
-				"tab_id":0,
 				"suit_item_id":119369201,
 				"properties":{
 					"fan_no_color":"#FF768E",
@@ -51,7 +50,6 @@
 			{
 				"item_id":1689171411002,
 				"name":"机智大灯灯动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":119369201,
 				"properties":{
 					"fan_no_color":"#FF768E",
@@ -68,7 +66,6 @@
 			{
 				"item_id":1689173047001,
 				"name":"机智大灯灯评论背景",
-				"tab_id":0,
 				"suit_item_id":119369201,
 				"properties":{
 					"fan_no_color":"#FF768E",
@@ -83,14 +80,12 @@
 			{
 				"item_id":1689171663001,
 				"name":"机智大灯灯表情包",
-				"tab_id":0,
 				"suit_item_id":119369201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9b3b102c1f7d5817a1cb56945d542fcc312c32ce.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"墨镜\",\"image\":\"https://i0.hdslb.com/bfs/garb/d61a9af334a84ad4700d99332a386ef484ead82b.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/72a944704163340d87ad202fa520bf16ccfcadb6.png\"},{\"name\":\"别走好吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3794275502601442caab24008bb01ae3546944c.png\"},{\"name\":\"不值得\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c56631b0519adef848d2a5fbba41c19a803edda.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/de1e8b0b76e3d5c489850bbed70f95762018b478.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/42ba9441c622d851435a2c258979b517fe970396.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9b3b5799690585685182e50c8ddc0015d2bda21.png\"},{\"name\":\"狗头叼花\",\"image\":\"https://i0.hdslb.com/bfs/garb/be5a87b001c65f402bf4817cc42f03812f2ba521.png\"},{\"name\":\"等着\",\"image\":\"https://i0.hdslb.com/bfs/garb/ada1b311d5e0b6ee1f82c6d2bf1dbbc03bd9a19c.png\"},{\"name\":\"结婚\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8f7f2556ef4d7a9100c7958810cd0cdc4e92967.png\"},{\"name\":\"就这\",\"image\":\"https://i0.hdslb.com/bfs/garb/ccf78ef3f500a3e0403c7f2d5fa12b76bdda5de4.png\"},{\"name\":\"泪目\",\"image\":\"https://i0.hdslb.com/bfs/garb/b158e4804e6c91cd49996d59c8307905ee7227fb.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/29af9ea31aacdce91639cdee71c5bdbcac0c0409.png\"},{\"name\":\"逆天\",\"image\":\"https://i0.hdslb.com/bfs/garb/2763b6bd04468c1b532e77d27cf35219ad2bedd6.png\"},{\"name\":\"没办法\",\"image\":\"https://i0.hdslb.com/bfs/garb/b20cdba81aad159de1019b5bf2ec5bb55b354bca.png\"},{\"name\":\"投降\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1890f1b12429a4e07a0eab754dee5739d9a8323.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/40be205393a3082850b46a0240c63d1baa28badd.png\"},{\"name\":\"鬼混回来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a80c32db67f9deeba3f89ea30091c9801833eaff.png\"},{\"name\":\"小丑\",\"image\":\"https://i0.hdslb.com/bfs/garb/379e4d28ad9cad4bc5e1811d408188eb5cf3cf14.png\"},{\"name\":\"心碎\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7ea22c10fbf0105f6d0f0aeaafb786ff294626c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_不值得]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c56631b0519adef848d2a5fbba41c19a803edda.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_别走好吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b3794275502601442caab24008bb01ae3546944c.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/de1e8b0b76e3d5c489850bbed70f95762018b478.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_墨镜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d61a9af334a84ad4700d99332a386ef484ead82b.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_小丑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/379e4d28ad9cad4bc5e1811d408188eb5cf3cf14.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_就这]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ccf78ef3f500a3e0403c7f2d5fa12b76bdda5de4.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b9b3b5799690585685182e50c8ddc0015d2bda21.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_心碎]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c7ea22c10fbf0105f6d0f0aeaafb786ff294626c.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/42ba9441c622d851435a2c258979b517fe970396.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_投降]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a1890f1b12429a4e07a0eab754dee5739d9a8323.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/40be205393a3082850b46a0240c63d1baa28badd.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_暗中观察]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/72a944704163340d87ad202fa520bf16ccfcadb6.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_没办法]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b20cdba81aad159de1019b5bf2ec5bb55b354bca.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_泪目]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b158e4804e6c91cd49996d59c8307905ee7227fb.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_流汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/29af9ea31aacdce91639cdee71c5bdbcac0c0409.png",
 							"sale_type":"pay"
@@ -241,7 +221,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_狗头叼花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/be5a87b001c65f402bf4817cc42f03812f2ba521.png",
 							"sale_type":"pay"
@@ -250,7 +229,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_等着]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ada1b311d5e0b6ee1f82c6d2bf1dbbc03bd9a19c.png",
 							"sale_type":"pay"
@@ -259,7 +237,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_结婚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e8f7f2556ef4d7a9100c7958810cd0cdc4e92967.png",
 							"sale_type":"pay"
@@ -268,7 +245,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_逆天]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2763b6bd04468c1b532e77d27cf35219ad2bedd6.png",
 							"sale_type":"pay"
@@ -277,7 +253,6 @@
 					{
 						"item_id":0,
 						"name":"[机智大灯灯表情包_鬼混回来了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a80c32db67f9deeba3f89ea30091c9801833eaff.png",
 							"sale_type":"pay"
@@ -290,7 +265,6 @@
 			{
 				"item_id":1689173203001,
 				"name":"机智大灯灯加载动画",
-				"tab_id":0,
 				"suit_item_id":119369201,
 				"properties":{
 					"goods_type":"suit",
@@ -305,7 +279,6 @@
 			{
 				"item_id":1689173265001,
 				"name":"机智大灯灯进度条",
-				"tab_id":0,
 				"suit_item_id":119369201,
 				"properties":{
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/5ede6b1647745888c590b678694ef49cee5d69fa.png",
@@ -322,7 +295,6 @@
 			{
 				"item_id":1689172896001,
 				"name":"机智大灯灯个性主题",
-				"tab_id":0,
 				"suit_item_id":119369201,
 				"properties":{
 					"color":"#000000",
@@ -362,7 +334,6 @@
 			{
 				"item_id":1689171791001,
 				"name":"机智大灯灯空间背景",
-				"tab_id":0,
 				"suit_item_id":119369201,
 				"properties":{
 					"fan_no_color":"#ffffff",
@@ -384,7 +355,6 @@
 			{
 				"item_id":1689173437001,
 				"name":"机智大灯灯动态点赞",
-				"tab_id":0,
 				"suit_item_id":119369201,
 				"properties":{
 					"goods_type":"suit",

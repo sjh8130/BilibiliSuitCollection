@@ -36,7 +36,6 @@
 			{
 				"item_id":1722930009001,
 				"name":"灰灰仔仔暖心时光",
-				"tab_id":0,
 				"suit_item_id":221948101,
 				"properties":{
 					"fan_no_color":"#96B170",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1722930009002,
 				"name":"灰灰仔仔暖心时光粉丝",
-				"tab_id":0,
 				"suit_item_id":221948101,
 				"properties":{
 					"fan_no_color":"#96B170",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1722914087001,
 				"name":"蛙蛙呱呱Show",
-				"tab_id":0,
 				"suit_item_id":221948101,
 				"properties":{
 					"fan_no_color":"#96B170",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1722914001001,
 				"name":"蛙蛙呱呱Show",
-				"tab_id":0,
 				"suit_item_id":221948101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/3255ccc700a4f9584b0bed53cc08d40a43ad0c17.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"打Call\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a37a3659b65a1e5b0d43cbd751ad2970de13164.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/56ddacc2e109fe35bd8f6416b8186d9b366d0270.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/aafbe3e4bf0ebed46e79082fc782c42d2ab72400.png\"},{\"name\":\"Nice\",\"image\":\"https://i0.hdslb.com/bfs/garb/12961f0772248568a12f148d465236cec86ebbe0.png\"},{\"name\":\"耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5584bf0b90b3276ad6d2adc8e190936c7f9ed13.png\"},{\"name\":\"紧张\",\"image\":\"https://i0.hdslb.com/bfs/garb/6fdd81554889e63dc66dc3660cdabcfecba26bb1.png\"},{\"name\":\"谢谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/d481188ea9e9c07914feb9663bb0aa453b52aff8.png\"},{\"name\":\"不明白\",\"image\":\"https://i0.hdslb.com/bfs/garb/323efbd70c9121362903af3af69a6c04edbad57c.png\"},{\"name\":\"略略略\",\"image\":\"https://i0.hdslb.com/bfs/garb/50631d8db7663d65e852ca40579f905ba0c996ff.png\"},{\"name\":\"OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/61b45c8bc2e463258f726f0481a54b97f2aa1906.png\"},{\"name\":\"闪亮登场\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c37406e8a14f3f07b9d7778f9e3cf3fbdc2a791.png\"},{\"name\":\"再见\",\"image\":\"https://i0.hdslb.com/bfs/garb/b076a713fff6629c371877605e2a16db26906540.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/68f32bd4156a75f1af54d0670e3dce271caf7324.png\"},{\"name\":\"投降\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e4d250ef96e4e314f27e253f572bf34672abb0d.png\"},{\"name\":\"祝贺\",\"image\":\"https://i0.hdslb.com/bfs/garb/651929a0885b3525c4e828cc87f7f2415d2dc74e.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_Nice]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/12961f0772248568a12f148d465236cec86ebbe0.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_OK]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/61b45c8bc2e463258f726f0481a54b97f2aa1906.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_不明白]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/323efbd70c9121362903af3af69a6c04edbad57c.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_再见]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b076a713fff6629c371877605e2a16db26906540.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/56ddacc2e109fe35bd8f6416b8186d9b366d0270.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_打Call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1a37a3659b65a1e5b0d43cbd751ad2970de13164.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_投降]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9e4d250ef96e4e314f27e253f572bf34672abb0d.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aafbe3e4bf0ebed46e79082fc782c42d2ab72400.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_略略略]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/50631d8db7663d65e852ca40579f905ba0c996ff.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_祝贺]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/651929a0885b3525c4e828cc87f7f2415d2dc74e.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_紧张]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6fdd81554889e63dc66dc3660cdabcfecba26bb1.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c5584bf0b90b3276ad6d2adc8e190936c7f9ed13.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_谢谢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d481188ea9e9c07914feb9663bb0aa453b52aff8.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_闪亮登场]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c37406e8a14f3f07b9d7778f9e3cf3fbdc2a791.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[蛙蛙呱呱Show_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/68f32bd4156a75f1af54d0670e3dce271caf7324.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1722914270001,
 				"name":"蛙蛙呱呱Show",
-				"tab_id":0,
 				"suit_item_id":221948101,
 				"properties":{
 					"color":"#ffffff",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1722914037001,
 				"name":"蛙蛙呱呱Show",
-				"tab_id":0,
 				"suit_item_id":221948101,
 				"properties":{
 					"fan_no_color":"#ffffff",

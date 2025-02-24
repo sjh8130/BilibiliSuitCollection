@@ -35,7 +35,6 @@
 			{
 				"item_id":1682046444001,
 				"name":"晚安小黑猫",
-				"tab_id":0,
 				"suit_item_id":111329601,
 				"properties":{
 					"fan_no_color":"#FFB0B0",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1682046444002,
 				"name":"晚安小黑猫粉丝",
-				"tab_id":0,
 				"suit_item_id":111329601,
 				"properties":{
 					"fan_no_color":"#FFB0B0",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1682046475001,
 				"name":"晚安小黑猫",
-				"tab_id":0,
 				"suit_item_id":111329601,
 				"properties":{
 					"fan_no_color":"#FFB0B0",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1682047146001,
 				"name":"小黑猫",
-				"tab_id":0,
 				"suit_item_id":111329601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/97406b7388ea34c35f3cec348bc2ff976b185230.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"不行\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc94d4915da20a54c1859b6af788ef4b6396dd38.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/942bf316efe9ee1ca9e488179bf335daa5e8a2ef.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb4ffd3be25aa7cb7f90c0c6651104d3032cf99d.png\"},{\"name\":\"探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/241fbbef82c22313aadf5807f6565ef2582b784f.png\"},{\"name\":\"emo\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ee9fbb4cc3a215a9dfa1b6eb569abd4cb3bd60c.png\"},{\"name\":\"饿了\",\"image\":\"https://i0.hdslb.com/bfs/garb/169e1f4900a061a4bec2565529305a448adba211.png\"},{\"name\":\"累了\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe536b1b6dd133ebae2d45d8f7dd3ab4615fb286.png\"},{\"name\":\"扭曲爬行\",\"image\":\"https://i0.hdslb.com/bfs/garb/369a46117b87365fcb3ceb57373d2b9438fbbd4a.png\"},{\"name\":\"溜了\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7d3b6a67bd009a758dbbaa093a31b3a4aa8fe05.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/9838ad0c42a18e1da8fee32472fca31f77bf9c8a.png\"},{\"name\":\"哭泣\",\"image\":\"https://i0.hdslb.com/bfs/garb/78fa556b54b358646939bcda1342b26014574c46.png\"},{\"name\":\"熬夜\",\"image\":\"https://i0.hdslb.com/bfs/garb/af269c1b7bdb5c93f2e5f58717c6354b3240f87b.png\"},{\"name\":\"佛了\",\"image\":\"https://i0.hdslb.com/bfs/garb/3db8962bb8b02e55d18fd65802aa442142bdf04f.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/4271767ebbe4c119d951227f1bd40d62fa24fe0d.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/deadd2670fbe720f61fed346ce2b0ff5d1794055.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_emo]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8ee9fbb4cc3a215a9dfa1b6eb569abd4cb3bd60c.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_不行]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc94d4915da20a54c1859b6af788ef4b6396dd38.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_佛了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3db8962bb8b02e55d18fd65802aa442142bdf04f.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_哭泣]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/78fa556b54b358646939bcda1342b26014574c46.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eb4ffd3be25aa7cb7f90c0c6651104d3032cf99d.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/942bf316efe9ee1ca9e488179bf335daa5e8a2ef.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_扭曲爬行]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/369a46117b87365fcb3ceb57373d2b9438fbbd4a.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_探头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/241fbbef82c22313aadf5807f6565ef2582b784f.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_溜了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f7d3b6a67bd009a758dbbaa093a31b3a4aa8fe05.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_熬夜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af269c1b7bdb5c93f2e5f58717c6354b3240f87b.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9838ad0c42a18e1da8fee32472fca31f77bf9c8a.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4271767ebbe4c119d951227f1bd40d62fa24fe0d.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_累了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fe536b1b6dd133ebae2d45d8f7dd3ab4615fb286.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/deadd2670fbe720f61fed346ce2b0ff5d1794055.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫_饿了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/169e1f4900a061a4bec2565529305a448adba211.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1682047394001,
 				"name":"晚安小黑猫",
-				"tab_id":0,
 				"suit_item_id":111329601,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1682071175001,
 				"name":"小黑猫",
-				"tab_id":0,
 				"suit_item_id":111329601,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1737551082001,
 				"name":"福蛇",
-				"tab_id":0,
 				"suit_item_id":302263701,
 				"properties":{
 					"fan_no_color":"#E12E00",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1737551082002,
 				"name":"福蛇粉丝",
-				"tab_id":0,
 				"suit_item_id":302263701,
 				"properties":{
 					"fan_no_color":"#E12E00",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1737551280001,
 				"name":"福蛇",
-				"tab_id":0,
 				"suit_item_id":302263701,
 				"properties":{
 					"fan_no_color":"#E12E00",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1737551192001,
 				"name":"福蛇",
-				"tab_id":0,
 				"suit_item_id":302263701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9749bded5acd18b53f41af37c8f0db31619db829.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"八方来财\",\"image\":\"https://i0.hdslb.com/bfs/garb/2824bf7bdd0ad1a727535125ca2a4c2016cac3d9.png\"},{\"name\":\"萌萌哒\",\"image\":\"https://i0.hdslb.com/bfs/garb/a40e4473bf7afbab5a7be8dea992fb8084bbe342.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/a382f4e05ae7e350c6afe51b6d4d989411bc620d.png\"},{\"name\":\"福气到\",\"image\":\"https://i0.hdslb.com/bfs/garb/254b364168e5a776dd328d4f3e1250cbb9d5bb7e.png\"},{\"name\":\"收红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/64f1e97bfffb6ef4a00c4e38367a44bc0ffb9feb.png\"},{\"name\":\"超开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/26464491fc8ec2e24e0bee02d56479057afb23b1.png\"},{\"name\":\"好运2\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e96783f94ce660c579d4a46af6abbc2e6ca31af.png\"},{\"name\":\"0\",\"image\":\"https://i0.hdslb.com/bfs/garb/2fb94982f1ca302f2a62ff69a46b6feb7c7ce5ec.png\"},{\"name\":\"5\",\"image\":\"https://i0.hdslb.com/bfs/garb/28169a3293527f95846867d71d498f61e7473314.png\"},{\"name\":\"嘻嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/d99c8d3f06d1ff60e06e8d2d8804f0847fca6d3d.png\"},{\"name\":\"大笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca7ae232428fef43ca343f4394927f16d71531bf.png\"},{\"name\":\"哈欠\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8d4209d0aa18120807dce6f38e6e3617ba642d0.png\"},{\"name\":\"大吉大利\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c3d3567b2d29aa70cdf78958739cfb9f03d3b52.png\"},{\"name\":\"招财\",\"image\":\"https://i0.hdslb.com/bfs/garb/8fc58c892c294bd09dcf7b3ceaf44107d9888514.png\"},{\"name\":\"歪头\",\"image\":\"https://i0.hdslb.com/bfs/garb/6090da563c26a0af5f4e4e885142b5ae911da364.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,71 +99,7 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[福蛇_八方来财]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2824bf7bdd0ad1a727535125ca2a4c2016cac3d9.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[福蛇_萌萌哒]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a40e4473bf7afbab5a7be8dea992fb8084bbe342.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[福蛇_可爱]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a382f4e05ae7e350c6afe51b6d4d989411bc620d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[福蛇_福气到]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/254b364168e5a776dd328d4f3e1250cbb9d5bb7e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[福蛇_收红包]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/64f1e97bfffb6ef4a00c4e38367a44bc0ffb9feb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[福蛇_超开心]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/26464491fc8ec2e24e0bee02d56479057afb23b1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[福蛇_好运2]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4e96783f94ce660c579d4a46af6abbc2e6ca31af.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[福蛇_0]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2fb94982f1ca302f2a62ff69a46b6feb7c7ce5ec.png",
 							"sale_type":"pay"
@@ -177,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[福蛇_5]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/28169a3293527f95846867d71d498f61e7473314.png",
 							"sale_type":"pay"
@@ -185,26 +115,23 @@
 					},
 					{
 						"item_id":0,
-						"name":"[福蛇_嘻嘻嘻]",
-						"tab_id":0,
+						"name":"[福蛇_八方来财]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d99c8d3f06d1ff60e06e8d2d8804f0847fca6d3d.png",
+							"image":"https://i0.hdslb.com/bfs/garb/2824bf7bdd0ad1a727535125ca2a4c2016cac3d9.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[福蛇_大笑]",
-						"tab_id":0,
+						"name":"[福蛇_可爱]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ca7ae232428fef43ca343f4394927f16d71531bf.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a382f4e05ae7e350c6afe51b6d4d989411bc620d.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[福蛇_哈欠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b8d4209d0aa18120807dce6f38e6e3617ba642d0.png",
 							"sale_type":"pay"
@@ -212,8 +139,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[福蛇_嘻嘻嘻]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d99c8d3f06d1ff60e06e8d2d8804f0847fca6d3d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[福蛇_大吉大利]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3c3d3567b2d29aa70cdf78958739cfb9f03d3b52.png",
 							"sale_type":"pay"
@@ -221,8 +155,23 @@
 					},
 					{
 						"item_id":0,
+						"name":"[福蛇_大笑]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ca7ae232428fef43ca343f4394927f16d71531bf.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[福蛇_好运2]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4e96783f94ce660c579d4a46af6abbc2e6ca31af.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[福蛇_招财]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8fc58c892c294bd09dcf7b3ceaf44107d9888514.png",
 							"sale_type":"pay"
@@ -230,10 +179,41 @@
 					},
 					{
 						"item_id":0,
+						"name":"[福蛇_收红包]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/64f1e97bfffb6ef4a00c4e38367a44bc0ffb9feb.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[福蛇_歪头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6090da563c26a0af5f4e4e885142b5ae911da364.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[福蛇_福气到]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/254b364168e5a776dd328d4f3e1250cbb9d5bb7e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[福蛇_萌萌哒]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a40e4473bf7afbab5a7be8dea992fb8084bbe342.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[福蛇_超开心]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/26464491fc8ec2e24e0bee02d56479057afb23b1.png",
 							"sale_type":"pay"
 						}
 					}
@@ -244,7 +224,6 @@
 			{
 				"item_id":1737551702001,
 				"name":"福蛇",
-				"tab_id":0,
 				"suit_item_id":302263701,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1737551250001,
 				"name":"福蛇",
-				"tab_id":0,
 				"suit_item_id":302263701,
 				"properties":{
 					"fan_no_color":"#ffffff",

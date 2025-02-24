@@ -35,7 +35,6 @@
 			{
 				"item_id":1705393676001,
 				"name":"love me",
-				"tab_id":0,
 				"suit_item_id":201653101,
 				"properties":{
 					"fan_no_color":"#C62B2B",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1705394320001,
 				"name":"love me粉丝",
-				"tab_id":0,
 				"suit_item_id":201653101,
 				"properties":{
 					"fan_no_color":"#C62B2B",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1705393754001,
 				"name":"love me",
-				"tab_id":0,
 				"suit_item_id":201653101,
 				"properties":{
 					"fan_no_color":"#B91B1B",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1705392771001,
 				"name":"love me",
-				"tab_id":0,
 				"suit_item_id":201653101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a8151e8ea2193472eaaec3deb859892bd27299ff.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"相爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/11bec95438762278c931416bf831368a8ec22072.png\"},{\"name\":\"mua\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6c879e9fdf567b1763d239ad2090e1ba7097a3e.png\"},{\"name\":\"睡着\",\"image\":\"https://i0.hdslb.com/bfs/garb/a81f929ca63ef444ac3f24b76356a7cb4c9c65f0.png\"},{\"name\":\"到哪了\",\"image\":\"https://i0.hdslb.com/bfs/garb/25b589140a569f9378f192fb128b5ce091bb2786.png\"},{\"name\":\"到睫毛了\",\"image\":\"https://i0.hdslb.com/bfs/garb/d52aca18ae7352c3bfd37173f79447c428d94cc4.png\"},{\"name\":\"花束\",\"image\":\"https://i0.hdslb.com/bfs/garb/3399f445f58842f0d36768eae35bd17d4ee25509.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/7aa0c62e8dd31c32fd4b523e480daec08bdcb6ad.png\"},{\"name\":\"礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/fdd998e93b3a87221e8ca476766f42a794216b50.png\"},{\"name\":\"巧克力饼干\",\"image\":\"https://i0.hdslb.com/bfs/garb/a19b449698ffce67cfcd22e72660d1bf5bc87e17.png\"},{\"name\":\"碰杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/016942e08854ec4d0faa011719a2d05744bc655d.png\"},{\"name\":\"看\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ff6aae8ab22b734d465e9e8393077ce36a81456.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/8025d59463e920a829144bded4a478a5c3774ca0.png\"},{\"name\":\"哎\",\"image\":\"https://i0.hdslb.com/bfs/garb/00cd30923e240945ef56fe66ff03ea80c4e30d0f.png\"},{\"name\":\"喝\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d49ed5be9978d6907bd3f1e38d6578e147e5252.png\"},{\"name\":\"哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7564ddcd13664e05f4fe8156b2f8d9f4bf16b4a.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_mua]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e6c879e9fdf567b1763d239ad2090e1ba7097a3e.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_到哪了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/25b589140a569f9378f192fb128b5ce091bb2786.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_到睫毛了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d52aca18ae7352c3bfd37173f79447c428d94cc4.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_哇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8025d59463e920a829144bded4a478a5c3774ca0.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_哎]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/00cd30923e240945ef56fe66ff03ea80c4e30d0f.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a7564ddcd13664e05f4fe8156b2f8d9f4bf16b4a.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_喝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9d49ed5be9978d6907bd3f1e38d6578e147e5252.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_巧克力饼干]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a19b449698ffce67cfcd22e72660d1bf5bc87e17.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7aa0c62e8dd31c32fd4b523e480daec08bdcb6ad.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_相爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/11bec95438762278c931416bf831368a8ec22072.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8ff6aae8ab22b734d465e9e8393077ce36a81456.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_睡着]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a81f929ca63ef444ac3f24b76356a7cb4c9c65f0.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_碰杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/016942e08854ec4d0faa011719a2d05744bc655d.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_礼物]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fdd998e93b3a87221e8ca476766f42a794216b50.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[love me_花束]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3399f445f58842f0d36768eae35bd17d4ee25509.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1705394308001,
 				"name":"love me",
-				"tab_id":0,
 				"suit_item_id":201653101,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1705393950001,
 				"name":"love me",
-				"tab_id":0,
 				"suit_item_id":201653101,
 				"properties":{
 					"fan_no_color":"#ffffff",

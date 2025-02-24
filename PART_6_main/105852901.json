@@ -36,7 +36,6 @@
 			{
 				"item_id":1677490000001,
 				"name":"漫画正太",
-				"tab_id":0,
 				"suit_item_id":105852901,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1677490000002,
 				"name":"漫画正太粉丝",
-				"tab_id":0,
 				"suit_item_id":105852901,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1677490433001,
 				"name":"漫画正太",
-				"tab_id":0,
 				"suit_item_id":105852901,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1677490134001,
 				"name":"漫画正太",
-				"tab_id":0,
 				"suit_item_id":105852901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/cbe5e879d66386a1e691b3150e16827ee99c69ee.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/696d5d33c3b5a78078ebc8bfcc5fb5d2cd8aff3b.png\"},{\"name\":\"哼歌捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/a22ab6407426d27db018e6a9d1d1baebf7c43646.png\"},{\"name\":\"很急\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec93ae427f82e2969e765a8620d4923908749f67.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/9c8daafe7d815ef74f33976b525fd591b3042d72.png\"},{\"name\":\"晕了\",\"image\":\"https://i0.hdslb.com/bfs/garb/3850577409323ab05ef02d9203050dc6cfc13b8f.png\"},{\"name\":\"啊这\",\"image\":\"https://i0.hdslb.com/bfs/garb/293ee646d624d72ac4acbdab07ae5d62a0ad6a7f.png\"},{\"name\":\"棒棒哒\",\"image\":\"https://i0.hdslb.com/bfs/garb/91b2f18caa2d86c647cadcd763fa60da9a272037.png\"},{\"name\":\"呜呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ebfe42b258a18f16391b11b6dfefeab859649a2.png\"},{\"name\":\"难绷\",\"image\":\"https://i0.hdslb.com/bfs/garb/39da09bff1ee497a4b9f66c95a9b94571bc24200.png\"},{\"name\":\"爱了\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d1f68f8d9bc08341f434b7b0ee01b76b6920ade.png\"},{\"name\":\"天啦噜\",\"image\":\"https://i0.hdslb.com/bfs/garb/2e655458283128c6b2d811fb33e8d8bd8dcf5158.png\"},{\"name\":\"小丑了\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d63032d81723e1bf8cbf0f79eaf7cd3b50620d4.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/58816e97cb3f3e89c1775a5b58fa2e953ccad5a8.png\"},{\"name\":\"惊了\",\"image\":\"https://i0.hdslb.com/bfs/garb/07572394a9ff1e9dfddd2ea2f61e59f7218557a0.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3758ecc97b1b62a8f5c8b25dc2e0356603e2b72.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_呜呜呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ebfe42b258a18f16391b11b6dfefeab859649a2.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_哼歌捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a22ab6407426d27db018e6a9d1d1baebf7c43646.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_啊这]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/293ee646d624d72ac4acbdab07ae5d62a0ad6a7f.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_嘻嘻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9c8daafe7d815ef74f33976b525fd591b3042d72.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_天啦噜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2e655458283128c6b2d811fb33e8d8bd8dcf5158.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_小丑了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1d63032d81723e1bf8cbf0f79eaf7cd3b50620d4.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/696d5d33c3b5a78078ebc8bfcc5fb5d2cd8aff3b.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_很急]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ec93ae427f82e2969e765a8620d4923908749f67.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_惊了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/07572394a9ff1e9dfddd2ea2f61e59f7218557a0.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f3758ecc97b1b62a8f5c8b25dc2e0356603e2b72.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_晕了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3850577409323ab05ef02d9203050dc6cfc13b8f.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/58816e97cb3f3e89c1775a5b58fa2e953ccad5a8.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_棒棒哒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/91b2f18caa2d86c647cadcd763fa60da9a272037.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_爱了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d1f68f8d9bc08341f434b7b0ee01b76b6920ade.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[漫画正太_难绷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/39da09bff1ee497a4b9f66c95a9b94571bc24200.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1677490398001,
 				"name":"漫画正太",
-				"tab_id":0,
 				"suit_item_id":105852901,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1677490252001,
 				"name":"漫画正太",
-				"tab_id":0,
 				"suit_item_id":105852901,
 				"properties":{
 					"fan_no_color":"#ffffff",

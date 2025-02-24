@@ -36,7 +36,6 @@
 			{
 				"item_id":1711001093001,
 				"name":"普通小狗·爱神之约",
-				"tab_id":0,
 				"suit_item_id":208149801,
 				"properties":{
 					"fan_no_color":"#FCB4C1",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1711001093002,
 				"name":"普通小狗·爱神之约粉丝",
-				"tab_id":0,
 				"suit_item_id":208149801,
 				"properties":{
 					"fan_no_color":"#FCB4C1",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1711001121001,
 				"name":"普通小狗·爱神之约",
-				"tab_id":0,
 				"suit_item_id":208149801,
 				"properties":{
 					"fan_no_color":"#FCB4C1",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1711009999001,
 				"name":"普通小狗·爱神之约",
-				"tab_id":0,
 				"suit_item_id":208149801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b9b0ba231ed4a46597a20a2b57ef01df9472c495.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"闪耀瞬间\",\"image\":\"https://i0.hdslb.com/bfs/garb/a272621dee5d9856b7cd036b6a138505b1104032.png\"},{\"name\":\"轻盈脚步\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9c94c2673f6fa181a692c88ad2ad63a4fb766de.png\"},{\"name\":\"小熊台灯\",\"image\":\"https://i0.hdslb.com/bfs/garb/9004b022a74603872dd794c571f69be56417a6f4.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/696d5b9b872b9f1beaf03d3bbcbd0e5eeb3faca5.png\"},{\"name\":\"奶油蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c753619c07fd9bb407cc5a2dc53b281ff50834f.png\"},{\"name\":\"美味甜点\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9d824284a29aed4aeb6241c73714de6054748bb.png\"},{\"name\":\"闪闪惹人爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d835249d51e29a1fa068a4cb3bcf442e624ad40.png\"},{\"name\":\"打滚\",\"image\":\"https://i0.hdslb.com/bfs/garb/d30868a4e0894714813e243af2473bee454fd63b.png\"},{\"name\":\"魔法沙漏\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a323398dc47f42913b4037bc0f9e515dd94d0b3.png\"},{\"name\":\"指尖绽放\",\"image\":\"https://i0.hdslb.com/bfs/garb/404a9f2c0904faa75a9485018223e81c0777af55.png\"},{\"name\":\"精美手账\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5764f3eeaa8b45061cbd1deb99ca3dcf579192a.png\"},{\"name\":\"神明典籍\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a722a405f53110f7c8ef5a403b2c7df97ef9e78.png\"},{\"name\":\"细嗅蔷薇\",\"image\":\"https://i0.hdslb.com/bfs/garb/0774ec968708555a8075d22a8bcf8cbb5431b7f1.png\"},{\"name\":\"公主无奈\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed76e4919cc45932ce470d965d23b4fdd2f3af24.png\"},{\"name\":\"小丑\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba6a5e493b258bb66926bd977053d83c1d319075.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_公主无奈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ed76e4919cc45932ce470d965d23b4fdd2f3af24.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_奶油蛋糕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3c753619c07fd9bb407cc5a2dc53b281ff50834f.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_小丑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ba6a5e493b258bb66926bd977053d83c1d319075.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_小熊台灯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9004b022a74603872dd794c571f69be56417a6f4.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_打滚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d30868a4e0894714813e243af2473bee454fd63b.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_指尖绽放]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/404a9f2c0904faa75a9485018223e81c0777af55.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_盯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/696d5b9b872b9f1beaf03d3bbcbd0e5eeb3faca5.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_神明典籍]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1a722a405f53110f7c8ef5a403b2c7df97ef9e78.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_精美手账]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d5764f3eeaa8b45061cbd1deb99ca3dcf579192a.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_细嗅蔷薇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0774ec968708555a8075d22a8bcf8cbb5431b7f1.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_美味甜点]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f9d824284a29aed4aeb6241c73714de6054748bb.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_轻盈脚步]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c9c94c2673f6fa181a692c88ad2ad63a4fb766de.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_闪耀瞬间]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a272621dee5d9856b7cd036b6a138505b1104032.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_闪闪惹人爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1d835249d51e29a1fa068a4cb3bcf442e624ad40.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·爱神之约_魔法沙漏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a323398dc47f42913b4037bc0f9e515dd94d0b3.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1711010172001,
 				"name":"普通小狗·爱神之约",
-				"tab_id":0,
 				"suit_item_id":208149801,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1711001164001,
 				"name":"普通小狗·爱神之约",
-				"tab_id":0,
 				"suit_item_id":208149801,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1735192823001,
 				"name":"小食喵",
-				"tab_id":0,
 				"suit_item_id":236143201,
 				"properties":{
 					"fan_no_color":"#F7B77E",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1735192823002,
 				"name":"小食喵粉丝",
-				"tab_id":0,
 				"suit_item_id":236143201,
 				"properties":{
 					"fan_no_color":"#F7B77E",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1735194177001,
 				"name":"小食喵",
-				"tab_id":0,
 				"suit_item_id":236143201,
 				"properties":{
 					"fan_no_color":"#CB9D86",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1735193179001,
 				"name":"小食喵",
-				"tab_id":0,
 				"suit_item_id":236143201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/3976e8c2b79d71d044848c28efcba66ebb06bc79.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7f681bd9bfd8caa0745a763d9cc0cba52aaa279.png\"},{\"name\":\"饿了\",\"image\":\"https://i0.hdslb.com/bfs/garb/df7fc35119b3251a77a146d5b90562e46dcf510a.png\"},{\"name\":\"哭唧唧\",\"image\":\"https://i0.hdslb.com/bfs/garb/ffda168d282e03cd3a0b40c26356e6b8934893be.png\"},{\"name\":\"笑嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/4bb44fd51adca27f4728deb6cee4f2f244392626.png\"},{\"name\":\"小厨神\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c88b7edf7eff639b142c40472038281dd012cba.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1ba8102e884cea13182b4e1e0974fc1c420e974.png\"},{\"name\":\"俏皮\",\"image\":\"https://i0.hdslb.com/bfs/garb/eeb509a2256489732a71e2dd86a9b87b5d56b790.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7c83bc8a3fe441c763a3b8cd3f4c875ad554dda.png\"},{\"name\":\"冷漠\",\"image\":\"https://i0.hdslb.com/bfs/garb/c20b2b650e49f0b428a017ee96682f6ac61ecb41.png\"},{\"name\":\"张嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c13f90e38820dfc2ef006ccb0bb082183ce6864.png\"},{\"name\":\"要饿晕了\",\"image\":\"https://i0.hdslb.com/bfs/garb/111c3d835674fefd0919d7e5bd326f2f7f24f1ae.png\"},{\"name\":\"想睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/7aced00d485477e20d6140d1487c168ad9412531.png\"},{\"name\":\"累累的\",\"image\":\"https://i0.hdslb.com/bfs/garb/06a822927fdbfebc511f119dea71d1705aec5281.png\"},{\"name\":\"招财猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb725d11229035dc389d77f65da188eff2a949bb.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ff4ccdb1a68b0bd72f46783e6d72dc07211d5c0.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_俏皮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eeb509a2256489732a71e2dd86a9b87b5d56b790.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_冷漠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c20b2b650e49f0b428a017ee96682f6ac61ecb41.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_可爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ff4ccdb1a68b0bd72f46783e6d72dc07211d5c0.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_哭唧唧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ffda168d282e03cd3a0b40c26356e6b8934893be.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_嘻嘻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e7c83bc8a3fe441c763a3b8cd3f4c875ad554dda.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c7f681bd9bfd8caa0745a763d9cc0cba52aaa279.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_小厨神]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c88b7edf7eff639b142c40472038281dd012cba.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_张嘴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1c13f90e38820dfc2ef006ccb0bb082183ce6864.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_想睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7aced00d485477e20d6140d1487c168ad9412531.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_招财猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cb725d11229035dc389d77f65da188eff2a949bb.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f1ba8102e884cea13182b4e1e0974fc1c420e974.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_笑嘻嘻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4bb44fd51adca27f4728deb6cee4f2f244392626.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_累累的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/06a822927fdbfebc511f119dea71d1705aec5281.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_要饿晕了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/111c3d835674fefd0919d7e5bd326f2f7f24f1ae.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[小食喵_饿了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/df7fc35119b3251a77a146d5b90562e46dcf510a.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1735194093001,
 				"name":"小食喵",
-				"tab_id":0,
 				"suit_item_id":236143201,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1735193195001,
 				"name":"小食喵",
-				"tab_id":0,
 				"suit_item_id":236143201,
 				"properties":{
 					"fan_no_color":"#ffffff",

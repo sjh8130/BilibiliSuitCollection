@@ -35,7 +35,6 @@
 			{
 				"item_id":1678433444001,
 				"name":"少女粉漫",
-				"tab_id":0,
 				"suit_item_id":106928401,
 				"properties":{
 					"fan_no_color":"#F7B8C7",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1678446502001,
 				"name":"少女粉漫粉丝",
-				"tab_id":0,
 				"suit_item_id":106928401,
 				"properties":{
 					"fan_no_color":"#F7B8C7",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1678446475001,
 				"name":"少女粉漫",
-				"tab_id":0,
 				"suit_item_id":106928401,
 				"properties":{
 					"fan_no_color":"#F7B8C7",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1678411767001,
 				"name":"小恶魔少女",
-				"tab_id":0,
 				"suit_item_id":106928401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/882c3794a4098b2978a507a304ff0fe04c5756a7.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"ok\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8f036382dae1165fb37262e3cce462d250f0b9b.png\"},{\"name\":\"V我50\",\"image\":\"https://i0.hdslb.com/bfs/garb/0683b17e73ae9915d158ec4be7ade7d27be6142b.png\"},{\"name\":\"啊咧？！！\",\"image\":\"https://i0.hdslb.com/bfs/garb/bbcc6a37b634ef033914d1abfa49543c6af4cf0e.png\"},{\"name\":\"沉思\",\"image\":\"https://i0.hdslb.com/bfs/garb/0000f6a06e21c8927c8a2c25fefdbd666e0cd408.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/941a1b7b378a3979ee6b5188ba531ef7a5b0df1d.png\"},{\"name\":\"催更\",\"image\":\"https://i0.hdslb.com/bfs/garb/20c416746c65f453622096868a937c2fd2b45f21.png\"},{\"name\":\"哒咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff8e70e55a64215c3d6cd0d2ecf9a6908392a02b.png\"},{\"name\":\"饿饿\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d3aaf30b818b0f1178879661e4c6a9b389c4154.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/22ac5bd48db00e527d40d801beb4cbb5ead85ec8.png\"},{\"name\":\"诶？\",\"image\":\"https://i0.hdslb.com/bfs/garb/3eda0c15e470d2bc366efa596c516fc07b4b68df.png\"},{\"name\":\"慌\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e10443ee69a4c5b728ae6260cf14ad5edf778ca.png\"},{\"name\":\"酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc0f9a46be7fe608990ad31b555b32019a96eb04.png\"},{\"name\":\"眠了\",\"image\":\"https://i0.hdslb.com/bfs/garb/201b0b6ee82e4dd81de3e674b1440a1adccd83cb.png\"},{\"name\":\"忍\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f150947db40e1a421a6855ea76e0df65624e363.png\"},{\"name\":\"哇库哇库\",\"image\":\"https://i0.hdslb.com/bfs/garb/d003b9b554117f52d23ee9522a595c7e6a1822f9.png\"},{\"name\":\"我没事\",\"image\":\"https://i0.hdslb.com/bfs/garb/9916ff9a0d52f2ec30ecc968c1324ef06c4833fe.png\"},{\"name\":\"呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/aac7a3dd184e615731aafe4321009578a4429ed8.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/eecec03d6dbe434731b582fc4866fce0e18d7528.png\"},{\"name\":\"没事\",\"image\":\"https://i0.hdslb.com/bfs/garb/62104a6c81c9c890a2c63786c1a08a17c3b0d56f.png\"},{\"name\":\"心虚\",\"image\":\"https://i0.hdslb.com/bfs/garb/d70b5497c5684205dc31f0c8d268c822ffd2d712.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_V我50]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0683b17e73ae9915d158ec4be7ade7d27be6142b.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_ok]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b8f036382dae1165fb37262e3cce462d250f0b9b.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_催更]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20c416746c65f453622096868a937c2fd2b45f21.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/941a1b7b378a3979ee6b5188ba531ef7a5b0df1d.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_呜呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aac7a3dd184e615731aafe4321009578a4429ed8.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_哇库哇库]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d003b9b554117f52d23ee9522a595c7e6a1822f9.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_哒咩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ff8e70e55a64215c3d6cd0d2ecf9a6908392a02b.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_啊咧？！！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bbcc6a37b634ef033914d1abfa49543c6af4cf0e.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_心虚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d70b5497c5684205dc31f0c8d268c822ffd2d712.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_忍]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9f150947db40e1a421a6855ea76e0df65624e363.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_慌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9e10443ee69a4c5b728ae6260cf14ad5edf778ca.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_我没事]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9916ff9a0d52f2ec30ecc968c1324ef06c4833fe.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/22ac5bd48db00e527d40d801beb4cbb5ead85ec8.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eecec03d6dbe434731b582fc4866fce0e18d7528.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_沉思]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0000f6a06e21c8927c8a2c25fefdbd666e0cd408.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_没事]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/62104a6c81c9c890a2c63786c1a08a17c3b0d56f.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_眠了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/201b0b6ee82e4dd81de3e674b1440a1adccd83cb.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_诶？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3eda0c15e470d2bc366efa596c516fc07b4b68df.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_酷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dc0f9a46be7fe608990ad31b555b32019a96eb04.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[小恶魔少女_饿饿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d3aaf30b818b0f1178879661e4c6a9b389c4154.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1678433863001,
 				"name":"少女粉漫",
-				"tab_id":0,
 				"suit_item_id":106928401,
 				"properties":{
 					"color":"#000000",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1678439750001,
 				"name":"小恶魔少女",
-				"tab_id":0,
 				"suit_item_id":106928401,
 				"properties":{
 					"fan_no_color":"#ffffff",

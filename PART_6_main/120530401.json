@@ -35,7 +35,6 @@
 			{
 				"item_id":1689908529001,
 				"name":"西望长安·西安",
-				"tab_id":0,
 				"suit_item_id":120530401,
 				"properties":{
 					"fan_no_color":"#23D2F4",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1689908529002,
 				"name":"西望长安·西安粉丝",
-				"tab_id":0,
 				"suit_item_id":120530401,
 				"properties":{
 					"fan_no_color":"#23D2F4",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1689908578001,
 				"name":"西望长安·西安",
-				"tab_id":0,
 				"suit_item_id":120530401,
 				"properties":{
 					"fan_no_color":"#23D2F4",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1689908614001,
 				"name":"西望长安·西安",
-				"tab_id":0,
 				"suit_item_id":120530401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9ccbd477f42db5ae68894147f2dd9aea7ce21584.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/9651c2cc670feb1d81e041cc9afb8f56b31bcf79.png\"},{\"name\":\"SSR\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d01060a848d6c82dec68243c2e0a25f65df01ec.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/78bedd39a0b929985330c27b070f5e965dd64710.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/1361fd22da8eb5e61541cb8a105ca0aa7e33c75f.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/33114000e1c5b7ad93afb0db719c13469754b731.png\"},{\"name\":\"愤怒\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6adc3a993ab66884ba35526771c80ef76d82fb1.png\"},{\"name\":\"好梦\",\"image\":\"https://i0.hdslb.com/bfs/garb/4becefaf7d356ad4a7beb632b19cb25917859e79.png\"},{\"name\":\"陕\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d6f52acad5b25abd70fd6554be6eefc2a71356b.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5a0abb29b68fdb0d6d09fa05aebfcce0bbb4cdf.png\"},{\"name\":\"酷姐\",\"image\":\"https://i0.hdslb.com/bfs/garb/d7f15bc7080e3988e92be7d9b487540706da595b.png\"},{\"name\":\"思索\",\"image\":\"https://i0.hdslb.com/bfs/garb/51d3e7d0ecedf1eb04cad1d7e5acd0943506e1ac.png\"},{\"name\":\"随缘\",\"image\":\"https://i0.hdslb.com/bfs/garb/fcc182ee7df3f9a9188f96527b0d33eb588b88ed.png\"},{\"name\":\"无语住了\",\"image\":\"https://i0.hdslb.com/bfs/garb/f26336985178224771391d14fff1ba98bc7ab007.png\"},{\"name\":\"晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b16e37f7f55740bbca5f3de6005514f5092221b.png\"},{\"name\":\"孜孜不倦\",\"image\":\"https://i0.hdslb.com/bfs/garb/6be412f689fbfdaf003aeff67269cf0f48e7ad07.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_OK]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9651c2cc670feb1d81e041cc9afb8f56b31bcf79.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_SSR]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6d01060a848d6c82dec68243c2e0a25f65df01ec.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d5a0abb29b68fdb0d6d09fa05aebfcce0bbb4cdf.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_啊？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/78bedd39a0b929985330c27b070f5e965dd64710.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_好梦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4becefaf7d356ad4a7beb632b19cb25917859e79.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_孜孜不倦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6be412f689fbfdaf003aeff67269cf0f48e7ad07.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_思索]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/51d3e7d0ecedf1eb04cad1d7e5acd0943506e1ac.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_愤怒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c6adc3a993ab66884ba35526771c80ef76d82fb1.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_无语住了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f26336985178224771391d14fff1ba98bc7ab007.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_晕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9b16e37f7f55740bbca5f3de6005514f5092221b.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_暗中观察]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1361fd22da8eb5e61541cb8a105ca0aa7e33c75f.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/33114000e1c5b7ad93afb0db719c13469754b731.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_酷姐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d7f15bc7080e3988e92be7d9b487540706da595b.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_陕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d6f52acad5b25abd70fd6554be6eefc2a71356b.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[西望长安·西安_随缘]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fcc182ee7df3f9a9188f96527b0d33eb588b88ed.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1689908718001,
 				"name":"西望长安·西安",
-				"tab_id":0,
 				"suit_item_id":120530401,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1689908591001,
 				"name":"西望长安·西安",
-				"tab_id":0,
 				"suit_item_id":120530401,
 				"properties":{
 					"fan_no_color":"#ffffff",

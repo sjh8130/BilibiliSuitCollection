@@ -35,7 +35,6 @@
 			{
 				"item_id":1678323788001,
 				"name":"猫耳开关",
-				"tab_id":0,
 				"suit_item_id":106827801,
 				"properties":{
 					"fan_no_color":"#F66172",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1678323788002,
 				"name":"猫耳开关粉丝",
-				"tab_id":0,
 				"suit_item_id":106827801,
 				"properties":{
 					"fan_no_color":"#F66172",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1678324491001,
 				"name":"猫耳开关",
-				"tab_id":0,
 				"suit_item_id":106827801,
 				"properties":{
 					"fan_no_color":"#F66172",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1678323851001,
 				"name":"猫耳开关",
-				"tab_id":0,
 				"suit_item_id":106827801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/adcbb427d9034e4475e77bbd07b3829c90572127.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"喵1\",\"image\":\"https://i0.hdslb.com/bfs/garb/c046f9b7e7ab7bc9615ab8c15dd62caa5a24aabc.png\"},{\"name\":\"给你投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/852b83ad69407bbb6718e5e00d90617576b492e0.png\"},{\"name\":\"嘿嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b50ea1d5d1df95dfb5d14eda5b539d2ae2cb454.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf1c2104c5a7f6454583e44a9f6737c536cbc15c.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb74cb5f1c73ac171fdcb14e670ff995fd64445f.png\"},{\"name\":\"睡了\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a8c6042e43bc324dc48b9e0bc96706968675286.png\"},{\"name\":\"略略略\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ab028046e5a806b0b1a402e01d884bb8f030d2e.png\"},{\"name\":\"喵2\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a8881fffe86bf20bb0a33869aba9c303fe4b0b7.png\"},{\"name\":\"不要啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/1aa617bc086d8e118be1cc962adb12d76d062526.png\"},{\"name\":\"呆住\",\"image\":\"https://i0.hdslb.com/bfs/garb/b55379072faa7cee429159046bd6be23f0ccbf33.png\"},{\"name\":\"星星眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea477ffc35f4d2e7a64f5fbe1f05a56604cf86c5.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/8c6dd2033c0a6f50f5e578ffb80ce5d039890125.png\"},{\"name\":\"啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/d42e0630ac8d1a298ab3b96c2bb4ab99311190fa.png\"},{\"name\":\"呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1a396f9499d9e00a85b531dcfa94098b15005b0.png\"},{\"name\":\"喝水\",\"image\":\"https://i0.hdslb.com/bfs/garb/95eb74e6d7af306ec71a00c94d4e2aa996d55250.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_不要啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1aa617bc086d8e118be1cc962adb12d76d062526.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_呆住]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b55379072faa7cee429159046bd6be23f0ccbf33.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_呜呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e1a396f9499d9e00a85b531dcfa94098b15005b0.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d42e0630ac8d1a298ab3b96c2bb4ab99311190fa.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_喝水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/95eb74e6d7af306ec71a00c94d4e2aa996d55250.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_喵1]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c046f9b7e7ab7bc9615ab8c15dd62caa5a24aabc.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_喵2]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2a8881fffe86bf20bb0a33869aba9c303fe4b0b7.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_嘿嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9b50ea1d5d1df95dfb5d14eda5b539d2ae2cb454.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8c6dd2033c0a6f50f5e578ffb80ce5d039890125.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_星星眼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea477ffc35f4d2e7a64f5fbe1f05a56604cf86c5.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bf1c2104c5a7f6454583e44a9f6737c536cbc15c.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_略略略]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2ab028046e5a806b0b1a402e01d884bb8f030d2e.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cb74cb5f1c73ac171fdcb14e670ff995fd64445f.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_睡了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a8c6042e43bc324dc48b9e0bc96706968675286.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[猫耳开关_给你投币]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/852b83ad69407bbb6718e5e00d90617576b492e0.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1678324411001,
 				"name":"猫耳开关",
-				"tab_id":0,
 				"suit_item_id":106827801,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1678324026001,
 				"name":"猫耳开关",
-				"tab_id":0,
 				"suit_item_id":106827801,
 				"properties":{
 					"fan_no_color":"#ffffff",

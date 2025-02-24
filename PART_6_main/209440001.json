@@ -36,7 +36,6 @@
 			{
 				"item_id":1712108666001,
 				"name":"哇咔团-打工人日常",
-				"tab_id":0,
 				"suit_item_id":209440001,
 				"properties":{
 					"fan_no_color":"#FF0042",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1712108666002,
 				"name":"哇咔团-打工人日常粉丝",
-				"tab_id":0,
 				"suit_item_id":209440001,
 				"properties":{
 					"fan_no_color":"#FF0042",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1712109786001,
 				"name":"哇咔团-打工人日常",
-				"tab_id":0,
 				"suit_item_id":209440001,
 				"properties":{
 					"fan_no_color":"#B3C989",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1712633128001,
 				"name":"哇咔团打工人",
-				"tab_id":0,
 				"suit_item_id":209440001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f86d699f45d8b2988738251a82952d0921a26800.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"交给我\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7a5444209b174ca79ca5024e495e7187009495c.png\"},{\"name\":\"休息\",\"image\":\"https://i0.hdslb.com/bfs/garb/09c45774386638caa3d1dc62342b5de427094a8a.png\"},{\"name\":\"不想上班\",\"image\":\"https://i0.hdslb.com/bfs/garb/67541d4ba7fc2a65c50a36eeb1a1de6fbef84d56.png\"},{\"name\":\"咖啡续命\",\"image\":\"https://i0.hdslb.com/bfs/garb/a535d844af8306f3eb02dd04080e39a74d58e673.png\"},{\"name\":\"迟到\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ee09955231520992d3d76104a6b471c2930c2de.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/8c8c90b74705e0fa23afa5b9401e91ff10eec218.png\"},{\"name\":\"稍等\",\"image\":\"https://i0.hdslb.com/bfs/garb/57a054442358509017cbdec4219239990c7ec00b.png\"},{\"name\":\"上钟\",\"image\":\"https://i0.hdslb.com/bfs/garb/54a3dea837cc21f94b1a0f77c963667001b7843a.png\"},{\"name\":\"得瑟\",\"image\":\"https://i0.hdslb.com/bfs/garb/d7c6771b99905d8fdeec166b7fb9fb12593aaa27.png\"},{\"name\":\"休假\",\"image\":\"https://i0.hdslb.com/bfs/garb/768d47456708800f2744b483f23530e694f8e94e.png\"},{\"name\":\"在忙\",\"image\":\"https://i0.hdslb.com/bfs/garb/94acf8328783d1e7ae35ac220b134ed57bb249c1.png\"},{\"name\":\"干饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c8667db7846536a24a989829cc59c9f27617743.png\"},{\"name\":\"收到\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3ff4485a640d89f1217c4aabc7ae8b7b034e596.png\"},{\"name\":\"加班\",\"image\":\"https://i0.hdslb.com/bfs/garb/48e0db0566c485e7893dc2c045658f5c1450212d.png\"},{\"name\":\"开会\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec5d808f774204cc852b56b7d06192b111446a24.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_上钟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/54a3dea837cc21f94b1a0f77c963667001b7843a.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_不想上班]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/67541d4ba7fc2a65c50a36eeb1a1de6fbef84d56.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_交给我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c7a5444209b174ca79ca5024e495e7187009495c.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_休假]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/768d47456708800f2744b483f23530e694f8e94e.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_休息]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/09c45774386638caa3d1dc62342b5de427094a8a.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_加班]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/48e0db0566c485e7893dc2c045658f5c1450212d.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_咖啡续命]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a535d844af8306f3eb02dd04080e39a74d58e673.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_在忙]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/94acf8328783d1e7ae35ac220b134ed57bb249c1.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_干饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c8667db7846536a24a989829cc59c9f27617743.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_开会]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ec5d808f774204cc852b56b7d06192b111446a24.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_得瑟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d7c6771b99905d8fdeec166b7fb9fb12593aaa27.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_摸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8c8c90b74705e0fa23afa5b9401e91ff10eec218.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_收到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e3ff4485a640d89f1217c4aabc7ae8b7b034e596.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_稍等]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/57a054442358509017cbdec4219239990c7ec00b.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[哇咔团打工人_迟到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ee09955231520992d3d76104a6b471c2930c2de.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1712108879001,
 				"name":"哇咔团-打工人日常",
-				"tab_id":0,
 				"suit_item_id":209440001,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1712108724001,
 				"name":"哇咔团-打工人日常",
-				"tab_id":0,
 				"suit_item_id":209440001,
 				"properties":{
 					"fan_no_color":"#ffffff",

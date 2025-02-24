@@ -35,7 +35,6 @@
 			{
 				"item_id":1699775291001,
 				"name":"梦咲有绪-动态卡片",
-				"tab_id":0,
 				"suit_item_id":132041501,
 				"properties":{
 					"fan_no_color":"#F690AF",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1700032321001,
 				"name":"梦咲有绪-动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":132041501,
 				"properties":{
 					"fan_no_color":"#F690AF",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1699775513001,
 				"name":"梦咲有绪-评论背景",
-				"tab_id":0,
 				"suit_item_id":132041501,
 				"properties":{
 					"fan_no_color":"#F43838",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1699775657001,
 				"name":"梦咲有绪-表情包",
-				"tab_id":0,
 				"suit_item_id":132041501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/41e87442e0d91d5f381b17018d62b7c119e0181b.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"emo\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f9107d5732ce256ceb42287a17cfc403370076f.png\"},{\"name\":\"yygq\",\"image\":\"https://i0.hdslb.com/bfs/garb/54ada444744a92f66d14122adc6f5803434a3eae.png\"},{\"name\":\"吐血\",\"image\":\"https://i0.hdslb.com/bfs/garb/74efe1c36d96c9791c5b85f84a7c94ecfc8870aa.png\"},{\"name\":\"举心\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e48e7275b63538273ac64a60b966e0784c1fa35.png\"},{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f40140e959dc64a24a0d9e543bb8845541f459c.png\"},{\"name\":\"好吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb2b3e39cbf33ba2a0a6eb7d3859016af9fe9a2b.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/07443cf1fb7bbcf35f2e01db1f09c4ed6b449547.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/3119af55ec0a156903c89b0100df93f83e8bbf13.png\"},{\"name\":\"好崩溃\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3614b434f6d34c461ffd90a2468753aad16032e.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/72080c75190cded84e3ef8aaac9f2dd1e83a4882.png\"},{\"name\":\"投降\",\"image\":\"https://i0.hdslb.com/bfs/garb/d39d63d81ea4a6ebf1f1829110b039c3c0610745.png\"},{\"name\":\"我好酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/0185430850b01eb7db855177e7c8b38023ca3685.png\"},{\"name\":\"杂鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c3e03b21b98d4123c398c281507fbeb9f050e20.png\"},{\"name\":\"养我\",\"image\":\"https://i0.hdslb.com/bfs/garb/2865e1c6a89c19a4ee4d79d8fabc061c90d479d5.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/41c4f25a8d5022b1937bfa7f42de286a39bee3fd.png\"},{\"name\":\"爆了\",\"image\":\"https://i0.hdslb.com/bfs/garb/f037d679023057c6c4f8d083e8dcba0043a0656f.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/abce8d82740943732789eca42de5e9fe06a4ad46.png\"},{\"name\":\"爆米\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5c462fc3e728d23fd0eeb6ed3abbea73eb11f3c.png\"},{\"name\":\"牛\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f8615a01b45d2bd5cba28ae541df45df39848cf.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/83b66fa453dff657dae661b9eb70ab48676393af.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_emo]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9f9107d5732ce256ceb42287a17cfc403370076f.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_yygq]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/54ada444744a92f66d14122adc6f5803434a3eae.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_举心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1e48e7275b63538273ac64a60b966e0784c1fa35.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_亲亲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7f40140e959dc64a24a0d9e543bb8845541f459c.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_养我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2865e1c6a89c19a4ee4d79d8fabc061c90d479d5.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_可爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3119af55ec0a156903c89b0100df93f83e8bbf13.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_吐血]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/74efe1c36d96c9791c5b85f84a7c94ecfc8870aa.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/07443cf1fb7bbcf35f2e01db1f09c4ed6b449547.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_好吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bb2b3e39cbf33ba2a0a6eb7d3859016af9fe9a2b.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_好崩溃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a3614b434f6d34c461ffd90a2468753aad16032e.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/72080c75190cded84e3ef8aaac9f2dd1e83a4882.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_我好酷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0185430850b01eb7db855177e7c8b38023ca3685.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_投降]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d39d63d81ea4a6ebf1f1829110b039c3c0610745.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_杂鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c3e03b21b98d4123c398c281507fbeb9f050e20.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_流汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/41c4f25a8d5022b1937bfa7f42de286a39bee3fd.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_爆了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f037d679023057c6c4f8d083e8dcba0043a0656f.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_爆米]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b5c462fc3e728d23fd0eeb6ed3abbea73eb11f3c.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_牛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1f8615a01b45d2bd5cba28ae541df45df39848cf.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/abce8d82740943732789eca42de5e9fe06a4ad46.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[梦咲有绪-表情包_盯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/83b66fa453dff657dae661b9eb70ab48676393af.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1699776942001,
 				"name":"有绪主题图",
-				"tab_id":0,
 				"suit_item_id":132041501,
 				"properties":{
 					"color":"#000000",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1699850697001,
 				"name":"有绪-空间背景",
-				"tab_id":0,
 				"suit_item_id":132041501,
 				"properties":{
 					"fan_no_color":"#ffffff",

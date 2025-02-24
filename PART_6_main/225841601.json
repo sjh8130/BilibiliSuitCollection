@@ -35,7 +35,6 @@
 			{
 				"item_id":1726292430001,
 				"name":"赛博撸猫",
-				"tab_id":0,
 				"suit_item_id":225841601,
 				"properties":{
 					"fan_no_color":"#6BDDEB",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1726292430002,
 				"name":"赛博撸猫粉丝",
-				"tab_id":0,
 				"suit_item_id":225841601,
 				"properties":{
 					"fan_no_color":"#6BDDEB",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1726292462001,
 				"name":"赛博撸猫",
-				"tab_id":0,
 				"suit_item_id":225841601,
 				"properties":{
 					"fan_no_color":"#FDAF41",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1726292524001,
 				"name":"赛博撸猫",
-				"tab_id":0,
 				"suit_item_id":225841601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e15ba21e0e267c2414e717375e50c7c6ebfd8607.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"邪恶\",\"image\":\"https://i0.hdslb.com/bfs/garb/8523666f142ae23766790b6bd9b57abaf0a6abf8.png\"},{\"name\":\"看你\",\"image\":\"https://i0.hdslb.com/bfs/garb/fcbbf0ba047c0eef0250fbdfd3a306b25fa2b086.png\"},{\"name\":\"难以置信\",\"image\":\"https://i0.hdslb.com/bfs/garb/ee9955a69ed09125058c820f6fb64bdc28c942d4.png\"},{\"name\":\"偷感\",\"image\":\"https://i0.hdslb.com/bfs/garb/217b81ee06889fb094d64be7caded1b7d1fb7061.png\"},{\"name\":\"猛吸一口\",\"image\":\"https://i0.hdslb.com/bfs/garb/796f922f680cde5d7f99e3a2d2b0a1c7cfde2227.png\"},{\"name\":\"我来啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/1de23d541ebe97f9a2ca3d412e8da0458915efa1.png\"},{\"name\":\"猫瘾犯了\",\"image\":\"https://i0.hdslb.com/bfs/garb/b23cd75708a3d33d7a23599a79c0a474a90a2c90.png\"},{\"name\":\"馋了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c83e0a23505fc3672c390dfdd599e5f9c5b7a66c.png\"},{\"name\":\"兄弟猫不错\",\"image\":\"https://i0.hdslb.com/bfs/garb/75f224f5c65bfd7c65ab4260f854f37b6248ad86.png\"},{\"name\":\"粉色麻袋\",\"image\":\"https://i0.hdslb.com/bfs/garb/df98a57d728fe006f9d6442197e95a3befea8256.png\"},{\"name\":\"嘬嘬\",\"image\":\"https://i0.hdslb.com/bfs/garb/d673b3d5a56d61225ed2846b0209cc08607722ce.png\"},{\"name\":\"斯哈斯哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/d8edf7a9b97d642c9ecbe34ca1a5fa25baf0168a.png\"},{\"name\":\"摸摸奶牛猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd22f2c9b19067010e415d3ef3651057f8f3f969.png\"},{\"name\":\"给我摸摸\",\"image\":\"https://i0.hdslb.com/bfs/garb/faa46188425e1ec781f503c3ab88298d269147a5.png\"},{\"name\":\"快进麻袋\",\"image\":\"https://i0.hdslb.com/bfs/garb/79a531fd9f8f97528a16dd7d32e80da9b432135f.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_偷感]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/217b81ee06889fb094d64be7caded1b7d1fb7061.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_兄弟猫不错]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/75f224f5c65bfd7c65ab4260f854f37b6248ad86.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_嘬嘬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d673b3d5a56d61225ed2846b0209cc08607722ce.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_快进麻袋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/79a531fd9f8f97528a16dd7d32e80da9b432135f.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_我来啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1de23d541ebe97f9a2ca3d412e8da0458915efa1.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_摸摸奶牛猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cd22f2c9b19067010e415d3ef3651057f8f3f969.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_斯哈斯哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d8edf7a9b97d642c9ecbe34ca1a5fa25baf0168a.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_猛吸一口]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/796f922f680cde5d7f99e3a2d2b0a1c7cfde2227.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_猫瘾犯了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b23cd75708a3d33d7a23599a79c0a474a90a2c90.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_看你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fcbbf0ba047c0eef0250fbdfd3a306b25fa2b086.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_粉色麻袋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/df98a57d728fe006f9d6442197e95a3befea8256.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_给我摸摸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/faa46188425e1ec781f503c3ab88298d269147a5.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_邪恶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8523666f142ae23766790b6bd9b57abaf0a6abf8.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_难以置信]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ee9955a69ed09125058c820f6fb64bdc28c942d4.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[赛博撸猫_馋了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c83e0a23505fc3672c390dfdd599e5f9c5b7a66c.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1726293065001,
 				"name":"赛博撸猫",
-				"tab_id":0,
 				"suit_item_id":225841601,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1726292479001,
 				"name":"赛博撸猫",
-				"tab_id":0,
 				"suit_item_id":225841601,
 				"properties":{
 					"fan_no_color":"#ffffff",

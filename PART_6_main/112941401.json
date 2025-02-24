@@ -36,7 +36,6 @@
 			{
 				"item_id":1683610968001,
 				"name":"大耳狗·甜筒派对",
-				"tab_id":0,
 				"suit_item_id":112941401,
 				"properties":{
 					"fan_no_color":"#52C3F1",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1683610968002,
 				"name":"大耳狗·甜筒派对粉丝",
-				"tab_id":0,
 				"suit_item_id":112941401,
 				"properties":{
 					"fan_no_color":"#52C3F1",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1683610989001,
 				"name":"大耳狗·甜筒派对",
-				"tab_id":0,
 				"suit_item_id":112941401,
 				"properties":{
 					"fan_no_color":"#52C3F1",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1683611032001,
 				"name":"大耳狗·甜筒派对",
-				"tab_id":0,
 				"suit_item_id":112941401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/84237dc1516d6fc71d6d029bbbc9749834859f3f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"你好\",\"image\":\"https://i0.hdslb.com/bfs/garb/6348452cf0dfd2a9d6d6fce81f99fb9619047da0.png\"},{\"name\":\"浅尝一下\",\"image\":\"https://i0.hdslb.com/bfs/garb/99698edeeb2145ed82463b12afb6eb241dac512c.png\"},{\"name\":\"溜了溜了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1ebda780c23aac130961ff6657b2f46d530f1f9.png\"},{\"name\":\"大受冲击\",\"image\":\"https://i0.hdslb.com/bfs/garb/3484ebb6b7baa4428ae1e7137b60afdd36e8a567.png\"},{\"name\":\"累趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3f7a5e1db78466e57320207abed97a2ee30376b.png\"},{\"name\":\"好冷\",\"image\":\"https://i0.hdslb.com/bfs/garb/ddf02135ed6bfdd32342eafab6acb1867fa51cc9.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab5c3fe80a64a000a48b4693fb3883ab8fa730c3.png\"},{\"name\":\"睡大觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a4e6fbd6bb25ebbc9390696c071959d60ac6149.png\"},{\"name\":\"哇哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/866429acfb6db362f978833aec5004057d10db64.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/97f742a1a7b4c949886bb663b3b474f6e35dcf77.png\"},{\"name\":\"胡思乱想\",\"image\":\"https://i0.hdslb.com/bfs/garb/689a136c3560cd7aeb3393c26fdc00a056d050e2.png\"},{\"name\":\"好热\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b6e598b658479b38a72a21f422feff20c9a2e95.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/16f5ae1a9f4c97ac7223895f6ccebbec059cd2b7.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0f9ab4735536dec1eca761a5cdce968812f2078.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/01d3597ab233555e1be4b07780e16f48196a3f99.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_你好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6348452cf0dfd2a9d6d6fce81f99fb9619047da0.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_哇哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/866429acfb6db362f978833aec5004057d10db64.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_大受冲击]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3484ebb6b7baa4428ae1e7137b60afdd36e8a567.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_好冷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ddf02135ed6bfdd32342eafab6acb1867fa51cc9.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_好热]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8b6e598b658479b38a72a21f422feff20c9a2e95.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/01d3597ab233555e1be4b07780e16f48196a3f99.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/16f5ae1a9f4c97ac7223895f6ccebbec059cd2b7.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ab5c3fe80a64a000a48b4693fb3883ab8fa730c3.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_浅尝一下]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/99698edeeb2145ed82463b12afb6eb241dac512c.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_溜了溜了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a1ebda780c23aac130961ff6657b2f46d530f1f9.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c0f9ab4735536dec1eca761a5cdce968812f2078.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/97f742a1a7b4c949886bb663b3b474f6e35dcf77.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_睡大觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a4e6fbd6bb25ebbc9390696c071959d60ac6149.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_累趴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a3f7a5e1db78466e57320207abed97a2ee30376b.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·甜筒派对_胡思乱想]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/689a136c3560cd7aeb3393c26fdc00a056d050e2.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1683611130001,
 				"name":"大耳狗·甜筒派对",
-				"tab_id":0,
 				"suit_item_id":112941401,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1683611010001,
 				"name":"大耳狗·甜筒派对",
-				"tab_id":0,
 				"suit_item_id":112941401,
 				"properties":{
 					"fan_no_color":"#ffffff",

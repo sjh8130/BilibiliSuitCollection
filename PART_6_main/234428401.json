@@ -35,7 +35,6 @@
 			{
 				"item_id":1733467607001,
 				"name":"给你一瓶魔法药水",
-				"tab_id":0,
 				"suit_item_id":234428401,
 				"properties":{
 					"fan_no_color":"#86AEF7",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1733467607002,
 				"name":"给你一瓶魔法药水粉丝",
-				"tab_id":0,
 				"suit_item_id":234428401,
 				"properties":{
 					"fan_no_color":"#86AEF7",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1733467679001,
 				"name":"给你一瓶魔法药水",
-				"tab_id":0,
 				"suit_item_id":234428401,
 				"properties":{
 					"fan_no_color":"#86AEF7",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1733467822001,
 				"name":"给你一瓶魔法药水",
-				"tab_id":0,
 				"suit_item_id":234428401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d955d6c8523476225b6343fe18d3e0e1a09935b5.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"施展魔法\",\"image\":\"https://i0.hdslb.com/bfs/garb/e54cb63e8f5fc560a9a9befe1616bf15ef0eb3cc.png\"},{\"name\":\"东张西望\",\"image\":\"https://i0.hdslb.com/bfs/garb/833673bd226b536e2bfc23b52b0a8b053155de63.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/8bf2619ae2539c37c13ee553d7784e74c2b893bd.png\"},{\"name\":\"好好读书\",\"image\":\"https://i0.hdslb.com/bfs/garb/18b4cfd74eb930f227e61bbf54c5a5a637332bd2.png\"},{\"name\":\"魔法杖\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1dfc50246a19f5b06a0404865d04798ef08f267.png\"},{\"name\":\"蝴蝶\",\"image\":\"https://i0.hdslb.com/bfs/garb/2181dea6d94898ede58a5d6dbc7da755aba3c507.png\"},{\"name\":\"魔法帽\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c4b58c775ac0446314abec8de37c1f197bb0767.png\"},{\"name\":\"魔法书\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1cf952e926b7a9b84ba6b04af4c808900b57994.png\"},{\"name\":\"魔法卷轴\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e29cc83f2d84239a0aa1a514824ac17f011c903.png\"},{\"name\":\"知识\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed2c35e3ecf9af7ccdc6d79a5248b9e04f91fee3.png\"},{\"name\":\"起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/570335ba84b24dfe1521273cec7d7631706172c9.png\"},{\"name\":\"兔子宝宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8096a1156e0207abc65c298f6346d809b845755.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/879452d86ae21a2dd38458c683a79bc630c9fac8.png\"},{\"name\":\"星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/08a63cca9607444faec0c725578ec8cacc54968d.png\"},{\"name\":\"鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/6428f8a155279a3f736a559da0d2f7b4ba5a2bb1.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_东张西望]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/833673bd226b536e2bfc23b52b0a8b053155de63.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_兔子宝宝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b8096a1156e0207abc65c298f6346d809b845755.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_好好读书]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/18b4cfd74eb930f227e61bbf54c5a5a637332bd2.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8bf2619ae2539c37c13ee553d7784e74c2b893bd.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_施展魔法]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e54cb63e8f5fc560a9a9befe1616bf15ef0eb3cc.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_星星]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/08a63cca9607444faec0c725578ec8cacc54968d.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/879452d86ae21a2dd38458c683a79bc630c9fac8.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_知识]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ed2c35e3ecf9af7ccdc6d79a5248b9e04f91fee3.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_蝴蝶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2181dea6d94898ede58a5d6dbc7da755aba3c507.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_起飞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/570335ba84b24dfe1521273cec7d7631706172c9.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_魔法书]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d1cf952e926b7a9b84ba6b04af4c808900b57994.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_魔法卷轴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4e29cc83f2d84239a0aa1a514824ac17f011c903.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_魔法帽]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6c4b58c775ac0446314abec8de37c1f197bb0767.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_魔法杖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e1dfc50246a19f5b06a0404865d04798ef08f267.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[给你一瓶魔法药水_鸟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6428f8a155279a3f736a559da0d2f7b4ba5a2bb1.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1733468127001,
 				"name":"给你一瓶魔法药水",
-				"tab_id":0,
 				"suit_item_id":234428401,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1733467737001,
 				"name":"给你一瓶魔法药水",
-				"tab_id":0,
 				"suit_item_id":234428401,
 				"properties":{
 					"fan_no_color":"#ffffff",

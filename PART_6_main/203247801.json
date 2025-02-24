@@ -35,7 +35,6 @@
 			{
 				"item_id":1706773100001,
 				"name":"正经狼咖-新年特辑",
-				"tab_id":0,
 				"suit_item_id":203247801,
 				"properties":{
 					"fan_no_color":"#FFD27F",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1706773801001,
 				"name":"正经狼咖-新年特辑粉丝",
-				"tab_id":0,
 				"suit_item_id":203247801,
 				"properties":{
 					"fan_no_color":"#FFD27F",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1706773182001,
 				"name":"正经狼咖-新年特辑",
-				"tab_id":0,
 				"suit_item_id":203247801,
 				"properties":{
 					"fan_no_color":"#C13621",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1706771286001,
 				"name":"正经狼咖-新年特辑",
-				"tab_id":0,
 				"suit_item_id":203247801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d2b81c7735fb639fabe637e9d42bb739a7cac77c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"给你红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/8209740d5e9f4abc56b4f1263b73d5e0b8f0ff0c.png\"},{\"name\":\"老板大气\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb69de1202c694d6f1ee20f43d20a06fd2346d6f.png\"},{\"name\":\"放烟花\",\"image\":\"https://i0.hdslb.com/bfs/garb/15b06ac5486fb8c93d90493bd6410c2f5d284265.png\"},{\"name\":\"一起玩\",\"image\":\"https://i0.hdslb.com/bfs/garb/131e452674596e3b64ec7ba1e0e87d884f67c0ef.png\"},{\"name\":\"别过来\",\"image\":\"https://i0.hdslb.com/bfs/garb/59d01521c47b73af0a4c16a81cb05205c940607a.png\"},{\"name\":\"祝你福瑞\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbf941bff16714a16064a79a5f0365229cbb6b6c.png\"},{\"name\":\"暖烘烘\",\"image\":\"https://i0.hdslb.com/bfs/garb/48198168eb1c7fa0e4e628dc8377b9e22ad4ddb5.png\"},{\"name\":\"看烟花\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c5b2dc860dafc7433009e2a39e91ac406edc342.png\"},{\"name\":\"吃饺砸\",\"image\":\"https://i0.hdslb.com/bfs/garb/70e05a5f042b25b7154fd8cb822f4ecd22a6aceb.png\"},{\"name\":\"打鼓\",\"image\":\"https://i0.hdslb.com/bfs/garb/a75522adf72604ae509beee8b189ffa1c3cb2642.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/d952021831ccd9163a27de93a4315e89f1f85137.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/5bf96597f5db6092c85a30f3b4f8fccb6c347cab.png\"},{\"name\":\"金元宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/d07fab8442fbc2daa0d029a631a55f344920653d.png\"},{\"name\":\"恭喜发财\",\"image\":\"https://i0.hdslb.com/bfs/garb/70bf60c60907bce80ba9837bbbbd3066b7ef4522.png\"},{\"name\":\"满载而归\",\"image\":\"https://i0.hdslb.com/bfs/garb/b31ab81119851f3bf34a83a0288bc12d9759040f.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_一起玩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/131e452674596e3b64ec7ba1e0e87d884f67c0ef.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_别过来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/59d01521c47b73af0a4c16a81cb05205c940607a.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_吃饺砸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/70e05a5f042b25b7154fd8cb822f4ecd22a6aceb.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5bf96597f5db6092c85a30f3b4f8fccb6c347cab.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d952021831ccd9163a27de93a4315e89f1f85137.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_恭喜发财]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/70bf60c60907bce80ba9837bbbbd3066b7ef4522.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_打鼓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a75522adf72604ae509beee8b189ffa1c3cb2642.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_放烟花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/15b06ac5486fb8c93d90493bd6410c2f5d284265.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_暖烘烘]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/48198168eb1c7fa0e4e628dc8377b9e22ad4ddb5.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_满载而归]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b31ab81119851f3bf34a83a0288bc12d9759040f.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_看烟花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1c5b2dc860dafc7433009e2a39e91ac406edc342.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_祝你福瑞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbf941bff16714a16064a79a5f0365229cbb6b6c.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_给你红包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8209740d5e9f4abc56b4f1263b73d5e0b8f0ff0c.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_老板大气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eb69de1202c694d6f1ee20f43d20a06fd2346d6f.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖-新年特辑_金元宝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d07fab8442fbc2daa0d029a631a55f344920653d.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1706773424001,
 				"name":"正经狼咖-新年特辑",
-				"tab_id":0,
 				"suit_item_id":203247801,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1706773222001,
 				"name":"正经狼咖-新年特辑",
-				"tab_id":0,
 				"suit_item_id":203247801,
 				"properties":{
 					"fan_no_color":"#ffffff",

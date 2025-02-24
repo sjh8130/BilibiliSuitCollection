@@ -35,7 +35,6 @@
 			{
 				"item_id":1736818225001,
 				"name":"啃一口面包基",
-				"tab_id":0,
 				"suit_item_id":301442901,
 				"properties":{
 					"fan_no_color":"#F5A22F",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1736818225002,
 				"name":"啃一口面包基粉丝",
-				"tab_id":0,
 				"suit_item_id":301442901,
 				"properties":{
 					"fan_no_color":"#F5A22F",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1736818321001,
 				"name":"啃一口面包基",
-				"tab_id":0,
 				"suit_item_id":301442901,
 				"properties":{
 					"fan_no_color":"#F6A93B",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1736818444001,
 				"name":"啃一口面包基",
-				"tab_id":0,
 				"suit_item_id":301442901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/174557ac18929f83dbfefd0de28cacba238dd749.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"骨头\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdcb82acd17bd895844e6ae1363de395b3f52995.png\"},{\"name\":\"狗爪\",\"image\":\"https://i0.hdslb.com/bfs/garb/19d479972419ae034ddf04c66093391e4bb2d2ee.png\"},{\"name\":\"吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/79b3ccb2e049eea26a68beb0cc3d9cb598b8c220.png\"},{\"name\":\"探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8634dbb29a4a800a4966d0456475814fb6c6f68.png\"},{\"name\":\"裂开\",\"image\":\"https://i0.hdslb.com/bfs/garb/874f5f0ae4d8e5a1512c5c0fa530e35e4caa8693.png\"},{\"name\":\"裂裂裂开\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d8c229071ab8c4345621593ca30daac09db0844.png\"},{\"name\":\"紧急情况\",\"image\":\"https://i0.hdslb.com/bfs/garb/8581190c5065d3cd9de02173419df5bdc5686bc4.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/938ff42d45b4c8a6b7d1c77a5e9972f4ef06241d.png\"},{\"name\":\"糊了\",\"image\":\"https://i0.hdslb.com/bfs/garb/f39fbbe7681658517be6c2643f413b0f67882b0b.png\"},{\"name\":\"加热\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2252b77ff50d761942c12a54702cfacde805e43.png\"},{\"name\":\"嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/af8ab3a2f5da93f6b4b16949b9d5917d3ad5ae78.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/54a5404b242f389816e939e821316e33b99dbd40.png\"},{\"name\":\"噫\",\"image\":\"https://i0.hdslb.com/bfs/garb/6773dc1718793238d64b0b03df4ad4f88f9e0176.png\"},{\"name\":\"卖萌\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7c0c5a35650728c4c378a62b7cc5d2fddce0f7e.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/338c6f013eba11956ee9a1a08dd12ecd5230a095.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_加热]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b2252b77ff50d761942c12a54702cfacde805e43.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_卖萌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b7c0c5a35650728c4c378a62b7cc5d2fddce0f7e.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/79b3ccb2e049eea26a68beb0cc3d9cb598b8c220.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_嗨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af8ab3a2f5da93f6b4b16949b9d5917d3ad5ae78.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_噫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6773dc1718793238d64b0b03df4ad4f88f9e0176.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/938ff42d45b4c8a6b7d1c77a5e9972f4ef06241d.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_探头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e8634dbb29a4a800a4966d0456475814fb6c6f68.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/54a5404b242f389816e939e821316e33b99dbd40.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_狗爪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/19d479972419ae034ddf04c66093391e4bb2d2ee.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/338c6f013eba11956ee9a1a08dd12ecd5230a095.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_糊了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f39fbbe7681658517be6c2643f413b0f67882b0b.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_紧急情况]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8581190c5065d3cd9de02173419df5bdc5686bc4.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_裂开]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/874f5f0ae4d8e5a1512c5c0fa530e35e4caa8693.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_裂裂裂开]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d8c229071ab8c4345621593ca30daac09db0844.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[啃一口面包基_骨头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bdcb82acd17bd895844e6ae1363de395b3f52995.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1736818752001,
 				"name":"啃一口面包基",
-				"tab_id":0,
 				"suit_item_id":301442901,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1736818364001,
 				"name":"啃一口面包基",
-				"tab_id":0,
 				"suit_item_id":301442901,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1685807288001,
 				"name":"魔法游戏探险记",
-				"tab_id":0,
 				"suit_item_id":115471701,
 				"properties":{
 					"fan_no_color":"#2236F0",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1685807288002,
 				"name":"魔法游戏探险记粉丝",
-				"tab_id":0,
 				"suit_item_id":115471701,
 				"properties":{
 					"fan_no_color":"#2236F0",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1685807599001,
 				"name":"魔法游戏探险记",
-				"tab_id":0,
 				"suit_item_id":115471701,
 				"properties":{
 					"fan_no_color":"#4B2EEC",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1685807412001,
 				"name":"魔法游戏探险记",
-				"tab_id":0,
 				"suit_item_id":115471701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/996f78b1ac2f992041155a539fa465f95e4d5238.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"魔法师\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d6e21d9580585624a9e7167d684b82df8e3da08.png\"},{\"name\":\"魔药\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac0a6de9673947b9b46c55ca4d9eb116eaac3f03.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8b3174d87b449385ef579894a2063193345b3a7.png\"},{\"name\":\"惊讶\",\"image\":\"https://i0.hdslb.com/bfs/garb/6727a9ec2d8f058842650e2aff9c23f20dec7041.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/01475e3f5d9658cdadaf8dd649fed595113aea31.png\"},{\"name\":\"满血\",\"image\":\"https://i0.hdslb.com/bfs/garb/69ac63692fe3e73b8d62c18e11cf9120d53a916c.png\"},{\"name\":\"半血\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b0cf882939dc58120d108b345c3c472985f29b3.png\"},{\"name\":\"空血\",\"image\":\"https://i0.hdslb.com/bfs/garb/084f636641058ed045fa18b6d8b923f493e3fb2f.png\"},{\"name\":\"昏昏大睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/f94750ddbc245a1b50b317efb778f9d93dbabdbd.png\"},{\"name\":\"出发\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3d13b519936091604c81d57a8ddd07a47b9fef1.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef966e29afd4b98c174d741f4849c8c54da48510.png\"},{\"name\":\"悲伤\",\"image\":\"https://i0.hdslb.com/bfs/garb/f098478977eb5b6f7312bb3497623ec81f7da4cc.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea8c87864ac6200160a28356e24b99aac077e0fd.png\"},{\"name\":\"获取宝物\",\"image\":\"https://i0.hdslb.com/bfs/garb/72bf5a9d3d80bf2defe08ce339ba289cacdf767d.png\"},{\"name\":\"攻击\",\"image\":\"https://i0.hdslb.com/bfs/garb/abf11c5b5d85ad07a1399e632aa67e4c9fb28315.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_出发]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f3d13b519936091604c81d57a8ddd07a47b9fef1.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_半血]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2b0cf882939dc58120d108b345c3c472985f29b3.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea8c87864ac6200160a28356e24b99aac077e0fd.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_悲伤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f098478977eb5b6f7312bb3497623ec81f7da4cc.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_惊讶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6727a9ec2d8f058842650e2aff9c23f20dec7041.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_攻击]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/abf11c5b5d85ad07a1399e632aa67e4c9fb28315.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b8b3174d87b449385ef579894a2063193345b3a7.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_昏昏大睡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f94750ddbc245a1b50b317efb778f9d93dbabdbd.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_满血]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/69ac63692fe3e73b8d62c18e11cf9120d53a916c.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ef966e29afd4b98c174d741f4849c8c54da48510.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/01475e3f5d9658cdadaf8dd649fed595113aea31.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_空血]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/084f636641058ed045fa18b6d8b923f493e3fb2f.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_获取宝物]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/72bf5a9d3d80bf2defe08ce339ba289cacdf767d.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_魔法师]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7d6e21d9580585624a9e7167d684b82df8e3da08.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法游戏探险记_魔药]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ac0a6de9673947b9b46c55ca4d9eb116eaac3f03.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1685807547001,
 				"name":"魔法游戏探险记",
-				"tab_id":0,
 				"suit_item_id":115471701,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1685807442001,
 				"name":"魔法游戏探险记",
-				"tab_id":0,
 				"suit_item_id":115471701,
 				"properties":{
 					"fan_no_color":"#ffffff",

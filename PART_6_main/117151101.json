@@ -36,7 +36,6 @@
 			{
 				"item_id":1687251331001,
 				"name":"兔小猪",
-				"tab_id":0,
 				"suit_item_id":117151101,
 				"properties":{
 					"fan_no_color":"#E88B38",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1687251331002,
 				"name":"兔小猪粉丝",
-				"tab_id":0,
 				"suit_item_id":117151101,
 				"properties":{
 					"fan_no_color":"#E88B38",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1687251736001,
 				"name":"兔小猪",
-				"tab_id":0,
 				"suit_item_id":117151101,
 				"properties":{
 					"fan_no_color":"#E88B38",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1687251510001,
 				"name":"兔小猪",
-				"tab_id":0,
 				"suit_item_id":117151101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/29c771618e2b50057dbe7088cf483caea125169d.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/4dff0f43bdee7260c65519bb91d3e40dcab006bd.png\"},{\"name\":\"救命\",\"image\":\"https://i0.hdslb.com/bfs/garb/89333d1accd9a1e5c078e2f4fb3d8ace06339a59.png\"},{\"name\":\"买买买\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3eecbc257502ef71141d57bde803ab9af15f2e2.png\"},{\"name\":\"多喝热水\",\"image\":\"https://i0.hdslb.com/bfs/garb/c958b70bfa7f6b0d7b08f173f5fafd8abe629baf.png\"},{\"name\":\"我不管\",\"image\":\"https://i0.hdslb.com/bfs/garb/3d2493c1f1e9d2c64ab2a44a931c76ee65cd7c87.png\"},{\"name\":\"坏蛋\",\"image\":\"https://i0.hdslb.com/bfs/garb/3831774e2fbee6e08a8854e5444dd92419845866.png\"},{\"name\":\"搞快点\",\"image\":\"https://i0.hdslb.com/bfs/garb/1498e0ae5ea2ab4b9d5577e3da1f88a61b67f0ed.png\"},{\"name\":\"想你\",\"image\":\"https://i0.hdslb.com/bfs/garb/6129eecebcf18596a7e57d5770985996e673ecd8.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/012fc78c05b212e0582377ce60eb3b28ebae0008.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/16050b892447a44c4a93d298afcdb4240a0b71b0.png\"},{\"name\":\"认错\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d7a098a0978b74b1f9e32cd5acf8e1e4ff60cea.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/af06be001073ad7a237a1ae66953fdf469a97d8c.png\"},{\"name\":\"呼叫\",\"image\":\"https://i0.hdslb.com/bfs/garb/13c5e5293e7db11f683da4dc0cb8195b0ffb529f.png\"},{\"name\":\"卖萌\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a0ac54845f34e8fec9951dd82695a7f1d2aa5b9.png\"},{\"name\":\"理我\",\"image\":\"https://i0.hdslb.com/bfs/garb/926b71d9ecc8496fdbc97d673818db8708241e32.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_买买买]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f3eecbc257502ef71141d57bde803ab9af15f2e2.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_卖萌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a0ac54845f34e8fec9951dd82695a7f1d2aa5b9.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_呼叫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/13c5e5293e7db11f683da4dc0cb8195b0ffb529f.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/16050b892447a44c4a93d298afcdb4240a0b71b0.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_坏蛋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3831774e2fbee6e08a8854e5444dd92419845866.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_多喝热水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c958b70bfa7f6b0d7b08f173f5fafd8abe629baf.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_想你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6129eecebcf18596a7e57d5770985996e673ecd8.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_我不管]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3d2493c1f1e9d2c64ab2a44a931c76ee65cd7c87.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af06be001073ad7a237a1ae66953fdf469a97d8c.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_搞快点]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1498e0ae5ea2ab4b9d5577e3da1f88a61b67f0ed.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_救命]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/89333d1accd9a1e5c078e2f4fb3d8ace06339a59.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4dff0f43bdee7260c65519bb91d3e40dcab006bd.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_理我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/926b71d9ecc8496fdbc97d673818db8708241e32.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_认错]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9d7a098a0978b74b1f9e32cd5acf8e1e4ff60cea.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[兔小猪_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/012fc78c05b212e0582377ce60eb3b28ebae0008.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1687316315001,
 				"name":"兔小猪",
-				"tab_id":0,
 				"suit_item_id":117151101,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1687315960001,
 				"name":"兔小猪",
-				"tab_id":0,
 				"suit_item_id":117151101,
 				"properties":{
 					"fan_no_color":"#ffffff",

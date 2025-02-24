@@ -35,7 +35,6 @@
 			{
 				"item_id":1704702282001,
 				"name":"甜心兔兔贩售机",
-				"tab_id":0,
 				"suit_item_id":200928001,
 				"properties":{
 					"fan_no_color":"#F6B8CD",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1704702282002,
 				"name":"甜心兔兔贩售机粉丝",
-				"tab_id":0,
 				"suit_item_id":200928001,
 				"properties":{
 					"fan_no_color":"#F6B8CD",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1704698491001,
 				"name":"甜心兔兔贩售机",
-				"tab_id":0,
 				"suit_item_id":200928001,
 				"properties":{
 					"fan_no_color":"#FCB2CB",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1704704755001,
 				"name":"甜心兔兔贩售机",
-				"tab_id":0,
 				"suit_item_id":200928001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2987d8fa03fe1bea9b5cbe3404b7c9e449eaf48f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/3fffdbc3a105e4a9d35a3fdad02182aa31d1a959.png\"},{\"name\":\"爱你哟\",\"image\":\"https://i0.hdslb.com/bfs/garb/bff5f550e951c5d78e70fe44372ebd85f69744fb.png\"},{\"name\":\"18岁~\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7cc5aa76effe753d6481492f04197c477e9ead8.png\"},{\"name\":\"可爱捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/37c15d20fc80facc14eff8a52c7cbb835b4969a1.png\"},{\"name\":\"小奶瓶\",\"image\":\"https://i0.hdslb.com/bfs/garb/036ab5fa215a9752818af3f35e4e1b302eb584c9.png\"},{\"name\":\"要变咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b2b598d6df46600dfaf63c544525449faa9f5cd.png\"},{\"name\":\"宁好凶啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc78c2f141f1a4f2b73faea784bd8fcc06033af4.png\"},{\"name\":\"奶凶！\",\"image\":\"https://i0.hdslb.com/bfs/garb/1473f73846a91b4a51740698913cea586cd9fa5c.png\"},{\"name\":\"你好呀~\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ff0c101349427fe1ebbc51972c8d8eb9cbf17bf.png\"},{\"name\":\"心动讯号\",\"image\":\"https://i0.hdslb.com/bfs/garb/f91c2a36c2f5fb79fc7d419fb857768455bb8467.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/adf86f2059af1774dc1304145f1707b9375ed96f.png\"},{\"name\":\"宝~\",\"image\":\"https://i0.hdslb.com/bfs/garb/a84a0331c6b62762f08164148bbf53c7a00a3fda.png\"},{\"name\":\"宝生气啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/91761711407ead67d8113b416e24d479ff18b984.png\"},{\"name\":\"小奶音\",\"image\":\"https://i0.hdslb.com/bfs/garb/41634b08356d33be84cfb33c0cd5d9e80cf63d81.png\"},{\"name\":\"啵啵啵~\",\"image\":\"https://i0.hdslb.com/bfs/garb/f132e5da6ce6bec3c78bf0b72c2b4840479c371c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_18岁~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f7cc5aa76effe753d6481492f04197c477e9ead8.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_亲亲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3fffdbc3a105e4a9d35a3fdad02182aa31d1a959.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_你好呀~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3ff0c101349427fe1ebbc51972c8d8eb9cbf17bf.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_可爱捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/37c15d20fc80facc14eff8a52c7cbb835b4969a1.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_啵啵啵~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f132e5da6ce6bec3c78bf0b72c2b4840479c371c.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_奶凶！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1473f73846a91b4a51740698913cea586cd9fa5c.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_宁好凶啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc78c2f141f1a4f2b73faea784bd8fcc06033af4.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_宝~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a84a0331c6b62762f08164148bbf53c7a00a3fda.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_宝生气啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/91761711407ead67d8113b416e24d479ff18b984.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_小奶瓶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/036ab5fa215a9752818af3f35e4e1b302eb584c9.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_小奶音]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/41634b08356d33be84cfb33c0cd5d9e80cf63d81.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_心动讯号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f91c2a36c2f5fb79fc7d419fb857768455bb8467.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_爱你哟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bff5f550e951c5d78e70fe44372ebd85f69744fb.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/adf86f2059af1774dc1304145f1707b9375ed96f.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[甜心兔兔贩售机_要变咯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2b2b598d6df46600dfaf63c544525449faa9f5cd.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1704700312001,
 				"name":"甜心兔兔贩售机",
-				"tab_id":0,
 				"suit_item_id":200928001,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1704698544001,
 				"name":"甜心兔兔贩售机",
-				"tab_id":0,
 				"suit_item_id":200928001,
 				"properties":{
 					"fan_no_color":"#ffffff",

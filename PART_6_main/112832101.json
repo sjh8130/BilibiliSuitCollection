@@ -34,7 +34,6 @@
 			{
 				"item_id":1682498730001,
 				"name":"梵高-致敬大师",
-				"tab_id":0,
 				"suit_item_id":112832101,
 				"properties":{
 					"fan_no_color":"#1BB23F",
@@ -48,7 +47,6 @@
 			{
 				"item_id":1682498730002,
 				"name":"梵高-致敬大师粉丝",
-				"tab_id":0,
 				"suit_item_id":112832101,
 				"properties":{
 					"fan_no_color":"#1BB23F",
@@ -65,7 +63,6 @@
 			{
 				"item_id":1682502460001,
 				"name":"梵高-致敬大师",
-				"tab_id":0,
 				"suit_item_id":112832101,
 				"properties":{
 					"fan_no_color":"#21A045",
@@ -80,14 +77,12 @@
 			{
 				"item_id":1682568000001,
 				"name":"梵高- 致敬大师",
-				"tab_id":0,
 				"suit_item_id":112832101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/27bb9e738ca99d4c0429e720b400c4c43928bddf.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"大佬请坐\",\"image\":\"https://i0.hdslb.com/bfs/garb/e78ec90142119139a7b8cb602565f3b74e863e75.png\"},{\"name\":\"蟹蟹\",\"image\":\"https://i0.hdslb.com/bfs/garb/a21af093cc6e37dea0891dee3b15d148a590d767.png\"},{\"name\":\"咖啡\",\"image\":\"https://i0.hdslb.com/bfs/garb/90093f2ec66edfc5cfd6ddae3a18c10590bc2e86.png\"},{\"name\":\"鸭梨山大\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f5565a29d9bff42d6af4d37535ed16697c0b40d.png\"},{\"name\":\"我酸了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7deed10fb7274bd94f444f1d722b2c2a6befbe86.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/29de2a7c7ec8d4650118779e739c41bda481c238.png\"},{\"name\":\"大佬\",\"image\":\"https://i0.hdslb.com/bfs/garb/30ec97228ba4eed852fc8e65bb920d4e4f583db4.png\"},{\"name\":\"涨知识了\",\"image\":\"https://i0.hdslb.com/bfs/garb/3768fcefc6ff9355211c548a5f8f5623d9915eb5.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/abb86f0229ed065fc74137216dd6388063d54277.png\"},{\"name\":\"好梦\",\"image\":\"https://i0.hdslb.com/bfs/garb/413a3b8318cd06c06789610fba74b1c1937c1080.png\"},{\"name\":\"你行你上\",\"image\":\"https://i0.hdslb.com/bfs/garb/33dd5c44f2601925b5204ddf1b619f7fd4723695.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/6653c1cb20069f4ec91697c3166d266c2798eb3e.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/435808adba1a07485a4e49cb1094a59c51d66f1d.png\"},{\"name\":\"我想开了\",\"image\":\"https://i0.hdslb.com/bfs/garb/399f265a74817509f48bbb82def3ed0f1895a0a7.png\"},{\"name\":\"认真脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/f91c8f9aa02c2962ebb35556aea9959582684d63.png\"},{\"name\":\"向阳而生\",\"image\":\"https://i0.hdslb.com/bfs/garb/55450a616d5a99aa61a015c237108466042171c5.png\"},{\"name\":\"早安\",\"image\":\"https://i0.hdslb.com/bfs/garb/70e6ae138d05e57d523eeb45e0b1f5b54875487a.png\"},{\"name\":\"红红火火\",\"image\":\"https://i0.hdslb.com/bfs/garb/437caea0279de8e6d0155605e2a5b04b3c7f515d.png\"},{\"name\":\"咸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/34e3088026c7f1dd455be39e8b24d65d2f334078.png\"},{\"name\":\"忧郁\",\"image\":\"https://i0.hdslb.com/bfs/garb/f67b26f0dfebac55f9a0201b20acaa7e1166c514.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -103,7 +98,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_你行你上]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/33dd5c44f2601925b5204ddf1b619f7fd4723695.png",
 							"sale_type":"pay"
@@ -112,7 +106,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/435808adba1a07485a4e49cb1094a59c51d66f1d.png",
 							"sale_type":"pay"
@@ -121,7 +114,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_向阳而生]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/55450a616d5a99aa61a015c237108466042171c5.png",
 							"sale_type":"pay"
@@ -130,7 +122,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_咖啡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/90093f2ec66edfc5cfd6ddae3a18c10590bc2e86.png",
 							"sale_type":"pay"
@@ -139,7 +130,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_咸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/34e3088026c7f1dd455be39e8b24d65d2f334078.png",
 							"sale_type":"pay"
@@ -148,7 +138,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_大佬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/30ec97228ba4eed852fc8e65bb920d4e4f583db4.png",
 							"sale_type":"pay"
@@ -157,7 +146,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_大佬请坐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e78ec90142119139a7b8cb602565f3b74e863e75.png",
 							"sale_type":"pay"
@@ -166,7 +154,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_好梦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/413a3b8318cd06c06789610fba74b1c1937c1080.png",
 							"sale_type":"pay"
@@ -175,7 +162,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_忧郁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f67b26f0dfebac55f9a0201b20acaa7e1166c514.png",
 							"sale_type":"pay"
@@ -184,7 +170,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_我想开了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/399f265a74817509f48bbb82def3ed0f1895a0a7.png",
 							"sale_type":"pay"
@@ -193,7 +178,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_我酸了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7deed10fb7274bd94f444f1d722b2c2a6befbe86.png",
 							"sale_type":"pay"
@@ -202,7 +186,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_早安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/70e6ae138d05e57d523eeb45e0b1f5b54875487a.png",
 							"sale_type":"pay"
@@ -211,7 +194,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6653c1cb20069f4ec91697c3166d266c2798eb3e.png",
 							"sale_type":"pay"
@@ -220,7 +202,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_涨知识了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3768fcefc6ff9355211c548a5f8f5623d9915eb5.png",
 							"sale_type":"pay"
@@ -229,7 +210,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/abb86f0229ed065fc74137216dd6388063d54277.png",
 							"sale_type":"pay"
@@ -238,7 +218,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_红红火火]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/437caea0279de8e6d0155605e2a5b04b3c7f515d.png",
 							"sale_type":"pay"
@@ -247,7 +226,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_蟹蟹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a21af093cc6e37dea0891dee3b15d148a590d767.png",
 							"sale_type":"pay"
@@ -256,7 +234,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_认真脸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f91c8f9aa02c2962ebb35556aea9959582684d63.png",
 							"sale_type":"pay"
@@ -265,7 +242,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_送花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/29de2a7c7ec8d4650118779e739c41bda481c238.png",
 							"sale_type":"pay"
@@ -274,7 +250,6 @@
 					{
 						"item_id":0,
 						"name":"[梵高- 致敬大师_鸭梨山大]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3f5565a29d9bff42d6af4d37535ed16697c0b40d.png",
 							"sale_type":"pay"
@@ -287,7 +262,6 @@
 			{
 				"item_id":1682589559001,
 				"name":"梵高- 致敬大师",
-				"tab_id":0,
 				"suit_item_id":112832101,
 				"properties":{
 					"color":"#ffffff",
@@ -327,7 +301,6 @@
 			{
 				"item_id":1682503113001,
 				"name":"梵高 -致敬大师 ",
-				"tab_id":0,
 				"suit_item_id":112832101,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -34,7 +34,6 @@
 			{
 				"item_id":1714367439001,
 				"name":"小兔草莓巧克力",
-				"tab_id":0,
 				"suit_item_id":212040901,
 				"properties":{
 					"fan_no_color":"#DB4079",
@@ -48,7 +47,6 @@
 			{
 				"item_id":1714367439002,
 				"name":"小兔草莓巧克力粉丝",
-				"tab_id":0,
 				"suit_item_id":212040901,
 				"properties":{
 					"fan_no_color":"#DB4079",
@@ -65,7 +63,6 @@
 			{
 				"item_id":1714368786001,
 				"name":"小兔草莓巧克力",
-				"tab_id":0,
 				"suit_item_id":212040901,
 				"properties":{
 					"fan_no_color":"#D23348",
@@ -80,14 +77,12 @@
 			{
 				"item_id":1714367495001,
 				"name":"小兔草莓巧克力",
-				"tab_id":0,
 				"suit_item_id":212040901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7c250b450b388af943d9b0f4bedff15c2d84f42a.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa2d9a0f95d900cce53090a9301b7bf479886eb4.png\"},{\"name\":\"惊讶\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ab6d8523af62bb67aaf3f745b4a600565b3c8d1.png\"},{\"name\":\"难过\",\"image\":\"https://i0.hdslb.com/bfs/garb/2360eb2e7bb171ff14543c578e06f3614bbc42bf.png\"},{\"name\":\"惹有所思\",\"image\":\"https://i0.hdslb.com/bfs/garb/422568b8283fc8a1ab9b0e1b515f783ccc199874.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/4baea8e767039a8df6e4067cbe57e7f78ba2d6f2.png\"},{\"name\":\"暴怒\",\"image\":\"https://i0.hdslb.com/bfs/garb/1557db1447790d62c3a79fb00cce41cc0935bcae.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/b50c67933a0260185d78c4c008f484fa5aa3166c.png\"},{\"name\":\"晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/424368042616f5023036bbb0a7fcd933483eb107.png\"},{\"name\":\"呕\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9bd3eecb045e7922e7ed032c51478d75d941516.png\"},{\"name\":\"泪目\",\"image\":\"https://i0.hdslb.com/bfs/garb/000225b542f71e80ade3bb83a566f52ca9cd88bd.png\"},{\"name\":\"心动\",\"image\":\"https://i0.hdslb.com/bfs/garb/97fda1e96f5f0e0da6a42e057c6ee682af80390b.png\"},{\"name\":\"扮懵\",\"image\":\"https://i0.hdslb.com/bfs/garb/8df17af023f6098d3ec1d6ce117120ed5695dbbd.png\"},{\"name\":\"睡着\",\"image\":\"https://i0.hdslb.com/bfs/garb/59f3b837b7bbcc916282be27cb0c61e57da0250f.png\"},{\"name\":\"！！\",\"image\":\"https://i0.hdslb.com/bfs/garb/a655939688bec3b38b3f50a1ee5d723c0a59c790.png\"},{\"name\":\"害差\",\"image\":\"https://i0.hdslb.com/bfs/garb/7296f98766e922a6db333be5f5845223a024551c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -103,7 +98,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_呕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c9bd3eecb045e7922e7ed032c51478d75d941516.png",
 							"sale_type":"pay"
@@ -112,7 +106,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_害差]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7296f98766e922a6db333be5f5845223a024551c.png",
 							"sale_type":"pay"
@@ -121,7 +114,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aa2d9a0f95d900cce53090a9301b7bf479886eb4.png",
 							"sale_type":"pay"
@@ -130,7 +122,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_心动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/97fda1e96f5f0e0da6a42e057c6ee682af80390b.png",
 							"sale_type":"pay"
@@ -139,7 +130,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_惊讶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7ab6d8523af62bb67aaf3f745b4a600565b3c8d1.png",
 							"sale_type":"pay"
@@ -148,7 +138,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_惹有所思]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/422568b8283fc8a1ab9b0e1b515f783ccc199874.png",
 							"sale_type":"pay"
@@ -157,7 +146,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_扮懵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8df17af023f6098d3ec1d6ce117120ed5695dbbd.png",
 							"sale_type":"pay"
@@ -166,7 +154,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_晕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/424368042616f5023036bbb0a7fcd933483eb107.png",
 							"sale_type":"pay"
@@ -175,7 +162,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_暴怒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1557db1447790d62c3a79fb00cce41cc0935bcae.png",
 							"sale_type":"pay"
@@ -184,7 +170,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_泪目]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/000225b542f71e80ade3bb83a566f52ca9cd88bd.png",
 							"sale_type":"pay"
@@ -193,7 +178,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b50c67933a0260185d78c4c008f484fa5aa3166c.png",
 							"sale_type":"pay"
@@ -202,7 +186,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_睡着]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/59f3b837b7bbcc916282be27cb0c61e57da0250f.png",
 							"sale_type":"pay"
@@ -211,7 +194,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_问号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4baea8e767039a8df6e4067cbe57e7f78ba2d6f2.png",
 							"sale_type":"pay"
@@ -220,7 +202,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_难过]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2360eb2e7bb171ff14543c578e06f3614bbc42bf.png",
 							"sale_type":"pay"
@@ -229,7 +210,6 @@
 					{
 						"item_id":0,
 						"name":"[小兔草莓巧克力_！！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a655939688bec3b38b3f50a1ee5d723c0a59c790.png",
 							"sale_type":"pay"
@@ -242,7 +222,6 @@
 			{
 				"item_id":1714369072001,
 				"name":"小兔草莓巧克力",
-				"tab_id":0,
 				"suit_item_id":212040901,
 				"properties":{
 					"color":"#ffffff",
@@ -282,7 +261,6 @@
 			{
 				"item_id":1714376204001,
 				"name":"小兔草莓巧克力",
-				"tab_id":0,
 				"suit_item_id":212040901,
 				"properties":{
 					"fan_no_color":"#ffffff",

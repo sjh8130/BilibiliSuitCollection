@@ -37,7 +37,6 @@
 			{
 				"item_id":1678181679001,
 				"name":"NIYA卡片",
-				"tab_id":0,
 				"suit_item_id":106646701,
 				"properties":{
 					"fan_no_color":"#8F8FFF",
@@ -51,7 +50,6 @@
 			{
 				"item_id":1678181679002,
 				"name":"NIYA卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":106646701,
 				"properties":{
 					"fan_no_color":"#8F8FFF",
@@ -68,7 +66,6 @@
 			{
 				"item_id":1678177198001,
 				"name":"NIYA评论背景",
-				"tab_id":0,
 				"suit_item_id":106646701,
 				"properties":{
 					"fan_no_color":"#F08EE6",
@@ -83,14 +80,12 @@
 			{
 				"item_id":1678175102001,
 				"name":"NIYA表情包",
-				"tab_id":0,
 				"suit_item_id":106646701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/581e77ae2f1a6826c6f1ee59a3424c66ad19f016.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/61b9cd3db8b8240bc4b3dfffb2ec304e19335754.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/986b05e144d8e6322908a847fe1f3485a8676f83.png\"},{\"name\":\"发困\",\"image\":\"https://i0.hdslb.com/bfs/garb/85877aecd679f1d118be32f00649d6fdc1cc0094.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/82ee9cb7e2cfce5cb7ae7f2cffaec3c713aa669b.png\"},{\"name\":\"吐舌\",\"image\":\"https://i0.hdslb.com/bfs/garb/c74dc759eef115373fdb4fca80fbf67bebafcb10.png\"},{\"name\":\"尴尬\",\"image\":\"https://i0.hdslb.com/bfs/garb/5dca8428e02af8a99677e7a61bb74cc47db3d0b7.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/7499bfc5040069bd54dc3a34c7a50434cb2b5e4a.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5e6a8ce68a848e9410989e73009dd0083e5e781.png\"},{\"name\":\"示爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/b90fa817243a7afdfbe598c49251aca06908cb8e.png\"},{\"name\":\"眩晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/84d23faada9da6a427a252c54175ef8b23df0d9c.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/9afbb43aa693c9eeda5744484575f185fbf80947.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ca44bd484546f4dc3d6b47354fdc519243849c7.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8a7ea2ca22765b8e0fb374003b1c185af09456e.png\"},{\"name\":\"贪嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/03baa4fee3c4055ab87caf43071a75446311d26f.png\"},{\"name\":\"偷笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8aad6cdd7e7d90f62dce6c0e468eab452a9f6fe.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/876652a4579ce7b2dcbf0625e28b34f3b6598fc0.png\"},{\"name\":\"大吃一惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff84c58a825fbd97b52b15a2ebf5ba74880449ba.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/148da8493d8607b3f9d42bc338721d16e4677eda.png\"},{\"name\":\"祈祷\",\"image\":\"https://i0.hdslb.com/bfs/garb/9bda3699e9418d473beca6f5da3033c1bf3680b0.png\"},{\"name\":\"鼓嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/6394f9d3e6146f85a8f1bf5671e688a197997041.png\"},{\"name\":\"可怜\",\"image\":\"https://i0.hdslb.com/bfs/garb/31413ee77370ea32f1cf1a90bd8b469ca5b53afd.png\"},{\"name\":\"快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5401db046a663033982950b2c46be45ad364696.png\"},{\"name\":\"使坏\",\"image\":\"https://i0.hdslb.com/bfs/garb/287e23da0e7aa31d1fd086da9b5dfd5d163f410c.png\"},{\"name\":\"没精神\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0ec6590fb70c627344115d09d86ec88cd6d9183.png\"},{\"name\":\"厌恶\",\"image\":\"https://i0.hdslb.com/bfs/garb/589e10b963691dd43d9ec98513f59ef33d26d842.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_使坏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/287e23da0e7aa31d1fd086da9b5dfd5d163f410c.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_偷笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c8aad6cdd7e7d90f62dce6c0e468eab452a9f6fe.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_厌恶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/589e10b963691dd43d9ec98513f59ef33d26d842.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_发困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/85877aecd679f1d118be32f00649d6fdc1cc0094.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_可怜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/31413ee77370ea32f1cf1a90bd8b469ca5b53afd.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/61b9cd3db8b8240bc4b3dfffb2ec304e19335754.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_吐舌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c74dc759eef115373fdb4fca80fbf67bebafcb10.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_大吃一惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ff84c58a825fbd97b52b15a2ebf5ba74880449ba.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_大哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ca44bd484546f4dc3d6b47354fdc519243849c7.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_害怕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/148da8493d8607b3f9d42bc338721d16e4677eda.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_尴尬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5dca8428e02af8a99677e7a61bb74cc47db3d0b7.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7499bfc5040069bd54dc3a34c7a50434cb2b5e4a.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_快乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c5401db046a663033982950b2c46be45ad364696.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_思考]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/82ee9cb7e2cfce5cb7ae7f2cffaec3c713aa669b.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/876652a4579ce7b2dcbf0625e28b34f3b6598fc0.png",
 							"sale_type":"pay"
@@ -241,7 +221,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_暗中观察]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9afbb43aa693c9eeda5744484575f185fbf80947.png",
 							"sale_type":"pay"
@@ -250,7 +229,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f8a7ea2ca22765b8e0fb374003b1c185af09456e.png",
 							"sale_type":"pay"
@@ -259,7 +237,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_没精神]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d0ec6590fb70c627344115d09d86ec88cd6d9183.png",
 							"sale_type":"pay"
@@ -268,7 +245,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_流汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c5e6a8ce68a848e9410989e73009dd0083e5e781.png",
 							"sale_type":"pay"
@@ -277,7 +253,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/986b05e144d8e6322908a847fe1f3485a8676f83.png",
 							"sale_type":"pay"
@@ -286,7 +261,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_眩晕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/84d23faada9da6a427a252c54175ef8b23df0d9c.png",
 							"sale_type":"pay"
@@ -295,7 +269,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_示爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b90fa817243a7afdfbe598c49251aca06908cb8e.png",
 							"sale_type":"pay"
@@ -304,7 +277,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_祈祷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9bda3699e9418d473beca6f5da3033c1bf3680b0.png",
 							"sale_type":"pay"
@@ -313,7 +285,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_贪嘴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/03baa4fee3c4055ab87caf43071a75446311d26f.png",
 							"sale_type":"pay"
@@ -322,7 +293,6 @@
 					{
 						"item_id":0,
 						"name":"[NIYA表情包_鼓嘴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6394f9d3e6146f85a8f1bf5671e688a197997041.png",
 							"sale_type":"pay"
@@ -335,7 +305,6 @@
 			{
 				"item_id":1678186962001,
 				"name":"NIYA加载动画",
-				"tab_id":0,
 				"suit_item_id":106646701,
 				"properties":{
 					"goods_type":"suit",
@@ -350,7 +319,6 @@
 			{
 				"item_id":1678184168001,
 				"name":"NIYA进度条",
-				"tab_id":0,
 				"suit_item_id":106646701,
 				"properties":{
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/406d7f00e496a0d32462573cb0dca2d07f6786dd.png",
@@ -367,7 +335,6 @@
 			{
 				"item_id":1678184738001,
 				"name":"NIYA主题",
-				"tab_id":0,
 				"suit_item_id":106646701,
 				"properties":{
 					"color":"#ffffff",
@@ -407,7 +374,6 @@
 			{
 				"item_id":1678175793001,
 				"name":"NIYA背景图",
-				"tab_id":0,
 				"suit_item_id":106646701,
 				"properties":{
 					"fan_no_color":"#ffffff",
@@ -429,7 +395,6 @@
 			{
 				"item_id":1678193910001,
 				"name":"NIYA点赞闪亮",
-				"tab_id":0,
 				"suit_item_id":106646701,
 				"properties":{
 					"goods_type":"suit",

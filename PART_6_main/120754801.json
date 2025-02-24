@@ -35,7 +35,6 @@
 			{
 				"item_id":1690366347001,
 				"name":"萨卡班甲鱼汤",
-				"tab_id":0,
 				"suit_item_id":120754801,
 				"properties":{
 					"fan_no_color":"#5C8EFF",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1690366347002,
 				"name":"萨卡班甲鱼汤粉丝",
-				"tab_id":0,
 				"suit_item_id":120754801,
 				"properties":{
 					"fan_no_color":"#5C8EFF",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1690366561001,
 				"name":"萨卡班甲鱼汤",
-				"tab_id":0,
 				"suit_item_id":120754801,
 				"properties":{
 					"fan_no_color":"#5C8EFF",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1690366426001,
 				"name":"萨卡班甲鱼汤",
-				"tab_id":0,
 				"suit_item_id":120754801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f2c056735decea17ff027bb5ba0888751709a543.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"次元鱼头\",\"image\":\"https://i0.hdslb.com/bfs/garb/4240ec187cf2218c3b6f43fafb9a4ec4be06c453.png\"},{\"name\":\"次元鱼尾\",\"image\":\"https://i0.hdslb.com/bfs/garb/62296916b8e192d081e58e4bdbb0ee6ae33f2d40.png\"},{\"name\":\"鱼汤\",\"image\":\"https://i0.hdslb.com/bfs/garb/b719c1a49bd472bf5bbb99284e64d9a1d4d82962.png\"},{\"name\":\"紫茄\",\"image\":\"https://i0.hdslb.com/bfs/garb/86deaa38c7c781821705479efb87ca839532d0af.png\"},{\"name\":\"东来\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ad15fb5154a1c8dcdf11c698ad1f7bdbd3e0c62.png\"},{\"name\":\"碰壁\",\"image\":\"https://i0.hdslb.com/bfs/garb/8cf644f6a0cff95c730b313a34b5fb0f50cc7e09.png\"},{\"name\":\"摇摆\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a5f1a7310148b37a25622851e848b7aed270684.png\"},{\"name\":\"生日\",\"image\":\"https://i0.hdslb.com/bfs/garb/fef4497c49490b5e249c07d86febc7118b7eaf8c.png\"},{\"name\":\"失眠\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d3c460819fb92121cf82a7723b7034a53f804be.png\"},{\"name\":\"缓冲\",\"image\":\"https://i0.hdslb.com/bfs/garb/f413f8b142c5b25a45c8a18590f051bf937ac092.png\"},{\"name\":\"吐舌\",\"image\":\"https://i0.hdslb.com/bfs/garb/65fcbf07415f13420c6b6bb21ffc2676b863134f.png\"},{\"name\":\"潜水\",\"image\":\"https://i0.hdslb.com/bfs/garb/a221c5ab3990fab95ee446816fe609a0d53a6ea6.png\"},{\"name\":\"蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0399d153f611aeba658bfce4c62c31275a3f734.png\"},{\"name\":\"被子\",\"image\":\"https://i0.hdslb.com/bfs/garb/89909dc20f8d5748e81af8187ec7a5c2cb5da1a2.png\"},{\"name\":\"学习\",\"image\":\"https://i0.hdslb.com/bfs/garb/df8dbf3a42df1ba91a62be5eb8c931e815220cf5.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_东来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9ad15fb5154a1c8dcdf11c698ad1f7bdbd3e0c62.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_吐舌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/65fcbf07415f13420c6b6bb21ffc2676b863134f.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_失眠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9d3c460819fb92121cf82a7723b7034a53f804be.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_学习]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/df8dbf3a42df1ba91a62be5eb8c931e815220cf5.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_摇摆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7a5f1a7310148b37a25622851e848b7aed270684.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_次元鱼头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4240ec187cf2218c3b6f43fafb9a4ec4be06c453.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_次元鱼尾]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/62296916b8e192d081e58e4bdbb0ee6ae33f2d40.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_潜水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a221c5ab3990fab95ee446816fe609a0d53a6ea6.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_生日]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fef4497c49490b5e249c07d86febc7118b7eaf8c.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_碰壁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8cf644f6a0cff95c730b313a34b5fb0f50cc7e09.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_紫茄]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/86deaa38c7c781821705479efb87ca839532d0af.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_缓冲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f413f8b142c5b25a45c8a18590f051bf937ac092.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_蛋糕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f0399d153f611aeba658bfce4c62c31275a3f734.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_被子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/89909dc20f8d5748e81af8187ec7a5c2cb5da1a2.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班甲鱼汤_鱼汤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b719c1a49bd472bf5bbb99284e64d9a1d4d82962.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1690366539001,
 				"name":"萨卡班甲鱼汤",
-				"tab_id":0,
 				"suit_item_id":120754801,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1690366449001,
 				"name":"萨卡班甲鱼汤",
-				"tab_id":0,
 				"suit_item_id":120754801,
 				"properties":{
 					"fan_no_color":"#ffffff",

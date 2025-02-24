@@ -35,7 +35,6 @@
 			{
 				"item_id":1684653432001,
 				"name":"鲨鲨爱洗澡",
-				"tab_id":0,
 				"suit_item_id":114229501,
 				"properties":{
 					"fan_no_color":"#6FB5BD",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1684653814001,
 				"name":"鲨鲨爱洗澡粉丝",
-				"tab_id":0,
 				"suit_item_id":114229501,
 				"properties":{
 					"fan_no_color":"#6FB5BD",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1684653477001,
 				"name":"泡澡鲨鲨",
-				"tab_id":0,
 				"suit_item_id":114229501,
 				"properties":{
 					"fan_no_color":"#6FB5BD",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1684653352001,
 				"name":"惬意鲨鲨",
-				"tab_id":0,
 				"suit_item_id":114229501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d445034169e78b35971ee557c64202137c503173.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"搓澡\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4a62f0b7630cd529cd946153a56616e6f379e7f.png\"},{\"name\":\"呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/871445198664e5cc2dedd9b2a2afcc7c0808c803.png\"},{\"name\":\"泡澡\",\"image\":\"https://i0.hdslb.com/bfs/garb/a876e2ffb3e0f75311c9dab2b5192cfa2b022a5e.png\"},{\"name\":\"敷面膜\",\"image\":\"https://i0.hdslb.com/bfs/garb/a83127763fb8d927c1e7ed92662254b845634735.png\"},{\"name\":\"达咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/420c1f4f941667f883532badd80b9c26ec59476a.png\"},{\"name\":\"超爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/96040995c51bfcbe940e7adf7a797cc09b4fac28.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/c42425afd1d4f16d84bec4cbf55d568d5aa037a5.png\"},{\"name\":\"追番\",\"image\":\"https://i0.hdslb.com/bfs/garb/20aef16eb45aa8a931cfda8dc6e5a931c555be55.png\"},{\"name\":\"哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/17af98a980c56bf83fdc86be4a09e117d5d02bf1.png\"},{\"name\":\"喝可乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/27ed6ff552282068fd57ad898b7a384867c9b225.png\"},{\"name\":\"看电影\",\"image\":\"https://i0.hdslb.com/bfs/garb/ee43e249d2c6e118db3eed48427f6df62a588102.png\"},{\"name\":\"泡香香\",\"image\":\"https://i0.hdslb.com/bfs/garb/110a7329be1da3a65cbdc47d3238761aa666f8f5.png\"},{\"name\":\"心中有树\",\"image\":\"https://i0.hdslb.com/bfs/garb/84153cf504dfb5a973cae18d189528ecd5c7fac1.png\"},{\"name\":\"喷\",\"image\":\"https://i0.hdslb.com/bfs/garb/855902f9c85460107b9bef444322d5d6b9e6ee17.png\"},{\"name\":\"笨\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7a8e5a528df78d0fa017ebcb25518144b8ee9e9.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_呆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/871445198664e5cc2dedd9b2a2afcc7c0808c803.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/17af98a980c56bf83fdc86be4a09e117d5d02bf1.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_喝可乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/27ed6ff552282068fd57ad898b7a384867c9b225.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_喷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/855902f9c85460107b9bef444322d5d6b9e6ee17.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_心中有树]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/84153cf504dfb5a973cae18d189528ecd5c7fac1.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_搓澡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c4a62f0b7630cd529cd946153a56616e6f379e7f.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_敷面膜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a83127763fb8d927c1e7ed92662254b845634735.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_泡澡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a876e2ffb3e0f75311c9dab2b5192cfa2b022a5e.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_泡香香]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/110a7329be1da3a65cbdc47d3238761aa666f8f5.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_看电影]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ee43e249d2c6e118db3eed48427f6df62a588102.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_笨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f7a8e5a528df78d0fa017ebcb25518144b8ee9e9.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_超爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/96040995c51bfcbe940e7adf7a797cc09b4fac28.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_达咩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/420c1f4f941667f883532badd80b9c26ec59476a.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_追番]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20aef16eb45aa8a931cfda8dc6e5a931c555be55.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[惬意鲨鲨_送花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c42425afd1d4f16d84bec4cbf55d568d5aa037a5.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1684653791001,
 				"name":"阿鲨爱洗澡",
-				"tab_id":0,
 				"suit_item_id":114229501,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1684653545001,
 				"name":"鲨鲨爱洗澡",
-				"tab_id":0,
 				"suit_item_id":114229501,
 				"properties":{
 					"fan_no_color":"#ffffff",

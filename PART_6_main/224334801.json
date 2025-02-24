@@ -35,7 +35,6 @@
 			{
 				"item_id":1725261661001,
 				"name":"加班吗喽",
-				"tab_id":0,
 				"suit_item_id":224334801,
 				"properties":{
 					"fan_no_color":"#C2B191",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1725261661002,
 				"name":"加班吗喽粉丝",
-				"tab_id":0,
 				"suit_item_id":224334801,
 				"properties":{
 					"fan_no_color":"#C2B191",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1725261682001,
 				"name":"加班吗喽",
-				"tab_id":0,
 				"suit_item_id":224334801,
 				"properties":{
 					"fan_no_color":"#C2B191",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1724988772001,
 				"name":"加班",
-				"tab_id":0,
 				"suit_item_id":224334801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/199df7b68d18721421cb7caa6bdffc3ced05ad27.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"下班喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/42f725243549ee5e0a1e08653d8e4118df0cce7a.png\"},{\"name\":\"我容易吗我\",\"image\":\"https://i0.hdslb.com/bfs/garb/710e399cce78bea019cd3ebd89f7453863d7c906.png\"},{\"name\":\"炫我嘴里\",\"image\":\"https://i0.hdslb.com/bfs/garb/ffae798c8c4e8e7e37e4a2ada6b9b717a1f6d7ca.png\"},{\"name\":\"被拿捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/24ffdb3dc66d20e3396c07ff4def7cb453e43e3f.png\"},{\"name\":\"送外卖\",\"image\":\"https://i0.hdslb.com/bfs/garb/c473e89b0bbdedd28d2986f329a7247d86d1c13d.png\"},{\"name\":\"过劳\",\"image\":\"https://i0.hdslb.com/bfs/garb/465c541dc1b7cfb1465810474ef1174e3281d91d.png\"},{\"name\":\"被迫自愿\",\"image\":\"https://i0.hdslb.com/bfs/garb/b179f364216d4817b0abcdad444dadfa4e02593c.png\"},{\"name\":\"又是我？\",\"image\":\"https://i0.hdslb.com/bfs/garb/864385a0bfb3e1462ae2477ebcece5f8d44fccdb.png\"},{\"name\":\"门口保安\",\"image\":\"https://i0.hdslb.com/bfs/garb/d32362295191393adca0927bab355eef9c9cd2fe.png\"},{\"name\":\"斯密吗喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/79ce3360df0d2cd9554113056fafc85b33e3844e.png\"},{\"name\":\"收到\",\"image\":\"https://i0.hdslb.com/bfs/garb/17ceca5603501c45d4055e57989d0f73c60723ed.png\"},{\"name\":\"来杯咖啡\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ebb63fb3b6b421a81bd35318760323cda92bcd3.png\"},{\"name\":\"我嘞个\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e627c00243c31d7e3cccc66992daecc7fe5fc24.png\"},{\"name\":\"快发工资\",\"image\":\"https://i0.hdslb.com/bfs/garb/f86d77038f5b161ecb5c2888ce91bdfa10860d17.png\"},{\"name\":\"打卡上班\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6956db5f91e225e3957e8f82266d38c37f8866c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_下班喽]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/42f725243549ee5e0a1e08653d8e4118df0cce7a.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_又是我？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/864385a0bfb3e1462ae2477ebcece5f8d44fccdb.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_快发工资]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f86d77038f5b161ecb5c2888ce91bdfa10860d17.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_我嘞个]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8e627c00243c31d7e3cccc66992daecc7fe5fc24.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_我容易吗我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/710e399cce78bea019cd3ebd89f7453863d7c906.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_打卡上班]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d6956db5f91e225e3957e8f82266d38c37f8866c.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_收到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/17ceca5603501c45d4055e57989d0f73c60723ed.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_斯密吗喽]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/79ce3360df0d2cd9554113056fafc85b33e3844e.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_来杯咖啡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3ebb63fb3b6b421a81bd35318760323cda92bcd3.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_炫我嘴里]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ffae798c8c4e8e7e37e4a2ada6b9b717a1f6d7ca.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_被拿捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/24ffdb3dc66d20e3396c07ff4def7cb453e43e3f.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_被迫自愿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b179f364216d4817b0abcdad444dadfa4e02593c.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_过劳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/465c541dc1b7cfb1465810474ef1174e3281d91d.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_送外卖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c473e89b0bbdedd28d2986f329a7247d86d1c13d.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[加班_门口保安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d32362295191393adca0927bab355eef9c9cd2fe.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1725262005001,
 				"name":"加班吗喽",
-				"tab_id":0,
 				"suit_item_id":224334801,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1725263512001,
 				"name":"加班吗喽",
-				"tab_id":0,
 				"suit_item_id":224334801,
 				"properties":{
 					"fan_no_color":"#ffffff",

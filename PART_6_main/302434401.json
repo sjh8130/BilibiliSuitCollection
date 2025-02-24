@@ -35,7 +35,6 @@
 			{
 				"item_id":1737688577001,
 				"name":"哪吒鸿运当头哪吒鸿运当头",
-				"tab_id":0,
 				"suit_item_id":302434401,
 				"properties":{
 					"fan_no_color":"#FFE79E",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1737688577002,
 				"name":"哪吒鸿运当头哪吒鸿运当头粉丝",
-				"tab_id":0,
 				"suit_item_id":302434401,
 				"properties":{
 					"fan_no_color":"#FFE79E",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1737688600001,
 				"name":"哪吒鸿运当头",
-				"tab_id":0,
 				"suit_item_id":302434401,
 				"properties":{
 					"fan_no_color":"#B65656",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1737688966001,
 				"name":"哪吒鸿运当头",
-				"tab_id":0,
 				"suit_item_id":302434401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e8fe2a9a50a782d12c40c90a406268c5bc4c8303.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"乾坤圈\",\"image\":\"https://i0.hdslb.com/bfs/garb/445c730500eaf81a678f31339a7b828ca30dd81b.png\"},{\"name\":\"叉腰\",\"image\":\"https://i0.hdslb.com/bfs/garb/18ea8a5492cddbb3a5d5c98c9935a96ecc4916e7.png\"},{\"name\":\"得意\",\"image\":\"https://i0.hdslb.com/bfs/garb/70fbf7ed24423b52b1fce17aebf2a32cf1df5d7d.png\"},{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/750d1d9096894b8bbaf35fad17fd0a4d703a1452.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/fafb0aabb1b772b8641bf81b94a88c1ade0dd6c1.png\"},{\"name\":\"摸摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/758851fed5ac4d33682e89698740330ec34d59f7.png\"},{\"name\":\"偷看\",\"image\":\"https://i0.hdslb.com/bfs/garb/d3540e4f4df92b85dffc01a3a69a98cb80f343db.png\"},{\"name\":\"流泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/ebec74caeb407b544616a81a961ec0701ee5e3f8.png\"},{\"name\":\"火尖枪\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad4a88f42a7010c7ff058f9c04fc538fead88def.png\"},{\"name\":\"混天绫\",\"image\":\"https://i0.hdslb.com/bfs/garb/6048ba77f7513d805426c9ba4ecf0d96355a3e08.png\"},{\"name\":\"看你\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2c08d8062036c7297ffc0a46835cb3185c0d517.png\"},{\"name\":\"风火轮\",\"image\":\"https://i0.hdslb.com/bfs/garb/6464c6ba57c416a369d678923adf988a2b00169f.png\"},{\"name\":\"手舞足蹈\",\"image\":\"https://i0.hdslb.com/bfs/garb/37c4728c029427a9eec78de59e6224080ba0be09.png\"},{\"name\":\"拖脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/54ea37c6e7d8ab2b5ac93cc5421b18258863009e.png\"},{\"name\":\"闭目养神\",\"image\":\"https://i0.hdslb.com/bfs/garb/42d3e986e7ae2f1e67618f1c9470337d3f7fcc5d.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,35 +99,7 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[哪吒鸿运当头_乾坤圈]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/445c730500eaf81a678f31339a7b828ca30dd81b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[哪吒鸿运当头_叉腰]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/18ea8a5492cddbb3a5d5c98c9935a96ecc4916e7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[哪吒鸿运当头_得意]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/70fbf7ed24423b52b1fce17aebf2a32cf1df5d7d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[哪吒鸿运当头_wink]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/750d1d9096894b8bbaf35fad17fd0a4d703a1452.png",
 							"sale_type":"pay"
@@ -140,26 +107,15 @@
 					},
 					{
 						"item_id":0,
-						"name":"[哪吒鸿运当头_喜欢]",
-						"tab_id":0,
+						"name":"[哪吒鸿运当头_乾坤圈]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fafb0aabb1b772b8641bf81b94a88c1ade0dd6c1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[哪吒鸿运当头_摸摸头]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/758851fed5ac4d33682e89698740330ec34d59f7.png",
+							"image":"https://i0.hdslb.com/bfs/garb/445c730500eaf81a678f31339a7b828ca30dd81b.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[哪吒鸿运当头_偷看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d3540e4f4df92b85dffc01a3a69a98cb80f343db.png",
 							"sale_type":"pay"
@@ -167,53 +123,31 @@
 					},
 					{
 						"item_id":0,
-						"name":"[哪吒鸿运当头_流泪]",
-						"tab_id":0,
+						"name":"[哪吒鸿运当头_叉腰]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ebec74caeb407b544616a81a961ec0701ee5e3f8.png",
+							"image":"https://i0.hdslb.com/bfs/garb/18ea8a5492cddbb3a5d5c98c9935a96ecc4916e7.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[哪吒鸿运当头_火尖枪]",
-						"tab_id":0,
+						"name":"[哪吒鸿运当头_喜欢]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ad4a88f42a7010c7ff058f9c04fc538fead88def.png",
+							"image":"https://i0.hdslb.com/bfs/garb/fafb0aabb1b772b8641bf81b94a88c1ade0dd6c1.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[哪吒鸿运当头_混天绫]",
-						"tab_id":0,
+						"name":"[哪吒鸿运当头_得意]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6048ba77f7513d805426c9ba4ecf0d96355a3e08.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[哪吒鸿运当头_看你]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d2c08d8062036c7297ffc0a46835cb3185c0d517.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[哪吒鸿运当头_风火轮]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6464c6ba57c416a369d678923adf988a2b00169f.png",
+							"image":"https://i0.hdslb.com/bfs/garb/70fbf7ed24423b52b1fce17aebf2a32cf1df5d7d.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[哪吒鸿运当头_手舞足蹈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/37c4728c029427a9eec78de59e6224080ba0be09.png",
 							"sale_type":"pay"
@@ -222,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[哪吒鸿运当头_拖脸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/54ea37c6e7d8ab2b5ac93cc5421b18258863009e.png",
 							"sale_type":"pay"
@@ -230,10 +163,57 @@
 					},
 					{
 						"item_id":0,
+						"name":"[哪吒鸿运当头_摸摸头]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/758851fed5ac4d33682e89698740330ec34d59f7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[哪吒鸿运当头_流泪]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ebec74caeb407b544616a81a961ec0701ee5e3f8.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[哪吒鸿运当头_混天绫]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6048ba77f7513d805426c9ba4ecf0d96355a3e08.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[哪吒鸿运当头_火尖枪]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ad4a88f42a7010c7ff058f9c04fc538fead88def.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[哪吒鸿运当头_看你]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d2c08d8062036c7297ffc0a46835cb3185c0d517.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[哪吒鸿运当头_闭目养神]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/42d3e986e7ae2f1e67618f1c9470337d3f7fcc5d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[哪吒鸿运当头_风火轮]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6464c6ba57c416a369d678923adf988a2b00169f.png",
 							"sale_type":"pay"
 						}
 					}
@@ -244,7 +224,6 @@
 			{
 				"item_id":1737689113001,
 				"name":"哪吒鸿运当头",
-				"tab_id":0,
 				"suit_item_id":302434401,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1737688793001,
 				"name":"哪吒鸿运当头",
-				"tab_id":0,
 				"suit_item_id":302434401,
 				"properties":{
 					"fan_no_color":"#ffffff",

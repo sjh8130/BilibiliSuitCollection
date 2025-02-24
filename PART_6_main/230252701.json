@@ -35,7 +35,6 @@
 			{
 				"item_id":1730105602001,
 				"name":"蕉蕉猴大冒险",
-				"tab_id":0,
 				"suit_item_id":230252701,
 				"properties":{
 					"fan_no_color":"#78563E",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1730105602002,
 				"name":"蕉蕉猴大冒险粉丝",
-				"tab_id":0,
 				"suit_item_id":230252701,
 				"properties":{
 					"fan_no_color":"#78563E",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1730105638001,
 				"name":"蕉蕉猴大冒险",
-				"tab_id":0,
 				"suit_item_id":230252701,
 				"properties":{
 					"fan_no_color":"#A06442",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1730104274001,
 				"name":"蕉蕉猴大冒险",
-				"tab_id":0,
 				"suit_item_id":230252701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/67304fe4b9c57feac53ecb9d8820f47ea3bafa8f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"向左看\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdce56def98ada56a1ddb664b88e858f69b3c919.png\"},{\"name\":\"呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a438fafcefdb0dce326acab19c1f1a0a6daa2ec.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3017be3360c87471888ff005a9a739c8becf3d3.png\"},{\"name\":\"我全都要\",\"image\":\"https://i0.hdslb.com/bfs/garb/9712a9bbde09b9f95cc09dde4ed8fd24b15f5e66.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/729e0869255b60e7011a73bbcc17881e39da358b.png\"},{\"name\":\"起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/0acb4769bc18f5c3936da24a36933ee61e3c5274.png\"},{\"name\":\"睡蕉\",\"image\":\"https://i0.hdslb.com/bfs/garb/833ebecd63e0af40fa0a46bff315160d9b4eb545.png\"},{\"name\":\"专注\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5d8e72cd2a2bd46015a0a67776daab813b24356.png\"},{\"name\":\"灵魂出窍\",\"image\":\"https://i0.hdslb.com/bfs/garb/de4a0029f8faf8505461bd3baf12118b452f8a39.png\"},{\"name\":\"蕉绿\",\"image\":\"https://i0.hdslb.com/bfs/garb/6adcbfaeb4b2395c8728a8f80b700c1fc7475270.png\"},{\"name\":\"酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd82d91896ebfb8158d71d13d6dc005cf7c255ca.png\"},{\"name\":\"挑衅\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0ae788f9e56ea73e0a7cd1bb36709ae58712a0b.png\"},{\"name\":\"单推\",\"image\":\"https://i0.hdslb.com/bfs/garb/1be8de9584f43febba4a9d0d9be0635e92e71809.png\"},{\"name\":\"蕉个朋友\",\"image\":\"https://i0.hdslb.com/bfs/garb/54a8a891606b0951a035884287e75a3fa117e57d.png\"},{\"name\":\"早上猴\",\"image\":\"https://i0.hdslb.com/bfs/garb/31b3d73a3986cb07b8cfb55c686c6af8d21f5791.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_专注]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a5d8e72cd2a2bd46015a0a67776daab813b24356.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_单推]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1be8de9584f43febba4a9d0d9be0635e92e71809.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_向左看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bdce56def98ada56a1ddb664b88e858f69b3c919.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_呆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5a438fafcefdb0dce326acab19c1f1a0a6daa2ec.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_委屈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/729e0869255b60e7011a73bbcc17881e39da358b.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e3017be3360c87471888ff005a9a739c8becf3d3.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_我全都要]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9712a9bbde09b9f95cc09dde4ed8fd24b15f5e66.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_挑衅]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c0ae788f9e56ea73e0a7cd1bb36709ae58712a0b.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_早上猴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/31b3d73a3986cb07b8cfb55c686c6af8d21f5791.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_灵魂出窍]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/de4a0029f8faf8505461bd3baf12118b452f8a39.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_睡蕉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/833ebecd63e0af40fa0a46bff315160d9b4eb545.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_蕉个朋友]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/54a8a891606b0951a035884287e75a3fa117e57d.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_蕉绿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6adcbfaeb4b2395c8728a8f80b700c1fc7475270.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_起飞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0acb4769bc18f5c3936da24a36933ee61e3c5274.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[蕉蕉猴大冒险_酷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bd82d91896ebfb8158d71d13d6dc005cf7c255ca.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1730107945001,
 				"name":"蕉蕉猴大冒险",
-				"tab_id":0,
 				"suit_item_id":230252701,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1730103630001,
 				"name":"蕉蕉猴大冒险",
-				"tab_id":0,
 				"suit_item_id":230252701,
 				"properties":{
 					"fan_no_color":"#ffffff",

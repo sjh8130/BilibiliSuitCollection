@@ -36,7 +36,6 @@
 			{
 				"item_id":1686107601001,
 				"name":"夏日萌宠",
-				"tab_id":0,
 				"suit_item_id":115856301,
 				"properties":{
 					"fan_no_color":"#4F7BC7",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1686107601002,
 				"name":"夏日萌宠粉丝",
-				"tab_id":0,
 				"suit_item_id":115856301,
 				"properties":{
 					"fan_no_color":"#4F7BC7",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1686108460001,
 				"name":"夏日萌宠",
-				"tab_id":0,
 				"suit_item_id":115856301,
 				"properties":{
 					"fan_no_color":"#467EAC",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1686107636001,
 				"name":"夏日萌宠",
-				"tab_id":0,
 				"suit_item_id":115856301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/eee6d265f8090026a5e6a66488bb0ce1fdb71d92.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"冷\",\"image\":\"https://i0.hdslb.com/bfs/garb/adcffb0daccd023dbfaf68213789c860517d04e7.png\"},{\"name\":\"给你\",\"image\":\"https://i0.hdslb.com/bfs/garb/0bc86fea5b45114b63b58abed8f40b5ad690ae24.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/9cae84a90c6c863697c8b391293124bfe7a14b1a.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/640d5ef22e91238f732aa7bc6ee462aaed3f973e.png\"},{\"name\":\"自闭\",\"image\":\"https://i0.hdslb.com/bfs/garb/45093303b077a41378bd8b3c1d94aa3bc1bfce2a.png\"},{\"name\":\"哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/2fc3a0b223d13d9fbeefa988bcccd69d1fcf4051.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3791fbb0ad2f75a589e34802c538463129ebf8c.png\"},{\"name\":\"求求了\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac5e36999b510da3f76b7e4b76b0ce7435a98c5b.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/167287f70fbc2247318235c485e3612b360521b0.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/e2e56009d1ab1c03a9f00275c53bb865039229a5.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9f63f1194751d94ba2d6c2b51bea771c122a15f.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ca2c177bc2360e94cfed2a42094446d541b706a.png\"},{\"name\":\"嗯嗯\",\"image\":\"https://i0.hdslb.com/bfs/garb/84daf666bc4dae68cc220f39d5da21878e6a2cba.png\"},{\"name\":\"Hi\",\"image\":\"https://i0.hdslb.com/bfs/garb/d4f1d7152c96beb5921712addfa27c4b74e8d20d.png\"},{\"name\":\"咬你\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce104dc554cd88724c39625a43902198d7291bbe.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_Hi]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d4f1d7152c96beb5921712addfa27c4b74e8d20d.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_冷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/adcffb0daccd023dbfaf68213789c860517d04e7.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9cae84a90c6c863697c8b391293124bfe7a14b1a.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_咬你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce104dc554cd88724c39625a43902198d7291bbe.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_哈哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2fc3a0b223d13d9fbeefa988bcccd69d1fcf4051.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_嗯嗯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/84daf666bc4dae68cc220f39d5da21878e6a2cba.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e2e56009d1ab1c03a9f00275c53bb865039229a5.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8ca2c177bc2360e94cfed2a42094446d541b706a.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_求求了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ac5e36999b510da3f76b7e4b76b0ce7435a98c5b.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/167287f70fbc2247318235c485e3612b360521b0.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_盯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f3791fbb0ad2f75a589e34802c538463129ebf8c.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_给你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0bc86fea5b45114b63b58abed8f40b5ad690ae24.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_自闭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/45093303b077a41378bd8b3c1d94aa3bc1bfce2a.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b9f63f1194751d94ba2d6c2b51bea771c122a15f.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[夏日萌宠_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/640d5ef22e91238f732aa7bc6ee462aaed3f973e.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1686108396001,
 				"name":"夏日萌宠",
-				"tab_id":0,
 				"suit_item_id":115856301,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1686107726001,
 				"name":"夏日萌宠",
-				"tab_id":0,
 				"suit_item_id":115856301,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1685538762001,
 				"name":"机械之心",
-				"tab_id":0,
 				"suit_item_id":115451801,
 				"properties":{
 					"fan_no_color":"#4D45F5",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1685538762002,
 				"name":"机械之心粉丝",
-				"tab_id":0,
 				"suit_item_id":115451801,
 				"properties":{
 					"fan_no_color":"#4D45F5",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1685538779001,
 				"name":"机械之心",
-				"tab_id":0,
 				"suit_item_id":115451801,
 				"properties":{
 					"fan_no_color":"#4D45F5",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1685538842001,
 				"name":"机械之心",
-				"tab_id":0,
 				"suit_item_id":115451801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/282874b395270659b593e5f541b02cb1a269e988.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/14591c473303810649dda49a225479fd378492ae.png\"},{\"name\":\"棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/d14625d48feffe3f032b0211a74ce59991083d9f.png\"},{\"name\":\"大叫\",\"image\":\"https://i0.hdslb.com/bfs/garb/4054f6cc0306355368badce53f999d4a0d68a187.png\"},{\"name\":\"呃\",\"image\":\"https://i0.hdslb.com/bfs/garb/902b219c5481de713ffbaa35ebb78eec689e9c5b.png\"},{\"name\":\"放松\",\"image\":\"https://i0.hdslb.com/bfs/garb/53f5fc3aeb6ef360452b6f1bc42aaa9fd3197665.png\"},{\"name\":\"祈祷\",\"image\":\"https://i0.hdslb.com/bfs/garb/99c6534858b1d4bdaaa6ca5ae9639d2639392f9a.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/1434560fe15f225e89546084f96d934019e494d1.png\"},{\"name\":\"瞄\",\"image\":\"https://i0.hdslb.com/bfs/garb/e89448e93ca31ac31f1e02bb1539c8a44b305be2.png\"},{\"name\":\"可恶\",\"image\":\"https://i0.hdslb.com/bfs/garb/a41ee6df4e87e7e08ccc6951f1851c4a324748b0.png\"},{\"name\":\"拳头\",\"image\":\"https://i0.hdslb.com/bfs/garb/09daabd5a60026c8c91c6d1203e91ff31b6e4147.png\"},{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c9a6c63a927ae736e6ae84d8156fcbca81c385c.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/610b1775194efe928ac547e8c9b2feeccc3f280a.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/d051cd22c030e676e62222aee29f8267ba6423d8.png\"},{\"name\":\"晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/b23f50cc410c7639c2102e3fd5ff40424b574545.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a87a27ac38c8c84de63d8a5e1b4e7f953128d72b.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_可恶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a41ee6df4e87e7e08ccc6951f1851c4a324748b0.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_呃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/902b219c5481de713ffbaa35ebb78eec689e9c5b.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1434560fe15f225e89546084f96d934019e494d1.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/14591c473303810649dda49a225479fd378492ae.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/610b1775194efe928ac547e8c9b2feeccc3f280a.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_大叫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4054f6cc0306355368badce53f999d4a0d68a187.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_微笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0c9a6c63a927ae736e6ae84d8156fcbca81c385c.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_拳头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/09daabd5a60026c8c91c6d1203e91ff31b6e4147.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_放松]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/53f5fc3aeb6ef360452b6f1bc42aaa9fd3197665.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_晕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b23f50cc410c7639c2102e3fd5ff40424b574545.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d14625d48feffe3f032b0211a74ce59991083d9f.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d051cd22c030e676e62222aee29f8267ba6423d8.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_瞄]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e89448e93ca31ac31f1e02bb1539c8a44b305be2.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_祈祷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/99c6534858b1d4bdaaa6ca5ae9639d2639392f9a.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[机械之心_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a87a27ac38c8c84de63d8a5e1b4e7f953128d72b.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1685538991001,
 				"name":"机械之心",
-				"tab_id":0,
 				"suit_item_id":115451801,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1685538796001,
 				"name":"机械之心",
-				"tab_id":0,
 				"suit_item_id":115451801,
 				"properties":{
 					"fan_no_color":"#ffffff",

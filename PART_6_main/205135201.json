@@ -35,7 +35,6 @@
 			{
 				"item_id":1708337723001,
 				"name":"小粉龙",
-				"tab_id":0,
 				"suit_item_id":205135201,
 				"properties":{
 					"fan_no_color":"#C675FC",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1708337723002,
 				"name":"小粉龙粉丝",
-				"tab_id":0,
 				"suit_item_id":205135201,
 				"properties":{
 					"fan_no_color":"#C675FC",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1708337741001,
 				"name":"小粉龙",
-				"tab_id":0,
 				"suit_item_id":205135201,
 				"properties":{
 					"fan_no_color":"#DE7AFC",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1708335437001,
 				"name":"小粉龙",
-				"tab_id":0,
 				"suit_item_id":205135201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5313064855f35ccad22d4039c3f99dc7ac43c68a.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"啊！\",\"image\":\"https://i0.hdslb.com/bfs/garb/304fe20456d49301e5997cb8e461c81fc43016ba.png\"},{\"name\":\"嗯！\",\"image\":\"https://i0.hdslb.com/bfs/garb/54070c3ed549f87094370e5b253b18e393ce7bf3.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/7108b50868484f70c7fe3d2bb7b27e52001c98a7.png\"},{\"name\":\"察觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/8bc4050b691e10c6ea25b8c54209f7ad37093a24.png\"},{\"name\":\"欸嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/56e1cc4000e63324a28c8004a092e7c939b4474b.png\"},{\"name\":\"探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/6153dd86eed1e10e8a47a08792a43b5559a9cb70.png\"},{\"name\":\"探身\",\"image\":\"https://i0.hdslb.com/bfs/garb/09dd31089969e66b2098651105dba798fb5148ac.png\"},{\"name\":\"尾巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca7073d0d847ca9fb2416882858b6ae466ed3e2e.png\"},{\"name\":\"下蛋\",\"image\":\"https://i0.hdslb.com/bfs/garb/e288d3df4cd6e5e8c0d9b69b666b1181943885a0.png\"},{\"name\":\"福\",\"image\":\"https://i0.hdslb.com/bfs/garb/0121defe7b8ee80831fdbe53bffeecbad18930ee.png\"},{\"name\":\"元宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c4fecce6c40097e4713fab5ad3a65cc379bf88d.png\"},{\"name\":\"work\",\"image\":\"https://i0.hdslb.com/bfs/garb/c14817b45ab9427de0b36548ac16fd5c9d42c41f.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a29898531098dede5de96af0cf6ce1e37bad2dc.png\"},{\"name\":\"收藏\",\"image\":\"https://i0.hdslb.com/bfs/garb/3bb0238d2ae21577141dc583a522c3ec0ce896b9.png\"},{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/2192457a69f9997a6c72b7b88b4355a465f3b151.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_work]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c14817b45ab9427de0b36548ac16fd5c9d42c41f.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_下蛋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e288d3df4cd6e5e8c0d9b69b666b1181943885a0.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_元宝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0c4fecce6c40097e4713fab5ad3a65cc379bf88d.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_啊！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/304fe20456d49301e5997cb8e461c81fc43016ba.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_嗯！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/54070c3ed549f87094370e5b253b18e393ce7bf3.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_察觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8bc4050b691e10c6ea25b8c54209f7ad37093a24.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_尾巴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ca7073d0d847ca9fb2416882858b6ae466ed3e2e.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_思考]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7108b50868484f70c7fe3d2bb7b27e52001c98a7.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_投币]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2192457a69f9997a6c72b7b88b4355a465f3b151.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_探头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6153dd86eed1e10e8a47a08792a43b5559a9cb70.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_探身]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/09dd31089969e66b2098651105dba798fb5148ac.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_收藏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3bb0238d2ae21577141dc583a522c3ec0ce896b9.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_欸嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/56e1cc4000e63324a28c8004a092e7c939b4474b.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a29898531098dede5de96af0cf6ce1e37bad2dc.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[小粉龙_福]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0121defe7b8ee80831fdbe53bffeecbad18930ee.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1708337892001,
 				"name":"小粉龙",
-				"tab_id":0,
 				"suit_item_id":205135201,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1708337763001,
 				"name":"小粉龙",
-				"tab_id":0,
 				"suit_item_id":205135201,
 				"properties":{
 					"fan_no_color":"#ffffff",

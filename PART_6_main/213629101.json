@@ -35,7 +35,6 @@
 			{
 				"item_id":1715659108001,
 				"name":"手势大全",
-				"tab_id":0,
 				"suit_item_id":213629101,
 				"properties":{
 					"fan_no_color":"#DD4F4F",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1715670886001,
 				"name":"手势大全粉丝",
-				"tab_id":0,
 				"suit_item_id":213629101,
 				"properties":{
 					"fan_no_color":"#DD4F4F",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1715666632001,
 				"name":"手势大全",
-				"tab_id":0,
 				"suit_item_id":213629101,
 				"properties":{
 					"fan_no_color":"#DF6868",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1715667693001,
 				"name":"手势大全",
-				"tab_id":0,
 				"suit_item_id":213629101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f119a88d1640c13e2f2d865f294116817f98e4eb.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"拿来\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e478d2e3fef5f8728e67a40d2d4fe3012c98377.png\"},{\"name\":\"好嘛儿\",\"image\":\"https://i0.hdslb.com/bfs/garb/609d116519051a96f37766775c7cc5a33a687f70.png\"},{\"name\":\"太6了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c123d35191f14bdf8410a2585c4fbaabcdc112a7.png\"},{\"name\":\"举起\",\"image\":\"https://i0.hdslb.com/bfs/garb/a6ea2483ab8639b46a6f04314d381f98754d5981.png\"},{\"name\":\"给你剪掉\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e562915841ef69fabe5370466a827beaa868144.png\"},{\"name\":\"444\",\"image\":\"https://i0.hdslb.com/bfs/garb/9cc7873a73f46b60eeec00232b9b708dd8cc78e3.png\"},{\"name\":\"666\",\"image\":\"https://i0.hdslb.com/bfs/garb/20433b31aafd9db071b1f6cc41052858f2710352.png\"},{\"name\":\"很\",\"image\":\"https://i0.hdslb.com/bfs/garb/86f972b69114413795461cb982dba937cd28bb59.png\"},{\"name\":\"棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/38cffadd9ac7eb847ec5c28b13081fd429794c8a.png\"},{\"name\":\"为你鼓掌\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1a8cb6bce042b0567b3401c04e1c9962a699d56.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0d8e34827d664ea8c7afff0b824a165617edb08.png\"},{\"name\":\"发4\",\"image\":\"https://i0.hdslb.com/bfs/garb/e835579cd4adaed5a5eb650094804e03fba260ad.png\"},{\"name\":\"无敌\",\"image\":\"https://i0.hdslb.com/bfs/garb/616f9990cc353e91960a258c82d895a1f9d0ff84.png\"},{\"name\":\"快跑\",\"image\":\"https://i0.hdslb.com/bfs/garb/a376551dbc6a7476cc969596a5b92ce56533d15a.png\"},{\"name\":\"gun\",\"image\":\"https://i0.hdslb.com/bfs/garb/7de6387ad584671a6de01af0078c8bd4310eca88.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_444]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9cc7873a73f46b60eeec00232b9b708dd8cc78e3.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_666]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20433b31aafd9db071b1f6cc41052858f2710352.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_gun]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7de6387ad584671a6de01af0078c8bd4310eca88.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_为你鼓掌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a1a8cb6bce042b0567b3401c04e1c9962a699d56.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_举起]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a6ea2483ab8639b46a6f04314d381f98754d5981.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_发4]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e835579cd4adaed5a5eb650094804e03fba260ad.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_太6了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c123d35191f14bdf8410a2585c4fbaabcdc112a7.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_好嘛儿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/609d116519051a96f37766775c7cc5a33a687f70.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_很]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/86f972b69114413795461cb982dba937cd28bb59.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_快跑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a376551dbc6a7476cc969596a5b92ce56533d15a.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_拿来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4e478d2e3fef5f8728e67a40d2d4fe3012c98377.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_无敌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/616f9990cc353e91960a258c82d895a1f9d0ff84.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/38cffadd9ac7eb847ec5c28b13081fd429794c8a.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c0d8e34827d664ea8c7afff0b824a165617edb08.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[手势大全_给你剪掉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5e562915841ef69fabe5370466a827beaa868144.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1715671116001,
 				"name":"手势大全",
-				"tab_id":0,
 				"suit_item_id":213629101,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1715671239001,
 				"name":"手势大全",
-				"tab_id":0,
 				"suit_item_id":213629101,
 				"properties":{
 					"fan_no_color":"#ffffff",

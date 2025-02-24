@@ -36,7 +36,6 @@
 			{
 				"item_id":1715334355001,
 				"name":"旋转小羊",
-				"tab_id":0,
 				"suit_item_id":213153701,
 				"properties":{
 					"fan_no_color":"#FCB4C1",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1715334355002,
 				"name":"旋转小羊粉丝",
-				"tab_id":0,
 				"suit_item_id":213153701,
 				"properties":{
 					"fan_no_color":"#FCB4C1",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1715334203001,
 				"name":"旋转小羊",
-				"tab_id":0,
 				"suit_item_id":213153701,
 				"properties":{
 					"fan_no_color":"#B4D9FC",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1715334307001,
 				"name":"旋转小羊",
-				"tab_id":0,
 				"suit_item_id":213153701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9c4e6aec34cb3f03c202dda837c6c7702fdcc364.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a752f32df307c7c8f84583a5483087bd7989629.png\"},{\"name\":\"飞扑小羊\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc648716c57cc674ed2efca74dffaf569092855f.png\"},{\"name\":\"打伞\",\"image\":\"https://i0.hdslb.com/bfs/garb/d23ea15213dfdce5b682962e251179f3adf557ab.png\"},{\"name\":\"旋转小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/116ffd021e1b5cb8483683a33ba2e5731a5d6e4d.png\"},{\"name\":\"削苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/64f4e37e0178e58775e2357fc459fc28ad8ada8c.png\"},{\"name\":\"抱苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc194cfaf2e57cb1d31fe4a66c739b947d93dd9c.png\"},{\"name\":\"扑\",\"image\":\"https://i0.hdslb.com/bfs/garb/c810ff9989f47edb73e34fe3bb530abbd6affca3.png\"},{\"name\":\"旋转小兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c4193d1edabe2c0e62c200d0ee784d1e4f4d268.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b9119cba39a876ba6306c7b9e7b215baecf6210.png\"},{\"name\":\"苹果皮中间\",\"image\":\"https://i0.hdslb.com/bfs/garb/b575402529841a185a60ed5a3769c841fd44e9e5.png\"},{\"name\":\"天使小羊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a72b84c7bad0a73e373b3d5a623cad02210d8e33.png\"},{\"name\":\"天使小兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b4cfbd3ed073219a38ec9dde87968ed090bca60.png\"},{\"name\":\"挤奶油\",\"image\":\"https://i0.hdslb.com/bfs/garb/a859006bb1b7eff02807844ea49a22354a327254.png\"},{\"name\":\"奶油蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5f0d82bbd8a9d8de5a48afb94bf7abdcd8941ba.png\"},{\"name\":\"苹果皮底部\",\"image\":\"https://i0.hdslb.com/bfs/garb/f206330e72566fc0c5bbc1eb394277af74a9786e.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_削苹果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/64f4e37e0178e58775e2357fc459fc28ad8ada8c.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0a752f32df307c7c8f84583a5483087bd7989629.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_天使小兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1b4cfbd3ed073219a38ec9dde87968ed090bca60.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_天使小羊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a72b84c7bad0a73e373b3d5a623cad02210d8e33.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_奶油蛋糕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b5f0d82bbd8a9d8de5a48afb94bf7abdcd8941ba.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_扑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c810ff9989f47edb73e34fe3bb530abbd6affca3.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_打伞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d23ea15213dfdce5b682962e251179f3adf557ab.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_抱苹果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cc194cfaf2e57cb1d31fe4a66c739b947d93dd9c.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_挤奶油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a859006bb1b7eff02807844ea49a22354a327254.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_旋转小兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c4193d1edabe2c0e62c200d0ee784d1e4f4d268.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_旋转小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/116ffd021e1b5cb8483683a33ba2e5731a5d6e4d.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_苹果皮中间]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b575402529841a185a60ed5a3769c841fd44e9e5.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_苹果皮底部]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f206330e72566fc0c5bbc1eb394277af74a9786e.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_送花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7b9119cba39a876ba6306c7b9e7b215baecf6210.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[旋转小羊_飞扑小羊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dc648716c57cc674ed2efca74dffaf569092855f.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1715334767001,
 				"name":"旋转小羊",
-				"tab_id":0,
 				"suit_item_id":213153701,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1715334221001,
 				"name":"旋转小羊",
-				"tab_id":0,
 				"suit_item_id":213153701,
 				"properties":{
 					"fan_no_color":"#ffffff",

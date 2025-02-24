@@ -35,7 +35,6 @@
 			{
 				"item_id":1725265174001,
 				"name":"好运豹豹 白兰装扮10",
-				"tab_id":0,
 				"suit_item_id":224648701,
 				"properties":{
 					"fan_no_color":"#FF9900",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1725265174002,
 				"name":"好运豹豹 白兰装扮10粉丝",
-				"tab_id":0,
 				"suit_item_id":224648701,
 				"properties":{
 					"fan_no_color":"#FF9900",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1725172348001,
 				"name":"好运豹豹 白兰装扮10",
-				"tab_id":0,
 				"suit_item_id":224648701,
 				"properties":{
 					"fan_no_color":"#FF9900",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1725264297001,
 				"name":"好运豹豹 白兰装扮10",
-				"tab_id":0,
 				"suit_item_id":224648701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/af8f08bb3347f9ad2df2807db972dba1ca108670.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"零冲\",\"image\":\"https://i0.hdslb.com/bfs/garb/086ac44bbcae323ccd861df77cd6a95a0a59373c.png\"},{\"name\":\"零氪\",\"image\":\"https://i0.hdslb.com/bfs/garb/9468149af391ff75a197eee1b0923863f00c0017.png\"},{\"name\":\"晒一会\",\"image\":\"https://i0.hdslb.com/bfs/garb/cbf8a69d6706e8b557f355c0fa09b3cc915a3671.png\"},{\"name\":\"万一呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7dbc3848153e8a05fed4acb76cdee3247bf5a1f.png\"},{\"name\":\"没机会\",\"image\":\"https://i0.hdslb.com/bfs/garb/71d8d10f95ad427179def9d30dc029aef80877cb.png\"},{\"name\":\"黑豹\",\"image\":\"https://i0.hdslb.com/bfs/garb/b14e400a2d13ecbf42ed7862896c414245a12840.png\"},{\"name\":\"中奖\",\"image\":\"https://i0.hdslb.com/bfs/garb/7123fc10a13cd86b1b13b300393f93bc7d0b99a2.png\"},{\"name\":\"玄学研究\",\"image\":\"https://i0.hdslb.com/bfs/garb/3eef1161c6bf432ec9a2098e63eb3f7772c8834d.png\"},{\"name\":\"下次一定\",\"image\":\"https://i0.hdslb.com/bfs/garb/976c98d87cc72473f80425f9a7df5d31f071b190.png\"},{\"name\":\"欧气汲取\",\"image\":\"https://i0.hdslb.com/bfs/garb/6f790689b187461ff07b2202b47116ab3840528c.png\"},{\"name\":\"欧皇附体\",\"image\":\"https://i0.hdslb.com/bfs/garb/fb22d84ac43e5039d1fc7a72b677f6179be432c5.png\"},{\"name\":\"抽我\",\"image\":\"https://i0.hdslb.com/bfs/garb/146027cc64a95a8df46e551f3645e29e4de72800.png\"},{\"name\":\"许愿\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb2ec7f8e804d7f3d770b860cdcda6fcc159c9c0.png\"},{\"name\":\"求黑箱\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef6ef6a49504a78bc712532a4271c17db0da8e27.png\"},{\"name\":\"攒RP\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb9e40c7cc180c86acc86337cc1367ff401ee29d.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_万一呢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b7dbc3848153e8a05fed4acb76cdee3247bf5a1f.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_下次一定]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/976c98d87cc72473f80425f9a7df5d31f071b190.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_中奖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7123fc10a13cd86b1b13b300393f93bc7d0b99a2.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_抽我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/146027cc64a95a8df46e551f3645e29e4de72800.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_攒RP]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cb9e40c7cc180c86acc86337cc1367ff401ee29d.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_晒一会]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cbf8a69d6706e8b557f355c0fa09b3cc915a3671.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_欧气汲取]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6f790689b187461ff07b2202b47116ab3840528c.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_欧皇附体]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fb22d84ac43e5039d1fc7a72b677f6179be432c5.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_求黑箱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ef6ef6a49504a78bc712532a4271c17db0da8e27.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_没机会]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/71d8d10f95ad427179def9d30dc029aef80877cb.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_玄学研究]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3eef1161c6bf432ec9a2098e63eb3f7772c8834d.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_许愿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bb2ec7f8e804d7f3d770b860cdcda6fcc159c9c0.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_零冲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/086ac44bbcae323ccd861df77cd6a95a0a59373c.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_零氪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9468149af391ff75a197eee1b0923863f00c0017.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[好运豹豹 白兰装扮10_黑豹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b14e400a2d13ecbf42ed7862896c414245a12840.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1725266760001,
 				"name":"好运豹豹 白兰装扮010",
-				"tab_id":0,
 				"suit_item_id":224648701,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1725265870001,
 				"name":"好运豹豹 白兰装扮10",
-				"tab_id":0,
 				"suit_item_id":224648701,
 				"properties":{
 					"fan_no_color":"#ffffff",

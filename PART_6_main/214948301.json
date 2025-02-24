@@ -35,7 +35,6 @@
 			{
 				"item_id":1716794134001,
 				"name":"懒羊羊的日常",
-				"tab_id":0,
 				"suit_item_id":214948301,
 				"properties":{
 					"fan_no_color":"#829947",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1716794134002,
 				"name":"懒羊羊的日常粉丝",
-				"tab_id":0,
 				"suit_item_id":214948301,
 				"properties":{
 					"fan_no_color":"#829947",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1716794168001,
 				"name":"懒羊羊呆住",
-				"tab_id":0,
 				"suit_item_id":214948301,
 				"properties":{
 					"fan_no_color":"#829947",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1716793559001,
 				"name":"萌萌懒羊羊",
-				"tab_id":0,
 				"suit_item_id":214948301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/131a947d4f178f5a6ce92d267b9637917a646bf5.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"调皮\",\"image\":\"https://i0.hdslb.com/bfs/garb/06dad84b08a0a054a5d573ac8f113e11b16a01e2.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/2cb3500081f35393244ab0db47d92e66be4702ec.png\"},{\"name\":\"呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/7999a0ae1c9d3adaa0d516994d1dcdbb88c86b61.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/83c1f9f23b3a232a7270e743d6a501cba62e896a.png\"},{\"name\":\"馋馋\",\"image\":\"https://i0.hdslb.com/bfs/garb/794c2fcf54e4a09cd95e6171bbb72d6d28768114.png\"},{\"name\":\"拜拜\",\"image\":\"https://i0.hdslb.com/bfs/garb/98b5c0f619166de64c9548bf5a74cb7ffe68d9eb.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/bac9cf5a135786afc797e396c5b3f93738cf5112.png\"},{\"name\":\"困了\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc8493a2819bbdf0de2c33e8a864f24e1a5dd191.png\"},{\"name\":\"喝饮料\",\"image\":\"https://i0.hdslb.com/bfs/garb/d80ec896eb856c8ac5ed7ec0e3438370918e9248.png\"},{\"name\":\"气\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a309fd84de46832e2f48be78d8577aae49e466a.png\"},{\"name\":\"我是狼\",\"image\":\"https://i0.hdslb.com/bfs/garb/7818ae54d81032806211cded82355fce635e1d89.png\"},{\"name\":\"我是羊\",\"image\":\"https://i0.hdslb.com/bfs/garb/6675687d0982126bb784db59e2859b87974432ed.png\"},{\"name\":\"学习\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2cd66d35194559a481f2646ba7cfb1576a37e38.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/00525a9b3cb346476211a99bd38019bc4185b572.png\"},{\"name\":\"敲键盘\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ba6ad3eaea008519f573f2640651c15d8e130e1.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_呆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7999a0ae1c9d3adaa0d516994d1dcdbb88c86b61.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2cb3500081f35393244ab0db47d92e66be4702ec.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_啊？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/00525a9b3cb346476211a99bd38019bc4185b572.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_喝饮料]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d80ec896eb856c8ac5ed7ec0e3438370918e9248.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_困了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cc8493a2819bbdf0de2c33e8a864f24e1a5dd191.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_委屈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bac9cf5a135786afc797e396c5b3f93738cf5112.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_学习]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a2cd66d35194559a481f2646ba7cfb1576a37e38.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/83c1f9f23b3a232a7270e743d6a501cba62e896a.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_我是狼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7818ae54d81032806211cded82355fce635e1d89.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_我是羊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6675687d0982126bb784db59e2859b87974432ed.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_拜拜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/98b5c0f619166de64c9548bf5a74cb7ffe68d9eb.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_敲键盘]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7ba6ad3eaea008519f573f2640651c15d8e130e1.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0a309fd84de46832e2f48be78d8577aae49e466a.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_调皮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/06dad84b08a0a054a5d573ac8f113e11b16a01e2.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[萌萌懒羊羊_馋馋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/794c2fcf54e4a09cd95e6171bbb72d6d28768114.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1716862736001,
 				"name":"开心懒羊羊",
-				"tab_id":0,
 				"suit_item_id":214948301,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1716794052001,
 				"name":"睡觉懒羊羊",
-				"tab_id":0,
 				"suit_item_id":214948301,
 				"properties":{
 					"fan_no_color":"#ffffff",

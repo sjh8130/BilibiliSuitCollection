@@ -35,7 +35,6 @@
 			{
 				"item_id":1719563634001,
 				"name":"兔兔包食物语",
-				"tab_id":0,
 				"suit_item_id":218051701,
 				"properties":{
 					"fan_no_color":"#E9915D",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1719563634002,
 				"name":"兔兔包食物语粉丝",
-				"tab_id":0,
 				"suit_item_id":218051701,
 				"properties":{
 					"fan_no_color":"#E9915D",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1719563672001,
 				"name":"兔兔包食物语",
-				"tab_id":0,
 				"suit_item_id":218051701,
 				"properties":{
 					"fan_no_color":"#E9915D",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1719390095001,
 				"name":"兔兔包食物语",
-				"tab_id":0,
 				"suit_item_id":218051701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7c3348eb7defcad8452d17521f8754d88eda7135.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"上菜\",\"image\":\"https://i0.hdslb.com/bfs/garb/b03a93d2dd3905f3880d2254460913121bbf55fc.png\"},{\"name\":\"冒饭了\",\"image\":\"https://i0.hdslb.com/bfs/garb/26877a091119b155ab008003896abf142755e58f.png\"},{\"name\":\"栓栓的\",\"image\":\"https://i0.hdslb.com/bfs/garb/20ea8574049cc9c95e62a1ddb895718f6fc3d29d.png\"},{\"name\":\"倒面\",\"image\":\"https://i0.hdslb.com/bfs/garb/75344fb7bd7a8b97ea823b5e273a5f96caaf5ad4.png\"},{\"name\":\"露馅\",\"image\":\"https://i0.hdslb.com/bfs/garb/be87c35036a407758c482ea41bbcfd676f5717b0.png\"},{\"name\":\"虾\",\"image\":\"https://i0.hdslb.com/bfs/garb/64595c37857d2ebf206e2c003db6d9a35ccc8240.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/509bdd8cefeb916fe62870ee29f5e6719ac56688.png\"},{\"name\":\"油饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/e545d25360358d3a0ee2d68c867adcaf3c7646d1.png\"},{\"name\":\"面\",\"image\":\"https://i0.hdslb.com/bfs/garb/34c825a82ba5d81154f5338fe606c9d7ad73967d.png\"},{\"name\":\"悄悄\",\"image\":\"https://i0.hdslb.com/bfs/garb/49f5326f15c94d2a2cce89b128bf670fb0331440.png\"},{\"name\":\"饿饿\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d4e1dc05eebe9c540e5ca2a7a979a67c0b04762.png\"},{\"name\":\"食蒸的\",\"image\":\"https://i0.hdslb.com/bfs/garb/59ae9337eff3908bd4bec9aba84328c03faba71d.png\"},{\"name\":\"冷静\",\"image\":\"https://i0.hdslb.com/bfs/garb/f73701d303f9fe96aacac1202fd7463f5f603c3d.png\"},{\"name\":\"吃面\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b65125e5d035561df2155f477cbae3c91ccc09c.png\"},{\"name\":\"不妙\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ca36f329caac505555e613b87b661753dae49bc.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_上菜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b03a93d2dd3905f3880d2254460913121bbf55fc.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_不妙]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ca36f329caac505555e613b87b661753dae49bc.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_倒面]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/75344fb7bd7a8b97ea823b5e273a5f96caaf5ad4.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_冒饭了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/26877a091119b155ab008003896abf142755e58f.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_冷静]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f73701d303f9fe96aacac1202fd7463f5f603c3d.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_吃面]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7b65125e5d035561df2155f477cbae3c91ccc09c.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_悄悄]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/49f5326f15c94d2a2cce89b128bf670fb0331440.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_栓栓的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20ea8574049cc9c95e62a1ddb895718f6fc3d29d.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_油饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e545d25360358d3a0ee2d68c867adcaf3c7646d1.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/509bdd8cefeb916fe62870ee29f5e6719ac56688.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_虾]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/64595c37857d2ebf206e2c003db6d9a35ccc8240.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_露馅]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/be87c35036a407758c482ea41bbcfd676f5717b0.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_面]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/34c825a82ba5d81154f5338fe606c9d7ad73967d.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_食蒸的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/59ae9337eff3908bd4bec9aba84328c03faba71d.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔包食物语_饿饿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d4e1dc05eebe9c540e5ca2a7a979a67c0b04762.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1719563887001,
 				"name":"兔兔包食物语",
-				"tab_id":0,
 				"suit_item_id":218051701,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1719547692001,
 				"name":"兔兔包食物语",
-				"tab_id":0,
 				"suit_item_id":218051701,
 				"properties":{
 					"fan_no_color":"#ffffff",

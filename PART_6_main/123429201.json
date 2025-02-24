@@ -35,7 +35,6 @@
 			{
 				"item_id":1692597663001,
 				"name":"饼饼猫饼",
-				"tab_id":0,
 				"suit_item_id":123429201,
 				"properties":{
 					"fan_no_color":"#C29355",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1692598731001,
 				"name":"饼饼猫饼粉丝",
-				"tab_id":0,
 				"suit_item_id":123429201,
 				"properties":{
 					"fan_no_color":"#C29355",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1692597831001,
 				"name":"饼饼深井饼",
-				"tab_id":0,
 				"suit_item_id":123429201,
 				"properties":{
 					"fan_no_color":"#C29355",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1692597337001,
 				"name":"饼饼派对",
-				"tab_id":0,
 				"suit_item_id":123429201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7ba7e92580cb7baebff250ca152010d1f73c2048.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"SOS\",\"image\":\"https://i0.hdslb.com/bfs/garb/3902c7ed14b1dc3d1cd54669bbde6c5513f54ba7.png\"},{\"name\":\"没饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/f261d82917cd7d2423a2a90cfb5535d3a05b72fc.png\"},{\"name\":\"画饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/510dfbbe51a2d24a40bae237b630763960320fb1.png\"},{\"name\":\"中二饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b576cdf4598ba5305f3bdf0edea40bcb990494d.png\"},{\"name\":\"毕加思索饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/89e7465432b3dd1ee878e5d72c2143dfe4d6313c.png\"},{\"name\":\"有饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e870cac2ca32abda98a173c273e7ef37d6ce837.png\"},{\"name\":\"加号\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbe455a617d31dc2d648598ddad68fd6357014e7.png\"},{\"name\":\"猫饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7a71685371b1c8306049e6a40ac4956edeef5fb.png\"},{\"name\":\"等号\",\"image\":\"https://i0.hdslb.com/bfs/garb/14530a0c86ec7d64f1e8185f3b927dbf2df33e2d.png\"},{\"name\":\"有猫饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/a4a0a7de14ea1b51ff7ec4a1469e4976b5297fb1.png\"},{\"name\":\"宝宝饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff4a63c6f8afd934c43f8fb11bc8e4061e2c697d.png\"},{\"name\":\"印度飞饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/8bd4f00a8baa84bc41e33f7152ab266fd2ffd97c.png\"},{\"name\":\"深井\",\"image\":\"https://i0.hdslb.com/bfs/garb/009230eda1e1db80db9fe0b2e491a6b446e32f12.png\"},{\"name\":\"深井饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/04b29cee92335a55b39b3b1fbfa1126b4c2b2fd1.png\"},{\"name\":\"公主饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ff1b603f5fa69afe16ecd4c14709492620ecb5e.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_SOS]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3902c7ed14b1dc3d1cd54669bbde6c5513f54ba7.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_中二饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5b576cdf4598ba5305f3bdf0edea40bcb990494d.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_公主饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8ff1b603f5fa69afe16ecd4c14709492620ecb5e.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_加号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbe455a617d31dc2d648598ddad68fd6357014e7.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_印度飞饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8bd4f00a8baa84bc41e33f7152ab266fd2ffd97c.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_宝宝饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ff4a63c6f8afd934c43f8fb11bc8e4061e2c697d.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_有猫饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a4a0a7de14ea1b51ff7ec4a1469e4976b5297fb1.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_有饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8e870cac2ca32abda98a173c273e7ef37d6ce837.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_毕加思索饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/89e7465432b3dd1ee878e5d72c2143dfe4d6313c.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_没饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f261d82917cd7d2423a2a90cfb5535d3a05b72fc.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_深井]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/009230eda1e1db80db9fe0b2e491a6b446e32f12.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_深井饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/04b29cee92335a55b39b3b1fbfa1126b4c2b2fd1.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_猫饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e7a71685371b1c8306049e6a40ac4956edeef5fb.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_画饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/510dfbbe51a2d24a40bae237b630763960320fb1.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[饼饼派对_等号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/14530a0c86ec7d64f1e8185f3b927dbf2df33e2d.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1692598461001,
 				"name":"饼饼猫饼",
-				"tab_id":0,
 				"suit_item_id":123429201,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1692597934001,
 				"name":"是什么猫饼",
-				"tab_id":0,
 				"suit_item_id":123429201,
 				"properties":{
 					"fan_no_color":"#ffffff",

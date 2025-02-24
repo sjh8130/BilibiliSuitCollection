@@ -36,7 +36,6 @@
 			{
 				"item_id":1717752151001,
 				"name":"三丽鸥家族·甜品家园",
-				"tab_id":0,
 				"suit_item_id":215952301,
 				"properties":{
 					"fan_no_color":"#FAD5DA",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1717752151002,
 				"name":"三丽鸥家族·甜品家园粉丝",
-				"tab_id":0,
 				"suit_item_id":215952301,
 				"properties":{
 					"fan_no_color":"#FAD5DA",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1717752184001,
 				"name":"三丽鸥家族·甜品家园",
-				"tab_id":0,
 				"suit_item_id":215952301,
 				"properties":{
 					"fan_no_color":"#EBC4F3",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1717752232001,
 				"name":"三丽鸥家族·甜品家园",
-				"tab_id":0,
 				"suit_item_id":215952301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d0e5ad3f16c3ed6edaf2f5e61d3136c0b01a96e6.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"星星糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/36dfcad45057dc4cf32f436bb4026372ed2893cf.png\"},{\"name\":\"要气球吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a031019aaaae2d24621ff2ac4002861cae2fa2e.png\"},{\"name\":\"坐盘子里\",\"image\":\"https://i0.hdslb.com/bfs/garb/df46ccef1e9d6f27f6ca8e967548269fb8cb65d8.png\"},{\"name\":\"掉进杯子\",\"image\":\"https://i0.hdslb.com/bfs/garb/17c93fd3be8ea6955c816cf2e8716a639e93a142.png\"},{\"name\":\"玫瑰星球\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ae649e4eb6051bc34b9f64edb5a6091988b28ec.png\"},{\"name\":\"抱住冰淇淋\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef25de1f34e730d5ff8d2fbde37b4c9373a7f32e.png\"},{\"name\":\"趴趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/38f1d4725b00788205953f91a2db253123f37790.png\"},{\"name\":\"甜甜圈趴趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7a733ba4a18f6ce30848bb9334d267c63b5b91f.png\"},{\"name\":\"抓住气球飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/f6ffdcb627cea23986aada377d98eb59795d1db3.png\"},{\"name\":\"飞上月球\",\"image\":\"https://i0.hdslb.com/bfs/garb/fdd20a3d39615978fb3aaac00e758d10895b5393.png\"},{\"name\":\"突然出现\",\"image\":\"https://i0.hdslb.com/bfs/garb/4885401d740837bc853758eea6a042b25bd2de6e.png\"},{\"name\":\"布丁开动！\",\"image\":\"https://i0.hdslb.com/bfs/garb/93dbee1cc5d72cc0899e8b910787bb95739d4b0c.png\"},{\"name\":\"吃棉花糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6409b79e1876a662285cb8392e939756787ad3b.png\"},{\"name\":\"巧克力蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/db02265d8a88033bdd6d9592d4372ab1ec4db1e9.png\"},{\"name\":\"甜蜜魔法\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e240a02bc2c7cb13b09466e3ee26bf652118d65.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_吃棉花糖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d6409b79e1876a662285cb8392e939756787ad3b.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_坐盘子里]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/df46ccef1e9d6f27f6ca8e967548269fb8cb65d8.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_巧克力蛋糕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db02265d8a88033bdd6d9592d4372ab1ec4db1e9.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_布丁开动！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/93dbee1cc5d72cc0899e8b910787bb95739d4b0c.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_抓住气球飞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f6ffdcb627cea23986aada377d98eb59795d1db3.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_抱住冰淇淋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ef25de1f34e730d5ff8d2fbde37b4c9373a7f32e.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_掉进杯子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/17c93fd3be8ea6955c816cf2e8716a639e93a142.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_星星糖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/36dfcad45057dc4cf32f436bb4026372ed2893cf.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_玫瑰星球]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4ae649e4eb6051bc34b9f64edb5a6091988b28ec.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_甜甜圈趴趴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b7a733ba4a18f6ce30848bb9334d267c63b5b91f.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_甜蜜魔法]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8e240a02bc2c7cb13b09466e3ee26bf652118d65.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_突然出现]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4885401d740837bc853758eea6a042b25bd2de6e.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_要气球吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a031019aaaae2d24621ff2ac4002861cae2fa2e.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_趴趴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/38f1d4725b00788205953f91a2db253123f37790.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族·甜品家园_飞上月球]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fdd20a3d39615978fb3aaac00e758d10895b5393.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1717752311001,
 				"name":"三丽鸥家族·甜品家园",
-				"tab_id":0,
 				"suit_item_id":215952301,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1717752212001,
 				"name":"三丽鸥家族·甜品家园",
-				"tab_id":0,
 				"suit_item_id":215952301,
 				"properties":{
 					"fan_no_color":"#ffffff",

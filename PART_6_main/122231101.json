@@ -36,7 +36,6 @@
 			{
 				"item_id":1691634029001,
 				"name":"星月兔",
-				"tab_id":0,
 				"suit_item_id":122231101,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1692152952001,
 				"name":"星月兔粉丝",
-				"tab_id":0,
 				"suit_item_id":122231101,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1691654296001,
 				"name":"星月兔",
-				"tab_id":0,
 				"suit_item_id":122231101,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1691465870001,
 				"name":"星月兔",
-				"tab_id":0,
 				"suit_item_id":122231101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ea38016cca3e37907d12bbb62445c24cff7f2829.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"暴富\",\"image\":\"https://i0.hdslb.com/bfs/garb/f83890c356c0d1a07f24f2eabb78caf2c811664b.png\"},{\"name\":\"出警\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f43842f38a31efeb5ddb7624705efda1a13f443.png\"},{\"name\":\"想桃子\",\"image\":\"https://i0.hdslb.com/bfs/garb/9aa650951254b54f028bab880b54ac9df72515b6.png\"},{\"name\":\"惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/eadd1cf66acf550525593008a6b33991cc594798.png\"},{\"name\":\"仙女\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac9cefdee4b3437cfab7f4c22064a9250f201254.png\"},{\"name\":\"粗奶丸\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6452b03c86beef2584fd93f6db245d860c56ad3.png\"},{\"name\":\"你再说\",\"image\":\"https://i0.hdslb.com/bfs/garb/245d5a4deb121e768a84cecc3a48ec9051a33953.png\"},{\"name\":\"阿巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/b976a61cd03cae657789cbae494da74b53d5f152.png\"},{\"name\":\"放肆\",\"image\":\"https://i0.hdslb.com/bfs/garb/15d8d128bbabc92ec2501a33d01bad04b23a46cb.png\"},{\"name\":\"想要\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9bcd9d5a28c0c5779fb11af475b3e3461374e6d.png\"},{\"name\":\"那我走\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3feaa5601da834816f6cbfa1be847202bc70687.png\"},{\"name\":\"睡不着\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3395f55df3feb6bf81a9698175a80b9eb872d8b.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/4922f25ad3397a1d5323e71b51f5e5c9f082f452.png\"},{\"name\":\"等待\",\"image\":\"https://i0.hdslb.com/bfs/garb/48c1dcc91d874805962f9058bdd784479b230d45.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/0758de2ad2943025c7642dd537f3ac6c4af922f7.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_仙女]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ac9cefdee4b3437cfab7f4c22064a9250f201254.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_你再说]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/245d5a4deb121e768a84cecc3a48ec9051a33953.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_出警]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5f43842f38a31efeb5ddb7624705efda1a13f443.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0758de2ad2943025c7642dd537f3ac6c4af922f7.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eadd1cf66acf550525593008a6b33991cc594798.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_想桃子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9aa650951254b54f028bab880b54ac9df72515b6.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_想要]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c9bcd9d5a28c0c5779fb11af475b3e3461374e6d.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_放肆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/15d8d128bbabc92ec2501a33d01bad04b23a46cb.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_暴富]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f83890c356c0d1a07f24f2eabb78caf2c811664b.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4922f25ad3397a1d5323e71b51f5e5c9f082f452.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_睡不着]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a3395f55df3feb6bf81a9698175a80b9eb872d8b.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_等待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/48c1dcc91d874805962f9058bdd784479b230d45.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_粗奶丸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b6452b03c86beef2584fd93f6db245d860c56ad3.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_那我走]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f3feaa5601da834816f6cbfa1be847202bc70687.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[星月兔_阿巴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b976a61cd03cae657789cbae494da74b53d5f152.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1691634114001,
 				"name":"星月兔",
-				"tab_id":0,
 				"suit_item_id":122231101,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1691634058001,
 				"name":"星月兔",
-				"tab_id":0,
 				"suit_item_id":122231101,
 				"properties":{
 					"fan_no_color":"#ffffff",

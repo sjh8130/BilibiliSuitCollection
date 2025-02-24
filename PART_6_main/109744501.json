@@ -36,7 +36,6 @@
 			{
 				"item_id":1680848825001,
 				"name":"旧日塔罗",
-				"tab_id":0,
 				"suit_item_id":109744501,
 				"properties":{
 					"fan_no_color":"#6B41F1",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1680848825002,
 				"name":"旧日塔罗粉丝",
-				"tab_id":0,
 				"suit_item_id":109744501,
 				"properties":{
 					"fan_no_color":"#6B41F1",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1680850313001,
 				"name":"旧日塔罗",
-				"tab_id":0,
 				"suit_item_id":109744501,
 				"properties":{
 					"fan_no_color":"#6B41F1",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1680848862001,
 				"name":"旧日塔罗",
-				"tab_id":0,
 				"suit_item_id":109744501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/364240e3b683d09565615e2feffd78d15b61f54d.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"呃\",\"image\":\"https://i0.hdslb.com/bfs/garb/658ca1da73ce8d888f97c4ff2243d3e55cbf8bd4.png\"},{\"name\":\"原来如此\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9c3e516e5f40fde893ca629aa90023f806893e9.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/59c40c6248b612424af8afb9c47dc6ef88fd87c2.png\"},{\"name\":\"看呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/156bd16ea37e830b3d78c49f32c4aece68668400.png\"},{\"name\":\"不好意思\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3823c0d1962fc1063f48293d488776900e3a0b3.png\"},{\"name\":\"小声叭叭\",\"image\":\"https://i0.hdslb.com/bfs/garb/2cad472cd2c98a55d8fb543df12b524e368cc131.png\"},{\"name\":\"关我PS\",\"image\":\"https://i0.hdslb.com/bfs/garb/80844fd000f976b489d052baceca6ffadfccd08e.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/5bbfe3833aa910a873308bbab5e3bf25e711c70a.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/2928f1355343a34c1d8f177e9c42b5933e4ea633.png\"},{\"name\":\"关你PS\",\"image\":\"https://i0.hdslb.com/bfs/garb/7bd7a5a2690b14cdaa5c3fc8f7e15a19b820a3df.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/d8f38efcd7b78236d46741c96b87db0425510094.png\"},{\"name\":\"敷衍\",\"image\":\"https://i0.hdslb.com/bfs/garb/c95b32ddcc7068b435a4e59b8762348a8fb29308.png\"},{\"name\":\"思索\",\"image\":\"https://i0.hdslb.com/bfs/garb/7fe44d2fbe00994a78dc2e3a163b0fcbcd7852e2.png\"},{\"name\":\"睡不着了\",\"image\":\"https://i0.hdslb.com/bfs/garb/874517ed0fe45e8c6dd488b78a32e4a37bf56483.png\"},{\"name\":\"当场抓获\",\"image\":\"https://i0.hdslb.com/bfs/garb/42fe20801eaca9df85289fa9ff5f1fb3d4584d4b.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_不好意思]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c3823c0d1962fc1063f48293d488776900e3a0b3.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_关你PS]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7bd7a5a2690b14cdaa5c3fc8f7e15a19b820a3df.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_关我PS]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/80844fd000f976b489d052baceca6ffadfccd08e.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_原来如此]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e9c3e516e5f40fde893ca629aa90023f806893e9.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_呃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/658ca1da73ce8d888f97c4ff2243d3e55cbf8bd4.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_害怕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d8f38efcd7b78236d46741c96b87db0425510094.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_小声叭叭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2cad472cd2c98a55d8fb543df12b524e368cc131.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_当场抓获]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/42fe20801eaca9df85289fa9ff5f1fb3d4584d4b.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_思索]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7fe44d2fbe00994a78dc2e3a163b0fcbcd7852e2.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_敷衍]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c95b32ddcc7068b435a4e59b8762348a8fb29308.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/59c40c6248b612424af8afb9c47dc6ef88fd87c2.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_看呆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/156bd16ea37e830b3d78c49f32c4aece68668400.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_睡不着了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/874517ed0fe45e8c6dd488b78a32e4a37bf56483.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2928f1355343a34c1d8f177e9c42b5933e4ea633.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[旧日塔罗_赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5bbfe3833aa910a873308bbab5e3bf25e711c70a.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1680850243001,
 				"name":"旧日塔罗",
-				"tab_id":0,
 				"suit_item_id":109744501,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1680848910001,
 				"name":"旧日塔罗",
-				"tab_id":0,
 				"suit_item_id":109744501,
 				"properties":{
 					"fan_no_color":"#ffffff",

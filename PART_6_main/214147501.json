@@ -35,7 +35,6 @@
 			{
 				"item_id":1716172481001,
 				"name":"Capybara夏日",
-				"tab_id":0,
 				"suit_item_id":214147501,
 				"properties":{
 					"fan_no_color":"#CD9026",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1716175877001,
 				"name":"Capybara夏日粉丝",
-				"tab_id":0,
 				"suit_item_id":214147501,
 				"properties":{
 					"fan_no_color":"#CD9026",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1716172536001,
 				"name":"Capybara夏日",
-				"tab_id":0,
 				"suit_item_id":214147501,
 				"properties":{
 					"fan_no_color":"#CD9026",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1715681094001,
 				"name":"Capybara夏日",
-				"tab_id":0,
 				"suit_item_id":214147501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a77906ccdc31a993f4a229e618c8a55b72256c50.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"住嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/071cac7236fa6e9efc54aca270d2ba43a1e50ba6.png\"},{\"name\":\"冲浪\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f6f9eaf1eea6850df09d6188d1a1ec16f7a0174.png\"},{\"name\":\"再见\",\"image\":\"https://i0.hdslb.com/bfs/garb/73f2ad7af6c8ca93e0d34426bfc00fe38e34eb44.png\"},{\"name\":\"吹风扇\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ee78d0d003a6174263956f332f11a30ca4543cd.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/0691f6b4b44e31c4c4f9f3877e62aec058bcbf7a.png\"},{\"name\":\"溜了\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b6901572e5e000ca5f751c11667177fd597f99f.png\"},{\"name\":\"埋了\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca5a7c5f6d696d79c47e5d2fe27dbc4b1be2ca43.png\"},{\"name\":\"拉粑通畅\",\"image\":\"https://i0.hdslb.com/bfs/garb/61ce2a5b8995b3c9328d9a4d0a13a16dc7702e61.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/b73e780d22948a8e2e22d53eaa6c8d490bebdcba.png\"},{\"name\":\"洗了蒜了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d52175bda232b364509b612a93542974b42537f.png\"},{\"name\":\"热化了\",\"image\":\"https://i0.hdslb.com/bfs/garb/030375e10c9feb5a510c519925f7ad8c9d660488.png\"},{\"name\":\"晒太阳\",\"image\":\"https://i0.hdslb.com/bfs/garb/9cf1b89bb107ffd23f2b3d4635e3838d258d0c89.png\"},{\"name\":\"潜水\",\"image\":\"https://i0.hdslb.com/bfs/garb/77c02efeb38bcb4d42192d0204b98eb6ad0a29fb.png\"},{\"name\":\"蟹蟹\",\"image\":\"https://i0.hdslb.com/bfs/garb/39fb057e0bd4d7b1d6077fa625c442a2ab636b00.png\"},{\"name\":\"吹空调\",\"image\":\"https://i0.hdslb.com/bfs/garb/80529f06534deb5d87ca5a8aca167f28c51f41d7.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_住嘴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/071cac7236fa6e9efc54aca270d2ba43a1e50ba6.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_再见]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/73f2ad7af6c8ca93e0d34426bfc00fe38e34eb44.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_冲浪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8f6f9eaf1eea6850df09d6188d1a1ec16f7a0174.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0691f6b4b44e31c4c4f9f3877e62aec058bcbf7a.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_吹空调]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/80529f06534deb5d87ca5a8aca167f28c51f41d7.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_吹风扇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9ee78d0d003a6174263956f332f11a30ca4543cd.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_埋了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ca5a7c5f6d696d79c47e5d2fe27dbc4b1be2ca43.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_拉粑通畅]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/61ce2a5b8995b3c9328d9a4d0a13a16dc7702e61.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_摸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b73e780d22948a8e2e22d53eaa6c8d490bebdcba.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_晒太阳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9cf1b89bb107ffd23f2b3d4635e3838d258d0c89.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_洗了蒜了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7d52175bda232b364509b612a93542974b42537f.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_溜了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4b6901572e5e000ca5f751c11667177fd597f99f.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_潜水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/77c02efeb38bcb4d42192d0204b98eb6ad0a29fb.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_热化了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/030375e10c9feb5a510c519925f7ad8c9d660488.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[Capybara夏日_蟹蟹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/39fb057e0bd4d7b1d6077fa625c442a2ab636b00.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1716173172001,
 				"name":"Capybara夏日",
-				"tab_id":0,
 				"suit_item_id":214147501,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1716172611001,
 				"name":"Capybara夏日",
-				"tab_id":0,
 				"suit_item_id":214147501,
 				"properties":{
 					"fan_no_color":"#ffffff",

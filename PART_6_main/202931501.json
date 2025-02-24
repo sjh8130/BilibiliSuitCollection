@@ -36,7 +36,6 @@
 			{
 				"item_id":1706491289001,
 				"name":"莫奈的猫",
-				"tab_id":0,
 				"suit_item_id":202931501,
 				"properties":{
 					"fan_no_color":"#1F53A2",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1706491555001,
 				"name":"莫奈的猫粉丝",
-				"tab_id":0,
 				"suit_item_id":202931501,
 				"properties":{
 					"fan_no_color":"#1F53A2",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1706491334001,
 				"name":"莫奈的猫",
-				"tab_id":0,
 				"suit_item_id":202931501,
 				"properties":{
 					"fan_no_color":"#1F53A2",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1706606042001,
 				"name":"莫奈的猫2",
-				"tab_id":0,
 				"suit_item_id":202931501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ce2f54a4821eb4d70e9d42966ae1a8e10418660c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/723ccd5e774e2b99e8ef088dd924973c94565b92.png\"},{\"name\":\"请坐\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d9f35dab4d8e4752199320d08fd0d806055cd63.png\"},{\"name\":\"别跑\",\"image\":\"https://i0.hdslb.com/bfs/garb/3bbaa804c00481e82de2ed1a026847c20382c6ce.png\"},{\"name\":\"抱歉\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff03ced563f6dd3a0f3e2dcfd39fae74bc59eadf.png\"},{\"name\":\"享受\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9b915ce5d0c57fc709a1193fddfad3c8340b8ed.png\"},{\"name\":\"去看看\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a8ba12bf1c4da10ea48ba650d56e14bd1562568.png\"},{\"name\":\"哎哟\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7c6b9cb517b9feab4e7cb53328a3b2ca2d56229.png\"},{\"name\":\"溜了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e6f0622396898667a3f50e9c1a7c5a716d31aa8.png\"},{\"name\":\"我想想\",\"image\":\"https://i0.hdslb.com/bfs/garb/79e1dcb8d6411a6c4d1f4b98e3d477775860277b.png\"},{\"name\":\"精致\",\"image\":\"https://i0.hdslb.com/bfs/garb/b432f17e65d5aafaa67d3562b0f5900f55c3c601.png\"},{\"name\":\"无视\",\"image\":\"https://i0.hdslb.com/bfs/garb/575ee004fa46a530df56662f62ef910cc5e36aef.png\"},{\"name\":\"伸懒腰\",\"image\":\"https://i0.hdslb.com/bfs/garb/91bd4f283150649fc19129a3d8d5674d3b81fe85.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed4b91a102ba9b3c635616daeb68b7acf97e6bf6.png\"},{\"name\":\"你好\",\"image\":\"https://i0.hdslb.com/bfs/garb/65ba50bf30260c42444f500b859bd9fa04a4f908.png\"},{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/32b8a7d99be6dace94e5059748dffc7b981b0c48.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_享受]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b9b915ce5d0c57fc709a1193fddfad3c8340b8ed.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_伸懒腰]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/91bd4f283150649fc19129a3d8d5674d3b81fe85.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_你好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/65ba50bf30260c42444f500b859bd9fa04a4f908.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_别跑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3bbaa804c00481e82de2ed1a026847c20382c6ce.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_去看看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a8ba12bf1c4da10ea48ba650d56e14bd1562568.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_哎哟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f7c6b9cb517b9feab4e7cb53328a3b2ca2d56229.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_微笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/32b8a7d99be6dace94e5059748dffc7b981b0c48.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_我想想]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/79e1dcb8d6411a6c4d1f4b98e3d477775860277b.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_抱歉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ff03ced563f6dd3a0f3e2dcfd39fae74bc59eadf.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_无视]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/575ee004fa46a530df56662f62ef910cc5e36aef.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ed4b91a102ba9b3c635616daeb68b7acf97e6bf6.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_溜了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7e6f0622396898667a3f50e9c1a7c5a716d31aa8.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_精致]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b432f17e65d5aafaa67d3562b0f5900f55c3c601.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_请坐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1d9f35dab4d8e4752199320d08fd0d806055cd63.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[莫奈的猫2_问号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/723ccd5e774e2b99e8ef088dd924973c94565b92.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1706491529001,
 				"name":"莫奈的猫",
-				"tab_id":0,
 				"suit_item_id":202931501,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1706491380001,
 				"name":"莫奈的猫",
-				"tab_id":0,
 				"suit_item_id":202931501,
 				"properties":{
 					"fan_no_color":"#ffffff",

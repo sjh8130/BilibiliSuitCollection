@@ -36,7 +36,6 @@
 			{
 				"item_id":1723786850001,
 				"name":"帕恰狗海豚湾",
-				"tab_id":0,
 				"suit_item_id":222941201,
 				"properties":{
 					"fan_no_color":"#7C94BF",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1723786850002,
 				"name":"帕恰狗海豚湾粉丝",
-				"tab_id":0,
 				"suit_item_id":222941201,
 				"properties":{
 					"fan_no_color":"#7C94BF",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1723786872001,
 				"name":"帕恰狗海豚湾",
-				"tab_id":0,
 				"suit_item_id":222941201,
 				"properties":{
 					"fan_no_color":"#7C94BF",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1723786904001,
 				"name":"帕恰狗海豚湾",
-				"tab_id":0,
 				"suit_item_id":222941201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/50c4f04198a6f1162032b3a29a8950a41417b57c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"超喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/20b13f15afc1efb7901f2434e80c7a933fcc1b86.png\"},{\"name\":\"思索\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb6e893d09824a3645f81b078740d19f0d87b7ca.png\"},{\"name\":\"吃冰\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5001811e0bbb5c7d48fca548e8da128ad0c768f.png\"},{\"name\":\"看海鸥\",\"image\":\"https://i0.hdslb.com/bfs/garb/acc9a4292e2e41fb94d055a489f3706a9f4308e6.png\"},{\"name\":\"打招呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3ec1b4b6488dcc317b93bad532ff1d5a68a7ae5.png\"},{\"name\":\"来噜\",\"image\":\"https://i0.hdslb.com/bfs/garb/165b655a690edad8728a126e042e211c9353a974.png\"},{\"name\":\"喝一杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd92efc9caf497c66c7010d14343ec4a40e4473d.png\"},{\"name\":\"冲浪\",\"image\":\"https://i0.hdslb.com/bfs/garb/40c8d717391db5e597339bc085e134b6a91c5ab3.png\"},{\"name\":\"扑\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e623611608febc0eb408aa5d8a2ccec9e9c5b31.png\"},{\"name\":\"放松\",\"image\":\"https://i0.hdslb.com/bfs/garb/b4430a8b245bb5e64ac0d4cf1dfafad80cb18c0a.png\"},{\"name\":\"到站啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/150548c74c6bf358658c290bc1b40c418b5ec5d0.png\"},{\"name\":\"欢腾\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e20870214e10641faec97e5114051b603eb0f57.png\"},{\"name\":\"快倒下啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/c73c9fe5fa22b4821016e965953c99a43ce87de3.png\"},{\"name\":\"宠溺\",\"image\":\"https://i0.hdslb.com/bfs/garb/91d604fe2859c089ba44f064fb3577f5ec7e6273.png\"},{\"name\":\"翻个身\",\"image\":\"https://i0.hdslb.com/bfs/garb/788f5e32e3f12e60cb6fdb015efd7f1850e91156.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_冲浪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/40c8d717391db5e597339bc085e134b6a91c5ab3.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_到站啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/150548c74c6bf358658c290bc1b40c418b5ec5d0.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_吃冰]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a5001811e0bbb5c7d48fca548e8da128ad0c768f.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_喝一杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dd92efc9caf497c66c7010d14343ec4a40e4473d.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_宠溺]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/91d604fe2859c089ba44f064fb3577f5ec7e6273.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_快倒下啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c73c9fe5fa22b4821016e965953c99a43ce87de3.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_思索]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eb6e893d09824a3645f81b078740d19f0d87b7ca.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_扑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5e623611608febc0eb408aa5d8a2ccec9e9c5b31.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_打招呼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c3ec1b4b6488dcc317b93bad532ff1d5a68a7ae5.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_放松]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b4430a8b245bb5e64ac0d4cf1dfafad80cb18c0a.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_来噜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/165b655a690edad8728a126e042e211c9353a974.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_欢腾]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e20870214e10641faec97e5114051b603eb0f57.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_看海鸥]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/acc9a4292e2e41fb94d055a489f3706a9f4308e6.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_翻个身]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/788f5e32e3f12e60cb6fdb015efd7f1850e91156.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗海豚湾_超喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20b13f15afc1efb7901f2434e80c7a933fcc1b86.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1723787012001,
 				"name":"帕恰狗海豚湾",
-				"tab_id":0,
 				"suit_item_id":222941201,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1723786887001,
 				"name":"帕恰狗海豚湾",
-				"tab_id":0,
 				"suit_item_id":222941201,
 				"properties":{
 					"fan_no_color":"#ffffff",

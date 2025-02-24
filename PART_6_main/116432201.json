@@ -36,7 +36,6 @@
 			{
 				"item_id":1686623990001,
 				"name":"豹力豹气",
-				"tab_id":0,
 				"suit_item_id":116432201,
 				"properties":{
 					"fan_no_color":"#BC2649",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1686623990002,
 				"name":"豹力豹气粉丝",
-				"tab_id":0,
 				"suit_item_id":116432201,
 				"properties":{
 					"fan_no_color":"#BC2649",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1686624743001,
 				"name":"豹力豹气",
-				"tab_id":0,
 				"suit_item_id":116432201,
 				"properties":{
 					"fan_no_color":"#BC2649",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1686624072001,
 				"name":"豹力豹气",
-				"tab_id":0,
 				"suit_item_id":116432201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f45cb9a7d29a9bb905f8b61963046556c86a37e3.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"急支糖浆\",\"image\":\"https://i0.hdslb.com/bfs/garb/5491f4e81f543bef042d2804f76f77b92ec78227.png\"},{\"name\":\"饿有饿豹\",\"image\":\"https://i0.hdslb.com/bfs/garb/7292be9e57a0f5e442c5c2ce81d089edb37041dd.png\"},{\"name\":\"好人有好豹\",\"image\":\"https://i0.hdslb.com/bfs/garb/bcaa978d79f58a452206d654d6833cfe97705aea.png\"},{\"name\":\"投桃豹理\",\"image\":\"https://i0.hdslb.com/bfs/garb/88029144673fc102afd5150bad8d9db1c8ee4bc9.png\"},{\"name\":\"情绪豹炸\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f9f91e45cac33b4426f3eb8046e6fa79414496e.png\"},{\"name\":\"豹头痛哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/39df9236241ba208b32b887f79ed54a63f587799.png\"},{\"name\":\"豹舔天物\",\"image\":\"https://i0.hdslb.com/bfs/garb/3d872fc8a210854ee7f2a2f6646eaa133f781ffd.png\"},{\"name\":\"临时豹佛脚\",\"image\":\"https://i0.hdslb.com/bfs/garb/c57df3a701a0e49c223dda379afa05bef6fc9e3e.png\"},{\"name\":\"扇有扇豹\",\"image\":\"https://i0.hdslb.com/bfs/garb/7428b6b9e575e9c4b03a33af6835f845bd664b93.png\"},{\"name\":\"豹刀未老\",\"image\":\"https://i0.hdslb.com/bfs/garb/542af7607e7d3256162e9b359aaed0868fdce198.png\"},{\"name\":\"豹跳如雷\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb98eaa4654902dce1028d7c4a5d9ab7f4a1e01e.png\"},{\"name\":\"非常豹笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/efbf57120cc7c46b3feaa4a214774751aef34860.png\"},{\"name\":\"魅力豹击\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a6a9e4e10dee63482a6eb3e3adc8c87bf06461d.png\"},{\"name\":\"魅力四射\",\"image\":\"https://i0.hdslb.com/bfs/garb/853622de66694e386ecb45070a25184db36b3d88.png\"},{\"name\":\"豹打不平\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec0f63235cf2cabe1f6eebb53347d00ca252fe16.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_临时豹佛脚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c57df3a701a0e49c223dda379afa05bef6fc9e3e.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_好人有好豹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bcaa978d79f58a452206d654d6833cfe97705aea.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_急支糖浆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5491f4e81f543bef042d2804f76f77b92ec78227.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_情绪豹炸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2f9f91e45cac33b4426f3eb8046e6fa79414496e.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_扇有扇豹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7428b6b9e575e9c4b03a33af6835f845bd664b93.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_投桃豹理]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/88029144673fc102afd5150bad8d9db1c8ee4bc9.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_豹刀未老]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/542af7607e7d3256162e9b359aaed0868fdce198.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_豹头痛哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/39df9236241ba208b32b887f79ed54a63f587799.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_豹打不平]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ec0f63235cf2cabe1f6eebb53347d00ca252fe16.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_豹舔天物]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3d872fc8a210854ee7f2a2f6646eaa133f781ffd.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_豹跳如雷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eb98eaa4654902dce1028d7c4a5d9ab7f4a1e01e.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_非常豹笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/efbf57120cc7c46b3feaa4a214774751aef34860.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_饿有饿豹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7292be9e57a0f5e442c5c2ce81d089edb37041dd.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_魅力四射]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/853622de66694e386ecb45070a25184db36b3d88.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[豹力豹气_魅力豹击]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2a6a9e4e10dee63482a6eb3e3adc8c87bf06461d.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1686624707001,
 				"name":"豹力豹气",
-				"tab_id":0,
 				"suit_item_id":116432201,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1686556006001,
 				"name":"豹力豹气",
-				"tab_id":0,
 				"suit_item_id":116432201,
 				"properties":{
 					"fan_no_color":"#ffffff",

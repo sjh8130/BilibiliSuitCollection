@@ -35,7 +35,6 @@
 			{
 				"item_id":1689227905001,
 				"name":"独角兽",
-				"tab_id":0,
 				"suit_item_id":119443901,
 				"properties":{
 					"fan_no_color":"#DA6C58",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1689227905002,
 				"name":"独角兽粉丝",
-				"tab_id":0,
 				"suit_item_id":119443901,
 				"properties":{
 					"fan_no_color":"#DA6C58",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1689227949001,
 				"name":"独角兽",
-				"tab_id":0,
 				"suit_item_id":119443901,
 				"properties":{
 					"fan_no_color":"#DA6C58",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1689227707001,
 				"name":"独角兽",
-				"tab_id":0,
 				"suit_item_id":119443901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/51b614e37d97f22d62879780431986aead444810.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"尖角\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ba9eca90714dc884772f119f5aa19263b7a4369.png\"},{\"name\":\"信号\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd7abc18867859663dfafd4638557425d648baad.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/3bbabc3e83e6b5dfaec2cc65994cb052d83163bd.png\"},{\"name\":\"小白旗\",\"image\":\"https://i0.hdslb.com/bfs/garb/3516cace739579e4f9415424f00bf600cee61d12.png\"},{\"name\":\"中角\",\"image\":\"https://i0.hdslb.com/bfs/garb/ee7b147d2d67da457a59f9efcccc1107d24a3ba3.png\"},{\"name\":\"白旗\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3479933f6def8f420ac3ed0a981817f3accdb90.png\"},{\"name\":\"螺旋角\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d011c884c6aa0ade7558ed9b6a7e85b36920857.png\"},{\"name\":\"彩虹\",\"image\":\"https://i0.hdslb.com/bfs/garb/33e6668406f4c537d940e3269a91a0fc9d72cca6.png\"},{\"name\":\"向下看\",\"image\":\"https://i0.hdslb.com/bfs/garb/25bb392f900ff4c41e55a28b0bac07c51a8a849b.png\"},{\"name\":\"向上看\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa14809c74f29915e6c34210ff06b45a93c4fef1.png\"},{\"name\":\"犀利\",\"image\":\"https://i0.hdslb.com/bfs/garb/61779aecfcfc6716cb0053e5fed7f197a8917361.png\"},{\"name\":\"可怜\",\"image\":\"https://i0.hdslb.com/bfs/garb/28d5fff092d2ccc7dabfb64266e61ca583bffa31.png\"},{\"name\":\"跑\",\"image\":\"https://i0.hdslb.com/bfs/garb/c709f3df0c483ebe12dda31614d4da4cefa197f7.png\"},{\"name\":\"绝赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2ca2acf636ce212489140ff01fd80b4348ccd12.png\"},{\"name\":\"下箭头\",\"image\":\"https://i0.hdslb.com/bfs/garb/e51eb0004d19205ed018ca1ab0d7332ded8c1301.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_下箭头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e51eb0004d19205ed018ca1ab0d7332ded8c1301.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_中角]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ee7b147d2d67da457a59f9efcccc1107d24a3ba3.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_信号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dd7abc18867859663dfafd4638557425d648baad.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_可怜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/28d5fff092d2ccc7dabfb64266e61ca583bffa31.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_向上看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aa14809c74f29915e6c34210ff06b45a93c4fef1.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_向下看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/25bb392f900ff4c41e55a28b0bac07c51a8a849b.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_小白旗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3516cace739579e4f9415424f00bf600cee61d12.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_尖角]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3ba9eca90714dc884772f119f5aa19263b7a4369.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_彩虹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/33e6668406f4c537d940e3269a91a0fc9d72cca6.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3bbabc3e83e6b5dfaec2cc65994cb052d83163bd.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_犀利]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/61779aecfcfc6716cb0053e5fed7f197a8917361.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_白旗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a3479933f6def8f420ac3ed0a981817f3accdb90.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_绝赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f2ca2acf636ce212489140ff01fd80b4348ccd12.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_螺旋角]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d011c884c6aa0ade7558ed9b6a7e85b36920857.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[独角兽_跑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c709f3df0c483ebe12dda31614d4da4cefa197f7.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1689230096001,
 				"name":"独角兽",
-				"tab_id":0,
 				"suit_item_id":119443901,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1689227925001,
 				"name":"独角兽",
-				"tab_id":0,
 				"suit_item_id":119443901,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -36,7 +36,6 @@
 			{
 				"item_id":1721458877001,
 				"name":"捣乱小怪兽",
-				"tab_id":0,
 				"suit_item_id":220245501,
 				"properties":{
 					"fan_no_color":"#499FAB",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1721458877002,
 				"name":"捣乱小怪兽粉丝",
-				"tab_id":0,
 				"suit_item_id":220245501,
 				"properties":{
 					"fan_no_color":"#499FAB",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1721459330001,
 				"name":"捣乱小怪兽",
-				"tab_id":0,
 				"suit_item_id":220245501,
 				"properties":{
 					"fan_no_color":"#7E4D7A",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1721458972001,
 				"name":"捣乱小怪兽",
-				"tab_id":0,
 				"suit_item_id":220245501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1613c262d90eb13a28d50443e53437f424404690.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"嗯\",\"image\":\"https://i0.hdslb.com/bfs/garb/caf7674f62b677e13dbcca010010bd00f76d268f.png\"},{\"name\":\"彷徨\",\"image\":\"https://i0.hdslb.com/bfs/garb/38c776a00aede88a4fa4fd7ab9072aa91f0ceff5.png\"},{\"name\":\"惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/48418a9668384612f287fecc85ca3a28b38dbaa3.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a2834128f862485ee088a4deec05bdd923fe999.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ab7ea6b583d2d84a3fa69e5100422f01b987f50.png\"},{\"name\":\"呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d43d03a9a3e79d29c304ec4d5b39ed6f9dd1664.png\"},{\"name\":\"嘿嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/1da7bec14e2b143384f144ac6a73ea68dae30c79.png\"},{\"name\":\"偷摸\",\"image\":\"https://i0.hdslb.com/bfs/garb/45ef6173a693c12cd46dee002a99bfa512d35245.png\"},{\"name\":\"哈？\",\"image\":\"https://i0.hdslb.com/bfs/garb/c177268b1e2ac4366e33576c860a6dba4a36ee2a.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f468518f164ba7677873de3350afe5514d266ee.png\"},{\"name\":\"撇嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf6dd8e79b4b1ffbbd3d17da4af8895f2fdf3118.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/f6ec21c7f5f0f835983e20d407961f122b3e9f3e.png\"},{\"name\":\"不理你\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ca19922b4d7416acf0713afd51f892c1def976a.png\"},{\"name\":\"好的\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb9d79d96c9cbc4f225f38bb09ffc0c55451a602.png\"},{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6f2a63fede2cb39d05092302909494b6b1f008b.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_不理你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9ca19922b4d7416acf0713afd51f892c1def976a.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_偷摸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/45ef6173a693c12cd46dee002a99bfa512d35245.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_呜呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9d43d03a9a3e79d29c304ec4d5b39ed6f9dd1664.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_哈？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c177268b1e2ac4366e33576c860a6dba4a36ee2a.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a2834128f862485ee088a4deec05bdd923fe999.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_啊？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f6ec21c7f5f0f835983e20d407961f122b3e9f3e.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_嗯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/caf7674f62b677e13dbcca010010bd00f76d268f.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_嘿嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1da7bec14e2b143384f144ac6a73ea68dae30c79.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_好的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eb9d79d96c9cbc4f225f38bb09ffc0c55451a602.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9ab7ea6b583d2d84a3fa69e5100422f01b987f50.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_彷徨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/38c776a00aede88a4fa4fd7ab9072aa91f0ceff5.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_微笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d6f2a63fede2cb39d05092302909494b6b1f008b.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/48418a9668384612f287fecc85ca3a28b38dbaa3.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_撇嘴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cf6dd8e79b4b1ffbbd3d17da4af8895f2fdf3118.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[捣乱小怪兽_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2f468518f164ba7677873de3350afe5514d266ee.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1721459290001,
 				"name":"捣乱小怪兽",
-				"tab_id":0,
 				"suit_item_id":220245501,
 				"properties":{
 					"color":"#ffffff",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1721459029001,
 				"name":"捣乱小怪兽",
-				"tab_id":0,
 				"suit_item_id":220245501,
 				"properties":{
 					"fan_no_color":"#ffffff",

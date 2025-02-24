@@ -36,7 +36,6 @@
 			{
 				"item_id":1679552671001,
 				"name":"下里巴熊-动态卡片",
-				"tab_id":0,
 				"suit_item_id":110042801,
 				"properties":{
 					"fan_no_color":"#522626",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1679552671002,
 				"name":"下里巴熊-动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":110042801,
 				"properties":{
 					"fan_no_color":"#522626",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1679555510001,
 				"name":"下里巴熊-评论背景",
-				"tab_id":0,
 				"suit_item_id":110042801,
 				"properties":{
 					"fan_no_color":"#855A5A",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1679552854001,
 				"name":"下里巴熊-表情包",
-				"tab_id":0,
 				"suit_item_id":110042801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9f403211c9af460c0827597aa9d0326eca8399f3.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"我睡不着\",\"image\":\"https://i0.hdslb.com/bfs/garb/feaa45f38cf335676ff390d20a4aaa3fbcb062ea.png\"},{\"name\":\"吃什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/50b48dd961dfb41f406db0d64de1a80bb302ce8f.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2a20de55a52029ebaf471cf33cde05cad014f79.png\"},{\"name\":\"我投降\",\"image\":\"https://i0.hdslb.com/bfs/garb/095942ccf07b329ab1e21bd4431e26a3563a751e.png\"},{\"name\":\"kiss\",\"image\":\"https://i0.hdslb.com/bfs/garb/96b66497c3e70960c95f84131c803d09aa7366bf.png\"},{\"name\":\"怎么说呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/138a9cad67441e66f6cd0cfb2ac36c68e30aa2d5.png\"},{\"name\":\"就挺秃然\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a9f7ebef7b00b1142f8cd78f2837d79ff1aa497.png\"},{\"name\":\"就这\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b79451c6b3c9959f90f5dea62424082f93ae12f.png\"},{\"name\":\"累了\",\"image\":\"https://i0.hdslb.com/bfs/garb/74e395fd931052b0508b90c3d2beaf819e916c1a.png\"},{\"name\":\"随便\",\"image\":\"https://i0.hdslb.com/bfs/garb/a827c454cb5ec25865ad052d8f5e62fbff97978d.png\"},{\"name\":\"关我屁事\",\"image\":\"https://i0.hdslb.com/bfs/garb/745b801b550117b97c9df530c95722d1ce1eecd7.png\"},{\"name\":\"呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/65d2923424e66bbd9522c5ce27f7a990e3e519af.png\"},{\"name\":\"姐妹\",\"image\":\"https://i0.hdslb.com/bfs/garb/45166627e26750ab1b21631821284d0a82871d61.png\"},{\"name\":\"别说了\",\"image\":\"https://i0.hdslb.com/bfs/garb/361525fe343923868bee109894f27c437e959173.png\"},{\"name\":\"没事\",\"image\":\"https://i0.hdslb.com/bfs/garb/9fa6eb8736f5650d3ff1896166d5bb020a98c409.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_kiss]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/96b66497c3e70960c95f84131c803d09aa7366bf.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_关我屁事]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/745b801b550117b97c9df530c95722d1ce1eecd7.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_别说了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/361525fe343923868bee109894f27c437e959173.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_吃什么]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/50b48dd961dfb41f406db0d64de1a80bb302ce8f.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_呜呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/65d2923424e66bbd9522c5ce27f7a990e3e519af.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_姐妹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/45166627e26750ab1b21631821284d0a82871d61.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_就挺秃然]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0a9f7ebef7b00b1142f8cd78f2837d79ff1aa497.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_就这]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b79451c6b3c9959f90f5dea62424082f93ae12f.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_怎么说呢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/138a9cad67441e66f6cd0cfb2ac36c68e30aa2d5.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_我投降]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/095942ccf07b329ab1e21bd4431e26a3563a751e.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_我睡不着]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/feaa45f38cf335676ff390d20a4aaa3fbcb062ea.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_没事]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9fa6eb8736f5650d3ff1896166d5bb020a98c409.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_累了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/74e395fd931052b0508b90c3d2beaf819e916c1a.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_问号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d2a20de55a52029ebaf471cf33cde05cad014f79.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[下里巴熊-表情包_随便]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a827c454cb5ec25865ad052d8f5e62fbff97978d.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1679555481001,
 				"name":"下里巴熊-个性主题",
-				"tab_id":0,
 				"suit_item_id":110042801,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1679553133001,
 				"name":"下里巴熊-空间背景",
-				"tab_id":0,
 				"suit_item_id":110042801,
 				"properties":{
 					"fan_no_color":"#ffffff",

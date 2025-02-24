@@ -35,7 +35,6 @@
 			{
 				"item_id":1686910956001,
 				"name":"幸运塔罗星 白羊座",
-				"tab_id":0,
 				"suit_item_id":116755801,
 				"properties":{
 					"fan_no_color":"#DB3629",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1686910956002,
 				"name":"幸运塔罗星 白羊座粉丝",
-				"tab_id":0,
 				"suit_item_id":116755801,
 				"properties":{
 					"fan_no_color":"#DB3629",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1686911650001,
 				"name":"幸运塔罗星 白羊座",
-				"tab_id":0,
 				"suit_item_id":116755801,
 				"properties":{
 					"fan_no_color":"#CD7C33",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1686911151001,
 				"name":"幸运塔罗星 白羊座",
-				"tab_id":0,
 				"suit_item_id":116755801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4897a824c0800142cbf2ceb3723e8c2f6ae5a891.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"诸事皆宜\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2ad10842ee9145f27259687b38e0ee32b83b43e.png\"},{\"name\":\"百无禁忌\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7c51a7ebffb6bbe3aa35d80353a38757ee0625e.png\"},{\"name\":\"桃花朵朵\",\"image\":\"https://i0.hdslb.com/bfs/garb/ccfe65775388162ae64c33c304d9f111be04aeed.png\"},{\"name\":\"幸运Buff\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0a8a017d7e408e56f6e67698b6cd24cf03bfa3b.png\"},{\"name\":\"起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/30cf8484a266006232aac019a368cd2b72f16413.png\"},{\"name\":\"咩呀？\",\"image\":\"https://i0.hdslb.com/bfs/garb/a64f08a7ba022095719c007bdee5448d21706daa.png\"},{\"name\":\"好饿\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd328bb426d1ccfc472fcf581f5ad7dec699d84a.png\"},{\"name\":\"超喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/94377849c33dcd0544e8b608c84d561d50cd0f49.png\"},{\"name\":\"你过来呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e6e3c90597d0f35a6a19674dd9231a993c651ed.png\"},{\"name\":\"想打架？\",\"image\":\"https://i0.hdslb.com/bfs/garb/99ecb8a32c284af0e759d2592073a9422272a8d5.png\"},{\"name\":\"急急急\",\"image\":\"https://i0.hdslb.com/bfs/garb/c36dc6b965ae42934ed700333bdebd625ac5e0df.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e945e8123524428918234c573d52992360dcb2d.png\"},{\"name\":\"多巴胺女孩\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc32fb932a3966edd3183c27010afc21031b541a.png\"},{\"name\":\"白羊座\",\"image\":\"https://i0.hdslb.com/bfs/garb/3d5437e95f42fb05b1783ebd0c4bc1179a3c96f5.png\"},{\"name\":\"呱！\",\"image\":\"https://i0.hdslb.com/bfs/garb/714de5e63b0d6df7d248a62477f3416dbe3ac287.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_你过来呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0e6e3c90597d0f35a6a19674dd9231a993c651ed.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_呱！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/714de5e63b0d6df7d248a62477f3416dbe3ac287.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_咩呀？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a64f08a7ba022095719c007bdee5448d21706daa.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_哇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5e945e8123524428918234c573d52992360dcb2d.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_多巴胺女孩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bc32fb932a3966edd3183c27010afc21031b541a.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_好饿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dd328bb426d1ccfc472fcf581f5ad7dec699d84a.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_幸运Buff]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d0a8a017d7e408e56f6e67698b6cd24cf03bfa3b.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_急急急]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c36dc6b965ae42934ed700333bdebd625ac5e0df.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_想打架？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/99ecb8a32c284af0e759d2592073a9422272a8d5.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_桃花朵朵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ccfe65775388162ae64c33c304d9f111be04aeed.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_白羊座]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3d5437e95f42fb05b1783ebd0c4bc1179a3c96f5.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_百无禁忌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e7c51a7ebffb6bbe3aa35d80353a38757ee0625e.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_诸事皆宜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b2ad10842ee9145f27259687b38e0ee32b83b43e.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_起飞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/30cf8484a266006232aac019a368cd2b72f16413.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[幸运塔罗星 白羊座_超喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/94377849c33dcd0544e8b608c84d561d50cd0f49.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1686911553001,
 				"name":"幸运塔罗星 白羊座",
-				"tab_id":0,
 				"suit_item_id":116755801,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1686911177001,
 				"name":"幸运塔罗星 白羊座",
-				"tab_id":0,
 				"suit_item_id":116755801,
 				"properties":{
 					"fan_no_color":"#ffffff",

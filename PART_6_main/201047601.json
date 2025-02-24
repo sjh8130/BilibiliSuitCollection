@@ -35,7 +35,6 @@
 			{
 				"item_id":1704871358001,
 				"name":"你染上砂糖橘了",
-				"tab_id":0,
 				"suit_item_id":201047601,
 				"properties":{
 					"fan_no_color":"#FF851B",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1704871928001,
 				"name":"你染上砂糖橘了粉丝",
-				"tab_id":0,
 				"suit_item_id":201047601,
 				"properties":{
 					"fan_no_color":"#FF851B",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1704871405001,
 				"name":"你染上砂糖橘了",
-				"tab_id":0,
 				"suit_item_id":201047601,
 				"properties":{
 					"fan_no_color":"#FF851B",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1704788375001,
 				"name":"你染上砂糖橘了",
-				"tab_id":0,
 				"suit_item_id":201047601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f707043b8177a2e590db9793210c46f6b2b56fec.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"橘势大好\",\"image\":\"https://i0.hdslb.com/bfs/garb/370c4524dd432bba6e434ed9f58bbcd6f40bc536.png\"},{\"name\":\"橘喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/5afd5a6269d2aa41df4f1128d40e9dad2fd38bea.png\"},{\"name\":\"喜欢我？\",\"image\":\"https://i0.hdslb.com/bfs/garb/344f0f3190242c8bc4179ea111c0d25eee1a17e5.png\"},{\"name\":\"上火\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6a3e15b7f3d5103302cbed456265c82099f94ec.png\"},{\"name\":\"指\",\"image\":\"https://i0.hdslb.com/bfs/garb/df29019a5b6cbd5e9afb22b017d37a6598cb5d2a.png\"},{\"name\":\"买两斤橘子\",\"image\":\"https://i0.hdslb.com/bfs/garb/d7fb3d3cd17d29fcb8d32ab9f2fff2829898c946.png\"},{\"name\":\"橘之泛滥\",\"image\":\"https://i0.hdslb.com/bfs/garb/3db78f0f40f7d79852938aa35e132184dab0fee9.png\"},{\"name\":\"橘里橘气\",\"image\":\"https://i0.hdslb.com/bfs/garb/a33db3dce3949301d03866d544d1fd314b7f4dd1.png\"},{\"name\":\"大桔\",\"image\":\"https://i0.hdslb.com/bfs/garb/6330bea132ee06b1ac97914c30d90eb321438e44.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ad7c69308d93ea3ee0bc5c061b5a8ecaaa138c6.png\"},{\"name\":\"吃个橘子吧\",\"image\":\"https://i0.hdslb.com/bfs/garb/796d3576ea46c870336a29277936064c2c706431.png\"},{\"name\":\"小手通黄\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c41ab1ebe549c1cfafddf268b859d0a681beec2.png\"},{\"name\":\"枯了\",\"image\":\"https://i0.hdslb.com/bfs/garb/93994ae651f46aa667006f7a23b8ab23989e3984.png\"},{\"name\":\"适量摄入\",\"image\":\"https://i0.hdslb.com/bfs/garb/82b393f901d81ad29605685db59f94fc85f77e1f.png\"},{\"name\":\"橘外人\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb84a2538847801d9472fb10c2419bedaec695a7.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_上火]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d6a3e15b7f3d5103302cbed456265c82099f94ec.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_买两斤橘子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d7fb3d3cd17d29fcb8d32ab9f2fff2829898c946.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_吃个橘子吧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/796d3576ea46c870336a29277936064c2c706431.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_啊？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ad7c69308d93ea3ee0bc5c061b5a8ecaaa138c6.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_喜欢我？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/344f0f3190242c8bc4179ea111c0d25eee1a17e5.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_大桔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6330bea132ee06b1ac97914c30d90eb321438e44.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_小手通黄]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7c41ab1ebe549c1cfafddf268b859d0a681beec2.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_指]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/df29019a5b6cbd5e9afb22b017d37a6598cb5d2a.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_枯了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/93994ae651f46aa667006f7a23b8ab23989e3984.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_橘之泛滥]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3db78f0f40f7d79852938aa35e132184dab0fee9.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_橘势大好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/370c4524dd432bba6e434ed9f58bbcd6f40bc536.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_橘喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5afd5a6269d2aa41df4f1128d40e9dad2fd38bea.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_橘外人]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cb84a2538847801d9472fb10c2419bedaec695a7.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_橘里橘气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a33db3dce3949301d03866d544d1fd314b7f4dd1.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[你染上砂糖橘了_适量摄入]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/82b393f901d81ad29605685db59f94fc85f77e1f.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1704871865001,
 				"name":"你染上砂糖橘了",
-				"tab_id":0,
 				"suit_item_id":201047601,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1704871462001,
 				"name":"你染上砂糖橘了",
-				"tab_id":0,
 				"suit_item_id":201047601,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1680085291001,
 				"name":"读书小狗",
-				"tab_id":0,
 				"suit_item_id":108856001,
 				"properties":{
 					"fan_no_color":"#BA815D",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1680086161001,
 				"name":"读书小狗粉丝",
-				"tab_id":0,
 				"suit_item_id":108856001,
 				"properties":{
 					"fan_no_color":"#BA815D",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1680085343001,
 				"name":"读书小狗",
-				"tab_id":0,
 				"suit_item_id":108856001,
 				"properties":{
 					"fan_no_color":"#BA815D",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1680085091001,
 				"name":"读书小狗",
-				"tab_id":0,
 				"suit_item_id":108856001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d629f96e97ea42ea431010194438c69ce5f1977a.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"警告\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc6efffdee7fae8cdc1ce00928130d92752d6006.png\"},{\"name\":\"给予肯定\",\"image\":\"https://i0.hdslb.com/bfs/garb/c44c1942009606dc5f878cae74a9026f6bd8f9f6.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/e49b1b31b76f0e7adf2e18fb5d42089e917f0404.png\"},{\"name\":\"不行\",\"image\":\"https://i0.hdslb.com/bfs/garb/54ec351a5e27c9fcd40fde08b8f97799d4d3062b.png\"},{\"name\":\"需要帮助吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/06af98d0bc060b6051e3bed8a988cea0e37d1773.png\"},{\"name\":\"呃呃呃\",\"image\":\"https://i0.hdslb.com/bfs/garb/27da9d45db302fb44bd86f99cbaeb326aa8da3e6.png\"},{\"name\":\"灵光一闪\",\"image\":\"https://i0.hdslb.com/bfs/garb/d16d99ab267fbd74829a5ef6b9e91b595bbc8b5b.png\"},{\"name\":\"求求了\",\"image\":\"https://i0.hdslb.com/bfs/garb/62fe71dd23d538ec4ae3b52387d796e2662bdf8b.png\"},{\"name\":\"呜呜呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/fa66c5c83a77f9d9ffe92c3bd54da0d9fe641d09.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/67257397bf5663e3223f2957905fe786ea822fd7.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/c024c34e9b4d1bf9a682b607baea298e3257dc0a.png\"},{\"name\":\"打瞌睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/fbc9e4418d374ff9a69834ddc967333cb14ffa1d.png\"},{\"name\":\"摸摸\",\"image\":\"https://i0.hdslb.com/bfs/garb/79202ffb4a182e060c4a73d27580952dfd1a700d.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/1093dc5a33de9611de3b9843b069197d17024d71.png\"},{\"name\":\"给你\",\"image\":\"https://i0.hdslb.com/bfs/garb/46bc7ce788adc07aec8de69c9fb05bebc5ea37ca.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_不行]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/54ec351a5e27c9fcd40fde08b8f97799d4d3062b.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_呃呃呃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/27da9d45db302fb44bd86f99cbaeb326aa8da3e6.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_呜呜呜呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fa66c5c83a77f9d9ffe92c3bd54da0d9fe641d09.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e49b1b31b76f0e7adf2e18fb5d42089e917f0404.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_打瞌睡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fbc9e4418d374ff9a69834ddc967333cb14ffa1d.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_摸摸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/79202ffb4a182e060c4a73d27580952dfd1a700d.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1093dc5a33de9611de3b9843b069197d17024d71.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c024c34e9b4d1bf9a682b607baea298e3257dc0a.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_求求了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/62fe71dd23d538ec4ae3b52387d796e2662bdf8b.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_灵光一闪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d16d99ab267fbd74829a5ef6b9e91b595bbc8b5b.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/67257397bf5663e3223f2957905fe786ea822fd7.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_给予肯定]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c44c1942009606dc5f878cae74a9026f6bd8f9f6.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_给你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/46bc7ce788adc07aec8de69c9fb05bebc5ea37ca.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_警告]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc6efffdee7fae8cdc1ce00928130d92752d6006.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[读书小狗_需要帮助吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/06af98d0bc060b6051e3bed8a988cea0e37d1773.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1680085743001,
 				"name":"读书小狗",
-				"tab_id":0,
 				"suit_item_id":108856001,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1680085442001,
 				"name":"读书小狗",
-				"tab_id":0,
 				"suit_item_id":108856001,
 				"properties":{
 					"fan_no_color":"#ffffff",

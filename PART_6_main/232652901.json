@@ -35,7 +35,6 @@
 			{
 				"item_id":1732181619001,
 				"name":"海獭宝宝·雪域之旅",
-				"tab_id":0,
 				"suit_item_id":232652901,
 				"properties":{
 					"fan_no_color":"#A4D0F0",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1732181619002,
 				"name":"海獭宝宝·雪域之旅粉丝",
-				"tab_id":0,
 				"suit_item_id":232652901,
 				"properties":{
 					"fan_no_color":"#A4D0F0",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1732181643001,
 				"name":"海獭宝宝·雪域之旅",
-				"tab_id":0,
 				"suit_item_id":232652901,
 				"properties":{
 					"fan_no_color":"#A4D0F0",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1732181813001,
 				"name":"海獭宝宝·雪域之旅",
-				"tab_id":0,
 				"suit_item_id":232652901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/828aa592012485ca4d210ee55adc56ad8add03b5.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"抱雪球\",\"image\":\"https://i0.hdslb.com/bfs/garb/7700e5bf0e78d24140f06e990685d1ba6ea309fb.png\"},{\"name\":\"泡温泉1\",\"image\":\"https://i0.hdslb.com/bfs/garb/47c687667d40c131836904aab096fb5e996c41bb.png\"},{\"name\":\"泡温泉2\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3f0125f43773dc50181cc40ed4d84aeeeb3b738.png\"},{\"name\":\"趴雪球\",\"image\":\"https://i0.hdslb.com/bfs/garb/629ad107d23601d1f492b33729ea9f2f38cb1d92.png\"},{\"name\":\"海獭天使\",\"image\":\"https://i0.hdslb.com/bfs/garb/daa51ec8917a382f7a62cbb19692e1b3a7794520.png\"},{\"name\":\"滚雪球\",\"image\":\"https://i0.hdslb.com/bfs/garb/301861a0e93a9365060612cbaa21a4338e65b7fa.png\"},{\"name\":\"取暖\",\"image\":\"https://i0.hdslb.com/bfs/garb/b41c7d714993da631328d6611cfd5eff156455cf.png\"},{\"name\":\"飞天海獭\",\"image\":\"https://i0.hdslb.com/bfs/garb/b33699b0dc22396c0862a1e8c0f9831daa340070.png\"},{\"name\":\"扔雪球\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ce293223856606a5b76aee76099c49e5c290eef.png\"},{\"name\":\"被砸\",\"image\":\"https://i0.hdslb.com/bfs/garb/c964403503de26bdb68016bd118f68889dcd6dbb.png\"},{\"name\":\"看你\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d49edb053ae10347abce3fb4ae738e2bfe96641.png\"},{\"name\":\"发射水柱\",\"image\":\"https://i0.hdslb.com/bfs/garb/2add608b8748a26cbd7ae103bc67f61cc0d2953d.png\"},{\"name\":\"水柱中间\",\"image\":\"https://i0.hdslb.com/bfs/garb/b587fdc2fae47ae7b113604e85904a3107bae6bc.png\"},{\"name\":\"射中\",\"image\":\"https://i0.hdslb.com/bfs/garb/3904e21e50d64c07ce179924915ea0404d04be87.png\"},{\"name\":\"圣诞海獭\",\"image\":\"https://i0.hdslb.com/bfs/garb/f116db79a434109bde2e864b69e2988161c1b2ea.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_发射水柱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2add608b8748a26cbd7ae103bc67f61cc0d2953d.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_取暖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b41c7d714993da631328d6611cfd5eff156455cf.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_圣诞海獭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f116db79a434109bde2e864b69e2988161c1b2ea.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_射中]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3904e21e50d64c07ce179924915ea0404d04be87.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_扔雪球]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ce293223856606a5b76aee76099c49e5c290eef.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_抱雪球]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7700e5bf0e78d24140f06e990685d1ba6ea309fb.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_水柱中间]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b587fdc2fae47ae7b113604e85904a3107bae6bc.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_泡温泉1]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/47c687667d40c131836904aab096fb5e996c41bb.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_泡温泉2]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b3f0125f43773dc50181cc40ed4d84aeeeb3b738.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_海獭天使]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/daa51ec8917a382f7a62cbb19692e1b3a7794520.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_滚雪球]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/301861a0e93a9365060612cbaa21a4338e65b7fa.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_看你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6d49edb053ae10347abce3fb4ae738e2bfe96641.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_被砸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c964403503de26bdb68016bd118f68889dcd6dbb.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_趴雪球]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/629ad107d23601d1f492b33729ea9f2f38cb1d92.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭宝宝·雪域之旅_飞天海獭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b33699b0dc22396c0862a1e8c0f9831daa340070.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1732181944001,
 				"name":"海獭宝宝·雪域之旅",
-				"tab_id":0,
 				"suit_item_id":232652901,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1732181659001,
 				"name":"海獭宝宝·雪域之旅",
-				"tab_id":0,
 				"suit_item_id":232652901,
 				"properties":{
 					"fan_no_color":"#ffffff",

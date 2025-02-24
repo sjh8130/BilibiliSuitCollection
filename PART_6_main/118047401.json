@@ -35,7 +35,6 @@
 			{
 				"item_id":1688023407001,
 				"name":"模糊小黄豆",
-				"tab_id":0,
 				"suit_item_id":118047401,
 				"properties":{
 					"fan_no_color":"#E8B70B",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1688023407002,
 				"name":"模糊小黄豆粉丝",
-				"tab_id":0,
 				"suit_item_id":118047401,
 				"properties":{
 					"fan_no_color":"#E8B70B",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1688023442001,
 				"name":"模糊小黄豆",
-				"tab_id":0,
 				"suit_item_id":118047401,
 				"properties":{
 					"fan_no_color":"#EF5858",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1688023567001,
 				"name":"模糊小黄豆",
-				"tab_id":0,
 				"suit_item_id":118047401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a2dd492d75df0484daff74762253b883fd9f7a8c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"啊？？？\",\"image\":\"https://i0.hdslb.com/bfs/garb/af5169196a8d079f6e62742ee072965e84695f8c.png\"},{\"name\":\"慌张\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ed0d70e5b914a3982844f06b187e0296bf57e6b.png\"},{\"name\":\"准备咕咕\",\"image\":\"https://i0.hdslb.com/bfs/garb/faa6731487f57859531e5e0d5a044dd03c501c3d.png\"},{\"name\":\"爆哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/71f7f0c34c2bad2f834a4ba5f442b984ffbf0481.png\"},{\"name\":\"哈哈哈哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b83a48c6e4978c2b7ac067a47e5131a3693f3ce.png\"},{\"name\":\"啊啊啊啊啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9443fd3b2113f65e1bb8c842f0fbfc1a7ad06b7.png\"},{\"name\":\"！喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a983cbae05dad192e4c4ee0561974299c8e93f2.png\"},{\"name\":\"你在装什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ed7d19e6dc0cc81f98b635c52962d0cbff58904.png\"},{\"name\":\"啊啾\",\"image\":\"https://i0.hdslb.com/bfs/garb/206b315013fee11d30522d92eabd2e62b708ab50.png\"},{\"name\":\"哈？\",\"image\":\"https://i0.hdslb.com/bfs/garb/db4b2ac98102d7dd039e2e768ac7a83b3f7fa56d.png\"},{\"name\":\"呃呃呃困困\",\"image\":\"https://i0.hdslb.com/bfs/garb/51919808c08d37253fa51089e06faef2212c9c5a.png\"},{\"name\":\"咻\",\"image\":\"https://i0.hdslb.com/bfs/garb/daedeae0bfe771e977ade6e7ecf2843dbee535cc.png\"},{\"name\":\"对对对对\",\"image\":\"https://i0.hdslb.com/bfs/garb/39ab2c5a6556da72d214bd6ce387b32ad38b1443.png\"},{\"name\":\"谁叫我\",\"image\":\"https://i0.hdslb.com/bfs/garb/14c7e6a6e76c485a1bff5b996bedd77a3a88dc78.png\"},{\"name\":\"慌张否认\",\"image\":\"https://i0.hdslb.com/bfs/garb/0dde8182f804401a170457fae89775dca2323d4d.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_你在装什么]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8ed7d19e6dc0cc81f98b635c52962d0cbff58904.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_准备咕咕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/faa6731487f57859531e5e0d5a044dd03c501c3d.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_呃呃呃困困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/51919808c08d37253fa51089e06faef2212c9c5a.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_咻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/daedeae0bfe771e977ade6e7ecf2843dbee535cc.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_哈哈哈哈哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6b83a48c6e4978c2b7ac067a47e5131a3693f3ce.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_哈？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db4b2ac98102d7dd039e2e768ac7a83b3f7fa56d.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_啊啊啊啊啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b9443fd3b2113f65e1bb8c842f0fbfc1a7ad06b7.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_啊啾]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/206b315013fee11d30522d92eabd2e62b708ab50.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_啊？？？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af5169196a8d079f6e62742ee072965e84695f8c.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_对对对对]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/39ab2c5a6556da72d214bd6ce387b32ad38b1443.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_慌张]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ed0d70e5b914a3982844f06b187e0296bf57e6b.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_慌张否认]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0dde8182f804401a170457fae89775dca2323d4d.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_爆哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/71f7f0c34c2bad2f834a4ba5f442b984ffbf0481.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_谁叫我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/14c7e6a6e76c485a1bff5b996bedd77a3a88dc78.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[模糊小黄豆_！喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3a983cbae05dad192e4c4ee0561974299c8e93f2.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1688024628001,
 				"name":"模糊小黄豆",
-				"tab_id":0,
 				"suit_item_id":118047401,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1688023495001,
 				"name":"模糊小黄豆",
-				"tab_id":0,
 				"suit_item_id":118047401,
 				"properties":{
 					"fan_no_color":"#ffffff",

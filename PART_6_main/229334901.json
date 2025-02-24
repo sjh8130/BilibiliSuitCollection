@@ -35,7 +35,6 @@
 			{
 				"item_id":1729308969001,
 				"name":"秋日小可爱聚会",
-				"tab_id":0,
 				"suit_item_id":229334901,
 				"properties":{
 					"fan_no_color":"#E58445",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1729308969002,
 				"name":"秋日小可爱聚会粉丝",
-				"tab_id":0,
 				"suit_item_id":229334901,
 				"properties":{
 					"fan_no_color":"#E58445",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1729308991001,
 				"name":"秋日小可爱聚会",
-				"tab_id":0,
 				"suit_item_id":229334901,
 				"properties":{
 					"fan_no_color":"#E58445",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1729308936001,
 				"name":"秋日小可爱聚会",
-				"tab_id":0,
 				"suit_item_id":229334901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8d2a2c414902cc8412679d8851e0befd04595192.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"向左喵\",\"image\":\"https://i0.hdslb.com/bfs/garb/c67790068589f1f0b922866de2146554e9d86402.png\"},{\"name\":\"向右喵\",\"image\":\"https://i0.hdslb.com/bfs/garb/233de1427a4b317fcf0b2beb3017d2899e19ec4b.png\"},{\"name\":\"喵喵大帝\",\"image\":\"https://i0.hdslb.com/bfs/garb/77b88c78a024e07d87fcf1f66e9d2e9094ce8bf8.png\"},{\"name\":\"鼬爱了\",\"image\":\"https://i0.hdslb.com/bfs/garb/916eb36dc7f1b3fad0821411fa6b8675be552ad0.png\"},{\"name\":\"鼬见面了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a358116ed92d88952f5a29ab137ae7435ae507ef.png\"},{\"name\":\"小丑狐\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa053eece310f990dbd7101470b3b23ad0b79a69.png\"},{\"name\":\"送花狐\",\"image\":\"https://i0.hdslb.com/bfs/garb/3af8fa8a0375d1a72c430be44469445d3fb43556.png\"},{\"name\":\"系我啊狐\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc7abde232355789554aac64d7b006f9dfcfdb7b.png\"},{\"name\":\"好饭我吃兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/12a021860705eaa32780355b397fbc30a90764a0.png\"},{\"name\":\"狗不吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/110cddef4c6d12a7f6812ca8fa26b4087c5b8b45.png\"},{\"name\":\"伤心兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5f26c7ffc8934e92261ff7d6d7c4dfb779fc1b3.png\"},{\"name\":\"拿来吧兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce70d5843563a57dfc1b7d1f76ee2fff9b3c237e.png\"},{\"name\":\"吃点萌物\",\"image\":\"https://i0.hdslb.com/bfs/garb/131d073fe0087dcf68264514022c237ae2f62336.png\"},{\"name\":\"坚强狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/dcde882133490dacc2ee3d9f2636bed65a9ce529.png\"},{\"name\":\"放狗出去\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac6351eca529c527642273b4fc06fa431256f9f3.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_伤心兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f5f26c7ffc8934e92261ff7d6d7c4dfb779fc1b3.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_吃点萌物]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/131d073fe0087dcf68264514022c237ae2f62336.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_向右喵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/233de1427a4b317fcf0b2beb3017d2899e19ec4b.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_向左喵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c67790068589f1f0b922866de2146554e9d86402.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_喵喵大帝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/77b88c78a024e07d87fcf1f66e9d2e9094ce8bf8.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_坚强狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dcde882133490dacc2ee3d9f2636bed65a9ce529.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_好饭我吃兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/12a021860705eaa32780355b397fbc30a90764a0.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_小丑狐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aa053eece310f990dbd7101470b3b23ad0b79a69.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_拿来吧兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce70d5843563a57dfc1b7d1f76ee2fff9b3c237e.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_放狗出去]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ac6351eca529c527642273b4fc06fa431256f9f3.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_狗不吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/110cddef4c6d12a7f6812ca8fa26b4087c5b8b45.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_系我啊狐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc7abde232355789554aac64d7b006f9dfcfdb7b.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_送花狐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3af8fa8a0375d1a72c430be44469445d3fb43556.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_鼬爱了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/916eb36dc7f1b3fad0821411fa6b8675be552ad0.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日小可爱聚会_鼬见面了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a358116ed92d88952f5a29ab137ae7435ae507ef.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1729309112001,
 				"name":"秋日小可爱聚会",
-				"tab_id":0,
 				"suit_item_id":229334901,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1729309006001,
 				"name":"秋日小可爱聚会",
-				"tab_id":0,
 				"suit_item_id":229334901,
 				"properties":{
 					"fan_no_color":"#ffffff",

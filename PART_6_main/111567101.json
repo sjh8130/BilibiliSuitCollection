@@ -36,7 +36,6 @@
 			{
 				"item_id":1681516678001,
 				"name":"兔牧Miu",
-				"tab_id":0,
 				"suit_item_id":111567101,
 				"properties":{
 					"fan_no_color":"#FF5656",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1682432482001,
 				"name":"兔牧Miu粉丝",
-				"tab_id":0,
 				"suit_item_id":111567101,
 				"properties":{
 					"fan_no_color":"#FF5656",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1681516701001,
 				"name":"兔牧Miu",
-				"tab_id":0,
 				"suit_item_id":111567101,
 				"properties":{
 					"fan_no_color":"#FF5656",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1681515721001,
 				"name":"兔牧Miu",
-				"tab_id":0,
 				"suit_item_id":111567101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/cd9388564afeadee739ea9d51ad1b797587d09bb.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"IP所属\",\"image\":\"https://i0.hdslb.com/bfs/garb/b904cd9e7e04e7ba6355f900d15f7a76abe3bb7c.png\"},{\"name\":\"老板大气\",\"image\":\"https://i0.hdslb.com/bfs/garb/d445043a03e12cff291ced8c5336ecf9b3e09a5c.png\"},{\"name\":\"吃啥呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/ee84c5ea5395633e3767bc5e698506219a259c2c.png\"},{\"name\":\"放过我吧\",\"image\":\"https://i0.hdslb.com/bfs/garb/d96e1a318d05b3fd490ca4924eb266453abe6210.png\"},{\"name\":\"妈呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/44c294ecc042dec7eb115fe7f22bc68fcf3f64a8.png\"},{\"name\":\"我的宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/55b742678ed41a83279e84b75fcca5e0e44baf59.png\"},{\"name\":\"你放P\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e5d8436f6fcd9f45072f6ad85cbfa0591d6af81.png\"},{\"name\":\"mua一下\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce21fb6111f2edcd07b0e94d31c656fb60df725c.png\"},{\"name\":\"放干净点\",\"image\":\"https://i0.hdslb.com/bfs/garb/dfcfde70d4252d814dd91960fe796d68758077bd.png\"},{\"name\":\"只是个孩子\",\"image\":\"https://i0.hdslb.com/bfs/garb/20829996385e76be308b767196faba2e487743c0.png\"},{\"name\":\"酱紫小？\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f69b26a269c3f4a15b6843ec984464f22bb000a.png\"},{\"name\":\"加载中\",\"image\":\"https://i0.hdslb.com/bfs/garb/909f022f308a3d75fe379cf550881f6cc4f67ef0.png\"},{\"name\":\"在一起\",\"image\":\"https://i0.hdslb.com/bfs/garb/852ead4ba35bc8bc9085978284b057595e3309a0.png\"},{\"name\":\"你是小猪\",\"image\":\"https://i0.hdslb.com/bfs/garb/e440ff5baec6d617e356ea3d752a56a73087028b.png\"},{\"name\":\"中！\",\"image\":\"https://i0.hdslb.com/bfs/garb/3120247926e57f7f04ff44438005a2d60c8f8f50.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_IP所属]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b904cd9e7e04e7ba6355f900d15f7a76abe3bb7c.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_mua一下]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce21fb6111f2edcd07b0e94d31c656fb60df725c.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_中！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3120247926e57f7f04ff44438005a2d60c8f8f50.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_你放P]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1e5d8436f6fcd9f45072f6ad85cbfa0591d6af81.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_你是小猪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e440ff5baec6d617e356ea3d752a56a73087028b.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_加载中]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/909f022f308a3d75fe379cf550881f6cc4f67ef0.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_只是个孩子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20829996385e76be308b767196faba2e487743c0.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_吃啥呢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ee84c5ea5395633e3767bc5e698506219a259c2c.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_在一起]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/852ead4ba35bc8bc9085978284b057595e3309a0.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_妈呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/44c294ecc042dec7eb115fe7f22bc68fcf3f64a8.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_我的宝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/55b742678ed41a83279e84b75fcca5e0e44baf59.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_放干净点]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dfcfde70d4252d814dd91960fe796d68758077bd.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_放过我吧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d96e1a318d05b3fd490ca4924eb266453abe6210.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_老板大气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d445043a03e12cff291ced8c5336ecf9b3e09a5c.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[兔牧Miu_酱紫小？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7f69b26a269c3f4a15b6843ec984464f22bb000a.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1682432695001,
 				"name":"兔牧Miu",
-				"tab_id":0,
 				"suit_item_id":111567101,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1682517467001,
 				"name":"兔牧Miu",
-				"tab_id":0,
 				"suit_item_id":111567101,
 				"properties":{
 					"fan_no_color":"#ffffff",

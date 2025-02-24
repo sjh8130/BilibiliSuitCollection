@@ -36,7 +36,6 @@
 			{
 				"item_id":1706077222001,
 				"name":"螂的诱惑",
-				"tab_id":0,
 				"suit_item_id":202443601,
 				"properties":{
 					"fan_no_color":"#A66C53",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1706077222002,
 				"name":"螂的诱惑粉丝",
-				"tab_id":0,
 				"suit_item_id":202443601,
 				"properties":{
 					"fan_no_color":"#A66C53",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1706077798001,
 				"name":"螂的诱惑",
-				"tab_id":0,
 				"suit_item_id":202443601,
 				"properties":{
 					"fan_no_color":"#A66C53",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1706077277001,
 				"name":"螂的诱惑",
-				"tab_id":0,
 				"suit_item_id":202443601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ba4aaa39e46341adfbe8bb74f2c0009888b05b4c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"Hi~\",\"image\":\"https://i0.hdslb.com/bfs/garb/82d8281ecde4f0e7ca85c926dd77dbcd756d52f4.png\"},{\"name\":\"好的\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1592e4b7229213c4ba0ff700de9ad586ea07de1.png\"},{\"name\":\"精神涣散\",\"image\":\"https://i0.hdslb.com/bfs/garb/a772f8ad44a3590107743881a18d261947034bd2.png\"},{\"name\":\"不听不听\",\"image\":\"https://i0.hdslb.com/bfs/garb/758c379cbe964dd6f3f702dd61a951ac2d8bd94d.png\"},{\"name\":\"大螂想你\",\"image\":\"https://i0.hdslb.com/bfs/garb/823c250cbfb21da7a699ca4c5f8736ccc0f083d5.png\"},{\"name\":\"委屈巴拉\",\"image\":\"https://i0.hdslb.com/bfs/garb/2eda18e60e0f659c7768db3282bf8534a6434993.png\"},{\"name\":\"阴暗爬行\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a7c19a3f377807563d05c00e161e4abba58bfd5.png\"},{\"name\":\"磕个响头\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e4af2201f41b06b92178774a3829006f1042948.png\"},{\"name\":\"起来嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f19eb422e40f221ffa550ea35ba4fabc93192f3.png\"},{\"name\":\"串门\",\"image\":\"https://i0.hdslb.com/bfs/garb/14e6541a2688d2cdd045d5da36484dc4277cb058.png\"},{\"name\":\"背影\",\"image\":\"https://i0.hdslb.com/bfs/garb/adf4ddc9891e19fd8abe3c3ccb550983b1b06c91.png\"},{\"name\":\"吃点补补\",\"image\":\"https://i0.hdslb.com/bfs/garb/09505ac16ea1afa00955e8e68314bc4c38774e1b.png\"},{\"name\":\"大螂吃饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/af4cbdbf08e9d0383d722331867a721b58346480.png\"},{\"name\":\"随缘\",\"image\":\"https://i0.hdslb.com/bfs/garb/dae8580d2e66e8c7f45551aceeac53dc401839ca.png\"},{\"name\":\"心情复杂\",\"image\":\"https://i0.hdslb.com/bfs/garb/d92970fef2aca21f17f28301610266054c0d4c8c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_Hi~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/82d8281ecde4f0e7ca85c926dd77dbcd756d52f4.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_不听不听]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/758c379cbe964dd6f3f702dd61a951ac2d8bd94d.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_串门]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/14e6541a2688d2cdd045d5da36484dc4277cb058.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_吃点补补]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/09505ac16ea1afa00955e8e68314bc4c38774e1b.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_大螂吃饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af4cbdbf08e9d0383d722331867a721b58346480.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_大螂想你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/823c250cbfb21da7a699ca4c5f8736ccc0f083d5.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_好的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c1592e4b7229213c4ba0ff700de9ad586ea07de1.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_委屈巴拉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2eda18e60e0f659c7768db3282bf8534a6434993.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_心情复杂]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d92970fef2aca21f17f28301610266054c0d4c8c.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_磕个响头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5e4af2201f41b06b92178774a3829006f1042948.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_精神涣散]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a772f8ad44a3590107743881a18d261947034bd2.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_背影]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/adf4ddc9891e19fd8abe3c3ccb550983b1b06c91.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_起来嗨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4f19eb422e40f221ffa550ea35ba4fabc93192f3.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_阴暗爬行]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a7c19a3f377807563d05c00e161e4abba58bfd5.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[螂的诱惑_随缘]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dae8580d2e66e8c7f45551aceeac53dc401839ca.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1706077705001,
 				"name":"螂的诱惑",
-				"tab_id":0,
 				"suit_item_id":202443601,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1706077348001,
 				"name":"螂的诱惑",
-				"tab_id":0,
 				"suit_item_id":202443601,
 				"properties":{
 					"fan_no_color":"#ffffff",

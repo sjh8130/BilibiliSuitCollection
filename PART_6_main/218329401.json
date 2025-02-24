@@ -36,7 +36,6 @@
 			{
 				"item_id":1719797812001,
 				"name":"大耳狗·海盐薄荷",
-				"tab_id":0,
 				"suit_item_id":218329401,
 				"properties":{
 					"fan_no_color":"#59B0DE",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1719797812002,
 				"name":"大耳狗·海盐薄荷粉丝",
-				"tab_id":0,
 				"suit_item_id":218329401,
 				"properties":{
 					"fan_no_color":"#59B0DE",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1719797838001,
 				"name":"大耳狗·海盐薄荷",
-				"tab_id":0,
 				"suit_item_id":218329401,
 				"properties":{
 					"fan_no_color":"#59B0DE",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1719798346001,
 				"name":"大耳狗·海盐薄荷",
-				"tab_id":0,
 				"suit_item_id":218329401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2d3aacfab78b0c711c18e9fc00353469c9137dab.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"抱住\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ade412490be8e56fc12f144dc40e736dd8c5e68.png\"},{\"name\":\"依靠\",\"image\":\"https://i0.hdslb.com/bfs/garb/da64e08bfad07a5510734c58784aa739b7d23263.png\"},{\"name\":\"休息\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d402a42d438f03714ebb94866eb4f28738d0099.png\"},{\"name\":\"欢快\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf0ecf66e02f75562b4adbfa95fa8951cb97282b.png\"},{\"name\":\"超喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/83a799746b37f3b401524268cc64b7be71188065.png\"},{\"name\":\"吃柠檬\",\"image\":\"https://i0.hdslb.com/bfs/garb/bcc8b5d7660e8be0bac7aa601c412b515f66ad3a.png\"},{\"name\":\"出现\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e6d35541bd13c3ada9ad1f66ba7ee113c43836c.png\"},{\"name\":\"马卡龙\",\"image\":\"https://i0.hdslb.com/bfs/garb/01984107f88db4cad644c5ef2d25ec0e9eabd652.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/08d24129e4b320eebe0b04c1362cbc8c25966955.png\"},{\"name\":\"满足\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a4804372c007660dab0da6e43c5ede3a54838d5.png\"},{\"name\":\"美味\",\"image\":\"https://i0.hdslb.com/bfs/garb/852118d1a1ed70824b266461d712c8863e0df8ff.png\"},{\"name\":\"飞翔\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9ddc8d4a6d2a4d1839d2ad7e8f4b73de62057c8.png\"},{\"name\":\"冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b448c1ea6de74cbb8541036161c8a0c41ddeb25.png\"},{\"name\":\"甜点\",\"image\":\"https://i0.hdslb.com/bfs/garb/253381e56502687903ca045839e1f95e00f2feb2.png\"},{\"name\":\"喝柠檬茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/69600ce34b388a51cd065a967d32c28bda3d3606.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_休息]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6d402a42d438f03714ebb94866eb4f28738d0099.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_依靠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/da64e08bfad07a5510734c58784aa739b7d23263.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_冰激凌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8b448c1ea6de74cbb8541036161c8a0c41ddeb25.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_出现]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9e6d35541bd13c3ada9ad1f66ba7ee113c43836c.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_吃柠檬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bcc8b5d7660e8be0bac7aa601c412b515f66ad3a.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_喝柠檬茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/69600ce34b388a51cd065a967d32c28bda3d3606.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/08d24129e4b320eebe0b04c1362cbc8c25966955.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_抱住]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2ade412490be8e56fc12f144dc40e736dd8c5e68.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_欢快]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cf0ecf66e02f75562b4adbfa95fa8951cb97282b.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_满足]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8a4804372c007660dab0da6e43c5ede3a54838d5.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_甜点]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/253381e56502687903ca045839e1f95e00f2feb2.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_美味]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/852118d1a1ed70824b266461d712c8863e0df8ff.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_超喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/83a799746b37f3b401524268cc64b7be71188065.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_飞翔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e9ddc8d4a6d2a4d1839d2ad7e8f4b73de62057c8.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[大耳狗·海盐薄荷_马卡龙]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/01984107f88db4cad644c5ef2d25ec0e9eabd652.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1719798498001,
 				"name":"大耳狗·海盐薄荷",
-				"tab_id":0,
 				"suit_item_id":218329401,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1719797857001,
 				"name":"大耳狗·海盐薄荷",
-				"tab_id":0,
 				"suit_item_id":218329401,
 				"properties":{
 					"fan_no_color":"#ffffff",

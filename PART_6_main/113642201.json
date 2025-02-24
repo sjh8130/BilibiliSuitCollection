@@ -36,7 +36,6 @@
 			{
 				"item_id":1684217097001,
 				"name":"一只麻团·青葱时光",
-				"tab_id":0,
 				"suit_item_id":113642201,
 				"properties":{
 					"fan_no_color":"#FF9BA2",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1684219380001,
 				"name":"一只麻团·青葱时光粉丝",
-				"tab_id":0,
 				"suit_item_id":113642201,
 				"properties":{
 					"fan_no_color":"#FF9BA2",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1684217180001,
 				"name":"一只麻团·青葱时光",
-				"tab_id":0,
 				"suit_item_id":113642201,
 				"properties":{
 					"fan_no_color":"#FF9BA2",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1684217125001,
 				"name":"一只麻团·青葱时光",
-				"tab_id":0,
 				"suit_item_id":113642201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5aa4abce2f7863db2f1f1dfc1fa4fd1a62f58e5d.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"哈哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/da78a85e56deb5387253e86682b0ecc82aa070eb.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/83a6913b9ce162ab9c853884dcc7643b04fcc1c7.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3e39e5e8c61b4d329b4f2c746af62e9e28e537b.png\"},{\"name\":\"买买买\",\"image\":\"https://i0.hdslb.com/bfs/garb/dfcebc8a1fff3f51957291648116ae7b2b01ddc8.png\"},{\"name\":\"哇哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/44f44604a42bdb049255809fc7ba03bdda5f32a1.png\"},{\"name\":\"在吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/a832e3d0c6c9ae1260621287cc55336366a51116.png\"},{\"name\":\"注意身体\",\"image\":\"https://i0.hdslb.com/bfs/garb/cbfd97cf9f77422d13656b9ad21ca8d07c832359.png\"},{\"name\":\"我错了\",\"image\":\"https://i0.hdslb.com/bfs/garb/4409cdb00f096ee9bc170e843d9e6e36632df104.png\"},{\"name\":\"尴尬\",\"image\":\"https://i0.hdslb.com/bfs/garb/87a41db05ade1bda2f5a47e628a78862a16b9f06.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/c755b08e419032555996850d494a03583df0413d.png\"},{\"name\":\"不想动\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ddc92adce95c1d7b458fc2bf85c9f37dd20e802.png\"},{\"name\":\"伤心\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0aa8a325b9374445dfc5db1d20f4a7a8af349d9.png\"},{\"name\":\"心累\",\"image\":\"https://i0.hdslb.com/bfs/garb/ecf4cbb665762262d5d94fb38f4d74dfe2d1c42d.png\"},{\"name\":\"再见\",\"image\":\"https://i0.hdslb.com/bfs/garb/686b3c0f64cae374f3cb9b8a83d2ec00ebd93436.png\"},{\"name\":\"酸了\",\"image\":\"https://i0.hdslb.com/bfs/garb/82e31cd5f81a73fb5ce9de7e5467fbf9fe87acae.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_不想动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9ddc92adce95c1d7b458fc2bf85c9f37dd20e802.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_买买买]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dfcebc8a1fff3f51957291648116ae7b2b01ddc8.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_伤心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c0aa8a325b9374445dfc5db1d20f4a7a8af349d9.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_再见]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/686b3c0f64cae374f3cb9b8a83d2ec00ebd93436.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_哇哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/44f44604a42bdb049255809fc7ba03bdda5f32a1.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_哈哈哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/da78a85e56deb5387253e86682b0ecc82aa070eb.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_在吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a832e3d0c6c9ae1260621287cc55336366a51116.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_害怕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c755b08e419032555996850d494a03583df0413d.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_尴尬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/87a41db05ade1bda2f5a47e628a78862a16b9f06.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_心累]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ecf4cbb665762262d5d94fb38f4d74dfe2d1c42d.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_我错了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4409cdb00f096ee9bc170e843d9e6e36632df104.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/83a6913b9ce162ab9c853884dcc7643b04fcc1c7.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_注意身体]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cbfd97cf9f77422d13656b9ad21ca8d07c832359.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_送花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b3e39e5e8c61b4d329b4f2c746af62e9e28e537b.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[一只麻团·青葱时光_酸了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/82e31cd5f81a73fb5ce9de7e5467fbf9fe87acae.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1684217683001,
 				"name":"一只麻团·青葱时光",
-				"tab_id":0,
 				"suit_item_id":113642201,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1684217407001,
 				"name":"一只麻团·青葱时光",
-				"tab_id":0,
 				"suit_item_id":113642201,
 				"properties":{
 					"fan_no_color":"#ffffff",

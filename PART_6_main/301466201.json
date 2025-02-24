@@ -35,7 +35,6 @@
 			{
 				"item_id":1736863174001,
 				"name":"星辰来信",
-				"tab_id":0,
 				"suit_item_id":301466201,
 				"properties":{
 					"fan_no_color":"#DDA2DD",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1736863174002,
 				"name":"星辰来信粉丝",
-				"tab_id":0,
 				"suit_item_id":301466201,
 				"properties":{
 					"fan_no_color":"#DDA2DD",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1736863392001,
 				"name":"星辰来信",
-				"tab_id":0,
 				"suit_item_id":301466201,
 				"properties":{
 					"fan_no_color":"#DDA2DD",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1736863228001,
 				"name":"星辰来信",
-				"tab_id":0,
 				"suit_item_id":301466201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d9c7ffbbe8722d2edf29b6b83cccb7643806ab08.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"魔法镜\",\"image\":\"https://i0.hdslb.com/bfs/garb/db1a9d641877528813027e5b710bb658a7549bf0.png\"},{\"name\":\"魔法鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca566251e8c8081c811a9239316b204a3fe066cf.png\"},{\"name\":\"蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/aee60b87062ac415e3e55a276ca2ca26a07e4a6b.png\"},{\"name\":\"烟花\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe6bcc1ff0f23d2d0c6abb98143673191b7d3925.png\"},{\"name\":\"便签\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d43ab057ebea367ce4c934c72255c021524ec69.png\"},{\"name\":\"许愿瓶\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba915922306d24c6f25e9fb31e0ab4e1dc0ab6aa.png\"},{\"name\":\"俏皮\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c8520428b4a2893493fbb815cf52a0acf6011a9.png\"},{\"name\":\"小熊\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f0ab1f9ff02f05b0efda0d5512fbe352e5512be.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1906821420cbc86385707ea5cff921598ee0ab3.png\"},{\"name\":\"信封\",\"image\":\"https://i0.hdslb.com/bfs/garb/eda976b3fdda4f1cf4b96a737f7158b8252cf974.png\"},{\"name\":\"梦幻\",\"image\":\"https://i0.hdslb.com/bfs/garb/39d75df438623387dc48c2da9d7855a5b323769a.png\"},{\"name\":\"祝你好梦\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2d63e855d3c1d344f687734a43cc733b4438037.png\"},{\"name\":\"露营\",\"image\":\"https://i0.hdslb.com/bfs/garb/87aed45910f8733beba79e85617babc28ba2bcbb.png\"},{\"name\":\"可爱小熊\",\"image\":\"https://i0.hdslb.com/bfs/garb/057cc2a889e634d9aee5413fb0aa34e3973a37d7.png\"},{\"name\":\"贴纸\",\"image\":\"https://i0.hdslb.com/bfs/garb/a52679f0644f6e78299862089872ae9a79f2f6e4.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,44 +99,7 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[星辰来信_魔法镜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/db1a9d641877528813027e5b710bb658a7549bf0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星辰来信_魔法鱼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ca566251e8c8081c811a9239316b204a3fe066cf.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星辰来信_蛋糕]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/aee60b87062ac415e3e55a276ca2ca26a07e4a6b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[星辰来信_烟花]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fe6bcc1ff0f23d2d0c6abb98143673191b7d3925.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[星辰来信_便签]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d43ab057ebea367ce4c934c72255c021524ec69.png",
 							"sale_type":"pay"
@@ -149,17 +107,7 @@
 					},
 					{
 						"item_id":0,
-						"name":"[星辰来信_许愿瓶]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ba915922306d24c6f25e9fb31e0ab4e1dc0ab6aa.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[星辰来信_俏皮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c8520428b4a2893493fbb815cf52a0acf6011a9.png",
 							"sale_type":"pay"
@@ -167,8 +115,23 @@
 					},
 					{
 						"item_id":0,
+						"name":"[星辰来信_信封]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/eda976b3fdda4f1cf4b96a737f7158b8252cf974.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星辰来信_可爱小熊]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/057cc2a889e634d9aee5413fb0aa34e3973a37d7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[星辰来信_小熊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3f0ab1f9ff02f05b0efda0d5512fbe352e5512be.png",
 							"sale_type":"pay"
@@ -177,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[星辰来信_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a1906821420cbc86385707ea5cff921598ee0ab3.png",
 							"sale_type":"pay"
@@ -185,17 +147,7 @@
 					},
 					{
 						"item_id":0,
-						"name":"[星辰来信_信封]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/eda976b3fdda4f1cf4b96a737f7158b8252cf974.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[星辰来信_梦幻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/39d75df438623387dc48c2da9d7855a5b323769a.png",
 							"sale_type":"pay"
@@ -203,8 +155,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[星辰来信_烟花]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/fe6bcc1ff0f23d2d0c6abb98143673191b7d3925.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[星辰来信_祝你好梦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a2d63e855d3c1d344f687734a43cc733b4438037.png",
 							"sale_type":"pay"
@@ -212,8 +171,31 @@
 					},
 					{
 						"item_id":0,
+						"name":"[星辰来信_蛋糕]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/aee60b87062ac415e3e55a276ca2ca26a07e4a6b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星辰来信_许愿瓶]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ba915922306d24c6f25e9fb31e0ab4e1dc0ab6aa.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[星辰来信_贴纸]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a52679f0644f6e78299862089872ae9a79f2f6e4.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[星辰来信_露营]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/87aed45910f8733beba79e85617babc28ba2bcbb.png",
 							"sale_type":"pay"
@@ -221,19 +203,17 @@
 					},
 					{
 						"item_id":0,
-						"name":"[星辰来信_可爱小熊]",
-						"tab_id":0,
+						"name":"[星辰来信_魔法镜]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/057cc2a889e634d9aee5413fb0aa34e3973a37d7.png",
+							"image":"https://i0.hdslb.com/bfs/garb/db1a9d641877528813027e5b710bb658a7549bf0.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[星辰来信_贴纸]",
-						"tab_id":0,
+						"name":"[星辰来信_魔法鱼]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a52679f0644f6e78299862089872ae9a79f2f6e4.png",
+							"image":"https://i0.hdslb.com/bfs/garb/ca566251e8c8081c811a9239316b204a3fe066cf.png",
 							"sale_type":"pay"
 						}
 					}
@@ -244,7 +224,6 @@
 			{
 				"item_id":1736863359001,
 				"name":"星辰来信",
-				"tab_id":0,
 				"suit_item_id":301466201,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1736863251001,
 				"name":"星辰来信",
-				"tab_id":0,
 				"suit_item_id":301466201,
 				"properties":{
 					"fan_no_color":"#ffffff",

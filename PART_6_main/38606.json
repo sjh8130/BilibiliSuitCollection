@@ -25,7 +25,6 @@
 		"item_id_thumbup":"38527",
 		"owner_uid":"620666",
 		"rank_investor_show":"false",
-		"realname_auth":"false",
 		"sale_bp_forever_raw":"6900",
 		"sale_bp_pm_raw":"1000",
 		"sale_buy_num_limit":"100",
@@ -47,7 +46,6 @@
 				"suit_item_id":38606,
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/92e71a84a64887081dc81a82490e1e1c923288a2.png",
-					"realname_auth":"false",
 					"sale_type":"other"
 				}
 			},
@@ -59,7 +57,6 @@
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/478b389fe17b5c30394afd2b0b5ca2d7720802df.png",
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/48ca08a67229519517c29744e556682e7aac9382.png",
-					"realname_auth":"false",
 					"sale_type":"other"
 				}
 			}
@@ -73,7 +70,6 @@
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/0ee8cb819481f8929084bc189359ae1cc33de12c.png",
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/27b3abcbb1768ab61ac1a6a10d56704b165f70a9.png",
-					"realname_auth":"false",
 					"sale_type":"suit"
 				}
 			}
@@ -88,11 +84,9 @@
 					"addable":"true",
 					"biz":"dynamic,reply,watch_full",
 					"image":"https://i0.hdslb.com/bfs/emote/6e3406d99ed64b25f3c8b5dec124afda316d6c4a.png",
-					"is_symbol":"false",
 					"item_ids":"38528,38529,38530,38531,38532,38533,38534,38535,38536,38537,38538,38539,38540,38541,38542,38543,38544,38545,38546,38547",
 					"permanent":"false",
 					"preview":"false",
-					"realname_auth":"false",
 					"recently_used":"false",
 					"recommend":"false",
 					"removable":"true",
@@ -107,9 +101,7 @@
 						"name":"[纳豆 nado_GKD]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/6ef2e2e5094f7fbb438af145aa42c0f66e75fa7b.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -118,9 +110,7 @@
 						"name":"[纳豆 nado_no]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/0f4561fd7d1f83405ea1b30db1357af698d8121b.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -129,9 +119,7 @@
 						"name":"[纳豆 nado_yes]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/3cc8a91ddfc6670bfdd42342362ad03c8f6aa644.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -140,9 +128,7 @@
 						"name":"[纳豆 nado_比心]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/a10c9bba26bca5c576f2766ad9e04472b1f6393a.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -151,9 +137,7 @@
 						"name":"[纳豆 nado_馋]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/e38f1d04cdf539adad0e39844bcedb6628ab67f2.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -162,9 +146,7 @@
 						"name":"[纳豆 nado_冲鸭]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/edce014dea80a0a9c454097f0e2d754765070bcd.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -173,9 +155,7 @@
 						"name":"[纳豆 nado_戳]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/a6194f74578969fbea82c96ab3127b71f3913dab.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -184,9 +164,7 @@
 						"name":"[纳豆 nado_薅呆毛]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/007ab0f397a461e99d48791b798a25eae3ef95cf.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -195,9 +173,7 @@
 						"name":"[纳豆 nado_就这]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/d5b166286b6eed693f1b0292aec209957159600d.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -206,9 +182,7 @@
 						"name":"[纳豆 nado_老音乐人]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/e2008ea0cd94990ee309fa0bd4c6dbf5ddae963c.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -217,9 +191,7 @@
 						"name":"[纳豆 nado_泪目]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/a6d73195f8cae86ada1ae6f2802e02faa67cd1d3.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -228,9 +200,7 @@
 						"name":"[纳豆 nado_冒头]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/7bf9dcb4e220f84199bde7c531d68b38360840c6.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -239,9 +209,7 @@
 						"name":"[纳豆 nado_柠檬精]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/e52bf6bf5cd5a342de09802fd44158e9452a3841.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -250,9 +218,7 @@
 						"name":"[纳豆 nado_亲亲]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/6baeaa8a815956551fe8b7077ee45a4778e4062d.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -261,9 +227,7 @@
 						"name":"[纳豆 nado_舒服了]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/253badde901bf5c59061e95c309af56194e433bb.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -272,9 +236,7 @@
 						"name":"[纳豆 nado_晚安]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/57754f7493b654c9857f22d7da67613124479b2a.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -283,9 +245,7 @@
 						"name":"[纳豆 nado_问号]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/7fbbae3e9d21abd23c5d1363dc1439ae46b5cd28.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -294,9 +254,7 @@
 						"name":"[纳豆 nado_洗手]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/ac1ee12f8b1e3ac4ba5bebcb173ffc0f63a2a0bc.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -305,9 +263,7 @@
 						"name":"[纳豆 nado_亿点点]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/6a1735cf7d783c75b3bcabc5d58c8c3ea5e6238f.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -316,9 +272,7 @@
 						"name":"[纳豆 nado_元气满满]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/de1d78952f6ee51fa139d82bf0c1d10f6b61fa19.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					}
@@ -335,7 +289,6 @@
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/29e80093af84ae964dbceea221313f085352edc2.png",
 					"loading_frame_url":"https://i0.hdslb.com/bfs/garb/item/599e39dc699936375f11ca1ed47ebe77a9f28bf8.png",
 					"loading_url":"https://i0.hdslb.com/bfs/garb/item/111a4c96afe25528374ce87ce15a8130158ff50e.webp",
-					"realname_auth":"false",
 					"ver":"1664347260"
 				}
 			}
@@ -350,7 +303,6 @@
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/item/d61c08b9fc484a143e27fc6e2ac22ceddf0abf7a.png",
 					"drag_right_png":"https://i0.hdslb.com/bfs/garb/item/03fcd21f4c5e457f78aa675c5623e6b3c9f883bf.png",
 					"middle_png":"https://i0.hdslb.com/bfs/garb/item/274c436de353359c8ef38dcb22f36ba8d5e68434.png",
-					"realname_auth":"false",
 					"squared_image":"https://i0.hdslb.com/bfs/garb/item/cd7a9be153f5124898bbf891e2a87a04d88c80ad.png",
 					"static_icon_image":"https://i0.hdslb.com/bfs/garb/item/929b6f1d6e9c49404d79e39d809690a1d475c038.png",
 					"ver":"1664347308"
@@ -376,7 +328,6 @@
 					"image_preview":"https://i0.hdslb.com/bfs/garb/item/221da0d0db5b2f99427f2b8cc25a4963edbdbd07.jpg",
 					"package_md5":"34b850c37c0bcab1d5ba4b35828f1825",
 					"package_url":"https://i0.hdslb.com/bfs/garb/zip/f5381ebb6167cea0675c4a0d9b4d580cd6068e57.zip",
-					"realname_auth":"false",
 					"skin_mode":"normal",
 					"tail_bg":"https://i0.hdslb.com/bfs/garb/item/eeb9172195d1bc3a5b9631f20487b367a54c86d7.png",
 					"tail_color":"#003e27",
@@ -418,8 +369,7 @@
 					"image4_landscape":"https://i0.hdslb.com/bfs/garb/item/84f4759f3351d7d03da7be0f2915893f85bcddc1.jpg",
 					"image4_portrait":"https://i0.hdslb.com/bfs/garb/item/5109225a9d32f56c3b8d4ee1f3e995abeb75b75f.jpg",
 					"image5_landscape":"https://i0.hdslb.com/bfs/garb/item/43f4381603409d19ef8e712f2219b232cf868564.jpg",
-					"image5_portrait":"https://i0.hdslb.com/bfs/garb/item/ace4d0968f20dad528aaef74cc91ae8da95a6e58.jpg",
-					"realname_auth":"false"
+					"image5_portrait":"https://i0.hdslb.com/bfs/garb/item/ace4d0968f20dad528aaef74cc91ae8da95a6e58.jpg"
 				}
 			}
 		],
@@ -432,8 +382,7 @@
 				"properties":{
 					"image_ani":"https://i0.hdslb.com/bfs/garb/item/e2522265b0e631302c89b910e6a3e41377503115.bin",
 					"image_ani_cut":"https://i0.hdslb.com/bfs/garb/item/e98ded015969ae95eb6fb1b2c7a878de7e22aea4.bin",
-					"image_preview":"https://i0.hdslb.com/bfs/garb/item/c7120a3657c278745a9ab078625c67d54f1d52a5.png",
-					"realname_auth":"false"
+					"image_preview":"https://i0.hdslb.com/bfs/garb/item/c7120a3657c278745a9ab078625c67d54f1d52a5.png"
 				}
 			}
 		]

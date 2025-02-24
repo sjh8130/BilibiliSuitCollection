@@ -35,7 +35,6 @@
 			{
 				"item_id":1710142716001,
 				"name":"伊梦入梦之旅主题动态卡片",
-				"tab_id":0,
 				"suit_item_id":207234001,
 				"properties":{
 					"fan_no_color":"#FF955B",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1710143986001,
 				"name":"伊梦入梦之旅主题动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":207234001,
 				"properties":{
 					"fan_no_color":"#FF955B",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1710142763001,
 				"name":"伊梦入梦之旅主题评论背景",
-				"tab_id":0,
 				"suit_item_id":207234001,
 				"properties":{
 					"fan_no_color":"#FF955B",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1710143029001,
 				"name":"伊梦入梦之旅主题表情包",
-				"tab_id":0,
 				"suit_item_id":207234001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/199f698de8662d958c8a319f1d746da8df3eaff9.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"断网\",\"image\":\"https://i0.hdslb.com/bfs/garb/df6d175c34c8d72b295e33e136ae53c848a5c3d8.png\"},{\"name\":\"沉思...\",\"image\":\"https://i0.hdslb.com/bfs/garb/626bc87dbe2510dbbbea0f1b6a42bbf789cf1dd1.png\"},{\"name\":\"哈！\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0c19065c9aa68a25fc7752294feda9f33fea4aa.png\"},{\"name\":\"阴阳怪气\",\"image\":\"https://i0.hdslb.com/bfs/garb/28136212eb1dc1a70259619496f8a094e5bb7780.png\"},{\"name\":\"别扭\",\"image\":\"https://i0.hdslb.com/bfs/garb/afc3d2753ed8161f588fee5cb9dc3b2a21da3aab.png\"},{\"name\":\"恍然大悟\",\"image\":\"https://i0.hdslb.com/bfs/garb/bffa7f3e7faffa5b3f66db75dda4561f5a30f142.png\"},{\"name\":\"使坏\",\"image\":\"https://i0.hdslb.com/bfs/garb/56958b5910ff9c41792053201ebbd534383f3480.png\"},{\"name\":\"吓\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea8482dd2fbca989352884094d2d91282777e2c4.png\"},{\"name\":\"熬夜\",\"image\":\"https://i0.hdslb.com/bfs/garb/00575b9cc44b5b56e8a565010cc8d5c90b8f6085.png\"},{\"name\":\"努力ing\",\"image\":\"https://i0.hdslb.com/bfs/garb/48b3dd652f1667327cf87d2ebcd310d059acca2f.png\"},{\"name\":\"指\",\"image\":\"https://i0.hdslb.com/bfs/garb/4bd5991d32e53105aa52aac26b633b2510dcdb16.png\"},{\"name\":\"发射爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8697be83c901bf658c7130ac210d2ffda448ad6.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/71844235746b2e0aed944e0f437dc35192ef0b86.png\"},{\"name\":\"病娇\",\"image\":\"https://i0.hdslb.com/bfs/garb/22ab36a637e75368308b3bbd853d4586759d8736.png\"},{\"name\":\"救救\",\"image\":\"https://i0.hdslb.com/bfs/garb/d391ee08c41dfd12c813de6fef47ce8392f433da.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_使坏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/56958b5910ff9c41792053201ebbd534383f3480.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_别扭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/afc3d2753ed8161f588fee5cb9dc3b2a21da3aab.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_努力ing]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/48b3dd652f1667327cf87d2ebcd310d059acca2f.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_发射爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e8697be83c901bf658c7130ac210d2ffda448ad6.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_吓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea8482dd2fbca989352884094d2d91282777e2c4.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_哈！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f0c19065c9aa68a25fc7752294feda9f33fea4aa.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_恍然大悟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bffa7f3e7faffa5b3f66db75dda4561f5a30f142.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_指]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4bd5991d32e53105aa52aac26b633b2510dcdb16.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_救救]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d391ee08c41dfd12c813de6fef47ce8392f433da.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_断网]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/df6d175c34c8d72b295e33e136ae53c848a5c3d8.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_沉思...]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/626bc87dbe2510dbbbea0f1b6a42bbf789cf1dd1.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_熬夜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/00575b9cc44b5b56e8a565010cc8d5c90b8f6085.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/71844235746b2e0aed944e0f437dc35192ef0b86.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_病娇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/22ab36a637e75368308b3bbd853d4586759d8736.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[伊梦入梦之旅主题表情包_阴阳怪气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/28136212eb1dc1a70259619496f8a094e5bb7780.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1710143489001,
 				"name":"伊梦入梦之旅主题个性主题",
-				"tab_id":0,
 				"suit_item_id":207234001,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1710142896001,
 				"name":"伊梦入梦之旅主题空间背景",
-				"tab_id":0,
 				"suit_item_id":207234001,
 				"properties":{
 					"fan_no_color":"#ffffff",

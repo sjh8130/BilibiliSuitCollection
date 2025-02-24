@@ -35,7 +35,6 @@
 			{
 				"item_id":1690878477001,
 				"name":"人群中的我和你 动态卡片",
-				"tab_id":0,
 				"suit_item_id":122036901,
 				"properties":{
 					"fan_no_color":"#85D059",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1690878477002,
 				"name":"人群中的我和你 动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":122036901,
 				"properties":{
 					"fan_no_color":"#85D059",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1690878613001,
 				"name":"人群中的我和你",
-				"tab_id":0,
 				"suit_item_id":122036901,
 				"properties":{
 					"fan_no_color":"#CD9D69",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1690878708001,
 				"name":"人群中的我和你",
-				"tab_id":0,
 				"suit_item_id":122036901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9c6a9a8db0757f9d89b592fb7734a8fae4be6bd0.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d567a21ecbf4c9a1a2ba2e115ee54d9bc4c1fcc.png\"},{\"name\":\"乖巧\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e35db25c141861ca5814185ec949af106024a44.png\"},{\"name\":\"哈哈哈嗝\",\"image\":\"https://i0.hdslb.com/bfs/garb/5bbf90d8da2358ca273cfcf5e34e39c35f9fdc39.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a0c901648c88f73eafa83e845b557c64a0eb060.png\"},{\"name\":\"呀嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/7164b8d95e7c02f073236f175cbb5e3c224809ff.png\"},{\"name\":\"上天\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1a3c89af4c95ad264f396933d25698b26767070.png\"},{\"name\":\"来咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e236e183491e6d0aa1e54b1a9096c34bc2c7a94.png\"},{\"name\":\"哎嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/6bfa55f26cb7424f73b8e03ae192c50d92341eae.png\"},{\"name\":\"砸\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2d1761b1e6947fcab4fc744e87c6307a2f448c0.png\"},{\"name\":\"速度\",\"image\":\"https://i0.hdslb.com/bfs/garb/39b637046e202869aba83957da3805826cef0ea2.png\"},{\"name\":\"啊哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/b88612fa7d3caadfeed298df021c89a4db462757.png\"},{\"name\":\"康康\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3b2a2c6fc84d11e1318296590921126386ad9f8.png\"},{\"name\":\"咿呀咿\",\"image\":\"https://i0.hdslb.com/bfs/garb/a212456c59105306da6bdc4c84b01ea275a643ad.png\"},{\"name\":\"一起跳舞\",\"image\":\"https://i0.hdslb.com/bfs/garb/18af559a94785edd74b955a1af70340ad1ae21e8.png\"},{\"name\":\"芜湖\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef3062fecc3059322fd060d65c9db361d29965e1.png\"},{\"name\":\"没眼看\",\"image\":\"https://i0.hdslb.com/bfs/garb/5bef9f554b7f54f3618052b69693b5da6cf20290.png\"},{\"name\":\"变变变\",\"image\":\"https://i0.hdslb.com/bfs/garb/60ad240ea88873045b7a2fc336d9da2d801bc9dc.png\"},{\"name\":\"快来\",\"image\":\"https://i0.hdslb.com/bfs/garb/45333e74d24714ad6e38a007d1841fda22979af1.png\"},{\"name\":\"下雨咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/bfd9b9d07ebd22aa49c91c2baef843a03b6266ff.png\"},{\"name\":\"扭扭\",\"image\":\"https://i0.hdslb.com/bfs/garb/e051a96b176dd675b203de2ec534028bd75c418a.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_一起跳舞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/18af559a94785edd74b955a1af70340ad1ae21e8.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_上天]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e1a3c89af4c95ad264f396933d25698b26767070.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_下雨咯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bfd9b9d07ebd22aa49c91c2baef843a03b6266ff.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_乖巧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7e35db25c141861ca5814185ec949af106024a44.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_变变变]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/60ad240ea88873045b7a2fc336d9da2d801bc9dc.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_呀嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7164b8d95e7c02f073236f175cbb5e3c224809ff.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_咿呀咿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a212456c59105306da6bdc4c84b01ea275a643ad.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_哈哈哈嗝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5bbf90d8da2358ca273cfcf5e34e39c35f9fdc39.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_哎嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6bfa55f26cb7424f73b8e03ae192c50d92341eae.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_啊哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b88612fa7d3caadfeed298df021c89a4db462757.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_嗨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1d567a21ecbf4c9a1a2ba2e115ee54d9bc4c1fcc.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_康康]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a3b2a2c6fc84d11e1318296590921126386ad9f8.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_快来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/45333e74d24714ad6e38a007d1841fda22979af1.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_扭扭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e051a96b176dd675b203de2ec534028bd75c418a.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7a0c901648c88f73eafa83e845b557c64a0eb060.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_来咯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e236e183491e6d0aa1e54b1a9096c34bc2c7a94.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_没眼看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5bef9f554b7f54f3618052b69693b5da6cf20290.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_砸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b2d1761b1e6947fcab4fc744e87c6307a2f448c0.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_芜湖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ef3062fecc3059322fd060d65c9db361d29965e1.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[人群中的我和你_速度]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/39b637046e202869aba83957da3805826cef0ea2.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1690878943001,
 				"name":"人群中的我和你",
-				"tab_id":0,
 				"suit_item_id":122036901,
 				"properties":{
 					"color":"#000000",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1690878661001,
 				"name":"人群中的我和你",
-				"tab_id":0,
 				"suit_item_id":122036901,
 				"properties":{
 					"fan_no_color":"#ffffff",

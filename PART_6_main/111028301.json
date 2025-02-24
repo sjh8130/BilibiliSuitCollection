@@ -36,7 +36,6 @@
 			{
 				"item_id":1681953209001,
 				"name":"nono狗 游乐园",
-				"tab_id":0,
 				"suit_item_id":111028301,
 				"properties":{
 					"fan_no_color":"#E69DBC",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1681953209002,
 				"name":"nono狗 游乐园粉丝",
-				"tab_id":0,
 				"suit_item_id":111028301,
 				"properties":{
 					"fan_no_color":"#E69DBC",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1681953341001,
 				"name":"nono狗 游乐园",
-				"tab_id":0,
 				"suit_item_id":111028301,
 				"properties":{
 					"fan_no_color":"#E69DBC",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1681953448001,
 				"name":"nono狗 游乐园",
-				"tab_id":0,
 				"suit_item_id":111028301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/816675edac272eccf99553ccaa0aa74c850e2fbf.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"求收养\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac04f6f15b57dfedf9b6a0e0975c97b43763c585.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/041d5e42a6c10d09e3acd16e7d57c1aa330bca74.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/52b2aaab585c146087c2c040017969ac2178b3c1.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/b1302b1981327a4f469972bdac500f2f7e176980.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/b4810457b342deee3053a1ee49b049148549335e.png\"},{\"name\":\"玩耍\",\"image\":\"https://i0.hdslb.com/bfs/garb/8cbedc7897e75afe74246a99f12386e25deee3f1.png\"},{\"name\":\"休息\",\"image\":\"https://i0.hdslb.com/bfs/garb/56724bb297e5da77181fa6d1b24bfe634b461108.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/85459d6664637264583ce99153aa7e6cf90463f8.png\"},{\"name\":\"庆祝\",\"image\":\"https://i0.hdslb.com/bfs/garb/819ad0f099d003a8c57f4fb9af71441e979cea68.png\"},{\"name\":\"嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b2e26dfef79ecfdb8cabae041ec9049a2410a76.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9a97cb7e8be0c5528e800647ea0d9abc9507dae.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e0f80e2cd05ec96b400dcfc8e60600ce7f4620e.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/f64e354b92617517b6368147bafdc21296745bf9.png\"},{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/f258cd65d4ef3ad1d12890ae9bcc355e66c0bf9c.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/56b121cc36b6e7064bbe83e4a023b4564f1861c8.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_休息]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/56724bb297e5da77181fa6d1b24bfe634b461108.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/52b2aaab585c146087c2c040017969ac2178b3c1.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f64e354b92617517b6368147bafdc21296745bf9.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_嗨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2b2e26dfef79ecfdb8cabae041ec9049a2410a76.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/56b121cc36b6e7064bbe83e4a023b4564f1861c8.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_庆祝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/819ad0f099d003a8c57f4fb9af71441e979cea68.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_投币]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f258cd65d4ef3ad1d12890ae9bcc355e66c0bf9c.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7e0f80e2cd05ec96b400dcfc8e60600ce7f4620e.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b9a97cb7e8be0c5528e800647ea0d9abc9507dae.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/041d5e42a6c10d09e3acd16e7d57c1aa330bca74.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_求收养]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ac04f6f15b57dfedf9b6a0e0975c97b43763c585.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b1302b1981327a4f469972bdac500f2f7e176980.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_玩耍]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8cbedc7897e75afe74246a99f12386e25deee3f1.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b4810457b342deee3053a1ee49b049148549335e.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗 游乐园_睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/85459d6664637264583ce99153aa7e6cf90463f8.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1681953941001,
 				"name":"nono狗 游乐园",
-				"tab_id":0,
 				"suit_item_id":111028301,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1681953412001,
 				"name":"nono狗 游乐园",
-				"tab_id":0,
 				"suit_item_id":111028301,
 				"properties":{
 					"fan_no_color":"#ffffff",

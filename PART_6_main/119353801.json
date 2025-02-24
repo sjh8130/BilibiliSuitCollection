@@ -35,7 +35,6 @@
 			{
 				"item_id":1689952889001,
 				"name":"小茂之森",
-				"tab_id":0,
 				"suit_item_id":119353801,
 				"properties":{
 					"fan_no_color":"#9FB63B",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1689953503001,
 				"name":"小茂之森粉丝",
-				"tab_id":0,
 				"suit_item_id":119353801,
 				"properties":{
 					"fan_no_color":"#9FB63B",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1689155165001,
 				"name":"茂之森",
-				"tab_id":0,
 				"suit_item_id":119353801,
 				"properties":{
 					"fan_no_color":"#9EB445",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1689144153001,
 				"name":"茂之森",
-				"tab_id":0,
 				"suit_item_id":119353801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7000dcff426c9cd3ead816b2fba102d73c51542b.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"大拇指\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f7cb7add3c99906858a25c9d45c4da95dea5176.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/62922c007436ea8e55902d58bbb96f41fc06d225.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/4053d189164d2b3fd804f4bdaaa7cf29351d11e5.png\"},{\"name\":\"诶嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f5f9b2cfdcf73d7c6088ea7cbdb0f867abd48f5.png\"},{\"name\":\"美好\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4771d340f4afc012cbdde5dcb2a0218e0ad843c.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0acf1299215e163de34aa92386f1ee68f95947a.png\"},{\"name\":\"送你花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/622f2d217a1ba5744adc1c3b85c30eec2f8f492c.png\"},{\"name\":\"躺\",\"image\":\"https://i0.hdslb.com/bfs/garb/1328daf01e90aa9f55b52a0d6360effe70f5647a.png\"},{\"name\":\"猫猫小憩\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe09507d888a2cd518b46123e17da0c4e1076ccc.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/d99ee272049ae6d4cd09a4b91a0448440e3ca4e6.png\"},{\"name\":\"森日快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/644a1e2c5677e56de63bb4b5225f0f5a8973415e.png\"},{\"name\":\"魔法药水\",\"image\":\"https://i0.hdslb.com/bfs/garb/8c6f03aa9c2115ab598683695dd6840ee6549bc6.png\"},{\"name\":\"撑伞\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5b62fef1c96254da7907820b429e3cb85f558f0.png\"},{\"name\":\"听雨\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca8909c36bd20f0c9b534380dbbc41e934d6e38d.png\"},{\"name\":\"雨中舞\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0ca0e10bd61cc228a6e27e067bcd0be44867add.png\"},{\"name\":\"画爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/68b774157c64a9ae62eede3db2581802643d7b7e.png\"},{\"name\":\"三彩丸子\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a4cb43eb2facc6f5552d4950a519bc75476a164.png\"},{\"name\":\"花仙宝宝唱\",\"image\":\"https://i0.hdslb.com/bfs/garb/23e3e5059fa47c52b124bc83ff586295c026554f.png\"},{\"name\":\"花仙宝宝困\",\"image\":\"https://i0.hdslb.com/bfs/garb/60e0b0b41ec65807176a72ed08fd52a0863ca96e.png\"},{\"name\":\"花仙宝宝乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/415115883432a64dd35307eba3990e808d0ca4e1.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_三彩丸子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4a4cb43eb2facc6f5552d4950a519bc75476a164.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_听雨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ca8909c36bd20f0c9b534380dbbc41e934d6e38d.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_大哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/62922c007436ea8e55902d58bbb96f41fc06d225.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_大拇指]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8f7cb7add3c99906858a25c9d45c4da95dea5176.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d99ee272049ae6d4cd09a4b91a0448440e3ca4e6.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_撑伞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e5b62fef1c96254da7907820b429e3cb85f558f0.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_森日快乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/644a1e2c5677e56de63bb4b5225f0f5a8973415e.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c0acf1299215e163de34aa92386f1ee68f95947a.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_猫猫小憩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fe09507d888a2cd518b46123e17da0c4e1076ccc.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_画爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/68b774157c64a9ae62eede3db2581802643d7b7e.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4053d189164d2b3fd804f4bdaaa7cf29351d11e5.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_美好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c4771d340f4afc012cbdde5dcb2a0218e0ad843c.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_花仙宝宝乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/415115883432a64dd35307eba3990e808d0ca4e1.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_花仙宝宝唱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/23e3e5059fa47c52b124bc83ff586295c026554f.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_花仙宝宝困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/60e0b0b41ec65807176a72ed08fd52a0863ca96e.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_诶嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4f5f9b2cfdcf73d7c6088ea7cbdb0f867abd48f5.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_躺]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1328daf01e90aa9f55b52a0d6360effe70f5647a.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_送你花花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/622f2d217a1ba5744adc1c3b85c30eec2f8f492c.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_雨中舞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e0ca0e10bd61cc228a6e27e067bcd0be44867add.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[茂之森_魔法药水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8c6f03aa9c2115ab598683695dd6840ee6549bc6.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1689154125001,
 				"name":"茂之森",
-				"tab_id":0,
 				"suit_item_id":119353801,
 				"properties":{
 					"color":"#000000",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1689049836001,
 				"name":"茂之森",
-				"tab_id":0,
 				"suit_item_id":119353801,
 				"properties":{
 					"fan_no_color":"#ffffff",

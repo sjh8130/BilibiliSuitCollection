@@ -35,7 +35,6 @@
 			{
 				"item_id":1691995013001,
 				"name":"打工人修狗",
-				"tab_id":0,
 				"suit_item_id":122730201,
 				"properties":{
 					"fan_no_color":"#2C7CB6",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1691996125001,
 				"name":"打工人修狗粉丝",
-				"tab_id":0,
 				"suit_item_id":122730201,
 				"properties":{
 					"fan_no_color":"#2C7CB6",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1691995087001,
 				"name":"打工人修狗",
-				"tab_id":0,
 				"suit_item_id":122730201,
 				"properties":{
 					"fan_no_color":"#2C7CB6",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1691995409001,
 				"name":"打工人修狗",
-				"tab_id":0,
 				"suit_item_id":122730201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/3074620356f7ea8bd34adebcaa21637d2360d5be.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"快乐小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/29304fc2ca83851d4aa20bae2c885b7aed443612.png\"},{\"name\":\"小狗开花\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9cc1cd07e6d52f52f17219b7407cb61d1424978.png\"},{\"name\":\"溜了溜了\",\"image\":\"https://i0.hdslb.com/bfs/garb/da2dd9d8c5864cabd74cc364d4ca990964190d11.png\"},{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/0278f57ce7d9090420c5ed94d11ce7f4538d0702.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/84427ff697d17a52d2ae204e6923d52705fad2a0.png\"},{\"name\":\"略略略\",\"image\":\"https://i0.hdslb.com/bfs/garb/2589d435fb237b351ad28da5bd547c29620b15ef.png\"},{\"name\":\"玩溜溜球\",\"image\":\"https://i0.hdslb.com/bfs/garb/dcc86febf4a47e7be511c3293a87b3fc77d8d35c.png\"},{\"name\":\"盆栽小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/d057f3421ceea527252d76f89bb1951923170704.png\"},{\"name\":\"工作\",\"image\":\"https://i0.hdslb.com/bfs/garb/77b7f6a3c8871bfc0d947458716811f90a127968.png\"},{\"name\":\"我生气了\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5600e72b45ddf1ef1950ba02284c14b4c280a03.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6137ad5997de2fd85ca30b38885dc1301c68aa3.png\"},{\"name\":\"擦汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/db9feadcf5490391c764a6f6be49bb35ef6865ba.png\"},{\"name\":\"约吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/2389231804bfa59c5a0a2bd35467e8849ab41f1c.png\"},{\"name\":\"小狗疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d7d5199118bfafaae371560aa51505f4986abd6.png\"},{\"name\":\"小狗emo\",\"image\":\"https://i0.hdslb.com/bfs/garb/0be36930447bcca2c769eab13a0a4cba5395324c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_好耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0278f57ce7d9090420c5ed94d11ce7f4538d0702.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_小狗emo]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0be36930447bcca2c769eab13a0a4cba5395324c.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_小狗开花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b9cc1cd07e6d52f52f17219b7407cb61d1424978.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_小狗疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d7d5199118bfafaae371560aa51505f4986abd6.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_工作]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/77b7f6a3c8871bfc0d947458716811f90a127968.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_快乐小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/29304fc2ca83851d4aa20bae2c885b7aed443612.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_我生气了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d5600e72b45ddf1ef1950ba02284c14b4c280a03.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_擦汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db9feadcf5490391c764a6f6be49bb35ef6865ba.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_暗中观察]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/84427ff697d17a52d2ae204e6923d52705fad2a0.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_溜了溜了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/da2dd9d8c5864cabd74cc364d4ca990964190d11.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e6137ad5997de2fd85ca30b38885dc1301c68aa3.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_玩溜溜球]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dcc86febf4a47e7be511c3293a87b3fc77d8d35c.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_略略略]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2589d435fb237b351ad28da5bd547c29620b15ef.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_盆栽小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d057f3421ceea527252d76f89bb1951923170704.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[打工人修狗_约吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2389231804bfa59c5a0a2bd35467e8849ab41f1c.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1691996106001,
 				"name":"打工人修狗",
-				"tab_id":0,
 				"suit_item_id":122730201,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1691995129001,
 				"name":"打工人修狗",
-				"tab_id":0,
 				"suit_item_id":122730201,
 				"properties":{
 					"fan_no_color":"#ffffff",

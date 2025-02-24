@@ -2,7 +2,7 @@
 	"id":53,
 	"text":"热词系列一",
 	"url":"https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
-	"mtime":1737384894,
+	"mtime":1737712717,
 	"type":1,
 	"attr":2,
 	"meta":{
@@ -1125,17 +1125,6 @@
 				"label_text":"限时",
 				"label_color":"#FF20AAe2",
 				"alias":"并不简单"
-			},
-			"activity":{
-				"title":"生命奇观",
-				"start_time":1734883200,
-				"end_time":1736783999,
-				"jump_url":"https://www.bilibili.com/blackboard/era/bc35E28WQ5BiazQT.html",
-				"unlock_descs":[
-					"看纪录片《生命奇观》满10分钟解锁限定表情包",
-					"活动截至2025-01-13 23:59"
-				],
-				"jump_btn_desc":"看纪录片领“并不简单”表情包"
 			}
 		},
 		{
@@ -1150,17 +1139,6 @@
 				"label_text":"限时",
 				"label_color":"#FF20AAe2",
 				"alias":"吃瓜"
-			},
-			"activity":{
-				"title":"bilibili吃瓜大会",
-				"start_time":1736352000,
-				"end_time":1740672000,
-				"jump_url":"https://www.bilibili.com/blackboard/era/hM4jHpXtGfRH8VeL.html?msource=bq",
-				"unlock_descs":[
-					"分享【吃瓜战报】限时解锁“吃瓜”表情包",
-					"活动截至2025-02-28 00:00"
-				],
-				"jump_btn_desc":"分享吃瓜战报领表情包"
 			}
 		},
 		{
@@ -1175,17 +1153,6 @@
 				"label_text":"限时",
 				"label_color":"#FF20AAe2",
 				"alias":"好起来了"
-			},
-			"activity":{
-				"title":"感谢你，大好人！",
-				"start_time":1736697600,
-				"end_time":1738339200,
-				"jump_url":"https://www.bilibili.com/blackboard/era/g4rqKhFngcYbPSHG.html",
-				"unlock_descs":[
-					"为公益项目捐款或发布动态",
-					"活动截至2025-02-01 00:00"
-				],
-				"jump_btn_desc":"前往活动解锁"
 			}
 		},
 		{
@@ -1200,17 +1167,6 @@
 				"label_text":"限时",
 				"label_color":"#FF20AAe2",
 				"alias":"好人好抱"
-			},
-			"activity":{
-				"title":"感谢你，大好人！",
-				"start_time":1736697600,
-				"end_time":1738339200,
-				"jump_url":"https://www.bilibili.com/blackboard/era/g4rqKhFngcYbPSHG.html",
-				"unlock_descs":[
-					"为公益项目捐款或发布动态",
-					"活动截至2025-02-01 00:00"
-				],
-				"jump_btn_desc":"前往活动解锁"
 			}
 		},
 		{
@@ -1225,17 +1181,18 @@
 				"label_text":"限时",
 				"label_color":"#FF20AAe2",
 				"alias":"接好运"
-			},
-			"activity":{
-				"title":"感谢你，大好人！",
-				"start_time":1736697600,
-				"end_time":1738339200,
-				"jump_url":"https://www.bilibili.com/blackboard/era/g4rqKhFngcYbPSHG.html",
-				"unlock_descs":[
-					"为公益项目捐款或发布动态",
-					"活动截至2025-02-01 00:00"
-				],
-				"jump_btn_desc":"前往活动解锁"
+			}
+		},
+		{
+			"id":102630,
+			"package_id":53,
+			"text":"[热词系列_再给一集]",
+			"url":"https://i0.hdslb.com/bfs/emote/9f5e7d6a2d6171f8a96b9d112cc97278eaf5acca.png",
+			"mtime":1737712717,
+			"type":1,
+			"meta":{
+				"size":2,
+				"alias":"再给一集"
 			}
 		}
 	],

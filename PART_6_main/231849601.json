@@ -35,7 +35,6 @@
 			{
 				"item_id":1731464631001,
 				"name":"苹果小黑猫",
-				"tab_id":0,
 				"suit_item_id":231849601,
 				"properties":{
 					"fan_no_color":"#FFD2D4",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1731464631002,
 				"name":"苹果小黑猫粉丝",
-				"tab_id":0,
 				"suit_item_id":231849601,
 				"properties":{
 					"fan_no_color":"#FFD2D4",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1731464654001,
 				"name":"苹果小黑猫",
-				"tab_id":0,
 				"suit_item_id":231849601,
 				"properties":{
 					"fan_no_color":"#FFD57A",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1731464722001,
 				"name":"苹果小黑猫",
-				"tab_id":0,
 				"suit_item_id":231849601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5b57682283c47e17c6b61e58991130a44d6ffe60.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"头\",\"image\":\"https://i0.hdslb.com/bfs/garb/db7ed5854e77e6e33efdd22592d4d3e23eb7e06f.png\"},{\"name\":\"瑞士卷猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e4c6ffc3883ccf18bd79ba7f5309df5d96bd0bb.png\"},{\"name\":\"垃圾箱形态\",\"image\":\"https://i0.hdslb.com/bfs/garb/77c4e9d1196462e76ea911ac94f9727bf2878da2.png\"},{\"name\":\"躺\",\"image\":\"https://i0.hdslb.com/bfs/garb/22e3f8417c9a9d8adc3d5cc3bdb0d4f1ccdaba3c.png\"},{\"name\":\"苹果头\",\"image\":\"https://i0.hdslb.com/bfs/garb/acf8eaae1019d3c4ec54c773502b4e2f503bde7f.png\"},{\"name\":\"一条猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/89707db4d9fcb5be81d0c25e31539afb1e99fe13.png\"},{\"name\":\"小红帽\",\"image\":\"https://i0.hdslb.com/bfs/garb/049cd2d93296f57ba7e0f5f01928ba1f40d0848b.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/920fb1cde9f2f033677313f19b09da585073eddd.png\"},{\"name\":\"飞跃\",\"image\":\"https://i0.hdslb.com/bfs/garb/d3f098326089ef031cc884adad2e92bdce724498.png\"},{\"name\":\"震惊猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/32e77c8328af7e56363bc11f5da751baf144680b.png\"},{\"name\":\"尾\",\"image\":\"https://i0.hdslb.com/bfs/garb/838d002628fb3d957a23ded2f80468dd2132c505.png\"},{\"name\":\"汉堡猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/eae4138de159cdadcb951a9acb6e9b3d7ca6e20c.png\"},{\"name\":\"扑\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ff6e263bdc0bbd3307eb89eeee8f4cde00c018a.png\"},{\"name\":\"躲\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b1fb695d2600f6d0dedf7848f6e30f02c73f0cc.png\"},{\"name\":\"缠住了\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8c6cf55177cfa7c56953f7c893420bf9150bb90.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_一条猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/89707db4d9fcb5be81d0c25e31539afb1e99fe13.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_垃圾箱形态]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/77c4e9d1196462e76ea911ac94f9727bf2878da2.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db7ed5854e77e6e33efdd22592d4d3e23eb7e06f.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_小红帽]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/049cd2d93296f57ba7e0f5f01928ba1f40d0848b.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_尾]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/838d002628fb3d957a23ded2f80468dd2132c505.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_扑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8ff6e263bdc0bbd3307eb89eeee8f4cde00c018a.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/920fb1cde9f2f033677313f19b09da585073eddd.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_汉堡猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eae4138de159cdadcb951a9acb6e9b3d7ca6e20c.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_瑞士卷猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5e4c6ffc3883ccf18bd79ba7f5309df5d96bd0bb.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_缠住了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b8c6cf55177cfa7c56953f7c893420bf9150bb90.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_苹果头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/acf8eaae1019d3c4ec54c773502b4e2f503bde7f.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_躲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9b1fb695d2600f6d0dedf7848f6e30f02c73f0cc.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_躺]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/22e3f8417c9a9d8adc3d5cc3bdb0d4f1ccdaba3c.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_震惊猫猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/32e77c8328af7e56363bc11f5da751baf144680b.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[苹果小黑猫_飞跃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d3f098326089ef031cc884adad2e92bdce724498.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1731464782001,
 				"name":"苹果小黑猫",
-				"tab_id":0,
 				"suit_item_id":231849601,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1731464674001,
 				"name":"苹果小黑猫",
-				"tab_id":0,
 				"suit_item_id":231849601,
 				"properties":{
 					"fan_no_color":"#ffffff",

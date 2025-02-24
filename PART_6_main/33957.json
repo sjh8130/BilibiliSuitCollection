@@ -25,7 +25,6 @@
 		"item_id_thumbup":"33979",
 		"owner_uid":"647193094",
 		"rank_investor_show":"false",
-		"realname_auth":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"100",
@@ -47,7 +46,6 @@
 				"suit_item_id":33957,
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/502465edd454b5ed070360f93d3bd6f921c80d2c.png",
-					"realname_auth":"false",
 					"sale_type":"other"
 				}
 			},
@@ -59,7 +57,6 @@
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/d36962a3e17c1e03fabd6a1144d0c9afdcab547d.png",
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/6d164584374df5a8fa0aaa6ebc410839fb5e9215.png",
-					"realname_auth":"false",
 					"sale_type":"other"
 				}
 			}
@@ -73,7 +70,6 @@
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/d7323e20ca021acc40f0b12f5d266d432d6dfeb9.png",
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/e8fb8c1308730dba0a7be95f67b1fe2bde567e52.png",
-					"realname_auth":"false",
 					"sale_type":"suit"
 				}
 			}
@@ -88,11 +84,9 @@
 					"addable":"true",
 					"biz":"dynamic,reply,watch_full",
 					"image":"https://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
-					"is_symbol":"false",
 					"item_ids":"33981,33982,33983,33984,33985,33986,33987,33988,33995,33996",
 					"permanent":"false",
 					"preview":"false",
-					"realname_auth":"false",
 					"recently_used":"false",
 					"recommend":"false",
 					"removable":"true",
@@ -107,9 +101,7 @@
 						"name":"[我的小铺_OK]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/16178084fc75db8185f875f08bc52544673f9ff6.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -118,9 +110,7 @@
 						"name":"[我的小铺_啊]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/18e7e739ef9c4a9f9db0b5be27fad938de1e4ea3.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -129,9 +119,7 @@
 						"name":"[我的小铺_比心]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/b397692105d878e1af33b3719bf4a85058168af4.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -140,9 +128,7 @@
 						"name":"[我的小铺_感谢]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/6441c32e775f35f0e30d1f0367f5e20cc658d5aa.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -151,9 +137,7 @@
 						"name":"[我的小铺_害羞]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/85b6e0f1471045567ead68cf72b6d389bd9d2022.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -165,7 +149,6 @@
 							"act_id":"196",
 							"image":"https://i0.hdslb.com/bfs/garb/item/bb95a716723fa17354aa18ae10323903747c79ec.png",
 							"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/edfb01bd0fa7de7c7e3f516a16a16e8b0cde9ef5.png",
-							"realname_auth":"false",
 							"sale_type":"collect_card"
 						}
 					},
@@ -177,7 +160,6 @@
 							"act_id":"100000",
 							"image":"https://i0.hdslb.com/bfs/garb/item/bb95a716723fa17354aa18ae10323903747c79ec.png",
 							"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/edfb01bd0fa7de7c7e3f516a16a16e8b0cde9ef5.png",
-							"realname_auth":"false",
 							"sale_type":"collect_card"
 						}
 					},
@@ -186,9 +168,7 @@
 						"name":"[我的小铺_新年快乐]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/c10c4d6299988bfdbd3a5312214b38f8589ecf99.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -197,9 +177,7 @@
 						"name":"[我的小铺_疑惑]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/cc24e2aa3fef11398f27bda1460323ec0eadba71.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -208,9 +186,7 @@
 						"name":"[我的小铺_在吗]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/8802d961ea9b22b29bacf0e0ba1929b99ee57c8b.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					}
@@ -235,7 +211,6 @@
 					"image_preview":"https://i0.hdslb.com/bfs/garb/item/08af0e8ed83dea7455d4d3345a2723c0d2eeb57b.png",
 					"package_md5":"3ec7df5fd1bc951e0b24301bc03e0a2c",
 					"package_url":"https://i0.hdslb.com/bfs/garb/zip/9876ddd07ae4820d94614846231332836bc64f51.zip",
-					"realname_auth":"false",
 					"skin_mode":"normal",
 					"tail_bg":"https://i0.hdslb.com/bfs/garb/item/bbaa6e2d817a4618aabf2175975ea6a5b85e528b.png",
 					"tail_color":"#671618",
@@ -279,8 +254,7 @@
 					"image5_landscape":"https://i0.hdslb.com/bfs/garb/item/10ad0d34b16da4d16ab7131d07046c506d3d4309.jpg",
 					"image5_portrait":"https://i0.hdslb.com/bfs/garb/item/f310af9a193a1923e7ec26f89dda674c2ff07e52.jpg",
 					"image6_landscape":"https://i0.hdslb.com/bfs/garb/item/e44fcac8018b84745eda3c5fbdf58eab91a8be19.jpg",
-					"image6_portrait":"https://i0.hdslb.com/bfs/garb/item/44e5151aa5e963575cc8a447b651ae77dd817f26.jpg",
-					"realname_auth":"false"
+					"image6_portrait":"https://i0.hdslb.com/bfs/garb/item/44e5151aa5e963575cc8a447b651ae77dd817f26.jpg"
 				}
 			}
 		],
@@ -293,8 +267,7 @@
 				"properties":{
 					"image_ani":"https://i0.hdslb.com/bfs/garb/item/2c73c38bfe60ce68d5e5c678d0ed2fc459f79f9a.bin",
 					"image_ani_cut":"https://i0.hdslb.com/bfs/garb/item/4cb80936f2fdff0ff5ad06d087b7631cec052493.bin",
-					"image_preview":"https://i0.hdslb.com/bfs/garb/item/9ce78a814e609b592b04b09fa83eabce7091acec.png",
-					"realname_auth":"false"
+					"image_preview":"https://i0.hdslb.com/bfs/garb/item/9ce78a814e609b592b04b09fa83eabce7091acec.png"
 				}
 			}
 		]

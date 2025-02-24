@@ -36,7 +36,6 @@
 			{
 				"item_id":1724222098001,
 				"name":"治愈可爱小动物",
-				"tab_id":0,
 				"suit_item_id":223444201,
 				"properties":{
 					"fan_no_color":"#6DB9D9",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1724222098002,
 				"name":"治愈可爱小动物粉丝",
-				"tab_id":0,
 				"suit_item_id":223444201,
 				"properties":{
 					"fan_no_color":"#6DB9D9",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1724222502001,
 				"name":"治愈可爱小动物",
-				"tab_id":0,
 				"suit_item_id":223444201,
 				"properties":{
 					"fan_no_color":"#FFB7B7",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1724222274001,
 				"name":"治愈可爱小动物",
-				"tab_id":0,
 				"suit_item_id":223444201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f3138a483d48574d29960974bc93115cabee7427.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"听歌\",\"image\":\"https://i0.hdslb.com/bfs/garb/be6fde357c9307dfb463f643ccfc284f7a3eae68.png\"},{\"name\":\"小兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/8fa70056b0fddd78aa31c65dc3924f9edb009a01.png\"},{\"name\":\"卡皮巴拉\",\"image\":\"https://i0.hdslb.com/bfs/garb/9def8b5271d00e6362defb8e79f5a0721781a1f2.png\"},{\"name\":\"可爱羊\",\"image\":\"https://i0.hdslb.com/bfs/garb/d02cb01c9b94dfc8b16784709d685daaf190c6b6.png\"},{\"name\":\"可爱兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/ddc82130ed9f35247bb3cf112c48e684a787352d.png\"},{\"name\":\"来啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c6b83745106a97684bd73ede11b872753ba7ca3.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/3613a82ddd730c3663035c121a7880a834f60ab3.png\"},{\"name\":\"草莓\",\"image\":\"https://i0.hdslb.com/bfs/garb/3909b8de3545af6b3ff53892431fed4c6315b608.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/b25087389393a942e1ec76e6d7fd1116388d2b24.png\"},{\"name\":\"Hi~\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d0b2037b91b20ea4843d33fd668b8039db8f6a2.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/0dd29d7fe2fd912dd29a8923b82df0c78d2e7bfd.png\"},{\"name\":\"花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/d72b63c63bb87b5fe145eca41ec4c36b2ae9c0c8.png\"},{\"name\":\"哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4ca77cae640737bcc209212d355544f5a574569.png\"},{\"name\":\"送你花\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ecba010981cede1ac5cd7180af0bddc848a3061.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8e9dc2110f4b1d0b04d6cf19356b7c01d034bc5.png\"},{\"name\":\"睡着\",\"image\":\"https://i0.hdslb.com/bfs/garb/31aaa2f6e7397ade9f8ad199935997eb61517ffd.png\"},{\"name\":\"看书\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2dff2e79b4287ec36a68734440669265b04a3d3.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5f191503e6b1abae902fc20caa09fdf63ecc149.png\"},{\"name\":\"小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/647a3c2a340ac85bdf0dfa680d40174dc9ed7bd9.png\"},{\"name\":\"欢呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad04bddccbdadc49b5675320b7ef1e0a73dcc9cd.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_Hi~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d0b2037b91b20ea4843d33fd668b8039db8f6a2.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_卡皮巴拉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9def8b5271d00e6362defb8e79f5a0721781a1f2.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_可爱兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ddc82130ed9f35247bb3cf112c48e684a787352d.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_可爱羊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d02cb01c9b94dfc8b16784709d685daaf190c6b6.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_听歌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/be6fde357c9307dfb463f643ccfc284f7a3eae68.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_哈哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e4ca77cae640737bcc209212d355544f5a574569.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b25087389393a942e1ec76e6d7fd1116388d2b24.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3613a82ddd730c3663035c121a7880a834f60ab3.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_小兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8fa70056b0fddd78aa31c65dc3924f9edb009a01.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/647a3c2a340ac85bdf0dfa680d40174dc9ed7bd9.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a8e9dc2110f4b1d0b04d6cf19356b7c01d034bc5.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e5f191503e6b1abae902fc20caa09fdf63ecc149.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_来啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3c6b83745106a97684bd73ede11b872753ba7ca3.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_欢呼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ad04bddccbdadc49b5675320b7ef1e0a73dcc9cd.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0dd29d7fe2fd912dd29a8923b82df0c78d2e7bfd.png",
 							"sale_type":"pay"
@@ -241,7 +221,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_看书]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c2dff2e79b4287ec36a68734440669265b04a3d3.png",
 							"sale_type":"pay"
@@ -250,7 +229,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_睡着]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/31aaa2f6e7397ade9f8ad199935997eb61517ffd.png",
 							"sale_type":"pay"
@@ -259,7 +237,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_花花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d72b63c63bb87b5fe145eca41ec4c36b2ae9c0c8.png",
 							"sale_type":"pay"
@@ -268,7 +245,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_草莓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3909b8de3545af6b3ff53892431fed4c6315b608.png",
 							"sale_type":"pay"
@@ -277,7 +253,6 @@
 					{
 						"item_id":0,
 						"name":"[治愈可爱小动物_送你花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4ecba010981cede1ac5cd7180af0bddc848a3061.png",
 							"sale_type":"pay"
@@ -290,7 +265,6 @@
 			{
 				"item_id":1724222463001,
 				"name":"治愈可爱小动物",
-				"tab_id":0,
 				"suit_item_id":223444201,
 				"properties":{
 					"color":"#000000",
@@ -330,7 +304,6 @@
 			{
 				"item_id":1724222300001,
 				"name":"治愈可爱小动物",
-				"tab_id":0,
 				"suit_item_id":223444201,
 				"properties":{
 					"fan_no_color":"#ffffff",

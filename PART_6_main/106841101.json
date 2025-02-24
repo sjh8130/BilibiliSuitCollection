@@ -36,7 +36,6 @@
 			{
 				"item_id":1678255364001,
 				"name":"神烦鸟-动态卡片",
-				"tab_id":0,
 				"suit_item_id":106841101,
 				"properties":{
 					"fan_no_color":"#958408",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1678255364002,
 				"name":"神烦鸟-动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":106841101,
 				"properties":{
 					"fan_no_color":"#958408",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1678256295001,
 				"name":"神烦鸟-评论背景",
-				"tab_id":0,
 				"suit_item_id":106841101,
 				"properties":{
 					"fan_no_color":"#A4B10E",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1678255460001,
 				"name":"神烦鸟-表情包",
-				"tab_id":0,
 				"suit_item_id":106841101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5333918dc6793ffc6b4beafd20584e58f033fbba.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa9e563927b05900f75c2255ea573eacee134c9f.png\"},{\"name\":\"大胆\",\"image\":\"https://i0.hdslb.com/bfs/garb/b590e1401544a07fa549785cd874fee4c8b665e4.png\"},{\"name\":\"哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/334870e84863c2d0bbf5eee9eb9058553040d830.png\"},{\"name\":\"躺地板不起\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a361c6a503ff484a3c82200cd3d692a7e5d2505.png\"},{\"name\":\"不屑\",\"image\":\"https://i0.hdslb.com/bfs/garb/0fa4390b6ab4dd109cfedb1dbafc0e421d00c86b.png\"},{\"name\":\"功德\",\"image\":\"https://i0.hdslb.com/bfs/garb/3079454748aa771f5f3804c60c8fd25c8ba53c7d.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/f54a828d9d6223b24196f42ea27f4b53a2a20fdf.png\"},{\"name\":\"垂头丧气\",\"image\":\"https://i0.hdslb.com/bfs/garb/43ea9908a9795450d3b3f7a143cc8d845420cb6c.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a60dc17193b5a39a718caf4f6574da13260ea63.png\"},{\"name\":\"想到了\",\"image\":\"https://i0.hdslb.com/bfs/garb/659ae2fb6a606167af6fbb5bbcd14b6a06357673.png\"},{\"name\":\"呆滞\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f902895ca49542e211d59d41b461f501a751464.png\"},{\"name\":\"您先请\",\"image\":\"https://i0.hdslb.com/bfs/garb/fad52aa1184fb88e1796767be04a9c19152ba57e.png\"},{\"name\":\"怀疑\",\"image\":\"https://i0.hdslb.com/bfs/garb/1511ace82822e3075e51d2a7379a1f9252dbfd4d.png\"},{\"name\":\"嗯？\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b52f85b20b207c2e6d259c9ce2606a77e1e76c0.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/f62e19f023e3489980741b21a624322aa0172989.png\"},{\"name\":\"焦虑\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a414dbc0266d83a487feb80894985d91aafe60f.png\"},{\"name\":\"给我\",\"image\":\"https://i0.hdslb.com/bfs/garb/2556f9c2e8add7fb31ac1ecd79f5778093433cf9.png\"},{\"name\":\"不好意思\",\"image\":\"https://i0.hdslb.com/bfs/garb/5adc088797187c2214bfe2c5612c790a22339f30.png\"},{\"name\":\"使坏\",\"image\":\"https://i0.hdslb.com/bfs/garb/192225ba6547d6b25c0e5d23f2ba63a11adfbe8d.png\"},{\"name\":\"快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/32a72745c24c832cdd37a829bfdadbca7c9f9820.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_不好意思]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5adc088797187c2214bfe2c5612c790a22339f30.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_不屑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0fa4390b6ab4dd109cfedb1dbafc0e421d00c86b.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_使坏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/192225ba6547d6b25c0e5d23f2ba63a11adfbe8d.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_功德]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3079454748aa771f5f3804c60c8fd25c8ba53c7d.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_呆滞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8f902895ca49542e211d59d41b461f501a751464.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/334870e84863c2d0bbf5eee9eb9058553040d830.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7a60dc17193b5a39a718caf4f6574da13260ea63.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_嗯？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1b52f85b20b207c2e6d259c9ce2606a77e1e76c0.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_垂头丧气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/43ea9908a9795450d3b3f7a143cc8d845420cb6c.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_大胆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b590e1401544a07fa549785cd874fee4c8b665e4.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_快乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/32a72745c24c832cdd37a829bfdadbca7c9f9820.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_怀疑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1511ace82822e3075e51d2a7379a1f9252dbfd4d.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_您先请]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fad52aa1184fb88e1796767be04a9c19152ba57e.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_想到了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/659ae2fb6a606167af6fbb5bbcd14b6a06357673.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f62e19f023e3489980741b21a624322aa0172989.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_焦虑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7a414dbc0266d83a487feb80894985d91aafe60f.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_给我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2556f9c2e8add7fb31ac1ecd79f5778093433cf9.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aa9e563927b05900f75c2255ea573eacee134c9f.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_躺地板不起]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a361c6a503ff484a3c82200cd3d692a7e5d2505.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[神烦鸟-表情包_问号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f54a828d9d6223b24196f42ea27f4b53a2a20fdf.png",
 							"sale_type":"pay"
@@ -289,7 +264,6 @@
 			{
 				"item_id":1678256113001,
 				"name":"神烦鸟-个性主题",
-				"tab_id":0,
 				"suit_item_id":106841101,
 				"properties":{
 					"color":"#000000",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1678255495001,
 				"name":"神烦鸟-空间背景",
-				"tab_id":0,
 				"suit_item_id":106841101,
 				"properties":{
 					"fan_no_color":"#ffffff",

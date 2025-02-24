@@ -35,7 +35,6 @@
 			{
 				"item_id":1680493963001,
 				"name":"逆天战纪",
-				"tab_id":0,
 				"suit_item_id":109335901,
 				"properties":{
 					"fan_no_color":"#1B8FE2",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1680493963002,
 				"name":"逆天战纪粉丝",
-				"tab_id":0,
 				"suit_item_id":109335901,
 				"properties":{
 					"fan_no_color":"#1B8FE2",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1680494305001,
 				"name":"逆天战纪",
-				"tab_id":0,
 				"suit_item_id":109335901,
 				"properties":{
 					"fan_no_color":"#1B8FE2",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1680494062001,
 				"name":"逆天战纪",
-				"tab_id":0,
 				"suit_item_id":109335901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f3e40491bf5cf0070563a6e20e6eb2f2e16a0ba0.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"硬币\",\"image\":\"https://i0.hdslb.com/bfs/garb/d88cb1461e41845b2f52d9eeba3e9b1727ab68bf.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/c662385f0b81c20720f10716d688869b2f0c918a.png\"},{\"name\":\"戳\",\"image\":\"https://i0.hdslb.com/bfs/garb/f591777648f1ad5941353b3325a99037c0219c25.png\"},{\"name\":\"被床封印了\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b7e3509d4386d392a11fc8da8da5fc572bfe74e.png\"},{\"name\":\"做个好梦呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e20563963cec9d25254f6af334a56053e2702e9.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/1cc54fa677934d82dcf53015ee4bf3d37367a6de.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba8054f1f0c08c80cf829d08892368dfca4545fe.png\"},{\"name\":\"啊咧？\",\"image\":\"https://i0.hdslb.com/bfs/garb/d310579a3108247e587cb54afd9817a7d08b806d.png\"},{\"name\":\"窥屏\",\"image\":\"https://i0.hdslb.com/bfs/garb/bce3242f5f4cfb4005743feec694c447c553cb6d.png\"},{\"name\":\"淦\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0cc1f9fa0543f9b60a5509e6a9e325ca16a594c.png\"},{\"name\":\"同归于尽\",\"image\":\"https://i0.hdslb.com/bfs/garb/54ad1ae1167f1a54c0fe03354ec7473060c35d23.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b842760d67a15a3ffdbc206dd5b8a06ff7ab1f5.png\"},{\"name\":\"星星眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f4c6d0b5b09bbacef6d625cadd6c9004011de1a.png\"},{\"name\":\"邪恶\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e5cad68bebcccfe66c59a76014db3c4f6115aa6.png\"},{\"name\":\"得意\",\"image\":\"https://i0.hdslb.com/bfs/garb/bad4a088acdbe4de022834b516680ab4ab0739fb.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_做个好梦呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e20563963cec9d25254f6af334a56053e2702e9.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_同归于尽]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/54ad1ae1167f1a54c0fe03354ec7473060c35d23.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1cc54fa677934d82dcf53015ee4bf3d37367a6de.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_啊咧？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d310579a3108247e587cb54afd9817a7d08b806d.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b842760d67a15a3ffdbc206dd5b8a06ff7ab1f5.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c662385f0b81c20720f10716d688869b2f0c918a.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_得意]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bad4a088acdbe4de022834b516680ab4ab0739fb.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_戳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f591777648f1ad5941353b3325a99037c0219c25.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_星星眼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0f4c6d0b5b09bbacef6d625cadd6c9004011de1a.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_淦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e0cc1f9fa0543f9b60a5509e6a9e325ca16a594c.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_盯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ba8054f1f0c08c80cf829d08892368dfca4545fe.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_硬币]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d88cb1461e41845b2f52d9eeba3e9b1727ab68bf.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_窥屏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bce3242f5f4cfb4005743feec694c447c553cb6d.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_被床封印了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2b7e3509d4386d392a11fc8da8da5fc572bfe74e.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[逆天战纪_邪恶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0e5cad68bebcccfe66c59a76014db3c4f6115aa6.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1680494276001,
 				"name":"逆天战纪",
-				"tab_id":0,
 				"suit_item_id":109335901,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1680494191001,
 				"name":"逆天战纪",
-				"tab_id":0,
 				"suit_item_id":109335901,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -36,7 +36,6 @@
 			{
 				"item_id":1700371419001,
 				"name":"fa2",
-				"tab_id":0,
 				"suit_item_id":132340801,
 				"properties":{
 					"fan_no_color":"#9BAD2B",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1700371419002,
 				"name":"fa2粉丝",
-				"tab_id":0,
 				"suit_item_id":132340801,
 				"properties":{
 					"fan_no_color":"#9BAD2B",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1700371453001,
 				"name":"fa",
-				"tab_id":0,
 				"suit_item_id":132340801,
 				"properties":{
 					"fan_no_color":"#A5BC31",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1700115791001,
 				"name":"fa",
-				"tab_id":0,
 				"suit_item_id":132340801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/44b982780574c8bd8f2af95ebe3ccef36b6cdf39.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"下饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/0575dd181a966a18d9b098e6c76faa06c0057ec0.png\"},{\"name\":\"乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/55ba88cd912612d079ed98be9d69e4ea5a53ddfc.png\"},{\"name\":\"典\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0c73da341e5d5f12fe14ccc0087e5a81830c04a.png\"},{\"name\":\"超\",\"image\":\"https://i0.hdslb.com/bfs/garb/9eb28cf8614237bae2763691a2c97ee550fd62ab.png\"},{\"name\":\"哭闹\",\"image\":\"https://i0.hdslb.com/bfs/garb/7702b28f70ce48ab184aa18610d0592f5ec1303f.png\"},{\"name\":\"绷\",\"image\":\"https://i0.hdslb.com/bfs/garb/32df9b303c3c69221c93047caeda4d5d6dbe1aa5.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/f45679cc3a657b70bff949678e02d33bb5e22e7d.png\"},{\"name\":\"撕\",\"image\":\"https://i0.hdslb.com/bfs/garb/5927a41cbd9594a34cd1a4571004ed2731272adb.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/92b02c9696dd25095f5eace29bcbb2ab7179f1df.png\"},{\"name\":\"困\",\"image\":\"https://i0.hdslb.com/bfs/garb/1bec3b17b3992eda45ce76ec79eef45000c4d4c1.png\"},{\"name\":\"能打架\",\"image\":\"https://i0.hdslb.com/bfs/garb/cad94e49bc7d69a43270f938d4ed92816a532c11.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/18d3e401c906506d612e0a6dd5fb3bbed713d1d6.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fd115bdfd80541e5a8c2d15845f68d9e2ced663.png\"},{\"name\":\"迷茫\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7500865aee453bf07f6cf9de9929bbea03215c9.png\"},{\"name\":\"我\",\"image\":\"https://i0.hdslb.com/bfs/garb/fa3e4b62cd6171ce4b60ccc6210873e22a9a263d.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_下饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0575dd181a966a18d9b098e6c76faa06c0057ec0.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/55ba88cd912612d079ed98be9d69e4ea5a53ddfc.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_典]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b0c73da341e5d5f12fe14ccc0087e5a81830c04a.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_哭闹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7702b28f70ce48ab184aa18610d0592f5ec1303f.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_啊？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f45679cc3a657b70bff949678e02d33bb5e22e7d.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1bec3b17b3992eda45ce76ec79eef45000c4d4c1.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fa3e4b62cd6171ce4b60ccc6210873e22a9a263d.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1fd115bdfd80541e5a8c2d15845f68d9e2ced663.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_撕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5927a41cbd9594a34cd1a4571004ed2731272adb.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/92b02c9696dd25095f5eace29bcbb2ab7179f1df.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/18d3e401c906506d612e0a6dd5fb3bbed713d1d6.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_绷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/32df9b303c3c69221c93047caeda4d5d6dbe1aa5.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_能打架]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cad94e49bc7d69a43270f938d4ed92816a532c11.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_超]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9eb28cf8614237bae2763691a2c97ee550fd62ab.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[fa_迷茫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b7500865aee453bf07f6cf9de9929bbea03215c9.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1700116072001,
 				"name":"fa",
-				"tab_id":0,
 				"suit_item_id":132340801,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1700370569001,
 				"name":"fa",
-				"tab_id":0,
 				"suit_item_id":132340801,
 				"properties":{
 					"fan_no_color":"#ffffff",

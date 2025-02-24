@@ -36,7 +36,6 @@
 			{
 				"item_id":1688961569001,
 				"name":"秦国小卖部-1",
-				"tab_id":0,
 				"suit_item_id":119131201,
 				"properties":{
 					"fan_no_color":"#F8D79A",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1688961569002,
 				"name":"秦国小卖部-1粉丝",
-				"tab_id":0,
 				"suit_item_id":119131201,
 				"properties":{
 					"fan_no_color":"#F8D79A",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1688955383001,
 				"name":"秦国小卖部",
-				"tab_id":0,
 				"suit_item_id":119131201,
 				"properties":{
 					"fan_no_color":"#E9AB3A",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1688636784001,
 				"name":"秦国小卖部",
-				"tab_id":0,
 				"suit_item_id":119131201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b2402a29f98b40c7df49c93f168db49242ae6c85.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/f4632c93c925205c7898f132c0ef91e9f8625759.png\"},{\"name\":\"激动\",\"image\":\"https://i0.hdslb.com/bfs/garb/e87b733a8e6ee7bbe107437f18c5080de802d0d1.png\"},{\"name\":\"抹泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/359d9e12b73ae5d638417ba94671a62ce3968c35.png\"},{\"name\":\"再见\",\"image\":\"https://i0.hdslb.com/bfs/garb/17ab9701bec7190ebb34239584faef3589c8b55c.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/35fc18206ff56522adce448a64eb65ebdf89b514.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/761e5a63bb5629a5efaece1f6f2168c229c96455.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/691db00cce7b35ee1571354113d1cbe6da38497a.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/e14b2ea2d9edcf03b88fda72baaf2c29b72ebf81.png\"},{\"name\":\"沉思\",\"image\":\"https://i0.hdslb.com/bfs/garb/100a06d38650839f92d130d23c3fe19a08bb56ab.png\"},{\"name\":\"河里\",\"image\":\"https://i0.hdslb.com/bfs/garb/c76dfa7e46131156717c0a1abee63ee9b65a1c30.png\"},{\"name\":\"理解\",\"image\":\"https://i0.hdslb.com/bfs/garb/72a4c3335d5b7ce17c2d17e53687bdb70f1cb8b3.png\"},{\"name\":\"肯定\",\"image\":\"https://i0.hdslb.com/bfs/garb/48bf02b3b224975301cbdb85965097b9a645827d.png\"},{\"name\":\"拒绝\",\"image\":\"https://i0.hdslb.com/bfs/garb/fbd58cc719927e4a7d1ded0e08d0079d87091201.png\"},{\"name\":\"摸了\",\"image\":\"https://i0.hdslb.com/bfs/garb/16467800bd2f5b3598494c257764f5593a93fa7f.png\"},{\"name\":\"晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/c74948b8971ea8bc6f4794c21b11cc1756edcc98.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/1cec0215b86314b0e1d2637fcfbe1ca040230b24.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3696b70802eb4a2781d400c90bbcdf35117facc.png\"},{\"name\":\"消遣\",\"image\":\"https://i0.hdslb.com/bfs/garb/10bec5ca2471160992aea2216396bee89cbf479e.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/fae29827ae4c5bafbded10cd794f2e5c86eefa22.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/cea5f03b59be73db2c24824ef9436d49c6bef844.png\"},{\"name\":\"墙角\",\"image\":\"https://i0.hdslb.com/bfs/garb/3fe34c66a31a4c05fb1ff27f0e8f3f741e0bc684.png\"},{\"name\":\"冰封\",\"image\":\"https://i0.hdslb.com/bfs/garb/3555b047b417c6c40406c51fff69faa38f366a9b.png\"},{\"name\":\"融化\",\"image\":\"https://i0.hdslb.com/bfs/garb/32c56e04d0913d99b45ec6fdd4e64fcaa288dff1.png\"},{\"name\":\"跑开\",\"image\":\"https://i0.hdslb.com/bfs/garb/c480d60e3e9c85708aaf3f2ab1131e4e62cd6286.png\"},{\"name\":\"撒娇\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a852ed97c8c4e8aab62712539c0cfe0354aa59a.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_再见]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/17ab9701bec7190ebb34239584faef3589c8b55c.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_冰封]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3555b047b417c6c40406c51fff69faa38f366a9b.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b3696b70802eb4a2781d400c90bbcdf35117facc.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_墙角]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3fe34c66a31a4c05fb1ff27f0e8f3f741e0bc684.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/691db00cce7b35ee1571354113d1cbe6da38497a.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_抹泪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/359d9e12b73ae5d638417ba94671a62ce3968c35.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_拒绝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fbd58cc719927e4a7d1ded0e08d0079d87091201.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_探头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f4632c93c925205c7898f132c0ef91e9f8625759.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_摸了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/16467800bd2f5b3598494c257764f5593a93fa7f.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_撒娇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5a852ed97c8c4e8aab62712539c0cfe0354aa59a.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/761e5a63bb5629a5efaece1f6f2168c229c96455.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_晕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c74948b8971ea8bc6f4794c21b11cc1756edcc98.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/35fc18206ff56522adce448a64eb65ebdf89b514.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1cec0215b86314b0e1d2637fcfbe1ca040230b24.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_沉思]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/100a06d38650839f92d130d23c3fe19a08bb56ab.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_河里]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c76dfa7e46131156717c0a1abee63ee9b65a1c30.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_流汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fae29827ae4c5bafbded10cd794f2e5c86eefa22.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_消遣]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/10bec5ca2471160992aea2216396bee89cbf479e.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_激动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e87b733a8e6ee7bbe107437f18c5080de802d0d1.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_理解]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/72a4c3335d5b7ce17c2d17e53687bdb70f1cb8b3.png",
 							"sale_type":"pay"
@@ -285,7 +260,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e14b2ea2d9edcf03b88fda72baaf2c29b72ebf81.png",
 							"sale_type":"pay"
@@ -294,7 +268,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_肯定]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/48bf02b3b224975301cbdb85965097b9a645827d.png",
 							"sale_type":"pay"
@@ -303,7 +276,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_融化]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/32c56e04d0913d99b45ec6fdd4e64fcaa288dff1.png",
 							"sale_type":"pay"
@@ -312,7 +284,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_跑开]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c480d60e3e9c85708aaf3f2ab1131e4e62cd6286.png",
 							"sale_type":"pay"
@@ -321,7 +292,6 @@
 					{
 						"item_id":0,
 						"name":"[秦国小卖部_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cea5f03b59be73db2c24824ef9436d49c6bef844.png",
 							"sale_type":"pay"
@@ -334,7 +304,6 @@
 			{
 				"item_id":1688637403001,
 				"name":"秦国小卖部",
-				"tab_id":0,
 				"suit_item_id":119131201,
 				"properties":{
 					"goods_type":"suit",
@@ -349,7 +318,6 @@
 			{
 				"item_id":1688637431001,
 				"name":"秦国小卖部",
-				"tab_id":0,
 				"suit_item_id":119131201,
 				"properties":{
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/75d98290771d56bde19c77a262ed3d80096492be.png",
@@ -366,7 +334,6 @@
 			{
 				"item_id":1689134583001,
 				"name":"秦国小卖部-2",
-				"tab_id":0,
 				"suit_item_id":119131201,
 				"properties":{
 					"color":"#ffffff",
@@ -406,7 +373,6 @@
 			{
 				"item_id":1688636995001,
 				"name":"秦国小卖部",
-				"tab_id":0,
 				"suit_item_id":119131201,
 				"properties":{
 					"fan_no_color":"#ffffff",
@@ -430,7 +396,6 @@
 			{
 				"item_id":1688637325001,
 				"name":"秦国小卖部",
-				"tab_id":0,
 				"suit_item_id":119131201,
 				"properties":{
 					"goods_type":"suit",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1701934843001,
 				"name":"神山夜夜卡片",
-				"tab_id":0,
 				"suit_item_id":135360601,
 				"properties":{
 					"fan_no_color":"#B511F1",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1701934843002,
 				"name":"神山夜夜卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":135360601,
 				"properties":{
 					"fan_no_color":"#B511F1",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1701935182001,
 				"name":"神山夜夜",
-				"tab_id":0,
 				"suit_item_id":135360601,
 				"properties":{
 					"fan_no_color":"#B511F1",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1701934882001,
 				"name":"神山夜夜表情包",
-				"tab_id":0,
 				"suit_item_id":135360601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5a8d545f2029943f55588d95e9ba9d14adec9b7c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"舒服了\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0e1aa2051fcf413c35a98b7bb4459d6372ca230.png\"},{\"name\":\"超级加被\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5e426c5f5a46e3f0c30882cb4cd1df95c8579f7.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0d6c1f550a2bd2b59d7d77c63ecc0950ebc4446.png\"},{\"name\":\"天使\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d250ad58e2d1f7062299c39a029ea1a9c993c06.png\"},{\"name\":\"nice\",\"image\":\"https://i0.hdslb.com/bfs/garb/0af47b80df7e00ca910362f7a92f085731e61916.png\"},{\"name\":\"单推\",\"image\":\"https://i0.hdslb.com/bfs/garb/41dd52346158ee496f3ef91cf515b3cc112f9983.png\"},{\"name\":\"夜夜笙歌\",\"image\":\"https://i0.hdslb.com/bfs/garb/5cccdc68fb440f56b89665a9918a5186d4585d1a.png\"},{\"name\":\"啵啵\",\"image\":\"https://i0.hdslb.com/bfs/garb/094f5a21c1b9fd9edb993180e3fb258c45029236.png\"},{\"name\":\"达咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/af8be480344a270361109dea28ce12d88d193275.png\"},{\"name\":\"hentai\",\"image\":\"https://i0.hdslb.com/bfs/garb/f888e985a1ee80a79aaf5d46c287cc20fa75d985.png\"},{\"name\":\"叉出去\",\"image\":\"https://i0.hdslb.com/bfs/garb/56c33bc2c39384b64275b8e6c96784ae193d9c6b.png\"},{\"name\":\"你干嘛\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2b73e08813dd5f206bfbef40fc5147db373820c.png\"},{\"name\":\"不要瑟瑟\",\"image\":\"https://i0.hdslb.com/bfs/garb/957c4a6a8ebdd097fd7341289a3d4cf19b454d9c.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/64a59f622d8dc00263814429272e2d10a769509c.png\"},{\"name\":\"给你一拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3e4282f33dd2c9809ac29493f88029c331924f7.png\"},{\"name\":\"启动\",\"image\":\"https://i0.hdslb.com/bfs/garb/321e75dcdb21f612c00bc3dc9380b4d40b05c024.png\"},{\"name\":\"垫丝巾\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5fc924c48136e109047ff93aa91109802999088.png\"},{\"name\":\"好汀\",\"image\":\"https://i0.hdslb.com/bfs/garb/feae58898c1ffc0845c361f676f390456cf9271c.png\"},{\"name\":\"一发入魂\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e68026b05da02d48bf2ed159e70f9b2e5c25708.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/343b42b6e7225e21fd7205ac0245faad06499fde.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_hentai]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f888e985a1ee80a79aaf5d46c287cc20fa75d985.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_nice]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0af47b80df7e00ca910362f7a92f085731e61916.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_一发入魂]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9e68026b05da02d48bf2ed159e70f9b2e5c25708.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_不要瑟瑟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/957c4a6a8ebdd097fd7341289a3d4cf19b454d9c.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_你干嘛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f2b73e08813dd5f206bfbef40fc5147db373820c.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_单推]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/41dd52346158ee496f3ef91cf515b3cc112f9983.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_叉出去]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/56c33bc2c39384b64275b8e6c96784ae193d9c6b.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_启动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/321e75dcdb21f612c00bc3dc9380b4d40b05c024.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_啵啵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/094f5a21c1b9fd9edb993180e3fb258c45029236.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_垫丝巾]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e5fc924c48136e109047ff93aa91109802999088.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_夜夜笙歌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5cccdc68fb440f56b89665a9918a5186d4585d1a.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_天使]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6d250ad58e2d1f7062299c39a029ea1a9c993c06.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_好汀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/feae58898c1ffc0845c361f676f390456cf9271c.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/64a59f622d8dc00263814429272e2d10a769509c.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_摸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b0d6c1f550a2bd2b59d7d77c63ecc0950ebc4446.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/343b42b6e7225e21fd7205ac0245faad06499fde.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_给你一拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c3e4282f33dd2c9809ac29493f88029c331924f7.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_舒服了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e0e1aa2051fcf413c35a98b7bb4459d6372ca230.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_超级加被]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c5e426c5f5a46e3f0c30882cb4cd1df95c8579f7.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[神山夜夜表情包_达咩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af8be480344a270361109dea28ce12d88d193275.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1701935132001,
 				"name":"神山夜夜主题",
-				"tab_id":0,
 				"suit_item_id":135360601,
 				"properties":{
 					"color":"#000000",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1701934917001,
 				"name":"神山夜夜空间背景",
-				"tab_id":0,
 				"suit_item_id":135360601,
 				"properties":{
 					"fan_no_color":"#ffffff",

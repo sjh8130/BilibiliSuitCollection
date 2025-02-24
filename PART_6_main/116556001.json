@@ -35,7 +35,6 @@
 			{
 				"item_id":1686737216001,
 				"name":"病名为爱",
-				"tab_id":0,
 				"suit_item_id":116556001,
 				"properties":{
 					"fan_no_color":"#DE7195",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1686883411001,
 				"name":"病名为爱粉丝",
-				"tab_id":0,
 				"suit_item_id":116556001,
 				"properties":{
 					"fan_no_color":"#DE7195",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1686738706001,
 				"name":"病名为爱",
-				"tab_id":0,
 				"suit_item_id":116556001,
 				"properties":{
 					"fan_no_color":"#DE7195",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1686737403001,
 				"name":"病名为爱",
-				"tab_id":0,
 				"suit_item_id":116556001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/56b6577892e9656b79d1fc10dd04b7a9e1c5632b.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"超级消沉\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f23c8692a55391420817ce47bf90163bc09eddd.png\"},{\"name\":\"好弱\",\"image\":\"https://i0.hdslb.com/bfs/garb/e737d7dc4183e861ab7eda9bffa20f28b33f1ed9.png\"},{\"name\":\"哈？\",\"image\":\"https://i0.hdslb.com/bfs/garb/60461f1bd76e127d61c9ead85b50f40c5e373e97.png\"},{\"name\":\"切\",\"image\":\"https://i0.hdslb.com/bfs/garb/2da03d2eae9d26facce1b3fc1a5d10fa2eb0eb4f.png\"},{\"name\":\"呢嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc9662bda8a9e8266d7509f04307ca208676d451.png\"},{\"name\":\"噗嗤\",\"image\":\"https://i0.hdslb.com/bfs/garb/9445254b56f931d6212b7e05782bd99c95c33a1c.png\"},{\"name\":\"别走好吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/0926057070f9c38b5c4524c0d594a3476ad8445c.png\"},{\"name\":\"嫌弃\",\"image\":\"https://i0.hdslb.com/bfs/garb/27b113af1726829ab14078f3f884009415641531.png\"},{\"name\":\"得意忘形\",\"image\":\"https://i0.hdslb.com/bfs/garb/90fc768d1570520f864c3d5d1d4c3d4ae5c9dccf.png\"},{\"name\":\"就这\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c486bcfe432add5c57058b6946314d866dcfa9c.png\"},{\"name\":\"抓\",\"image\":\"https://i0.hdslb.com/bfs/garb/7fac91c9140fc9f7d4ff55a2a7b306ed701d5f51.png\"},{\"name\":\"石化\",\"image\":\"https://i0.hdslb.com/bfs/garb/a356bef8c9b2d6d4b404ef23d8ca7c3f066e740c.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/a4fa98637b6a816fa658faedf77b89d8c5575dcc.png\"},{\"name\":\"认输了哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ceda62a4cfaddcd4f57e284e5a80f6092f0c569.png\"},{\"name\":\"大喊\",\"image\":\"https://i0.hdslb.com/bfs/garb/49bbf76a4874e966490e49b0adc372bb6e876a8a.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_切]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2da03d2eae9d26facce1b3fc1a5d10fa2eb0eb4f.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_别走好吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0926057070f9c38b5c4524c0d594a3476ad8445c.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_呢嘻嘻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cc9662bda8a9e8266d7509f04307ca208676d451.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_哈？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/60461f1bd76e127d61c9ead85b50f40c5e373e97.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_噗嗤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9445254b56f931d6212b7e05782bd99c95c33a1c.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_大喊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/49bbf76a4874e966490e49b0adc372bb6e876a8a.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_好弱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e737d7dc4183e861ab7eda9bffa20f28b33f1ed9.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_嫌弃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/27b113af1726829ab14078f3f884009415641531.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_就这]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7c486bcfe432add5c57058b6946314d866dcfa9c.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_得意忘形]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/90fc768d1570520f864c3d5d1d4c3d4ae5c9dccf.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_抓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7fac91c9140fc9f7d4ff55a2a7b306ed701d5f51.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a4fa98637b6a816fa658faedf77b89d8c5575dcc.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_石化]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a356bef8c9b2d6d4b404ef23d8ca7c3f066e740c.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_认输了哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5ceda62a4cfaddcd4f57e284e5a80f6092f0c569.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[病名为爱_超级消沉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4f23c8692a55391420817ce47bf90163bc09eddd.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1686738549001,
 				"name":"病名为爱",
-				"tab_id":0,
 				"suit_item_id":116556001,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1686737430001,
 				"name":"病名为爱",
-				"tab_id":0,
 				"suit_item_id":116556001,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1677470570001,
 				"name":"喵喵漫游",
-				"tab_id":0,
 				"suit_item_id":105866201,
 				"properties":{
 					"fan_no_color":"#4D45F5",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1677470570002,
 				"name":"喵喵漫游粉丝",
-				"tab_id":0,
 				"suit_item_id":105866201,
 				"properties":{
 					"fan_no_color":"#4D45F5",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1677470986001,
 				"name":"喵喵漫游",
-				"tab_id":0,
 				"suit_item_id":105866201,
 				"properties":{
 					"fan_no_color":"#4D45F5",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1677471242001,
 				"name":"喵喵漫游",
-				"tab_id":0,
 				"suit_item_id":105866201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2db1e642a1d84cdc5806d7c07d7df626537fbe14.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"呜呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/7caa63485e14f0d6d39efce826dc445fc199040c.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6df4d433e73e4612caeba1e6539df277950aa25.png\"},{\"name\":\"滑稽\",\"image\":\"https://i0.hdslb.com/bfs/garb/4acc8b1994ce3d89fa61fb7ba1c2253633735705.png\"},{\"name\":\"安详\",\"image\":\"https://i0.hdslb.com/bfs/garb/39dd76ed3fea64f2a2bf6b80b3ca6fc556eb0efa.png\"},{\"name\":\"哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e047b14f9c684285bb7c8b45d4950426b1aef4b.png\"},{\"name\":\"窒息\",\"image\":\"https://i0.hdslb.com/bfs/garb/97461396179334cde2a2d0e95798e02cf5d7c56e.png\"},{\"name\":\"面部扭曲\",\"image\":\"https://i0.hdslb.com/bfs/garb/0990bf6464dbe098e22c1bf639f346440a482bb2.png\"},{\"name\":\"你小子\",\"image\":\"https://i0.hdslb.com/bfs/garb/933d1eb35618656bec702a2d359314184d4583a2.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/08d7fa5bca8e1e8865fa52c28a9fb49ae90ef0ac.png\"},{\"name\":\"润了\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce2d45593acc97ed7899ee51a6c4a64edc80ee4c.png\"},{\"name\":\"哇哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9f9cdb3074961540e56b67a51eb67b419e02d38.png\"},{\"name\":\"心虚\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9170f495cf99ace92596067d85b8d79acfdd844.png\"},{\"name\":\"咦？\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea7e516a2ea97ce9fd2b0f61f6e19fdff523f56e.png\"},{\"name\":\"怎会如此\",\"image\":\"https://i0.hdslb.com/bfs/garb/77ca03693ade180a43a4c933bfa560832ba81e3c.png\"},{\"name\":\"我要闹了\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a2d3cbb12eb68ad7242564eccd41f46b164228e.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_你小子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/933d1eb35618656bec702a2d359314184d4583a2.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_呜呜呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7caa63485e14f0d6d39efce826dc445fc199040c.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_咦？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea7e516a2ea97ce9fd2b0f61f6e19fdff523f56e.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_哇哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a9f9cdb3074961540e56b67a51eb67b419e02d38.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_哈哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1e047b14f9c684285bb7c8b45d4950426b1aef4b.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_安详]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/39dd76ed3fea64f2a2bf6b80b3ca6fc556eb0efa.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_心虚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d9170f495cf99ace92596067d85b8d79acfdd844.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_怎会如此]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/77ca03693ade180a43a4c933bfa560832ba81e3c.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_我要闹了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5a2d3cbb12eb68ad7242564eccd41f46b164228e.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e6df4d433e73e4612caeba1e6539df277950aa25.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_润了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce2d45593acc97ed7899ee51a6c4a64edc80ee4c.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_滑稽]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4acc8b1994ce3d89fa61fb7ba1c2253633735705.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/08d7fa5bca8e1e8865fa52c28a9fb49ae90ef0ac.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_窒息]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/97461396179334cde2a2d0e95798e02cf5d7c56e.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[喵喵漫游_面部扭曲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0990bf6464dbe098e22c1bf639f346440a482bb2.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1677471405001,
 				"name":"喵喵漫游",
-				"tab_id":0,
 				"suit_item_id":105866201,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1677471110001,
 				"name":"喵喵漫游",
-				"tab_id":0,
 				"suit_item_id":105866201,
 				"properties":{
 					"fan_no_color":"#ffffff",

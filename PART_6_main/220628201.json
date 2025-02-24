@@ -35,7 +35,6 @@
 			{
 				"item_id":1721290943001,
 				"name":"少女柠檬茶",
-				"tab_id":0,
 				"suit_item_id":220628201,
 				"properties":{
 					"fan_no_color":"#F47DA5",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1721290943002,
 				"name":"少女柠檬茶粉丝",
-				"tab_id":0,
 				"suit_item_id":220628201,
 				"properties":{
 					"fan_no_color":"#F47DA5",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1721291085001,
 				"name":"少女柠檬茶",
-				"tab_id":0,
 				"suit_item_id":220628201,
 				"properties":{
 					"fan_no_color":"#5C828C",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1721290305001,
 				"name":"少女柠檬茶",
-				"tab_id":0,
 				"suit_item_id":220628201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/27db4b828b7926f94e03696422416bcfe433356c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/0bc4cfc229e0c6b29b486af0d88e68847b368105.png\"},{\"name\":\"茶否\",\"image\":\"https://i0.hdslb.com/bfs/garb/273c38ac0f213e6eda663e5b265c2c520608b8b5.png\"},{\"name\":\"舔柠檬\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9e18b8f5f808981e80b69f729c761c7bc668335.png\"},{\"name\":\"酸\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0499d7a185889960f3dde3c26f88566c0c60930.png\"},{\"name\":\"优雅\",\"image\":\"https://i0.hdslb.com/bfs/garb/e922688d525702fd168b7aec37c231abe8f66376.png\"},{\"name\":\"上头\",\"image\":\"https://i0.hdslb.com/bfs/garb/68f7d16491b417a9c5b737845288191f1d202480.png\"},{\"name\":\"吨吨吨\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2ba1ec18a8dd697e753b8a04838db4d5d3707ff.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/3fd9e554d5263440de0df2b21a62aa0bb5c7f84c.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbbbf0733eaeaea3ba858902c1a76ec528525ff1.png\"},{\"name\":\"恶俗啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ccbb1d0e758306a1ccb7a03205fbca7a37bd9de.png\"},{\"name\":\"好重口\",\"image\":\"https://i0.hdslb.com/bfs/garb/d65f5bc5871b5df6b5529a70a783e6e4b2791dd8.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/83cca48c65f7a6bbf7c155339ff36a52c61549fd.png\"},{\"name\":\"喝茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/aaf294e578ac3c07a2c5eff753097bc74e81ed0d.png\"},{\"name\":\"美味\",\"image\":\"https://i0.hdslb.com/bfs/garb/384be45cda61f6d9783e9ada62c889b300570ff9.png\"},{\"name\":\"泪目\",\"image\":\"https://i0.hdslb.com/bfs/garb/5cb34fc6151c8892c9eeea309620c6965f362cef.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_上头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/68f7d16491b417a9c5b737845288191f1d202480.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_优雅]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e922688d525702fd168b7aec37c231abe8f66376.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_吨吨吨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c2ba1ec18a8dd697e753b8a04838db4d5d3707ff.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbbbf0733eaeaea3ba858902c1a76ec528525ff1.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_喝茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aaf294e578ac3c07a2c5eff753097bc74e81ed0d.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_好重口]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d65f5bc5871b5df6b5529a70a783e6e4b2791dd8.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_恶俗啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4ccbb1d0e758306a1ccb7a03205fbca7a37bd9de.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_探头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0bc4cfc229e0c6b29b486af0d88e68847b368105.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_泪目]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5cb34fc6151c8892c9eeea309620c6965f362cef.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_流汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/83cca48c65f7a6bbf7c155339ff36a52c61549fd.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_美味]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/384be45cda61f6d9783e9ada62c889b300570ff9.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_舔柠檬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d9e18b8f5f808981e80b69f729c761c7bc668335.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_茶否]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/273c38ac0f213e6eda663e5b265c2c520608b8b5.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3fd9e554d5263440de0df2b21a62aa0bb5c7f84c.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[少女柠檬茶_酸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b0499d7a185889960f3dde3c26f88566c0c60930.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1721292141001,
 				"name":"少女柠檬茶",
-				"tab_id":0,
 				"suit_item_id":220628201,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1721298253001,
 				"name":"夏日少女柠檬茶",
-				"tab_id":0,
 				"suit_item_id":220628201,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -36,7 +36,6 @@
 			{
 				"item_id":1709021104001,
 				"name":"法信Faxina",
-				"tab_id":0,
 				"suit_item_id":205850201,
 				"properties":{
 					"fan_no_color":"#C8A9EC",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1709021104002,
 				"name":"法信Faxina粉丝",
-				"tab_id":0,
 				"suit_item_id":205850201,
 				"properties":{
 					"fan_no_color":"#C8A9EC",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1709021745001,
 				"name":"法信Faxina评论背景",
-				"tab_id":0,
 				"suit_item_id":205850201,
 				"properties":{
 					"fan_no_color":"#C8A9EC",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1709021460001,
 				"name":"法信Faxina表情包",
-				"tab_id":0,
 				"suit_item_id":205850201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/dc479bf62fe5f1398d531c32bce4ddeba370ff9e.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"别急\",\"image\":\"https://i0.hdslb.com/bfs/garb/465d4ae089206af945a11cd9880fd77e4d5cc5fc.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/828dae47613a117b8ccf1cef1a8fd6d014f41e24.png\"},{\"name\":\"倒\",\"image\":\"https://i0.hdslb.com/bfs/garb/a62cdd282b09baa6b1abd844c2bb7d131d092d7a.png\"},{\"name\":\"反弹\",\"image\":\"https://i0.hdslb.com/bfs/garb/646e5bf5dd9f57ecc9a6001f2eb32c40089ebb4c.png\"},{\"name\":\"嗝\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ce1424432a85017618f1a3251949663cee54730.png\"},{\"name\":\"给钱\",\"image\":\"https://i0.hdslb.com/bfs/garb/04c1ea8c8c5355b83a838f8499807beef597de29.png\"},{\"name\":\"过载\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e64c40b0ef720dc329e00db33d0e16b48f7838e.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6bb0f8f1a5993b34a6fd4d9ba59f831155870e9.png\"},{\"name\":\"捡垃圾\",\"image\":\"https://i0.hdslb.com/bfs/garb/75e9edf33338f3925f76b7748a815f740b9f4b29.png\"},{\"name\":\"摸摸\",\"image\":\"https://i0.hdslb.com/bfs/garb/ccbf4647ec09d6ca8ef504961d00bd76a779e96e.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/15d5fd7f1a1747e86233f72620342a841b7d383d.png\"},{\"name\":\"威胁\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5ccc37973f9729e4032a6deff3d0c98b0cf9bc0.png\"},{\"name\":\"吸氧\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b9e72b1cc50a91b2297edef51e31f3b2b6b682a.png\"},{\"name\":\"休息了\",\"image\":\"https://i0.hdslb.com/bfs/garb/11322380bffec7a4352ed798fbe6060972ed66f6.png\"},{\"name\":\"逊诶\",\"image\":\"https://i0.hdslb.com/bfs/garb/608f2fca4c1f83aa28ea70e77ea06776a252c8c0.png\"},{\"name\":\"要长脑子啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/9703874c2229ade46e04cc04725335b72d161df5.png\"},{\"name\":\"义父\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab8bba014627fed9bdab0691486f58285a212d42.png\"},{\"name\":\"阴险\",\"image\":\"https://i0.hdslb.com/bfs/garb/608bad32c3d74e9d5536f9d6cfe5f8972460bdb3.png\"},{\"name\":\"长脑子\",\"image\":\"https://i0.hdslb.com/bfs/garb/6362676096fbb58bb28631918583fa02c5c9bd99.png\"},{\"name\":\"长生不老\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5dc3e845bb9896f8fde4df339d8cbf20144d593.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_义父]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ab8bba014627fed9bdab0691486f58285a212d42.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_休息了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/11322380bffec7a4352ed798fbe6060972ed66f6.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_倒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a62cdd282b09baa6b1abd844c2bb7d131d092d7a.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_别急]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/465d4ae089206af945a11cd9880fd77e4d5cc5fc.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_反弹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/646e5bf5dd9f57ecc9a6001f2eb32c40089ebb4c.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/828dae47613a117b8ccf1cef1a8fd6d014f41e24.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_吸氧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6b9e72b1cc50a91b2297edef51e31f3b2b6b682a.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b6bb0f8f1a5993b34a6fd4d9ba59f831155870e9.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_嗝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ce1424432a85017618f1a3251949663cee54730.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_威胁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e5ccc37973f9729e4032a6deff3d0c98b0cf9bc0.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_捡垃圾]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/75e9edf33338f3925f76b7748a815f740b9f4b29.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_摸摸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ccbf4647ec09d6ca8ef504961d00bd76a779e96e.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_摸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/15d5fd7f1a1747e86233f72620342a841b7d383d.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_给钱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/04c1ea8c8c5355b83a838f8499807beef597de29.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_要长脑子啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9703874c2229ade46e04cc04725335b72d161df5.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_过载]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3e64c40b0ef720dc329e00db33d0e16b48f7838e.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_逊诶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/608f2fca4c1f83aa28ea70e77ea06776a252c8c0.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_长生不老]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e5dc3e845bb9896f8fde4df339d8cbf20144d593.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_长脑子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6362676096fbb58bb28631918583fa02c5c9bd99.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[法信Faxina表情包_阴险]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/608bad32c3d74e9d5536f9d6cfe5f8972460bdb3.png",
 							"sale_type":"pay"
@@ -289,7 +264,6 @@
 			{
 				"item_id":1709021690001,
 				"name":"法信Faxina主题封面",
-				"tab_id":0,
 				"suit_item_id":205850201,
 				"properties":{
 					"color":"#000000",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1709021518001,
 				"name":"法信Faxina空间背景",
-				"tab_id":0,
 				"suit_item_id":205850201,
 				"properties":{
 					"fan_no_color":"#ffffff",

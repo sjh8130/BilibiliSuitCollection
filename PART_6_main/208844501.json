@@ -35,7 +35,6 @@
 			{
 				"item_id":1711596847001,
 				"name":"愚人少女",
-				"tab_id":0,
 				"suit_item_id":208844501,
 				"properties":{
 					"fan_no_color":"#EBB950",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1711596847002,
 				"name":"愚人少女粉丝",
-				"tab_id":0,
 				"suit_item_id":208844501,
 				"properties":{
 					"fan_no_color":"#EBB950",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1711606634001,
 				"name":"愚人少女",
-				"tab_id":0,
 				"suit_item_id":208844501,
 				"properties":{
 					"fan_no_color":"#EBB950",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1711597121001,
 				"name":"愚人少女",
-				"tab_id":0,
 				"suit_item_id":208844501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/12d8a91f0d1d40f73cb3b8abcd63d2c6ff2d90e9.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f7b1fb686bffc4c01825ee9ce6e6e8e2164d8da.png\"},{\"name\":\"嫌弃\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b991f7f23cf6225a0f0587bbf0fd668fb096024.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d0b00d3e9d4fe5e6f2f6ce967e94127fc20a70d.png\"},{\"name\":\"抓狂\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab4134cb35fa8fb0db036bac266cf4c90bfbfb07.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/da7c4e145ce74f23a4a1677eaaf70ab3cddea5aa.png\"},{\"name\":\"晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c6eba3fc8a7b55c0d237faf540814797608144d.png\"},{\"name\":\"放光\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba5eab309f65df9d52d7cf101905c096d12ce52d.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/f988e6677cb774b829d0171d47edcf3f22a93ec2.png\"},{\"name\":\"给你一拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/17eb889a405b376b0b763eab09c8a4bfdb6ab0dc.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/cec460b6b7d0fd98be617e2a7b5d107530dfc106.png\"},{\"name\":\"抽象\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e076e9e1ef00b3b6945cb9a5a796c447b2b6220.png\"},{\"name\":\"小丑\",\"image\":\"https://i0.hdslb.com/bfs/garb/d049b69688edf3af8fbcee557134fa06adb6619d.png\"},{\"name\":\"嘲笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/a43a256b70a722c922393c6a9bdf3c03e1228438.png\"},{\"name\":\"希望没事\",\"image\":\"https://i0.hdslb.com/bfs/garb/4cbd7d2bd660c2e72bbcd9145541be86072221bd.png\"},{\"name\":\"放松\",\"image\":\"https://i0.hdslb.com/bfs/garb/63bc4b64e6cbcb8a04d7245d19b0af4884c14238.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f988e6677cb774b829d0171d47edcf3f22a93ec2.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_嘲笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a43a256b70a722c922393c6a9bdf3c03e1228438.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_嫌弃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1b991f7f23cf6225a0f0587bbf0fd668fb096024.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_小丑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d049b69688edf3af8fbcee557134fa06adb6619d.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_希望没事]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4cbd7d2bd660c2e72bbcd9145541be86072221bd.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_抓狂]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ab4134cb35fa8fb0db036bac266cf4c90bfbfb07.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_抽象]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0e076e9e1ef00b3b6945cb9a5a796c447b2b6220.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_放光]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ba5eab309f65df9d52d7cf101905c096d12ce52d.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_放松]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/63bc4b64e6cbcb8a04d7245d19b0af4884c14238.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_晕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c6eba3fc8a7b55c0d237faf540814797608144d.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_暗中观察]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1d0b00d3e9d4fe5e6f2f6ce967e94127fc20a70d.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/da7c4e145ce74f23a4a1677eaaf70ab3cddea5aa.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cec460b6b7d0fd98be617e2a7b5d107530dfc106.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_给你一拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/17eb889a405b376b0b763eab09c8a4bfdb6ab0dc.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[愚人少女_赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8f7b1fb686bffc4c01825ee9ce6e6e8e2164d8da.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1711606579001,
 				"name":"愚人少女",
-				"tab_id":0,
 				"suit_item_id":208844501,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1711605062001,
 				"name":"愚人少女",
-				"tab_id":0,
 				"suit_item_id":208844501,
 				"properties":{
 					"fan_no_color":"#ffffff",

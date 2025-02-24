@@ -35,7 +35,6 @@
 			{
 				"item_id":1683626263001,
 				"name":"心情日记",
-				"tab_id":0,
 				"suit_item_id":112954701,
 				"properties":{
 					"fan_no_color":"#FB7299",
@@ -51,7 +50,6 @@
 			{
 				"item_id":1683627242001,
 				"name":"心情日记",
-				"tab_id":0,
 				"suit_item_id":112954701,
 				"properties":{
 					"fan_no_color":"#FB7299",
@@ -66,14 +64,12 @@
 			{
 				"item_id":1683626302001,
 				"name":"心情日记",
-				"tab_id":0,
 				"suit_item_id":112954701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b4865555da111d6b3f2f1e86803333441300c49d.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"温柔\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a6aa2318ff14588fbdfc8f30270cac3d5ccbb94.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/a51a2abc55cb76ae337edcff47385c1d4c4cf016.png\"},{\"name\":\"伤心\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9fdefc71aa7d51581171d5bdce7581a1427a9d7.png\"},{\"name\":\"相机\",\"image\":\"https://i0.hdslb.com/bfs/garb/259a0edebd771a93a2d4ca801d56d6e7ebe36b1a.png\"},{\"name\":\"猫咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/2fb070868f5ce23297ac5a4706a72a7b609f8d0d.png\"},{\"name\":\"心情转阴\",\"image\":\"https://i0.hdslb.com/bfs/garb/caed0c32ab2d40defb1c581b4ed900a625c4116e.png\"},{\"name\":\"我想想\",\"image\":\"https://i0.hdslb.com/bfs/garb/70ea851e338266d1f9d81f5a099823f23b344acf.png\"},{\"name\":\"放空\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0b90e63fb652bb0e04e955271db4fcbc152b716.png\"},{\"name\":\"美好一天\",\"image\":\"https://i0.hdslb.com/bfs/garb/72495cc81d86a51099641b5e7d889f44692dff4b.png\"},{\"name\":\"等你\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5535c17a5de327728787177f6302e834c4f48d8.png\"},{\"name\":\"旅行\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1b91b06c6ae28a1a7f8bc2c405935690e687dd3.png\"},{\"name\":\"独处\",\"image\":\"https://i0.hdslb.com/bfs/garb/aaf503c3bfdca3ecd7a0ed24940271778bc3d10b.png\"},{\"name\":\"打起精神\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ebf01b60d294e3bf7daee77f7e0a77d3e02a384.png\"},{\"name\":\"迷茫\",\"image\":\"https://i0.hdslb.com/bfs/garb/198d48785f0f46a461b1852572564a74e89fb414.png\"},{\"name\":\"记事本\",\"image\":\"https://i0.hdslb.com/bfs/garb/d90eb601f49dd1e98c0f51c4a3ddd0a3047a14ca.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -89,7 +85,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_伤心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f9fdefc71aa7d51581171d5bdce7581a1427a9d7.png",
 							"sale_type":"pay"
@@ -98,7 +93,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a51a2abc55cb76ae337edcff47385c1d4c4cf016.png",
 							"sale_type":"pay"
@@ -107,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_心情转阴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/caed0c32ab2d40defb1c581b4ed900a625c4116e.png",
 							"sale_type":"pay"
@@ -116,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_我想想]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/70ea851e338266d1f9d81f5a099823f23b344acf.png",
 							"sale_type":"pay"
@@ -125,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_打起精神]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1ebf01b60d294e3bf7daee77f7e0a77d3e02a384.png",
 							"sale_type":"pay"
@@ -134,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_放空]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b0b90e63fb652bb0e04e955271db4fcbc152b716.png",
 							"sale_type":"pay"
@@ -143,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_旅行]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c1b91b06c6ae28a1a7f8bc2c405935690e687dd3.png",
 							"sale_type":"pay"
@@ -152,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_温柔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a6aa2318ff14588fbdfc8f30270cac3d5ccbb94.png",
 							"sale_type":"pay"
@@ -161,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_独处]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aaf503c3bfdca3ecd7a0ed24940271778bc3d10b.png",
 							"sale_type":"pay"
@@ -170,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_猫咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2fb070868f5ce23297ac5a4706a72a7b609f8d0d.png",
 							"sale_type":"pay"
@@ -179,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_相机]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/259a0edebd771a93a2d4ca801d56d6e7ebe36b1a.png",
 							"sale_type":"pay"
@@ -188,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_等你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c5535c17a5de327728787177f6302e834c4f48d8.png",
 							"sale_type":"pay"
@@ -197,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_美好一天]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/72495cc81d86a51099641b5e7d889f44692dff4b.png",
 							"sale_type":"pay"
@@ -206,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_记事本]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d90eb601f49dd1e98c0f51c4a3ddd0a3047a14ca.png",
 							"sale_type":"pay"
@@ -215,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[心情日记_迷茫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/198d48785f0f46a461b1852572564a74e89fb414.png",
 							"sale_type":"pay"
@@ -228,7 +209,6 @@
 			{
 				"item_id":1683627154001,
 				"name":"心情日记",
-				"tab_id":0,
 				"suit_item_id":112954701,
 				"properties":{
 					"color":"#000000",
@@ -268,7 +248,6 @@
 			{
 				"item_id":1683626398001,
 				"name":"心情日记",
-				"tab_id":0,
 				"suit_item_id":112954701,
 				"properties":{
 					"fan_no_color":"#ffffff",

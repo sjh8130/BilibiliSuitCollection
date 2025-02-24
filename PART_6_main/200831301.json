@@ -36,7 +36,6 @@
 			{
 				"item_id":1704679524001,
 				"name":"普通小狗 萌兽出没",
-				"tab_id":0,
 				"suit_item_id":200831301,
 				"properties":{
 					"fan_no_color":"#F8B24F",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1704679524002,
 				"name":"普通小狗 萌兽出没粉丝",
-				"tab_id":0,
 				"suit_item_id":200831301,
 				"properties":{
 					"fan_no_color":"#F8B24F",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1704679556001,
 				"name":"普通小狗 萌兽出没",
-				"tab_id":0,
 				"suit_item_id":200831301,
 				"properties":{
 					"fan_no_color":"#F8B24F",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1704679703001,
 				"name":"普通小狗 萌兽出没",
-				"tab_id":0,
 				"suit_item_id":200831301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a071ed90b9bf56792d348715ae15a82997f6f25c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"团团圆圆\",\"image\":\"https://i0.hdslb.com/bfs/garb/77f0715e2179667250311714ad2b3c8825601460.png\"},{\"name\":\"烟花3\",\"image\":\"https://i0.hdslb.com/bfs/garb/bfee642bb1a8be2b3ff2fe2f628ef921ab80b553.png\"},{\"name\":\"下雪了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7537d9469ddd729bf579e3b9db558ea214fce43b.png\"},{\"name\":\"拿对联\",\"image\":\"https://i0.hdslb.com/bfs/garb/7bf24c6eb2e58642f33174200188b4e88c179d16.png\"},{\"name\":\"蒸蒸日上\",\"image\":\"https://i0.hdslb.com/bfs/garb/7228bec05da5cd8737ce0013ac0b12a2648ee804.png\"},{\"name\":\"平平安安\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d3f76ad789f11cebdcb8526e83dd9c7888b8ffd.png\"},{\"name\":\"烟花2\",\"image\":\"https://i0.hdslb.com/bfs/garb/91d35ef14adc940f867a9ca2b3c55f63b4d06a67.png\"},{\"name\":\"拿捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1e68ff04e3d8604043548bb66e81ea2535628c4.png\"},{\"name\":\"招财进宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/45decd95489996bb9cc5b35cd60c27a8c6c7ee79.png\"},{\"name\":\"好运连连\",\"image\":\"https://i0.hdslb.com/bfs/garb/3198d54b5f7289464bd2aa3c7af3817c31c0b1f6.png\"},{\"name\":\"柿柿如意\",\"image\":\"https://i0.hdslb.com/bfs/garb/a765d535987d613727f25c9187146cecc79f448b.png\"},{\"name\":\"烟花\",\"image\":\"https://i0.hdslb.com/bfs/garb/a829aecdaa6c4211ea048351fe63c549a069cda9.png\"},{\"name\":\"趴趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d496a5012c1db00b362f4de3e0441cdcfe5e141.png\"},{\"name\":\"福到了\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0a2047f7e27cdfdf519b2b1e343980d6d4c8572.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c1d889f8caa4a55abb495725484ca52b9a630a2.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_下雪了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7537d9469ddd729bf579e3b9db558ea214fce43b.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_团团圆圆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/77f0715e2179667250311714ad2b3c8825601460.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_好运连连]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3198d54b5f7289464bd2aa3c7af3817c31c0b1f6.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_平平安安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d3f76ad789f11cebdcb8526e83dd9c7888b8ffd.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_招财进宝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/45decd95489996bb9cc5b35cd60c27a8c6c7ee79.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_拿对联]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7bf24c6eb2e58642f33174200188b4e88c179d16.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_拿捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f1e68ff04e3d8604043548bb66e81ea2535628c4.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_柿柿如意]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a765d535987d613727f25c9187146cecc79f448b.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_烟花2]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/91d35ef14adc940f867a9ca2b3c55f63b4d06a67.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_烟花3]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bfee642bb1a8be2b3ff2fe2f628ef921ab80b553.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_烟花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a829aecdaa6c4211ea048351fe63c549a069cda9.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_福到了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d0a2047f7e27cdfdf519b2b1e343980d6d4c8572.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_蒸蒸日上]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7228bec05da5cd8737ce0013ac0b12a2648ee804.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3c1d889f8caa4a55abb495725484ca52b9a630a2.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗 萌兽出没_趴趴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1d496a5012c1db00b362f4de3e0441cdcfe5e141.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1704680788001,
 				"name":"普通小狗 萌兽出没",
-				"tab_id":0,
 				"suit_item_id":200831301,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1704679610001,
 				"name":"普通小狗 萌兽出没",
-				"tab_id":0,
 				"suit_item_id":200831301,
 				"properties":{
 					"fan_no_color":"#ffffff",

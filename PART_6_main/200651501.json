@@ -35,7 +35,6 @@
 			{
 				"item_id":1704529841001,
 				"name":"烟花绽放",
-				"tab_id":0,
 				"suit_item_id":200651501,
 				"properties":{
 					"fan_no_color":"#F45C74",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1704529841002,
 				"name":"烟花绽放粉丝",
-				"tab_id":0,
 				"suit_item_id":200651501,
 				"properties":{
 					"fan_no_color":"#F45C74",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1704531006001,
 				"name":"烟花绽放",
-				"tab_id":0,
 				"suit_item_id":200651501,
 				"properties":{
 					"fan_no_color":"#F45C74",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1704531800001,
 				"name":"烟花绽放",
-				"tab_id":0,
 				"suit_item_id":200651501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/dee45bb5182aff80cfef7009d13851cd482cda1f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"哇哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/40b5017366ca435656768e83dc71ffe452bee6c5.png\"},{\"name\":\"笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ecabafb2b49a2d9904bb36d4051805df21470b6.png\"},{\"name\":\"哈气\",\"image\":\"https://i0.hdslb.com/bfs/garb/cdfcc6f46a2306d1168e8ecc52a2c8ab0b2dc305.png\"},{\"name\":\"烟花\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9afb9937fe3b92434c456128d7786f8e6d177cf.png\"},{\"name\":\"不要听\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f7dcfd35b3b08073f6bac9e34985ad5f5393909.png\"},{\"name\":\"新年快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce5b8c970fc21f91f08667df4a1499c83d06f61e.png\"},{\"name\":\"包饺子\",\"image\":\"https://i0.hdslb.com/bfs/garb/44b34df0ceefc72c51076973da8cac93065f134a.png\"},{\"name\":\"要吐\",\"image\":\"https://i0.hdslb.com/bfs/garb/8184727d7a04c576e4e5973bbf27fe9f8aff9e00.png\"},{\"name\":\"烟花绽放\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d6a0e52ecbdc6751228df0243518023bbfd0326.png\"},{\"name\":\"打哈欠\",\"image\":\"https://i0.hdslb.com/bfs/garb/e86bd2934560488de3bb6098e1a8a55fa462322a.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1b8e9f35e299874947ddb90d44fc246e218bcd2.png\"},{\"name\":\"红包拿来\",\"image\":\"https://i0.hdslb.com/bfs/garb/64a7a2636f5f8e5d412530b8dac1280d06f5ccb1.png\"},{\"name\":\"好红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e4a9be7b91315484e8d7e2a388635459677ac27.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/3cbcaf14f157883cc93a90fb4d8e90758238d686.png\"},{\"name\":\"看烟花\",\"image\":\"https://i0.hdslb.com/bfs/garb/182f0bff7d455315b869166e082d177d44d41c34.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_不要听]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1f7dcfd35b3b08073f6bac9e34985ad5f5393909.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_包饺子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/44b34df0ceefc72c51076973da8cac93065f134a.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_哇哇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/40b5017366ca435656768e83dc71ffe452bee6c5.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_哈气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cdfcc6f46a2306d1168e8ecc52a2c8ab0b2dc305.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_好红包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0e4a9be7b91315484e8d7e2a388635459677ac27.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3cbcaf14f157883cc93a90fb4d8e90758238d686.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_思考]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e1b8e9f35e299874947ddb90d44fc246e218bcd2.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_打哈欠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e86bd2934560488de3bb6098e1a8a55fa462322a.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_新年快乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce5b8c970fc21f91f08667df4a1499c83d06f61e.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_烟花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e9afb9937fe3b92434c456128d7786f8e6d177cf.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_烟花绽放]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5d6a0e52ecbdc6751228df0243518023bbfd0326.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_看烟花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/182f0bff7d455315b869166e082d177d44d41c34.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7ecabafb2b49a2d9904bb36d4051805df21470b6.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_红包拿来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/64a7a2636f5f8e5d412530b8dac1280d06f5ccb1.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[烟花绽放_要吐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8184727d7a04c576e4e5973bbf27fe9f8aff9e00.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1704532064001,
 				"name":"烟花绽放",
-				"tab_id":0,
 				"suit_item_id":200651501,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1704529644001,
 				"name":"烟花绽放",
-				"tab_id":0,
 				"suit_item_id":200651501,
 				"properties":{
 					"fan_no_color":"#ffffff",

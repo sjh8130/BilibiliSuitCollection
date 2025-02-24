@@ -36,7 +36,6 @@
 			{
 				"item_id":1695290325001,
 				"name":"歪叽兔2",
-				"tab_id":0,
 				"suit_item_id":126354001,
 				"properties":{
 					"fan_no_color":"#FF71A0",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1695290325002,
 				"name":"歪叽兔2粉丝",
-				"tab_id":0,
 				"suit_item_id":126354001,
 				"properties":{
 					"fan_no_color":"#FF71A0",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1695289086001,
 				"name":"歪叽兔",
-				"tab_id":0,
 				"suit_item_id":126354001,
 				"properties":{
 					"fan_no_color":"#FF71A0",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1695288747001,
 				"name":"歪叽兔",
-				"tab_id":0,
 				"suit_item_id":126354001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d560ea34176352469606bfbe858169bf7d59c15f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/8183d702f5fa936cbfa0020c276ef8cd9c7f0325.png\"},{\"name\":\"emo\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9d7ca47008a046ec75e023b69399e57a466734a.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/9783c891c1c23042b06aeba816570d773facc2fa.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/77f3742008e9a5acc34795c3e61e3e9b6341d0f6.png\"},{\"name\":\"天呐\",\"image\":\"https://i0.hdslb.com/bfs/garb/a73020774e60c878b13c5197541bd7827ec47492.png\"},{\"name\":\"么么哒\",\"image\":\"https://i0.hdslb.com/bfs/garb/827cc4bf7dead00028d2443bc924fd37f5ea15ff.png\"},{\"name\":\"心塞\",\"image\":\"https://i0.hdslb.com/bfs/garb/ace1b6637919bd4bc380dcaba57fe972092dbeed.png\"},{\"name\":\"捏捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9b87befb63cc96ca109e66fbfc78fb85674e41a.png\"},{\"name\":\"鸡哔你\",\"image\":\"https://i0.hdslb.com/bfs/garb/846cd11c381a3012970c547dca29cf33f7da786f.png\"},{\"name\":\"鼓掌\",\"image\":\"https://i0.hdslb.com/bfs/garb/bddd01e2052ff42a2a6bd71d288cb23e1a83d4aa.png\"},{\"name\":\"what\",\"image\":\"https://i0.hdslb.com/bfs/garb/e68c2d0ffeb954e9328f86033cf6e701d4d021e3.png\"},{\"name\":\"吐了\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa4b5562e1d7466430ad27c978457c9151deebe0.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/6bb18b4811f7fce53ef09928ff4be2a541f22280.png\"},{\"name\":\"吃惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f9beb74dacc95967e5a3d0325a90693b84e186b.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5fd259b57a2502abf882c845e571e7dc1efa380.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_emo]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b9d7ca47008a046ec75e023b69399e57a466734a.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_what]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e68c2d0ffeb954e9328f86033cf6e701d4d021e3.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_么么哒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/827cc4bf7dead00028d2443bc924fd37f5ea15ff.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_吃惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5f9beb74dacc95967e5a3d0325a90693b84e186b.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_吐了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aa4b5562e1d7466430ad27c978457c9151deebe0.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_哇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/77f3742008e9a5acc34795c3e61e3e9b6341d0f6.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6bb18b4811f7fce53ef09928ff4be2a541f22280.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_天呐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a73020774e60c878b13c5197541bd7827ec47492.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8183d702f5fa936cbfa0020c276ef8cd9c7f0325.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_心塞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ace1b6637919bd4bc380dcaba57fe972092dbeed.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_捏捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c9b87befb63cc96ca109e66fbfc78fb85674e41a.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a5fd259b57a2502abf882c845e571e7dc1efa380.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9783c891c1c23042b06aeba816570d773facc2fa.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_鸡哔你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/846cd11c381a3012970c547dca29cf33f7da786f.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[歪叽兔_鼓掌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bddd01e2052ff42a2a6bd71d288cb23e1a83d4aa.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1695289051001,
 				"name":"歪叽兔",
-				"tab_id":0,
 				"suit_item_id":126354001,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1695288794001,
 				"name":"歪叽兔",
-				"tab_id":0,
 				"suit_item_id":126354001,
 				"properties":{
 					"fan_no_color":"#ffffff",

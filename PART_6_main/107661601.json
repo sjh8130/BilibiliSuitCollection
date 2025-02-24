@@ -35,7 +35,6 @@
 			{
 				"item_id":1678973466001,
 				"name":"妙影轻音",
-				"tab_id":0,
 				"suit_item_id":107661601,
 				"properties":{
 					"fan_no_color":"#4D45F5",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1678973466002,
 				"name":"妙影轻音粉丝",
-				"tab_id":0,
 				"suit_item_id":107661601,
 				"properties":{
 					"fan_no_color":"#4D45F5",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1678973495001,
 				"name":"妙影轻音",
-				"tab_id":0,
 				"suit_item_id":107661601,
 				"properties":{
 					"fan_no_color":"#4D45F5",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1678973667001,
 				"name":"妙影轻音",
-				"tab_id":0,
 				"suit_item_id":107661601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8f48dc571f455d81005c4cf1e7f5024c4cefed3f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/7059223aa1d8076a00dd7a97ae504aa457b4e4ae.png\"},{\"name\":\"啊对对对\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7a09c3e6774e001a25600afe91c6fa7b36548d6.png\"},{\"name\":\"还能说话吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/c11bb766a5a95858798a79b1195010c05d0d882f.png\"},{\"name\":\"锤锤来咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a42ba84adad93bf798298741b184098b7bbb2f5.png\"},{\"name\":\"cpu烧了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a0e9e6056f9c551b28b1ba98866d8f4ad9c82b5.png\"},{\"name\":\"给花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/89a55836e2beb3462fbbca0275fbfde24701e2da.png\"},{\"name\":\"哕\",\"image\":\"https://i0.hdslb.com/bfs/garb/04b65c801f10a9a3f2f14c474d68ded9c5a5f14a.png\"},{\"name\":\"我想开了\",\"image\":\"https://i0.hdslb.com/bfs/garb/2226dd25a51372769740c4f8a944ccffb8fb8224.png\"},{\"name\":\"急了\",\"image\":\"https://i0.hdslb.com/bfs/garb/3cb64c75b734e0621d38f35023203cdb308eb6b8.png\"},{\"name\":\"石乐志\",\"image\":\"https://i0.hdslb.com/bfs/garb/d71e54bb7ad9740725c5fcd20d2d2ed2c128a797.png\"},{\"name\":\"惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/7624f5add65d21eeb07cbffd6eb53b4b1fc15f09.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/efc1acf0384ac40f22edb1ec5b5c16e460e0281e.png\"},{\"name\":\"快逃\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8610dcf7306a6fc47d5b369ce235c1489967e73.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/341842d81aa090d581dc8c339f53b512103be115.png\"},{\"name\":\"目移\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a7dd8c134aeb5c81035628f14857b040076d6db.png\"},{\"name\":\"出去！\",\"image\":\"https://i0.hdslb.com/bfs/garb/66e2dfd2c1dbd18d647698987e6be9d2eb5f72ac.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab62a82f02831d206fb209e5fe014883a551dfc0.png\"},{\"name\":\"失去高光\",\"image\":\"https://i0.hdslb.com/bfs/garb/9260e7c05e41375bd0bfeaec73b4ee45eaf67f7a.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/20060565f8db9a1159fbd14e2a56d446cba80b55.png\"},{\"name\":\"优雅\",\"image\":\"https://i0.hdslb.com/bfs/garb/9630257141e66f295916f083ee3ae7418f5dd918.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_cpu烧了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7a0e9e6056f9c551b28b1ba98866d8f4ad9c82b5.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_优雅]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9630257141e66f295916f083ee3ae7418f5dd918.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_出去！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/66e2dfd2c1dbd18d647698987e6be9d2eb5f72ac.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_可爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7059223aa1d8076a00dd7a97ae504aa457b4e4ae.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_哇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20060565f8db9a1159fbd14e2a56d446cba80b55.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_哕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/04b65c801f10a9a3f2f14c474d68ded9c5a5f14a.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/efc1acf0384ac40f22edb1ec5b5c16e460e0281e.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_啊对对对]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a7a09c3e6774e001a25600afe91c6fa7b36548d6.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_失去高光]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9260e7c05e41375bd0bfeaec73b4ee45eaf67f7a.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_快逃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f8610dcf7306a6fc47d5b369ce235c1489967e73.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_急了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3cb64c75b734e0621d38f35023203cdb308eb6b8.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7624f5add65d21eeb07cbffd6eb53b4b1fc15f09.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_我想开了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2226dd25a51372769740c4f8a944ccffb8fb8224.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_流汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/341842d81aa090d581dc8c339f53b512103be115.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ab62a82f02831d206fb209e5fe014883a551dfc0.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_目移]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0a7dd8c134aeb5c81035628f14857b040076d6db.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_石乐志]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d71e54bb7ad9740725c5fcd20d2d2ed2c128a797.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_给花花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/89a55836e2beb3462fbbca0275fbfde24701e2da.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_还能说话吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c11bb766a5a95858798a79b1195010c05d0d882f.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[妙影轻音_锤锤来咯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a42ba84adad93bf798298741b184098b7bbb2f5.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1678973852001,
 				"name":"妙影轻音",
-				"tab_id":0,
 				"suit_item_id":107661601,
 				"properties":{
 					"color":"#ffffff",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1678973543001,
 				"name":"妙影轻音",
-				"tab_id":0,
 				"suit_item_id":107661601,
 				"properties":{
 					"fan_no_color":"#ffffff",

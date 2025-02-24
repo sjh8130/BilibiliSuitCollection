@@ -36,7 +36,6 @@
 			{
 				"item_id":1698654547001,
 				"name":"焦绿猫第四弹",
-				"tab_id":0,
 				"suit_item_id":130445201,
 				"properties":{
 					"fan_no_color":"#96DE7F",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1698728886001,
 				"name":"焦绿猫第四弹粉丝",
-				"tab_id":0,
 				"suit_item_id":130445201,
 				"properties":{
 					"fan_no_color":"#96DE7F",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1698657504001,
 				"name":"焦绿猫第四弹",
-				"tab_id":0,
 				"suit_item_id":130445201,
 				"properties":{
 					"fan_no_color":"#96DE7F",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1698659692001,
 				"name":"焦绿猫第四弹",
-				"tab_id":0,
 				"suit_item_id":130445201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a82747171983d6a80ca204f6436164671baaae50.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"记过\",\"image\":\"https://i0.hdslb.com/bfs/garb/9aad48871b7fb94d7e9c7015c6ea563181ee9f07.png\"},{\"name\":\"篮球\",\"image\":\"https://i0.hdslb.com/bfs/garb/572811480eaa6b7c2e21acfbfc9cc2ed77fb8230.png\"},{\"name\":\"开饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/981606c8eda7e037f41bd759cbad6db2953bd86f.png\"},{\"name\":\"不学了\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9fd1cd2f423112dbfd920fe63d3985d10493313.png\"},{\"name\":\"永别\",\"image\":\"https://i0.hdslb.com/bfs/garb/0eeb862ad2e53a2d257c174d01b9bfadb65e549f.png\"},{\"name\":\"补作业\",\"image\":\"https://i0.hdslb.com/bfs/garb/3d160156ee60b8d4f2fed5568da2a393f08f8c7c.png\"},{\"name\":\"一起玩？\",\"image\":\"https://i0.hdslb.com/bfs/garb/41e818fe066a955ca682d1002c77cf910d7c56f9.png\"},{\"name\":\"100分\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a9bc48e6d32be2b1ad238694964915ffc394f73.png\"},{\"name\":\"打扫\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8942ae12e5cf034b7f590290b2ac5da48186b7d.png\"},{\"name\":\"0分\",\"image\":\"https://i0.hdslb.com/bfs/garb/6f6c2cc4b53985d62af731717793a76a84d962e0.png\"},{\"name\":\"擦地板\",\"image\":\"https://i0.hdslb.com/bfs/garb/f177fd9e261565347aa89c72b783c762cc53c638.png\"},{\"name\":\"洗衣服\",\"image\":\"https://i0.hdslb.com/bfs/garb/af1a0597e8d4211219c621e7987ba9fd31a6eee4.png\"},{\"name\":\"困死了\",\"image\":\"https://i0.hdslb.com/bfs/garb/15c78f56e1ea60ce17e7672434750cac53015ee0.png\"},{\"name\":\"无聊\",\"image\":\"https://i0.hdslb.com/bfs/garb/cef32394688d1fcb9676b93411906457e7efa671.png\"},{\"name\":\"没看\",\"image\":\"https://i0.hdslb.com/bfs/garb/f27521b9c10318d1d033790943ec86d445b58b36.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_0分]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6f6c2cc4b53985d62af731717793a76a84d962e0.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_100分]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a9bc48e6d32be2b1ad238694964915ffc394f73.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_一起玩？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/41e818fe066a955ca682d1002c77cf910d7c56f9.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_不学了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d9fd1cd2f423112dbfd920fe63d3985d10493313.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_困死了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/15c78f56e1ea60ce17e7672434750cac53015ee0.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_开饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/981606c8eda7e037f41bd759cbad6db2953bd86f.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_打扫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a8942ae12e5cf034b7f590290b2ac5da48186b7d.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_擦地板]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f177fd9e261565347aa89c72b783c762cc53c638.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_无聊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cef32394688d1fcb9676b93411906457e7efa671.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_永别]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0eeb862ad2e53a2d257c174d01b9bfadb65e549f.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_没看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f27521b9c10318d1d033790943ec86d445b58b36.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_洗衣服]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af1a0597e8d4211219c621e7987ba9fd31a6eee4.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_篮球]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/572811480eaa6b7c2e21acfbfc9cc2ed77fb8230.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_补作业]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3d160156ee60b8d4f2fed5568da2a393f08f8c7c.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[焦绿猫第四弹_记过]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9aad48871b7fb94d7e9c7015c6ea563181ee9f07.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1698658038001,
 				"name":"焦绿猫第四弹",
-				"tab_id":0,
 				"suit_item_id":130445201,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1698657615001,
 				"name":"焦绿猫第四弹",
-				"tab_id":0,
 				"suit_item_id":130445201,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1694945019001,
 				"name":"鱼粉崽",
-				"tab_id":0,
 				"suit_item_id":127549901,
 				"properties":{
 					"fan_no_color":"#FF9BC7",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1696209775001,
 				"name":"鱼粉崽粉丝",
-				"tab_id":0,
 				"suit_item_id":127549901,
 				"properties":{
 					"fan_no_color":"#FF9BC7",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1695375203001,
 				"name":"鱼粉崽1",
-				"tab_id":0,
 				"suit_item_id":127549901,
 				"properties":{
 					"fan_no_color":"#FFACD3",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1696235871001,
 				"name":"鱼粉崽1",
-				"tab_id":0,
 				"suit_item_id":127549901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/14865ccb76e909f95695d6f04e404e12d6f1212f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"吐爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/a704d6f3252c0bd7377ec03c98d6fb3e68e7c3cc.png\"},{\"name\":\"按铃\",\"image\":\"https://i0.hdslb.com/bfs/garb/c515da75bdffb1587b5c466a68c029b09acbcb0c.png\"},{\"name\":\"累了\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b29bfaf0482a884240b0a33e40db65f1b6684d4.png\"},{\"name\":\"心跳\",\"image\":\"https://i0.hdslb.com/bfs/garb/b85e4f512a5afa556f94fce9086e897e310faad5.png\"},{\"name\":\"加一\",\"image\":\"https://i0.hdslb.com/bfs/garb/5242bdc5612b1ece4152d87215c2728d25291399.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c225011972f79b194c27e1a81beeed88e186570.png\"},{\"name\":\"恐龙扛狼\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d3173fe3a96d5f404e67c029cb95704834ac7ba.png\"},{\"name\":\"吃尾巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/32b99e9ea6b3f15b4f316a07abea1a3a1ddfb2c7.png\"},{\"name\":\"发射爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/1eca899bf36d77f27130a70c21910c6193881e22.png\"},{\"name\":\"打滚\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ef826fa0d140de46ceaae5a8fae9ed6796b2af1.png\"},{\"name\":\"心碎\",\"image\":\"https://i0.hdslb.com/bfs/garb/99affe2da0da7a25e62cd6262efb2bb01cec918a.png\"},{\"name\":\"扭屁屁\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc80f2f3c9d1157486c0877519e1ea322c67963b.png\"},{\"name\":\"尴尬\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ad0da6e82a8573f8014cccb3d5bcdca556146b2.png\"},{\"name\":\"捏脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0ae5881ecbe91a9dace954ef6ffe3166550bad9.png\"},{\"name\":\"晾着\",\"image\":\"https://i0.hdslb.com/bfs/garb/c926905f8e4ccbc5a74572b67cd7be5bd93d4964.png\"},{\"name\":\"大笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9ed74e7fb2a4c54f621717a90cc88b8b11df6dd.png\"},{\"name\":\"努力\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc0c825a5050b32c65b28dbb7bf4c776f34ae868.png\"},{\"name\":\"鬼脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b6e5c4a8888332caccbc3a26fab8be17a0dc6ab.png\"},{\"name\":\"好色\",\"image\":\"https://i0.hdslb.com/bfs/garb/a108a6fc52e9d41e0be1856297b486117339d862.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/c954c4e59964d9b3d71466c29d32302d80671bea.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_加一]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5242bdc5612b1ece4152d87215c2728d25291399.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0c225011972f79b194c27e1a81beeed88e186570.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_努力]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc0c825a5050b32c65b28dbb7bf4c776f34ae868.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_发射爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1eca899bf36d77f27130a70c21910c6193881e22.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_吃尾巴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/32b99e9ea6b3f15b4f316a07abea1a3a1ddfb2c7.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_吐爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a704d6f3252c0bd7377ec03c98d6fb3e68e7c3cc.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_大笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a9ed74e7fb2a4c54f621717a90cc88b8b11df6dd.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_好色]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a108a6fc52e9d41e0be1856297b486117339d862.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_尴尬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ad0da6e82a8573f8014cccb3d5bcdca556146b2.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_心碎]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/99affe2da0da7a25e62cd6262efb2bb01cec918a.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_心跳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b85e4f512a5afa556f94fce9086e897e310faad5.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_恐龙扛狼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7d3173fe3a96d5f404e67c029cb95704834ac7ba.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_打滚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ef826fa0d140de46ceaae5a8fae9ed6796b2af1.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_扭屁屁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc80f2f3c9d1157486c0877519e1ea322c67963b.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_按铃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c515da75bdffb1587b5c466a68c029b09acbcb0c.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_捏脸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c0ae5881ecbe91a9dace954ef6ffe3166550bad9.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_晾着]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c926905f8e4ccbc5a74572b67cd7be5bd93d4964.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c954c4e59964d9b3d71466c29d32302d80671bea.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_累了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9b29bfaf0482a884240b0a33e40db65f1b6684d4.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[鱼粉崽1_鬼脸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b6e5c4a8888332caccbc3a26fab8be17a0dc6ab.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1696252014001,
 				"name":"鱼粉崽",
-				"tab_id":0,
 				"suit_item_id":127549901,
 				"properties":{
 					"color":"#000000",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1696259455001,
 				"name":"鱼粉崽",
-				"tab_id":0,
 				"suit_item_id":127549901,
 				"properties":{
 					"fan_no_color":"#ffffff",

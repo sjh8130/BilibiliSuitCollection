@@ -35,7 +35,6 @@
 			{
 				"item_id":1695027633001,
 				"name":"两面猫",
-				"tab_id":0,
 				"suit_item_id":126153101,
 				"properties":{
 					"fan_no_color":"#E46262",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1695027633002,
 				"name":"两面猫粉丝",
-				"tab_id":0,
 				"suit_item_id":126153101,
 				"properties":{
 					"fan_no_color":"#E46262",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1695027662001,
 				"name":"两面猫",
-				"tab_id":0,
 				"suit_item_id":126153101,
 				"properties":{
 					"fan_no_color":"#E46262",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1695027220001,
 				"name":"两面猫",
-				"tab_id":0,
 				"suit_item_id":126153101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/75d48753e9da2033d43c6610c8d0d5c37f36ea85.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"表面ok\",\"image\":\"https://i0.hdslb.com/bfs/garb/e06fdc39040c7f2edec7d837e6f68c4a0bbc0104.png\"},{\"name\":\"其实不屑\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ec05d5d6dab4d0ec15ddb3cbfe621327480ccb1.png\"},{\"name\":\"我没生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca6f0d4711ce55b98976e61246235fbaf0565fd7.png\"},{\"name\":\"内心受伤\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3add278f81ccf416a23aa0124d43d422a5b29df.png\"},{\"name\":\"哭了我装的\",\"image\":\"https://i0.hdslb.com/bfs/garb/59e277c0a1d39e724967e367391e3ea63d0e3413.png\"},{\"name\":\"强装帅气\",\"image\":\"https://i0.hdslb.com/bfs/garb/a6db3da315201dc39239e7da2fe5af2ca299e44a.png\"},{\"name\":\"完全放空\",\"image\":\"https://i0.hdslb.com/bfs/garb/518cdd547bc212232942c9bb78a90ff432a7d30f.png\"},{\"name\":\"笑不了一点\",\"image\":\"https://i0.hdslb.com/bfs/garb/acd3caf813ab682460010b5cf6b1602efae4547c.png\"},{\"name\":\"真的不困\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe875e899edc5e96d2cca2bb4caf584ecc24f15a.png\"},{\"name\":\"索然无味\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9eec4b04b5847a70b05b6debce11b48ef77b19d.png\"},{\"name\":\"太棒了\",\"image\":\"https://i0.hdslb.com/bfs/garb/196fb7570a85c8d31167413a1ba958834ccf46a3.png\"},{\"name\":\"有趣哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/63465fb9a9715485fccd6bebae5ba99265e039d1.png\"},{\"name\":\"帅气应付\",\"image\":\"https://i0.hdslb.com/bfs/garb/375321b65f336380f5e39dbf3915baed6849e086.png\"},{\"name\":\"太无语啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/79e2648130e5953d1d9799e935944609aecbd680.png\"},{\"name\":\"很喜欢一句\",\"image\":\"https://i0.hdslb.com/bfs/garb/dfecb5353f0f3e4e66e7e9cafc68eae6d552e223.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_其实不屑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9ec05d5d6dab4d0ec15ddb3cbfe621327480ccb1.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_内心受伤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b3add278f81ccf416a23aa0124d43d422a5b29df.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_哭了我装的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/59e277c0a1d39e724967e367391e3ea63d0e3413.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_太无语啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/79e2648130e5953d1d9799e935944609aecbd680.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_太棒了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/196fb7570a85c8d31167413a1ba958834ccf46a3.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_完全放空]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/518cdd547bc212232942c9bb78a90ff432a7d30f.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_帅气应付]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/375321b65f336380f5e39dbf3915baed6849e086.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_强装帅气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a6db3da315201dc39239e7da2fe5af2ca299e44a.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_很喜欢一句]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dfecb5353f0f3e4e66e7e9cafc68eae6d552e223.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_我没生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ca6f0d4711ce55b98976e61246235fbaf0565fd7.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_有趣哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/63465fb9a9715485fccd6bebae5ba99265e039d1.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_真的不困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fe875e899edc5e96d2cca2bb4caf584ecc24f15a.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_笑不了一点]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/acd3caf813ab682460010b5cf6b1602efae4547c.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_索然无味]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d9eec4b04b5847a70b05b6debce11b48ef77b19d.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[两面猫_表面ok]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e06fdc39040c7f2edec7d837e6f68c4a0bbc0104.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1695028900001,
 				"name":"两面猫",
-				"tab_id":0,
 				"suit_item_id":126153101,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1695027515001,
 				"name":"两面猫",
-				"tab_id":0,
 				"suit_item_id":126153101,
 				"properties":{
 					"fan_no_color":"#ffffff",

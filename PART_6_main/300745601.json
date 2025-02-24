@@ -35,7 +35,6 @@
 			{
 				"item_id":1736231675001,
 				"name":"電子病亞",
-				"tab_id":0,
 				"suit_item_id":300745601,
 				"properties":{
 					"fan_no_color":"#AA4C5D",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1736231675002,
 				"name":"電子病亞粉丝",
-				"tab_id":0,
 				"suit_item_id":300745601,
 				"properties":{
 					"fan_no_color":"#AA4C5D",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1736231699001,
 				"name":"電子病亞",
-				"tab_id":0,
 				"suit_item_id":300745601,
 				"properties":{
 					"fan_no_color":"#86273B",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1736231856001,
 				"name":"電子病亞",
-				"tab_id":0,
 				"suit_item_id":300745601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ed79efe499b2e17fb912ffe5694cca18b5303932.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/4507d18614ede8cfc175738ea5e9874894de8918.png\"},{\"name\":\"激动\",\"image\":\"https://i0.hdslb.com/bfs/garb/b76be3ac53a9351b262a05d77554586712e9b053.png\"},{\"name\":\"针筒1\",\"image\":\"https://i0.hdslb.com/bfs/garb/061025228ed15ee47567c695432f9f5876649bd5.png\"},{\"name\":\"针筒中间\",\"image\":\"https://i0.hdslb.com/bfs/garb/17119d03d2376ad7b03266ca5cb2b86c32fea7ac.png\"},{\"name\":\"针筒3\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0d5b0a534c1cca045eb5bf40f4359955a78a4e2.png\"},{\"name\":\"狙击手\",\"image\":\"https://i0.hdslb.com/bfs/garb/0426fd8d082c73c23c79163c4329ef859dd2d129.png\"},{\"name\":\"狙击爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/23148f22375084160d1a5a5c3c49b2d2e24111ae.png\"},{\"name\":\"恶魔兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/85cd6ea6dc70065c16421bcab1348824639b829c.png\"},{\"name\":\"天使兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ac0d0052cdb539e0f53135ceb1fbe9f9a60c9b9.png\"},{\"name\":\"爱心吊瓶\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca3154e1b570c0678f219fb513b3fe166518501d.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/be05e18d058d7c2891651b87c12d7ef9f7616561.png\"},{\"name\":\"汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/24e89ccc8b3bc5db56cc18e6b3138937e984b114.png\"},{\"name\":\"流泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/479fd7946e2b6043a3c49e352ea9a0ce252328f1.png\"},{\"name\":\"药瓶\",\"image\":\"https://i0.hdslb.com/bfs/garb/be4ee9c6281fc9be643d41cd5cba8bc8fdf3ffbc.png\"},{\"name\":\"生病\",\"image\":\"https://i0.hdslb.com/bfs/garb/2275dce121a22d9a733847065ccdfb7a334f58e8.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/be05e18d058d7c2891651b87c12d7ef9f7616561.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_天使兔兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4ac0d0052cdb539e0f53135ceb1fbe9f9a60c9b9.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_恶魔兔兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/85cd6ea6dc70065c16421bcab1348824639b829c.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/24e89ccc8b3bc5db56cc18e6b3138937e984b114.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_流泪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/479fd7946e2b6043a3c49e352ea9a0ce252328f1.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_激动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b76be3ac53a9351b262a05d77554586712e9b053.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_爱心吊瓶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ca3154e1b570c0678f219fb513b3fe166518501d.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_狙击手]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0426fd8d082c73c23c79163c4329ef859dd2d129.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_狙击爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/23148f22375084160d1a5a5c3c49b2d2e24111ae.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_生病]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2275dce121a22d9a733847065ccdfb7a334f58e8.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_药瓶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/be4ee9c6281fc9be643d41cd5cba8bc8fdf3ffbc.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4507d18614ede8cfc175738ea5e9874894de8918.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_针筒1]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/061025228ed15ee47567c695432f9f5876649bd5.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_针筒3]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a0d5b0a534c1cca045eb5bf40f4359955a78a4e2.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[電子病亞_针筒中间]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/17119d03d2376ad7b03266ca5cb2b86c32fea7ac.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1736233845001,
 				"name":"電子病亞",
-				"tab_id":0,
 				"suit_item_id":300745601,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1736231739001,
 				"name":"電子病亞",
-				"tab_id":0,
 				"suit_item_id":300745601,
 				"properties":{
 					"fan_no_color":"#ffffff",

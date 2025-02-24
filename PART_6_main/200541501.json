@@ -35,7 +35,6 @@
 			{
 				"item_id":1704433338001,
 				"name":"谨贺龙年",
-				"tab_id":0,
 				"suit_item_id":200541501,
 				"properties":{
 					"fan_no_color":"#D05D5D",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1704433338002,
 				"name":"谨贺龙年粉丝",
-				"tab_id":0,
 				"suit_item_id":200541501,
 				"properties":{
 					"fan_no_color":"#D05D5D",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1704433395001,
 				"name":"谨贺龙年",
-				"tab_id":0,
 				"suit_item_id":200541501,
 				"properties":{
 					"fan_no_color":"#D05D5D",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1704433246001,
 				"name":"谨贺龙年",
-				"tab_id":0,
 				"suit_item_id":200541501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/90175abab4616ea98403becef36bcb9ed0e2ba5f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"梳妆\",\"image\":\"https://i0.hdslb.com/bfs/garb/644a4dd5a821eaf8e27e495d66f3a7b66e502372.png\"},{\"name\":\"拜年\",\"image\":\"https://i0.hdslb.com/bfs/garb/15c834eb252e72c2d3424d193fc9a9f334472260.png\"},{\"name\":\"龇牙\",\"image\":\"https://i0.hdslb.com/bfs/garb/ebecf21cfb8da86096e2766d75e0b3f38284ea4a.png\"},{\"name\":\"年年有鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ad3994eaf3aae859afb6d4163fbd052be1d23f2.png\"},{\"name\":\"百灵鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/3812fbb34b2ba0bdd369f15f5967a702c9571f0c.png\"},{\"name\":\"多练\",\"image\":\"https://i0.hdslb.com/bfs/garb/cff3851d9c3afece8234d91407214e4d6685be41.png\"},{\"name\":\"乖巧\",\"image\":\"https://i0.hdslb.com/bfs/garb/2627cc686129c6f45153adce0045a4436ad0bcd4.png\"},{\"name\":\"鞭炮\",\"image\":\"https://i0.hdslb.com/bfs/garb/a84ab19c6d50bda39924534fca43b8166403de88.png\"},{\"name\":\"瑟瑟发抖\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b5c7faca30d256739565adbf96bf8df693a7a18.png\"},{\"name\":\"给我！\",\"image\":\"https://i0.hdslb.com/bfs/garb/512cda37e3fc5d6f121c11ca9c9e64241e8fb9a3.png\"},{\"name\":\"招财\",\"image\":\"https://i0.hdslb.com/bfs/garb/7256f6762a0553d2910065a82253bd7cdd1874cb.png\"},{\"name\":\"点爆竹\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5ed15aa3d434637ae12ea7cb01500214e40c036.png\"},{\"name\":\"吃汤圆\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea60e368647997eec34f492f8eea533fd7e6fa3e.png\"},{\"name\":\"大清洁\",\"image\":\"https://i0.hdslb.com/bfs/garb/971550f2d06bc3649341fa7cd6fba624f9342841.png\"},{\"name\":\"大扫除\",\"image\":\"https://i0.hdslb.com/bfs/garb/54ab64142178dacc7db38de4136298fec36635e9.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_乖巧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2627cc686129c6f45153adce0045a4436ad0bcd4.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_吃汤圆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea60e368647997eec34f492f8eea533fd7e6fa3e.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_多练]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cff3851d9c3afece8234d91407214e4d6685be41.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_大扫除]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/54ab64142178dacc7db38de4136298fec36635e9.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_大清洁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/971550f2d06bc3649341fa7cd6fba624f9342841.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_年年有鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ad3994eaf3aae859afb6d4163fbd052be1d23f2.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_招财]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7256f6762a0553d2910065a82253bd7cdd1874cb.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_拜年]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/15c834eb252e72c2d3424d193fc9a9f334472260.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_梳妆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/644a4dd5a821eaf8e27e495d66f3a7b66e502372.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_点爆竹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e5ed15aa3d434637ae12ea7cb01500214e40c036.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_瑟瑟发抖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b5c7faca30d256739565adbf96bf8df693a7a18.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_百灵鸟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3812fbb34b2ba0bdd369f15f5967a702c9571f0c.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_给我！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/512cda37e3fc5d6f121c11ca9c9e64241e8fb9a3.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_鞭炮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a84ab19c6d50bda39924534fca43b8166403de88.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[谨贺龙年_龇牙]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ebecf21cfb8da86096e2766d75e0b3f38284ea4a.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1704433677001,
 				"name":"谨贺龙年",
-				"tab_id":0,
 				"suit_item_id":200541501,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1704433463001,
 				"name":"谨贺龙年",
-				"tab_id":0,
 				"suit_item_id":200541501,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1697424537001,
 				"name":"海獭的小生活",
-				"tab_id":0,
 				"suit_item_id":128933401,
 				"properties":{
 					"fan_no_color":"#C9784C",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1697425389001,
 				"name":"海獭的小生活粉丝",
-				"tab_id":0,
 				"suit_item_id":128933401,
 				"properties":{
 					"fan_no_color":"#C9784C",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1697424562001,
 				"name":"海獭的小生活",
-				"tab_id":0,
 				"suit_item_id":128933401,
 				"properties":{
 					"fan_no_color":"#C9784C",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1697424997001,
 				"name":"海獭的小生活",
-				"tab_id":0,
 				"suit_item_id":128933401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f031ee4a9db7092d5613ccdc85145f1d3ebc6802.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"邦邦两拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea01b1fcf2a1c2b55104af470a57c82bf05f8f12.png\"},{\"name\":\"睡噜\",\"image\":\"https://i0.hdslb.com/bfs/garb/d8135d0274c0fd31cd2d8a339a6199d7f3421351.png\"},{\"name\":\"扭曲\",\"image\":\"https://i0.hdslb.com/bfs/garb/41f0240de39aedff0338ba5bedab4faead222e20.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/08d24f1aae06829ab6b9a4dce24e70ffedd08b3a.png\"},{\"name\":\"你好棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/852ad4187a16383d35887ee6daf3e2024cd688df.png\"},{\"name\":\"我很好\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e0a2920d1e9c3bb3a94975ef27cbc2cd48c4ea8.png\"},{\"name\":\"一个字\",\"image\":\"https://i0.hdslb.com/bfs/garb/6026743af377e3b69ab668a69151a0855d9a3867.png\"},{\"name\":\"累瘫\",\"image\":\"https://i0.hdslb.com/bfs/garb/44dcc0c3ba50be41d1692c0060788a9a8df85b50.png\"},{\"name\":\"獭身\",\"image\":\"https://i0.hdslb.com/bfs/garb/da310256339dbd1ecbff5a172da6a223bbf0afce.png\"},{\"name\":\"獭jio\",\"image\":\"https://i0.hdslb.com/bfs/garb/a6913ee6a9269843a2b11e01078ef070f7919d87.png\"},{\"name\":\"太喜欢了\",\"image\":\"https://i0.hdslb.com/bfs/garb/d252b12065c6b6ca9857d4d79e12526480805b30.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/0dea8793303fbbe7bc102168c9b48449e74f6910.png\"},{\"name\":\"想要？\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef22cbbb2d3a8c987dd516944539885df2820fcb.png\"},{\"name\":\"突然出现\",\"image\":\"https://i0.hdslb.com/bfs/garb/5cae095fa91e95208096d6dedcb7fbe7fdc0911d.png\"},{\"name\":\"你人怪好的\",\"image\":\"https://i0.hdslb.com/bfs/garb/439b451ed68bcd1c7b038574684811d41a479d3d.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_一个字]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6026743af377e3b69ab668a69151a0855d9a3867.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_你人怪好的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/439b451ed68bcd1c7b038574684811d41a479d3d.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_你好棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/852ad4187a16383d35887ee6daf3e2024cd688df.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_啊？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/08d24f1aae06829ab6b9a4dce24e70ffedd08b3a.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_太喜欢了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d252b12065c6b6ca9857d4d79e12526480805b30.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_想要？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ef22cbbb2d3a8c987dd516944539885df2820fcb.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_我很好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7e0a2920d1e9c3bb3a94975ef27cbc2cd48c4ea8.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0dea8793303fbbe7bc102168c9b48449e74f6910.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_扭曲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/41f0240de39aedff0338ba5bedab4faead222e20.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_獭jio]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a6913ee6a9269843a2b11e01078ef070f7919d87.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_獭身]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/da310256339dbd1ecbff5a172da6a223bbf0afce.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_睡噜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d8135d0274c0fd31cd2d8a339a6199d7f3421351.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_突然出现]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5cae095fa91e95208096d6dedcb7fbe7fdc0911d.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_累瘫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/44dcc0c3ba50be41d1692c0060788a9a8df85b50.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[海獭的小生活_邦邦两拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea01b1fcf2a1c2b55104af470a57c82bf05f8f12.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1697425338001,
 				"name":"海獭的小生活",
-				"tab_id":0,
 				"suit_item_id":128933401,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1697445920001,
 				"name":"海獭小生活",
-				"tab_id":0,
 				"suit_item_id":128933401,
 				"properties":{
 					"fan_no_color":"#ffffff",

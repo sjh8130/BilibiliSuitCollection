@@ -35,7 +35,6 @@
 			{
 				"item_id":1678704250001,
 				"name":"兔兔茶话会",
-				"tab_id":0,
 				"suit_item_id":107257101,
 				"properties":{
 					"fan_no_color":"#FF9D60",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1678704250002,
 				"name":"兔兔茶话会粉丝",
-				"tab_id":0,
 				"suit_item_id":107257101,
 				"properties":{
 					"fan_no_color":"#FF9D60",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1678705235001,
 				"name":"兔兔茶话会",
-				"tab_id":0,
 				"suit_item_id":107257101,
 				"properties":{
 					"fan_no_color":"#FF9D60",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1678704412001,
 				"name":"兔兔茶话会",
-				"tab_id":0,
 				"suit_item_id":107257101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b749b914a185c695828e569ff154a2ad5e55b17d.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b84b8676d0ac8c8ea6977fad23ca208a963f708.png\"},{\"name\":\"心平气和\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5456efacdf09bb5207ea46b6f2b88c64c35b6d6.png\"},{\"name\":\"送fafa\",\"image\":\"https://i0.hdslb.com/bfs/garb/12aafe0aedebd087706170e67fac14f375e8adff.png\"},{\"name\":\"趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/24df902290995bde5c865a500eef6ff16a225884.png\"},{\"name\":\"累了\",\"image\":\"https://i0.hdslb.com/bfs/garb/3540f50abde64e73ace7bb8dd98e79239df66746.png\"},{\"name\":\"呜呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc25241793b0b6f303f48b4bde44e35c0bff9d4e.png\"},{\"name\":\"收到\",\"image\":\"https://i0.hdslb.com/bfs/garb/f94d99b613b09877c2980ceff759eb504d081450.png\"},{\"name\":\"买奶茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/41203df72638038adb693e610b14f9151404ece4.png\"},{\"name\":\"干饭兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/e75c169d0702f57f5bf72fe9fceb497278c80eb0.png\"},{\"name\":\"嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6e44af04839bd7633f66c99dd2d4d12f5839742.png\"},{\"name\":\"在吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/af54bd72279dee90aa1dfabb5d47295c608a928b.png\"},{\"name\":\"让我看看\",\"image\":\"https://i0.hdslb.com/bfs/garb/46d6949b4d2f7551ba6ae7c81285b4339f20b18b.png\"},{\"name\":\"兔兔请客\",\"image\":\"https://i0.hdslb.com/bfs/garb/010398d273178969378fa69172b443dbb0df7af9.png\"},{\"name\":\"来喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/2fc9075bd84b1a384344dbd474b35efb9bb9f9fa.png\"},{\"name\":\"谢谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/ddb4f2825e69c1428b2846f4dfdf8232ac465604.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_买奶茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/41203df72638038adb693e610b14f9151404ece4.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_兔兔请客]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/010398d273178969378fa69172b443dbb0df7af9.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_呜呜呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc25241793b0b6f303f48b4bde44e35c0bff9d4e.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_嘻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e6e44af04839bd7633f66c99dd2d4d12f5839742.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_在吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af54bd72279dee90aa1dfabb5d47295c608a928b.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_干饭兔兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e75c169d0702f57f5bf72fe9fceb497278c80eb0.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_心平气和]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b5456efacdf09bb5207ea46b6f2b88c64c35b6d6.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_摸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b84b8676d0ac8c8ea6977fad23ca208a963f708.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_收到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f94d99b613b09877c2980ceff759eb504d081450.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_来喽]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2fc9075bd84b1a384344dbd474b35efb9bb9f9fa.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_累了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3540f50abde64e73ace7bb8dd98e79239df66746.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_让我看看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/46d6949b4d2f7551ba6ae7c81285b4339f20b18b.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_谢谢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ddb4f2825e69c1428b2846f4dfdf8232ac465604.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_趴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/24df902290995bde5c865a500eef6ff16a225884.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔茶话会_送fafa]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/12aafe0aedebd087706170e67fac14f375e8adff.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1678705203001,
 				"name":"兔兔茶话会",
-				"tab_id":0,
 				"suit_item_id":107257101,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1678704441001,
 				"name":"兔兔茶话会",
-				"tab_id":0,
 				"suit_item_id":107257101,
 				"properties":{
 					"fan_no_color":"#ffffff",

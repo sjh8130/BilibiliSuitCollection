@@ -35,7 +35,6 @@
 			{
 				"item_id":1707031668001,
 				"name":"糊糊小刺猬",
-				"tab_id":0,
 				"suit_item_id":203549901,
 				"properties":{
 					"fan_no_color":"#7F6558",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1707033368001,
 				"name":"糊糊小刺猬粉丝",
-				"tab_id":0,
 				"suit_item_id":203549901,
 				"properties":{
 					"fan_no_color":"#7F6558",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1707031715001,
 				"name":"糊糊小刺猬",
-				"tab_id":0,
 				"suit_item_id":203549901,
 				"properties":{
 					"fan_no_color":"#7F6558",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1706683114001,
 				"name":"糊糊小刺猬",
-				"tab_id":0,
 				"suit_item_id":203549901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/cfa4f38b3a4c4604d0d83f5248ad72c9a66c8b20.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"可怜\",\"image\":\"https://i0.hdslb.com/bfs/garb/75ea8a7da3f8bc5170935ec3f643c9c2913cd270.png\"},{\"name\":\"呆滞\",\"image\":\"https://i0.hdslb.com/bfs/garb/9dbc36fc144fb739b8e970b151310053091845cc.png\"},{\"name\":\"吓\",\"image\":\"https://i0.hdslb.com/bfs/garb/c84e44b0b4fd03ef0dcf30d02057f6dd74ad7c73.png\"},{\"name\":\"肯定\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fc99d6c78aa8e76cf360e41e38f89282075973f.png\"},{\"name\":\"扭曲\",\"image\":\"https://i0.hdslb.com/bfs/garb/9738ca42fd501927f81d1fb0e0bff11ac6d9dc7e.png\"},{\"name\":\"酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/1282324fda2020ddd40c3057b5eb1dbcb180865c.png\"},{\"name\":\"不酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/74690109d27afc11da5c973068aaaf0ec4538063.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/6db717be2e6590a9692a702d0f4f932d9f4702de.png\"},{\"name\":\"气皱\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff33e094a4976b35ab5205b7e8459c08a1aa5a90.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa963e3813532527ece8aa7b8e025d464b8429da.png\"},{\"name\":\"目移\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7b57d927166b6d7118ff3bbfca01488cad0708c.png\"},{\"name\":\"净化\",\"image\":\"https://i0.hdslb.com/bfs/garb/271ba84fafdf8e33efe2c38cc41280d3fc3649c7.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/f267e368c9864e168c520ecbc0954a6153990a42.png\"},{\"name\":\"枯萎\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea3cd6bff4817e1c072f19743714e403936f8711.png\"},{\"name\":\"方\",\"image\":\"https://i0.hdslb.com/bfs/garb/9127f34756133590055fcedfb9e5322007464187.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_不酷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/74690109d27afc11da5c973068aaaf0ec4538063.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_净化]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/271ba84fafdf8e33efe2c38cc41280d3fc3649c7.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_可怜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/75ea8a7da3f8bc5170935ec3f643c9c2913cd270.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_吓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c84e44b0b4fd03ef0dcf30d02057f6dd74ad7c73.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_呆滞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9dbc36fc144fb739b8e970b151310053091845cc.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f267e368c9864e168c520ecbc0954a6153990a42.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_扭曲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9738ca42fd501927f81d1fb0e0bff11ac6d9dc7e.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_方]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9127f34756133590055fcedfb9e5322007464187.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_枯萎]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea3cd6bff4817e1c072f19743714e403936f8711.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_气皱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ff33e094a4976b35ab5205b7e8459c08a1aa5a90.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6db717be2e6590a9692a702d0f4f932d9f4702de.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_目移]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a7b57d927166b6d7118ff3bbfca01488cad0708c.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_肯定]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1fc99d6c78aa8e76cf360e41e38f89282075973f.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aa963e3813532527ece8aa7b8e025d464b8429da.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[糊糊小刺猬_酷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1282324fda2020ddd40c3057b5eb1dbcb180865c.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1707033343001,
 				"name":"糊糊小刺猬",
-				"tab_id":0,
 				"suit_item_id":203549901,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1707031760001,
 				"name":"糊糊小刺猬",
-				"tab_id":0,
 				"suit_item_id":203549901,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1726797278001,
 				"name":"电子蕾酱",
-				"tab_id":0,
 				"suit_item_id":226728501,
 				"properties":{
 					"fan_no_color":"#E08CAA",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1726797278002,
 				"name":"电子蕾酱粉丝",
-				"tab_id":0,
 				"suit_item_id":226728501,
 				"properties":{
 					"fan_no_color":"#E08CAA",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1726797335001,
 				"name":"电子蕾酱",
-				"tab_id":0,
 				"suit_item_id":226728501,
 				"properties":{
 					"fan_no_color":"#E88CB3",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1726291877001,
 				"name":"电子蕾蕾酱-表情包",
-				"tab_id":0,
 				"suit_item_id":226728501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d43291455cfcd78b992159d829789c6c86a9c8f6.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"欣喜\",\"image\":\"https://i0.hdslb.com/bfs/garb/30b5773a0d344d164d379f2485415b6d0c5a60bd.png\"},{\"name\":\"怨恨\",\"image\":\"https://i0.hdslb.com/bfs/garb/6399b4441686d7b8b3c27c45081d1b5a95fbb16d.png\"},{\"name\":\"错\",\"image\":\"https://i0.hdslb.com/bfs/garb/00681cd4525325accd0f62de97764cd3c64eec86.png\"},{\"name\":\"拜托\",\"image\":\"https://i0.hdslb.com/bfs/garb/2feeb1d7ab92e285dabce37a2bb7c3709aa4b7b7.png\"},{\"name\":\"威胁\",\"image\":\"https://i0.hdslb.com/bfs/garb/a6df05fa3ee6e032fe03676b11690b47d78478bb.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2a7fde371b53e330734351c9df2cea3671c7753.png\"},{\"name\":\"应援\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c49c2bd27dc7dd4a727bc4e2e9fc0177e4b2f95.png\"},{\"name\":\"嫌弃\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a22f733adb38e1c29cea6bff0efc0407afcadd2.png\"},{\"name\":\"沉默\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2f57c90d8b159f3b60ed781d0fa488e94897b35.png\"},{\"name\":\"在意\",\"image\":\"https://i0.hdslb.com/bfs/garb/32a90e81ef3b4fa5cc8e65ebd59474c930854517.png\"},{\"name\":\"自闭\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ddd5e07a935c3df7c8293f302b96f26ed66bb49.png\"},{\"name\":\"爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/69fbbf1f8b8d2b27010ba21211f90530f6900614.png\"},{\"name\":\"愣\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0541e3b5077ec62c5d439fdbffaf83096122a64.png\"},{\"name\":\"慌张\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e3728d0f953fed8a389f8942acea0181d198859.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/25de06c1ed34eeb5c895ddb60c5657ccf73563d8.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/25de06c1ed34eeb5c895ddb60c5657ccf73563d8.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d2a7fde371b53e330734351c9df2cea3671c7753.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_在意]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/32a90e81ef3b4fa5cc8e65ebd59474c930854517.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_威胁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a6df05fa3ee6e032fe03676b11690b47d78478bb.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_嫌弃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8a22f733adb38e1c29cea6bff0efc0407afcadd2.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_应援]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c49c2bd27dc7dd4a727bc4e2e9fc0177e4b2f95.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_怨恨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6399b4441686d7b8b3c27c45081d1b5a95fbb16d.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_愣]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a0541e3b5077ec62c5d439fdbffaf83096122a64.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_慌张]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5e3728d0f953fed8a389f8942acea0181d198859.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_拜托]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2feeb1d7ab92e285dabce37a2bb7c3709aa4b7b7.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_欣喜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/30b5773a0d344d164d379f2485415b6d0c5a60bd.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_沉默]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b2f57c90d8b159f3b60ed781d0fa488e94897b35.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/69fbbf1f8b8d2b27010ba21211f90530f6900614.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_自闭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9ddd5e07a935c3df7c8293f302b96f26ed66bb49.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[电子蕾蕾酱-表情包_错]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/00681cd4525325accd0f62de97764cd3c64eec86.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1726797760001,
 				"name":"电子蕾酱",
-				"tab_id":0,
 				"suit_item_id":226728501,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1726797460001,
 				"name":"电子蕾酱",
-				"tab_id":0,
 				"suit_item_id":226728501,
 				"properties":{
 					"fan_no_color":"#ffffff",

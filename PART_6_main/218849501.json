@@ -36,7 +36,6 @@
 			{
 				"item_id":1720254266001,
 				"name":"卷卷猫开心牧场",
-				"tab_id":0,
 				"suit_item_id":218849501,
 				"properties":{
 					"fan_no_color":"#5BB1E3",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1720254266002,
 				"name":"卷卷猫开心牧场粉丝",
-				"tab_id":0,
 				"suit_item_id":218849501,
 				"properties":{
 					"fan_no_color":"#5BB1E3",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1720254565001,
 				"name":"卷卷猫开心牧场",
-				"tab_id":0,
 				"suit_item_id":218849501,
 				"properties":{
 					"fan_no_color":"#91D672",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1720254463001,
 				"name":"卷卷猫开心牧场",
-				"tab_id":0,
 				"suit_item_id":218849501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/143b5f78f8c83c84ee640288efab27186731e69e.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"猪猪卷卷猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/f755ea98e06329a932f8962de959131c74431d7d.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7afb61076cb0341e7c219bb3e80957999d84c47.png\"},{\"name\":\"黑白卷卷猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/83b08bdf1635e9202e0a7acb9f475597a92a77a1.png\"},{\"name\":\"小羊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a91116a1da57665b7170269214390cffa2dc681b.png\"},{\"name\":\"番茄卷卷猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca7cf66fa4d0e8435877a3869704478de77d9b17.png\"},{\"name\":\"开吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/a19258279c1d56b48df8f19bf55a22cdee072a7c.png\"},{\"name\":\"抱鸡蛋\",\"image\":\"https://i0.hdslb.com/bfs/garb/82dd2099c7ea66c0d885081c4c7bfb6a8f71a13f.png\"},{\"name\":\"购物\",\"image\":\"https://i0.hdslb.com/bfs/garb/63815140aea22f0a7101753a99df8cbf7c7e4fdf.png\"},{\"name\":\"叉番茄\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f958ce4491afdd4f0055b92998c06585b76e84a.png\"},{\"name\":\"小猪\",\"image\":\"https://i0.hdslb.com/bfs/garb/bcbc5073436893b7f4a3dc9ef7547f8c988f6add.png\"},{\"name\":\"小鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/29faf2350af87673df7d38d6a7a9247098f23d6a.png\"},{\"name\":\"开心番茄\",\"image\":\"https://i0.hdslb.com/bfs/garb/df927428599e2ab20f4e743499e6dcb5a81a9262.png\"},{\"name\":\"小牛\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ed3f09371614eafae635bde71707a3dc650a397.png\"},{\"name\":\"牛奶\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7af490e8b2b71484d30fe0da1af4d0b34c75215.png\"},{\"name\":\"鸡蛋\",\"image\":\"https://i0.hdslb.com/bfs/garb/680e0b3939cc08d1b49abc8076249678d430fb9c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_叉番茄]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8f958ce4491afdd4f0055b92998c06585b76e84a.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_小牛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9ed3f09371614eafae635bde71707a3dc650a397.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_小猪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bcbc5073436893b7f4a3dc9ef7547f8c988f6add.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_小羊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a91116a1da57665b7170269214390cffa2dc681b.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_小鸡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/29faf2350af87673df7d38d6a7a9247098f23d6a.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_开吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a19258279c1d56b48df8f19bf55a22cdee072a7c.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c7afb61076cb0341e7c219bb3e80957999d84c47.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_开心番茄]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/df927428599e2ab20f4e743499e6dcb5a81a9262.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_抱鸡蛋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/82dd2099c7ea66c0d885081c4c7bfb6a8f71a13f.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_牛奶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e7af490e8b2b71484d30fe0da1af4d0b34c75215.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_猪猪卷卷猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f755ea98e06329a932f8962de959131c74431d7d.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_番茄卷卷猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ca7cf66fa4d0e8435877a3869704478de77d9b17.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_购物]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/63815140aea22f0a7101753a99df8cbf7c7e4fdf.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_鸡蛋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/680e0b3939cc08d1b49abc8076249678d430fb9c.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[卷卷猫开心牧场_黑白卷卷猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/83b08bdf1635e9202e0a7acb9f475597a92a77a1.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1720254541001,
 				"name":"卷卷猫开心牧场",
-				"tab_id":0,
 				"suit_item_id":218849501,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1720254482001,
 				"name":"卷卷猫开心牧场",
-				"tab_id":0,
 				"suit_item_id":218849501,
 				"properties":{
 					"fan_no_color":"#ffffff",

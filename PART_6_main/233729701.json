@@ -36,7 +36,6 @@
 			{
 				"item_id":1733103775001,
 				"name":"萌趣卡皮巴拉",
-				"tab_id":0,
 				"suit_item_id":233729701,
 				"properties":{
 					"fan_no_color":"#905E18",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1733103775002,
 				"name":"萌趣卡皮巴拉粉丝",
-				"tab_id":0,
 				"suit_item_id":233729701,
 				"properties":{
 					"fan_no_color":"#905E18",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1733104363001,
 				"name":"萌趣卡皮巴拉",
-				"tab_id":0,
 				"suit_item_id":233729701,
 				"properties":{
 					"fan_no_color":"#D1863C",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1733104039001,
 				"name":"萌趣卡皮巴拉",
-				"tab_id":0,
 				"suit_item_id":233729701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/25f70c207dc2911d43119a9981ebc8ebc6a341d5.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/68520bf822c083d3434e74384f1afba06ba1db83.png\"},{\"name\":\"机智\",\"image\":\"https://i0.hdslb.com/bfs/garb/53e9313610c741a9310e37a7f80ef5b6cffcca7a.png\"},{\"name\":\"柿子\",\"image\":\"https://i0.hdslb.com/bfs/garb/173cdcf9277d17ec60c5e1c9809ccbbc6c8e4669.png\"},{\"name\":\"石化\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6f93c1f21a6e1d0bc90617f05623f12c936caa2.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e459552049081a787e65f4fbc9676c5865cbede.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/2aedaf24b6514769bbec4228cf57233cc658fd0d.png\"},{\"name\":\"走魂\",\"image\":\"https://i0.hdslb.com/bfs/garb/986ec8c15d43da056e52f5d4ce5d540d305fc081.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/e723bd76a081361f33f1f8b4652a35bd78c24c7a.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/48fd7c395761c2dbef8724f9d18f6382ab99efc8.png\"},{\"name\":\"擦汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/d56aca72dc2d90d6c2ade1a54eba4a7c3111472e.png\"},{\"name\":\"睡了\",\"image\":\"https://i0.hdslb.com/bfs/garb/80d2246b659781920787e9ab1c3bb051b4334d94.png\"},{\"name\":\"着急\",\"image\":\"https://i0.hdslb.com/bfs/garb/2998b32fe4908190bc81c9fcd853d0cc4896abe8.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/8cddb3d5a151fe19bc96d5ad5143ba0e3fe05559.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9da6a25b3d18c163f5501144c784db7fbbdf79b.png\"},{\"name\":\"偷看\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a68b69be69f962d52fa3151803c035487485d20.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_偷看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3a68b69be69f962d52fa3151803c035487485d20.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/48fd7c395761c2dbef8724f9d18f6382ab99efc8.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2aedaf24b6514769bbec4228cf57233cc658fd0d.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_擦汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d56aca72dc2d90d6c2ade1a54eba4a7c3111472e.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_机智]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/53e9313610c741a9310e37a7f80ef5b6cffcca7a.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_柿子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/173cdcf9277d17ec60c5e1c9809ccbbc6c8e4669.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/68520bf822c083d3434e74384f1afba06ba1db83.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3e459552049081a787e65f4fbc9676c5865cbede.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8cddb3d5a151fe19bc96d5ad5143ba0e3fe05559.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f9da6a25b3d18c163f5501144c784db7fbbdf79b.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_着急]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2998b32fe4908190bc81c9fcd853d0cc4896abe8.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_睡了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/80d2246b659781920787e9ab1c3bb051b4334d94.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_石化]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e6f93c1f21a6e1d0bc90617f05623f12c936caa2.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_走魂]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/986ec8c15d43da056e52f5d4ce5d540d305fc081.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[萌趣卡皮巴拉_送花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e723bd76a081361f33f1f8b4652a35bd78c24c7a.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1733104341001,
 				"name":"萌趣卡皮巴拉",
-				"tab_id":0,
 				"suit_item_id":233729701,
 				"properties":{
 					"color":"#ffffff",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1733104210001,
 				"name":"萌趣卡皮巴拉",
-				"tab_id":0,
 				"suit_item_id":233729701,
 				"properties":{
 					"fan_no_color":"#ffffff",

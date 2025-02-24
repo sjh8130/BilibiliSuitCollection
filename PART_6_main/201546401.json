@@ -35,7 +35,6 @@
 			{
 				"item_id":1705301866001,
 				"name":"幸运塔罗星 双子",
-				"tab_id":0,
 				"suit_item_id":201546401,
 				"properties":{
 					"fan_no_color":"#DA948A",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1705301866002,
 				"name":"幸运塔罗星 双子粉丝",
-				"tab_id":0,
 				"suit_item_id":201546401,
 				"properties":{
 					"fan_no_color":"#DA948A",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1705306756001,
 				"name":"幸运塔罗星 双子",
-				"tab_id":0,
 				"suit_item_id":201546401,
 				"properties":{
 					"fan_no_color":"#DA948A",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1705306468001,
 				"name":"双子",
-				"tab_id":0,
 				"suit_item_id":201546401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/77a8b2b73004596c00b5282c0438868636cd9251.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"冷艳杀手\",\"image\":\"https://i0.hdslb.com/bfs/garb/d4a28a68934936926913157ed9d206caa80d5776.png\"},{\"name\":\"接着奏乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ab452c5281e0c40e8a510993479a707e4f95320.png\"},{\"name\":\"双子卡\",\"image\":\"https://i0.hdslb.com/bfs/garb/d99cf1559c4f8ea5c5f394c5e83f2c21bd97b9d7.png\"},{\"name\":\"我康康\",\"image\":\"https://i0.hdslb.com/bfs/garb/3bf268b2ecdac3ccf8f4a2b05d4286cb0f3af91d.png\"},{\"name\":\"壁咚\",\"image\":\"https://i0.hdslb.com/bfs/garb/0903c587d3a2622484b8a552d43d1c2db18cf9c1.png\"},{\"name\":\"爱心击中\",\"image\":\"https://i0.hdslb.com/bfs/garb/383442004d331b3527a14a54f6dd20ef6d747281.png\"},{\"name\":\"爱心发射\",\"image\":\"https://i0.hdslb.com/bfs/garb/58e79f8c8b7d6dd59b14971597e1b70331025ed8.png\"},{\"name\":\"好运降临\",\"image\":\"https://i0.hdslb.com/bfs/garb/5fe0747bed2e44db3a756d75f7348249c76c23ed.png\"},{\"name\":\"开动脑筋\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7bec96ac7ad8c435140182de7f66d1ff03fb946.png\"},{\"name\":\"你过来呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/25bd5ce5fc1d840686c629fcc9b27382f077aed4.png\"},{\"name\":\"好运卡\",\"image\":\"https://i0.hdslb.com/bfs/garb/dcca7b25a48a02c4098b1c64fdc2525ca1629d07.png\"},{\"name\":\"happy\",\"image\":\"https://i0.hdslb.com/bfs/garb/e366dd399896b34d7d9d49eff877e6f3ace04d91.png\"},{\"name\":\"富贵卡\",\"image\":\"https://i0.hdslb.com/bfs/garb/2905e7ab9615fbfeadec680b75b003ab2743a3f6.png\"},{\"name\":\"快乐卡\",\"image\":\"https://i0.hdslb.com/bfs/garb/92133f2400b40476500a23ac5e6ae0db3e0d2637.png\"},{\"name\":\"暴瘦卡\",\"image\":\"https://i0.hdslb.com/bfs/garb/8201a5ffd49a9879d51256e2a6a497c4617e645f.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_happy]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e366dd399896b34d7d9d49eff877e6f3ace04d91.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_你过来呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/25bd5ce5fc1d840686c629fcc9b27382f077aed4.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_冷艳杀手]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d4a28a68934936926913157ed9d206caa80d5776.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_双子卡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d99cf1559c4f8ea5c5f394c5e83f2c21bd97b9d7.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_壁咚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0903c587d3a2622484b8a552d43d1c2db18cf9c1.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_好运卡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dcca7b25a48a02c4098b1c64fdc2525ca1629d07.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_好运降临]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5fe0747bed2e44db3a756d75f7348249c76c23ed.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_富贵卡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2905e7ab9615fbfeadec680b75b003ab2743a3f6.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_开动脑筋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b7bec96ac7ad8c435140182de7f66d1ff03fb946.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_快乐卡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/92133f2400b40476500a23ac5e6ae0db3e0d2637.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_我康康]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3bf268b2ecdac3ccf8f4a2b05d4286cb0f3af91d.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_接着奏乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ab452c5281e0c40e8a510993479a707e4f95320.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_暴瘦卡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8201a5ffd49a9879d51256e2a6a497c4617e645f.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_爱心击中]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/383442004d331b3527a14a54f6dd20ef6d747281.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[双子_爱心发射]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/58e79f8c8b7d6dd59b14971597e1b70331025ed8.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1705306690001,
 				"name":"幸运塔罗星 双子",
-				"tab_id":0,
 				"suit_item_id":201546401,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1705306578001,
 				"name":"双子 幸运塔罗星",
-				"tab_id":0,
 				"suit_item_id":201546401,
 				"properties":{
 					"fan_no_color":"#ffffff",

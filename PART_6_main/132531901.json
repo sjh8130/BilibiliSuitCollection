@@ -35,7 +35,6 @@
 			{
 				"item_id":1700533720001,
 				"name":"保卫萝卜·游园会",
-				"tab_id":0,
 				"suit_item_id":132531901,
 				"properties":{
 					"fan_no_color":"#FF68A8",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1700554913001,
 				"name":"保卫萝卜·游园会粉丝",
-				"tab_id":0,
 				"suit_item_id":132531901,
 				"properties":{
 					"fan_no_color":"#FF68A8",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1700534367001,
 				"name":"保卫萝卜·游园会",
-				"tab_id":0,
 				"suit_item_id":132531901,
 				"properties":{
 					"fan_no_color":"#FF68A8",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1700533938001,
 				"name":"保卫萝卜·游园会",
-				"tab_id":0,
 				"suit_item_id":132531901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a6656b5402813455560238671571264e0ab760b9.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb7451f7a1310f92c41b6e115d4b48036e703d3a.png\"},{\"name\":\"嗯嗯\",\"image\":\"https://i0.hdslb.com/bfs/garb/2269d539c26965a162e377111edeab427d55856b.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/43a8b76d6ae19a89b25bddc832da36631cae0a53.png\"},{\"name\":\"卖萌\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b61d5899f0fe6c9c70fc41adb33dc74343c740a.png\"},{\"name\":\"早啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/1466d445c8a4faa7c475f661ee30ca9720177c5c.png\"},{\"name\":\"坚强\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d134543e5678c1d0a3b1e264bda355de89a7901.png\"},{\"name\":\"马上到\",\"image\":\"https://i0.hdslb.com/bfs/garb/ccd6fe8e41f0c00f6c0afea7f0adc52bf92e2306.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a24f8ec5c8b9f80e46039139deba18aa33af0c7.png\"},{\"name\":\"撒娇\",\"image\":\"https://i0.hdslb.com/bfs/garb/72c8e862ca83d82c5435fb846218073285536954.png\"},{\"name\":\"健身\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed8e43272410f5d0ae229e4d319c5e02e01d8e2a.png\"},{\"name\":\"好那个哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9c77c7e0b9ba17cf3c299e7eec23533d2611684.png\"},{\"name\":\"洗澡\",\"image\":\"https://i0.hdslb.com/bfs/garb/4bc4819de31f28d42fa668ebbf2e2139e268bf86.png\"},{\"name\":\"不耐烦\",\"image\":\"https://i0.hdslb.com/bfs/garb/5958f76fd4f6b83b287deffa3ddf23819fc9ddce.png\"},{\"name\":\"fine\",\"image\":\"https://i0.hdslb.com/bfs/garb/f680778a564f582b07c5d383b1613e1839e014a9.png\"},{\"name\":\"好8\",\"image\":\"https://i0.hdslb.com/bfs/garb/010b41f6d60dae50aeefb7d66fa4f494cdd7458c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_fine]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f680778a564f582b07c5d383b1613e1839e014a9.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_不耐烦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5958f76fd4f6b83b287deffa3ddf23819fc9ddce.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_健身]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ed8e43272410f5d0ae229e4d319c5e02e01d8e2a.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/43a8b76d6ae19a89b25bddc832da36631cae0a53.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_卖萌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3b61d5899f0fe6c9c70fc41adb33dc74343c740a.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_嗯嗯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2269d539c26965a162e377111edeab427d55856b.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_坚强]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d134543e5678c1d0a3b1e264bda355de89a7901.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_好8]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/010b41f6d60dae50aeefb7d66fa4f494cdd7458c.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_好那个哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e9c77c7e0b9ba17cf3c299e7eec23533d2611684.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0a24f8ec5c8b9f80e46039139deba18aa33af0c7.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_撒娇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/72c8e862ca83d82c5435fb846218073285536954.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_早啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1466d445c8a4faa7c475f661ee30ca9720177c5c.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eb7451f7a1310f92c41b6e115d4b48036e703d3a.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_洗澡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4bc4819de31f28d42fa668ebbf2e2139e268bf86.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·游园会_马上到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ccd6fe8e41f0c00f6c0afea7f0adc52bf92e2306.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1700534308001,
 				"name":"保卫萝卜·游园会",
-				"tab_id":0,
 				"suit_item_id":132531901,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1700533989001,
 				"name":"保卫萝卜·游园会",
-				"tab_id":0,
 				"suit_item_id":132531901,
 				"properties":{
 					"fan_no_color":"#ffffff",

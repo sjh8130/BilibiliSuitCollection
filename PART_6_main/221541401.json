@@ -35,7 +35,6 @@
 			{
 				"item_id":1722572143001,
 				"name":"度假小动物",
-				"tab_id":0,
 				"suit_item_id":221541401,
 				"properties":{
 					"fan_no_color":"#5FBCEA",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1722572143002,
 				"name":"度假小动物粉丝",
-				"tab_id":0,
 				"suit_item_id":221541401,
 				"properties":{
 					"fan_no_color":"#5FBCEA",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1722577586001,
 				"name":"度假小动物",
-				"tab_id":0,
 				"suit_item_id":221541401,
 				"properties":{
 					"fan_no_color":"#5FBCEA",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1722572272001,
 				"name":"度假小动物",
-				"tab_id":0,
 				"suit_item_id":221541401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4c873ec6a70793a7ac6b94654b65e6b9e9f266d5.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"椰子兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f4f15e0dee174c472c4a43c15c6b0f6ab475a9e.png\"},{\"name\":\"捧花熊猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7196553c6b981ccbb906e8eddb34ef560dfad8c.png\"},{\"name\":\"吃瓜修狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/630d8b3fa54874462b75641f034dddac589a4060.png\"},{\"name\":\"游泳兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b536b3362c09a0befda5273198dad0769a8eb54.png\"},{\"name\":\"可爱考拉\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2d4c94dd7b6ae269a62a580c6695bc8c9ce669d.png\"},{\"name\":\"跳舞熊猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/55acbc6c328595688ee19c0b62a53039486cb3ef.png\"},{\"name\":\"吃瓜猪猪\",\"image\":\"https://i0.hdslb.com/bfs/garb/f00537ae9b1dfa99c8d7422199089a7beba736a1.png\"},{\"name\":\"快乐熊猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/269c8b9f46a23bb33432dd58dbbe32eb074c5b96.png\"},{\"name\":\"度假长颈鹿\",\"image\":\"https://i0.hdslb.com/bfs/garb/f750866cf4063bd465da6adcb9a202a795ef8be8.png\"},{\"name\":\"弹唱修狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1014632eee4c625e2c0fa2a8b312bad922fecae.png\"},{\"name\":\"飞天猪猪\",\"image\":\"https://i0.hdslb.com/bfs/garb/66a4bc921acfdec962caafd79751fe5bdcbb1ac5.png\"},{\"name\":\"调皮猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e5e02490907ccae324a585b95286ac1f1094f00.png\"},{\"name\":\"呆萌小狐狸\",\"image\":\"https://i0.hdslb.com/bfs/garb/a80ee61724191dc33b7ca23ae85dac88ac08484c.png\"},{\"name\":\"黑皮兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f63218a87d63b8cd8de85e87d64ff7f3716dd5a.png\"},{\"name\":\"萌系小龙\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ff15ba9892ffdcb5e115dc2a44604d46f68651c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_可爱考拉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d2d4c94dd7b6ae269a62a580c6695bc8c9ce669d.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_吃瓜修狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/630d8b3fa54874462b75641f034dddac589a4060.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_吃瓜猪猪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f00537ae9b1dfa99c8d7422199089a7beba736a1.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_呆萌小狐狸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a80ee61724191dc33b7ca23ae85dac88ac08484c.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_度假长颈鹿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f750866cf4063bd465da6adcb9a202a795ef8be8.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_弹唱修狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e1014632eee4c625e2c0fa2a8b312bad922fecae.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_快乐熊猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/269c8b9f46a23bb33432dd58dbbe32eb074c5b96.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_捧花熊猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c7196553c6b981ccbb906e8eddb34ef560dfad8c.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_椰子兔兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1f4f15e0dee174c472c4a43c15c6b0f6ab475a9e.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_游泳兔兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5b536b3362c09a0befda5273198dad0769a8eb54.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_萌系小龙]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2ff15ba9892ffdcb5e115dc2a44604d46f68651c.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_调皮猫猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1e5e02490907ccae324a585b95286ac1f1094f00.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_跳舞熊猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/55acbc6c328595688ee19c0b62a53039486cb3ef.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_飞天猪猪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/66a4bc921acfdec962caafd79751fe5bdcbb1ac5.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[度假小动物_黑皮兔兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4f63218a87d63b8cd8de85e87d64ff7f3716dd5a.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1722577525001,
 				"name":"度假小动物",
-				"tab_id":0,
 				"suit_item_id":221541401,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1722583266001,
 				"name":"度假小动物",
-				"tab_id":0,
 				"suit_item_id":221541401,
 				"properties":{
 					"fan_no_color":"#ffffff",

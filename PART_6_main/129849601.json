@@ -35,7 +35,6 @@
 			{
 				"item_id":1698216272001,
 				"name":"星座指示-白羊座",
-				"tab_id":0,
 				"suit_item_id":129849601,
 				"properties":{
 					"fan_no_color":"#E87E1B",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1698218332001,
 				"name":"星座指示-白羊座粉丝",
-				"tab_id":0,
 				"suit_item_id":129849601,
 				"properties":{
 					"fan_no_color":"#E87E1B",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1698216148001,
 				"name":"星座指示-白羊座",
-				"tab_id":0,
 				"suit_item_id":129849601,
 				"properties":{
 					"fan_no_color":"#EB8D20",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1698216230001,
 				"name":"星座指示-白羊座",
-				"tab_id":0,
 				"suit_item_id":129849601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4c98cd18e4ce8328fcb2f0fb0343d921bc754e49.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/9abcb2ae2175643c70271384ad272c211a76e452.png\"},{\"name\":\"紧张\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fc59ef5a9effdc752c1dff5efc78adde69d64f1.png\"},{\"name\":\"冲啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a31f38cdc378fcd6849f3c79687c62aade001ce.png\"},{\"name\":\"昏噜\",\"image\":\"https://i0.hdslb.com/bfs/garb/475481930d9c8ca3510d01d865755dee78d67d7e.png\"},{\"name\":\"我撞！\",\"image\":\"https://i0.hdslb.com/bfs/garb/81581d7e9ee543f66f6e63ccc175c5da75cc2604.png\"},{\"name\":\"下落\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7ece108da3eecd8a6fe2f7b4bba7eaf5d0a45d6.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0145e54c7c4ec284cc4fb0a930759f1918ef9ba.png\"},{\"name\":\"亲一口\",\"image\":\"https://i0.hdslb.com/bfs/garb/63ca8c255b86350856583b20914b9316d790b761.png\"},{\"name\":\"想象\",\"image\":\"https://i0.hdslb.com/bfs/garb/698b2270003f39906421c4f5178c153c559fecd2.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba69dae510d4b086323b48263070a20d9898fcf2.png\"},{\"name\":\"接住\",\"image\":\"https://i0.hdslb.com/bfs/garb/483160629f1539685e3792b10f7d240721c62c11.png\"},{\"name\":\"啊！！！\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7bad876954f77517a0b19a2b9dd6a2918e239b4.png\"},{\"name\":\"停！\",\"image\":\"https://i0.hdslb.com/bfs/garb/067886bc5987b575bd302ed110c2ac6970917a25.png\"},{\"name\":\"想到\",\"image\":\"https://i0.hdslb.com/bfs/garb/423055a18e1d482ad9929288d48c65d23b67333e.png\"},{\"name\":\"好哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3d5664e95ffb98444c8f3100cae11f9959bb1c6.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_下落]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a7ece108da3eecd8a6fe2f7b4bba7eaf5d0a45d6.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_亲一口]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/63ca8c255b86350856583b20914b9316d790b761.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_停！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/067886bc5987b575bd302ed110c2ac6970917a25.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_冲啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3a31f38cdc378fcd6849f3c79687c62aade001ce.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_啊！！！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e7bad876954f77517a0b19a2b9dd6a2918e239b4.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_好哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c3d5664e95ffb98444c8f3100cae11f9959bb1c6.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_想到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/423055a18e1d482ad9929288d48c65d23b67333e.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_想象]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/698b2270003f39906421c4f5178c153c559fecd2.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_我撞！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/81581d7e9ee543f66f6e63ccc175c5da75cc2604.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_接住]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/483160629f1539685e3792b10f7d240721c62c11.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_昏噜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/475481930d9c8ca3510d01d865755dee78d67d7e.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9abcb2ae2175643c70271384ad272c211a76e452.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a0145e54c7c4ec284cc4fb0a930759f1918ef9ba.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_紧张]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1fc59ef5a9effdc752c1dff5efc78adde69d64f1.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[星座指示-白羊座_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ba69dae510d4b086323b48263070a20d9898fcf2.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1698216906001,
 				"name":"星座指示-白羊座",
-				"tab_id":0,
 				"suit_item_id":129849601,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1698216057001,
 				"name":"星座指示-白羊座",
-				"tab_id":0,
 				"suit_item_id":129849601,
 				"properties":{
 					"fan_no_color":"#ffffff",

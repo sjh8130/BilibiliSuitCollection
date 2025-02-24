@@ -36,7 +36,6 @@
 			{
 				"item_id":1679039711001,
 				"name":"兽耳娘Kiki",
-				"tab_id":0,
 				"suit_item_id":107649001,
 				"properties":{
 					"fan_no_color":"#ED6FA1",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1679039711002,
 				"name":"兽耳娘Kiki粉丝",
-				"tab_id":0,
 				"suit_item_id":107649001,
 				"properties":{
 					"fan_no_color":"#ED6FA1",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1679041083001,
 				"name":"兽耳娘Kiki",
-				"tab_id":0,
 				"suit_item_id":107649001,
 				"properties":{
 					"fan_no_color":"#ED6FA1",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1679039866001,
 				"name":"兽耳娘Kiki",
-				"tab_id":0,
 				"suit_item_id":107649001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0c3c18d497149db226074485ce377f95c7d2b607.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc5b712278bb2fccf969e5c5cc257c91520421bc.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/086c49fbd9edeb73abe57f17aa1655ea83f27ae6.png\"},{\"name\":\"尴尬\",\"image\":\"https://i0.hdslb.com/bfs/garb/c508f3e0cbbdd39c5df06f69953f16d3a58457e5.png\"},{\"name\":\"睡了\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ecc090d7b2af2dd7a717b0ffdc5f04361537830.png\"},{\"name\":\"窃喜\",\"image\":\"https://i0.hdslb.com/bfs/garb/db10ce687e17d6018493ead1a5cadabf6a9e560d.png\"},{\"name\":\"累了\",\"image\":\"https://i0.hdslb.com/bfs/garb/537e6e8e03368d13b8d81b25a680bd07f5e856c9.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/702436fa4698c277be48eb67fae797c89b296bef.png\"},{\"name\":\"难过\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb45c43ca6ff6c5d65aaf0ad4a78c53858d79a79.png\"},{\"name\":\"懵\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5a3601d38c75097257581f93ac59370b356d45d.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6fbbca502b8cfe853b401fb5e7b1d7e816f6f3c.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/df4d9f73156a60147eecb7a5f8baa28361500312.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/6387f8b32c39ded97208e9e39510af74d486713e.png\"},{\"name\":\"拜托了\",\"image\":\"https://i0.hdslb.com/bfs/garb/f27b6fcd8e584fe03b03307faf4e4e51a025480d.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/c030e4351c57b280e52f0bcf8a46691852fbdc64.png\"},{\"name\":\"叹气\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d8d17c475ef35c1ab70c70a3b3de5386205cd9e.png\"},{\"name\":\"失落\",\"image\":\"https://i0.hdslb.com/bfs/garb/b40fde933a4d82acb70c5bfcdb262f6778645a4c.png\"},{\"name\":\"兴奋\",\"image\":\"https://i0.hdslb.com/bfs/garb/ebf7cddf0ee99698fc0baf7fbcc1e05031d3a185.png\"},{\"name\":\"有了\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5e433b162c962c6ee42c7935bf479e09b7fc656.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/023a8c1b59e394153f31d7c0b7b1840485639768.png\"},{\"name\":\"大笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/78e387e3e9f0006c98f69ab94f0ee893c46c4f08.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_兴奋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ebf7cddf0ee99698fc0baf7fbcc1e05031d3a185.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_叹气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9d8d17c475ef35c1ab70c70a3b3de5386205cd9e.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/023a8c1b59e394153f31d7c0b7b1840485639768.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_嗨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dc5b712278bb2fccf969e5c5cc257c91520421bc.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_大笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/78e387e3e9f0006c98f69ab94f0ee893c46c4f08.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_失落]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b40fde933a4d82acb70c5bfcdb262f6778645a4c.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/df4d9f73156a60147eecb7a5f8baa28361500312.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_尴尬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c508f3e0cbbdd39c5df06f69953f16d3a58457e5.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/702436fa4698c277be48eb67fae797c89b296bef.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_思考]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/086c49fbd9edeb73abe57f17aa1655ea83f27ae6.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_懵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f5a3601d38c75097257581f93ac59370b356d45d.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_拜托了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f27b6fcd8e584fe03b03307faf4e4e51a025480d.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_有了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e5e433b162c962c6ee42c7935bf479e09b7fc656.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6387f8b32c39ded97208e9e39510af74d486713e.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c030e4351c57b280e52f0bcf8a46691852fbdc64.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_睡了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2ecc090d7b2af2dd7a717b0ffdc5f04361537830.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_窃喜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db10ce687e17d6018493ead1a5cadabf6a9e560d.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_累了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/537e6e8e03368d13b8d81b25a680bd07f5e856c9.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_难过]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bb45c43ca6ff6c5d65aaf0ad4a78c53858d79a79.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[兽耳娘Kiki_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d6fbbca502b8cfe853b401fb5e7b1d7e816f6f3c.png",
 							"sale_type":"pay"
@@ -289,7 +264,6 @@
 			{
 				"item_id":1679040978001,
 				"name":"兽耳娘Kiki",
-				"tab_id":0,
 				"suit_item_id":107649001,
 				"properties":{
 					"color":"#ffffff",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1679039931001,
 				"name":"兽耳娘Kiki",
-				"tab_id":0,
 				"suit_item_id":107649001,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -34,7 +34,6 @@
 			{
 				"item_id":1684124949001,
 				"name":"艺术馆-搞怪名画",
-				"tab_id":0,
 				"suit_item_id":113541001,
 				"properties":{
 					"fan_no_color":"#858BEF",
@@ -48,7 +47,6 @@
 			{
 				"item_id":1684124949002,
 				"name":"艺术馆-搞怪名画粉丝",
-				"tab_id":0,
 				"suit_item_id":113541001,
 				"properties":{
 					"fan_no_color":"#858BEF",
@@ -65,7 +63,6 @@
 			{
 				"item_id":1684125825001,
 				"name":"艺术馆-搞怪名画",
-				"tab_id":0,
 				"suit_item_id":113541001,
 				"properties":{
 					"fan_no_color":"#858BEF",
@@ -80,14 +77,12 @@
 			{
 				"item_id":1684125130001,
 				"name":"艺术馆-搞怪名画",
-				"tab_id":0,
 				"suit_item_id":113541001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ababeafca9a9a81644691a296993da4ee02ee157.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"白眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1da5955d9a27d89c975961d73110410a1c3c323.png\"},{\"name\":\"优雅\",\"image\":\"https://i0.hdslb.com/bfs/garb/6da2f6221dbcb3b45daf0a77bb97b6d7df21f39b.png\"},{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b1c02049843f451cdeb9b531124ef2b5e219abb.png\"},{\"name\":\"礼貌\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b268c22391c615b5cb819edb957d39cf3832987.png\"},{\"name\":\"安详\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b4b7c81e98acd3394134107c4116586500d6202.png\"},{\"name\":\"坏笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/d88c4fdf3f2606d565f0fcf3c84c99439ab43c20.png\"},{\"name\":\"忧愁\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a63d4c72cdff1afa30c00d0220644a5ebf740c3.png\"},{\"name\":\"惊讶\",\"image\":\"https://i0.hdslb.com/bfs/garb/677ab7cdfebecdbbe8604c314c113061b7630b66.png\"},{\"name\":\"看戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/e220ab295fe958bcc26ae0318c00e7664b7b9b35.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/fcb1ca9516e5366df13f740f174bcec39939c9d0.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0a5944d0fee077cf5ea03d16196cfb5d58e901d.png\"},{\"name\":\"瞅啥\",\"image\":\"https://i0.hdslb.com/bfs/garb/8eb4b293ed2c13c2a1a1e2dcd5f17a352dc0a9a2.png\"},{\"name\":\"拿捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/a53519d89b038dbc43fbbbbe77d29325ce285840.png\"},{\"name\":\"拜拜\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6a14bcf638868069f0b603f55982f1f685b999b.png\"},{\"name\":\"怨念\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d2ef8a8cef7cf69982e4071fe12a3b6be9b5fb0.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -103,7 +98,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_优雅]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6da2f6221dbcb3b45daf0a77bb97b6d7df21f39b.png",
 							"sale_type":"pay"
@@ -112,7 +106,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_坏笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d88c4fdf3f2606d565f0fcf3c84c99439ab43c20.png",
 							"sale_type":"pay"
@@ -121,7 +114,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_安详]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4b4b7c81e98acd3394134107c4116586500d6202.png",
 							"sale_type":"pay"
@@ -130,7 +122,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_害怕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fcb1ca9516e5366df13f740f174bcec39939c9d0.png",
 							"sale_type":"pay"
@@ -139,7 +130,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b0a5944d0fee077cf5ea03d16196cfb5d58e901d.png",
 							"sale_type":"pay"
@@ -148,7 +138,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_微笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8b1c02049843f451cdeb9b531124ef2b5e219abb.png",
 							"sale_type":"pay"
@@ -157,7 +146,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_忧愁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4a63d4c72cdff1afa30c00d0220644a5ebf740c3.png",
 							"sale_type":"pay"
@@ -166,7 +154,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_怨念]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9d2ef8a8cef7cf69982e4071fe12a3b6be9b5fb0.png",
 							"sale_type":"pay"
@@ -175,7 +162,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_惊讶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/677ab7cdfebecdbbe8604c314c113061b7630b66.png",
 							"sale_type":"pay"
@@ -184,7 +170,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_拜拜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c6a14bcf638868069f0b603f55982f1f685b999b.png",
 							"sale_type":"pay"
@@ -193,7 +178,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_拿捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a53519d89b038dbc43fbbbbe77d29325ce285840.png",
 							"sale_type":"pay"
@@ -202,7 +186,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_白眼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e1da5955d9a27d89c975961d73110410a1c3c323.png",
 							"sale_type":"pay"
@@ -211,7 +194,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_看戏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e220ab295fe958bcc26ae0318c00e7664b7b9b35.png",
 							"sale_type":"pay"
@@ -220,7 +202,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_瞅啥]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8eb4b293ed2c13c2a1a1e2dcd5f17a352dc0a9a2.png",
 							"sale_type":"pay"
@@ -229,7 +210,6 @@
 					{
 						"item_id":0,
 						"name":"[艺术馆-搞怪名画_礼貌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b268c22391c615b5cb819edb957d39cf3832987.png",
 							"sale_type":"pay"
@@ -242,7 +222,6 @@
 			{
 				"item_id":1684125733001,
 				"name":"艺术馆-搞怪名画",
-				"tab_id":0,
 				"suit_item_id":113541001,
 				"properties":{
 					"color":"#ffffff",
@@ -282,7 +261,6 @@
 			{
 				"item_id":1684125267001,
 				"name":"艺术馆-搞怪名画",
-				"tab_id":0,
 				"suit_item_id":113541001,
 				"properties":{
 					"fan_no_color":"#ffffff",

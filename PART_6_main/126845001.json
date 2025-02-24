@@ -36,7 +36,6 @@
 			{
 				"item_id":1695612633001,
 				"name":"在下小狐兔",
-				"tab_id":0,
 				"suit_item_id":126845001,
 				"properties":{
 					"fan_no_color":"#EC3D6E",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1695612633002,
 				"name":"在下小狐兔粉丝",
-				"tab_id":0,
 				"suit_item_id":126845001,
 				"properties":{
 					"fan_no_color":"#EC3D6E",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1695622735001,
 				"name":"在下小狐兔",
-				"tab_id":0,
 				"suit_item_id":126845001,
 				"properties":{
 					"fan_no_color":"#EC3D6E",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1695612768001,
 				"name":"在下小狐兔",
-				"tab_id":0,
 				"suit_item_id":126845001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/efd88a6f6a5c741d72cb46b13f4a8578c63ff79b.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ebd4381240e185f6996d679768c0a5c1a365e92.png\"},{\"name\":\"逆天\",\"image\":\"https://i0.hdslb.com/bfs/garb/66e5e5533c555bfa1636fbad2278ea20f2c2e784.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/907f9834eef4a997e0887e92bd68811820a62453.png\"},{\"name\":\"吃我一拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/b316b868dacab1efa232ef46d8db61f74eb57c13.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/499ae3659b95d373e7b3248c9d407605b22f5b26.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f78b85f08271a9b4bf6a6d328c8fcfc96cb74d6.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/ebe0f1c86eb4173371ba65fa668f42d4f98607c1.png\"},{\"name\":\"夺少？\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fbf2893b9730b44d1abf3fa4b8021dc2b134d15.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/dda60a35f3d3c48a0c1ae9afbf8cd282093601ee.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/64cccba216725c4a022ed2e8be91fbd04ed62c0d.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/6858adcfde6f456997eb4fcc29a7e4beb3741d04.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5cbc91bd4a354cf4f2798887f7302bc1048edcc.png\"},{\"name\":\"傲娇\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d5d8569878c36cd9c63195235206c45a239c907.png\"},{\"name\":\"你别急\",\"image\":\"https://i0.hdslb.com/bfs/garb/04f2914e5e82d78020780410ff62804bf29346b2.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/570a47a105b96a94ade28bd6465ee65b9c450a87.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_你别急]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/04f2914e5e82d78020780410ff62804bf29346b2.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_傲娇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d5d8569878c36cd9c63195235206c45a239c907.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_吃我一拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b316b868dacab1efa232ef46d8db61f74eb57c13.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ebe0f1c86eb4173371ba65fa668f42d4f98607c1.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_大哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5f78b85f08271a9b4bf6a6d328c8fcfc96cb74d6.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_夺少？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1fbf2893b9730b44d1abf3fa4b8021dc2b134d15.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/499ae3659b95d373e7b3248c9d407605b22f5b26.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_摸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/570a47a105b96a94ade28bd6465ee65b9c450a87.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dda60a35f3d3c48a0c1ae9afbf8cd282093601ee.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f5cbc91bd4a354cf4f2798887f7302bc1048edcc.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6858adcfde6f456997eb4fcc29a7e4beb3741d04.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/64cccba216725c4a022ed2e8be91fbd04ed62c0d.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9ebd4381240e185f6996d679768c0a5c1a365e92.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/907f9834eef4a997e0887e92bd68811820a62453.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[在下小狐兔_逆天]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/66e5e5533c555bfa1636fbad2278ea20f2c2e784.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1695622647001,
 				"name":"在下小狐兔",
-				"tab_id":0,
 				"suit_item_id":126845001,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1695622298001,
 				"name":"在下小狐兔",
-				"tab_id":0,
 				"suit_item_id":126845001,
 				"properties":{
 					"fan_no_color":"#ffffff",

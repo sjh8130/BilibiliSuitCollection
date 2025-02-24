@@ -35,7 +35,6 @@
 			{
 				"item_id":1709800263001,
 				"name":"花·兔兔·爱丽丝",
-				"tab_id":0,
 				"suit_item_id":206751301,
 				"properties":{
 					"fan_no_color":"#A2AF3D",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1709800263002,
 				"name":"花·兔兔·爱丽丝粉丝",
-				"tab_id":0,
 				"suit_item_id":206751301,
 				"properties":{
 					"fan_no_color":"#A2AF3D",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1709802039001,
 				"name":"花·兔兔·爱丽丝",
-				"tab_id":0,
 				"suit_item_id":206751301,
 				"properties":{
 					"fan_no_color":"#A2AF3D",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1709800351001,
 				"name":"花·兔兔·爱丽丝",
-				"tab_id":0,
 				"suit_item_id":206751301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/04ad035682ef0b827d9997327366ba726e3c0d93.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"草莓兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/a955eda230bb01b06d79b247f222a2dbda675d4a.png\"},{\"name\":\"下雨天\",\"image\":\"https://i0.hdslb.com/bfs/garb/1204dca532aa6495fc30334a4b9b03a7ba32b003.png\"},{\"name\":\"吓你一跳\",\"image\":\"https://i0.hdslb.com/bfs/garb/099ce8d30da244b14768972ddeb239d017de1ec4.png\"},{\"name\":\"你好呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b5c209873b192a0d91db93761d55b10ae823f93.png\"},{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/fb09db57f6eac8ede2b8af05e4d95606ffa90b42.png\"},{\"name\":\"送你花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d95ae9c9308d1de327f757990b8da759263a4f7.png\"},{\"name\":\"突然出现\",\"image\":\"https://i0.hdslb.com/bfs/garb/323fe9e0078bae3035f538bdb30796a729128d1e.png\"},{\"name\":\"好~\",\"image\":\"https://i0.hdslb.com/bfs/garb/124b48bc26bff5ad2246825e48d02c31cf392532.png\"},{\"name\":\"心花怒放\",\"image\":\"https://i0.hdslb.com/bfs/garb/556717ae5756867541194cfe0a51c4178f4b202e.png\"},{\"name\":\"爱的星球\",\"image\":\"https://i0.hdslb.com/bfs/garb/131e0dc5d2c96e4e76a964b8cc6b5a9ef3d2a71c.png\"},{\"name\":\"跳舞\",\"image\":\"https://i0.hdslb.com/bfs/garb/0bdd4a3a01bc0051ca560f0ac9e6fa646ab63dfc.png\"},{\"name\":\"许愿星\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc29115966825694410c6245107792fc5217b2ee.png\"},{\"name\":\"铃兰猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9181384437844172bfd1e644d015f5736a7f49b.png\"},{\"name\":\"铃兰修狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/05915784f6947baf289df1ff982380d4bbe423bf.png\"},{\"name\":\"铃兰兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/20dc13bbb65239936d8972b99a37813792ead66e.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_wink]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fb09db57f6eac8ede2b8af05e4d95606ffa90b42.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_下雨天]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1204dca532aa6495fc30334a4b9b03a7ba32b003.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_你好呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1b5c209873b192a0d91db93761d55b10ae823f93.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_吓你一跳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/099ce8d30da244b14768972ddeb239d017de1ec4.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_好~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/124b48bc26bff5ad2246825e48d02c31cf392532.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_心花怒放]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/556717ae5756867541194cfe0a51c4178f4b202e.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_爱的星球]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/131e0dc5d2c96e4e76a964b8cc6b5a9ef3d2a71c.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_突然出现]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/323fe9e0078bae3035f538bdb30796a729128d1e.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_草莓兔兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a955eda230bb01b06d79b247f222a2dbda675d4a.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_许愿星]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cc29115966825694410c6245107792fc5217b2ee.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_跳舞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0bdd4a3a01bc0051ca560f0ac9e6fa646ab63dfc.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_送你花花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d95ae9c9308d1de327f757990b8da759263a4f7.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_铃兰修狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/05915784f6947baf289df1ff982380d4bbe423bf.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_铃兰兔兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20dc13bbb65239936d8972b99a37813792ead66e.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[花·兔兔·爱丽丝_铃兰猫猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f9181384437844172bfd1e644d015f5736a7f49b.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1709801367001,
 				"name":"花·兔兔·爱丽丝",
-				"tab_id":0,
 				"suit_item_id":206751301,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1709800470001,
 				"name":"花·兔兔·爱丽丝",
-				"tab_id":0,
 				"suit_item_id":206751301,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1708589407001,
 				"name":"天使女祈愿",
-				"tab_id":0,
 				"suit_item_id":205430701,
 				"properties":{
 					"fan_no_color":"#F17ECD",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1708589407002,
 				"name":"天使女祈愿粉丝",
-				"tab_id":0,
 				"suit_item_id":205430701,
 				"properties":{
 					"fan_no_color":"#F17ECD",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1708588224001,
 				"name":"天使少女祈愿",
-				"tab_id":0,
 				"suit_item_id":205430701,
 				"properties":{
 					"fan_no_color":"#736CF9",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1708590072001,
 				"name":"天使女孩祈愿",
-				"tab_id":0,
 				"suit_item_id":205430701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1ed169a580f25b6bd0657d2306b6968e90464b0e.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"演员\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7abd756492db4e7dc6b42e1fcc82138eae736ef.png\"},{\"name\":\"小心心\",\"image\":\"https://i0.hdslb.com/bfs/garb/e75911ee6fdd8ffb085cc9a3d5f1de9c631c84fa.png\"},{\"name\":\"啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/44c58387896d3706c22cd2ed3a7cc14c4da3fae6.png\"},{\"name\":\"怒气\",\"image\":\"https://i0.hdslb.com/bfs/garb/70434f0f36c7b4b7e5f387802810ef2be8d6cdcc.png\"},{\"name\":\"666\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f637abc71a1a775375f548e526e0749770e993e.png\"},{\"name\":\"绝对无理\",\"image\":\"https://i0.hdslb.com/bfs/garb/067ec40c54f117540b4fde0e3630b5e20bd0a019.png\"},{\"name\":\"不回\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a45a5b79ac9ffff4bbdb9445333041a742949c6.png\"},{\"name\":\"哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b1295a7e3724eab2a5c7f1c6f57b64b00360574.png\"},{\"name\":\"呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/22ffdf6f7d47b8159905382d0cfd816ff0bd4686.png\"},{\"name\":\"尴尬\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae0683673574bdadfb3ff1977b20dac68d391e2c.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc9c54e2dc2395bef0971c695366830271d0c517.png\"},{\"name\":\"打招呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/e96e5382606bbb5acb1a7a15edef91966de6c8b5.png\"},{\"name\":\"发射\",\"image\":\"https://i0.hdslb.com/bfs/garb/f6f8a820fbdc6316be418d1b643929688771ef6d.png\"},{\"name\":\"心碎\",\"image\":\"https://i0.hdslb.com/bfs/garb/7006e5278f3fd63b078b88a51ce5469ea1683124.png\"},{\"name\":\"兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/f931835b653475bbffeecc9e4eebbdf5895d27c5.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_666]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9f637abc71a1a775375f548e526e0749770e993e.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_不回]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a45a5b79ac9ffff4bbdb9445333041a742949c6.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_兔兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f931835b653475bbffeecc9e4eebbdf5895d27c5.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_发射]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f6f8a820fbdc6316be418d1b643929688771ef6d.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_呜呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/22ffdf6f7d47b8159905382d0cfd816ff0bd4686.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b1295a7e3724eab2a5c7f1c6f57b64b00360574.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/44c58387896d3706c22cd2ed3a7cc14c4da3fae6.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_小心心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e75911ee6fdd8ffb085cc9a3d5f1de9c631c84fa.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_尴尬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ae0683673574bdadfb3ff1977b20dac68d391e2c.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_心碎]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7006e5278f3fd63b078b88a51ce5469ea1683124.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_怒气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/70434f0f36c7b4b7e5f387802810ef2be8d6cdcc.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_打招呼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e96e5382606bbb5acb1a7a15edef91966de6c8b5.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_演员]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a7abd756492db4e7dc6b42e1fcc82138eae736ef.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_绝对无理]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/067ec40c54f117540b4fde0e3630b5e20bd0a019.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[天使女孩祈愿_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc9c54e2dc2395bef0971c695366830271d0c517.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1708588182001,
 				"name":"天使少女祈愿",
-				"tab_id":0,
 				"suit_item_id":205430701,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1708588428001,
 				"name":"天使少女祈愿",
-				"tab_id":0,
 				"suit_item_id":205430701,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -36,7 +36,6 @@
 			{
 				"item_id":1702004613001,
 				"name":"被窝多温暖",
-				"tab_id":0,
 				"suit_item_id":134234001,
 				"properties":{
 					"fan_no_color":"#FF8B69",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1702004613002,
 				"name":"被窝多温暖粉丝",
-				"tab_id":0,
 				"suit_item_id":134234001,
 				"properties":{
 					"fan_no_color":"#FF8B69",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1702004868001,
 				"name":"被窝多温暖",
-				"tab_id":0,
 				"suit_item_id":134234001,
 				"properties":{
 					"fan_no_color":"#FF8B69",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1702004649001,
 				"name":"被窝多温暖",
-				"tab_id":0,
 				"suit_item_id":134234001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/97520a95c806cccf19ff343e159909d0fff1195b.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"滑倒\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf6d6b75dd826df82c1ae6fd039257dd711d18f0.png\"},{\"name\":\"强风大背头\",\"image\":\"https://i0.hdslb.com/bfs/garb/381e14b93658ce67849e9976a57346c41e2f2d0f.png\"},{\"name\":\"艰难\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd79c3f42a1fb2436ee0c351876407bdc4704868.png\"},{\"name\":\"喝茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f6ef5a616fff2cd01eb8e720a7dbbb4d3d0f38c.png\"},{\"name\":\"看戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9eba40c6ec85b2bf6b48103bd1281f63c531357.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/c506412f4b5bb67febd88abf42d8f41fac749921.png\"},{\"name\":\"冻僵\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb357d0d98f66902999ed2e5727b63aaa60e44a3.png\"},{\"name\":\"幸福\",\"image\":\"https://i0.hdslb.com/bfs/garb/b60d2699662fd59d88fa8c42a1a5d0150a52b05b.png\"},{\"name\":\"真棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/3032fe02e1c0f3a21805b50887924059f1d21bc9.png\"},{\"name\":\"有冰\",\"image\":\"https://i0.hdslb.com/bfs/garb/519afde31299d6ede4d6b6343c05024bf9de9858.png\"},{\"name\":\"多喝热水\",\"image\":\"https://i0.hdslb.com/bfs/garb/50948237cc5e9a1eb7c7079636512c6ab6bfeb14.png\"},{\"name\":\"不想起床\",\"image\":\"https://i0.hdslb.com/bfs/garb/ffba279c5c550a3403250bdc9925159db94cd223.png\"},{\"name\":\"明天再说\",\"image\":\"https://i0.hdslb.com/bfs/garb/5322e52bb4d774d713d722e26ffdc560b684f4ea.png\"},{\"name\":\"啥？\",\"image\":\"https://i0.hdslb.com/bfs/garb/4380d7ca10406c794ac26b05a30bdb43ac8e2704.png\"},{\"name\":\"举个栗子\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f8aa76ef84fc402d969cce07883b1316ce66685.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_不想起床]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ffba279c5c550a3403250bdc9925159db94cd223.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_举个栗子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5f8aa76ef84fc402d969cce07883b1316ce66685.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_冻僵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bb357d0d98f66902999ed2e5727b63aaa60e44a3.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_啥？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4380d7ca10406c794ac26b05a30bdb43ac8e2704.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_喝茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8f6ef5a616fff2cd01eb8e720a7dbbb4d3d0f38c.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_多喝热水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/50948237cc5e9a1eb7c7079636512c6ab6bfeb14.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_幸福]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b60d2699662fd59d88fa8c42a1a5d0150a52b05b.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_强风大背头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/381e14b93658ce67849e9976a57346c41e2f2d0f.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_明天再说]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5322e52bb4d774d713d722e26ffdc560b684f4ea.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_有冰]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/519afde31299d6ede4d6b6343c05024bf9de9858.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_滑倒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bf6d6b75dd826df82c1ae6fd039257dd711d18f0.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_看戏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d9eba40c6ec85b2bf6b48103bd1281f63c531357.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_真棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3032fe02e1c0f3a21805b50887924059f1d21bc9.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_艰难]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dd79c3f42a1fb2436ee0c351876407bdc4704868.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[被窝多温暖_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c506412f4b5bb67febd88abf42d8f41fac749921.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1702004837001,
 				"name":"被窝多温暖",
-				"tab_id":0,
 				"suit_item_id":134234001,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1702004682001,
 				"name":"被窝多温暖",
-				"tab_id":0,
 				"suit_item_id":134234001,
 				"properties":{
 					"fan_no_color":"#ffffff",

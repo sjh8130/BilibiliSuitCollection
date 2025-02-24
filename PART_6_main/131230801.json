@@ -36,7 +36,6 @@
 			{
 				"item_id":1698718381001,
 				"name":"呱呱第一弹",
-				"tab_id":0,
 				"suit_item_id":131230801,
 				"properties":{
 					"fan_no_color":"#B8D435",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1698805798001,
 				"name":"呱呱第一弹粉丝",
-				"tab_id":0,
 				"suit_item_id":131230801,
 				"properties":{
 					"fan_no_color":"#B8D435",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1698718400001,
 				"name":"呱呱第一弹",
-				"tab_id":0,
 				"suit_item_id":131230801,
 				"properties":{
 					"fan_no_color":"#B8D435",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1698719430001,
 				"name":"呱呱第一弹",
-				"tab_id":0,
 				"suit_item_id":131230801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b873d0f1c1120e1da521f9045abc841bae39d3eb.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/12b68264cad23ab037ae1a3351d1a68f2a309ade.png\"},{\"name\":\"眨眼睛\",\"image\":\"https://i0.hdslb.com/bfs/garb/99ce4da138be81d27dc023d10f55d39f1c4000a2.png\"},{\"name\":\"吃了没？\",\"image\":\"https://i0.hdslb.com/bfs/garb/af4ae89a93224367187b1d78070e336fe193195c.png\"},{\"name\":\"看箭\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e4cd135a1f158e03d292d48dc3788610692bdad.png\"},{\"name\":\"接住\",\"image\":\"https://i0.hdslb.com/bfs/garb/0783fead30b09d55ce5587c2539cfb12710752bf.png\"},{\"name\":\"哇哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/94f0b25406a3c2c2bc97abe2a316fbe85bc88e77.png\"},{\"name\":\"来比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc92621fb94f8a447ef51c3a7ec1cd1d3797bd1c.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/9593812330d75a62bf530d5429c0de01fe4a4c8b.png\"},{\"name\":\"快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f0ee6b233228c6255fda84c1c62461246ed991f.png\"},{\"name\":\"早啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/188f6939af234ef22ed21927a1e123aca805a345.png\"},{\"name\":\"吸溜\",\"image\":\"https://i0.hdslb.com/bfs/garb/ece77fe88bde020119f1d376472a9a88b5db6096.png\"},{\"name\":\"吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/ddf5e74dcd770ff461ba1aa004d13fe038c82d92.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/5db90cd2a819bb8cc0b9d7bc2e9b7e3e604c1c15.png\"},{\"name\":\"吧唧\",\"image\":\"https://i0.hdslb.com/bfs/garb/a44d76d88d500639b7844472da6ce89110aa1a6d.png\"},{\"name\":\"睡咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd5eb347de5e97eda2e6dea0a96ae8afe71c8aa6.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ddf5e74dcd770ff461ba1aa004d13fe038c82d92.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_吃了没？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af4ae89a93224367187b1d78070e336fe193195c.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_吧唧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a44d76d88d500639b7844472da6ce89110aa1a6d.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_吸溜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ece77fe88bde020119f1d376472a9a88b5db6096.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_哇哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/94f0b25406a3c2c2bc97abe2a316fbe85bc88e77.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/12b68264cad23ab037ae1a3351d1a68f2a309ade.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_快乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8f0ee6b233228c6255fda84c1c62461246ed991f.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_接住]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0783fead30b09d55ce5587c2539cfb12710752bf.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_早啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/188f6939af234ef22ed21927a1e123aca805a345.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_来比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bc92621fb94f8a447ef51c3a7ec1cd1d3797bd1c.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_看箭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9e4cd135a1f158e03d292d48dc3788610692bdad.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_眨眼睛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/99ce4da138be81d27dc023d10f55d39f1c4000a2.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_睡咯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dd5eb347de5e97eda2e6dea0a96ae8afe71c8aa6.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5db90cd2a819bb8cc0b9d7bc2e9b7e3e604c1c15.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[呱呱第一弹_赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9593812330d75a62bf530d5429c0de01fe4a4c8b.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1698719349001,
 				"name":"呱呱第一弹",
-				"tab_id":0,
 				"suit_item_id":131230801,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1698729089001,
 				"name":"呱呱第一弹",
-				"tab_id":0,
 				"suit_item_id":131230801,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1675926111001,
 				"name":"女仆兔耳漫",
-				"tab_id":0,
 				"suit_item_id":104242401,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1675926111002,
 				"name":"女仆兔耳漫粉丝",
-				"tab_id":0,
 				"suit_item_id":104242401,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1676095529001,
 				"name":"女仆兔耳漫",
-				"tab_id":0,
 				"suit_item_id":104242401,
 				"properties":{
 					"fan_no_color":"#F998A3",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1676094231001,
 				"name":"女仆兔耳漫",
-				"tab_id":0,
 				"suit_item_id":104242401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/75c801c28c66607308e20dd51477ceada2feb054.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/569f5d743f1c50aa49d4a215645f14dff30b8501.png\"},{\"name\":\"发火\",\"image\":\"https://i0.hdslb.com/bfs/garb/d56ad6ee86a31029a28617bfa88e9241bb79d9bd.png\"},{\"name\":\"困困\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbe4f7cad865def6e2081ea4a08672240d1d73ce.png\"},{\"name\":\"流泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/01c0432d9424650fc48a5a8143bbe9ccd3c3f589.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/322ef535e7947a1a7d66bc479bdc148c6c46f033.png\"},{\"name\":\"小心\",\"image\":\"https://i0.hdslb.com/bfs/garb/eda6c1f38cf59efbdd926ecacfda4da4d21dd11c.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b1f88d4128c3a789631a800df56bc7878afd5d2.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ff674b117a2ad3485f9d3b26a66a5e71a622eca.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab50b964f9a437304ace7269cd7df5eca8e02491.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/d123769c4b1b831d11f05428267d53f7616e12ef.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ff1a30b44702b4123d8633d781f6c765a335dea.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/78c178c2894e05ae6f8e1945f888157bdf1af503.png\"},{\"name\":\"大喊\",\"image\":\"https://i0.hdslb.com/bfs/garb/51262f6b3fc712b45adff7fb057f6d38bdcfca24.png\"},{\"name\":\"晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/bed4233e99c310dc0902ff793b420ac5b8921f79.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8ea1f3271867bccb37b60448a9ffb4b5cee9c54.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_发火]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d56ad6ee86a31029a28617bfa88e9241bb79d9bd.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_困困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbe4f7cad865def6e2081ea4a08672240d1d73ce.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_大哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ab50b964f9a437304ace7269cd7df5eca8e02491.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_大喊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/51262f6b3fc712b45adff7fb057f6d38bdcfca24.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_委屈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5ff674b117a2ad3485f9d3b26a66a5e71a622eca.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2b1f88d4128c3a789631a800df56bc7878afd5d2.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_小心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eda6c1f38cf59efbdd926ecacfda4da4d21dd11c.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_投币]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/569f5d743f1c50aa49d4a215645f14dff30b8501.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/78c178c2894e05ae6f8e1945f888157bdf1af503.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/322ef535e7947a1a7d66bc479bdc148c6c46f033.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_晕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bed4233e99c310dc0902ff793b420ac5b8921f79.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_流泪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/01c0432d9424650fc48a5a8143bbe9ccd3c3f589.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d123769c4b1b831d11f05428267d53f7616e12ef.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b8ea1f3271867bccb37b60448a9ffb4b5cee9c54.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[女仆兔耳漫_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1ff1a30b44702b4123d8633d781f6c765a335dea.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1676095171001,
 				"name":"女仆兔耳漫",
-				"tab_id":0,
 				"suit_item_id":104242401,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1676094282001,
 				"name":"女仆兔耳漫",
-				"tab_id":0,
 				"suit_item_id":104242401,
 				"properties":{
 					"fan_no_color":"#ffffff",

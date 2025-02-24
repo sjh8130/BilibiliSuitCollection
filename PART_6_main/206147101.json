@@ -35,7 +35,6 @@
 			{
 				"item_id":1709278032001,
 				"name":"国风贴纸·你赢过吗",
-				"tab_id":0,
 				"suit_item_id":206147101,
 				"properties":{
 					"fan_no_color":"#DF4847",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1709278032002,
 				"name":"国风贴纸·你赢过吗粉丝",
-				"tab_id":0,
 				"suit_item_id":206147101,
 				"properties":{
 					"fan_no_color":"#DF4847",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1709278958001,
 				"name":"国风贴纸·你赢过吗",
-				"tab_id":0,
 				"suit_item_id":206147101,
 				"properties":{
 					"fan_no_color":"#DF4847",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1709278143001,
 				"name":"国风贴纸·你赢过吗",
-				"tab_id":0,
 				"suit_item_id":206147101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f09545765593ab86315585389bef9a65f01c2f53.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"瘦\",\"image\":\"https://i0.hdslb.com/bfs/garb/fa2cd58ec1d5a35fd64259a07edc1a554984c4ed.png\"},{\"name\":\"暴瘦\",\"image\":\"https://i0.hdslb.com/bfs/garb/921d5c94f7b32f8844831d8584ea856f16dac34a.png\"},{\"name\":\"拒绝熬夜\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce616bd875f88210754a6e28ffeeb17a6b9109a2.png\"},{\"name\":\"我不吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9acf888a4fbe3b5e58dfa7cba6784ba04025bf4.png\"},{\"name\":\"招财进宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/022e31edb43073d93264d3d807377a2ea2e910cc.png\"},{\"name\":\"时来运转\",\"image\":\"https://i0.hdslb.com/bfs/garb/bad1cb6bd8699eeb29924299e1b359824bc2896a.png\"},{\"name\":\"如意\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad3693aa4f3952bfbb468da70afae21baefcd064.png\"},{\"name\":\"好事花生\",\"image\":\"https://i0.hdslb.com/bfs/garb/2314e818dc77f02be65e434c95f4dcdb1b6e53a5.png\"},{\"name\":\"全力以赴\",\"image\":\"https://i0.hdslb.com/bfs/garb/951c5455fb648c2f7089514a48ea985785218954.png\"},{\"name\":\"苦尽甘来\",\"image\":\"https://i0.hdslb.com/bfs/garb/e75dc3e618208bf442b095d47e16d31b17310811.png\"},{\"name\":\"鱼跃龙门\",\"image\":\"https://i0.hdslb.com/bfs/garb/89fe2cff7074a8c391ccf5165dcb4ced079b90e0.png\"},{\"name\":\"上岸\",\"image\":\"https://i0.hdslb.com/bfs/garb/9504bfb4d15e5b2281857b4b76d0b343733914e9.png\"},{\"name\":\"馋了打嗝\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b4330f384b4538ff9cc12577488cbb5e1d17c8b.png\"},{\"name\":\"饿了喝水\",\"image\":\"https://i0.hdslb.com/bfs/garb/418251874fb24533a1f52225f84e7aa3319bb217.png\"},{\"name\":\"日进斗金\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ef5ec29822b20f5cd777bd8693b75671e7e3b13.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_上岸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9504bfb4d15e5b2281857b4b76d0b343733914e9.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_全力以赴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/951c5455fb648c2f7089514a48ea985785218954.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_好事花生]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2314e818dc77f02be65e434c95f4dcdb1b6e53a5.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_如意]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ad3693aa4f3952bfbb468da70afae21baefcd064.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_我不吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c9acf888a4fbe3b5e58dfa7cba6784ba04025bf4.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_拒绝熬夜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce616bd875f88210754a6e28ffeeb17a6b9109a2.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_招财进宝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/022e31edb43073d93264d3d807377a2ea2e910cc.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_日进斗金]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9ef5ec29822b20f5cd777bd8693b75671e7e3b13.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_时来运转]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bad1cb6bd8699eeb29924299e1b359824bc2896a.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_暴瘦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/921d5c94f7b32f8844831d8584ea856f16dac34a.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_瘦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fa2cd58ec1d5a35fd64259a07edc1a554984c4ed.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_苦尽甘来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e75dc3e618208bf442b095d47e16d31b17310811.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_饿了喝水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/418251874fb24533a1f52225f84e7aa3319bb217.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_馋了打嗝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2b4330f384b4538ff9cc12577488cbb5e1d17c8b.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[国风贴纸·你赢过吗_鱼跃龙门]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/89fe2cff7074a8c391ccf5165dcb4ced079b90e0.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1709278915001,
 				"name":"国风贴纸·你赢过吗",
-				"tab_id":0,
 				"suit_item_id":206147101,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1709278209001,
 				"name":"国风贴纸·你赢过吗",
-				"tab_id":0,
 				"suit_item_id":206147101,
 				"properties":{
 					"fan_no_color":"#ffffff",

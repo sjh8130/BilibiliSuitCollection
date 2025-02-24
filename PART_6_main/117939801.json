@@ -35,7 +35,6 @@
 			{
 				"item_id":1687914674001,
 				"name":"玩具销售员",
-				"tab_id":0,
 				"suit_item_id":117939801,
 				"properties":{
 					"fan_no_color":"#FFDD00",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1687914674002,
 				"name":"玩具销售员粉丝",
-				"tab_id":0,
 				"suit_item_id":117939801,
 				"properties":{
 					"fan_no_color":"#FFDD00",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1687915134001,
 				"name":"玩具销售员",
-				"tab_id":0,
 				"suit_item_id":117939801,
 				"properties":{
 					"fan_no_color":"#FFBB00",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1687914724001,
 				"name":"玩具销售员",
-				"tab_id":0,
 				"suit_item_id":117939801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/387787539d5a233a24ca173381b98541433b7fb7.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"运行中\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0cf8decf8d448c02c6830a2ad05cf793cf99ad4.png\"},{\"name\":\"电量不足\",\"image\":\"https://i0.hdslb.com/bfs/garb/63df723e304e67530c092f7d9682ad00bedcef3b.png\"},{\"name\":\"充电中\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea2881bd15771b5771d7601fe52c9eed56ac1dfb.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f30096bb41c67871857e6d0cd188176622c7c0f.png\"},{\"name\":\"情绪激烈\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5cd9be3bb0613b815c7af6d9fcc568f29637c3f.png\"},{\"name\":\"情绪稳定\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd8cccbd2e932eba0325a9da449b9aec9a195cd5.png\"},{\"name\":\"中大奖\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9a17dbe04b5f4d1b60dfe36d7530a42bfbca4cf.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/428478f796699e98519b1934242a78774405323c.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf5b9e806e8c336d5ab94e96179635097e80f7d9.png\"},{\"name\":\"开机\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec096b77b08295a4fec63cd0ab1fc8f1b163a65b.png\"},{\"name\":\"概率上升\",\"image\":\"https://i0.hdslb.com/bfs/garb/40aa7f88746f39a1e0e47e167b3496d81e00a160.png\"},{\"name\":\"还差一点\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a103faa5913239bf365440ce184dfefef118112.png\"},{\"name\":\"错误\",\"image\":\"https://i0.hdslb.com/bfs/garb/bbed551420385825f44f77ec10ea2a47590a187a.png\"},{\"name\":\"拒绝\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6eece9d3c033ce6b843ff5c7e28515773f8ee12.png\"},{\"name\":\"扫描\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b8d77d29769e15f4f62b12cc8aacf1afa6e7b7e.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_中大奖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d9a17dbe04b5f4d1b60dfe36d7530a42bfbca4cf.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_充电中]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea2881bd15771b5771d7601fe52c9eed56ac1dfb.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_开机]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ec096b77b08295a4fec63cd0ab1fc8f1b163a65b.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_情绪激烈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c5cd9be3bb0613b815c7af6d9fcc568f29637c3f.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_情绪稳定]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dd8cccbd2e932eba0325a9da449b9aec9a195cd5.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_扫描]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8b8d77d29769e15f4f62b12cc8aacf1afa6e7b7e.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_拒绝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d6eece9d3c033ce6b843ff5c7e28515773f8ee12.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_概率上升]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/40aa7f88746f39a1e0e47e167b3496d81e00a160.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_电量不足]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/63df723e304e67530c092f7d9682ad00bedcef3b.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7f30096bb41c67871857e6d0cd188176622c7c0f.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_盯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cf5b9e806e8c336d5ab94e96179635097e80f7d9.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_运行中]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c0cf8decf8d448c02c6830a2ad05cf793cf99ad4.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_还差一点]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4a103faa5913239bf365440ce184dfefef118112.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_错误]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bbed551420385825f44f77ec10ea2a47590a187a.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[玩具销售员_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/428478f796699e98519b1934242a78774405323c.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1687915111001,
 				"name":"玩具销售员",
-				"tab_id":0,
 				"suit_item_id":117939801,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1687914943001,
 				"name":"玩具销售员",
-				"tab_id":0,
 				"suit_item_id":117939801,
 				"properties":{
 					"fan_no_color":"#ffffff",

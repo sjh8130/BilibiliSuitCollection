@@ -35,7 +35,6 @@
 			{
 				"item_id":1698139122001,
 				"name":"王牌双娇",
-				"tab_id":0,
 				"suit_item_id":129835501,
 				"properties":{
 					"fan_no_color":"#AF684C",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1698139777001,
 				"name":"王牌双娇粉丝",
-				"tab_id":0,
 				"suit_item_id":129835501,
 				"properties":{
 					"fan_no_color":"#AF684C",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1698139166001,
 				"name":"王牌双娇",
-				"tab_id":0,
 				"suit_item_id":129835501,
 				"properties":{
 					"fan_no_color":"#AF684C",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1698139450001,
 				"name":"王牌双娇",
-				"tab_id":0,
 				"suit_item_id":129835501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/caea1b3ec3b724d3ccb6de9e1a2a7fa214ac381d.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/31523273cb0e9cc857521c17a9a7ef429059e56c.png\"},{\"name\":\"我生气了\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd64e621d94f7c62802b9bafc59b6d9f9c4c2ef8.png\"},{\"name\":\"你别这样\",\"image\":\"https://i0.hdslb.com/bfs/garb/df0f905bb2458c8ab6556742759110352c8c3315.png\"},{\"name\":\"发射\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a3bfd4e7fa27503e3e7ff3e671eb3ac85dd2d88.png\"},{\"name\":\"狠狠心动\",\"image\":\"https://i0.hdslb.com/bfs/garb/28c14f7e026cb282b18d5b636633b33aac55a7ff.png\"},{\"name\":\"自信\",\"image\":\"https://i0.hdslb.com/bfs/garb/f707c66e71558f71231d192c7083ff6d07efc148.png\"},{\"name\":\"俺也一样\",\"image\":\"https://i0.hdslb.com/bfs/garb/2504aea08036b2dabc340ac733654bd550fcf85f.png\"},{\"name\":\"GKD\",\"image\":\"https://i0.hdslb.com/bfs/garb/87c5fc709c13c1389c2c9d8986eef62c471e60ad.png\"},{\"name\":\"指指点点\",\"image\":\"https://i0.hdslb.com/bfs/garb/302f1d6bbefb30b70c3111ded736268d98797fb9.png\"},{\"name\":\"摸摸\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c1e179999871472a598899ba7d591ab8abaa09f.png\"},{\"name\":\"想我了吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/f70f4b88c0825a7d60e1386d48d7b3a09785fb72.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/29c4d8a7f2a30c91fc65fb6d6ecbe76daae50d5f.png\"},{\"name\":\"起床啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b4cb2e4a159da39d50eb1e6a5f01f00940e0d7e.png\"},{\"name\":\"送给你\",\"image\":\"https://i0.hdslb.com/bfs/garb/da24a552ad8e3d043ad625d497ba61225119d487.png\"},{\"name\":\"欠揍\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c2f009efe67641f8e1f439f13a36da1da50c402.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_GKD]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/87c5fc709c13c1389c2c9d8986eef62c471e60ad.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_你别这样]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/df0f905bb2458c8ab6556742759110352c8c3315.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_俺也一样]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2504aea08036b2dabc340ac733654bd550fcf85f.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_发射]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7a3bfd4e7fa27503e3e7ff3e671eb3ac85dd2d88.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/29c4d8a7f2a30c91fc65fb6d6ecbe76daae50d5f.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_想我了吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f70f4b88c0825a7d60e1386d48d7b3a09785fb72.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_我生气了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bd64e621d94f7c62802b9bafc59b6d9f9c4c2ef8.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/31523273cb0e9cc857521c17a9a7ef429059e56c.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_指指点点]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/302f1d6bbefb30b70c3111ded736268d98797fb9.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_摸摸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c1e179999871472a598899ba7d591ab8abaa09f.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_欠揍]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c2f009efe67641f8e1f439f13a36da1da50c402.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_狠狠心动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/28c14f7e026cb282b18d5b636633b33aac55a7ff.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_自信]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f707c66e71558f71231d192c7083ff6d07efc148.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_起床啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b4cb2e4a159da39d50eb1e6a5f01f00940e0d7e.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[王牌双娇_送给你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/da24a552ad8e3d043ad625d497ba61225119d487.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1698139694001,
 				"name":"王牌双娇",
-				"tab_id":0,
 				"suit_item_id":129835501,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1698139291001,
 				"name":"王牌双娇",
-				"tab_id":0,
 				"suit_item_id":129835501,
 				"properties":{
 					"fan_no_color":"#ffffff",

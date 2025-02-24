@@ -35,7 +35,6 @@
 			{
 				"item_id":1683711501001,
 				"name":"美食小狐狸",
-				"tab_id":0,
 				"suit_item_id":113154001,
 				"properties":{
 					"fan_no_color":"#F9BA7C",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1683711501002,
 				"name":"美食小狐狸粉丝",
-				"tab_id":0,
 				"suit_item_id":113154001,
 				"properties":{
 					"fan_no_color":"#F9BA7C",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1683711532001,
 				"name":"美食小狐狸",
-				"tab_id":0,
 				"suit_item_id":113154001,
 				"properties":{
 					"fan_no_color":"#F9BA7C",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1683711658001,
 				"name":"美食小狐狸",
-				"tab_id":0,
 				"suit_item_id":113154001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8a4e2b645be3340cb4f60ba4a320bb4c2c547a3b.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"发现\",\"image\":\"https://i0.hdslb.com/bfs/garb/98b6f0b93dc8d449c86d92f632754558337ca7cf.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/01fe4f5729b8bf49553752f2c19c6d238b2b0b85.png\"},{\"name\":\"emo\",\"image\":\"https://i0.hdslb.com/bfs/garb/ee88a96d9d32093af1ea8a8e77b0f46f4a33ddb2.png\"},{\"name\":\"认真\",\"image\":\"https://i0.hdslb.com/bfs/garb/655b76a35c0d892567a8f3ea408f9c99d24428ce.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/2edd3d80d79616e5a43cc20ded23b82a9a983556.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/7147f3f3c4b7c6845d27ed0cbba3bcf6f9ddc096.png\"},{\"name\":\"尴尬\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c8f4944d7d714dd8187668a135a754241ac5ea9.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/a70b43165af43d70d495d075849067c9ab9f4114.png\"},{\"name\":\"酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/00e58a06fa6314543abdc8187bae112dd4132c3b.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d9f38926d2a18c2b002142637a08d73e393c235.png\"},{\"name\":\"呆呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/19848486abe418aa7656ee6e502f7b355d2a0789.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/636080e41400fc83551532a6561644a9fb64b77b.png\"},{\"name\":\"笑哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/deb83166ac725a46c651b0645437d56a855411cf.png\"},{\"name\":\"祈祷\",\"image\":\"https://i0.hdslb.com/bfs/garb/806d9379d1dfc921deb9e653f8a77081f44d745b.png\"},{\"name\":\"惊恐\",\"image\":\"https://i0.hdslb.com/bfs/garb/e173f64aee0ea508124d058bb25e4925fb492d75.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_emo]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ee88a96d9d32093af1ea8a8e77b0f46f4a33ddb2.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_发现]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/98b6f0b93dc8d449c86d92f632754558337ca7cf.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_可爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2edd3d80d79616e5a43cc20ded23b82a9a983556.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_呆呆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/19848486abe418aa7656ee6e502f7b355d2a0789.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_尴尬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0c8f4944d7d714dd8187668a135a754241ac5ea9.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5d9f38926d2a18c2b002142637a08d73e393c235.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/01fe4f5729b8bf49553752f2c19c6d238b2b0b85.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_惊恐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e173f64aee0ea508124d058bb25e4925fb492d75.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a70b43165af43d70d495d075849067c9ab9f4114.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7147f3f3c4b7c6845d27ed0cbba3bcf6f9ddc096.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/636080e41400fc83551532a6561644a9fb64b77b.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_祈祷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/806d9379d1dfc921deb9e653f8a77081f44d745b.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_笑哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/deb83166ac725a46c651b0645437d56a855411cf.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_认真]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/655b76a35c0d892567a8f3ea408f9c99d24428ce.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[美食小狐狸_酷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/00e58a06fa6314543abdc8187bae112dd4132c3b.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1683711756001,
 				"name":"美食小狐狸",
-				"tab_id":0,
 				"suit_item_id":113154001,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1683711602001,
 				"name":"美食小狐狸",
-				"tab_id":0,
 				"suit_item_id":113154001,
 				"properties":{
 					"fan_no_color":"#ffffff",

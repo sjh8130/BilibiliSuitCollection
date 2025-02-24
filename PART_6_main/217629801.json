@@ -35,7 +35,6 @@
 			{
 				"item_id":1718942149001,
 				"name":"开心鹅鹅",
-				"tab_id":0,
 				"suit_item_id":217629801,
 				"properties":{
 					"fan_no_color":"#E2B148",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1718942149002,
 				"name":"开心鹅鹅粉丝",
-				"tab_id":0,
 				"suit_item_id":217629801,
 				"properties":{
 					"fan_no_color":"#E2B148",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1718942180001,
 				"name":"凶凶鹅鹅",
-				"tab_id":0,
 				"suit_item_id":217629801,
 				"properties":{
 					"fan_no_color":"#E2B148",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1718939351001,
 				"name":"鹅鹅的情绪",
-				"tab_id":0,
 				"suit_item_id":217629801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7c44ac246ebcf068ce00dc48652784a7a86f6e2a.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2647ea53f8ea50a807bf3472ace8e94d6d14ac4.png\"},{\"name\":\"凶\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc43aab434f5e5574690c46dae16da61a0aef087.png\"},{\"name\":\"超凶\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5cbcb501503ba4a7650218e27550a9ad80a502d.png\"},{\"name\":\"害\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b22f39c9920b07e27d2b2d1a50e5df9ffc81892.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/04642b3cf80aba910b6d7cb49879eee240b56256.png\"},{\"name\":\"不愿面对\",\"image\":\"https://i0.hdslb.com/bfs/garb/1aa885e76cd87667579a017f72e8e9aafcd1c2f8.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/4148f202354cef25acec2f7f6d86cd0c30ef0cf0.png\"},{\"name\":\"禁止咬人\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d06bae3e806a607c4f31950b355e7bae6bd01e1.png\"},{\"name\":\"瘫坐\",\"image\":\"https://i0.hdslb.com/bfs/garb/08d07afefb88ebabdd6080997c359449212f9aab.png\"},{\"name\":\"得意\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a523a2bd2e2fdbb524805a6dd202875a5f1762e.png\"},{\"name\":\"穷\",\"image\":\"https://i0.hdslb.com/bfs/garb/4555aae2bdf09d8b2b0e9d472179f9383b178d1a.png\"},{\"name\":\"踢飞地球\",\"image\":\"https://i0.hdslb.com/bfs/garb/e12973995aeafd4b2cc89ee8d3f1baf792f12b8f.png\"},{\"name\":\"学坏\",\"image\":\"https://i0.hdslb.com/bfs/garb/09d56423581ffd23551eb5ef0b8be83cc8d3d58d.png\"},{\"name\":\"你说的都对\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e82ccd797eed1ae7eeb11ef28f5d9e4d01c7199.png\"},{\"name\":\"懂？\",\"image\":\"https://i0.hdslb.com/bfs/garb/20414b63057627b6b0fb349e7493cf5986d8aa29.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_不愿面对]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1aa885e76cd87667579a017f72e8e9aafcd1c2f8.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_你说的都对]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7e82ccd797eed1ae7eeb11ef28f5d9e4d01c7199.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_凶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dc43aab434f5e5574690c46dae16da61a0aef087.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4148f202354cef25acec2f7f6d86cd0c30ef0cf0.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_嘻嘻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/04642b3cf80aba910b6d7cb49879eee240b56256.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_学坏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/09d56423581ffd23551eb5ef0b8be83cc8d3d58d.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_害]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9b22f39c9920b07e27d2b2d1a50e5df9ffc81892.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f2647ea53f8ea50a807bf3472ace8e94d6d14ac4.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_得意]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a523a2bd2e2fdbb524805a6dd202875a5f1762e.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_懂？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20414b63057627b6b0fb349e7493cf5986d8aa29.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_瘫坐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/08d07afefb88ebabdd6080997c359449212f9aab.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_禁止咬人]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d06bae3e806a607c4f31950b355e7bae6bd01e1.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_穷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4555aae2bdf09d8b2b0e9d472179f9383b178d1a.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_超凶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a5cbcb501503ba4a7650218e27550a9ad80a502d.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅鹅的情绪_踢飞地球]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e12973995aeafd4b2cc89ee8d3f1baf792f12b8f.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1718948746001,
 				"name":"鹅鹅的小情绪",
-				"tab_id":0,
 				"suit_item_id":217629801,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1718942211001,
 				"name":"鹅鹅开心心",
-				"tab_id":0,
 				"suit_item_id":217629801,
 				"properties":{
 					"fan_no_color":"#ffffff",

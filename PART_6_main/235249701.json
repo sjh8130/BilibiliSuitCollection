@@ -35,7 +35,6 @@
 			{
 				"item_id":1733897719001,
 				"name":"魔法少女安可",
-				"tab_id":0,
 				"suit_item_id":235249701,
 				"properties":{
 					"fan_no_color":"#FF75C9",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1733983850001,
 				"name":"魔法少女安可粉丝",
-				"tab_id":0,
 				"suit_item_id":235249701,
 				"properties":{
 					"fan_no_color":"#FF75C9",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1733898274001,
 				"name":"魔法少女安可",
-				"tab_id":0,
 				"suit_item_id":235249701,
 				"properties":{
 					"fan_no_color":"#FF7ABB",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1733898328001,
 				"name":"魔法少女安可",
-				"tab_id":0,
 				"suit_item_id":235249701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6b140f958bbe400a7f2c181b1abdc15714989075.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"安可安可\",\"image\":\"https://i0.hdslb.com/bfs/garb/1449a12daa070527d306b53f58d44e1a8a1a351f.png\"},{\"name\":\"魔法亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/cdc6b8719c0e470b8d29ca8732f2996923d4fb4a.png\"},{\"name\":\"丸子起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6c2bd3fc3ae1614220f9426c6a7af92a1213884.png\"},{\"name\":\"爆哭魔法\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b3c9cf36e678eebc5967636b6749318326f85d9.png\"},{\"name\":\"爱了爱了\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3a4b315094cd384f2a732bc048b53d5a7c4e300.png\"},{\"name\":\"加油加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/b013a4c5c32403418fcebc657c9e8f167b51f568.png\"},{\"name\":\"香槟庆祝\",\"image\":\"https://i0.hdslb.com/bfs/garb/4aa99a41c01cdc5cac2350514e4ae2d1d5be6a18.png\"},{\"name\":\"生日快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/1154a31c23cafea6ba42d67284d8a716907f8bef.png\"},{\"name\":\"魔法祈愿\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4903babf1fc1e534812fc6ed51e113b393d576c.png\"},{\"name\":\"撒花祝福\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c974fd9b96adf3e30fcda3a208364b815f6dee3.png\"},{\"name\":\"魔法吟唱\",\"image\":\"https://i0.hdslb.com/bfs/garb/324667cad30ebe3360fecf3304903b5671d91448.png\"},{\"name\":\"爱的肯定\",\"image\":\"https://i0.hdslb.com/bfs/garb/78ac4acd2bb5e3776745bc42cb91d2c690c928a2.png\"},{\"name\":\"沉睡魔咒\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a8362bcd27e1eedd1fd5bd765bb179882afbfbc.png\"},{\"name\":\"？！！\",\"image\":\"https://i0.hdslb.com/bfs/garb/6dd30b0e509ebe5dd98816e0b9b4be1dc3d3bfec.png\"},{\"name\":\"幻想时间\",\"image\":\"https://i0.hdslb.com/bfs/garb/455909f48afd54e03442c80c4b380276f8e6998c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_丸子起飞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c6c2bd3fc3ae1614220f9426c6a7af92a1213884.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_加油加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b013a4c5c32403418fcebc657c9e8f167b51f568.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_安可安可]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1449a12daa070527d306b53f58d44e1a8a1a351f.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_幻想时间]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/455909f48afd54e03442c80c4b380276f8e6998c.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_撒花祝福]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6c974fd9b96adf3e30fcda3a208364b815f6dee3.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_沉睡魔咒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a8362bcd27e1eedd1fd5bd765bb179882afbfbc.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_爆哭魔法]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6b3c9cf36e678eebc5967636b6749318326f85d9.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_爱了爱了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e3a4b315094cd384f2a732bc048b53d5a7c4e300.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_爱的肯定]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/78ac4acd2bb5e3776745bc42cb91d2c690c928a2.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_生日快乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1154a31c23cafea6ba42d67284d8a716907f8bef.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_香槟庆祝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4aa99a41c01cdc5cac2350514e4ae2d1d5be6a18.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_魔法亲亲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cdc6b8719c0e470b8d29ca8732f2996923d4fb4a.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_魔法吟唱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/324667cad30ebe3360fecf3304903b5671d91448.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_魔法祈愿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e4903babf1fc1e534812fc6ed51e113b393d576c.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法少女安可_？！！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6dd30b0e509ebe5dd98816e0b9b4be1dc3d3bfec.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1734076980001,
 				"name":"安可六周年",
-				"tab_id":0,
 				"suit_item_id":235249701,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1733898303001,
 				"name":"魔法少女安可",
-				"tab_id":0,
 				"suit_item_id":235249701,
 				"properties":{
 					"fan_no_color":"#ffffff",

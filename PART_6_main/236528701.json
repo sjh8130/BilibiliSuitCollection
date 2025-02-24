@@ -35,7 +35,6 @@
 			{
 				"item_id":1735291925001,
 				"name":"雪地小狐狸",
-				"tab_id":0,
 				"suit_item_id":236528701,
 				"properties":{
 					"fan_no_color":"#99C8E9",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1735291925002,
 				"name":"雪地小狐狸粉丝",
-				"tab_id":0,
 				"suit_item_id":236528701,
 				"properties":{
 					"fan_no_color":"#99C8E9",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1735291956001,
 				"name":"雪地小狐狸",
-				"tab_id":0,
 				"suit_item_id":236528701,
 				"properties":{
 					"fan_no_color":"#99C8E9",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1735111831001,
 				"name":"雪地小狐狸",
-				"tab_id":0,
 				"suit_item_id":236528701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5178e4baf6249fc02fc33e98221b1fe212b6132b.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"盯住你了\",\"image\":\"https://i0.hdslb.com/bfs/garb/18cb602092c7e21f888a11f6195488637b219726.png\"},{\"name\":\"我也想要\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ac479595e3dd6585714dd77cb15691f10c6ec1e.png\"},{\"name\":\"什么意思\",\"image\":\"https://i0.hdslb.com/bfs/garb/13dfd7dfc6119eee8fc9642db69c19aec3e1b4dc.png\"},{\"name\":\"可怜巴巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/10676f37252e9b21b75c2601e6906adc95819a3b.png\"},{\"name\":\"摸摸尾巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3a5a0818bfbf8c780c55f37f011d005b57d974c.png\"},{\"name\":\"呼呼大睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/8eca772925463e1894de0cff9c1fbc1d6d5214c6.png\"},{\"name\":\"一头栽进\",\"image\":\"https://i0.hdslb.com/bfs/garb/b58fb390bf473dfce8141211857d36a84ccf7d10.png\"},{\"name\":\"尝尝雪花\",\"image\":\"https://i0.hdslb.com/bfs/garb/04ac9590329333a5a9c60cfc40cc667cc8969290.png\"},{\"name\":\"谁叫我\",\"image\":\"https://i0.hdslb.com/bfs/garb/b49e6444cc2bfcdaade1bf49fce65798ae11e84a.png\"},{\"name\":\"接住雪花\",\"image\":\"https://i0.hdslb.com/bfs/garb/1661c39c6ef6a1e5772f0a88ffc269c0c8485010.png\"},{\"name\":\"冻手\",\"image\":\"https://i0.hdslb.com/bfs/garb/966a45ad25ec87e44d5970ca8a86b43873231884.png\"},{\"name\":\"画个狐狸\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f6e706b7ea98c8efec7c1ba429eb03c7260eb50.png\"},{\"name\":\"画个雪人\",\"image\":\"https://i0.hdslb.com/bfs/garb/d370cfd6c38236e81e64639ab7cd6d5b3e2ce048.png\"},{\"name\":\"冬日快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/d4adb404c989bd762ebe1f3e9c37ad2b806cf53d.png\"},{\"name\":\"画个自己\",\"image\":\"https://i0.hdslb.com/bfs/garb/c239de771ea1b14b9173198a352508235c26e58b.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_一头栽进]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b58fb390bf473dfce8141211857d36a84ccf7d10.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_什么意思]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/13dfd7dfc6119eee8fc9642db69c19aec3e1b4dc.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_冬日快乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d4adb404c989bd762ebe1f3e9c37ad2b806cf53d.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_冻手]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/966a45ad25ec87e44d5970ca8a86b43873231884.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_可怜巴巴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/10676f37252e9b21b75c2601e6906adc95819a3b.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_呼呼大睡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8eca772925463e1894de0cff9c1fbc1d6d5214c6.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_尝尝雪花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/04ac9590329333a5a9c60cfc40cc667cc8969290.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_我也想要]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5ac479595e3dd6585714dd77cb15691f10c6ec1e.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_接住雪花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1661c39c6ef6a1e5772f0a88ffc269c0c8485010.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_摸摸尾巴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f3a5a0818bfbf8c780c55f37f011d005b57d974c.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_画个狐狸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3f6e706b7ea98c8efec7c1ba429eb03c7260eb50.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_画个自己]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c239de771ea1b14b9173198a352508235c26e58b.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_画个雪人]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d370cfd6c38236e81e64639ab7cd6d5b3e2ce048.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_盯住你了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/18cb602092c7e21f888a11f6195488637b219726.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小狐狸_谁叫我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b49e6444cc2bfcdaade1bf49fce65798ae11e84a.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1735292672001,
 				"name":"雪地小狐狸",
-				"tab_id":0,
 				"suit_item_id":236528701,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1735292162001,
 				"name":"雪地小狐狸",
-				"tab_id":0,
 				"suit_item_id":236528701,
 				"properties":{
 					"fan_no_color":"#ffffff",

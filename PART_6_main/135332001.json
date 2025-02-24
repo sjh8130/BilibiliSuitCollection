@@ -36,7 +36,6 @@
 			{
 				"item_id":1702953234001,
 				"name":"MC迷彩",
-				"tab_id":0,
 				"suit_item_id":135332001,
 				"properties":{
 					"fan_no_color":"#94895A",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1702953234002,
 				"name":"MC迷彩粉丝",
-				"tab_id":0,
 				"suit_item_id":135332001,
 				"properties":{
 					"fan_no_color":"#94895A",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1702953251001,
 				"name":"MC迷彩",
-				"tab_id":0,
 				"suit_item_id":135332001,
 				"properties":{
 					"fan_no_color":"#94895A",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1702953302001,
 				"name":"MC迷彩",
-				"tab_id":0,
 				"suit_item_id":135332001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/54bab1f5d5a718912684402a5a2470b61d8aeb59.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"下来\",\"image\":\"https://i0.hdslb.com/bfs/garb/3df566e85e5ec8d5e68ec7e0f29b9ccfb63fdc5e.png\"},{\"name\":\"不明白\",\"image\":\"https://i0.hdslb.com/bfs/garb/12e9bfee818b637c41560c12aed9848ddd21e7f1.png\"},{\"name\":\"不要理会\",\"image\":\"https://i0.hdslb.com/bfs/garb/991f2479152354bd46e70cdf35914f3e1bd278e3.png\"},{\"name\":\"OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/baf33da0a1880609989bbd4132cd11121f03cab9.png\"},{\"name\":\"不行\",\"image\":\"https://i0.hdslb.com/bfs/garb/0966eff0bc76d0d2964ee0f0e1177e2c9c27537a.png\"},{\"name\":\"步枪\",\"image\":\"https://i0.hdslb.com/bfs/garb/767645426fbd2cf9c2edb0aaa3843f7ee85f2b77.png\"},{\"name\":\"你\",\"image\":\"https://i0.hdslb.com/bfs/garb/91b3af04dd30cd6fd355e8bde0299031ed37a472.png\"},{\"name\":\"掩护\",\"image\":\"https://i0.hdslb.com/bfs/garb/e50509e719c34a557948be21bea497ac8646d170.png\"},{\"name\":\"肃静\",\"image\":\"https://i0.hdslb.com/bfs/garb/86ad5ffed90b5b7c56e110659ea775190c6945e7.png\"},{\"name\":\"弹药\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f65f004877d8d772c532f57c5bba323e91fea0a.png\"},{\"name\":\"手枪\",\"image\":\"https://i0.hdslb.com/bfs/garb/862abb9325b212b4c94cf4451a78baa2f8cdecb1.png\"},{\"name\":\"听见\",\"image\":\"https://i0.hdslb.com/bfs/garb/388348c34a1bb901ff63ec79234a041f632bfc15.png\"},{\"name\":\"我\",\"image\":\"https://i0.hdslb.com/bfs/garb/25b134ef5f62d0e146bc79bdcb439b6c0bb8339a.png\"},{\"name\":\"霰弹枪\",\"image\":\"https://i0.hdslb.com/bfs/garb/68aa86fe1b04c417ba169bc8465371d689a6007a.png\"},{\"name\":\"看见\",\"image\":\"https://i0.hdslb.com/bfs/garb/8bd6576d1fca32a79e631ff2594319480c8c1545.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_OK]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/baf33da0a1880609989bbd4132cd11121f03cab9.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_下来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3df566e85e5ec8d5e68ec7e0f29b9ccfb63fdc5e.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_不明白]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/12e9bfee818b637c41560c12aed9848ddd21e7f1.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_不行]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0966eff0bc76d0d2964ee0f0e1177e2c9c27537a.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_不要理会]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/991f2479152354bd46e70cdf35914f3e1bd278e3.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/91b3af04dd30cd6fd355e8bde0299031ed37a472.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_听见]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/388348c34a1bb901ff63ec79234a041f632bfc15.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_弹药]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7f65f004877d8d772c532f57c5bba323e91fea0a.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/25b134ef5f62d0e146bc79bdcb439b6c0bb8339a.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_手枪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/862abb9325b212b4c94cf4451a78baa2f8cdecb1.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_掩护]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e50509e719c34a557948be21bea497ac8646d170.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_步枪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/767645426fbd2cf9c2edb0aaa3843f7ee85f2b77.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_看见]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8bd6576d1fca32a79e631ff2594319480c8c1545.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_肃静]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/86ad5ffed90b5b7c56e110659ea775190c6945e7.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[MC迷彩_霰弹枪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/68aa86fe1b04c417ba169bc8465371d689a6007a.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1702953493001,
 				"name":"MC迷彩",
-				"tab_id":0,
 				"suit_item_id":135332001,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1702953276001,
 				"name":"MC迷彩",
-				"tab_id":0,
 				"suit_item_id":135332001,
 				"properties":{
 					"fan_no_color":"#ffffff",

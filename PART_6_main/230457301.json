@@ -35,7 +35,6 @@
 			{
 				"item_id":1730277429001,
 				"name":"萌宠之可爱团子",
-				"tab_id":0,
 				"suit_item_id":230457301,
 				"properties":{
 					"fan_no_color":"#FFA600",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1730277429002,
 				"name":"萌宠之可爱团子粉丝",
-				"tab_id":0,
 				"suit_item_id":230457301,
 				"properties":{
 					"fan_no_color":"#FFA600",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1730277685001,
 				"name":"萌宠之可爱团子",
-				"tab_id":0,
 				"suit_item_id":230457301,
 				"properties":{
 					"fan_no_color":"#FF9500",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1730277472001,
 				"name":"萌宠之可爱团子",
-				"tab_id":0,
 				"suit_item_id":230457301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2aec1fd41ce610629f44a117edbc3ee4ddddee91.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"再见\",\"image\":\"https://i0.hdslb.com/bfs/garb/a590d6044adcee68507d7ba6172310f62f16b42f.png\"},{\"name\":\"不想理你\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f8f0eb239d44d1c1782c91894c120e2120bb989.png\"},{\"name\":\"懵\",\"image\":\"https://i0.hdslb.com/bfs/garb/558e0b564ce815626310f1217c6e2122b2fba493.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/a892431b3cb7f37ed9b21a780bab7ae2bea5204d.png\"},{\"name\":\"饿了\",\"image\":\"https://i0.hdslb.com/bfs/garb/08da698bb28d79c226f6fd40bdaea3886672ebbd.png\"},{\"name\":\"啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff85e512349935e92c937e6e15c4fa9eba73a84c.png\"},{\"name\":\"老实\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7574bf66c82526909029fe6e405bc56335ae875.png\"},{\"name\":\"可怜\",\"image\":\"https://i0.hdslb.com/bfs/garb/71ca28cb04611d5620e40420386801c1faa3677a.png\"},{\"name\":\"装睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3a157547d6a8f58c1229745a2182cf80714e801.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/28659317fd1bd70d9a3c2d968bc251d5ce37d1f3.png\"},{\"name\":\"冥想\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9fde30b5c7439f3a81948f65c9f527736c396bb.png\"},{\"name\":\"快来\",\"image\":\"https://i0.hdslb.com/bfs/garb/3fff73edb4b137b6a9c9fd6cdb93500f02766cfa.png\"},{\"name\":\"放屁\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdf7ae5498e49b8105a4a56ca47c6ccafe8ac2a5.png\"},{\"name\":\"扭\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7f489d7ddf2a6c4b97960232411ddd6b490045e.png\"},{\"name\":\"吃橘子吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/57d0a2f3b5d708e20a850399ba4bf0ef850e8243.png\"},{\"name\":\"我不听\",\"image\":\"https://i0.hdslb.com/bfs/garb/775339dc0c60dcda91aa42f96415758fba96f090.png\"},{\"name\":\"看戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/8001dc267a56c1e6a0a006d2dc7fc5ac26e980e0.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/a463b72f5aff7493086cf79d02f6e5250c3b56d5.png\"},{\"name\":\"吃薯片\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a6eb8bcc1c6131c5c5969a24421785af32a6370.png\"},{\"name\":\"爆米花\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6f14f5c0b81a44a32dc45cd209b30f1828a4e82.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_不想理你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8f8f0eb239d44d1c1782c91894c120e2120bb989.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_再见]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a590d6044adcee68507d7ba6172310f62f16b42f.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_冥想]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a9fde30b5c7439f3a81948f65c9f527736c396bb.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_可怜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/71ca28cb04611d5620e40420386801c1faa3677a.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_吃橘子吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/57d0a2f3b5d708e20a850399ba4bf0ef850e8243.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_吃薯片]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1a6eb8bcc1c6131c5c5969a24421785af32a6370.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a463b72f5aff7493086cf79d02f6e5250c3b56d5.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ff85e512349935e92c937e6e15c4fa9eba73a84c.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_快来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3fff73edb4b137b6a9c9fd6cdb93500f02766cfa.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_懵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/558e0b564ce815626310f1217c6e2122b2fba493.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_我不听]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/775339dc0c60dcda91aa42f96415758fba96f090.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_扭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a7f489d7ddf2a6c4b97960232411ddd6b490045e.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_放屁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bdf7ae5498e49b8105a4a56ca47c6ccafe8ac2a5.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/28659317fd1bd70d9a3c2d968bc251d5ce37d1f3.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_爆米花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b6f14f5c0b81a44a32dc45cd209b30f1828a4e82.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a892431b3cb7f37ed9b21a780bab7ae2bea5204d.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_看戏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8001dc267a56c1e6a0a006d2dc7fc5ac26e980e0.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_老实]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a7574bf66c82526909029fe6e405bc56335ae875.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_装睡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e3a157547d6a8f58c1229745a2182cf80714e801.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[萌宠之可爱团子_饿了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/08da698bb28d79c226f6fd40bdaea3886672ebbd.png",
 							"sale_type":"pay"
@@ -289,7 +264,6 @@
 			{
 				"item_id":1730277609001,
 				"name":"萌宠之可爱团子",
-				"tab_id":0,
 				"suit_item_id":230457301,
 				"properties":{
 					"color":"#ffffff",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1730277494001,
 				"name":"萌宠之可爱团子",
-				"tab_id":0,
 				"suit_item_id":230457301,
 				"properties":{
 					"fan_no_color":"#ffffff",

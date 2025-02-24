@@ -35,7 +35,6 @@
 			{
 				"item_id":1725595628001,
 				"name":"雨天小黑猫",
-				"tab_id":0,
 				"suit_item_id":225041801,
 				"properties":{
 					"fan_no_color":"#ACACAC",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1725595628002,
 				"name":"雨天小黑猫粉丝",
-				"tab_id":0,
 				"suit_item_id":225041801,
 				"properties":{
 					"fan_no_color":"#ACACAC",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1725596236001,
 				"name":"雨天小黑猫",
-				"tab_id":0,
 				"suit_item_id":225041801,
 				"properties":{
 					"fan_no_color":"#B8B8B8",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1725596153001,
 				"name":"雨天小黑猫",
-				"tab_id":0,
 				"suit_item_id":225041801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5464592ddecfc5ea184ac550845ca26243684abe.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"落汤猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/edc2d8dfdfcd20345c759c5237be50529b975bf7.png\"},{\"name\":\"落汤兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/50604e5d015ad90edadc46faa7e3e5ad98de6bd2.png\"},{\"name\":\"阳光猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/807ff75add7d4dba217243eba7cb09c834689093.png\"},{\"name\":\"阳光兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbc902fb29f44c2a999a9140198b837993e64763.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/07d69abfee793f99929c0e3f2a968a64dd2fb658.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/e08faa573fec66483fa0a0355fc59413b9089473.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/575db52098c182bd6ea72550675884b85f731f4d.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7956a40d0f86d386de962310641164d79f0f9d1.png\"},{\"name\":\"雷霆之怒\",\"image\":\"https://i0.hdslb.com/bfs/garb/83a3164461f8f81edce13f2cce3ec9d3044398f5.png\"},{\"name\":\"满足\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9f99747b3dc862ef4c369a3246b77624ebf4199.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e4e403f70170bc90faebc177f4adfa163b9a1b3.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/fef8f047ff0138620aa232537d9ad97b8f5b515f.png\"},{\"name\":\"可怜兮兮\",\"image\":\"https://i0.hdslb.com/bfs/garb/124a20713e9f54b970e69da7e328c8bac0196790.png\"},{\"name\":\"你好~结婚\",\"image\":\"https://i0.hdslb.com/bfs/garb/996f43b2efd9926d964b7811f261cbd124e34e49.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e577fd5789fe4b6c3c57f416a0694fe5adfc485.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_你好~结婚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/996f43b2efd9926d964b7811f261cbd124e34e49.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9e577fd5789fe4b6c3c57f416a0694fe5adfc485.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_可怜兮兮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/124a20713e9f54b970e69da7e328c8bac0196790.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fef8f047ff0138620aa232537d9ad97b8f5b515f.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_摸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/575db52098c182bd6ea72550675884b85f731f4d.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f7956a40d0f86d386de962310641164d79f0f9d1.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_满足]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a9f99747b3dc862ef4c369a3246b77624ebf4199.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e08faa573fec66483fa0a0355fc59413b9089473.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_落汤兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/50604e5d015ad90edadc46faa7e3e5ad98de6bd2.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_落汤猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/edc2d8dfdfcd20345c759c5237be50529b975bf7.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/07d69abfee793f99929c0e3f2a968a64dd2fb658.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_阳光兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbc902fb29f44c2a999a9140198b837993e64763.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_阳光猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/807ff75add7d4dba217243eba7cb09c834689093.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_雷霆之怒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/83a3164461f8f81edce13f2cce3ec9d3044398f5.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[雨天小黑猫_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9e4e403f70170bc90faebc177f4adfa163b9a1b3.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1725596708001,
 				"name":"雨天小黑猫",
-				"tab_id":0,
 				"suit_item_id":225041801,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1725596356001,
 				"name":"雨天小黑猫",
-				"tab_id":0,
 				"suit_item_id":225041801,
 				"properties":{
 					"fan_no_color":"#ffffff",

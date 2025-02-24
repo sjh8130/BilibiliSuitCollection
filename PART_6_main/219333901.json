@@ -36,7 +36,6 @@
 			{
 				"item_id":1720667611001,
 				"name":"喜羊羊与灰太狼的一天",
-				"tab_id":0,
 				"suit_item_id":219333901,
 				"properties":{
 					"fan_no_color":"#BB9374",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1720667611002,
 				"name":"喜羊羊与灰太狼的一天粉丝",
-				"tab_id":0,
 				"suit_item_id":219333901,
 				"properties":{
 					"fan_no_color":"#BB9374",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1720667630001,
 				"name":"喜羊羊与灰太狼的一天",
-				"tab_id":0,
 				"suit_item_id":219333901,
 				"properties":{
 					"fan_no_color":"#C59574",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1720667743001,
 				"name":"喜羊羊与灰太狼的一天",
-				"tab_id":0,
 				"suit_item_id":219333901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a435b7b448be383754edeef5f4eef9717757b106.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"来啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/2dedb99d10eecab5355437b1784ab5557a4b5891.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/97040479e8ed98d08535f0885cca67a26cec1060.png\"},{\"name\":\"躺\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbb48c4319328299cf7d6bdddfbfb692cc3ec42e.png\"},{\"name\":\"不开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2a8d1f0bf1df865148fef20196ad2eb4a732686.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3b2d3f774373b2009054243da09d8528c6dfa81.png\"},{\"name\":\"流口水\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ce3b6828f7988a936a88336e4d1962a75bb4347.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/672ba3167fff601ed8550dea0fa27164ee6fcd3d.png\"},{\"name\":\"野炊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1b2db3454b286421b71e2bdcf8ef89ee6c78286.png\"},{\"name\":\"坐着\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2f5bcc8e1654f14d12688c19ebbc25b433bfed9.png\"},{\"name\":\"馋了\",\"image\":\"https://i0.hdslb.com/bfs/garb/01f7af68f1b50213e7b42fefef9aa4282feac7bd.png\"},{\"name\":\"快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/c994c7bdb5b18c1eacd9d0ab8c1309aebaa203dd.png\"},{\"name\":\"惊吓\",\"image\":\"https://i0.hdslb.com/bfs/garb/9494f88cc3d3b88975455e483872e95e2f20c01c.png\"},{\"name\":\"在那里\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e88d9a4637a4240a3a3f4b8ffce0ca497783698.png\"},{\"name\":\"偷笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/f355b53edaa56438049065854e3717ce66bbbe71.png\"},{\"name\":\"哭泣\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a350f64aacb5aeab033ed05875c4309580c8fd8.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_不开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b2a8d1f0bf1df865148fef20196ad2eb4a732686.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_偷笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f355b53edaa56438049065854e3717ce66bbbe71.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_哇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/97040479e8ed98d08535f0885cca67a26cec1060.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_哭泣]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0a350f64aacb5aeab033ed05875c4309580c8fd8.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_在那里]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7e88d9a4637a4240a3a3f4b8ffce0ca497783698.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_坐着]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d2f5bcc8e1654f14d12688c19ebbc25b433bfed9.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c3b2d3f774373b2009054243da09d8528c6dfa81.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_快乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c994c7bdb5b18c1eacd9d0ab8c1309aebaa203dd.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_惊吓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9494f88cc3d3b88975455e483872e95e2f20c01c.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_来啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2dedb99d10eecab5355437b1784ab5557a4b5891.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_流口水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7ce3b6828f7988a936a88336e4d1962a75bb4347.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/672ba3167fff601ed8550dea0fa27164ee6fcd3d.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_躺]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbb48c4319328299cf7d6bdddfbfb692cc3ec42e.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_野炊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a1b2db3454b286421b71e2bdcf8ef89ee6c78286.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[喜羊羊与灰太狼的一天_馋了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/01f7af68f1b50213e7b42fefef9aa4282feac7bd.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1720667811001,
 				"name":"喜羊羊与灰太狼的一天",
-				"tab_id":0,
 				"suit_item_id":219333901,
 				"properties":{
 					"color":"#ffffff",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1720667655001,
 				"name":"喜羊羊与灰太狼的一天",
-				"tab_id":0,
 				"suit_item_id":219333901,
 				"properties":{
 					"fan_no_color":"#ffffff",

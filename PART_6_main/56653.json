@@ -18,7 +18,6 @@
 		"item_id_card":"56604",
 		"item_id_emoji":"56609",
 		"rank_investor_show":"false",
-		"realname_auth":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"100",
@@ -40,7 +39,6 @@
 				"suit_item_id":56653,
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/3434456c908501ef4583d150fe23c84d99da4451.png",
-					"realname_auth":"false",
 					"sale_type":"other"
 				}
 			},
@@ -52,7 +50,6 @@
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/57164c0730151585763022a5ba532ac72d6db136.png",
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/5afd1057e12daf967f17ec92c018149d37bf609f.png",
-					"realname_auth":"false",
 					"sale_type":"other"
 				}
 			}
@@ -66,7 +63,6 @@
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/277620c74aa334101ce221ec9d730404252d0a15.png",
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/802f625a058fbcde79921389900b9a6d4b1506be.png",
-					"realname_auth":"false",
 					"sale_type":"suit"
 				}
 			}
@@ -81,11 +77,9 @@
 					"addable":"true",
 					"biz":"dynamic,reply,watch_full",
 					"image":"https://i0.hdslb.com/bfs/emote/cb215643d394306ee47e8741fa1c1d0f08d1b2a5.png",
-					"is_symbol":"false",
 					"item_ids":"56608,56610,56611,56612,56613,56614,56615,56616,56617,56618,56619,56620,56621,56622,56623,56624,56625,56626,56627,56628",
 					"permanent":"false",
 					"preview":"false",
-					"realname_auth":"false",
 					"recently_used":"false",
 					"recommend":"false",
 					"removable":"true",
@@ -100,9 +94,7 @@
 						"name":"[王者荣耀·夏日妄想_暗中观察]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/7fd2060879cd5039081f0b1b9ecdac00a7589343.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -111,9 +103,7 @@
 						"name":"[王者荣耀·夏日妄想_标记]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/1333f0794c7c6869119d2763fe45d13d5dc15fc9.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -122,9 +112,7 @@
 						"name":"[王者荣耀·夏日妄想_大菠萝]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/fb44a4348305186a8b8c4f6aabc32c127929ecd3.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -133,9 +121,7 @@
 						"name":"[王者荣耀·夏日妄想_狂赞]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/ab9806cabf4b4f2113fac547038f53bf30ba5232.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -144,9 +130,7 @@
 						"name":"[王者荣耀·夏日妄想_来玩]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/3ec2aef4f4aac5bd6081559648311d9750a696e7.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -155,9 +139,7 @@
 						"name":"[王者荣耀·夏日妄想_摸鱼]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/12264e1eb2617b928b7218cf748cc9927c8b81ce.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -166,9 +148,7 @@
 						"name":"[王者荣耀·夏日妄想_闪亮登场]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/e605faabe39197ce4390e94808e383bd4aaf2a1d.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -177,9 +157,7 @@
 						"name":"[王者荣耀·夏日妄想_上号]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/dd756b6f8a933b21f9ce7b5fc98e1e303e45777d.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -188,9 +166,7 @@
 						"name":"[王者荣耀·夏日妄想_帅]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/a0fcc2d489d73e008204d8d28cccbd55812db1f2.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -199,9 +175,7 @@
 						"name":"[王者荣耀·夏日妄想_双枪]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/a2265edec214f940621179a6a1e4d5a7fa608ec2.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -210,9 +184,7 @@
 						"name":"[王者荣耀·夏日妄想_太菜了]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/a4ff1995b75b62028ac9fec758400a0d6be4a897.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -221,9 +193,7 @@
 						"name":"[王者荣耀·夏日妄想_完蛋了]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/bc294a367a82c719a62b9b33420e5949e8d454c1.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -232,9 +202,7 @@
 						"name":"[王者荣耀·夏日妄想_我带你飞]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/cc8ec277a21542cbb1b8de3f1f8e99d67f2e0337.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -243,9 +211,7 @@
 						"name":"[王者荣耀·夏日妄想_我上线啦]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/6b582b0f0b64d46367e778334752bbe254897055.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -254,9 +220,7 @@
 						"name":"[王者荣耀·夏日妄想_我玩]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/4f3d404a49eda75a1f62d4abe2fbfd1be9ed973c.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -265,9 +229,7 @@
 						"name":"[王者荣耀·夏日妄想_无害]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/307cfe4427045f3ded610824dabfeeb4112d5b73.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -276,9 +238,7 @@
 						"name":"[王者荣耀·夏日妄想_现在的我]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/856eda278a7f1260e9630802854a501fc3c68202.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -287,9 +247,7 @@
 						"name":"[王者荣耀·夏日妄想_一般]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/ac6b5c1a3c258dfe6a06a40323b2fb4943f35bfd.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -298,9 +256,7 @@
 						"name":"[王者荣耀·夏日妄想_疑问]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/44e0c6ba828626a9f1d58be68ebdf9765edf79a6.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -309,9 +265,7 @@
 						"name":"[王者荣耀·夏日妄想_有手就行]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/7eb9284c41cc9cdec3df59b88cc5416102efbbad.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					}
@@ -336,7 +290,6 @@
 					"image_preview":"https://i0.hdslb.com/bfs/garb/item/ffb01235203862852f73df59fde51e341707eac0.jpg",
 					"package_md5":"7aeef3dc8fcf8dc51dfd30edce627026",
 					"package_url":"https://i0.hdslb.com/bfs/garb/zip/ed54370ae25a4d2bca4205a3f95b3dfdb747b15e.zip",
-					"realname_auth":"false",
 					"skin_mode":"normal",
 					"tail_bg":"https://i0.hdslb.com/bfs/garb/item/d31fd972ad3f7b85996f686f932b4d7d2435578b.png",
 					"tail_color":"#1d2190",
@@ -376,8 +329,7 @@
 					"image3_landscape":"https://i0.hdslb.com/bfs/garb/item/fd1ce81a4c7151940be750138c114a8dc8e12e82.jpg",
 					"image3_portrait":"https://i0.hdslb.com/bfs/garb/item/e22f84b6178cee956cd513685116b4534e404a24.jpg",
 					"image4_landscape":"https://i0.hdslb.com/bfs/garb/item/ff733abdf510a4872c4c111c6b1963615db0134d.jpg",
-					"image4_portrait":"https://i0.hdslb.com/bfs/garb/item/9533d1f9543670928eafbea434a5d9a936e57523.jpg",
-					"realname_auth":"false"
+					"image4_portrait":"https://i0.hdslb.com/bfs/garb/item/9533d1f9543670928eafbea434a5d9a936e57523.jpg"
 				}
 			}
 		]

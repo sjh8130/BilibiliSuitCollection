@@ -36,7 +36,6 @@
 			{
 				"item_id":1716967440001,
 				"name":"nono狗·童梦时光",
-				"tab_id":0,
 				"suit_item_id":215047301,
 				"properties":{
 					"fan_no_color":"#F3AAB4",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1716967440002,
 				"name":"nono狗·童梦时光粉丝",
-				"tab_id":0,
 				"suit_item_id":215047301,
 				"properties":{
 					"fan_no_color":"#F3AAB4",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1716967471001,
 				"name":"nono狗·童梦时光",
-				"tab_id":0,
 				"suit_item_id":215047301,
 				"properties":{
 					"fan_no_color":"#EEBBD3",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1716967895001,
 				"name":"nono狗·童梦时光",
-				"tab_id":0,
 				"suit_item_id":215047301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/45e0ea899e6965b93d260b208fa9347cc078351d.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"请喝茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/751bc706a56c682011ef8a30defee5ad49bb924a.png\"},{\"name\":\"打招呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/694fc6c75af4ba4942c55104f67c9a658ca2d96d.png\"},{\"name\":\"吃糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/6613bef362fccec47f25adcfa4cc419e1d9d06bb.png\"},{\"name\":\"拍照\",\"image\":\"https://i0.hdslb.com/bfs/garb/c84aada243d9e075abb90fc851088c29c983facc.png\"},{\"name\":\"惊喜盒子\",\"image\":\"https://i0.hdslb.com/bfs/garb/c87d943ad49cdd5ff8188717351718949160c09c.png\"},{\"name\":\"吃冰淇淋\",\"image\":\"https://i0.hdslb.com/bfs/garb/cbf2386407bb73bc3bf5feeef9b494649caf15b3.png\"},{\"name\":\"卖萌\",\"image\":\"https://i0.hdslb.com/bfs/garb/24511e1f65da6f87ad32bece89a8f35ab786ce9b.png\"},{\"name\":\"荡秋千\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a5b5c39c74e8dfb59494d584ac61129bf5b2a67.png\"},{\"name\":\"木马\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca6f170ede5c770adff3a4eadda6092af799a3f7.png\"},{\"name\":\"起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/faeb5938b02c4f55440d1317b81d36e0dea44e48.png\"},{\"name\":\"小车车头\",\"image\":\"https://i0.hdslb.com/bfs/garb/1425e70da5ad4e15824821017d8605cfe08ccaec.png\"},{\"name\":\"小车车身\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f336077f1c6b52e426339ce4fc4dab966de99b5.png\"},{\"name\":\"小车车尾\",\"image\":\"https://i0.hdslb.com/bfs/garb/f50a2afc9753277ee5d280cab4d00a0daed1d1c4.png\"},{\"name\":\"摩天轮\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6eea8f806bf20cb185d991ec25c927af9b9a0f1.png\"},{\"name\":\"飞空艇\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c68afa86c4390b99388f3c6288141493df145ae.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_卖萌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/24511e1f65da6f87ad32bece89a8f35ab786ce9b.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_吃冰淇淋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cbf2386407bb73bc3bf5feeef9b494649caf15b3.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_吃糖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6613bef362fccec47f25adcfa4cc419e1d9d06bb.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_小车车头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1425e70da5ad4e15824821017d8605cfe08ccaec.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_小车车尾]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f50a2afc9753277ee5d280cab4d00a0daed1d1c4.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_小车车身]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9f336077f1c6b52e426339ce4fc4dab966de99b5.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_惊喜盒子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c87d943ad49cdd5ff8188717351718949160c09c.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_打招呼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/694fc6c75af4ba4942c55104f67c9a658ca2d96d.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_拍照]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c84aada243d9e075abb90fc851088c29c983facc.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_摩天轮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b6eea8f806bf20cb185d991ec25c927af9b9a0f1.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_木马]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ca6f170ede5c770adff3a4eadda6092af799a3f7.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_荡秋千]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1a5b5c39c74e8dfb59494d584ac61129bf5b2a67.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_请喝茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/751bc706a56c682011ef8a30defee5ad49bb924a.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_起飞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/faeb5938b02c4f55440d1317b81d36e0dea44e48.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[nono狗·童梦时光_飞空艇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0c68afa86c4390b99388f3c6288141493df145ae.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1716968398001,
 				"name":"nono狗·童梦时光",
-				"tab_id":0,
 				"suit_item_id":215047301,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1716967780001,
 				"name":"nono狗·童梦时光",
-				"tab_id":0,
 				"suit_item_id":215047301,
 				"properties":{
 					"fan_no_color":"#ffffff",

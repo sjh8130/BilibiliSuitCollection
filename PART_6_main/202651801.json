@@ -35,7 +35,6 @@
 			{
 				"item_id":1706256367001,
 				"name":"土豆教主 迎财神",
-				"tab_id":0,
 				"suit_item_id":202651801,
 				"properties":{
 					"fan_no_color":"#FB6A6A",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1706256367002,
 				"name":"土豆教主 迎财神粉丝",
-				"tab_id":0,
 				"suit_item_id":202651801,
 				"properties":{
 					"fan_no_color":"#FB6A6A",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1706256073001,
 				"name":"土豆教主 迎财神",
-				"tab_id":0,
 				"suit_item_id":202651801,
 				"properties":{
 					"fan_no_color":"#F27A7A",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1706256224001,
 				"name":"土豆教主·迎财神",
-				"tab_id":0,
 				"suit_item_id":202651801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ee217c2cf419a3d805739c65949897f4797e0afb.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"吃好吃的\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b549598448c1a0f8af7429d48cce7015c996a92.png\"},{\"name\":\"大红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5d3508aa281eb2269f8e88f880c3127390afaac.png\"},{\"name\":\"等饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3a95a454114cc8d6e49eb9b38e8e9eb0b57ae78.png\"},{\"name\":\"蹲蹲红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9c459796dc3d278a4b5aaa3429af615260ffc0b.png\"},{\"name\":\"饭量加1\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c6567d4c9f389de9de5fae76bd9fa819b52ae31.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/18b6033ebb5c581682c34da6b8bc27a63f510b16.png\"},{\"name\":\"嗝\",\"image\":\"https://i0.hdslb.com/bfs/garb/0cb415acfb85d0ca2e67b2a3b7ee2da055d77e31.png\"},{\"name\":\"恭喜发财\",\"image\":\"https://i0.hdslb.com/bfs/garb/19188b5032fdc663c31afe65f8f7f534315cdc69.png\"},{\"name\":\"开门\",\"image\":\"https://i0.hdslb.com/bfs/garb/56d5cd9bab69205e1befe8fc6bd0aff2fb3cb360.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/768d4371f4fbdc8ea98aa46397c2e87afcbbce08.png\"},{\"name\":\"庆祝\",\"image\":\"https://i0.hdslb.com/bfs/garb/406149bd289acf3f26f58dcdf284a2493d535154.png\"},{\"name\":\"收红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/ebec00c6ccda04baaf3469cafab786522423cac2.png\"},{\"name\":\"炫耀\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d220671ceaf863d79ed5dee9cbbcdaaff0008b7.png\"},{\"name\":\"一起暴富\",\"image\":\"https://i0.hdslb.com/bfs/garb/81a8ceabfa93faafeb798ced6d73b1c46647a84e.png\"},{\"name\":\"澡\",\"image\":\"https://i0.hdslb.com/bfs/garb/3db5e7517ba1875e7f9d975eb520f8bee57d6c2b.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_一起暴富]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/81a8ceabfa93faafeb798ced6d73b1c46647a84e.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_吃好吃的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3b549598448c1a0f8af7429d48cce7015c996a92.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_嗝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0cb415acfb85d0ca2e67b2a3b7ee2da055d77e31.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_大红包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f5d3508aa281eb2269f8e88f880c3127390afaac.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/18b6033ebb5c581682c34da6b8bc27a63f510b16.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_庆祝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/406149bd289acf3f26f58dcdf284a2493d535154.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/768d4371f4fbdc8ea98aa46397c2e87afcbbce08.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_开门]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/56d5cd9bab69205e1befe8fc6bd0aff2fb3cb360.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_恭喜发财]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/19188b5032fdc663c31afe65f8f7f534315cdc69.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_收红包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ebec00c6ccda04baaf3469cafab786522423cac2.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_澡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3db5e7517ba1875e7f9d975eb520f8bee57d6c2b.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_炫耀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9d220671ceaf863d79ed5dee9cbbcdaaff0008b7.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_等饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c3a95a454114cc8d6e49eb9b38e8e9eb0b57ae78.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_蹲蹲红包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f9c459796dc3d278a4b5aaa3429af615260ffc0b.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[土豆教主·迎财神_饭量加1]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7c6567d4c9f389de9de5fae76bd9fa819b52ae31.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1706256564001,
 				"name":"土豆教主·迎财神",
-				"tab_id":0,
 				"suit_item_id":202651801,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1706256142001,
 				"name":"土豆教主·迎财神",
-				"tab_id":0,
 				"suit_item_id":202651801,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1691656347001,
 				"name":"萨卡班黑猫鱼",
-				"tab_id":0,
 				"suit_item_id":122151301,
 				"properties":{
 					"fan_no_color":"#FFC471",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1691656347002,
 				"name":"萨卡班黑猫鱼粉丝",
-				"tab_id":0,
 				"suit_item_id":122151301,
 				"properties":{
 					"fan_no_color":"#FFC471",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1691656455001,
 				"name":"萨卡班黑猫鱼",
-				"tab_id":0,
 				"suit_item_id":122151301,
 				"properties":{
 					"fan_no_color":"#FFC37A",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1691572065001,
 				"name":"萨卡班黑猫鱼",
-				"tab_id":0,
 				"suit_item_id":122151301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4ee53e6b129656feae437a2cf59969825b94cb1e.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"猫鱼头\",\"image\":\"https://i0.hdslb.com/bfs/garb/93e993c688478f09e0a2d51d392fca8181a834a8.png\"},{\"name\":\"身体\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4ff3569e17d3c30e231dae3623ccfc1afb58057.png\"},{\"name\":\"尾巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/08f3a89b0bfa39d36a94fee0699b77a43fec6623.png\"},{\"name\":\"心口不一\",\"image\":\"https://i0.hdslb.com/bfs/garb/f107b09ed573a2015b1965aa0396baedc0d1eac8.png\"},{\"name\":\"目移\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b0d307b73fa4bfe431ee2820fee2e12a0899c6b.png\"},{\"name\":\"瞳孔地震\",\"image\":\"https://i0.hdslb.com/bfs/garb/04a2c5ccc59f8f88512a59e5fbabc2a57192a51c.png\"},{\"name\":\"让我康康\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f6f5ecb4918bcd432edff4138e0fbf2c9ce4930.png\"},{\"name\":\"反了你\",\"image\":\"https://i0.hdslb.com/bfs/garb/92d08a428badffc2b66c7978135775afe8091c56.png\"},{\"name\":\"打折\",\"image\":\"https://i0.hdslb.com/bfs/garb/fed79f989c44fc98b4a7290bf19c686ffc07f842.png\"},{\"name\":\"流泪猫鱼头\",\"image\":\"https://i0.hdslb.com/bfs/garb/545f7752c79c5fd4482ac4f6a19534d17c4551e2.png\"},{\"name\":\"阴险\",\"image\":\"https://i0.hdslb.com/bfs/garb/28c196a3fec48de8733e1d738273cbe719128c21.png\"},{\"name\":\"更好更强\",\"image\":\"https://i0.hdslb.com/bfs/garb/0abc6e8cb479fdc644383f092da44a451d134a16.png\"},{\"name\":\"飞咧\",\"image\":\"https://i0.hdslb.com/bfs/garb/b4b5fcc3137b5ae37a32d02c56e610e36e836a4c.png\"},{\"name\":\"食不食鱼饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6d6f96179ab299883cac8d49bac87e8022dcb7e.png\"},{\"name\":\"咋了\",\"image\":\"https://i0.hdslb.com/bfs/garb/d52ed9d139523ce3d88a64ac9cdcca897e4058b1.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_反了你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/92d08a428badffc2b66c7978135775afe8091c56.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_咋了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d52ed9d139523ce3d88a64ac9cdcca897e4058b1.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_尾巴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/08f3a89b0bfa39d36a94fee0699b77a43fec6623.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_心口不一]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f107b09ed573a2015b1965aa0396baedc0d1eac8.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_打折]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fed79f989c44fc98b4a7290bf19c686ffc07f842.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_更好更强]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0abc6e8cb479fdc644383f092da44a451d134a16.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_流泪猫鱼头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/545f7752c79c5fd4482ac4f6a19534d17c4551e2.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_猫鱼头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/93e993c688478f09e0a2d51d392fca8181a834a8.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_目移]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3b0d307b73fa4bfe431ee2820fee2e12a0899c6b.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_瞳孔地震]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/04a2c5ccc59f8f88512a59e5fbabc2a57192a51c.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_让我康康]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0f6f5ecb4918bcd432edff4138e0fbf2c9ce4930.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_身体]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e4ff3569e17d3c30e231dae3623ccfc1afb58057.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_阴险]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/28c196a3fec48de8733e1d738273cbe719128c21.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_飞咧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b4b5fcc3137b5ae37a32d02c56e610e36e836a4c.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[萨卡班黑猫鱼_食不食鱼饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b6d6f96179ab299883cac8d49bac87e8022dcb7e.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1691657656001,
 				"name":"萨卡班黑猫鱼",
-				"tab_id":0,
 				"suit_item_id":122151301,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1691647003001,
 				"name":"黑猫萨卡班",
-				"tab_id":0,
 				"suit_item_id":122151301,
 				"properties":{
 					"fan_no_color":"#ffffff",

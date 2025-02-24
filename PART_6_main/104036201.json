@@ -34,7 +34,6 @@
 			{
 				"item_id":1675911905001,
 				"name":"黑白猫贴贴",
-				"tab_id":0,
 				"suit_item_id":104036201,
 				"properties":{
 					"fan_no_color":"#E5B252",
@@ -48,7 +47,6 @@
 			{
 				"item_id":1675912237001,
 				"name":"黑白猫贴贴粉丝",
-				"tab_id":0,
 				"suit_item_id":104036201,
 				"properties":{
 					"fan_no_color":"#E5B252",
@@ -65,7 +63,6 @@
 			{
 				"item_id":1675912906001,
 				"name":"黑白猫评论背景",
-				"tab_id":0,
 				"suit_item_id":104036201,
 				"properties":{
 					"fan_no_color":"#E5B252",
@@ -80,14 +77,12 @@
 			{
 				"item_id":1675913802001,
 				"name":"黑白猫",
-				"tab_id":0,
 				"suit_item_id":104036201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b34009c201a0fe7e6a319b01703ae1a6e9f39dc5.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/09af6b06b172ed9831025c715752f1f635d77b01.png\"},{\"name\":\"饿饿\",\"image\":\"https://i0.hdslb.com/bfs/garb/d7628108b093a271cfa1ebe1b72fc7bbe1568566.png\"},{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/58be5aca0d90e55ef07402dfc5e9c45cb9aef034.png\"},{\"name\":\"你币有了\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f4a669909a339b379861c70975e7d812771559c.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/5c3bcf683e405e10b4410bf782007a7ce7d5c7f4.png\"},{\"name\":\"伤心\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b4901e82dfd97cfd4a4a6a005a66263bad84508.png\"},{\"name\":\"想开了\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad50067f02cb883e86e1c36bd4ef37826a3dda22.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d14636950881f50034cb2f755085558f31d7521.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/af60c81bdbe72afc6ca4c17c06afd28766302f60.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/90ba1abe6fd739d22d653220900092a5f795080a.png\"},{\"name\":\"摸摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf57b66faddcf0cbca37cb567bca7940738cf295.png\"},{\"name\":\"乐了\",\"image\":\"https://i0.hdslb.com/bfs/garb/cec5390caae7a6871114e1b51a83f1f78b7bcbf4.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef47a5c7a34acbf788a49d1552cfd993ae0fe8cd.png\"},{\"name\":\"乖巧\",\"image\":\"https://i0.hdslb.com/bfs/garb/34d8a6fcf54341a989873a01ce8a074c3cd44b0c.png\"},{\"name\":\"嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/0228e38ef0b49852329a8a16b2802e0ffb83277b.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -103,7 +98,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_乐了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cec5390caae7a6871114e1b51a83f1f78b7bcbf4.png",
 							"sale_type":"pay"
@@ -112,7 +106,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_乖巧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/34d8a6fcf54341a989873a01ce8a074c3cd44b0c.png",
 							"sale_type":"pay"
@@ -121,7 +114,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_伤心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4b4901e82dfd97cfd4a4a6a005a66263bad84508.png",
 							"sale_type":"pay"
@@ -130,7 +122,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_你币有了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2f4a669909a339b379861c70975e7d812771559c.png",
 							"sale_type":"pay"
@@ -139,7 +130,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5c3bcf683e405e10b4410bf782007a7ce7d5c7f4.png",
 							"sale_type":"pay"
@@ -148,7 +138,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_嗨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0228e38ef0b49852329a8a16b2802e0ffb83277b.png",
 							"sale_type":"pay"
@@ -157,7 +146,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_好耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/58be5aca0d90e55ef07402dfc5e9c45cb9aef034.png",
 							"sale_type":"pay"
@@ -166,7 +154,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af60c81bdbe72afc6ca4c17c06afd28766302f60.png",
 							"sale_type":"pay"
@@ -175,7 +162,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_想开了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ad50067f02cb883e86e1c36bd4ef37826a3dda22.png",
 							"sale_type":"pay"
@@ -184,7 +170,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_摸摸头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cf57b66faddcf0cbca37cb567bca7940738cf295.png",
 							"sale_type":"pay"
@@ -193,7 +178,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/90ba1abe6fd739d22d653220900092a5f795080a.png",
 							"sale_type":"pay"
@@ -202,7 +186,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_暗中观察]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/09af6b06b172ed9831025c715752f1f635d77b01.png",
 							"sale_type":"pay"
@@ -211,7 +194,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1d14636950881f50034cb2f755085558f31d7521.png",
 							"sale_type":"pay"
@@ -220,7 +202,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ef47a5c7a34acbf788a49d1552cfd993ae0fe8cd.png",
 							"sale_type":"pay"
@@ -229,7 +210,6 @@
 					{
 						"item_id":0,
 						"name":"[黑白猫_饿饿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d7628108b093a271cfa1ebe1b72fc7bbe1568566.png",
 							"sale_type":"pay"
@@ -242,7 +222,6 @@
 			{
 				"item_id":1675914585001,
 				"name":"黑白猫",
-				"tab_id":0,
 				"suit_item_id":104036201,
 				"properties":{
 					"color":"#000000",
@@ -282,7 +261,6 @@
 			{
 				"item_id":1675913309001,
 				"name":"黑白猫",
-				"tab_id":0,
 				"suit_item_id":104036201,
 				"properties":{
 					"fan_no_color":"#ffffff",

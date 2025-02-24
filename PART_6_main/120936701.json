@@ -35,7 +35,6 @@
 			{
 				"item_id":1690515805001,
 				"name":"少女图鉴·地雷系",
-				"tab_id":0,
 				"suit_item_id":120936701,
 				"properties":{
 					"fan_no_color":"#EF4AAB",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1690515805002,
 				"name":"少女图鉴·地雷系粉丝",
-				"tab_id":0,
 				"suit_item_id":120936701,
 				"properties":{
 					"fan_no_color":"#EF4AAB",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1690517614001,
 				"name":"少女图鉴·地雷系",
-				"tab_id":0,
 				"suit_item_id":120936701,
 				"properties":{
 					"fan_no_color":"#EF4AAB",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1690516056001,
 				"name":"少女图鉴·地雷系",
-				"tab_id":0,
 				"suit_item_id":120936701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7e4d72a38eb77f1d75f29096e8096e0ff5786379.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"kimo\",\"image\":\"https://i0.hdslb.com/bfs/garb/1790ac22c69f7da23c38f71070d49de54e2dbeeb.png\"},{\"name\":\"嘲笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/b64489005b015fb422d30aa4f8f2f6e72de82573.png\"},{\"name\":\"吐彩虹\",\"image\":\"https://i0.hdslb.com/bfs/garb/b96478de1226e379d50120522b73749c527130d9.png\"},{\"name\":\"尊嘟假嘟\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac901f014bfa24642ecd1fc3f00821fea2304d1f.png\"},{\"name\":\"救命\",\"image\":\"https://i0.hdslb.com/bfs/garb/1612ce5de6074a41d6a14c25719b474561bf3f6a.png\"},{\"name\":\"让我康康\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d96417bb32d2cc0ff54045e3d88569967614219.png\"},{\"name\":\"是谁\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2768600d40c3b3150bce5d389e8b8c29304bd45.png\"},{\"name\":\"是我喵\",\"image\":\"https://i0.hdslb.com/bfs/garb/3bacec47d89cd44ddb282fe9b5197e251b35aaea.png\"},{\"name\":\"阿姨洗铁路\",\"image\":\"https://i0.hdslb.com/bfs/garb/f6b896d679ec4925330206eeb5695e50ff2865c8.png\"},{\"name\":\"泪目\",\"image\":\"https://i0.hdslb.com/bfs/garb/191ee0e7d6318c845b8e3d54d1cdb2a87199e5c5.png\"},{\"name\":\"不要停下来\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c9a4c0991dae197436f663dcb8c4cad699dda28.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/80be939ff5739393dd41b7f6b4e36acbc32fa2c9.png\"},{\"name\":\"喵\",\"image\":\"https://i0.hdslb.com/bfs/garb/35545a821799c894a98406b48634d626c3e7c7e5.png\"},{\"name\":\"爱的拳拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1beb4b80839de2a6062d168da08ff48af69f908.png\"},{\"name\":\"kowa\",\"image\":\"https://i0.hdslb.com/bfs/garb/50bbffd7e46b45a1612a31efc870f98a3d3bf0a9.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_kimo]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1790ac22c69f7da23c38f71070d49de54e2dbeeb.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_kowa]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/50bbffd7e46b45a1612a31efc870f98a3d3bf0a9.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_不要停下来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c9a4c0991dae197436f663dcb8c4cad699dda28.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_吐彩虹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b96478de1226e379d50120522b73749c527130d9.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_啊？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/80be939ff5739393dd41b7f6b4e36acbc32fa2c9.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_喵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/35545a821799c894a98406b48634d626c3e7c7e5.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_嘲笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b64489005b015fb422d30aa4f8f2f6e72de82573.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_尊嘟假嘟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ac901f014bfa24642ecd1fc3f00821fea2304d1f.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_救命]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1612ce5de6074a41d6a14c25719b474561bf3f6a.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_是我喵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3bacec47d89cd44ddb282fe9b5197e251b35aaea.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_是谁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b2768600d40c3b3150bce5d389e8b8c29304bd45.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_泪目]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/191ee0e7d6318c845b8e3d54d1cdb2a87199e5c5.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_爱的拳拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d1beb4b80839de2a6062d168da08ff48af69f908.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_让我康康]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2d96417bb32d2cc0ff54045e3d88569967614219.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[少女图鉴·地雷系_阿姨洗铁路]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f6b896d679ec4925330206eeb5695e50ff2865c8.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1690517580001,
 				"name":"少女图鉴·地雷系",
-				"tab_id":0,
 				"suit_item_id":120936701,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1690516079001,
 				"name":"少女图鉴·地雷系",
-				"tab_id":0,
 				"suit_item_id":120936701,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -36,7 +36,6 @@
 			{
 				"item_id":1685584985001,
 				"name":"海咩咩2.0",
-				"tab_id":0,
 				"suit_item_id":114630301,
 				"properties":{
 					"fan_no_color":"#CCC191",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1685602902001,
 				"name":"海咩咩2.0粉丝",
-				"tab_id":0,
 				"suit_item_id":114630301,
 				"properties":{
 					"fan_no_color":"#CCC191",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1685585137001,
 				"name":"海咩咩2.0",
-				"tab_id":0,
 				"suit_item_id":114630301,
 				"properties":{
 					"fan_no_color":"#BBB18D",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1685585637001,
 				"name":"海咩咩2.0",
-				"tab_id":0,
 				"suit_item_id":114630301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/41825beaf7fbc4d5001c5e5303e7ddcfc13ae94c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/91402a20b045e22ecc271fbc26397d8fca6d386a.png\"},{\"name\":\"累了\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c96b5406f25a67d67ae2656366c8cee31ab7e8d.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c1ea2af999a34706acbac1b0d3b270a6b83df2b.png\"},{\"name\":\"魔法\",\"image\":\"https://i0.hdslb.com/bfs/garb/9c8da83a46d3b1e81b23f4e603091e145dd1bceb.png\"},{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/452c5f4a4f4f49974c6ee90a017fa1b56ba4cbdb.png\"},{\"name\":\"闪亮\",\"image\":\"https://i0.hdslb.com/bfs/garb/35cb7b5ee1f0a7646e47c41abcc090e65c85a142.png\"},{\"name\":\"OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f06013c4e43eeef8ebbc306dca34f63fcefedd7.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/af264a260f95825962fb4a46417d5063b891ac94.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0367250f7f585daed69455fa374ff97d1157ad7.png\"},{\"name\":\"睡了\",\"image\":\"https://i0.hdslb.com/bfs/garb/8358019053678d41eeaacf9f7c38977788e9eeed.png\"},{\"name\":\"吃的\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6a3dd2b7b8ed51f62dcbdf40b38bab00fe91188.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/5faa62619c80208d7e2a77f2185cf595a961f937.png\"},{\"name\":\"吃瘪\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ea6e964bb5844d70071808f12bccdc0ef6cf600.png\"},{\"name\":\"咬人\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce6118c8bb7e1f3f679a627d0001214f33e46d41.png\"},{\"name\":\"尖叫\",\"image\":\"https://i0.hdslb.com/bfs/garb/12446851c299b4bdc2369f36caf56caaef65d861.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_OK]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5f06013c4e43eeef8ebbc306dca34f63fcefedd7.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_什么]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/91402a20b045e22ecc271fbc26397d8fca6d386a.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_吃瘪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ea6e964bb5844d70071808f12bccdc0ef6cf600.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_吃的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b6a3dd2b7b8ed51f62dcbdf40b38bab00fe91188.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_咬人]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce6118c8bb7e1f3f679a627d0001214f33e46d41.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_大哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5faa62619c80208d7e2a77f2185cf595a961f937.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_好耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/452c5f4a4f4f49974c6ee90a017fa1b56ba4cbdb.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_尖叫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/12446851c299b4bdc2369f36caf56caaef65d861.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c1ea2af999a34706acbac1b0d3b270a6b83df2b.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_睡了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8358019053678d41eeaacf9f7c38977788e9eeed.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_累了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6c96b5406f25a67d67ae2656366c8cee31ab7e8d.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_闪亮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/35cb7b5ee1f0a7646e47c41abcc090e65c85a142.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_问号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d0367250f7f585daed69455fa374ff97d1157ad7.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af264a260f95825962fb4a46417d5063b891ac94.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[海咩咩2.0_魔法]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9c8da83a46d3b1e81b23f4e603091e145dd1bceb.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1685585822001,
 				"name":"海咩咩2.0",
-				"tab_id":0,
 				"suit_item_id":114630301,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1685585172001,
 				"name":"海咩咩2.0",
-				"tab_id":0,
 				"suit_item_id":114630301,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -36,7 +36,6 @@
 			{
 				"item_id":1705573829001,
 				"name":"阖家欢·动态卡片",
-				"tab_id":0,
 				"suit_item_id":201650801,
 				"properties":{
 					"fan_no_color":"#E7AD53",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1705940625001,
 				"name":"阖家欢·动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":201650801,
 				"properties":{
 					"fan_no_color":"#E7AD53",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1705940910001,
 				"name":"阖家欢·评论背景",
-				"tab_id":0,
 				"suit_item_id":201650801,
 				"properties":{
 					"fan_no_color":"#E7AD53",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1704694856001,
 				"name":"狐狸取闹",
-				"tab_id":0,
 				"suit_item_id":201650801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6b81de2958fb86929e3d054c7a4cdf1bc58be519.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/d44457b19088b97d699acc3eee1b7d63899b560c.png\"},{\"name\":\"潇洒\",\"image\":\"https://i0.hdslb.com/bfs/garb/9924723c4893345ef48736cb6f6b9849870ea280.png\"},{\"name\":\"大笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c7056dd253b2ade47fda3fd07fa9e70d4a538eb.png\"},{\"name\":\"保护\",\"image\":\"https://i0.hdslb.com/bfs/garb/cbad261bb089b91124b26245e137cd1bac24e13e.png\"},{\"name\":\"飞吻\",\"image\":\"https://i0.hdslb.com/bfs/garb/b89293156bcc6206a686312878a7ba05a71474f1.png\"},{\"name\":\"狐狸取闹\",\"image\":\"https://i0.hdslb.com/bfs/garb/00bbef6cfb865a25b44844eccd1444cf03f43371.png\"},{\"name\":\"摸摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/90c8a98f40aca579b40a72079ab3212a7ef9f845.png\"},{\"name\":\"凄惨\",\"image\":\"https://i0.hdslb.com/bfs/garb/05e515a7d90ade3ad88a9fe48aa7c1f7d72dd242.png\"},{\"name\":\"嗝\",\"image\":\"https://i0.hdslb.com/bfs/garb/92b4ada6729097a513852075311cd0fe6cb1c9be.png\"},{\"name\":\"饭饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ac6a93090b82ee476354339cddc9eae004e4d3f.png\"},{\"name\":\"掐指一算\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c74d765ba0cdbf35895b84517ab3b083217581e.png\"},{\"name\":\"好好好\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf052c5355dcf184176e88df66f490a2f7ddd190.png\"},{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/34bcbeddb42e3bfd850696a6d45dbbe0f2cfd9fa.png\"},{\"name\":\"战狐\",\"image\":\"https://i0.hdslb.com/bfs/garb/d59c0c0e223cfb9a5722a9268bf969d52e8085be.png\"},{\"name\":\"真的假的\",\"image\":\"https://i0.hdslb.com/bfs/garb/11b6ee8839f4c2346ef0ef984929265a07a20d44.png\"},{\"name\":\"哇哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/42c7e1aaec8bbddbc2819b8d99ecf5914acd41ae.png\"},{\"name\":\"早安\",\"image\":\"https://i0.hdslb.com/bfs/garb/e48171e1c1e39610798d4f7d51bbe12febba3ac2.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/74aa6300f70e6d178a0467af4b4e1ac6c7bbb3d8.png\"},{\"name\":\"睿智\",\"image\":\"https://i0.hdslb.com/bfs/garb/0adac0eb517ce7cef624a106bfc3116adf34366a.png\"},{\"name\":\"晕倒\",\"image\":\"https://i0.hdslb.com/bfs/garb/37baca00321859e666f4e3f415668592efe3c123.png\"},{\"name\":\"难绷\",\"image\":\"https://i0.hdslb.com/bfs/garb/9323c678bdaf496ce1a524dcd568ca0da63849f1.png\"},{\"name\":\"再刷会儿\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca6309a5b118ae04df8b29122974a5e6ed857234.png\"},{\"name\":\"点赞！\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1823eb0e4c650e219208f49f16c0d1102e32d59.png\"},{\"name\":\"多喝热水\",\"image\":\"https://i0.hdslb.com/bfs/garb/f607c3585a7f0aeeccf8320e1a3a7f6255a80a0c.png\"},{\"name\":\"叼玫瑰\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2a6315092132eb9f494f61f34488460a84cdda2.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_wink]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/34bcbeddb42e3bfd850696a6d45dbbe0f2cfd9fa.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_保护]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cbad261bb089b91124b26245e137cd1bac24e13e.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_再刷会儿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ca6309a5b118ae04df8b29122974a5e6ed857234.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_凄惨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/05e515a7d90ade3ad88a9fe48aa7c1f7d72dd242.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_叼玫瑰]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d2a6315092132eb9f494f61f34488460a84cdda2.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_哇哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/42c7e1aaec8bbddbc2819b8d99ecf5914acd41ae.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_嗝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/92b4ada6729097a513852075311cd0fe6cb1c9be.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_多喝热水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f607c3585a7f0aeeccf8320e1a3a7f6255a80a0c.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_大笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c7056dd253b2ade47fda3fd07fa9e70d4a538eb.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_好好好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cf052c5355dcf184176e88df66f490a2f7ddd190.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_战狐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d59c0c0e223cfb9a5722a9268bf969d52e8085be.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_掐指一算]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c74d765ba0cdbf35895b84517ab3b083217581e.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_摸摸头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/90c8a98f40aca579b40a72079ab3212a7ef9f845.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_早安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e48171e1c1e39610798d4f7d51bbe12febba3ac2.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_晕倒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/37baca00321859e666f4e3f415668592efe3c123.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/74aa6300f70e6d178a0467af4b4e1ac6c7bbb3d8.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_潇洒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9924723c4893345ef48736cb6f6b9849870ea280.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_点赞！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d1823eb0e4c650e219208f49f16c0d1102e32d59.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_狐狸取闹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/00bbef6cfb865a25b44844eccd1444cf03f43371.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_真的假的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/11b6ee8839f4c2346ef0ef984929265a07a20d44.png",
 							"sale_type":"pay"
@@ -285,7 +260,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_睿智]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0adac0eb517ce7cef624a106bfc3116adf34366a.png",
 							"sale_type":"pay"
@@ -294,7 +268,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_送花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d44457b19088b97d699acc3eee1b7d63899b560c.png",
 							"sale_type":"pay"
@@ -303,7 +276,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_难绷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9323c678bdaf496ce1a524dcd568ca0da63849f1.png",
 							"sale_type":"pay"
@@ -312,7 +284,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_飞吻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b89293156bcc6206a686312878a7ba05a71474f1.png",
 							"sale_type":"pay"
@@ -321,7 +292,6 @@
 					{
 						"item_id":0,
 						"name":"[狐狸取闹_饭饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ac6a93090b82ee476354339cddc9eae004e4d3f.png",
 							"sale_type":"pay"
@@ -334,7 +304,6 @@
 			{
 				"item_id":1705078987001,
 				"name":"开扇",
-				"tab_id":0,
 				"suit_item_id":201650801,
 				"properties":{
 					"goods_type":"suit",
@@ -349,7 +318,6 @@
 			{
 				"item_id":1705574329001,
 				"name":"阖家欢·进度条",
-				"tab_id":0,
 				"suit_item_id":201650801,
 				"properties":{
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/90f6171ef27d351ecc5abacd6df7f2a63299b432.png",
@@ -366,7 +334,6 @@
 			{
 				"item_id":1706000665001,
 				"name":"果汁erR·阖家欢",
-				"tab_id":0,
 				"suit_item_id":201650801,
 				"properties":{
 					"color":"#000000",
@@ -407,7 +374,6 @@
 			{
 				"item_id":1704712670001,
 				"name":"果汁erR·阖家欢",
-				"tab_id":0,
 				"suit_item_id":201650801,
 				"properties":{
 					"fan_no_color":"#ffffff",
@@ -429,7 +395,6 @@
 			{
 				"item_id":1706091946001,
 				"name":"阖家欢·赞",
-				"tab_id":0,
 				"suit_item_id":201650801,
 				"properties":{
 					"goods_type":"suit",

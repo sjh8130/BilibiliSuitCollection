@@ -36,7 +36,6 @@
 			{
 				"item_id":1682217925001,
 				"name":"三丽鸥家族",
-				"tab_id":0,
 				"suit_item_id":111333701,
 				"properties":{
 					"fan_no_color":"#AFA4D6",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1682217925002,
 				"name":"三丽鸥家族粉丝",
-				"tab_id":0,
 				"suit_item_id":111333701,
 				"properties":{
 					"fan_no_color":"#AFA4D6",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1682218202001,
 				"name":"三丽鸥家族",
-				"tab_id":0,
 				"suit_item_id":111333701,
 				"properties":{
 					"fan_no_color":"#AFA4D6",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1682218051001,
 				"name":"三丽鸥家族",
-				"tab_id":0,
 				"suit_item_id":111333701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f8999d8481ddde70cbfeddcf194fb9a6cd23488a.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"偷笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/06d79b5dfd48addb1fd7ae664fd32db83ddcc10d.png\"},{\"name\":\"抱住\",\"image\":\"https://i0.hdslb.com/bfs/garb/93a32a7021cc3c8ffc5fe8ba7e59291ac26ed7ee.png\"},{\"name\":\"哇哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1683df8b9d3c51813263cfa7a6aaab1448b778c.png\"},{\"name\":\"互粉\",\"image\":\"https://i0.hdslb.com/bfs/garb/08ae10c303f46326996feae52314e8044986d909.png\"},{\"name\":\"那我呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/25efa29f7e7ccfae8e5225a0b9fad9a73484fc7a.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/47f42b34f88b37c3493c40765f27f84527ee40c1.png\"},{\"name\":\"煎蛋\",\"image\":\"https://i0.hdslb.com/bfs/garb/951d9272f04cbe57cbc87e74ea6a0193a79a4a5b.png\"},{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd7bc277c1fc37337747d589c18a9ffbb53cfa09.png\"},{\"name\":\"拿捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/012e1ae0c04f90a2efb3857fb760deeb731f8441.png\"},{\"name\":\"揉揉\",\"image\":\"https://i0.hdslb.com/bfs/garb/8570e9e6603c5c3d64312c8f831f889004ea235e.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/91240f40602322085eaf99a38effa752ffdacd2f.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/793e61ec609e3cacfe7183f5bcbc8147549d613d.png\"},{\"name\":\"啵啵\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f7b136cf563464767da89369075a0e3085ce6e8.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/2e5f7327a3110fefa45e52598fba001478efadac.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/627e7b1c7491e6d386eec3a3b7c9ac2975c31529.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_wink]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cd7bc277c1fc37337747d589c18a9ffbb53cfa09.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_互粉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/08ae10c303f46326996feae52314e8044986d909.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_偷笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/06d79b5dfd48addb1fd7ae664fd32db83ddcc10d.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_哇哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c1683df8b9d3c51813263cfa7a6aaab1448b778c.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_啵啵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5f7b136cf563464767da89369075a0e3085ce6e8.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2e5f7327a3110fefa45e52598fba001478efadac.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_抱住]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/93a32a7021cc3c8ffc5fe8ba7e59291ac26ed7ee.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_拿捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/012e1ae0c04f90a2efb3857fb760deeb731f8441.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_揉揉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8570e9e6603c5c3d64312c8f831f889004ea235e.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/627e7b1c7491e6d386eec3a3b7c9ac2975c31529.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_煎蛋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/951d9272f04cbe57cbc87e74ea6a0193a79a4a5b.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/91240f40602322085eaf99a38effa752ffdacd2f.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/793e61ec609e3cacfe7183f5bcbc8147549d613d.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_送花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/47f42b34f88b37c3493c40765f27f84527ee40c1.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[三丽鸥家族_那我呢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/25efa29f7e7ccfae8e5225a0b9fad9a73484fc7a.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1682218158001,
 				"name":"三丽鸥家族",
-				"tab_id":0,
 				"suit_item_id":111333701,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1682218075001,
 				"name":"三丽鸥家族",
-				"tab_id":0,
 				"suit_item_id":111333701,
 				"properties":{
 					"fan_no_color":"#ffffff",

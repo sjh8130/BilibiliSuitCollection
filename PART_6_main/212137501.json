@@ -35,7 +35,6 @@
 			{
 				"item_id":1714442128001,
 				"name":"春日缤纷少女",
-				"tab_id":0,
 				"suit_item_id":212137501,
 				"properties":{
 					"fan_no_color":"#E7D12D",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1714442625001,
 				"name":"春日缤纷少女粉丝",
-				"tab_id":0,
 				"suit_item_id":212137501,
 				"properties":{
 					"fan_no_color":"#E7D12D",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1714442169001,
 				"name":"春日缤纷少女",
-				"tab_id":0,
 				"suit_item_id":212137501,
 				"properties":{
 					"fan_no_color":"#E7D12D",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1714442260001,
 				"name":"春日缤纷少女",
-				"tab_id":0,
 				"suit_item_id":212137501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/872fab03f618a2bafd05122d9b5b2ef26882cd2e.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"伤心\",\"image\":\"https://i0.hdslb.com/bfs/garb/122931e2b4ce694926923c47f204c2d35fe77e88.png\"},{\"name\":\"无聊\",\"image\":\"https://i0.hdslb.com/bfs/garb/02687466ddad16ac0039374e46ce1611e89a79b8.png\"},{\"name\":\"遗憾\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ef7b2a0c0162d0330a90ed73ddaac868f46ea5c.png\"},{\"name\":\"流口水\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ed1047b944aaf4f97894f00da53cd6122646152.png\"},{\"name\":\"呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/113a3b41db8e2eba03770d4f3ca01d3d03297a08.png\"},{\"name\":\"做鬼脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/49bee0cf7e82013309a3598e062514fd769014d8.png\"},{\"name\":\"请求\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea7ab63beba65811d7c79bd8cf348979c9e477fc.png\"},{\"name\":\"质疑\",\"image\":\"https://i0.hdslb.com/bfs/garb/07b07d2c062b169a9a420dc26599749db5f36ad8.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf3f2aa8b54c72c6d3bf9d9e508fbdb9899cf49b.png\"},{\"name\":\"诶嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/098a6b0f4f8e1ac24df49c90f45c1903d83e13ce.png\"},{\"name\":\"震撼\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e4c86f362209c8195f3b47a572d37a23c53b9c0.png\"},{\"name\":\"在吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4c984b4eb440c73a3bbcdc347ff0d47a17e45b2.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/0011ced6c81f578d22792ddfee49c6ca5140830e.png\"},{\"name\":\"晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/adecea1900902e59675ebb8c717a6f34f9a50569.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/af1379a33d52dc78436e56f0b0b5d9a5a454f797.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_伤心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/122931e2b4ce694926923c47f204c2d35fe77e88.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_做鬼脸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/49bee0cf7e82013309a3598e062514fd769014d8.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_呆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/113a3b41db8e2eba03770d4f3ca01d3d03297a08.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_在吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e4c984b4eb440c73a3bbcdc347ff0d47a17e45b2.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0011ced6c81f578d22792ddfee49c6ca5140830e.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_思考]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bf3f2aa8b54c72c6d3bf9d9e508fbdb9899cf49b.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_无聊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/02687466ddad16ac0039374e46ce1611e89a79b8.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af1379a33d52dc78436e56f0b0b5d9a5a454f797.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_晕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/adecea1900902e59675ebb8c717a6f34f9a50569.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_流口水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5ed1047b944aaf4f97894f00da53cd6122646152.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_诶嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/098a6b0f4f8e1ac24df49c90f45c1903d83e13ce.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_请求]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea7ab63beba65811d7c79bd8cf348979c9e477fc.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_质疑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/07b07d2c062b169a9a420dc26599749db5f36ad8.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_遗憾]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5ef7b2a0c0162d0330a90ed73ddaac868f46ea5c.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[春日缤纷少女_震撼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0e4c86f362209c8195f3b47a572d37a23c53b9c0.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1714442615001,
 				"name":"春日缤纷少女",
-				"tab_id":0,
 				"suit_item_id":212137501,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1714442197001,
 				"name":"春日缤纷少女",
-				"tab_id":0,
 				"suit_item_id":212137501,
 				"properties":{
 					"fan_no_color":"#ffffff",

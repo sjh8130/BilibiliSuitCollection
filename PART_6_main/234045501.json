@@ -35,7 +35,6 @@
 			{
 				"item_id":1733299204001,
 				"name":"圣诞恋歌",
-				"tab_id":0,
 				"suit_item_id":234045501,
 				"properties":{
 					"fan_no_color":"#FFAE00",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1733299204002,
 				"name":"圣诞恋歌粉丝",
-				"tab_id":0,
 				"suit_item_id":234045501,
 				"properties":{
 					"fan_no_color":"#FFAE00",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1733299292001,
 				"name":"圣诞恋歌",
-				"tab_id":0,
 				"suit_item_id":234045501,
 				"properties":{
 					"fan_no_color":"#FFAE00",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1733299352001,
 				"name":"圣诞恋歌",
-				"tab_id":0,
 				"suit_item_id":234045501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0b919e9c26947ad3460abc07f6c604242de92109.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ad7d4e07880571c21406768668fa01120eadd73.png\"},{\"name\":\"摇手指\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c7fb761ecb27cf9573b99f229ab1f3ba1772206.png\"},{\"name\":\"出汗了\",\"image\":\"https://i0.hdslb.com/bfs/garb/8908c888881c8df7a2a9d8d148e7b7eb31544f5f.png\"},{\"name\":\"打量\",\"image\":\"https://i0.hdslb.com/bfs/garb/1cfc891fae1eba503e500815b8faa2d2fca6f31e.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/870e59f612daec9c4533412910f75ad5f14d68cc.png\"},{\"name\":\"遗憾\",\"image\":\"https://i0.hdslb.com/bfs/garb/42f7fa07ef498f43692ef6458a3a6d7bb004ac15.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/05a6d5fdb784a4dfd09644ef96811d8a206ddd10.png\"},{\"name\":\"吃惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/abc8f5d05a7393de737a1f887e8f1503eafe3818.png\"},{\"name\":\"酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/5217d8f3cd5397106ed48ed3c6a965e10b1a019f.png\"},{\"name\":\"反思\",\"image\":\"https://i0.hdslb.com/bfs/garb/d03fa9097bb4df4bfd913a2a342a68db8ad2f806.png\"},{\"name\":\"吐舌\",\"image\":\"https://i0.hdslb.com/bfs/garb/665cc3973f6e730a46e08ab439d1cc7884bf056e.png\"},{\"name\":\"馋\",\"image\":\"https://i0.hdslb.com/bfs/garb/468c9249c8d5b9a258e759c25d1b1964a465115b.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/a69fb16164e3f9c4d71665ab2088e13db0bca174.png\"},{\"name\":\"喝茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d3e922af5f8b11f6bd586534aeb130617daabb5.png\"},{\"name\":\"晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/96a4a76e8f2ce26ab5dbf6854e67aafcdb9e218d.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_出汗了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8908c888881c8df7a2a9d8d148e7b7eb31544f5f.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_反思]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d03fa9097bb4df4bfd913a2a342a68db8ad2f806.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_吃惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/abc8f5d05a7393de737a1f887e8f1503eafe3818.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_吐舌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/665cc3973f6e730a46e08ab439d1cc7884bf056e.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_喝茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5d3e922af5f8b11f6bd586534aeb130617daabb5.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_打量]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1cfc891fae1eba503e500815b8faa2d2fca6f31e.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_摇手指]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6c7fb761ecb27cf9573b99f229ab1f3ba1772206.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_晕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/96a4a76e8f2ce26ab5dbf6854e67aafcdb9e218d.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/870e59f612daec9c4533412910f75ad5f14d68cc.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a69fb16164e3f9c4d71665ab2088e13db0bca174.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8ad7d4e07880571c21406768668fa01120eadd73.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/05a6d5fdb784a4dfd09644ef96811d8a206ddd10.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_遗憾]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/42f7fa07ef498f43692ef6458a3a6d7bb004ac15.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_酷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5217d8f3cd5397106ed48ed3c6a965e10b1a019f.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞恋歌_馋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/468c9249c8d5b9a258e759c25d1b1964a465115b.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1733300439001,
 				"name":"圣诞恋歌",
-				"tab_id":0,
 				"suit_item_id":234045501,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1733299322001,
 				"name":"圣诞恋歌",
-				"tab_id":0,
 				"suit_item_id":234045501,
 				"properties":{
 					"fan_no_color":"#ffffff",

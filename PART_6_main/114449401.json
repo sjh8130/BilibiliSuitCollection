@@ -36,7 +36,6 @@
 			{
 				"item_id":1684916574001,
 				"name":"温室vol.儿童节",
-				"tab_id":0,
 				"suit_item_id":114449401,
 				"properties":{
 					"fan_no_color":"#E94054",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1684916574002,
 				"name":"温室vol.儿童节粉丝",
-				"tab_id":0,
 				"suit_item_id":114449401,
 				"properties":{
 					"fan_no_color":"#E94054",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1684916594001,
 				"name":"温室vol.儿童节",
-				"tab_id":0,
 				"suit_item_id":114449401,
 				"properties":{
 					"fan_no_color":"#E94054",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1684916706001,
 				"name":"温室vol.儿童节",
-				"tab_id":0,
 				"suit_item_id":114449401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/34d8471463f8f9c42499baaff7032d31219989d3.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/4eee0e739a1bac7f2285ef64336fb3c0fcf3ba76.png\"},{\"name\":\"气球\",\"image\":\"https://i0.hdslb.com/bfs/garb/5313d802049b2cb9e597ccd1514c61293efc9d52.png\"},{\"name\":\"笑不出来\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b755099ba6e5932066ccc7431a4eebdfa8ad13f.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/76380f99ca9d938cfcdb5d73e15fa483f39857a2.png\"},{\"name\":\"猫猫头\",\"image\":\"https://i0.hdslb.com/bfs/garb/26f3c5331a40d3e8080c9fbb21eb0c8409457398.png\"},{\"name\":\"没睡醒\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c34f44e239dd509eb50c7c2039171797657d7e4.png\"},{\"name\":\"气炸了\",\"image\":\"https://i0.hdslb.com/bfs/garb/6f0d0b9009749b7d9d9ae46b8214fbff773a63ac.png\"},{\"name\":\"糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/30bbc7e7890a1f867619384bc1d898f63783a976.png\"},{\"name\":\"报警了\",\"image\":\"https://i0.hdslb.com/bfs/garb/95c4c4eb143a07b2f65d04118e6cb1c04493cb74.png\"},{\"name\":\"猫猫肚子\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b8ce162da75f973c898116a512a98f340123840.png\"},{\"name\":\"节\",\"image\":\"https://i0.hdslb.com/bfs/garb/c475ffbe01c27e56603a5ad23c59c6139b615112.png\"},{\"name\":\"日\",\"image\":\"https://i0.hdslb.com/bfs/garb/4cf83d52ef5f10f84c8fc8e089f927f9971f9cb2.png\"},{\"name\":\"快\",\"image\":\"https://i0.hdslb.com/bfs/garb/08517e5e5e603138af53e011cecf38efcb9d6405.png\"},{\"name\":\"乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/223d589b6b64b98204198a4559892b11c9c20292.png\"},{\"name\":\"猫猫尾巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1c6fa17c4b89fac0b2ecd1e40b7139891ebf3b3.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/223d589b6b64b98204198a4559892b11c9c20292.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_快]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/08517e5e5e603138af53e011cecf38efcb9d6405.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_报警了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/95c4c4eb143a07b2f65d04118e6cb1c04493cb74.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4eee0e739a1bac7f2285ef64336fb3c0fcf3ba76.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_日]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4cf83d52ef5f10f84c8fc8e089f927f9971f9cb2.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/76380f99ca9d938cfcdb5d73e15fa483f39857a2.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_气炸了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6f0d0b9009749b7d9d9ae46b8214fbff773a63ac.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_气球]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5313d802049b2cb9e597ccd1514c61293efc9d52.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_没睡醒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c34f44e239dd509eb50c7c2039171797657d7e4.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_猫猫头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/26f3c5331a40d3e8080c9fbb21eb0c8409457398.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_猫猫尾巴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f1c6fa17c4b89fac0b2ecd1e40b7139891ebf3b3.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_猫猫肚子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b8ce162da75f973c898116a512a98f340123840.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_笑不出来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7b755099ba6e5932066ccc7431a4eebdfa8ad13f.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_糖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/30bbc7e7890a1f867619384bc1d898f63783a976.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[温室vol.儿童节_节]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c475ffbe01c27e56603a5ad23c59c6139b615112.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1684916772001,
 				"name":"温室vol.儿童节",
-				"tab_id":0,
 				"suit_item_id":114449401,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1684916614001,
 				"name":"温室vol.儿童节",
-				"tab_id":0,
 				"suit_item_id":114449401,
 				"properties":{
 					"fan_no_color":"#ffffff",

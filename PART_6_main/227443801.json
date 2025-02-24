@@ -36,7 +36,6 @@
 			{
 				"item_id":1727661389001,
 				"name":"料理鼠大王",
-				"tab_id":0,
 				"suit_item_id":227443801,
 				"properties":{
 					"fan_no_color":"#528448",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1727661389002,
 				"name":"料理鼠大王粉丝",
-				"tab_id":0,
 				"suit_item_id":227443801,
 				"properties":{
 					"fan_no_color":"#528448",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1727661427001,
 				"name":"料理鼠大王",
-				"tab_id":0,
 				"suit_item_id":227443801,
 				"properties":{
 					"fan_no_color":"#9F9F9F",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1727661115001,
 				"name":"料理鼠大王",
-				"tab_id":0,
 				"suit_item_id":227443801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a673eec9c006ab76f27754e9327015453536f030.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"料理鼠王\",\"image\":\"https://i0.hdslb.com/bfs/garb/adbb5cd056c1096232905c408ac24e139806cb17.png\"},{\"name\":\"去炒俩菜\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce1975026882bbbb02dd26e4c5fb411fe0d3ae23.png\"},{\"name\":\"蒙面鼠\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c34c5966f135b3a25d98c4fc84f804af4cab13a.png\"},{\"name\":\"流汗鼠\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf78c591e464bc58af831c00d2aa31cc6d4ba7ad.png\"},{\"name\":\"浓妆鼠\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7e25d52339e2740a3520e1e29e550fbe31a6284.png\"},{\"name\":\"痴呆鼠\",\"image\":\"https://i0.hdslb.com/bfs/garb/f358e2eb7d5558fd41cad15e1acbb4e16ce41f49.png\"},{\"name\":\"捞鼠\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7f908e32e48bd167499a70b1c3e734b3207073d.png\"},{\"name\":\"肥鼠\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd100c3323659cbcc34fea71831485176448406d.png\"},{\"name\":\"哭哭鼠\",\"image\":\"https://i0.hdslb.com/bfs/garb/44186b7f6e0a1921f807cecbf73e8da32a6a7594.png\"},{\"name\":\"老鼠药\",\"image\":\"https://i0.hdslb.com/bfs/garb/b4724b9a98ca2a9b9db7aae140eae16dffd7b4cd.png\"},{\"name\":\"求婚鼠\",\"image\":\"https://i0.hdslb.com/bfs/garb/8c84c3e702aa3d1082108cb0476485231368e8a4.png\"},{\"name\":\"开门是鼠鼠\",\"image\":\"https://i0.hdslb.com/bfs/garb/248d624a48fdb2dbbc5bd56e52972d352f44d06f.png\"},{\"name\":\"粘鼠板\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0aadb315e6356e2db217311ee5d60397b64d844.png\"},{\"name\":\"真相鼠\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c7a6753a59d401dab08776782f0edc8ebec65fb.png\"},{\"name\":\"喜欢鼠\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ba1c1e54ba8582d33a2c4a0ef4980c43054f5e8.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_去炒俩菜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce1975026882bbbb02dd26e4c5fb411fe0d3ae23.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_哭哭鼠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/44186b7f6e0a1921f807cecbf73e8da32a6a7594.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_喜欢鼠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ba1c1e54ba8582d33a2c4a0ef4980c43054f5e8.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_开门是鼠鼠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/248d624a48fdb2dbbc5bd56e52972d352f44d06f.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_捞鼠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a7f908e32e48bd167499a70b1c3e734b3207073d.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_料理鼠王]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/adbb5cd056c1096232905c408ac24e139806cb17.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_求婚鼠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8c84c3e702aa3d1082108cb0476485231368e8a4.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_流汗鼠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bf78c591e464bc58af831c00d2aa31cc6d4ba7ad.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_浓妆鼠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e7e25d52339e2740a3520e1e29e550fbe31a6284.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_痴呆鼠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f358e2eb7d5558fd41cad15e1acbb4e16ce41f49.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_真相鼠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1c7a6753a59d401dab08776782f0edc8ebec65fb.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_粘鼠板]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c0aadb315e6356e2db217311ee5d60397b64d844.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_老鼠药]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b4724b9a98ca2a9b9db7aae140eae16dffd7b4cd.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_肥鼠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bd100c3323659cbcc34fea71831485176448406d.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[料理鼠大王_蒙面鼠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c34c5966f135b3a25d98c4fc84f804af4cab13a.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1727677830001,
 				"name":"料理鼠大王",
-				"tab_id":0,
 				"suit_item_id":227443801,
 				"properties":{
 					"color":"#ffffff",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1727675070001,
 				"name":"料理鼠大王",
-				"tab_id":0,
 				"suit_item_id":227443801,
 				"properties":{
 					"fan_no_color":"#ffffff",

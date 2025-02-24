@@ -35,7 +35,6 @@
 			{
 				"item_id":1678276030001,
 				"name":"画里青梅",
-				"tab_id":0,
 				"suit_item_id":106832501,
 				"properties":{
 					"fan_no_color":"#F5624C",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1678276030002,
 				"name":"画里青梅粉丝",
-				"tab_id":0,
 				"suit_item_id":106832501,
 				"properties":{
 					"fan_no_color":"#F5624C",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1678276089001,
 				"name":"画里青梅",
-				"tab_id":0,
 				"suit_item_id":106832501,
 				"properties":{
 					"fan_no_color":"#F5624C",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1678276355001,
 				"name":"画里青梅",
-				"tab_id":0,
 				"suit_item_id":106832501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2c70a73e8a74fa5d6c72b0f4e166cecbb624ce82.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/2cf9ad7b7d08a43e5bc933a00d84458dea6389d8.png\"},{\"name\":\"吃惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5ee09f7511d43797761311a5dc83327cf087025.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/6df83d2a413a91a05967e5479ad6a899ebc989e1.png\"},{\"name\":\"正义出击\",\"image\":\"https://i0.hdslb.com/bfs/garb/6fa28bfe552e0a0762c563e4fa43ad403e9378af.png\"},{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c68d86795d1066341395da21f474b12c90da4b7.png\"},{\"name\":\"困\",\"image\":\"https://i0.hdslb.com/bfs/garb/59c8d81029b46122d5d49f1769cf1fcd5e0f9f59.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/1784951365545c26dee87e97928eceb60d0eee94.png\"},{\"name\":\"摸不着头脑\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce2267a8e671aa2cedded0a4e93a0704396bee20.png\"},{\"name\":\"喝茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc34848bf3cc999c27add40a8ed2fdbdf8b40900.png\"},{\"name\":\"委屈巴巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/981a0e216a7c49dc6e3b39441b6973c6b4bdfe43.png\"},{\"name\":\"隐忍\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e1683a167fd79af4839dfad10914b1431d27b25.png\"},{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/01e621d507ec19aac47a0b958619a0cfec880fbc.png\"},{\"name\":\"好学\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a3c3b57bfadd9fe201b2ab84c6a0f7ceecd9afc.png\"},{\"name\":\"泪奔\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ac1fa166bb574041b2b5bb7fdf35dd3e5a58655.png\"},{\"name\":\"上香\",\"image\":\"https://i0.hdslb.com/bfs/garb/6cf0b63de12e0a07b0cc78a185cabb9dff3f16d6.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_上香]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6cf0b63de12e0a07b0cc78a185cabb9dff3f16d6.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_亲亲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c68d86795d1066341395da21f474b12c90da4b7.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_可爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6df83d2a413a91a05967e5479ad6a899ebc989e1.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_吃惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a5ee09f7511d43797761311a5dc83327cf087025.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_喝茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cc34848bf3cc999c27add40a8ed2fdbdf8b40900.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/59c8d81029b46122d5d49f1769cf1fcd5e0f9f59.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_好学]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2a3c3b57bfadd9fe201b2ab84c6a0f7ceecd9afc.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_好耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/01e621d507ec19aac47a0b958619a0cfec880fbc.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_委屈巴巴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/981a0e216a7c49dc6e3b39441b6973c6b4bdfe43.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1784951365545c26dee87e97928eceb60d0eee94.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2cf9ad7b7d08a43e5bc933a00d84458dea6389d8.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_摸不着头脑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce2267a8e671aa2cedded0a4e93a0704396bee20.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_正义出击]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6fa28bfe552e0a0762c563e4fa43ad403e9378af.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_泪奔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ac1fa166bb574041b2b5bb7fdf35dd3e5a58655.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[画里青梅_隐忍]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e1683a167fd79af4839dfad10914b1431d27b25.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1678276815001,
 				"name":"画里青梅",
-				"tab_id":0,
 				"suit_item_id":106832501,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1678276184001,
 				"name":"画里青梅",
-				"tab_id":0,
 				"suit_item_id":106832501,
 				"properties":{
 					"fan_no_color":"#ffffff",

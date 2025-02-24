@@ -35,7 +35,6 @@
 			{
 				"item_id":1680228092001,
 				"name":"我家大师兄有点靠谱 ",
-				"tab_id":0,
 				"suit_item_id":109031201,
 				"properties":{
 					"fan_no_color":"#FF7809",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1680228092002,
 				"name":"我家大师兄有点靠谱 粉丝",
-				"tab_id":0,
 				"suit_item_id":109031201,
 				"properties":{
 					"fan_no_color":"#FF7809",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1680228836001,
 				"name":"我家大师兄有点靠谱 ",
-				"tab_id":0,
 				"suit_item_id":109031201,
 				"properties":{
 					"fan_no_color":"#FF9500",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1680227951001,
 				"name":"我家大师兄有点靠谱 ",
-				"tab_id":0,
 				"suit_item_id":109031201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/98813d4e06ae74868fb62085c54b44a9b9d09512.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9a57521c15a1c97c199f6ac2b69006a252ebdb9.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/db64081e7bd103f9f1400dcabb0f06725d63aff3.png\"},{\"name\":\"棒棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/c841cef43039b7d1dde75f0fed835eb8037d044a.png\"},{\"name\":\"布阵\",\"image\":\"https://i0.hdslb.com/bfs/garb/25dd2874165f35ce1b3b6bc5ac09e521cf37feb3.png\"},{\"name\":\"瑟瑟发抖\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea9a504c55c182cbaece5dcfe4cc2ed4cf9b95de.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/664f43b1cae891d62d2fc360947d3d0fba76fa7e.png\"},{\"name\":\"惊讶\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0db918242a4904daf21e185403638d3cd6ac814.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/6572207b650ac416a6c3c659c11aaa789def9266.png\"},{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/b261d6358103b196e1bc4489190d3f52a457c90d.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/cacf6570dd340456fecda4dd66376bdf6411d99a.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e3be91b2e7cb7f0a8d5d1a7b6c3685fe2d10cc8.png\"},{\"name\":\"谢谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/95451571554b5747794b6983cb78fd94d4d60cb0.png\"},{\"name\":\"得意\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1685ea6c6fba3731473cc4164deeea2f7fd8778.png\"},{\"name\":\"吃我一拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/85b6eab5e62ca68c9fb3bbdc8e2b70454affd49d.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/7283ca71f26510e222c148529c87a58e0cb3abec.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _吃我一拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/85b6eab5e62ca68c9fb3bbdc8e2b70454affd49d.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e3be91b2e7cb7f0a8d5d1a7b6c3685fe2d10cc8.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _布阵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/25dd2874165f35ce1b3b6bc5ac09e521cf37feb3.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db64081e7bd103f9f1400dcabb0f06725d63aff3.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _得意]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d1685ea6c6fba3731473cc4164deeea2f7fd8778.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _微笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b261d6358103b196e1bc4489190d3f52a457c90d.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _惊讶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a0db918242a4904daf21e185403638d3cd6ac814.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _投币]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d9a57521c15a1c97c199f6ac2b69006a252ebdb9.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7283ca71f26510e222c148529c87a58e0cb3abec.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cacf6570dd340456fecda4dd66376bdf6411d99a.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _棒棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c841cef43039b7d1dde75f0fed835eb8037d044a.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _瑟瑟发抖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea9a504c55c182cbaece5dcfe4cc2ed4cf9b95de.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/664f43b1cae891d62d2fc360947d3d0fba76fa7e.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6572207b650ac416a6c3c659c11aaa789def9266.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[我家大师兄有点靠谱 _谢谢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/95451571554b5747794b6983cb78fd94d4d60cb0.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1680228781001,
 				"name":"我家大师兄有点靠谱 ",
-				"tab_id":0,
 				"suit_item_id":109031201,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1680228141001,
 				"name":"我家大师兄有点靠谱 ",
-				"tab_id":0,
 				"suit_item_id":109031201,
 				"properties":{
 					"fan_no_color":"#ffffff",

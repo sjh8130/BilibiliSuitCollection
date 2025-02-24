@@ -36,7 +36,6 @@
 			{
 				"item_id":1688448111001,
 				"name":"Gibbon吉本",
-				"tab_id":0,
 				"suit_item_id":118540401,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1688448111002,
 				"name":"Gibbon吉本粉丝",
-				"tab_id":0,
 				"suit_item_id":118540401,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1688448526001,
 				"name":"Gibbon吉本",
-				"tab_id":0,
 				"suit_item_id":118540401,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1688448136001,
 				"name":"Gibbon吉本",
-				"tab_id":0,
 				"suit_item_id":118540401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d893832019ab15668efd64686a6dfd649b9fb73f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"无语了\",\"image\":\"https://i0.hdslb.com/bfs/garb/1626628007a791bc8b0ed84b00234d67a0e6e5bf.png\"},{\"name\":\"让我看看\",\"image\":\"https://i0.hdslb.com/bfs/garb/277ef2ef483827abc58df19d687ff996a82e8584.png\"},{\"name\":\"发愁\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed2aa3a08d5c77a77b31f85f0bde1cb8719b811b.png\"},{\"name\":\"真有你的\",\"image\":\"https://i0.hdslb.com/bfs/garb/8973e973b2860b390b2396b26ce0985124119c2c.png\"},{\"name\":\"赞啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5b5dfe8cd97dc3732b0242d8b2e9b6726fa6d14.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f63ab0f296881d97372c79e947e5e5da11a88d8.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/170bc3329e730908bd249f50ca476ba42afda346.png\"},{\"name\":\"刷我的卡\",\"image\":\"https://i0.hdslb.com/bfs/garb/8fe77110971a7a7d83b929cdbbbaf22c628a923b.png\"},{\"name\":\"OK了\",\"image\":\"https://i0.hdslb.com/bfs/garb/b30e09be31bda69e870d330891e37e54916b7e42.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/93a1e379f4beb1ffd927aa2bf9a8c9498df94745.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5244b7b954012353098eb70ae3192dbc927d456.png\"},{\"name\":\"我是学生\",\"image\":\"https://i0.hdslb.com/bfs/garb/0978a741a4676c4ebbe637a8d7a478ad69567680.png\"},{\"name\":\"哒咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/d45227a64c387bfe9ec4664e4a2e7cbb1ba92aca.png\"},{\"name\":\"溜了溜了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a55b0e012d5f154e6bdf113bf7d71e63a5a6441a.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/da4bbcdc76732ed3a34b01b2b37adb0516e09916.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_OK了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b30e09be31bda69e870d330891e37e54916b7e42.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_刷我的卡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8fe77110971a7a7d83b929cdbbbaf22c628a923b.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_发愁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ed2aa3a08d5c77a77b31f85f0bde1cb8719b811b.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_哒咩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d45227a64c387bfe9ec4664e4a2e7cbb1ba92aca.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/170bc3329e730908bd249f50ca476ba42afda346.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_我是学生]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0978a741a4676c4ebbe637a8d7a478ad69567680.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_无语了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1626628007a791bc8b0ed84b00234d67a0e6e5bf.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_暗中观察]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/93a1e379f4beb1ffd927aa2bf9a8c9498df94745.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/da4bbcdc76732ed3a34b01b2b37adb0516e09916.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_溜了溜了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a55b0e012d5f154e6bdf113bf7d71e63a5a6441a.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9f63ab0f296881d97372c79e947e5e5da11a88d8.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e5244b7b954012353098eb70ae3192dbc927d456.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_真有你的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8973e973b2860b390b2396b26ce0985124119c2c.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_让我看看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/277ef2ef483827abc58df19d687ff996a82e8584.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[Gibbon吉本_赞啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b5b5dfe8cd97dc3732b0242d8b2e9b6726fa6d14.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1688448487001,
 				"name":"Gibbon吉本",
-				"tab_id":0,
 				"suit_item_id":118540401,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1688448256001,
 				"name":"Gibbon吉本",
-				"tab_id":0,
 				"suit_item_id":118540401,
 				"properties":{
 					"fan_no_color":"#ffffff",

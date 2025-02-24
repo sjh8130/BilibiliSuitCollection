@@ -36,7 +36,6 @@
 			{
 				"item_id":1729149359001,
 				"name":"捏捏小兔",
-				"tab_id":0,
 				"suit_item_id":229151701,
 				"properties":{
 					"fan_no_color":"#D1EDFD",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1729149359002,
 				"name":"捏捏小兔粉丝",
-				"tab_id":0,
 				"suit_item_id":229151701,
 				"properties":{
 					"fan_no_color":"#D1EDFD",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1729149387001,
 				"name":"捏捏小兔",
-				"tab_id":0,
 				"suit_item_id":229151701,
 				"properties":{
 					"fan_no_color":"#E7C0BD",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1729149506001,
 				"name":"捏捏小兔",
-				"tab_id":0,
 				"suit_item_id":229151701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a476a42a01db8e51c9a9f16a7ea376b64cfcbdd0.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"叠叠兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7c33ec7bb5ebfc815a49dcf0d888578cadf3f8e.png\"},{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/5797a377f3b86d4b34f9159049d4ab931f6af5de.png\"},{\"name\":\"比耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ba531b558a906034ffeabcef7a21fe7e6caa2f2.png\"},{\"name\":\"勤劳兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0ddd797d320cd9c3e8072f55e4842c4989c462f.png\"},{\"name\":\"捏捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/85f6c6e24fdc8804c655b3215f30f403e93b80ca.png\"},{\"name\":\"躺沙发里\",\"image\":\"https://i0.hdslb.com/bfs/garb/006f1a19f4f27af44131751eb3a17a19b6c2cf66.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/99596195dd591a2a808960b151c9bf6ee34c9690.png\"},{\"name\":\"牛奶万岁\",\"image\":\"https://i0.hdslb.com/bfs/garb/57674802568533ad63e759f6d4cd27b9dbf2c27d.png\"},{\"name\":\"兔兔汉堡\",\"image\":\"https://i0.hdslb.com/bfs/garb/33b245b12742e33fcd5732915c09e91c55f55a27.png\"},{\"name\":\"快乐兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/21e5b8d738814ca3f844d4e44c3f2418ed77aab6.png\"},{\"name\":\"兔兔捏捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b8a4536a4e8dfcc17d30fbb5ffaa0b5101daff7.png\"},{\"name\":\"兔兔挂件\",\"image\":\"https://i0.hdslb.com/bfs/garb/f331025be8aa58866c9980e23a9a1e62de1f8c6e.png\"},{\"name\":\"叫我吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/97d7419aa4310bd0e38cf87b4fa280309eeebf71.png\"},{\"name\":\"草莓蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b21608e227f5c15ccd2ad8e79ecd8dbd2cdf23d.png\"},{\"name\":\"拖地\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b08c9b68ad97d42e0c0f5fa4873e1025987939a.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_wink]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5797a377f3b86d4b34f9159049d4ab931f6af5de.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_兔兔挂件]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f331025be8aa58866c9980e23a9a1e62de1f8c6e.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_兔兔捏捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b8a4536a4e8dfcc17d30fbb5ffaa0b5101daff7.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_兔兔汉堡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/33b245b12742e33fcd5732915c09e91c55f55a27.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_勤劳兔兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f0ddd797d320cd9c3e8072f55e4842c4989c462f.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_叠叠兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f7c33ec7bb5ebfc815a49dcf0d888578cadf3f8e.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_叫我吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/97d7419aa4310bd0e38cf87b4fa280309eeebf71.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_快乐兔兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/21e5b8d738814ca3f844d4e44c3f2418ed77aab6.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_拖地]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b08c9b68ad97d42e0c0f5fa4873e1025987939a.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_捏捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/85f6c6e24fdc8804c655b3215f30f403e93b80ca.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/99596195dd591a2a808960b151c9bf6ee34c9690.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_比耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ba531b558a906034ffeabcef7a21fe7e6caa2f2.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_牛奶万岁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/57674802568533ad63e759f6d4cd27b9dbf2c27d.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_草莓蛋糕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6b21608e227f5c15ccd2ad8e79ecd8dbd2cdf23d.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[捏捏小兔_躺沙发里]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/006f1a19f4f27af44131751eb3a17a19b6c2cf66.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1729149746001,
 				"name":"捏捏小兔",
-				"tab_id":0,
 				"suit_item_id":229151701,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1729149420001,
 				"name":"捏捏小兔",
-				"tab_id":0,
 				"suit_item_id":229151701,
 				"properties":{
 					"fan_no_color":"#ffffff",

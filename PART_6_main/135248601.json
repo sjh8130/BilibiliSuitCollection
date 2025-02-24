@@ -35,7 +35,6 @@
 			{
 				"item_id":1702880791001,
 				"name":"圣诞情书",
-				"tab_id":0,
 				"suit_item_id":135248601,
 				"properties":{
 					"fan_no_color":"#F24780",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1702881110001,
 				"name":"圣诞情书粉丝",
-				"tab_id":0,
 				"suit_item_id":135248601,
 				"properties":{
 					"fan_no_color":"#F24780",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1702880820001,
 				"name":"圣诞情书",
-				"tab_id":0,
 				"suit_item_id":135248601,
 				"properties":{
 					"fan_no_color":"#F24780",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1702880877001,
 				"name":"圣诞情书",
-				"tab_id":0,
 				"suit_item_id":135248601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/52124f75854b0fbbbec3c11ba971eaa584c3f61f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/409fddd48179a28cdeaf41ec4b55c1177e4246f5.png\"},{\"name\":\"在吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/ecc8d762e2b80a3ac2cb05a996a209c5a8067586.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8cb11e46eac1231015f3661b9d8e6691052b347.png\"},{\"name\":\"怀疑\",\"image\":\"https://i0.hdslb.com/bfs/garb/12e831714590c660017e184703c04e9fdb0acc8f.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/20f8c376f6b7e96fbeb9734ea450491b33eed1c2.png\"},{\"name\":\"俏皮\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8c9250cdbc176b77a43dde483918d4c413a4ebc.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f2433589ee3a519f83a549ec45a10117f23fe88.png\"},{\"name\":\"天呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/393bb8f164caf3f3502e30e81c4da03b9cdca67b.png\"},{\"name\":\"饭饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2c14f967ec51e18dac320a82a6232b15894d9da.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8410bb0a5373f229ac3bfaadb3b2f9c6ee14a57.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/84d654f817ea62df857fb984415bd4e1bcc83adb.png\"},{\"name\":\"发火\",\"image\":\"https://i0.hdslb.com/bfs/garb/50da903ff97d10c52fad3dd05cca7347dcad3db1.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/c427af786b94f0543f271107884d1b26a20d097e.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/648e2d8cdc3dc5c65534c5e19f772e5396c67a29.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f72da6650424692d75d19a333a5ceb6dd89ae4d.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_俏皮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e8c9250cdbc176b77a43dde483918d4c413a4ebc.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_发火]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/50da903ff97d10c52fad3dd05cca7347dcad3db1.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0f72da6650424692d75d19a333a5ceb6dd89ae4d.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/409fddd48179a28cdeaf41ec4b55c1177e4246f5.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_在吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ecc8d762e2b80a3ac2cb05a996a209c5a8067586.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_天呢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/393bb8f164caf3f3502e30e81c4da03b9cdca67b.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20f8c376f6b7e96fbeb9734ea450491b33eed1c2.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/84d654f817ea62df857fb984415bd4e1bcc83adb.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_怀疑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/12e831714590c660017e184703c04e9fdb0acc8f.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c8410bb0a5373f229ac3bfaadb3b2f9c6ee14a57.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7f2433589ee3a519f83a549ec45a10117f23fe88.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_流汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c427af786b94f0543f271107884d1b26a20d097e.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/648e2d8cdc3dc5c65534c5e19f772e5396c67a29.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a8cb11e46eac1231015f3661b9d8e6691052b347.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞情书_饭饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f2c14f967ec51e18dac320a82a6232b15894d9da.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1702881059001,
 				"name":"圣诞情书",
-				"tab_id":0,
 				"suit_item_id":135248601,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1702880848001,
 				"name":"圣诞情书",
-				"tab_id":0,
 				"suit_item_id":135248601,
 				"properties":{
 					"fan_no_color":"#ffffff",

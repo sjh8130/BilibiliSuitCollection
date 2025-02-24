@@ -36,7 +36,6 @@
 			{
 				"item_id":1681539468001,
 				"name":"普通小狗·夏日出游",
-				"tab_id":0,
 				"suit_item_id":110543701,
 				"properties":{
 					"fan_no_color":"#F86B96",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1681539468002,
 				"name":"普通小狗·夏日出游粉丝",
-				"tab_id":0,
 				"suit_item_id":110543701,
 				"properties":{
 					"fan_no_color":"#F86B96",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1681539542001,
 				"name":"普通小狗·夏日出游",
-				"tab_id":0,
 				"suit_item_id":110543701,
 				"properties":{
 					"fan_no_color":"#F86B96",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1681539676001,
 				"name":"普通小狗·夏日出游",
-				"tab_id":0,
 				"suit_item_id":110543701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7e7785382f9be72d2f46e23d9fa172e770bffb92.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/5be1334567e74646250f7a175a3968630d5a038c.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/a6cba02c4d869ba71d34bf55aae8d9b7411039d3.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c279b815c1afc2d00d8a3acc9405c99a49ee455.png\"},{\"name\":\"哇塞\",\"image\":\"https://i0.hdslb.com/bfs/garb/d33a1f614c6767e1d99dd2ad0ade4971344e7c9b.png\"},{\"name\":\"星期四\",\"image\":\"https://i0.hdslb.com/bfs/garb/beda4920054e0b3c4fa3d10cb4b484c7ae3d0989.png\"},{\"name\":\"略略略\",\"image\":\"https://i0.hdslb.com/bfs/garb/ccb3b2d57efcbb77bcbd2b59af9e78c034dfb50a.png\"},{\"name\":\"对对对\",\"image\":\"https://i0.hdslb.com/bfs/garb/0057bc666694ae5e71f6ab4ef1f00bdb2b1d8a60.png\"},{\"name\":\"老板大气\",\"image\":\"https://i0.hdslb.com/bfs/garb/df660f12760d03f4ca7d878ba627cfb0a3a058fb.png\"},{\"name\":\"啵啵啵\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c4b25b870fdcb586ec7c84380a27cd4ab2c849d.png\"},{\"name\":\"达成一致\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad903496374e1fcbebf033d469ab91262e30cbbc.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/743e8e325be07584c57a57b5e88d814661b329fb.png\"},{\"name\":\"选我\",\"image\":\"https://i0.hdslb.com/bfs/garb/831cee9780afe9ead9244020adfd707fd3018739.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/b81bdf267ebff349d00dea2323227475ec8b3ba7.png\"},{\"name\":\"诶\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0b505a8a0b1e14e250a2ff206375c284aa86547.png\"},{\"name\":\"棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/82f7d5369f41f833fd1fda80440de4d3c49f8263.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_哇塞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d33a1f614c6767e1d99dd2ad0ade4971344e7c9b.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_啵啵啵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0c4b25b870fdcb586ec7c84380a27cd4ab2c849d.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_委屈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a6cba02c4d869ba71d34bf55aae8d9b7411039d3.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_对对对]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0057bc666694ae5e71f6ab4ef1f00bdb2b1d8a60.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c279b815c1afc2d00d8a3acc9405c99a49ee455.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_摸头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5be1334567e74646250f7a175a3968630d5a038c.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_星期四]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/beda4920054e0b3c4fa3d10cb4b484c7ae3d0989.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/82f7d5369f41f833fd1fda80440de4d3c49f8263.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/743e8e325be07584c57a57b5e88d814661b329fb.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_略略略]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ccb3b2d57efcbb77bcbd2b59af9e78c034dfb50a.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_老板大气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/df660f12760d03f4ca7d878ba627cfb0a3a058fb.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_诶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c0b505a8a0b1e14e250a2ff206375c284aa86547.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_达成一致]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ad903496374e1fcbebf033d469ab91262e30cbbc.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_送花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b81bdf267ebff349d00dea2323227475ec8b3ba7.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[普通小狗·夏日出游_选我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/831cee9780afe9ead9244020adfd707fd3018739.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1681539870001,
 				"name":"普通小狗·夏日出游",
-				"tab_id":0,
 				"suit_item_id":110543701,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1681540449001,
 				"name":"普通小狗·夏日出游",
-				"tab_id":0,
 				"suit_item_id":110543701,
 				"properties":{
 					"fan_no_color":"#ffffff",

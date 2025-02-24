@@ -36,7 +36,6 @@
 			{
 				"item_id":1678772794001,
 				"name":"兔克-动态卡片",
-				"tab_id":0,
 				"suit_item_id":107544601,
 				"properties":{
 					"fan_no_color":"#DD490E",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1678772794002,
 				"name":"兔克-动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":107544601,
 				"properties":{
 					"fan_no_color":"#DD490E",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1678773368001,
 				"name":"兔克-评论背景",
-				"tab_id":0,
 				"suit_item_id":107544601,
 				"properties":{
 					"fan_no_color":"#E16F6F",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1678772825001,
 				"name":"兔克-表情包",
-				"tab_id":0,
 				"suit_item_id":107544601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f76b3cb4ca41a8c223922d4dfbada1aeb3164f37.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"走鸭\",\"image\":\"https://i0.hdslb.com/bfs/garb/457bb60493f6a7976ad4ac2db91b70b6e83aef44.png\"},{\"name\":\"冲冲冲\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a20ab1e69bd49975a475d7f9d230cd9629c1b2a.png\"},{\"name\":\"偷心贼\",\"image\":\"https://i0.hdslb.com/bfs/garb/01817150c11f27b326253362a61ac1394ec7f481.png\"},{\"name\":\"心动\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0bd86ae9112471cd81da21aeda18d3525b522ad.png\"},{\"name\":\"理直气壮\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d82cc1dff9a3022fb28b50b5e34c6deeb24c8b7.png\"},{\"name\":\"没事吧\",\"image\":\"https://i0.hdslb.com/bfs/garb/88cd9319b1b65720bd4204e3a269fd95ccc06103.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/127123fe3dbe70d6c99b09f776a70c117efb2ec0.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/5906a4fd9ca9f1b75a4222a49833d62bfaf06131.png\"},{\"name\":\"EMO\",\"image\":\"https://i0.hdslb.com/bfs/garb/1cef51b33caf3466d4581696163f7f9d5e39b371.png\"},{\"name\":\"么么哒\",\"image\":\"https://i0.hdslb.com/bfs/garb/73c75932fc43e4e1f71e7b67b89e4cd3e403f5c7.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6228158532c7beb03c727909521b62cd1237920.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/a37dc4aa5d8f41bdbf94b0f4df1f10f0855417bc.png\"},{\"name\":\"紧张\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e6c720b1ecd723c579143f2dcd67fd8ab8e81b7.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b51e0119522d1c1998c77ba2ea5d5535e4139ab.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/3aec9d4d82fff36e06b341ad644a8acd2b459ee8.png\"},{\"name\":\"悠闲\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a129321bd16aab87fafa8b26951ab459b8fb790.png\"},{\"name\":\"抱大腿\",\"image\":\"https://i0.hdslb.com/bfs/garb/a643609fefbbab701c1f94e9c0efff28462086e0.png\"},{\"name\":\"AWSL\",\"image\":\"https://i0.hdslb.com/bfs/garb/83c7483b6d9469301cdeb94b22b44ef650cc618b.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/1bfe0f0418ad8d0b38741ca67f48eacc8460cd7f.png\"},{\"name\":\"摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/d7bdc423c5bab7e41e9bfdedb693ea63fdb1ab73.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_AWSL]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/83c7483b6d9469301cdeb94b22b44ef650cc618b.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_EMO]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1cef51b33caf3466d4581696163f7f9d5e39b371.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_么么哒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/73c75932fc43e4e1f71e7b67b89e4cd3e403f5c7.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_偷心贼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/01817150c11f27b326253362a61ac1394ec7f481.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_冲冲冲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1a20ab1e69bd49975a475d7f9d230cd9629c1b2a.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/127123fe3dbe70d6c99b09f776a70c117efb2ec0.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_可爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1bfe0f0418ad8d0b38741ca67f48eacc8460cd7f.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5b51e0119522d1c1998c77ba2ea5d5535e4139ab.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_心动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b0bd86ae9112471cd81da21aeda18d3525b522ad.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_思考]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d6228158532c7beb03c727909521b62cd1237920.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_悠闲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3a129321bd16aab87fafa8b26951ab459b8fb790.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_抱大腿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a643609fefbbab701c1f94e9c0efff28462086e0.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_摸头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d7bdc423c5bab7e41e9bfdedb693ea63fdb1ab73.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5906a4fd9ca9f1b75a4222a49833d62bfaf06131.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_没事吧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/88cd9319b1b65720bd4204e3a269fd95ccc06103.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a37dc4aa5d8f41bdbf94b0f4df1f10f0855417bc.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_理直气壮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2d82cc1dff9a3022fb28b50b5e34c6deeb24c8b7.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3aec9d4d82fff36e06b341ad644a8acd2b459ee8.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_紧张]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3e6c720b1ecd723c579143f2dcd67fd8ab8e81b7.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[兔克-表情包_走鸭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/457bb60493f6a7976ad4ac2db91b70b6e83aef44.png",
 							"sale_type":"pay"
@@ -289,7 +264,6 @@
 			{
 				"item_id":1678773319001,
 				"name":"兔克-个性主题",
-				"tab_id":0,
 				"suit_item_id":107544601,
 				"properties":{
 					"color":"#000000",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1678772931001,
 				"name":"兔克-空间背景",
-				"tab_id":0,
 				"suit_item_id":107544601,
 				"properties":{
 					"fan_no_color":"#ffffff",

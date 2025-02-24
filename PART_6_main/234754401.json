@@ -35,7 +35,6 @@
 			{
 				"item_id":1733814001001,
 				"name":"暖冬猪猪",
-				"tab_id":0,
 				"suit_item_id":234754401,
 				"properties":{
 					"fan_no_color":"#F8C6C5",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1733814001002,
 				"name":"暖冬猪猪粉丝",
-				"tab_id":0,
 				"suit_item_id":234754401,
 				"properties":{
 					"fan_no_color":"#F8C6C5",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1733814020001,
 				"name":"暖冬猪猪",
-				"tab_id":0,
 				"suit_item_id":234754401,
 				"properties":{
 					"fan_no_color":"#F8C6C5",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1733813908001,
 				"name":"暖冬粉猪猪",
-				"tab_id":0,
 				"suit_item_id":234754401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/dfeca18f2bc928c8aef9bea7b7e6ccd5b3d441da.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"求求\",\"image\":\"https://i0.hdslb.com/bfs/garb/375275340e70ce39eca8b042bee2b80d4a400c60.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/8c7427cb79730daee965a5b406fda6187f13af77.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5b6fc58eedc4ed095cac07ec0f9f14714683f99.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab7993f184a23d04528388377ed539f96f7b705e.png\"},{\"name\":\"流泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/e926c88ee0edcdc2b4c7eb4fcbb1ff77909f2cb2.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f1f4f3e8c06777eb92d3fc377a7b0e8124b3d0f.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8d4bd62266c7e60acbe28ce82f15951ed5b2246.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e3ca5cd2bae7bc91f86ad281542bacde254231e.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1e86abb58355629262b5a793b17010c3fb7956a.png\"},{\"name\":\"干饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/38d3eefbc377cc44a1f2980c3ff0362416291ab0.png\"},{\"name\":\"好的\",\"image\":\"https://i0.hdslb.com/bfs/garb/2876f7801fdd44b734d31d501529b4dbb8c2a297.png\"},{\"name\":\"累了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7afd4ec64b627aa066184dd7166bea233a300abb.png\"},{\"name\":\"佛系\",\"image\":\"https://i0.hdslb.com/bfs/garb/967ab3b5d2289a8bd21a513aaddf84687f842196.png\"},{\"name\":\"棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/b34235dad614ce2b8c6385d47a0550bc69cd6c3b.png\"},{\"name\":\"摸摸\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba19abee5bf78cbe642c6325637d3d01af723451.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_佛系]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/967ab3b5d2289a8bd21a513aaddf84687f842196.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_好的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2876f7801fdd44b734d31d501529b4dbb8c2a297.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ab7993f184a23d04528388377ed539f96f7b705e.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_干饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/38d3eefbc377cc44a1f2980c3ff0362416291ab0.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_摸摸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ba19abee5bf78cbe642c6325637d3d01af723451.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f5b6fc58eedc4ed095cac07ec0f9f14714683f99.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b34235dad614ce2b8c6385d47a0550bc69cd6c3b.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_求求]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/375275340e70ce39eca8b042bee2b80d4a400c60.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_流泪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e926c88ee0edcdc2b4c7eb4fcbb1ff77909f2cb2.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1e3ca5cd2bae7bc91f86ad281542bacde254231e.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8c7427cb79730daee965a5b406fda6187f13af77.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_累了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7afd4ec64b627aa066184dd7166bea233a300abb.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5f1f4f3e8c06777eb92d3fc377a7b0e8124b3d0f.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_送花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a1e86abb58355629262b5a793b17010c3fb7956a.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[暖冬粉猪猪_问号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a8d4bd62266c7e60acbe28ce82f15951ed5b2246.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1733814285001,
 				"name":"暖冬猪猪",
-				"tab_id":0,
 				"suit_item_id":234754401,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1733814063001,
 				"name":"暖冬猪猪",
-				"tab_id":0,
 				"suit_item_id":234754401,
 				"properties":{
 					"fan_no_color":"#ffffff",

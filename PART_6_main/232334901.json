@@ -35,7 +35,6 @@
 			{
 				"item_id":1731738002001,
 				"name":"兔兔美少女",
-				"tab_id":0,
 				"suit_item_id":232334901,
 				"properties":{
 					"fan_no_color":"#F1417B",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1731738002002,
 				"name":"兔兔美少女粉丝",
-				"tab_id":0,
 				"suit_item_id":232334901,
 				"properties":{
 					"fan_no_color":"#F1417B",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1731738038001,
 				"name":"兔兔美少女",
-				"tab_id":0,
 				"suit_item_id":232334901,
 				"properties":{
 					"fan_no_color":"#F1417B",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1731738232001,
 				"name":"兔兔美少女",
-				"tab_id":0,
 				"suit_item_id":232334901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/3584be26d2b664be97e1e9591360a9e69720ab2c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/309b3873867b1cda5a19eb99f8dc97add250ee67.png\"},{\"name\":\"晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/9af2365524be9c3def491afd0d8d6cf82ac0e0a2.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/05a47317d041f3347885ff59bac7a427ec85b499.png\"},{\"name\":\"Hi\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad99bd26d9dac8f2e1dc1cfdef4f8bfa20be1bfa.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9627af4c6e92b5b2798c234a2f1bf5f2f24cab6.png\"},{\"name\":\"星星眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7059b844e536acd001979ec302864a95a9091e6.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a9df457d2452ed292b242fd69cf295a01b4301d.png\"},{\"name\":\"摸摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/51cea37f2f3b91405a7ad478a5d16d031e06dd62.png\"},{\"name\":\"在吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/076d1a9a517950f07e740668434094f16a932526.png\"},{\"name\":\"猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fb61f8afa4724da4108d413f1cea79381253efc.png\"},{\"name\":\"遗憾\",\"image\":\"https://i0.hdslb.com/bfs/garb/083570fcac462903f2cb168dc63c11e209f87d70.png\"},{\"name\":\"心心\",\"image\":\"https://i0.hdslb.com/bfs/garb/d07cbce3bc9cc9d974cda985a6e3a196ab9e7191.png\"},{\"name\":\"吃惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/05d69c13201f6131fe73c6dffc6b64d630d4117b.png\"},{\"name\":\"宝宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/86f0a6e09c466d119601015666af7b7ca22a9fd9.png\"},{\"name\":\"酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/50e000cb0620d9f40e29ff1fdf4563f11d3f3936.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_Hi]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ad99bd26d9dac8f2e1dc1cfdef4f8bfa20be1bfa.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_吃惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/05d69c13201f6131fe73c6dffc6b64d630d4117b.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a9627af4c6e92b5b2798c234a2f1bf5f2f24cab6.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3a9df457d2452ed292b242fd69cf295a01b4301d.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_在吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/076d1a9a517950f07e740668434094f16a932526.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_宝宝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/86f0a6e09c466d119601015666af7b7ca22a9fd9.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/309b3873867b1cda5a19eb99f8dc97add250ee67.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_心心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d07cbce3bc9cc9d974cda985a6e3a196ab9e7191.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_摸摸头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/51cea37f2f3b91405a7ad478a5d16d031e06dd62.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/05a47317d041f3347885ff59bac7a427ec85b499.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_星星眼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a7059b844e536acd001979ec302864a95a9091e6.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_晕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9af2365524be9c3def491afd0d8d6cf82ac0e0a2.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_猫猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1fb61f8afa4724da4108d413f1cea79381253efc.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_遗憾]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/083570fcac462903f2cb168dc63c11e209f87d70.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[兔兔美少女_酷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/50e000cb0620d9f40e29ff1fdf4563f11d3f3936.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1731738556001,
 				"name":"兔兔美少女",
-				"tab_id":0,
 				"suit_item_id":232334901,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1731738120001,
 				"name":"兔兔美少女",
-				"tab_id":0,
 				"suit_item_id":232334901,
 				"properties":{
 					"fan_no_color":"#ffffff",

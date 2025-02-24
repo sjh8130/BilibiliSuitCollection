@@ -35,7 +35,6 @@
 			{
 				"item_id":1676637333001,
 				"name":"雨后晴空",
-				"tab_id":0,
 				"suit_item_id":105334401,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1676637333002,
 				"name":"雨后晴空粉丝",
-				"tab_id":0,
 				"suit_item_id":105334401,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1676637370001,
 				"name":"雨后晴空",
-				"tab_id":0,
 				"suit_item_id":105334401,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1676637560001,
 				"name":"雨后晴空",
-				"tab_id":0,
 				"suit_item_id":105334401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/74b7de0da1c5189889a1a71d303359ef701c5df7.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9274a37a9566306aa0cb24a59d8cec0fa091789.png\"},{\"name\":\"眼前一亮\",\"image\":\"https://i0.hdslb.com/bfs/garb/64a69cecb0ae6fd26a8e7635d42ccf378f76a4c6.png\"},{\"name\":\"告辞\",\"image\":\"https://i0.hdslb.com/bfs/garb/677a67186ee222e798985d1dae90987a54c340b5.png\"},{\"name\":\"妈呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/40b423d6c961fd1902562cfc80024f7693c2044a.png\"},{\"name\":\"冒泡\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1352da2eda57daba940e26e604690e9369f2e5c.png\"},{\"name\":\"给心心\",\"image\":\"https://i0.hdslb.com/bfs/garb/a388ef6068178a13b88dbf63f1c9b973b6560620.png\"},{\"name\":\"本少来也\",\"image\":\"https://i0.hdslb.com/bfs/garb/d4321681448efa4018ae209eb662fed1247af9f8.png\"},{\"name\":\"借水消愁\",\"image\":\"https://i0.hdslb.com/bfs/garb/238303afb674cc8596dd4cd87cbc6f1d77d251ce.png\"},{\"name\":\"得意\",\"image\":\"https://i0.hdslb.com/bfs/garb/dfce4e4416a57278743d25e39d6500d30b47c108.png\"},{\"name\":\"贫穷\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1d4c57f2ae88d9b96f54ea9d39b7f46e29b73d9.png\"},{\"name\":\"恰饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b2085862904c0c2d8876e14bec73d33641794c3.png\"},{\"name\":\"拿走别来\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb433eae1b65a4688270b7a0c51e6d8480716cd5.png\"},{\"name\":\"危险\",\"image\":\"https://i0.hdslb.com/bfs/garb/6dbc90162250774957fd1c9898ddf455c62ecdff.png\"},{\"name\":\"摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d36b5cd93de1a3be0a236740c66ba9133df2850.png\"},{\"name\":\"别太荒谬\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b0404ed4baea29473fbe0cb62a3eae4d07848fb.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_亲亲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e9274a37a9566306aa0cb24a59d8cec0fa091789.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_借水消愁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/238303afb674cc8596dd4cd87cbc6f1d77d251ce.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_冒泡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e1352da2eda57daba940e26e604690e9369f2e5c.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_别太荒谬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5b0404ed4baea29473fbe0cb62a3eae4d07848fb.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_危险]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6dbc90162250774957fd1c9898ddf455c62ecdff.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_告辞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/677a67186ee222e798985d1dae90987a54c340b5.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_妈呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/40b423d6c961fd1902562cfc80024f7693c2044a.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_得意]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dfce4e4416a57278743d25e39d6500d30b47c108.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_恰饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b2085862904c0c2d8876e14bec73d33641794c3.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_拿走别来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bb433eae1b65a4688270b7a0c51e6d8480716cd5.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_摸头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d36b5cd93de1a3be0a236740c66ba9133df2850.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_本少来也]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d4321681448efa4018ae209eb662fed1247af9f8.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_眼前一亮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/64a69cecb0ae6fd26a8e7635d42ccf378f76a4c6.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_给心心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a388ef6068178a13b88dbf63f1c9b973b6560620.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[雨后晴空_贫穷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f1d4c57f2ae88d9b96f54ea9d39b7f46e29b73d9.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1676637749001,
 				"name":"雨后晴空",
-				"tab_id":0,
 				"suit_item_id":105334401,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1676637438001,
 				"name":"雨后晴空",
-				"tab_id":0,
 				"suit_item_id":105334401,
 				"properties":{
 					"fan_no_color":"#ffffff",

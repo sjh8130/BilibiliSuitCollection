@@ -35,7 +35,6 @@
 			{
 				"item_id":1731468852001,
 				"name":"奶茶鼠梦游时间",
-				"tab_id":0,
 				"suit_item_id":231835001,
 				"properties":{
 					"fan_no_color":"#FFAE00",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1731468852002,
 				"name":"奶茶鼠梦游时间粉丝",
-				"tab_id":0,
 				"suit_item_id":231835001,
 				"properties":{
 					"fan_no_color":"#FFAE00",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1731469179001,
 				"name":"奶茶鼠梦游时间",
-				"tab_id":0,
 				"suit_item_id":231835001,
 				"properties":{
 					"fan_no_color":"#FFA600",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1731468907001,
 				"name":"奶茶鼠梦游时间",
-				"tab_id":0,
 				"suit_item_id":231835001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b8b389eeed365c1d96710fa2f2ab96c4ca4215f2.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"得意\",\"image\":\"https://i0.hdslb.com/bfs/garb/bda22f6329b8d6d0a1759700a0806fdd712d160d.png\"},{\"name\":\"喝奶茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/96f2d69c787b26790c7823f82f7c6825417fd3b4.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/259fd814d61970ddb45e0b54f4a911a262b4a055.png\"},{\"name\":\"飞吻\",\"image\":\"https://i0.hdslb.com/bfs/garb/758c36f231fa84cdd83a1b3b62d135445aba17c5.png\"},{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/d363e47fc98cffa188965cd2c2b8ecb584dc8b23.png\"},{\"name\":\"卑微\",\"image\":\"https://i0.hdslb.com/bfs/garb/cfe230c4fd341e369e479ff23ec61d428f47ba0f.png\"},{\"name\":\"欢呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e24b348704c32c5ad478e269c97e9726c2e0ae7.png\"},{\"name\":\"调皮\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc791167117a6e030f2d07fb054ee71ba8ebbc1d.png\"},{\"name\":\"看书\",\"image\":\"https://i0.hdslb.com/bfs/garb/0edd97a4d9ea96cafd5811246c04a33fa4bfb1f6.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/d7ca9d49f1b87ca962848ce79cafc0ffa162bb96.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1710b9026f8ab26464ab67b46fd6090e28a70c0.png\"},{\"name\":\"怒\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae52e965c3c354a32905532db2def2b5fd3900c8.png\"},{\"name\":\"伤心\",\"image\":\"https://i0.hdslb.com/bfs/garb/32a7f6ee468ac1f5df82d85903a2ea53ec8274c2.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e76f578bfe94d3d92a173cd80858d65736d3ccd.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0a4aabc4eaacbc7985c775a94e827af156ebca9.png\"},{\"name\":\"怕不怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d698bbe83ae824f3aa84b9cd514c04dd4a242c7.png\"},{\"name\":\"厉害\",\"image\":\"https://i0.hdslb.com/bfs/garb/ced448865e18db49173168ec4ed083593877d481.png\"},{\"name\":\"打脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/434d2008127524f9ba6e560c5419e3f8df6ebfad.png\"},{\"name\":\"我不听\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2c931729c06443678872425ab467f0d663c6ee2.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/e61266e481e69a11a69b87f321497befef5f1cf3.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_伤心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/32a7f6ee468ac1f5df82d85903a2ea53ec8274c2.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_卑微]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cfe230c4fd341e369e479ff23ec61d428f47ba0f.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_厉害]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ced448865e18db49173168ec4ed083593877d481.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_哇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d7ca9d49f1b87ca962848ce79cafc0ffa162bb96.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_喝奶茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/96f2d69c787b26790c7823f82f7c6825417fd3b4.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_大哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/259fd814d61970ddb45e0b54f4a911a262b4a055.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_害怕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e61266e481e69a11a69b87f321497befef5f1cf3.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7e76f578bfe94d3d92a173cd80858d65736d3ccd.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_得意]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bda22f6329b8d6d0a1759700a0806fdd712d160d.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_微笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d363e47fc98cffa188965cd2c2b8ecb584dc8b23.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_怒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ae52e965c3c354a32905532db2def2b5fd3900c8.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_怕不怕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5d698bbe83ae824f3aa84b9cd514c04dd4a242c7.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_我不听]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d2c931729c06443678872425ab467f0d663c6ee2.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_打脸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/434d2008127524f9ba6e560c5419e3f8df6ebfad.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_欢呼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9e24b348704c32c5ad478e269c97e9726c2e0ae7.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a1710b9026f8ab26464ab67b46fd6090e28a70c0.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_看书]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0edd97a4d9ea96cafd5811246c04a33fa4bfb1f6.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_调皮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc791167117a6e030f2d07fb054ee71ba8ebbc1d.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_送花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a0a4aabc4eaacbc7985c775a94e827af156ebca9.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[奶茶鼠梦游时间_飞吻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/758c36f231fa84cdd83a1b3b62d135445aba17c5.png",
 							"sale_type":"pay"
@@ -289,7 +264,6 @@
 			{
 				"item_id":1731469109001,
 				"name":"奶茶鼠梦游时间",
-				"tab_id":0,
 				"suit_item_id":231835001,
 				"properties":{
 					"color":"#ffffff",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1731468942001,
 				"name":"奶茶鼠梦游时间",
-				"tab_id":0,
 				"suit_item_id":231835001,
 				"properties":{
 					"fan_no_color":"#ffffff",

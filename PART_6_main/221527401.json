@@ -35,7 +35,6 @@
 			{
 				"item_id":1722504222001,
 				"name":"小人",
-				"tab_id":0,
 				"suit_item_id":221527401,
 				"properties":{
 					"fan_no_color":"#FCC800",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1722506167001,
 				"name":"小人粉丝",
-				"tab_id":0,
 				"suit_item_id":221527401,
 				"properties":{
 					"fan_no_color":"#FCC800",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1722499589001,
 				"name":"小人",
-				"tab_id":0,
 				"suit_item_id":221527401,
 				"properties":{
 					"fan_no_color":"#FCC800",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1722302868001,
 				"name":"小人",
-				"tab_id":0,
 				"suit_item_id":221527401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8275b7b713858a9ccbdcaa7513b3a6cc1e975f2a.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"携猫逃跑\",\"image\":\"https://i0.hdslb.com/bfs/garb/710dfc3b5a6bb1f24411e6e49430e2546823fac2.png\"},{\"name\":\"给钱\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2a3ed9f8c1d6aed9aca704e4430f3dbba8ad72a.png\"},{\"name\":\"禁止人类\",\"image\":\"https://i0.hdslb.com/bfs/garb/267823dbf86ea30276fb1154c4cac959537f84bb.png\"},{\"name\":\"好物推荐\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b8eee9744e7286bb92b0bf453654b6741a3d343.png\"},{\"name\":\"申请\",\"image\":\"https://i0.hdslb.com/bfs/garb/84b62550cdc404e7a83e5c79a9e23ced46cd1c70.png\"},{\"name\":\"爬行\",\"image\":\"https://i0.hdslb.com/bfs/garb/6132aeec2f6fad323e696bf2a59cd8c62b86b4c1.png\"},{\"name\":\"洗头\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6cc7ece2c01045da047fcb9ea71d10ea41dbba7.png\"},{\"name\":\"求求给点\",\"image\":\"https://i0.hdslb.com/bfs/garb/4385cd493b0db85db5edf4f5e65ff9c91af66b8a.png\"},{\"name\":\"空空如也\",\"image\":\"https://i0.hdslb.com/bfs/garb/5fc9229d4e1403e27e70cdf767d8386579b16148.png\"},{\"name\":\"上厕所\",\"image\":\"https://i0.hdslb.com/bfs/garb/756a570eec0e812e02890b8a8c0ebe5b76624397.png\"},{\"name\":\"先睡了\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d3e4b73cc5359ac3e0a2cd4eacdaddab0e28f70.png\"},{\"name\":\"那咋了\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ceeabe17f3f637b7ac69595c72b9cdf3dc39f49.png\"},{\"name\":\"敲木鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/54186c01c68e818e725b0ef80f5a254a3b229e07.png\"},{\"name\":\"带走\",\"image\":\"https://i0.hdslb.com/bfs/garb/f221a2132d9fcd5147e8de852f32b5b9c4f9a115.png\"},{\"name\":\"神秘按钮\",\"image\":\"https://i0.hdslb.com/bfs/garb/b977152443f65bfceb6265307fa724d0c08e0236.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_上厕所]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/756a570eec0e812e02890b8a8c0ebe5b76624397.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_先睡了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2d3e4b73cc5359ac3e0a2cd4eacdaddab0e28f70.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_好物推荐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7b8eee9744e7286bb92b0bf453654b6741a3d343.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_带走]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f221a2132d9fcd5147e8de852f32b5b9c4f9a115.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_携猫逃跑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/710dfc3b5a6bb1f24411e6e49430e2546823fac2.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_敲木鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/54186c01c68e818e725b0ef80f5a254a3b229e07.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_求求给点]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4385cd493b0db85db5edf4f5e65ff9c91af66b8a.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_洗头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e6cc7ece2c01045da047fcb9ea71d10ea41dbba7.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_爬行]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6132aeec2f6fad323e696bf2a59cd8c62b86b4c1.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_申请]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/84b62550cdc404e7a83e5c79a9e23ced46cd1c70.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_神秘按钮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b977152443f65bfceb6265307fa724d0c08e0236.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_禁止人类]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/267823dbf86ea30276fb1154c4cac959537f84bb.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_空空如也]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5fc9229d4e1403e27e70cdf767d8386579b16148.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_给钱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a2a3ed9f8c1d6aed9aca704e4430f3dbba8ad72a.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[小人_那咋了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ceeabe17f3f637b7ac69595c72b9cdf3dc39f49.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1722498756001,
 				"name":"小人",
-				"tab_id":0,
 				"suit_item_id":221527401,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1722414556001,
 				"name":"小人",
-				"tab_id":0,
 				"suit_item_id":221527401,
 				"properties":{
 					"fan_no_color":"#ffffff",

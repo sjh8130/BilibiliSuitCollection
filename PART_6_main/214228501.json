@@ -35,7 +35,6 @@
 			{
 				"item_id":1716169452001,
 				"name":"poni猫2.0",
-				"tab_id":0,
 				"suit_item_id":214228501,
 				"properties":{
 					"fan_no_color":"#FE99B7",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1716170139001,
 				"name":"poni猫2.0粉丝",
-				"tab_id":0,
 				"suit_item_id":214228501,
 				"properties":{
 					"fan_no_color":"#FE99B7",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1716169593001,
 				"name":"poni猫2.0",
-				"tab_id":0,
 				"suit_item_id":214228501,
 				"properties":{
 					"fan_no_color":"#FE99B7",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1715938710001,
 				"name":"poni猫2.0",
-				"tab_id":0,
 				"suit_item_id":214228501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9ae2fef2c65ce4b4ba31a87cfa9d1dc5a0a486d4.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"OK哟\",\"image\":\"https://i0.hdslb.com/bfs/garb/bafdc233cd237fa9d7b7e222527f5feb0d0ec15b.png\"},{\"name\":\"酷炫拽\",\"image\":\"https://i0.hdslb.com/bfs/garb/913620a3a13afa0568a8efece0d4f0f69ab9c413.png\"},{\"name\":\"结芬\",\"image\":\"https://i0.hdslb.com/bfs/garb/31a187ed2bdc2d18a9528fdf71bbeed81fa7761d.png\"},{\"name\":\"哦吼吼\",\"image\":\"https://i0.hdslb.com/bfs/garb/98e060ec8ea902c18855d00f7cded6a88a1c815c.png\"},{\"name\":\"吃点啥呐\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c0caa3a3fb103ea51628ab0ec9915dcedc4ea2c.png\"},{\"name\":\"浑身乏力\",\"image\":\"https://i0.hdslb.com/bfs/garb/5113591f7ee61f99e51d8f0a6d112f7f82fb3b53.png\"},{\"name\":\"又我\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3093bc3a00ebe790a72e822ea161ce1e836b0dd.png\"},{\"name\":\"好方啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d5b06a972db1cd62eb794b454c239c5d80df168.png\"},{\"name\":\"诶嘿嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/78b799496371743906cbe35b69fa7d92b5718b52.png\"},{\"name\":\"好害羞呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf0efda9c60b3ebeb3336b7aaa1eb7f7b84c043f.png\"},{\"name\":\"思考ing\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e0831dbb571680163b4edf07826fba1b60b5757.png\"},{\"name\":\"耶耶耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/a42b0efe2fb674076aecceff9754cb6aa9f1886d.png\"},{\"name\":\"鲜花满满\",\"image\":\"https://i0.hdslb.com/bfs/garb/42284b918d59f84a757abbc43032178bfba96384.png\"},{\"name\":\"呀嘞呀嘞\",\"image\":\"https://i0.hdslb.com/bfs/garb/43b29cb02eab1b778e00b8c32d23981d28a4566a.png\"},{\"name\":\"哇酷哇酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6731a835537cc1e9ddf6a35ead072250c295fad.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_OK哟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bafdc233cd237fa9d7b7e222527f5feb0d0ec15b.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_又我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b3093bc3a00ebe790a72e822ea161ce1e836b0dd.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_吃点啥呐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6c0caa3a3fb103ea51628ab0ec9915dcedc4ea2c.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_呀嘞呀嘞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/43b29cb02eab1b778e00b8c32d23981d28a4566a.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_哇酷哇酷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c6731a835537cc1e9ddf6a35ead072250c295fad.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_哦吼吼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/98e060ec8ea902c18855d00f7cded6a88a1c815c.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_好害羞呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cf0efda9c60b3ebeb3336b7aaa1eb7f7b84c043f.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_好方啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d5b06a972db1cd62eb794b454c239c5d80df168.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_思考ing]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3e0831dbb571680163b4edf07826fba1b60b5757.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_浑身乏力]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5113591f7ee61f99e51d8f0a6d112f7f82fb3b53.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_结芬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/31a187ed2bdc2d18a9528fdf71bbeed81fa7761d.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_耶耶耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a42b0efe2fb674076aecceff9754cb6aa9f1886d.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_诶嘿嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/78b799496371743906cbe35b69fa7d92b5718b52.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_酷炫拽]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/913620a3a13afa0568a8efece0d4f0f69ab9c413.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[poni猫2.0_鲜花满满]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/42284b918d59f84a757abbc43032178bfba96384.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1716170093001,
 				"name":"poni猫2.0",
-				"tab_id":0,
 				"suit_item_id":214228501,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1716169736001,
 				"name":"poni猫2.0",
-				"tab_id":0,
 				"suit_item_id":214228501,
 				"properties":{
 					"fan_no_color":"#ffffff",

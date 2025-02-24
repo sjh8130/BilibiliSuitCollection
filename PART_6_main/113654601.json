@@ -35,7 +35,6 @@
 			{
 				"item_id":1684230963001,
 				"name":"宅舞兔兔打call中",
-				"tab_id":0,
 				"suit_item_id":113654601,
 				"properties":{
 					"fan_no_color":"#DE5979",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1684230963002,
 				"name":"宅舞兔兔打call中粉丝",
-				"tab_id":0,
 				"suit_item_id":113654601,
 				"properties":{
 					"fan_no_color":"#DE5979",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1684290225001,
 				"name":"宅舞兔兔打call中",
-				"tab_id":0,
 				"suit_item_id":113654601,
 				"properties":{
 					"fan_no_color":"#EA8C8C",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1684231271001,
 				"name":"宅舞兔兔打call中",
-				"tab_id":0,
 				"suit_item_id":113654601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/dc748b27dc5393f9367a90f2a59ab36e78541828.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"赛高！\",\"image\":\"https://i0.hdslb.com/bfs/garb/50c7c8b4cc812d80feddbd9c89e2a2db59f6b4eb.png\"},{\"name\":\"斯哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c47be54e792737ad04638ace2438bef65db937e.png\"},{\"name\":\"带斯ki\",\"image\":\"https://i0.hdslb.com/bfs/garb/39b7b3b99b69441665bf0681bb765c8f7535b5e3.png\"},{\"name\":\"赛...高\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5b6ef7afcba927bea5d806c32cd835fd7cff618.png\"},{\"name\":\"赛高超大声\",\"image\":\"https://i0.hdslb.com/bfs/garb/5251225e175520295062da4e65f58da57af02a58.png\"},{\"name\":\"超喜欢你\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2588f2a53f364eefcc80702bdfb01872473b013.png\"},{\"name\":\"鼓掌\",\"image\":\"https://i0.hdslb.com/bfs/garb/037448cf4c4963502a44dc6bcee5e785be94a1ea.png\"},{\"name\":\"拒绝拉踩\",\"image\":\"https://i0.hdslb.com/bfs/garb/39fa78f648f1660503d938a09e22e38ed800b2e9.png\"},{\"name\":\"一起打歌\",\"image\":\"https://i0.hdslb.com/bfs/garb/96da054d44f6f1d4428cec82e994a55874b50595.png\"},{\"name\":\"永远爱打歌\",\"image\":\"https://i0.hdslb.com/bfs/garb/98cf75a9d09591d7e7f6ba678bf18a6420221181.png\"},{\"name\":\"爱心发射\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f6bfd51fb11e1783f5610036dd972a41474df3c.png\"},{\"name\":\"我好幸福\",\"image\":\"https://i0.hdslb.com/bfs/garb/abfbbe46e043cd2ab699420d4215ad9685404bca.png\"},{\"name\":\"红色喷射\",\"image\":\"https://i0.hdslb.com/bfs/garb/aac960b2d9224e959ffbdc8b08ae549c66175458.png\"},{\"name\":\"噗通噗通\",\"image\":\"https://i0.hdslb.com/bfs/garb/0126dc480d37f4b16cbfa1a1d0026b2e2092c2ec.png\"},{\"name\":\"太棒了\",\"image\":\"https://i0.hdslb.com/bfs/garb/5cba603e2d36b9f86693733faffc80c469bf91de.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_一起打歌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/96da054d44f6f1d4428cec82e994a55874b50595.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_噗通噗通]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0126dc480d37f4b16cbfa1a1d0026b2e2092c2ec.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_太棒了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5cba603e2d36b9f86693733faffc80c469bf91de.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_带斯ki]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/39b7b3b99b69441665bf0681bb765c8f7535b5e3.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_我好幸福]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/abfbbe46e043cd2ab699420d4215ad9685404bca.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_拒绝拉踩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/39fa78f648f1660503d938a09e22e38ed800b2e9.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_斯哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1c47be54e792737ad04638ace2438bef65db937e.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_永远爱打歌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/98cf75a9d09591d7e7f6ba678bf18a6420221181.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_爱心发射]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0f6bfd51fb11e1783f5610036dd972a41474df3c.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_红色喷射]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aac960b2d9224e959ffbdc8b08ae549c66175458.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_赛...高]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d5b6ef7afcba927bea5d806c32cd835fd7cff618.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_赛高超大声]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5251225e175520295062da4e65f58da57af02a58.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_赛高！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/50c7c8b4cc812d80feddbd9c89e2a2db59f6b4eb.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_超喜欢你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c2588f2a53f364eefcc80702bdfb01872473b013.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[宅舞兔兔打call中_鼓掌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/037448cf4c4963502a44dc6bcee5e785be94a1ea.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1684290574001,
 				"name":"宅舞兔兔打call中",
-				"tab_id":0,
 				"suit_item_id":113654601,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1684231329001,
 				"name":"宅舞兔兔打call中",
-				"tab_id":0,
 				"suit_item_id":113654601,
 				"properties":{
 					"fan_no_color":"#ffffff",

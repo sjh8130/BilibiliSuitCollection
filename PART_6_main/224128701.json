@@ -35,7 +35,6 @@
 			{
 				"item_id":1724806372001,
 				"name":"夏",
-				"tab_id":0,
 				"suit_item_id":224128701,
 				"properties":{
 					"fan_no_color":"#A2116A",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1724806372002,
 				"name":"夏粉丝",
-				"tab_id":0,
 				"suit_item_id":224128701,
 				"properties":{
 					"fan_no_color":"#A2116A",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1724807213001,
 				"name":"夏",
-				"tab_id":0,
 				"suit_item_id":224128701,
 				"properties":{
 					"fan_no_color":"#F22C7B",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1724807781001,
 				"name":"夏",
-				"tab_id":0,
 				"suit_item_id":224128701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/45678c1982c4d462809cc28d7fbb406f29540540.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"1佛光普照\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad901b9300b44e2d27999293ed7d3e352270f606.png\"},{\"name\":\"自信\",\"image\":\"https://i0.hdslb.com/bfs/garb/4fa556584195e5096794adf2c26d7734d6759834.png\"},{\"name\":\"划水\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b8207b1b02eeadc97229d4dc0154cc6d000f655.png\"},{\"name\":\"躺平\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea97ae6af57baa5a481285c8adce33ccaddff036.png\"},{\"name\":\"故乡明\",\"image\":\"https://i0.hdslb.com/bfs/garb/91d53be3b485a9205367a78d095073393357752f.png\"},{\"name\":\"滴水头\",\"image\":\"https://i0.hdslb.com/bfs/garb/6182dde56e762586b14997d647b4bcc06ca5c151.png\"},{\"name\":\"水管横\",\"image\":\"https://i0.hdslb.com/bfs/garb/264fb404ab0847762a53cbf041f9c22c07c07ad8.png\"},{\"name\":\"弯折\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a948b723ae237c4c9baa83dd8c47fd4fa61f480.png\"},{\"name\":\"呆滞\",\"image\":\"https://i0.hdslb.com/bfs/garb/31dee757e58d68c2532c46ae418bd164f84159a3.png\"},{\"name\":\"苦笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/1035c92c8b813d004451714896172f2108b78118.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc88169c746bdc6061c7463da097a6cfcdadea0c.png\"},{\"name\":\"吃藕\",\"image\":\"https://i0.hdslb.com/bfs/garb/76eb88de06f5062c348f1ea05619a41805a92d03.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f6eb4eb5b6ad697ce149d396a4924f3b3baeeba.png\"},{\"name\":\"猖狂\",\"image\":\"https://i0.hdslb.com/bfs/garb/08209ca2e8b844056fd22d28dbec8009c6bffcc5.png\"},{\"name\":\"捏捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d159f831b29b285327b3807d4711f7b4c76e5a1.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_1佛光普照]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ad901b9300b44e2d27999293ed7d3e352270f606.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_划水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3b8207b1b02eeadc97229d4dc0154cc6d000f655.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_吃藕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/76eb88de06f5062c348f1ea05619a41805a92d03.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_呆滞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/31dee757e58d68c2532c46ae418bd164f84159a3.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cc88169c746bdc6061c7463da097a6cfcdadea0c.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_弯折]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0a948b723ae237c4c9baa83dd8c47fd4fa61f480.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1f6eb4eb5b6ad697ce149d396a4924f3b3baeeba.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_捏捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9d159f831b29b285327b3807d4711f7b4c76e5a1.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_故乡明]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/91d53be3b485a9205367a78d095073393357752f.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_水管横]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/264fb404ab0847762a53cbf041f9c22c07c07ad8.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_滴水头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6182dde56e762586b14997d647b4bcc06ca5c151.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_猖狂]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/08209ca2e8b844056fd22d28dbec8009c6bffcc5.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_自信]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4fa556584195e5096794adf2c26d7734d6759834.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_苦笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1035c92c8b813d004451714896172f2108b78118.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[夏_躺平]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea97ae6af57baa5a481285c8adce33ccaddff036.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1724807132001,
 				"name":"夏",
-				"tab_id":0,
 				"suit_item_id":224128701,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1724806694001,
 				"name":"夏",
-				"tab_id":0,
 				"suit_item_id":224128701,
 				"properties":{
 					"fan_no_color":"#ffffff",

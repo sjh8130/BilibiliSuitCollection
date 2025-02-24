@@ -35,7 +35,6 @@
 			{
 				"item_id":1714290552001,
 				"name":"哥布林文学",
-				"tab_id":0,
 				"suit_item_id":211951201,
 				"properties":{
 					"fan_no_color":"#248C00",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1714290552002,
 				"name":"哥布林文学粉丝",
-				"tab_id":0,
 				"suit_item_id":211951201,
 				"properties":{
 					"fan_no_color":"#248C00",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1714291394001,
 				"name":"哥布林文学",
-				"tab_id":0,
 				"suit_item_id":211951201,
 				"properties":{
 					"fan_no_color":"#248C00",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1714290593001,
 				"name":"哥布林文学",
-				"tab_id":0,
 				"suit_item_id":211951201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0ed09a513c86c43ba749ead19a981048ac13c09f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"哥布林\",\"image\":\"https://i0.hdslb.com/bfs/garb/b302ed6f15fa83ffd1a92371e74ed72d08ab8ce6.png\"},{\"name\":\"烈焰哥布林\",\"image\":\"https://i0.hdslb.com/bfs/garb/71d41844f935bbd8396f8ec8095825ce375a79a3.png\"},{\"name\":\"冰霜哥布林\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e4917c6443de656760aeab13453427783675f6b.png\"},{\"name\":\"暴风哥布林\",\"image\":\"https://i0.hdslb.com/bfs/garb/6f9a84ab131607c41fcdfffbffa8cd305ed69cad.png\"},{\"name\":\"阴暗哥布林\",\"image\":\"https://i0.hdslb.com/bfs/garb/421dd219a00f3b16dccbef3eb8e05015236809c0.png\"},{\"name\":\"淫邪哥布林\",\"image\":\"https://i0.hdslb.com/bfs/garb/386fb5716928759aa936560348116db1ef47db5f.png\"},{\"name\":\"暴食哥布林\",\"image\":\"https://i0.hdslb.com/bfs/garb/13877db71cbb17c7c765ca65c36928397899f73e.png\"},{\"name\":\"巨魔\",\"image\":\"https://i0.hdslb.com/bfs/garb/99e49ba7266486cb8bec30039b3b714281abdadd.png\"},{\"name\":\"笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/a53592c1c228d432fe3887e0610310611e1657e4.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f5086039f0fec1fed30c383c1057fcf69524be7.png\"},{\"name\":\"照镜子\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e36eda5483f5ce71b873c1a6646554cb3a40f2b.png\"},{\"name\":\"我没意见\",\"image\":\"https://i0.hdslb.com/bfs/garb/85ed79768576276238581c7921675927f6641aa0.png\"},{\"name\":\"惊吓\",\"image\":\"https://i0.hdslb.com/bfs/garb/afaed5fd9b1732dc9162b2d2c5f32921da7d2112.png\"},{\"name\":\"精灵\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f633a5df9fdbbd02c701b14302012a48282434c.png\"},{\"name\":\"圣女\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ef821d753b8b9ed6b897d6e06268c7e719f5bf5.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_冰霜哥布林]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8e4917c6443de656760aeab13453427783675f6b.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_哥布林]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b302ed6f15fa83ffd1a92371e74ed72d08ab8ce6.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_圣女]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8ef821d753b8b9ed6b897d6e06268c7e719f5bf5.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_巨魔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/99e49ba7266486cb8bec30039b3b714281abdadd.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_惊吓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/afaed5fd9b1732dc9162b2d2c5f32921da7d2112.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_我没意见]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/85ed79768576276238581c7921675927f6641aa0.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_暴风哥布林]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6f9a84ab131607c41fcdfffbffa8cd305ed69cad.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_暴食哥布林]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/13877db71cbb17c7c765ca65c36928397899f73e.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_淫邪哥布林]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/386fb5716928759aa936560348116db1ef47db5f.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_烈焰哥布林]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/71d41844f935bbd8396f8ec8095825ce375a79a3.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_照镜子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0e36eda5483f5ce71b873c1a6646554cb3a40f2b.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0f5086039f0fec1fed30c383c1057fcf69524be7.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a53592c1c228d432fe3887e0610310611e1657e4.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_精灵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7f633a5df9fdbbd02c701b14302012a48282434c.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[哥布林文学_阴暗哥布林]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/421dd219a00f3b16dccbef3eb8e05015236809c0.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1714291317001,
 				"name":"哥布林文学",
-				"tab_id":0,
 				"suit_item_id":211951201,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1714290650001,
 				"name":"哥布林文学",
-				"tab_id":0,
 				"suit_item_id":211951201,
 				"properties":{
 					"fan_no_color":"#ffffff",

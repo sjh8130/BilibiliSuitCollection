@@ -35,7 +35,6 @@
 			{
 				"item_id":1727164312001,
 				"name":"正经狼咖3.0",
-				"tab_id":0,
 				"suit_item_id":226931701,
 				"properties":{
 					"fan_no_color":"#D5AB85",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1727164312002,
 				"name":"正经狼咖3.0粉丝",
-				"tab_id":0,
 				"suit_item_id":226931701,
 				"properties":{
 					"fan_no_color":"#D5AB85",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1727165582001,
 				"name":"正经狼咖3.0",
-				"tab_id":0,
 				"suit_item_id":226931701,
 				"properties":{
 					"fan_no_color":"#5F5E5D",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1727164403001,
 				"name":"正经狼咖3.0",
-				"tab_id":0,
 				"suit_item_id":226931701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2ffe129518ca133364b9b4cf51839d58903f5423.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"我来助你\",\"image\":\"https://i0.hdslb.com/bfs/garb/5344ee0a15e411b579b823fdefde7c81b91b4274.png\"},{\"name\":\"营业中\",\"image\":\"https://i0.hdslb.com/bfs/garb/c915c509e9157f422c7249c13c85892b53e4e049.png\"},{\"name\":\"牛排\",\"image\":\"https://i0.hdslb.com/bfs/garb/2022a38e3be64a3412272b0307264c0e0405a92e.png\"},{\"name\":\"发呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/b67f7aa4a13170e9ee4f85acf6bebd749754782d.png\"},{\"name\":\"插手\",\"image\":\"https://i0.hdslb.com/bfs/garb/b394896b96f33b483d876c0f5a6c70b32669c3be.png\"},{\"name\":\"请用\",\"image\":\"https://i0.hdslb.com/bfs/garb/75ecd0ae42b933552d1f6ef52f57c2c53ec77215.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/20677fb70a2149edfd263c4f908cd245f639bc7b.png\"},{\"name\":\"交给我\",\"image\":\"https://i0.hdslb.com/bfs/garb/145f03ff6094021c5ff7c24d71ec1302a97c704a.png\"},{\"name\":\"嗷呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/221a88e45b6435c5962af74322bbcd29ca576205.png\"},{\"name\":\"汗流浃背\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ca8cd95a6dcd89f248ed92934894d426d5cc72b.png\"},{\"name\":\"专业\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb54b1845acafee827699b76e1d48e92c760f88e.png\"},{\"name\":\"放松\",\"image\":\"https://i0.hdslb.com/bfs/garb/87e72383c2f55cb94641bcb5c67bbfff79179e0c.png\"},{\"name\":\"惊吓\",\"image\":\"https://i0.hdslb.com/bfs/garb/ee6e5f9454b62ef67a718ebb360a3d82f4749c4f.png\"},{\"name\":\"自信\",\"image\":\"https://i0.hdslb.com/bfs/garb/28335decb48e3c481ab8f6158ee3694002a2714d.png\"},{\"name\":\"准备就绪\",\"image\":\"https://i0.hdslb.com/bfs/garb/a45df0ae9b8a6761f97ee03c50b962db515fff09.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_专业]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eb54b1845acafee827699b76e1d48e92c760f88e.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_交给我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/145f03ff6094021c5ff7c24d71ec1302a97c704a.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_准备就绪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a45df0ae9b8a6761f97ee03c50b962db515fff09.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_发呆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b67f7aa4a13170e9ee4f85acf6bebd749754782d.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_嗷呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/221a88e45b6435c5962af74322bbcd29ca576205.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_惊吓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ee6e5f9454b62ef67a718ebb360a3d82f4749c4f.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_我来助你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5344ee0a15e411b579b823fdefde7c81b91b4274.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_插手]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b394896b96f33b483d876c0f5a6c70b32669c3be.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_放松]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/87e72383c2f55cb94641bcb5c67bbfff79179e0c.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_汗流浃背]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7ca8cd95a6dcd89f248ed92934894d426d5cc72b.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_牛排]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2022a38e3be64a3412272b0307264c0e0405a92e.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20677fb70a2149edfd263c4f908cd245f639bc7b.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_自信]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/28335decb48e3c481ab8f6158ee3694002a2714d.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_营业中]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c915c509e9157f422c7249c13c85892b53e4e049.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[正经狼咖3.0_请用]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/75ecd0ae42b933552d1f6ef52f57c2c53ec77215.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1727165546001,
 				"name":"正经狼咖3.0",
-				"tab_id":0,
 				"suit_item_id":226931701,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1727164457001,
 				"name":"正经狼咖3.0",
-				"tab_id":0,
 				"suit_item_id":226931701,
 				"properties":{
 					"fan_no_color":"#ffffff",

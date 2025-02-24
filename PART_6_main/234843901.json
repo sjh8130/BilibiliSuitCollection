@@ -35,7 +35,6 @@
 			{
 				"item_id":1734070552001,
 				"name":"曲奇绵绵",
-				"tab_id":0,
 				"suit_item_id":234843901,
 				"properties":{
 					"fan_no_color":"#724F42",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1734070552002,
 				"name":"曲奇绵绵粉丝",
-				"tab_id":0,
 				"suit_item_id":234843901,
 				"properties":{
 					"fan_no_color":"#724F42",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1734071949001,
 				"name":"曲奇绵绵",
-				"tab_id":0,
 				"suit_item_id":234843901,
 				"properties":{
 					"fan_no_color":"#724F42",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1734071620001,
 				"name":"曲奇绵绵",
-				"tab_id":0,
 				"suit_item_id":234843901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b2d87ac6e6d357d3d406f504844e142f7ce0b706.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"华夫饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/77e133e6386d654cc76802f37e7de4cfe5c1be40.png\"},{\"name\":\"纸杯蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/f666199f6b3d8aa78cf59b4566d79c6347b4bcb8.png\"},{\"name\":\"圆饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/abdf732949b5792fe1297de176db5bca315eb73f.png\"},{\"name\":\"方糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/8938f7f1f19ebf48240c2fe14c802dbdf7d19662.png\"},{\"name\":\"小熊宝宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/8cf1ec80ecccea7053dfd541d76647e3453c0947.png\"},{\"name\":\"小猫宝宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/434c58109d1bad218f267e6d5359f950deb506b1.png\"},{\"name\":\"小狗宝宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/e122b277eb0596b4576e92f8cab458d908f9d5dd.png\"},{\"name\":\"松饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5998ef2a2f6083c056a7a5e920e1f4ae384a7f0.png\"},{\"name\":\"袋装饼干\",\"image\":\"https://i0.hdslb.com/bfs/garb/9135d9e62f7c3c7e10d4e5b202812bd267a1885a.png\"},{\"name\":\"方饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/81ab95da099e53f2c5e90e3caff3d53e62367335.png\"},{\"name\":\"威化饼干\",\"image\":\"https://i0.hdslb.com/bfs/garb/be23cef81275a8a85dffefaf27befe84c7c713d4.png\"},{\"name\":\"蓝莓\",\"image\":\"https://i0.hdslb.com/bfs/garb/d55299bacdefc24eb311f80feb9c9a2a1ad93eda.png\"},{\"name\":\"雪糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9537afdc09b8441f744748ed74c2b097bccd6d5.png\"},{\"name\":\"曲奇棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/d4777d1e3d2f18211a828e2b3a9b07a59391ece3.png\"},{\"name\":\"巧克力方饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f0b2da622869ce05b887e76514bc2c4eecaaadd.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_华夫饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/77e133e6386d654cc76802f37e7de4cfe5c1be40.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_圆饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/abdf732949b5792fe1297de176db5bca315eb73f.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_威化饼干]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/be23cef81275a8a85dffefaf27befe84c7c713d4.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_小熊宝宝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8cf1ec80ecccea7053dfd541d76647e3453c0947.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_小狗宝宝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e122b277eb0596b4576e92f8cab458d908f9d5dd.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_小猫宝宝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/434c58109d1bad218f267e6d5359f950deb506b1.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_巧克力方饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1f0b2da622869ce05b887e76514bc2c4eecaaadd.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_方糖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8938f7f1f19ebf48240c2fe14c802dbdf7d19662.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_方饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/81ab95da099e53f2c5e90e3caff3d53e62367335.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_曲奇棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d4777d1e3d2f18211a828e2b3a9b07a59391ece3.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_松饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f5998ef2a2f6083c056a7a5e920e1f4ae384a7f0.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_纸杯蛋糕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f666199f6b3d8aa78cf59b4566d79c6347b4bcb8.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_蓝莓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d55299bacdefc24eb311f80feb9c9a2a1ad93eda.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_袋装饼干]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9135d9e62f7c3c7e10d4e5b202812bd267a1885a.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[曲奇绵绵_雪糕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a9537afdc09b8441f744748ed74c2b097bccd6d5.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1734072936001,
 				"name":"曲奇绵绵",
-				"tab_id":0,
 				"suit_item_id":234843901,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1734071668001,
 				"name":"曲奇绵绵",
-				"tab_id":0,
 				"suit_item_id":234843901,
 				"properties":{
 					"fan_no_color":"#ffffff",

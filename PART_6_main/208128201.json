@@ -36,7 +36,6 @@
 			{
 				"item_id":1710733497001,
 				"name":"奈包",
-				"tab_id":0,
 				"suit_item_id":208128201,
 				"properties":{
 					"fan_no_color":"#C76767",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1710733497002,
 				"name":"奈包粉丝",
-				"tab_id":0,
 				"suit_item_id":208128201,
 				"properties":{
 					"fan_no_color":"#C76767",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1710733542001,
 				"name":"小奈奈",
-				"tab_id":0,
 				"suit_item_id":208128201,
 				"properties":{
 					"fan_no_color":"#C26565",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1710732029001,
 				"name":"奈包",
-				"tab_id":0,
 				"suit_item_id":208128201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b42c2d3d8230a90241d968aee5483776bd7a5558.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"滋你\",\"image\":\"https://i0.hdslb.com/bfs/garb/df5bc8682f43df94cbc381abaa3c96869c346dc5.png\"},{\"name\":\"无语2\",\"image\":\"https://i0.hdslb.com/bfs/garb/45e1e759c85d82cb10de42ca565b8a036931c3fd.png\"},{\"name\":\"为了遇见你\",\"image\":\"https://i0.hdslb.com/bfs/garb/03cfde359b652087f21bd2e3df3e1535ce51f203.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f1e3e4d5f1371dad6ddef911d361604f36ce1ec.png\"},{\"name\":\"叹气\",\"image\":\"https://i0.hdslb.com/bfs/garb/23dc50c7f0ff494b3b6dd3869897e549e5400221.png\"},{\"name\":\"乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/99d978f7eb4ff3c667eb632c27d4cad1568b4664.png\"},{\"name\":\"哔~\",\"image\":\"https://i0.hdslb.com/bfs/garb/6445c9fb8bf5c348a649f3434558f83dc6ea23c4.png\"},{\"name\":\"失落\",\"image\":\"https://i0.hdslb.com/bfs/garb/1713847e1acad9b18b27718e1a87cc35f6bbddd0.png\"},{\"name\":\"盯~\",\"image\":\"https://i0.hdslb.com/bfs/garb/49d3eb50328a2c7987f5b9b8bf0a35a601d8a71a.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca5c01373e99a7e615f85c77cedcb4422054025f.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/a103f04adadf03c0ea41e648062ef41edb3ae592.png\"},{\"name\":\"打咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/aecc6cb8afb21da1d7d61b88e140ae0f39f3bf1b.png\"},{\"name\":\"给你一拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/73514d30243cc712b1006893232f4d3c10128207.png\"},{\"name\":\"快逃\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3d3c87d50992940a5de431bcf908e5fe3c1b9fe.png\"},{\"name\":\"飞吻\",\"image\":\"https://i0.hdslb.com/bfs/garb/940f02d470e83ff431721dbe3b92c63d1cce0108.png\"},{\"name\":\"趴~\",\"image\":\"https://i0.hdslb.com/bfs/garb/563c29c8c8f4ce9131d73669090a520f5303ee2d.png\"},{\"name\":\"摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ecbe95606ed6d3ebc3e51c1181d978fc6e8a97b.png\"},{\"name\":\"6\",\"image\":\"https://i0.hdslb.com/bfs/garb/cfc3c85f52e893bfbc174de15bea5b7c0bad7c97.png\"},{\"name\":\"服了\",\"image\":\"https://i0.hdslb.com/bfs/garb/fa42f7571a71ffbbc9e7dcc8102fdd1939313c0a.png\"},{\"name\":\"愤怒\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb2e7408118d2a5a88dce13d81f3088922593138.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_6]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cfc3c85f52e893bfbc174de15bea5b7c0bad7c97.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_为了遇见你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/03cfde359b652087f21bd2e3df3e1535ce51f203.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/99d978f7eb4ff3c667eb632c27d4cad1568b4664.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_叹气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/23dc50c7f0ff494b3b6dd3869897e549e5400221.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a103f04adadf03c0ea41e648062ef41edb3ae592.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_哔~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6445c9fb8bf5c348a649f3434558f83dc6ea23c4.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_失落]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1713847e1acad9b18b27718e1a87cc35f6bbddd0.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_快逃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c3d3c87d50992940a5de431bcf908e5fe3c1b9fe.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_愤怒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cb2e7408118d2a5a88dce13d81f3088922593138.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_打咩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aecc6cb8afb21da1d7d61b88e140ae0f39f3bf1b.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_摸头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5ecbe95606ed6d3ebc3e51c1181d978fc6e8a97b.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_无语2]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/45e1e759c85d82cb10de42ca565b8a036931c3fd.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4f1e3e4d5f1371dad6ddef911d361604f36ce1ec.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_服了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fa42f7571a71ffbbc9e7dcc8102fdd1939313c0a.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_滋你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/df5bc8682f43df94cbc381abaa3c96869c346dc5.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ca5c01373e99a7e615f85c77cedcb4422054025f.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_盯~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/49d3eb50328a2c7987f5b9b8bf0a35a601d8a71a.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_给你一拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/73514d30243cc712b1006893232f4d3c10128207.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_趴~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/563c29c8c8f4ce9131d73669090a520f5303ee2d.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[奈包_飞吻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/940f02d470e83ff431721dbe3b92c63d1cce0108.png",
 							"sale_type":"pay"
@@ -289,7 +264,6 @@
 			{
 				"item_id":1710736508001,
 				"name":"奈包",
-				"tab_id":0,
 				"suit_item_id":208128201,
 				"properties":{
 					"color":"#000000",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1710732636001,
 				"name":"琳奈的背景1",
-				"tab_id":0,
 				"suit_item_id":208128201,
 				"properties":{
 					"fan_no_color":"#ffffff",

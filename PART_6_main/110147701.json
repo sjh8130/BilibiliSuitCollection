@@ -36,7 +36,6 @@
 			{
 				"item_id":1681196839001,
 				"name":"咕咚幸运草",
-				"tab_id":0,
 				"suit_item_id":110147701,
 				"properties":{
 					"fan_no_color":"#F3C721",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1681196839002,
 				"name":"咕咚幸运草粉丝",
-				"tab_id":0,
 				"suit_item_id":110147701,
 				"properties":{
 					"fan_no_color":"#F3C721",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1681198634001,
 				"name":"咕咚幸运草",
-				"tab_id":0,
 				"suit_item_id":110147701,
 				"properties":{
 					"fan_no_color":"#EAC82D",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1681196916001,
 				"name":"咕咚幸运草",
-				"tab_id":0,
 				"suit_item_id":110147701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6867aeccd7f32d8d8f6abd65d7a669f55515d7c0.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"抓蝴蝶\",\"image\":\"https://i0.hdslb.com/bfs/garb/93e1c734c5ff79050216c4983ff7ea6a07c7d7bc.png\"},{\"name\":\"拍照\",\"image\":\"https://i0.hdslb.com/bfs/garb/6397b62e4776f7e239c94ad191c8988a2376536a.png\"},{\"name\":\"放风筝\",\"image\":\"https://i0.hdslb.com/bfs/garb/3736c833d9784157a84d8eafa02c028dfbd13a5d.png\"},{\"name\":\"摘花\",\"image\":\"https://i0.hdslb.com/bfs/garb/d676ed0790d0bac987cb8f6958c127a4bc19defe.png\"},{\"name\":\"一起玩\",\"image\":\"https://i0.hdslb.com/bfs/garb/74408770cebe723077221264341edf788b7fa985.png\"},{\"name\":\"哇塞\",\"image\":\"https://i0.hdslb.com/bfs/garb/cddbce4a32edad6cb749793ae09146a9f5d840dd.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/5fc4d29cf366cd9218b3a9466f882a848d6d9259.png\"},{\"name\":\"叠叠乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/70e80905c1a1cbd1f33034cef3edce38f59307d7.png\"},{\"name\":\"送礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b4984b15dd50bab979aa1bea14edf257b19d93e.png\"},{\"name\":\"好喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/bfb83be951344a9a36025a8d7020f57c2743372d.png\"},{\"name\":\"这是什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/8aa907e6270f7836e008b43c23629ac4336d23e4.png\"},{\"name\":\"送我\",\"image\":\"https://i0.hdslb.com/bfs/garb/944e318b7772cbff48155d17c50cfa7c4d93b219.png\"},{\"name\":\"OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/e03d794c3b084f0cfe27bda06c386f144e764bd8.png\"},{\"name\":\"NO\",\"image\":\"https://i0.hdslb.com/bfs/garb/163ca74d7f4e68d8eab0fe084e951b66de28d18f.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb769c5876e639e65e9c86754e2c03f383b2e8ee.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_NO]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/163ca74d7f4e68d8eab0fe084e951b66de28d18f.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_OK]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e03d794c3b084f0cfe27bda06c386f144e764bd8.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_一起玩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/74408770cebe723077221264341edf788b7fa985.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_叠叠乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/70e80905c1a1cbd1f33034cef3edce38f59307d7.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_哇塞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cddbce4a32edad6cb749793ae09146a9f5d840dd.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_好喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bfb83be951344a9a36025a8d7020f57c2743372d.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_抓蝴蝶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/93e1c734c5ff79050216c4983ff7ea6a07c7d7bc.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_拍照]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6397b62e4776f7e239c94ad191c8988a2376536a.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_摘花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d676ed0790d0bac987cb8f6958c127a4bc19defe.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_放风筝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3736c833d9784157a84d8eafa02c028dfbd13a5d.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cb769c5876e639e65e9c86754e2c03f383b2e8ee.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_这是什么]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8aa907e6270f7836e008b43c23629ac4336d23e4.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_送我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/944e318b7772cbff48155d17c50cfa7c4d93b219.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_送礼物]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7b4984b15dd50bab979aa1bea14edf257b19d93e.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[咕咚幸运草_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5fc4d29cf366cd9218b3a9466f882a848d6d9259.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1681199421001,
 				"name":"咕咚幸运草",
-				"tab_id":0,
 				"suit_item_id":110147701,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1681198899001,
 				"name":"咕咚幸运草",
-				"tab_id":0,
 				"suit_item_id":110147701,
 				"properties":{
 					"fan_no_color":"#ffffff",

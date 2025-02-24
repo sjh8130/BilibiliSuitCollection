@@ -35,7 +35,6 @@
 			{
 				"item_id":1709272691001,
 				"name":"一直吃谷一直爽",
-				"tab_id":0,
 				"suit_item_id":206142701,
 				"properties":{
 					"fan_no_color":"#F3B1AD",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1709272959001,
 				"name":"一直吃谷一直爽粉丝",
-				"tab_id":0,
 				"suit_item_id":206142701,
 				"properties":{
 					"fan_no_color":"#F3B1AD",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1709272945001,
 				"name":"一直吃谷一直爽",
-				"tab_id":0,
 				"suit_item_id":206142701,
 				"properties":{
 					"fan_no_color":"#F7A7A7",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1709264334001,
 				"name":"一直吃谷一直爽",
-				"tab_id":0,
 				"suit_item_id":206142701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ac401db45b584a679d19ee2a06079a79c878e3ff.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"买买买\",\"image\":\"https://i0.hdslb.com/bfs/garb/a6643c4e498b85c840eaed80c1b1ece64bab9865.png\"},{\"name\":\"私斋蒸鹅心\",\"image\":\"https://i0.hdslb.com/bfs/garb/523be81db056fb4cb8008af45575a03e204b3954.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f64584f48112d3bc3988189868911588ff3e8c2.png\"},{\"name\":\"好吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8b0a3ec50e1079fc77a3094b46b651b70774855.png\"},{\"name\":\"钱包空了\",\"image\":\"https://i0.hdslb.com/bfs/garb/db00ee402226abdc3b9aecfb93452d886fe9bca8.png\"},{\"name\":\"拆快递\",\"image\":\"https://i0.hdslb.com/bfs/garb/1bb82f6cc4ce3441c792713d040ca2815ffad5b8.png\"},{\"name\":\"展示实力\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b1b3fb4144462be9f17f16ddcba764636fa10c7.png\"},{\"name\":\"好有实力\",\"image\":\"https://i0.hdslb.com/bfs/garb/167f8e181a80dd15b9aae7e0d3f0dc68475ac1a7.png\"},{\"name\":\"舔\",\"image\":\"https://i0.hdslb.com/bfs/garb/53eff8ca1b4509a85405d6251e956cb6d12c0b1d.png\"},{\"name\":\"我服了\",\"image\":\"https://i0.hdslb.com/bfs/garb/e440a58ed70da3b9e4bddca56b35ec1609fb6b4f.png\"},{\"name\":\"穷\",\"image\":\"https://i0.hdslb.com/bfs/garb/ebe24624a8090f2e8e033bbfed6fd334c95b40a9.png\"},{\"name\":\"吃谷\",\"image\":\"https://i0.hdslb.com/bfs/garb/47b2a1fcfa4365627ba8250f2f3e5e88b96b4223.png\"},{\"name\":\"停谷\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c72a962748e83c38d6075a7cbd71b6f98c169cc.png\"},{\"name\":\"又买了\",\"image\":\"https://i0.hdslb.com/bfs/garb/177170fd8cd1ab2b76cbb675089fe0b81426413e.png\"},{\"name\":\"全部\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf56596b915c8c515591444cd5d6961c5d672cce.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_买买买]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a6643c4e498b85c840eaed80c1b1ece64bab9865.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_停谷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3c72a962748e83c38d6075a7cbd71b6f98c169cc.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_全部]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bf56596b915c8c515591444cd5d6961c5d672cce.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_又买了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/177170fd8cd1ab2b76cbb675089fe0b81426413e.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_吃谷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/47b2a1fcfa4365627ba8250f2f3e5e88b96b4223.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_好吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a8b0a3ec50e1079fc77a3094b46b651b70774855.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_好有实力]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/167f8e181a80dd15b9aae7e0d3f0dc68475ac1a7.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_展示实力]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9b1b3fb4144462be9f17f16ddcba764636fa10c7.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_我服了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e440a58ed70da3b9e4bddca56b35ec1609fb6b4f.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_拆快递]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1bb82f6cc4ce3441c792713d040ca2815ffad5b8.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_私斋蒸鹅心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/523be81db056fb4cb8008af45575a03e204b3954.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_穷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ebe24624a8090f2e8e033bbfed6fd334c95b40a9.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_舔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/53eff8ca1b4509a85405d6251e956cb6d12c0b1d.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3f64584f48112d3bc3988189868911588ff3e8c2.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[一直吃谷一直爽_钱包空了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db00ee402226abdc3b9aecfb93452d886fe9bca8.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1709273440001,
 				"name":"一直吃谷一直爽",
-				"tab_id":0,
 				"suit_item_id":206142701,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1709273065001,
 				"name":"一直吃谷一直爽",
-				"tab_id":0,
 				"suit_item_id":206142701,
 				"properties":{
 					"fan_no_color":"#ffffff",

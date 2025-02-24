@@ -35,7 +35,6 @@
 			{
 				"item_id":1716361347001,
 				"name":"小黄豆的饭",
-				"tab_id":0,
 				"suit_item_id":214454001,
 				"properties":{
 					"fan_no_color":"#F9C91F",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1716361347002,
 				"name":"小黄豆的饭粉丝",
-				"tab_id":0,
 				"suit_item_id":214454001,
 				"properties":{
 					"fan_no_color":"#F9C91F",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1716361380001,
 				"name":"小黄豆的饭",
-				"tab_id":0,
 				"suit_item_id":214454001,
 				"properties":{
 					"fan_no_color":"#F9C91F",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1716361241001,
 				"name":"小黄豆的饭",
-				"tab_id":0,
 				"suit_item_id":214454001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/910361bdb570fdc00867a9792d1519c20ac851b1.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"做饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/9566f5778cb871e8349772b7de6a65a13436ed77.png\"},{\"name\":\"国宴\",\"image\":\"https://i0.hdslb.com/bfs/garb/916d5619250897637f50b47271c7fd47a68663de.png\"},{\"name\":\"不好吃？\",\"image\":\"https://i0.hdslb.com/bfs/garb/cadfbbd59c47458ace17ac30dc0eb7f79bac80c8.png\"},{\"name\":\"我装的\",\"image\":\"https://i0.hdslb.com/bfs/garb/8702a2933b89fa8ad377d5fde66877ef4e15257a.png\"},{\"name\":\"不妙的\",\"image\":\"https://i0.hdslb.com/bfs/garb/c242fdc85ddeee5099ed7f048924d2c0eaa5c04b.png\"},{\"name\":\"呆胶布\",\"image\":\"https://i0.hdslb.com/bfs/garb/136ad526a143e6e3aeeb4610b981439565250609.png\"},{\"name\":\"兄弟\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d0aac0d17790f10fd6bfe81afab12d8ffda6f40.png\"},{\"name\":\"炫彩的\",\"image\":\"https://i0.hdslb.com/bfs/garb/6272cee58e124fc3cc0dad6a9d916c8784a6de66.png\"},{\"name\":\"干饭时间\",\"image\":\"https://i0.hdslb.com/bfs/garb/03fa911a09b60c06bcc72551ce6f9c454898dbde.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c10f96a8d55581263c70ffcc8edf3f86d4144ca.png\"},{\"name\":\"我还是装的\",\"image\":\"https://i0.hdslb.com/bfs/garb/362958c1fc218c72448f374fa6b72d98cc9f1203.png\"},{\"name\":\"我？\",\"image\":\"https://i0.hdslb.com/bfs/garb/fea358d5a917e50869258dfc2e30bc3a2c90d5af.png\"},{\"name\":\"燃起来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/975f3438e97b4293a91176d82263d601980826d7.png\"},{\"name\":\"好看爱看\",\"image\":\"https://i0.hdslb.com/bfs/garb/2894456f5cf0b4afceea5e8ab5f919b160155755.png\"},{\"name\":\"饭呢！？\",\"image\":\"https://i0.hdslb.com/bfs/garb/04af1436f604a3e2545c8313fa0f825509ca843b.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_不好吃？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cadfbbd59c47458ace17ac30dc0eb7f79bac80c8.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_不妙的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c242fdc85ddeee5099ed7f048924d2c0eaa5c04b.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_做饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9566f5778cb871e8349772b7de6a65a13436ed77.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_兄弟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9d0aac0d17790f10fd6bfe81afab12d8ffda6f40.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_呆胶布]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/136ad526a143e6e3aeeb4610b981439565250609.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_国宴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/916d5619250897637f50b47271c7fd47a68663de.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_好看爱看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2894456f5cf0b4afceea5e8ab5f919b160155755.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_干饭时间]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/03fa911a09b60c06bcc72551ce6f9c454898dbde.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_思考]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1c10f96a8d55581263c70ffcc8edf3f86d4144ca.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_我装的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8702a2933b89fa8ad377d5fde66877ef4e15257a.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_我还是装的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/362958c1fc218c72448f374fa6b72d98cc9f1203.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_我？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fea358d5a917e50869258dfc2e30bc3a2c90d5af.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_炫彩的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6272cee58e124fc3cc0dad6a9d916c8784a6de66.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_燃起来了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/975f3438e97b4293a91176d82263d601980826d7.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[小黄豆的饭_饭呢！？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/04af1436f604a3e2545c8313fa0f825509ca843b.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1716362399001,
 				"name":"小黄豆的饭",
-				"tab_id":0,
 				"suit_item_id":214454001,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1716513951001,
 				"name":"小黄豆的饭2.0",
-				"tab_id":0,
 				"suit_item_id":214454001,
 				"properties":{
 					"fan_no_color":"#ffffff",

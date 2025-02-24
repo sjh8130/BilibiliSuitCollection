@@ -36,7 +36,6 @@
 			{
 				"item_id":1705400690001,
 				"name":"小猫乐园卡片",
-				"tab_id":0,
 				"suit_item_id":201756801,
 				"properties":{
 					"fan_no_color":"#F33277",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1705400690002,
 				"name":"小猫乐园卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":201756801,
 				"properties":{
 					"fan_no_color":"#F33277",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1705487854001,
 				"name":"小猫评论",
-				"tab_id":0,
 				"suit_item_id":201756801,
 				"properties":{
 					"fan_no_color":"#FC90B8",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1705487337001,
 				"name":"秘密表情包",
-				"tab_id":0,
 				"suit_item_id":201756801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7adeafaf69a8ab15d0cb36f2ee8c8a9339fd8d6e.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"sorry\",\"image\":\"https://i0.hdslb.com/bfs/garb/237bb9f00542b57f3ae7a30cbc6ee5aa70a32931.png\"},{\"name\":\"好好干活\",\"image\":\"https://i0.hdslb.com/bfs/garb/acf4be940497d91923d46032e3df66a77155e305.png\"},{\"name\":\"单推\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae611f93b9061ee177df2164de09dd848a22fbbe.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/35d2234bef45045da17d281847f6b5e5b2948d46.png\"},{\"name\":\"投降\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4879d7132e6235b5f7348f33d797e947658801a.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/c68c852edd5a5db138e73ec5b0fbe61cd356fd2e.png\"},{\"name\":\"哇哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7076ffbcabc1d7193084e18db73265aaeafaa53.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/87854c4d848da8a574391d02d636902ba6719b1e.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c35194f1042496acbe326b49d2861e8dd16eb48.png\"},{\"name\":\"召唤猪咪\",\"image\":\"https://i0.hdslb.com/bfs/garb/e92b0c5219e2eb343e1663ebe1f07fe3a97435ac.png\"},{\"name\":\"你完了\",\"image\":\"https://i0.hdslb.com/bfs/garb/6dcdeb26e7cbef040a39c43ff7b5989ac952f1d2.png\"},{\"name\":\"坏笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/44260b38f3d2e192ce9144065d0e9de20c1094df.png\"},{\"name\":\"宕机\",\"image\":\"https://i0.hdslb.com/bfs/garb/a84fe3e64d37346c5dcf99f33461014597b49975.png\"},{\"name\":\"别偷懒\",\"image\":\"https://i0.hdslb.com/bfs/garb/819f1df18a63580f078caa4edd418a5a034e4f25.png\"},{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/593f884419b5c8fac5289269fc06ae15908025c9.png\"},{\"name\":\"加油！\",\"image\":\"https://i0.hdslb.com/bfs/garb/1653e8784d85f711c1efa84d7043d0251cd5d94a.png\"},{\"name\":\"急了\",\"image\":\"https://i0.hdslb.com/bfs/garb/88bcb28dbe136e8a151205d1379a5127934bd6cd.png\"},{\"name\":\"你爹来咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/5703dff3e66fb349129d3b51eecd9419f5943da9.png\"},{\"name\":\"气球\",\"image\":\"https://i0.hdslb.com/bfs/garb/669b8cfee8fb56f474b286a8a3b081b604ff1170.png\"},{\"name\":\"抱大腿\",\"image\":\"https://i0.hdslb.com/bfs/garb/f113682d4884a190b3508008eefd608f7bf22d17.png\"},{\"name\":\"就这？\",\"image\":\"https://i0.hdslb.com/bfs/garb/662fb94b9df8065867be075197f0adf394e6bb95.png\"},{\"name\":\"麦门\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b740136c7c53e0ca7c5c162b10b97bc5a61c558.png\"},{\"name\":\"盯~\",\"image\":\"https://i0.hdslb.com/bfs/garb/f69c3f39ae664141f4a3fd307da890f1b351f2ac.png\"},{\"name\":\"钞能力\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc1a3cd22b17f3a66d8dd6d7cd6e7c52d29be71c.png\"},{\"name\":\"老板大气\",\"image\":\"https://i0.hdslb.com/bfs/garb/1edd8e41e65711e7557b60816b49cfb65e4fe78d.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_sorry]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/237bb9f00542b57f3ae7a30cbc6ee5aa70a32931.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_亲亲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/593f884419b5c8fac5289269fc06ae15908025c9.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_你完了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6dcdeb26e7cbef040a39c43ff7b5989ac952f1d2.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_你爹来咯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5703dff3e66fb349129d3b51eecd9419f5943da9.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_别偷懒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/819f1df18a63580f078caa4edd418a5a034e4f25.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/87854c4d848da8a574391d02d636902ba6719b1e.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_加油！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1653e8784d85f711c1efa84d7043d0251cd5d94a.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_单推]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ae611f93b9061ee177df2164de09dd848a22fbbe.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_召唤猪咪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e92b0c5219e2eb343e1663ebe1f07fe3a97435ac.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_哇哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c7076ffbcabc1d7193084e18db73265aaeafaa53.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_坏笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/44260b38f3d2e192ce9144065d0e9de20c1094df.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_好好干活]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/acf4be940497d91923d46032e3df66a77155e305.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_宕机]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a84fe3e64d37346c5dcf99f33461014597b49975.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_就这？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/662fb94b9df8065867be075197f0adf394e6bb95.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/35d2234bef45045da17d281847f6b5e5b2948d46.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_急了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/88bcb28dbe136e8a151205d1379a5127934bd6cd.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_投降]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e4879d7132e6235b5f7348f33d797e947658801a.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_抱大腿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f113682d4884a190b3508008eefd608f7bf22d17.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_气球]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/669b8cfee8fb56f474b286a8a3b081b604ff1170.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c68c852edd5a5db138e73ec5b0fbe61cd356fd2e.png",
 							"sale_type":"pay"
@@ -285,7 +260,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c35194f1042496acbe326b49d2861e8dd16eb48.png",
 							"sale_type":"pay"
@@ -294,7 +268,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_盯~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f69c3f39ae664141f4a3fd307da890f1b351f2ac.png",
 							"sale_type":"pay"
@@ -303,7 +276,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_老板大气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1edd8e41e65711e7557b60816b49cfb65e4fe78d.png",
 							"sale_type":"pay"
@@ -312,7 +284,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_钞能力]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc1a3cd22b17f3a66d8dd6d7cd6e7c52d29be71c.png",
 							"sale_type":"pay"
@@ -321,7 +292,6 @@
 					{
 						"item_id":0,
 						"name":"[秘密表情包_麦门]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7b740136c7c53e0ca7c5c162b10b97bc5a61c558.png",
 							"sale_type":"pay"
@@ -334,7 +304,6 @@
 			{
 				"item_id":1705487960001,
 				"name":"小猫来啦加载动画",
-				"tab_id":0,
 				"suit_item_id":201756801,
 				"properties":{
 					"goods_type":"suit",
@@ -349,7 +318,6 @@
 			{
 				"item_id":1705487993001,
 				"name":"小猫来啦进度条",
-				"tab_id":0,
 				"suit_item_id":201756801,
 				"properties":{
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/dd0ef139dc629f5705601654c1de2919d5e0a1a8.png",
@@ -366,7 +334,6 @@
 			{
 				"item_id":1705487748001,
 				"name":"小猫封面",
-				"tab_id":0,
 				"suit_item_id":201756801,
 				"properties":{
 					"color":"#000000",
@@ -407,7 +374,6 @@
 			{
 				"item_id":1705487494001,
 				"name":"小猫背景",
-				"tab_id":0,
 				"suit_item_id":201756801,
 				"properties":{
 					"fan_no_color":"#ffffff",
@@ -437,7 +403,6 @@
 			{
 				"item_id":1705487880001,
 				"name":"小猫来啦动态点赞",
-				"tab_id":0,
 				"suit_item_id":201756801,
 				"properties":{
 					"goods_type":"suit",

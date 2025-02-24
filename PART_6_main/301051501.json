@@ -35,7 +35,6 @@
 			{
 				"item_id":1736489969001,
 				"name":"森林小店",
-				"tab_id":0,
 				"suit_item_id":301051501,
 				"properties":{
 					"fan_no_color":"#EBBC77",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1736499968001,
 				"name":"森林小店粉丝",
-				"tab_id":0,
 				"suit_item_id":301051501,
 				"properties":{
 					"fan_no_color":"#EBBC77",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1736481591001,
 				"name":"森林小店",
-				"tab_id":0,
 				"suit_item_id":301051501,
 				"properties":{
 					"fan_no_color":"#EBBC77",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1736480998001,
 				"name":"森林商店",
-				"tab_id":0,
 				"suit_item_id":301051501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5e6b7105162a9e4b1ff9c52c05245f57c29a3c61.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/9791cc136f6d935e899f621f7456d2dfbb9df7f1.png\"},{\"name\":\"寻找\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8603b05a758a3c8a03eb45e26f3b7fc3a93fc83.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/b09a67564265d367da61f048971dcd223f89b4af.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/8293ccc6bde4384788aecfb9cd47ac95bf1abe89.png\"},{\"name\":\"给钱\",\"image\":\"https://i0.hdslb.com/bfs/garb/017432883a33c21a3e62f55ded0dd0e4f55c44f0.png\"},{\"name\":\"打盹\",\"image\":\"https://i0.hdslb.com/bfs/garb/1cd1c1ffee36fefa9d842088e05d11d7fbf04f25.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/874931ba74d90973716fccd90e1ea2be1686b9cc.png\"},{\"name\":\"被生活搓圆\",\"image\":\"https://i0.hdslb.com/bfs/garb/197de082ae310da7d24b74a600545199b32f9247.png\"},{\"name\":\"被生活压扁\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3b1ee050011de8bd1fa9006e8c2d94acf7a7eea.png\"},{\"name\":\"打扫\",\"image\":\"https://i0.hdslb.com/bfs/garb/db6af633770ba385c228d5c7a62efff0873e4bef.png\"},{\"name\":\"分享\",\"image\":\"https://i0.hdslb.com/bfs/garb/db2ebdd607d46f22af8a5ece609d2501288006ce.png\"},{\"name\":\"高贵\",\"image\":\"https://i0.hdslb.com/bfs/garb/259e0215db8ab93537cacde9a5512ce8e6115749.png\"},{\"name\":\"默默流泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/51abb5ba500f67eb116619a569387d52a8643b52.png\"},{\"name\":\"躲藏\",\"image\":\"https://i0.hdslb.com/bfs/garb/d09f1230f8a35c0929f612f4bfc9bbf51d289ef1.png\"},{\"name\":\"吃苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/2cbfd7a9f8046d273127f038b754ba569b789cd0.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_分享]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db2ebdd607d46f22af8a5ece609d2501288006ce.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_吃苹果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2cbfd7a9f8046d273127f038b754ba569b789cd0.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/874931ba74d90973716fccd90e1ea2be1686b9cc.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_寻找]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a8603b05a758a3c8a03eb45e26f3b7fc3a93fc83.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_打扫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db6af633770ba385c228d5c7a62efff0873e4bef.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_打盹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1cd1c1ffee36fefa9d842088e05d11d7fbf04f25.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8293ccc6bde4384788aecfb9cd47ac95bf1abe89.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_给钱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/017432883a33c21a3e62f55ded0dd0e4f55c44f0.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_被生活压扁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e3b1ee050011de8bd1fa9006e8c2d94acf7a7eea.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_被生活搓圆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/197de082ae310da7d24b74a600545199b32f9247.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b09a67564265d367da61f048971dcd223f89b4af.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_躲藏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d09f1230f8a35c0929f612f4bfc9bbf51d289ef1.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_送花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9791cc136f6d935e899f621f7456d2dfbb9df7f1.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_高贵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/259e0215db8ab93537cacde9a5512ce8e6115749.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[森林商店_默默流泪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/51abb5ba500f67eb116619a569387d52a8643b52.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1736497799001,
 				"name":"森林小店",
-				"tab_id":0,
 				"suit_item_id":301051501,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1736405259001,
 				"name":"森林小屋",
-				"tab_id":0,
 				"suit_item_id":301051501,
 				"properties":{
 					"fan_no_color":"#ffffff",

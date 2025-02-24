@@ -36,7 +36,6 @@
 			{
 				"item_id":1706075412001,
 				"name":"秋日猫猫",
-				"tab_id":0,
 				"suit_item_id":202441901,
 				"properties":{
 					"fan_no_color":"#E7812E",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1706075412002,
 				"name":"秋日猫猫粉丝",
-				"tab_id":0,
 				"suit_item_id":202441901,
 				"properties":{
 					"fan_no_color":"#E7812E",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1706075782001,
 				"name":"秋日猫猫",
-				"tab_id":0,
 				"suit_item_id":202441901,
 				"properties":{
 					"fan_no_color":"#E7812E",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1706075479001,
 				"name":"秋日猫猫",
-				"tab_id":0,
 				"suit_item_id":202441901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/3e271852ec74370485a04ea0a2d473d5de222080.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"好无聊\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1fac5124517a0e074761bb81498bffde2eacc47.png\"},{\"name\":\"下雨了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e4b8d21dd32e3a16de4496377b151b53204cc23.png\"},{\"name\":\"生气你猜\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb96c4e9dd7ede32a38f3b5571a3ed17a022a5c0.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed3a579acc9aae4d626f305f0768c41edc4b95ca.png\"},{\"name\":\"好可怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/86bc4d504c7ddef108ff881740c55f31defc3d05.png\"},{\"name\":\"神机妙算\",\"image\":\"https://i0.hdslb.com/bfs/garb/1064d6de3f7005330eb7eafc30f59b42dd6aa920.png\"},{\"name\":\"嘿嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe10c8269db80fcc58b64dd37c5cc2f517cbb92a.png\"},{\"name\":\"笔芯\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6fcec0b60338d8185681315b8ea1c2532475e9a.png\"},{\"name\":\"哎呦\",\"image\":\"https://i0.hdslb.com/bfs/garb/98f745d29f3f14c6218b7f169ad019d950e96a87.png\"},{\"name\":\"哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/f098af41d0dba3dcfc37b773704f2f022ad88d31.png\"},{\"name\":\"达咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/9861ea8aaf367f10f90af55e884282016fec8c32.png\"},{\"name\":\"晚安鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/3fe575bb053f19adc18f6a567ca58d4f446cae0e.png\"},{\"name\":\"不服\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc9fa8f46f535d58579fc8fb919220c60b16e774.png\"},{\"name\":\"要贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6a106245c74ea0dd92441bd33c5c5319939ce58.png\"},{\"name\":\"狂吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/f811395af72c35b4933c6bfafb32c119c47e32eb.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_下雨了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7e4b8d21dd32e3a16de4496377b151b53204cc23.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_不服]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dc9fa8f46f535d58579fc8fb919220c60b16e774.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_哎呦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/98f745d29f3f14c6218b7f169ad019d950e96a87.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f098af41d0dba3dcfc37b773704f2f022ad88d31.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_嘿嘿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fe10c8269db80fcc58b64dd37c5cc2f517cbb92a.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_好可怕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/86bc4d504c7ddef108ff881740c55f31defc3d05.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_好无聊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c1fac5124517a0e074761bb81498bffde2eacc47.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_委屈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ed3a579acc9aae4d626f305f0768c41edc4b95ca.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_晚安鸟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3fe575bb053f19adc18f6a567ca58d4f446cae0e.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_狂吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f811395af72c35b4933c6bfafb32c119c47e32eb.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_生气你猜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cb96c4e9dd7ede32a38f3b5571a3ed17a022a5c0.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_神机妙算]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1064d6de3f7005330eb7eafc30f59b42dd6aa920.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_笔芯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e6fcec0b60338d8185681315b8ea1c2532475e9a.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_要贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b6a106245c74ea0dd92441bd33c5c5319939ce58.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[秋日猫猫_达咩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9861ea8aaf367f10f90af55e884282016fec8c32.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1706075729001,
 				"name":"秋日猫猫",
-				"tab_id":0,
 				"suit_item_id":202441901,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1706075520001,
 				"name":"秋日猫猫",
-				"tab_id":0,
 				"suit_item_id":202441901,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1714293455001,
 				"name":"你的强来了",
-				"tab_id":0,
 				"suit_item_id":211950301,
 				"properties":{
 					"fan_no_color":"#C60000",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1714300508001,
 				"name":"你的强来了粉丝",
-				"tab_id":0,
 				"suit_item_id":211950301,
 				"properties":{
 					"fan_no_color":"#C60000",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1714293644001,
 				"name":"你的强来了",
-				"tab_id":0,
 				"suit_item_id":211950301,
 				"properties":{
 					"fan_no_color":"#C60000",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1714293074001,
 				"name":"你的强来了",
-				"tab_id":0,
 				"suit_item_id":211950301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6afa80ddd3321f6e339bc64276700b8fa62a21ea.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"蠕动\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e948fa4c252731fa748258bdcf60779322ed1ec.png\"},{\"name\":\"out\",\"image\":\"https://i0.hdslb.com/bfs/garb/81577b70e46c94df96c3382a87445a637f52df42.png\"},{\"name\":\"阴暗的奔跑\",\"image\":\"https://i0.hdslb.com/bfs/garb/338e5ebb9e0868571d83b45eb8a1c5da02a5c182.png\"},{\"name\":\"一起爬\",\"image\":\"https://i0.hdslb.com/bfs/garb/02af813421cb98da5ca01c29f58ca683f180a714.png\"},{\"name\":\"阴暗的爬行\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9fe7a4c83be3d01b8c4d17a3b23d173afd7972e.png\"},{\"name\":\"穷笑了\",\"image\":\"https://i0.hdslb.com/bfs/garb/d20397a8015cdeeb8cb67e7e60384836c5e3b65d.png\"},{\"name\":\"晚安大小姐\",\"image\":\"https://i0.hdslb.com/bfs/garb/360a8dd949742374c4cd0c8378a48e561df7dec7.png\"},{\"name\":\"抽象不玩了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a90e05d70c4afced8fbe61e9025ffc4360cd49ee.png\"},{\"name\":\"阴暗的起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1271fa6641590f66ca21ff55814db213cf5d9aa.png\"},{\"name\":\"臣退了\",\"image\":\"https://i0.hdslb.com/bfs/garb/716fc9cfec5e74bf9d203441926202aee3fcf188.png\"},{\"name\":\"先天圣体\",\"image\":\"https://i0.hdslb.com/bfs/garb/e400b85f7199695bd55fe2a757b0e0d50f92cce8.png\"},{\"name\":\"给你一拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/7630e3422cab30a423fc3c23333929878d6c5b8f.png\"},{\"name\":\"明亮的爬行\",\"image\":\"https://i0.hdslb.com/bfs/garb/191f9ff522d9e0a935a413cea35822e95165b934.png\"},{\"name\":\"你的强来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/41f96ce1a83cf51d271a5eff748e796e2ccd9b2e.png\"},{\"name\":\"人生\",\"image\":\"https://i0.hdslb.com/bfs/garb/61e631fc0c217fb50d03bfc48b1010f0cd8c67e0.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_out]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/81577b70e46c94df96c3382a87445a637f52df42.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_一起爬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/02af813421cb98da5ca01c29f58ca683f180a714.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_人生]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/61e631fc0c217fb50d03bfc48b1010f0cd8c67e0.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_你的强来了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/41f96ce1a83cf51d271a5eff748e796e2ccd9b2e.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_先天圣体]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e400b85f7199695bd55fe2a757b0e0d50f92cce8.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_抽象不玩了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a90e05d70c4afced8fbe61e9025ffc4360cd49ee.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_明亮的爬行]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/191f9ff522d9e0a935a413cea35822e95165b934.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_晚安大小姐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/360a8dd949742374c4cd0c8378a48e561df7dec7.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_穷笑了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d20397a8015cdeeb8cb67e7e60384836c5e3b65d.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_给你一拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7630e3422cab30a423fc3c23333929878d6c5b8f.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_臣退了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/716fc9cfec5e74bf9d203441926202aee3fcf188.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_蠕动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8e948fa4c252731fa748258bdcf60779322ed1ec.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_阴暗的奔跑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/338e5ebb9e0868571d83b45eb8a1c5da02a5c182.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_阴暗的爬行]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e9fe7a4c83be3d01b8c4d17a3b23d173afd7972e.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[你的强来了_阴暗的起飞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d1271fa6641590f66ca21ff55814db213cf5d9aa.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1714293858001,
 				"name":"你的强来了",
-				"tab_id":0,
 				"suit_item_id":211950301,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1714293109001,
 				"name":"你的强来了",
-				"tab_id":0,
 				"suit_item_id":211950301,
 				"properties":{
 					"fan_no_color":"#ffffff",

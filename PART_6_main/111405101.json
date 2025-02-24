@@ -36,7 +36,6 @@
 			{
 				"item_id":1682270271001,
 				"name":"凛动态卡片",
-				"tab_id":0,
 				"suit_item_id":111405101,
 				"properties":{
 					"fan_no_color":"#EB5454",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1682270271002,
 				"name":"凛动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":111405101,
 				"properties":{
 					"fan_no_color":"#EB5454",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1682271748001,
 				"name":"凛评论背景",
-				"tab_id":0,
 				"suit_item_id":111405101,
 				"properties":{
 					"fan_no_color":"#C73838",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1682270838001,
 				"name":"凛表情包",
-				"tab_id":0,
 				"suit_item_id":111405101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f765b016f4cea27dd334d0aef45dd5e1e9fffbbd.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"手捧鲜花\",\"image\":\"https://i0.hdslb.com/bfs/garb/dfdcdf0d336b5454a5b2684b65836db54dc3b61c.png\"},{\"name\":\"绷不住了\",\"image\":\"https://i0.hdslb.com/bfs/garb/41e5de8901b3a43beb067c8a29dc81921076cbad.png\"},{\"name\":\"不好说了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c94b323901f7c97a6534071fabc78bdd71acc7b3.png\"},{\"name\":\"出警\",\"image\":\"https://i0.hdslb.com/bfs/garb/7939eaefa7ff29580195d5e4853cfb41650ae033.png\"},{\"name\":\"逮到\",\"image\":\"https://i0.hdslb.com/bfs/garb/c53c62b38ab62ea5d4dd74f92deade6ef9da20b5.png\"},{\"name\":\"出去！\",\"image\":\"https://i0.hdslb.com/bfs/garb/673e36068aad944c8eda983736fbb4529f44cfff.png\"},{\"name\":\"顶中顶\",\"image\":\"https://i0.hdslb.com/bfs/garb/fab6d5d676f58e5c87ece56d438e4c8a38a8efb8.png\"},{\"name\":\"懂该自懂\",\"image\":\"https://i0.hdslb.com/bfs/garb/a15b1792250e23849454d86373ec20882d9a2e47.png\"},{\"name\":\"润了\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c3bd737e3cc9d46f088dec54309231c091f697b.png\"},{\"name\":\"二次元\",\"image\":\"https://i0.hdslb.com/bfs/garb/e270eb36274f59f0d50213e98767d50fd45cff0d.png\"},{\"name\":\"动动脑啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/bbc1e848bbc1eb646222e945162598af9a4c74aa.png\"},{\"name\":\"累了\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdb7b9e1f1308233bd332663fd1e4e8d023e467c.png\"},{\"name\":\"辣眼睛\",\"image\":\"https://i0.hdslb.com/bfs/garb/2fd2752dcda3908ec8aa2c9a928d108fbd1d69ac.png\"},{\"name\":\"退钱\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1b2a6bcbe0c4cb65ef717143d8d106dda192701.png\"},{\"name\":\"结婚\",\"image\":\"https://i0.hdslb.com/bfs/garb/0039ed165af9c53fdf98823ec7f98e2cb8cf3312.png\"},{\"name\":\"装起来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e5c851540cabfc2efe01f68945f2eead132d9bc.png\"},{\"name\":\"泪目\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd3f157af648a473b6fbf44ca3a73afdd5389ba6.png\"},{\"name\":\"逆天\",\"image\":\"https://i0.hdslb.com/bfs/garb/af1622e1730f3ce2808df5a1a9e0c6505a83a387.png\"},{\"name\":\"好听\",\"image\":\"https://i0.hdslb.com/bfs/garb/790dcef0578a9ed0f95b5dff43837467fa54cb02.png\"},{\"name\":\"唱歌\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdbdb23aa5cf92582c35e397d87518c4132c4cc1.png\"},{\"name\":\"祝福你\",\"image\":\"https://i0.hdslb.com/bfs/garb/a57a03a33efaf3fa26002b6e1ea11f6f0faaa8ee.png\"},{\"name\":\"收收米\",\"image\":\"https://i0.hdslb.com/bfs/garb/1938d1b139c68c49f664c86f0c2c428947c6cd1f.png\"},{\"name\":\"小黑子\",\"image\":\"https://i0.hdslb.com/bfs/garb/860df1e8617173c52c0554d1bf146707587ce25f.png\"},{\"name\":\"战狼\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf0d627c9fa7b797d0f77493a4659d0045e6617e.png\"},{\"name\":\"无所谓了\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7d785863101ccc09d1c04f00cf41df33d1853bc.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_不好说了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c94b323901f7c97a6534071fabc78bdd71acc7b3.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_二次元]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e270eb36274f59f0d50213e98767d50fd45cff0d.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_出去！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/673e36068aad944c8eda983736fbb4529f44cfff.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_出警]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7939eaefa7ff29580195d5e4853cfb41650ae033.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_动动脑啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bbc1e848bbc1eb646222e945162598af9a4c74aa.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_唱歌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bdbdb23aa5cf92582c35e397d87518c4132c4cc1.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_好听]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/790dcef0578a9ed0f95b5dff43837467fa54cb02.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_小黑子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/860df1e8617173c52c0554d1bf146707587ce25f.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_懂该自懂]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a15b1792250e23849454d86373ec20882d9a2e47.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_战狼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bf0d627c9fa7b797d0f77493a4659d0045e6617e.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_手捧鲜花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dfdcdf0d336b5454a5b2684b65836db54dc3b61c.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_收收米]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1938d1b139c68c49f664c86f0c2c428947c6cd1f.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_无所谓了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e7d785863101ccc09d1c04f00cf41df33d1853bc.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_泪目]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fd3f157af648a473b6fbf44ca3a73afdd5389ba6.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_润了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c3bd737e3cc9d46f088dec54309231c091f697b.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_祝福你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a57a03a33efaf3fa26002b6e1ea11f6f0faaa8ee.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_累了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bdb7b9e1f1308233bd332663fd1e4e8d023e467c.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_结婚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0039ed165af9c53fdf98823ec7f98e2cb8cf3312.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_绷不住了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/41e5de8901b3a43beb067c8a29dc81921076cbad.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_装起来了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e5c851540cabfc2efe01f68945f2eead132d9bc.png",
 							"sale_type":"pay"
@@ -285,7 +260,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_辣眼睛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2fd2752dcda3908ec8aa2c9a928d108fbd1d69ac.png",
 							"sale_type":"pay"
@@ -294,7 +268,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_退钱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f1b2a6bcbe0c4cb65ef717143d8d106dda192701.png",
 							"sale_type":"pay"
@@ -303,7 +276,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_逆天]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af1622e1730f3ce2808df5a1a9e0c6505a83a387.png",
 							"sale_type":"pay"
@@ -312,7 +284,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_逮到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c53c62b38ab62ea5d4dd74f92deade6ef9da20b5.png",
 							"sale_type":"pay"
@@ -321,7 +292,6 @@
 					{
 						"item_id":0,
 						"name":"[凛表情包_顶中顶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fab6d5d676f58e5c87ece56d438e4c8a38a8efb8.png",
 							"sale_type":"pay"
@@ -334,7 +304,6 @@
 			{
 				"item_id":1682338773001,
 				"name":"凛加载动画",
-				"tab_id":0,
 				"suit_item_id":111405101,
 				"properties":{
 					"goods_type":"suit",
@@ -349,7 +318,6 @@
 			{
 				"item_id":1682338710001,
 				"name":"凛进度条",
-				"tab_id":0,
 				"suit_item_id":111405101,
 				"properties":{
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/c50c9c5e1417fd00f71892d856cf32333b101a3c.png",
@@ -366,7 +334,6 @@
 			{
 				"item_id":1682271550001,
 				"name":"凛个性主题",
-				"tab_id":0,
 				"suit_item_id":111405101,
 				"properties":{
 					"color":"#000000",
@@ -406,7 +373,6 @@
 			{
 				"item_id":1682271172001,
 				"name":"凛背景图",
-				"tab_id":0,
 				"suit_item_id":111405101,
 				"properties":{
 					"fan_no_color":"#ffffff",
@@ -430,7 +396,6 @@
 			{
 				"item_id":1682336631001,
 				"name":"凛动态点赞",
-				"tab_id":0,
 				"suit_item_id":111405101,
 				"properties":{
 					"goods_type":"suit",

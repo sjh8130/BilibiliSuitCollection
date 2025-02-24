@@ -35,7 +35,6 @@
 			{
 				"item_id":1737620840001,
 				"name":"新年新气象",
-				"tab_id":0,
 				"suit_item_id":302349801,
 				"properties":{
 					"fan_no_color":"#DD7367",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1737620840002,
 				"name":"新年新气象粉丝",
-				"tab_id":0,
 				"suit_item_id":302349801,
 				"properties":{
 					"fan_no_color":"#DD7367",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1737621191001,
 				"name":"新年新气象",
-				"tab_id":0,
 				"suit_item_id":302349801,
 				"properties":{
 					"fan_no_color":"#CF6D6D",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1737620510001,
 				"name":"新年新气象",
-				"tab_id":0,
 				"suit_item_id":302349801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d164d28156c6c3b47be25f71ac2c2ba65a01de13.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"展示红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/d37d6a83188de68835e86077866fe7e4ed34d733.png\"},{\"name\":\"拜年\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5e0ead558f4aa0ba07e44957577276236f8a6e2.png\"},{\"name\":\"暴富\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d0d33d73ba0a85f2d12fda7eb9af2f7c090d2ae.png\"},{\"name\":\"放鞭炮\",\"image\":\"https://i0.hdslb.com/bfs/garb/74dc4574ccc794ea00c0bc8d8d548f3d62a8b984.png\"},{\"name\":\"给红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/3be9e8e613fc18e5e7aa5148fece563267a2d74e.png\"},{\"name\":\"十连双金\",\"image\":\"https://i0.hdslb.com/bfs/garb/ccb9ab7230bc4a117b49fd9caba018b6ea922ce4.png\"},{\"name\":\"福\",\"image\":\"https://i0.hdslb.com/bfs/garb/3acbde7f5acd5b175119a4129ede4a4733255331.png\"},{\"name\":\"财源广进\",\"image\":\"https://i0.hdslb.com/bfs/garb/74d58c7480f3bda70c334ccc793cfdae817bf918.png\"},{\"name\":\"赠红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f89c6d2e089da049296b1497699270488c5afee.png\"},{\"name\":\"幸福包围\",\"image\":\"https://i0.hdslb.com/bfs/garb/eea001f91ea30174c2659d688a93752912539d94.png\"},{\"name\":\"饺子袭来\",\"image\":\"https://i0.hdslb.com/bfs/garb/5db641c5827095965bba077f70a264cbb0023211.png\"},{\"name\":\"福气\",\"image\":\"https://i0.hdslb.com/bfs/garb/c83223ff145b7198bc22ee0900338aeaa8b0636a.png\"},{\"name\":\"夺红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/24bb63aab3e4eeba8fc333120187cfe24682f33b.png\"},{\"name\":\"抢红包中\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8afbb9eb9637ef1428c80c523d1d159caf5bacd.png\"},{\"name\":\"抢夺红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/927611785c5676a2a863f600bab56279da4c3b72.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,53 +99,7 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[新年新气象_展示红包]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d37d6a83188de68835e86077866fe7e4ed34d733.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[新年新气象_拜年]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f5e0ead558f4aa0ba07e44957577276236f8a6e2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[新年新气象_暴富]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6d0d33d73ba0a85f2d12fda7eb9af2f7c090d2ae.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[新年新气象_放鞭炮]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/74dc4574ccc794ea00c0bc8d8d548f3d62a8b984.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[新年新气象_给红包]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3be9e8e613fc18e5e7aa5148fece563267a2d74e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[新年新气象_十连双金]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ccb9ab7230bc4a117b49fd9caba018b6ea922ce4.png",
 							"sale_type":"pay"
@@ -158,8 +107,71 @@
 					},
 					{
 						"item_id":0,
+						"name":"[新年新气象_夺红包]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/24bb63aab3e4eeba8fc333120187cfe24682f33b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[新年新气象_展示红包]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d37d6a83188de68835e86077866fe7e4ed34d733.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[新年新气象_幸福包围]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/eea001f91ea30174c2659d688a93752912539d94.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[新年新气象_抢夺红包]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/927611785c5676a2a863f600bab56279da4c3b72.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[新年新气象_抢红包中]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f8afbb9eb9637ef1428c80c523d1d159caf5bacd.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[新年新气象_拜年]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f5e0ead558f4aa0ba07e44957577276236f8a6e2.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[新年新气象_放鞭炮]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/74dc4574ccc794ea00c0bc8d8d548f3d62a8b984.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[新年新气象_暴富]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6d0d33d73ba0a85f2d12fda7eb9af2f7c090d2ae.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[新年新气象_福]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3acbde7f5acd5b175119a4129ede4a4733255331.png",
 							"sale_type":"pay"
@@ -167,8 +179,23 @@
 					},
 					{
 						"item_id":0,
+						"name":"[新年新气象_福气]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c83223ff145b7198bc22ee0900338aeaa8b0636a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[新年新气象_给红包]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3be9e8e613fc18e5e7aa5148fece563267a2d74e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[新年新气象_财源广进]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/74d58c7480f3bda70c334ccc793cfdae817bf918.png",
 							"sale_type":"pay"
@@ -177,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[新年新气象_赠红包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1f89c6d2e089da049296b1497699270488c5afee.png",
 							"sale_type":"pay"
@@ -185,55 +211,9 @@
 					},
 					{
 						"item_id":0,
-						"name":"[新年新气象_幸福包围]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/eea001f91ea30174c2659d688a93752912539d94.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[新年新气象_饺子袭来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5db641c5827095965bba077f70a264cbb0023211.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[新年新气象_福气]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c83223ff145b7198bc22ee0900338aeaa8b0636a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[新年新气象_夺红包]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/24bb63aab3e4eeba8fc333120187cfe24682f33b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[新年新气象_抢红包中]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f8afbb9eb9637ef1428c80c523d1d159caf5bacd.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[新年新气象_抢夺红包]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/927611785c5676a2a863f600bab56279da4c3b72.png",
 							"sale_type":"pay"
 						}
 					}
@@ -244,7 +224,6 @@
 			{
 				"item_id":1737621126001,
 				"name":"新年新气象",
-				"tab_id":0,
 				"suit_item_id":302349801,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1737620867001,
 				"name":"新年新气象",
-				"tab_id":0,
 				"suit_item_id":302349801,
 				"properties":{
 					"fan_no_color":"#ffffff",

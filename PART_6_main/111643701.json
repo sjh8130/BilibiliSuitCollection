@@ -35,7 +35,6 @@
 			{
 				"item_id":1682489443001,
 				"name":"可爱小黄豆",
-				"tab_id":0,
 				"suit_item_id":111643701,
 				"properties":{
 					"fan_no_color":"#FFD749",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1682490535001,
 				"name":"可爱小黄豆粉丝",
-				"tab_id":0,
 				"suit_item_id":111643701,
 				"properties":{
 					"fan_no_color":"#FFD749",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1682489475001,
 				"name":"可爱小黄豆",
-				"tab_id":0,
 				"suit_item_id":111643701,
 				"properties":{
 					"fan_no_color":"#6B4B40",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1682478143001,
 				"name":"可爱小黄豆",
-				"tab_id":0,
 				"suit_item_id":111643701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1b87a933af81d876722d3e9f6484277f1731a729.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/0da40c064c9ba4189638444288ca324a802b8adf.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/ebbef07126f885235d5162502dc6527f9f21b79e.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/a16723f16d9b8f26ae7d2117975ebadc044e0229.png\"},{\"name\":\"哦哦哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/52fca961dd81ba16ba2141fc9277f066a8090dfd.png\"},{\"name\":\"玫瑰\",\"image\":\"https://i0.hdslb.com/bfs/garb/90c26e017e406c1b5f140f004cff389b87ffc590.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f908a65c7836af9fc315721aec7005f172973d9.png\"},{\"name\":\"ok\",\"image\":\"https://i0.hdslb.com/bfs/garb/bbc1e2c4b554df82e176b52ffe9b947de5f91980.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7c6e1483d78e759c4515f0313db5335cf4f1395.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/489f5d3233d461251596abec3fa677748aa7a7ad.png\"},{\"name\":\"哭了\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c2df62d59a5d91a950a03339c1b919c4c38c18a.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/b67489c47c0e3f4982610150bff48e25152dc350.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/78fe0216cdc539ec17d04452fab80010d72f30de.png\"},{\"name\":\"白眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/37826f518c2b7efb8993fd104fb45e1512449a10.png\"},{\"name\":\"警告\",\"image\":\"https://i0.hdslb.com/bfs/garb/67473a5f6f455c132d802a4de653b8f0eb8fcd6f.png\"},{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/2268e16f90827a63cae8d7920f4ec5a1af9584ab.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_ok]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bbc1e2c4b554df82e176b52ffe9b947de5f91980.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_wink]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0da40c064c9ba4189638444288ca324a802b8adf.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_亲亲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2268e16f90827a63cae8d7920f4ec5a1af9584ab.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_哦哦哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/52fca961dd81ba16ba2141fc9277f066a8090dfd.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_哭了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0c2df62d59a5d91a950a03339c1b919c4c38c18a.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_啊？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e7c6e1483d78e759c4515f0313db5335cf4f1395.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/489f5d3233d461251596abec3fa677748aa7a7ad.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_委屈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b67489c47c0e3f4982610150bff48e25152dc350.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/78fe0216cdc539ec17d04452fab80010d72f30de.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7f908a65c7836af9fc315721aec7005f172973d9.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_流汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ebbef07126f885235d5162502dc6527f9f21b79e.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_玫瑰]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/90c26e017e406c1b5f140f004cff389b87ffc590.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a16723f16d9b8f26ae7d2117975ebadc044e0229.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_白眼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/37826f518c2b7efb8993fd104fb45e1512449a10.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[可爱小黄豆_警告]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/67473a5f6f455c132d802a4de653b8f0eb8fcd6f.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1682490255001,
 				"name":"可爱小黄豆",
-				"tab_id":0,
 				"suit_item_id":111643701,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1682489508001,
 				"name":"可爱小黄豆",
-				"tab_id":0,
 				"suit_item_id":111643701,
 				"properties":{
 					"fan_no_color":"#ffffff",

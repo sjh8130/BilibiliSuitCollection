@@ -1,11 +1,16 @@
 import json
 import os
+import sys
 import time
 from types import NoneType
+from typing import Any
+
+from tqdm import tqdm
 
 result: dict = {}
 if 1:
     DONT_CARE_INDEX_SEP: str = "IDX"
+    SW1 = False
     DONT_CARE_INDEX_LIST = {
         "root.finish_sources",
         "root.suit_items.card_bg",
@@ -25,6 +30,7 @@ if 1:
         "root.fan_user.avatar",
         "root.fan_user.mid",
         "root.fan_user.nickname",
+        "root.finish_sources[IDX].id",
         "root.finish_sources[IDX].jump_url",
         "root.finish_sources[IDX].time_from",
         "root.finish_sources[IDX].time_to",
@@ -236,7 +242,7 @@ def sort_final(item):
                 sort_final(itm)
 
 
-def analyze_structure(depth: int, item: int | str | list | dict | bool | None, target_key="root"):
+def analyze_structure(item: Any, target_key="root"):
     if target_key in S1:
         target_key = "root.suit_items.space_bg[IDX].properties.imageIDX_landscape"
     if target_key in S2:
@@ -248,21 +254,28 @@ def analyze_structure(depth: int, item: int | str | list | dict | bool | None, t
     if result.get(target_key) is None:
         result[target_key] = {"type": {}}
     _typ = type(item).__name__
-    if target_key in ("root.suit_items.emoji_package[IDX].properties.item_emoji_list", "root.suit_items.skin[IDX].properties.head_myself_mp4_bg_list"):
+    if target_key in (
+        "root.suit_items.emoji_package[IDX].properties.item_emoji_list",
+        "root.suit_items.skin[IDX].properties.head_myself_mp4_bg_list",
+    ):
         item = json.loads(item)  # type:ignore[reportOperatorIssue]
         _typ = "str_list"
     if _typ not in result[target_key]["type"]:
         result[target_key]["type"][_typ] = result[target_key]["type"].get(_typ, 0) + 1
     if isinstance(item, dict):
         for key, value in item.items():
-            analyze_structure(depth + 1, value, f"{target_key}.{key}")
+            analyze_structure(value, f"{target_key}.{key}")
     elif isinstance(item, list):
         for index, li in enumerate(item):
-            _tk = f"{target_key}[{DONT_CARE_INDEX_SEP}]" if target_key in DONT_CARE_INDEX_LIST else f"{target_key}[{index}]"
-            analyze_structure(depth + 1, li, _tk)
+            _tk = (
+                f"{target_key}[{DONT_CARE_INDEX_SEP}]"
+                if target_key in DONT_CARE_INDEX_LIST
+                else f"{target_key}[{index}]"
+            )
+            analyze_structure(li, _tk)
     if isinstance(item, (dict, list)):
         return
-    if target_key in IGNORE_LIST:
+    if SW1 and target_key in IGNORE_LIST:
         return
     if result[target_key].get("value") is None:
         result[target_key]["value"] = {}
@@ -284,22 +297,17 @@ def walk_dir(path) -> list[str]:
     return ret_list
 
 
-def main(output_dir: str):
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-    for in_path in t_list:
-        if in_path == output_dir:
-            return result
-        if in_path.endswith(".jsonl"):
-            with open(in_path, "r", encoding="utf-8") as file_in:
+def main():
+    for in_path in tqdm(t_list):
+        with open(in_path, "r", encoding="utf-8") as file_in:
+            if in_path.endswith(".jsonl"):
                 for line in file_in.readlines():
                     item: dict = json.loads(line)
-                    analyze_structure(1, item)
-        elif in_path.endswith(".json"):
-            with open(in_path, "r", encoding="utf-8") as file_in:
+                    analyze_structure(item)
+            elif in_path.endswith(".json"):
                 item: dict = json.load(file_in)
-                analyze_structure(1, item)
-    sort_final(result)
+                analyze_structure(item)
+    # sort_final(result)
     return result
 
 
@@ -310,28 +318,34 @@ if __name__ == "__main__":
         output_dir = "/mnt/z/"
     base_path = os.path.abspath(".")
     t_list: list[str] = (
-        walk_dir("PART_5_表情包")
-        + walk_dir("PART_6_main")
-        + [
-            "PART_10_加载动画.jsonl",
-            "PART_11_进度条装扮.jsonl",
-            "PART_12_test.jsonl",
-            "PART_13_NFT.jsonl",
+        [
             "PART_1_头像框.jsonl",
             "PART_2_动态卡片.jsonl",
             "PART_3_点赞效果.jsonl",
             "PART_4_表情.jsonl",
+        ]
+        + walk_dir("PART_5_表情包")
+        + walk_dir("PART_6_main")
+        + [
             "PART_7_空间背景.jsonl",
             "PART_8_勋章.jsonl",
             "PART_9_皮肤.jsonl",
+            "PART_10_加载动画.jsonl",
+            "PART_11_进度条装扮.jsonl",
+            "PART_12_test.jsonl",
+            "PART_13_NFT.jsonl",
         ]
+        if len(sys.argv) <= 1
+        else sys.argv[1:]
     )
 
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
     # if os.path.exists(os.path.join(output_dir, "result.json")):
     #     with open(os.path.join(output_dir, "result.json"), "r", encoding="utf-8") as fp:
     #         result.update(json.load(fp))
     start_time = time.time()
-    main(output_dir)
+    main()
     with open(os.path.join(output_dir, "result.json"), "w", encoding="utf-8") as fp:
         json.dump(result, fp, ensure_ascii=False, indent="\t", sort_keys=True)
     total_time = time.time() - start_time

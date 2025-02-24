@@ -36,7 +36,6 @@
 			{
 				"item_id":1686542333001,
 				"name":"黑鸦诊疗院",
-				"tab_id":0,
 				"suit_item_id":116343601,
 				"properties":{
 					"fan_no_color":"#B77B41",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1686542333002,
 				"name":"黑鸦诊疗院粉丝",
-				"tab_id":0,
 				"suit_item_id":116343601,
 				"properties":{
 					"fan_no_color":"#B77B41",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1686551499001,
 				"name":"黑鸦诊疗院",
-				"tab_id":0,
 				"suit_item_id":116343601,
 				"properties":{
 					"fan_no_color":"#B77B41",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1686554201001,
 				"name":"黑鸦诊疗院",
-				"tab_id":0,
 				"suit_item_id":116343601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/dbb74c5f8208f94c352f8a527c0dbc280e5d264f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"吃药\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ae690d892baa0a968e491ea1acaca1d9967d5a9.png\"},{\"name\":\"打针吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/21b4567868a38ee6849f9c02af21e42726ac75a6.png\"},{\"name\":\"去世\",\"image\":\"https://i0.hdslb.com/bfs/garb/70de3f917d2b80ec35a7ed3587cc9bb03912f4a6.png\"},{\"name\":\"吃惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/c389d2db77d7177b27c73e460f525cb3205313ce.png\"},{\"name\":\"希望人没事\",\"image\":\"https://i0.hdslb.com/bfs/garb/af82c14b10c5803ade931504470f7319693ce26c.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/e98c417c9de50595c68b1afc5750dde8468a416c.png\"},{\"name\":\"很棒棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/14e6a82c2f6046ae891b9913ea1651b96074efb3.png\"},{\"name\":\"咕咕\",\"image\":\"https://i0.hdslb.com/bfs/garb/67910d4fd9a7ffbbda3487a4193ccee0383918b8.png\"},{\"name\":\"一天一苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/21f0bd3625cb46f95df7403ada698a56d0f4457e.png\"},{\"name\":\"医生远离我\",\"image\":\"https://i0.hdslb.com/bfs/garb/345680fe366e71069cf1d65a7f705c04cd4250ab.png\"},{\"name\":\"快醒醒\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f39cccb381cd996afb43b17116a9bb68eafffec.png\"},{\"name\":\"这是病得治\",\"image\":\"https://i0.hdslb.com/bfs/garb/e45b207e968968330d0c3546f583f74d9a6ab497.png\"},{\"name\":\"放弃治疗\",\"image\":\"https://i0.hdslb.com/bfs/garb/34d0971a65ef0eca7e482b8281d2c0aee0f793d3.png\"},{\"name\":\"戴口罩\",\"image\":\"https://i0.hdslb.com/bfs/garb/71ab10bbdd525a770842ade201d0aa7206d4955a.png\"},{\"name\":\"摸摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/a01876f6081ff5b933adf96dc7109585ae8c5fec.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_一天一苹果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/21f0bd3625cb46f95df7403ada698a56d0f4457e.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_医生远离我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/345680fe366e71069cf1d65a7f705c04cd4250ab.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_去世]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/70de3f917d2b80ec35a7ed3587cc9bb03912f4a6.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_吃惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c389d2db77d7177b27c73e460f525cb3205313ce.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_吃药]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1ae690d892baa0a968e491ea1acaca1d9967d5a9.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_咕咕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/67910d4fd9a7ffbbda3487a4193ccee0383918b8.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_希望人没事]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af82c14b10c5803ade931504470f7319693ce26c.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_很棒棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/14e6a82c2f6046ae891b9913ea1651b96074efb3.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_快醒醒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8f39cccb381cd996afb43b17116a9bb68eafffec.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_戴口罩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/71ab10bbdd525a770842ade201d0aa7206d4955a.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_打针吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/21b4567868a38ee6849f9c02af21e42726ac75a6.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_摸摸头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a01876f6081ff5b933adf96dc7109585ae8c5fec.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_放弃治疗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/34d0971a65ef0eca7e482b8281d2c0aee0f793d3.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e98c417c9de50595c68b1afc5750dde8468a416c.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[黑鸦诊疗院_这是病得治]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e45b207e968968330d0c3546f583f74d9a6ab497.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1686556142001,
 				"name":"黑鸦诊疗院",
-				"tab_id":0,
 				"suit_item_id":116343601,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1686551276001,
 				"name":"黑鸦诊疗院2",
-				"tab_id":0,
 				"suit_item_id":116343601,
 				"properties":{
 					"fan_no_color":"#ffffff",

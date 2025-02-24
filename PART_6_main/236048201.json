@@ -35,7 +35,6 @@
 			{
 				"item_id":1735012575001,
 				"name":"兔耳少女",
-				"tab_id":0,
 				"suit_item_id":236048201,
 				"properties":{
 					"fan_no_color":"#A0B9D9",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1735110774001,
 				"name":"兔耳少女粉丝",
-				"tab_id":0,
 				"suit_item_id":236048201,
 				"properties":{
 					"fan_no_color":"#A0B9D9",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1735012630001,
 				"name":"兔耳少女",
-				"tab_id":0,
 				"suit_item_id":236048201,
 				"properties":{
 					"fan_no_color":"#DAA7A7",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1735011395001,
 				"name":"兔耳少女",
-				"tab_id":0,
 				"suit_item_id":236048201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/602f3ba06ebcbeab825f7a66808d96cd079db646.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"蛋糕来啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/21795b4d5ce65fb5fcd2ea5ba21e56016f880dd7.png\"},{\"name\":\"抱胡萝卜\",\"image\":\"https://i0.hdslb.com/bfs/garb/09711e8e96facba048621788ab7dbcf862f229fa.png\"},{\"name\":\"兔兔奶糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ef5f3eedd4ff72b671a2bcb37c0dca7469e1ceb.png\"},{\"name\":\"兔兔枕头\",\"image\":\"https://i0.hdslb.com/bfs/garb/8773d03433f492932cb3ea791a5fe28967763ef2.png\"},{\"name\":\"兔兔追糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b2eac2306a2ef8be3085bfeba79e1f4284a7da4.png\"},{\"name\":\"小兔眨眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/27e8612a244c611c676ecd7fabde5de2cdd1cff5.png\"},{\"name\":\"毛线团\",\"image\":\"https://i0.hdslb.com/bfs/garb/35f2a4eb64ff9c6deb72ba35a8cb32b654baf8bb.png\"},{\"name\":\"蝴蝶结\",\"image\":\"https://i0.hdslb.com/bfs/garb/bde95038cec3dbe3326ec893b0176821d56099c4.png\"},{\"name\":\"小兔趴趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/d63cc05735519e14dcf42b9ae4ad4978bc03dc3f.png\"},{\"name\":\"捧脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d03bdff1461f1cffa4b5c56b677fc361024b32c.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/0039e0bd4353e6d2e28eddba623d403658fa6b69.png\"},{\"name\":\"兔兔照片\",\"image\":\"https://i0.hdslb.com/bfs/garb/8fef2e28931cdbff0483bd72bd2e00bf709b2e1d.png\"},{\"name\":\"兔兔举花\",\"image\":\"https://i0.hdslb.com/bfs/garb/78fa14df74510b7a3f2124aae28c3d80dda1e47b.png\"},{\"name\":\"兔兔台灯\",\"image\":\"https://i0.hdslb.com/bfs/garb/89019ab87c0679ec371190f638041628fcd3396c.png\"},{\"name\":\"小星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/f4ee21edbcdb4494ba719246e92f50cb0e9ef6c5.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_兔兔举花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/78fa14df74510b7a3f2124aae28c3d80dda1e47b.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_兔兔台灯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/89019ab87c0679ec371190f638041628fcd3396c.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_兔兔奶糖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ef5f3eedd4ff72b671a2bcb37c0dca7469e1ceb.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_兔兔枕头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8773d03433f492932cb3ea791a5fe28967763ef2.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_兔兔照片]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8fef2e28931cdbff0483bd72bd2e00bf709b2e1d.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_兔兔追糖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2b2eac2306a2ef8be3085bfeba79e1f4284a7da4.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_小兔眨眼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/27e8612a244c611c676ecd7fabde5de2cdd1cff5.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_小兔趴趴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d63cc05735519e14dcf42b9ae4ad4978bc03dc3f.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_小星星]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f4ee21edbcdb4494ba719246e92f50cb0e9ef6c5.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_抱胡萝卜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/09711e8e96facba048621788ab7dbcf862f229fa.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_捧脸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d03bdff1461f1cffa4b5c56b677fc361024b32c.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0039e0bd4353e6d2e28eddba623d403658fa6b69.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_毛线团]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/35f2a4eb64ff9c6deb72ba35a8cb32b654baf8bb.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_蛋糕来啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/21795b4d5ce65fb5fcd2ea5ba21e56016f880dd7.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[兔耳少女_蝴蝶结]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bde95038cec3dbe3326ec893b0176821d56099c4.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1735111328001,
 				"name":"兔耳少女",
-				"tab_id":0,
 				"suit_item_id":236048201,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1734943320001,
 				"name":"兔耳少女",
-				"tab_id":0,
 				"suit_item_id":236048201,
 				"properties":{
 					"fan_no_color":"#ffffff",

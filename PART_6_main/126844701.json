@@ -35,7 +35,6 @@
 			{
 				"item_id":1695624942001,
 				"name":"meatball肉球第一弹",
-				"tab_id":0,
 				"suit_item_id":126844701,
 				"properties":{
 					"fan_no_color":"#6C74CA",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1695626757001,
 				"name":"meatball肉球第一弹粉丝",
-				"tab_id":0,
 				"suit_item_id":126844701,
 				"properties":{
 					"fan_no_color":"#6C74CA",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1695624127001,
 				"name":"meatball肉球第一弹",
-				"tab_id":0,
 				"suit_item_id":126844701,
 				"properties":{
 					"fan_no_color":"#6C74CA",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1695623742001,
 				"name":"meatball肉球第一弹",
-				"tab_id":0,
 				"suit_item_id":126844701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/71fca9777339b2b41560f0f44fd36ae4e387e55e.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"乖巧\",\"image\":\"https://i0.hdslb.com/bfs/garb/b86ecf629c808e883e12b6cdca625a5beb60ae4a.png\"},{\"name\":\"来啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5e7f26e80c0c70ca248267885b481d7f06df273.png\"},{\"name\":\"快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f5e9e538c13d52f0250400c678f5fcec3445b38.png\"},{\"name\":\"咦？\",\"image\":\"https://i0.hdslb.com/bfs/garb/df7bafef669d39397b3990da996be9d9c1cd3d94.png\"},{\"name\":\"学习\",\"image\":\"https://i0.hdslb.com/bfs/garb/677bb637ce2217a037af03ead2aa8aa13f8033d0.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/982d20a47f31f294058c071ac502e1a90a747d7c.png\"},{\"name\":\"祈祷\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff701adb15a9656115e3396d061560c06b8b50ba.png\"},{\"name\":\"施法\",\"image\":\"https://i0.hdslb.com/bfs/garb/f481ea84147611bfffb3d5848792bf339f6c5929.png\"},{\"name\":\"举手\",\"image\":\"https://i0.hdslb.com/bfs/garb/285fb8e0842b30f4b9a63d7550b30f135d2472f3.png\"},{\"name\":\"击掌\",\"image\":\"https://i0.hdslb.com/bfs/garb/78960e487007ac579bf94dcbde4c1f28de8d2301.png\"},{\"name\":\"冲啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb740733e787effef12581067685c1e4eca6bff8.png\"},{\"name\":\"打扫\",\"image\":\"https://i0.hdslb.com/bfs/garb/9097cbf480675cec654782951f5a6585b7de7242.png\"},{\"name\":\"哇噢\",\"image\":\"https://i0.hdslb.com/bfs/garb/e10f79da39ae5a4f70aaf3554014a3baaea3c2e5.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/6be70cab6eebd06e349e0599779432c4fdb10480.png\"},{\"name\":\"让我看看\",\"image\":\"https://i0.hdslb.com/bfs/garb/27c54eb27255334efcde42bd3cd221dcb36efddc.png\"},{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d2e78d060954e2fa5759fefb7e1ce577d33f350.png\"},{\"name\":\"魔法药水\",\"image\":\"https://i0.hdslb.com/bfs/garb/1dfc8e8e7ea6b172d7adce4f6927d9e762bf1e04.png\"},{\"name\":\"给你小心心\",\"image\":\"https://i0.hdslb.com/bfs/garb/774927e389e0797a80065a80ee5067e9ff68a540.png\"},{\"name\":\"我闪\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2d2ab71cce0a911b2cb086d9d5cf3d8dc107110.png\"},{\"name\":\"看我变变变\",\"image\":\"https://i0.hdslb.com/bfs/garb/50553432b6e4554e7d60209950cadce1e846a574.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_举手]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/285fb8e0842b30f4b9a63d7550b30f135d2472f3.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_乖巧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b86ecf629c808e883e12b6cdca625a5beb60ae4a.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_冲啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bb740733e787effef12581067685c1e4eca6bff8.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_击掌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/78960e487007ac579bf94dcbde4c1f28de8d2301.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_咦？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/df7bafef669d39397b3990da996be9d9c1cd3d94.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_哇噢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e10f79da39ae5a4f70aaf3554014a3baaea3c2e5.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6be70cab6eebd06e349e0599779432c4fdb10480.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_学习]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/677bb637ce2217a037af03ead2aa8aa13f8033d0.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_微笑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d2e78d060954e2fa5759fefb7e1ce577d33f350.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_快乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3f5e9e538c13d52f0250400c678f5fcec3445b38.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_我闪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f2d2ab71cce0a911b2cb086d9d5cf3d8dc107110.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_打扫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9097cbf480675cec654782951f5a6585b7de7242.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/982d20a47f31f294058c071ac502e1a90a747d7c.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_施法]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f481ea84147611bfffb3d5848792bf339f6c5929.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_来啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c5e7f26e80c0c70ca248267885b481d7f06df273.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_看我变变变]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/50553432b6e4554e7d60209950cadce1e846a574.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_祈祷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ff701adb15a9656115e3396d061560c06b8b50ba.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_给你小心心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/774927e389e0797a80065a80ee5067e9ff68a540.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_让我看看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/27c54eb27255334efcde42bd3cd221dcb36efddc.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[meatball肉球第一弹_魔法药水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1dfc8e8e7ea6b172d7adce4f6927d9e762bf1e04.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1695624058001,
 				"name":"meatball肉球第一弹",
-				"tab_id":0,
 				"suit_item_id":126844701,
 				"properties":{
 					"color":"#ffffff",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1695623846001,
 				"name":"meatball肉球第一弹",
-				"tab_id":0,
 				"suit_item_id":126844701,
 				"properties":{
 					"fan_no_color":"#ffffff",

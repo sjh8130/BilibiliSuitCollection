@@ -37,7 +37,6 @@
 			{
 				"item_id":1678432529001,
 				"name":"赫卡Tia",
-				"tab_id":0,
 				"suit_item_id":106935101,
 				"properties":{
 					"fan_no_color":"#FF1493",
@@ -51,7 +50,6 @@
 			{
 				"item_id":1678432529002,
 				"name":"赫卡Tia粉丝",
-				"tab_id":0,
 				"suit_item_id":106935101,
 				"properties":{
 					"fan_no_color":"#FF1493",
@@ -68,7 +66,6 @@
 			{
 				"item_id":1678432335001,
 				"name":"赫卡Tia",
-				"tab_id":0,
 				"suit_item_id":106935101,
 				"properties":{
 					"fan_no_color":"#FF1493",
@@ -83,14 +80,12 @@
 			{
 				"item_id":1678587590001,
 				"name":"赫卡",
-				"tab_id":0,
 				"suit_item_id":106935101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9959e2d710b59cf48999bd73a79345b7a865fd37.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/6678cd43312e50781d233ec343c5e3cabf149af4.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/453da2db6990d315093a64cf684d9a2a346c4ef9.png\"},{\"name\":\"感叹号\",\"image\":\"https://i0.hdslb.com/bfs/garb/9bb11579f7fabe5a680e263c4559fb37466ab0f8.png\"},{\"name\":\"真棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/8628ac187c174b92bf8e9244c5af91660613d30e.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a809c15464c794410b34d98bcacc49759fc8bb0.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/60707f297647c72482cc85abf88d69539dd99aa2.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/f6c2d872080b13053bc42da8611982905af47001.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/f78dd9e0aa7dd84b651563cd86e533b08567f34d.png\"},{\"name\":\"面无表情\",\"image\":\"https://i0.hdslb.com/bfs/garb/93248001a051eb27b541e3ca1336ffbf1638ea72.png\"},{\"name\":\"快冻住了\",\"image\":\"https://i0.hdslb.com/bfs/garb/f33c51ca88c86337078b0c74085443ecd015589d.png\"},{\"name\":\"趴趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c991894b9be7c1c488160b7ba95d6e361f56fab.png\"},{\"name\":\"怎会如此\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e0fad3387f30158bc73233bde204743d45e27e0.png\"},{\"name\":\"偷看\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f0ec557ded7040d15423606062ba471a4884b2b.png\"},{\"name\":\"困困\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f2cf1b08c7c4ed4a7e9ec0670906bbe6e87ea16.png\"},{\"name\":\"小丑\",\"image\":\"https://i0.hdslb.com/bfs/garb/01dfd34af7877ca3dfa4c5d581cb1708aa2940aa.png\"},{\"name\":\"惊吓\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d06b69e9a79f17f6d8e4a31b8967eb087918afd.png\"},{\"name\":\"行\",\"image\":\"https://i0.hdslb.com/bfs/garb/01fca867993443f7a633435048971a2bcafae459.png\"},{\"name\":\"祈求\",\"image\":\"https://i0.hdslb.com/bfs/garb/cbf0f29a0b514bbc1c505568a4623dd9c2c23762.png\"},{\"name\":\"就是你\",\"image\":\"https://i0.hdslb.com/bfs/garb/2e82e969f95aa9cbecde0a2be31d5468a16da834.png\"},{\"name\":\"啊这\",\"image\":\"https://i0.hdslb.com/bfs/garb/524da24f614177a49f40d3ac6a426f9269c42724.png\"},{\"name\":\"看手机\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5f9002f2b32bf247e526e9ee4779451428515ac.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a0d7875c5c5f9f0b33b9722114161b17f67edaa.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f2f97698f1c0e6cb96eef61cd8be280bdd65779.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/b046c0b2bbf9618b6ebc85d0ae9de09d006e2df0.png\"},{\"name\":\"啊对对对\",\"image\":\"https://i0.hdslb.com/bfs/garb/0871abc5417250cd8914d49f167190476bff443c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_偷看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5f0ec557ded7040d15423606062ba471a4884b2b.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/60707f297647c72482cc85abf88d69539dd99aa2.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_啊对对对]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0871abc5417250cd8914d49f167190476bff443c.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_啊这]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/524da24f614177a49f40d3ac6a426f9269c42724.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_嘻嘻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9f2f97698f1c0e6cb96eef61cd8be280bdd65779.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_困困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2f2cf1b08c7c4ed4a7e9ec0670906bbe6e87ea16.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_害怕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a0d7875c5c5f9f0b33b9722114161b17f67edaa.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_小丑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/01dfd34af7877ca3dfa4c5d581cb1708aa2940aa.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_就是你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2e82e969f95aa9cbecde0a2be31d5468a16da834.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_快冻住了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f33c51ca88c86337078b0c74085443ecd015589d.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_怎会如此]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4e0fad3387f30158bc73233bde204743d45e27e0.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_惊吓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d06b69e9a79f17f6d8e4a31b8967eb087918afd.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_感叹号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9bb11579f7fabe5a680e263c4559fb37466ab0f8.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f78dd9e0aa7dd84b651563cd86e533b08567f34d.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_流汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6678cd43312e50781d233ec343c5e3cabf149af4.png",
 							"sale_type":"pay"
@@ -241,7 +221,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8a809c15464c794410b34d98bcacc49759fc8bb0.png",
 							"sale_type":"pay"
@@ -250,7 +229,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_看手机]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d5f9002f2b32bf247e526e9ee4779451428515ac.png",
 							"sale_type":"pay"
@@ -259,7 +237,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_真棒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8628ac187c174b92bf8e9244c5af91660613d30e.png",
 							"sale_type":"pay"
@@ -268,7 +245,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b046c0b2bbf9618b6ebc85d0ae9de09d006e2df0.png",
 							"sale_type":"pay"
@@ -277,7 +253,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_祈求]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cbf0f29a0b514bbc1c505568a4623dd9c2c23762.png",
 							"sale_type":"pay"
@@ -286,7 +261,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_行]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/01fca867993443f7a633435048971a2bcafae459.png",
 							"sale_type":"pay"
@@ -295,7 +269,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_趴趴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0c991894b9be7c1c488160b7ba95d6e361f56fab.png",
 							"sale_type":"pay"
@@ -304,7 +277,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_问号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/453da2db6990d315093a64cf684d9a2a346c4ef9.png",
 							"sale_type":"pay"
@@ -313,7 +285,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f6c2d872080b13053bc42da8611982905af47001.png",
 							"sale_type":"pay"
@@ -322,7 +293,6 @@
 					{
 						"item_id":0,
 						"name":"[赫卡_面无表情]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/93248001a051eb27b541e3ca1336ffbf1638ea72.png",
 							"sale_type":"pay"
@@ -335,7 +305,6 @@
 			{
 				"item_id":1678432611001,
 				"name":"赫卡Tia",
-				"tab_id":0,
 				"suit_item_id":106935101,
 				"properties":{
 					"goods_type":"suit",
@@ -350,7 +319,6 @@
 			{
 				"item_id":1678425642001,
 				"name":"赫卡Tia进度条",
-				"tab_id":0,
 				"suit_item_id":106935101,
 				"properties":{
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/d7c208f39ed5a17cf3f4afc8bef0c4f598981dc6.png",
@@ -367,7 +335,6 @@
 			{
 				"item_id":1678571412001,
 				"name":"赫卡Tia 雪融",
-				"tab_id":0,
 				"suit_item_id":106935101,
 				"properties":{
 					"color":"#ffffff",
@@ -407,7 +374,6 @@
 			{
 				"item_id":1678428598001,
 				"name":"赫卡Tia",
-				"tab_id":0,
 				"suit_item_id":106935101,
 				"properties":{
 					"fan_no_color":"#ffffff",
@@ -437,7 +403,6 @@
 			{
 				"item_id":1678540141001,
 				"name":"赫卡Tia",
-				"tab_id":0,
 				"suit_item_id":106935101,
 				"properties":{
 					"goods_type":"suit",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1732517793001,
 				"name":"小熊面包",
-				"tab_id":0,
 				"suit_item_id":233129001,
 				"properties":{
 					"fan_no_color":"#CAA88D",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1732584313001,
 				"name":"小熊面包粉丝",
-				"tab_id":0,
 				"suit_item_id":233129001,
 				"properties":{
 					"fan_no_color":"#CAA88D",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1732516438001,
 				"name":"小熊面包",
-				"tab_id":0,
 				"suit_item_id":233129001,
 				"properties":{
 					"fan_no_color":"#E2B5B5",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1732515865001,
 				"name":"小熊面包",
-				"tab_id":0,
 				"suit_item_id":233129001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b2dc8cc80ac200feb7c4ef9554d792d97a3e23b7.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"熊熊举杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/f88e731ea3f0b3df93ef2a034f5c0566a418e8f3.png\"},{\"name\":\"小猫趴趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/819abe2acf760865603facc823560a20cfaa00d4.png\"},{\"name\":\"考拉生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/8924a980f73cd5fd89496e7f51130fa85e296902.png\"},{\"name\":\"听音乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/03ff320d487fadd437aff9da7c772f9ad86f4c33.png\"},{\"name\":\"开动啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/43300144bada5fde1d38a156822749ee17ba1b0b.png\"},{\"name\":\"小狗庆贺\",\"image\":\"https://i0.hdslb.com/bfs/garb/cfd12418918ef93961dff2b30d174fa90db5a0e1.png\"},{\"name\":\"喝奶茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf501415e7ae6ad9bfd64f7463e4a907deb4b7bb.png\"},{\"name\":\"丘比特兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/23285dda220f384170125505b412377c3eb4dcd8.png\"},{\"name\":\"小狗困困\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a81dafd6e07f113b8f22c6e68d18061b7ba95d0.png\"},{\"name\":\"美味蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/704046d2b3bb7fa409b351f4fa83d06870452f6e.png\"},{\"name\":\"熊熊庆贺\",\"image\":\"https://i0.hdslb.com/bfs/garb/cfebc23a9903ec1f3c0d9796500efa3c8846292c.png\"},{\"name\":\"收礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ae0c6a3acd7b266963d01067e0882c9d26e396c.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/9513ff656bc15e6547b6a7fbaecf5e1f50fc1182.png\"},{\"name\":\"发现蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/71a2b87da6e664c3a26ee6c6bf17d0919d9de65f.png\"},{\"name\":\"放礼花\",\"image\":\"https://i0.hdslb.com/bfs/garb/9690076933bf43233bbdf9d9f7a6ce8b7c7f677b.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_丘比特兔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/23285dda220f384170125505b412377c3eb4dcd8.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_发现蛋糕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/71a2b87da6e664c3a26ee6c6bf17d0919d9de65f.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_听音乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/03ff320d487fadd437aff9da7c772f9ad86f4c33.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_喝奶茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bf501415e7ae6ad9bfd64f7463e4a907deb4b7bb.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_小狗困困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2a81dafd6e07f113b8f22c6e68d18061b7ba95d0.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_小狗庆贺]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cfd12418918ef93961dff2b30d174fa90db5a0e1.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_小猫趴趴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/819abe2acf760865603facc823560a20cfaa00d4.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9513ff656bc15e6547b6a7fbaecf5e1f50fc1182.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_开动啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/43300144bada5fde1d38a156822749ee17ba1b0b.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_收礼物]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5ae0c6a3acd7b266963d01067e0882c9d26e396c.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_放礼花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9690076933bf43233bbdf9d9f7a6ce8b7c7f677b.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_熊熊举杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f88e731ea3f0b3df93ef2a034f5c0566a418e8f3.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_熊熊庆贺]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cfebc23a9903ec1f3c0d9796500efa3c8846292c.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_美味蛋糕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/704046d2b3bb7fa409b351f4fa83d06870452f6e.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[小熊面包_考拉生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8924a980f73cd5fd89496e7f51130fa85e296902.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1732527156001,
 				"name":"小熊面包",
-				"tab_id":0,
 				"suit_item_id":233129001,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1732502062001,
 				"name":"小熊面包",
-				"tab_id":0,
 				"suit_item_id":233129001,
 				"properties":{
 					"fan_no_color":"#ffffff",

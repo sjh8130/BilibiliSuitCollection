@@ -35,7 +35,6 @@
 			{
 				"item_id":1676975249001,
 				"name":"懒懒兔樱花季",
-				"tab_id":0,
 				"suit_item_id":106855301,
 				"properties":{
 					"fan_no_color":"#FE99DE",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1676975249002,
 				"name":"懒懒兔樱花季粉丝",
-				"tab_id":0,
 				"suit_item_id":106855301,
 				"properties":{
 					"fan_no_color":"#FE99DE",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1677565855001,
 				"name":"懒懒兔樱花季",
-				"tab_id":0,
 				"suit_item_id":106855301,
 				"properties":{
 					"fan_no_color":"#FFD9FC",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1677566232001,
 				"name":"懒懒兔樱花季",
-				"tab_id":0,
 				"suit_item_id":106855301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/c35f55431974deb9cb93c5d6cddd91746de6034a.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"啊这\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a4d6d6efa39e863a2ca581b91cd803312eca784.png\"},{\"name\":\"no\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ca649c1303f4d4064eeb8ca3a78f775e77b6e7a.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/cbc8fdeb51a1dd641fa1d0d10bb6906f91636480.png\"},{\"name\":\"安逸\",\"image\":\"https://i0.hdslb.com/bfs/garb/8c5266b295366b81ea7fec2f85a9938dc610e45f.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1ee001bf0d75dd73535718b68ede6eca8cb3d13.png\"},{\"name\":\"喝茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/d64909e2e8b5369fbdbadb079c1179f7923dde91.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/9cb9130bf9f67fc4740627eb9f8ee56b8a3708e2.png\"},{\"name\":\"摊\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a5e9d1ed14e2a316667466a4f2b2aba13d924c6.png\"},{\"name\":\"擦地\",\"image\":\"https://i0.hdslb.com/bfs/garb/84d4e1423bb56b1d4fda1f1db706a71987887112.png\"},{\"name\":\"看看楼下\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf7448aa0c324184c183720232833e32c9b6bef8.png\"},{\"name\":\"来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/dda4ac80d47b0a8be6394f3b8aa4fcf6b428d0bc.png\"},{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9f8d539a69281b3e6201a61d217d926e9d555ff.png\"},{\"name\":\"早啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/0003adf424fcc1d252731747a0bfeb5d4285d136.png\"},{\"name\":\"鬼脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/52aa02465df81160f3a74a8a75fe615bcbf83a02.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2310592edd16c0c5fda9222d42eb7ed8f9efa26.png\"},{\"name\":\"大佬\",\"image\":\"https://i0.hdslb.com/bfs/garb/091d4305dcc722ab3fc9ac95f8172db2fd37dd42.png\"},{\"name\":\"咕了\",\"image\":\"https://i0.hdslb.com/bfs/garb/956fee9d370e5f69c08acadc533215d5f8d65b6a.png\"},{\"name\":\"飞吻\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9e91b3acc4ce0886d585555ebaa1063650939fd.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/46140ea8fa65783c33f1565881480710ae07b646.png\"},{\"name\":\"威胁\",\"image\":\"https://i0.hdslb.com/bfs/garb/16f4638420b719776bab5ec9a48442ee5020d71e.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_no]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0ca649c1303f4d4064eeb8ca3a78f775e77b6e7a.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_咕了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/956fee9d370e5f69c08acadc533215d5f8d65b6a.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_啊这]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a4d6d6efa39e863a2ca581b91cd803312eca784.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_喝茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d64909e2e8b5369fbdbadb079c1179f7923dde91.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_大佬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/091d4305dcc722ab3fc9ac95f8172db2fd37dd42.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_好耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b9f8d539a69281b3e6201a61d217d926e9d555ff.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_威胁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/16f4638420b719776bab5ec9a48442ee5020d71e.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_安逸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8c5266b295366b81ea7fec2f85a9938dc610e45f.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a1ee001bf0d75dd73535718b68ede6eca8cb3d13.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_摊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2a5e9d1ed14e2a316667466a4f2b2aba13d924c6.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_摸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9cb9130bf9f67fc4740627eb9f8ee56b8a3708e2.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_擦地]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/84d4e1423bb56b1d4fda1f1db706a71987887112.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_早啊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0003adf424fcc1d252731747a0bfeb5d4285d136.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/46140ea8fa65783c33f1565881480710ae07b646.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_来了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dda4ac80d47b0a8be6394f3b8aa4fcf6b428d0bc.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cbc8fdeb51a1dd641fa1d0d10bb6906f91636480.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_看看楼下]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bf7448aa0c324184c183720232833e32c9b6bef8.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f2310592edd16c0c5fda9222d42eb7ed8f9efa26.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_飞吻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b9e91b3acc4ce0886d585555ebaa1063650939fd.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[懒懒兔樱花季_鬼脸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/52aa02465df81160f3a74a8a75fe615bcbf83a02.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1678784364001,
 				"name":"懒懒兔 樱花季",
-				"tab_id":0,
 				"suit_item_id":106855301,
 				"properties":{
 					"color":"#000000",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1678179592001,
 				"name":"懒懒兔 樱花季",
-				"tab_id":0,
 				"suit_item_id":106855301,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1688726781001,
 				"name":"扑克王国物语·joker",
-				"tab_id":0,
 				"suit_item_id":118857001,
 				"properties":{
 					"fan_no_color":"#62B7C6",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1688726781002,
 				"name":"扑克王国物语·joker粉丝",
-				"tab_id":0,
 				"suit_item_id":118857001,
 				"properties":{
 					"fan_no_color":"#62B7C6",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1688726994001,
 				"name":"扑克王国物语·joker",
-				"tab_id":0,
 				"suit_item_id":118857001,
 				"properties":{
 					"fan_no_color":"#62B7C6",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1688972452001,
 				"name":"扑克王国物语joker",
-				"tab_id":0,
 				"suit_item_id":118857001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9a1a13dab8d4e9e6cfb1d9b9cfe2ac9870007c39.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"小王\",\"image\":\"https://i0.hdslb.com/bfs/garb/67f8cf4cfb3b4d98b58707b2bb008991a3d2fc75.png\"},{\"name\":\"大王\",\"image\":\"https://i0.hdslb.com/bfs/garb/37290c21ffb02fbf2fff52dd687a4a75ca24e633.png\"},{\"name\":\"不要\",\"image\":\"https://i0.hdslb.com/bfs/garb/367d5a2743be9b0e0d1cf5f7085b0d58cf498bb5.png\"},{\"name\":\"小意思啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3456d5317e5e7dff4ff2ac1eebdd9aae6bcaaca.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/87ac27e338eeb48ccab69d9206d8e34a44575ada.png\"},{\"name\":\"投降啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/b829d9987ff999d412baa616eaee8bb70b079078.png\"},{\"name\":\"cheers\",\"image\":\"https://i0.hdslb.com/bfs/garb/12ea8ad9c4ee99a1c8b4d134805940521d20011b.png\"},{\"name\":\"不听不听\",\"image\":\"https://i0.hdslb.com/bfs/garb/413c16c1e7b76fda9922bae96b63e86503b39d8c.png\"},{\"name\":\"紧张\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe13c8a4e1ca4144b2bbe2e3cb65ed425c4dea9a.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/6bb7f41ce04d661557ff65a6871ad222dfbc1c8c.png\"},{\"name\":\"摸摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/b688bb13fd5769226bbe9697933afe638e92e6f7.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5db85eb44921015d64a5c128c87da40fad0955b.png\"},{\"name\":\"捏脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/26f0216a2a3f610f188dea28f02e5c66a921c422.png\"},{\"name\":\"抱歉\",\"image\":\"https://i0.hdslb.com/bfs/garb/0bab7fd1919912bd962691e7957e84159406f1ba.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/439850338b87e42c3d803da4e325fc893219f93c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_cheers]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/12ea8ad9c4ee99a1c8b4d134805940521d20011b.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_不听不听]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/413c16c1e7b76fda9922bae96b63e86503b39d8c.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_不要]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/367d5a2743be9b0e0d1cf5f7085b0d58cf498bb5.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_哇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6bb7f41ce04d661557ff65a6871ad222dfbc1c8c.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_大王]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/37290c21ffb02fbf2fff52dd687a4a75ca24e633.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_小意思啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c3456d5317e5e7dff4ff2ac1eebdd9aae6bcaaca.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_小王]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/67f8cf4cfb3b4d98b58707b2bb008991a3d2fc75.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_投降啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b829d9987ff999d412baa616eaee8bb70b079078.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_抱歉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0bab7fd1919912bd962691e7957e84159406f1ba.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_捏脸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/26f0216a2a3f610f188dea28f02e5c66a921c422.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_摸摸头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b688bb13fd5769226bbe9697933afe638e92e6f7.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a5db85eb44921015d64a5c128c87da40fad0955b.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/439850338b87e42c3d803da4e325fc893219f93c.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_紧张]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fe13c8a4e1ca4144b2bbe2e3cb65ed425c4dea9a.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[扑克王国物语joker_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/87ac27e338eeb48ccab69d9206d8e34a44575ada.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1688727684001,
 				"name":"扑克王国物语·joker",
-				"tab_id":0,
 				"suit_item_id":118857001,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1688726856001,
 				"name":"扑克王国物语·joker",
-				"tab_id":0,
 				"suit_item_id":118857001,
 				"properties":{
 					"fan_no_color":"#ffffff",

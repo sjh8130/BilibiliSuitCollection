@@ -35,7 +35,6 @@
 			{
 				"item_id":1688548528001,
 				"name":"鸽子小画家",
-				"tab_id":0,
 				"suit_item_id":118653301,
 				"properties":{
 					"fan_no_color":"#5C6EC2",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1688548528002,
 				"name":"鸽子小画家粉丝",
-				"tab_id":0,
 				"suit_item_id":118653301,
 				"properties":{
 					"fan_no_color":"#5C6EC2",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1688550333001,
 				"name":"鸽子小画家",
-				"tab_id":0,
 				"suit_item_id":118653301,
 				"properties":{
 					"fan_no_color":"#5C6EC2",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1688548801001,
 				"name":"鸽子小画家",
-				"tab_id":0,
 				"suit_item_id":118653301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8577bd881524ae72f847fd3757df5b3b5deb655d.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"在画了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ef79c9908540af21b6862663482a93cbdd9dff1.png\"},{\"name\":\"进度如图\",\"image\":\"https://i0.hdslb.com/bfs/garb/a998781ed342340e62d3e0c4c04a5ed4d9748fac.png\"},{\"name\":\"马上出门\",\"image\":\"https://i0.hdslb.com/bfs/garb/674b7803360e3dc3ae3221524d11823d40ef18a1.png\"},{\"name\":\"诚信\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8bdaf9daf24d4f830269ed3fe291a3660b9eefe.png\"},{\"name\":\"007\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3f1a47b9c491ce7c3a46278a181dd3b5ce3fe02.png\"},{\"name\":\"KKSK\",\"image\":\"https://i0.hdslb.com/bfs/garb/1cea6286fb7ed0684fe011c9949da82f4deee65d.png\"},{\"name\":\"不画了\",\"image\":\"https://i0.hdslb.com/bfs/garb/50bbf8ad33d5152a946487f8f5eccab2c14f729a.png\"},{\"name\":\"认识自我\",\"image\":\"https://i0.hdslb.com/bfs/garb/d00d37fb21ead379a84120c7dfee4d1d40b70245.png\"},{\"name\":\"菜鸽\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0f1142806a5252227c2f45b6352d5b670672e09.png\"},{\"name\":\"马上画完\",\"image\":\"https://i0.hdslb.com/bfs/garb/811e9a1f15099dc7679eb9f1a90cca5671f7a1f3.png\"},{\"name\":\"粮\",\"image\":\"https://i0.hdslb.com/bfs/garb/14e28a77fd81e4e004b2d661732e948a6046a270.png\"},{\"name\":\"吃粮\",\"image\":\"https://i0.hdslb.com/bfs/garb/740db34251495f6dea86e617f734fc1de7e39b99.png\"},{\"name\":\"别看扁我\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d0878b5c81aa39c16cdf835a26310c5443f663a.png\"},{\"name\":\"天才之作\",\"image\":\"https://i0.hdslb.com/bfs/garb/0362fa495674288dccfdc560744ec385eaac0bd1.png\"},{\"name\":\"色晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea94bafecd0ba239d1c9110ff78ffc0fe681b7a6.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_007]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b3f1a47b9c491ce7c3a46278a181dd3b5ce3fe02.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_KKSK]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1cea6286fb7ed0684fe011c9949da82f4deee65d.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_不画了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/50bbf8ad33d5152a946487f8f5eccab2c14f729a.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_别看扁我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5d0878b5c81aa39c16cdf835a26310c5443f663a.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_吃粮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/740db34251495f6dea86e617f734fc1de7e39b99.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_在画了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7ef79c9908540af21b6862663482a93cbdd9dff1.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_天才之作]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0362fa495674288dccfdc560744ec385eaac0bd1.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_粮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/14e28a77fd81e4e004b2d661732e948a6046a270.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_色晕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea94bafecd0ba239d1c9110ff78ffc0fe681b7a6.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_菜鸽]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d0f1142806a5252227c2f45b6352d5b670672e09.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_认识自我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d00d37fb21ead379a84120c7dfee4d1d40b70245.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_诚信]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a8bdaf9daf24d4f830269ed3fe291a3660b9eefe.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_进度如图]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a998781ed342340e62d3e0c4c04a5ed4d9748fac.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_马上出门]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/674b7803360e3dc3ae3221524d11823d40ef18a1.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[鸽子小画家_马上画完]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/811e9a1f15099dc7679eb9f1a90cca5671f7a1f3.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1688550277001,
 				"name":"鸽子小画家",
-				"tab_id":0,
 				"suit_item_id":118653301,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1688548872001,
 				"name":"鸽子小画家",
-				"tab_id":0,
 				"suit_item_id":118653301,
 				"properties":{
 					"fan_no_color":"#ffffff",

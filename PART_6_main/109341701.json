@@ -36,7 +36,6 @@
 			{
 				"item_id":1680500887001,
 				"name":"梦幻Hello Kitty",
-				"tab_id":0,
 				"suit_item_id":109341701,
 				"properties":{
 					"fan_no_color":"#FF8EB3",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1680500887002,
 				"name":"梦幻Hello Kitty粉丝",
-				"tab_id":0,
 				"suit_item_id":109341701,
 				"properties":{
 					"fan_no_color":"#FF8EB3",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1680501084001,
 				"name":"梦幻Hello Kitty",
-				"tab_id":0,
 				"suit_item_id":109341701,
 				"properties":{
 					"fan_no_color":"#FF8EB3",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1680500947001,
 				"name":"梦幻Hello Kitty",
-				"tab_id":0,
 				"suit_item_id":109341701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4c26418dc63a2efe0ef97885f5afcdbcc59589e9.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6683c598b398d57fea69497589a95430dce9912.png\"},{\"name\":\"坐等\",\"image\":\"https://i0.hdslb.com/bfs/garb/56b0887e1e2919cda1d3afad63513c17403ec15c.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c7b2b0ef1a90753a3f70d5184c9befef28feaee.png\"},{\"name\":\"送礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/63c8bbd334bd68b8e0c5a43ed3285be7207e4367.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd541814384f16cc4bca8a63af9e8b3b8ae77661.png\"},{\"name\":\"许愿\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3c82d9ab553c47c170404fcde477505cdc87e74.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/a80149b3b1e99cc4de46744691d1249332c1d3c8.png\"},{\"name\":\"哇哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/852da1160cd77e996f428cfe3e353f0047f79703.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/efeb8d078788f042fe1439a445f2be80fde975b4.png\"},{\"name\":\"hello\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3fb237c7022154776e99aabbc8a3bca66d90b01.png\"},{\"name\":\"收到\",\"image\":\"https://i0.hdslb.com/bfs/garb/a443197766e9fee344facd8232096db875f866f6.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/394e41ebdd5aded42b60b626af891f58381513fc.png\"},{\"name\":\"游泳\",\"image\":\"https://i0.hdslb.com/bfs/garb/ecd7d7e6f949b5d1f1f874dea86b8196ce591a2d.png\"},{\"name\":\"乖巧\",\"image\":\"https://i0.hdslb.com/bfs/garb/748492b364ecb4cdba34b413a515b6234985dddc.png\"},{\"name\":\"学习\",\"image\":\"https://i0.hdslb.com/bfs/garb/2bd59f25fd3c68ada539c6a0f9bfea4c0c70f089.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_hello]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f3fb237c7022154776e99aabbc8a3bca66d90b01.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_乖巧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/748492b364ecb4cdba34b413a515b6234985dddc.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_可爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a80149b3b1e99cc4de46744691d1249332c1d3c8.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_哇哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/852da1160cd77e996f428cfe3e353f0047f79703.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_坐等]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/56b0887e1e2919cda1d3afad63513c17403ec15c.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_学习]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2bd59f25fd3c68ada539c6a0f9bfea4c0c70f089.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_收到]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a443197766e9fee344facd8232096db875f866f6.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/394e41ebdd5aded42b60b626af891f58381513fc.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_游泳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ecd7d7e6f949b5d1f1f874dea86b8196ce591a2d.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e6683c598b398d57fea69497589a95430dce9912.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3c7b2b0ef1a90753a3f70d5184c9befef28feaee.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_盯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/efeb8d078788f042fe1439a445f2be80fde975b4.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_许愿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e3c82d9ab553c47c170404fcde477505cdc87e74.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cd541814384f16cc4bca8a63af9e8b3b8ae77661.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[梦幻Hello Kitty_送礼物]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/63c8bbd334bd68b8e0c5a43ed3285be7207e4367.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1680501051001,
 				"name":"梦幻Hello Kitty",
-				"tab_id":0,
 				"suit_item_id":109341701,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1680500971001,
 				"name":"梦幻Hello Kitty",
-				"tab_id":0,
 				"suit_item_id":109341701,
 				"properties":{
 					"fan_no_color":"#ffffff",

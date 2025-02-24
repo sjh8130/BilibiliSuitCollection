@@ -35,7 +35,6 @@
 			{
 				"item_id":1696925582001,
 				"name":"保卫萝卜·美食派对",
-				"tab_id":0,
 				"suit_item_id":128349401,
 				"properties":{
 					"fan_no_color":"#FF9600",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1696925582002,
 				"name":"保卫萝卜·美食派对粉丝",
-				"tab_id":0,
 				"suit_item_id":128349401,
 				"properties":{
 					"fan_no_color":"#FF9600",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1696925903001,
 				"name":"保卫萝卜·美食派对",
-				"tab_id":0,
 				"suit_item_id":128349401,
 				"properties":{
 					"fan_no_color":"#FF9600",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1696925613001,
 				"name":"保卫萝卜·美食派对",
-				"tab_id":0,
 				"suit_item_id":128349401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6f5c201ce3257fed17d20ed2c9ac960d094d4051.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"吃零食\",\"image\":\"https://i0.hdslb.com/bfs/garb/d599b5f5f99d3cdd1d7966d0fc6c7a37d357501c.png\"},{\"name\":\"狗粮\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba938cbbd2450355f8b26d7b497b5b077a54d8bf.png\"},{\"name\":\"饿\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a94d609ca1f0051e48d78bd091ce0551cebcf7f.png\"},{\"name\":\"炸弹\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef20f68b17efe13239d6e409552437c6a86b11a6.png\"},{\"name\":\"吃辣条\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e315e67a275791e7aaadac9077a1d459770fce2.png\"},{\"name\":\"扮鬼脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/1763a3cb846e79c1b52630fa470c621f45efb0d5.png\"},{\"name\":\"炫饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/23418129697b229a44da2fdd79950241fba7aeb1.png\"},{\"name\":\"煮汤\",\"image\":\"https://i0.hdslb.com/bfs/garb/24d8fabf6b25aaa5719f7a7872702cd9f8ea4641.png\"},{\"name\":\"钓萝卜\",\"image\":\"https://i0.hdslb.com/bfs/garb/04b354b33bb2a1a42256ef5244b63a5daa90996c.png\"},{\"name\":\"嗦面条\",\"image\":\"https://i0.hdslb.com/bfs/garb/013aa2082a901a33997f3a9a0d5601637e28025a.png\"},{\"name\":\"抢零食\",\"image\":\"https://i0.hdslb.com/bfs/garb/7742a2160b80ad76081cd279be7bc793771a58d1.png\"},{\"name\":\"看戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/26534e309ccc4919e6a969d438cf3e9cdb4e1daf.png\"},{\"name\":\"大吃特吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/26e829320bc94bc42ea681d14075f4d8416d5f39.png\"},{\"name\":\"一起吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/173f79c2b3c1ecbe516806f4b5831d4cd6ccbd10.png\"},{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/e85fb62ed3dab8db35ea2cdc4e87765bb3941b16.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_一起吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/173f79c2b3c1ecbe516806f4b5831d4cd6ccbd10.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_亲亲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e85fb62ed3dab8db35ea2cdc4e87765bb3941b16.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_吃辣条]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9e315e67a275791e7aaadac9077a1d459770fce2.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_吃零食]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d599b5f5f99d3cdd1d7966d0fc6c7a37d357501c.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_嗦面条]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/013aa2082a901a33997f3a9a0d5601637e28025a.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_大吃特吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/26e829320bc94bc42ea681d14075f4d8416d5f39.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_扮鬼脸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1763a3cb846e79c1b52630fa470c621f45efb0d5.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_抢零食]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7742a2160b80ad76081cd279be7bc793771a58d1.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_炫饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/23418129697b229a44da2fdd79950241fba7aeb1.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_炸弹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ef20f68b17efe13239d6e409552437c6a86b11a6.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_煮汤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/24d8fabf6b25aaa5719f7a7872702cd9f8ea4641.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_狗粮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ba938cbbd2450355f8b26d7b497b5b077a54d8bf.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_看戏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/26534e309ccc4919e6a969d438cf3e9cdb4e1daf.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_钓萝卜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/04b354b33bb2a1a42256ef5244b63a5daa90996c.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·美食派对_饿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1a94d609ca1f0051e48d78bd091ce0551cebcf7f.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1696925899001,
 				"name":"保卫萝卜·美食派对",
-				"tab_id":0,
 				"suit_item_id":128349401,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1696925640001,
 				"name":"保卫萝卜·美食派对",
-				"tab_id":0,
 				"suit_item_id":128349401,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1688634658001,
 				"name":"魔法契约",
-				"tab_id":0,
 				"suit_item_id":118752101,
 				"properties":{
 					"fan_no_color":"#D39D0C",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1688634658002,
 				"name":"魔法契约粉丝",
-				"tab_id":0,
 				"suit_item_id":118752101,
 				"properties":{
 					"fan_no_color":"#D39D0C",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1688635276001,
 				"name":"魔法契约",
-				"tab_id":0,
 				"suit_item_id":118752101,
 				"properties":{
 					"fan_no_color":"#D39D0C",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1688635147001,
 				"name":"魔法契约",
-				"tab_id":0,
 				"suit_item_id":118752101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/c8f15c4fdc9169b79be6c991eb6fb4ba5f067fa7.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"可爱魔法\",\"image\":\"https://i0.hdslb.com/bfs/garb/26e3c0a05bda950db8a176c56b7289b8b61b9eec.png\"},{\"name\":\"龟龟祟祟\",\"image\":\"https://i0.hdslb.com/bfs/garb/09ae314be5baf5cc9e46eca3eb4571ab03c9b259.png\"},{\"name\":\"苦读\",\"image\":\"https://i0.hdslb.com/bfs/garb/0fce758eec2559a1749b8f89eb5f83b4d437031c.png\"},{\"name\":\"爆炸\",\"image\":\"https://i0.hdslb.com/bfs/garb/81ccf0662376e7ebd3a39e21d29baea2b0847cee.png\"},{\"name\":\"变猪猪\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5f032fa3cd446ca60ca7733a7e357d2c96c581c.png\"},{\"name\":\"大脑除皱\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ef2c4a2217dcddeeae81ad2a26ffcccf1badbb1.png\"},{\"name\":\"长脑子了\",\"image\":\"https://i0.hdslb.com/bfs/garb/84979a7c19934c81abad554337006e86eea712f4.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/4697efa7d1634d4f848310891de04ff1522d900b.png\"},{\"name\":\"变大\",\"image\":\"https://i0.hdslb.com/bfs/garb/89300d76bf8bcdfff8082c81005d63979280b2f2.png\"},{\"name\":\"变小\",\"image\":\"https://i0.hdslb.com/bfs/garb/eaa54280c4280d2cf9a5c79cbefbb9e293efafc4.png\"},{\"name\":\"石化\",\"image\":\"https://i0.hdslb.com/bfs/garb/667cb47161fe5fddde8ef38a885e9ab343cc86b3.png\"},{\"name\":\"困困\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a18554228d05c83fc32e2c151349461cf2ba4cc.png\"},{\"name\":\"阿瓦达\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba7364848c0052d3174c4eea36cf7cc7470f7f15.png\"},{\"name\":\"躲猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/6869abe338862a659642997f86333931f8902f82.png\"},{\"name\":\"陷入沉思\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c49eec7d74d28a0deaf8702a35d6d8ce8b2f886.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_变大]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/89300d76bf8bcdfff8082c81005d63979280b2f2.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_变小]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eaa54280c4280d2cf9a5c79cbefbb9e293efafc4.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_变猪猪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a5f032fa3cd446ca60ca7733a7e357d2c96c581c.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_可爱魔法]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/26e3c0a05bda950db8a176c56b7289b8b61b9eec.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_困困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a18554228d05c83fc32e2c151349461cf2ba4cc.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_大脑除皱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ef2c4a2217dcddeeae81ad2a26ffcccf1badbb1.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4697efa7d1634d4f848310891de04ff1522d900b.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_爆炸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/81ccf0662376e7ebd3a39e21d29baea2b0847cee.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_石化]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/667cb47161fe5fddde8ef38a885e9ab343cc86b3.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_苦读]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0fce758eec2559a1749b8f89eb5f83b4d437031c.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_躲猫猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6869abe338862a659642997f86333931f8902f82.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_长脑子了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/84979a7c19934c81abad554337006e86eea712f4.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_阿瓦达]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ba7364848c0052d3174c4eea36cf7cc7470f7f15.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_陷入沉思]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c49eec7d74d28a0deaf8702a35d6d8ce8b2f886.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[魔法契约_龟龟祟祟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/09ae314be5baf5cc9e46eca3eb4571ab03c9b259.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1688635254001,
 				"name":"魔法契约",
-				"tab_id":0,
 				"suit_item_id":118752101,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1688635173001,
 				"name":"魔法契约",
-				"tab_id":0,
 				"suit_item_id":118752101,
 				"properties":{
 					"fan_no_color":"#ffffff",

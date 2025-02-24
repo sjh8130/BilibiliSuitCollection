@@ -35,7 +35,6 @@
 			{
 				"item_id":1681129266001,
 				"name":"十二生肖·寻宝小龙",
-				"tab_id":0,
 				"suit_item_id":111332301,
 				"properties":{
 					"fan_no_color":"#DE182C",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1681177501001,
 				"name":"十二生肖·寻宝小龙粉丝",
-				"tab_id":0,
 				"suit_item_id":111332301,
 				"properties":{
 					"fan_no_color":"#DE182C",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1681129302001,
 				"name":"十二生肖·寻宝小龙",
-				"tab_id":0,
 				"suit_item_id":111332301,
 				"properties":{
 					"fan_no_color":"#E20C0C",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1681129400001,
 				"name":"十二生肖·寻宝小龙",
-				"tab_id":0,
 				"suit_item_id":111332301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d1f581f8386f685f8da85c5c22b7c83975820b9f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"苏醒了\",\"image\":\"https://i0.hdslb.com/bfs/garb/2657e10cdc7ab7a3aaa5cb7dbb400d2f1f1357bd.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/72a97b6481aaaa368c00d9c768ad10293e8fa863.png\"},{\"name\":\"石化\",\"image\":\"https://i0.hdslb.com/bfs/garb/25d815354f341406ce224c0ba9e8ae52e2b23257.png\"},{\"name\":\"看戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/89c6cc0dd0b30ef98c8a7338786ecf7858203ca0.png\"},{\"name\":\"？\",\"image\":\"https://i0.hdslb.com/bfs/garb/1dd8ee10d36bc091f6e88993b2f4d6ea02c6b63f.png\"},{\"name\":\"骄傲\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba2c287081d9b10d82f839ca9bdc7f6438e4f763.png\"},{\"name\":\"危\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d99dd3003a756de9da51d4e173ae9cb837ad33b.png\"},{\"name\":\"直视我\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc5ef7722a6b5ce0c9dbced7c2bae14fa8446119.png\"},{\"name\":\"泪6了出来\",\"image\":\"https://i0.hdslb.com/bfs/garb/0bb78b9e94cf783d596030d7dbe7abfc7dc3c22c.png\"},{\"name\":\"龙龙看手机\",\"image\":\"https://i0.hdslb.com/bfs/garb/171b190a8aa4ff05895459a5536808d188dc55bc.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/41296ed61a2df1ad5cd1404755f9f6fb5a7c2b4c.png\"},{\"name\":\"龙龙震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/269808479cbd6848bb376ab6f10ca90cff59dbd6.png\"},{\"name\":\"眠了\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d0701c35488a30c4c72da8b5760891506ad6412.png\"},{\"name\":\"心动的感觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/8feafdef0822f02699672ddd76eca453401ab2cc.png\"},{\"name\":\"擤鼻涕\",\"image\":\"https://i0.hdslb.com/bfs/garb/848100592aa455701c072df1b8e408a8f83f6973.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_危]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1d99dd3003a756de9da51d4e173ae9cb837ad33b.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/41296ed61a2df1ad5cd1404755f9f6fb5a7c2b4c.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_心动的感觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8feafdef0822f02699672ddd76eca453401ab2cc.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_擤鼻涕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/848100592aa455701c072df1b8e408a8f83f6973.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/72a97b6481aaaa368c00d9c768ad10293e8fa863.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_泪6了出来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0bb78b9e94cf783d596030d7dbe7abfc7dc3c22c.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_直视我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dc5ef7722a6b5ce0c9dbced7c2bae14fa8446119.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_看戏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/89c6cc0dd0b30ef98c8a7338786ecf7858203ca0.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_眠了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d0701c35488a30c4c72da8b5760891506ad6412.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_石化]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/25d815354f341406ce224c0ba9e8ae52e2b23257.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_苏醒了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2657e10cdc7ab7a3aaa5cb7dbb400d2f1f1357bd.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_骄傲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ba2c287081d9b10d82f839ca9bdc7f6438e4f763.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_龙龙看手机]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/171b190a8aa4ff05895459a5536808d188dc55bc.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_龙龙震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/269808479cbd6848bb376ab6f10ca90cff59dbd6.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[十二生肖·寻宝小龙_？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1dd8ee10d36bc091f6e88993b2f4d6ea02c6b63f.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1681129571001,
 				"name":"十二生肖·寻宝小龙",
-				"tab_id":0,
 				"suit_item_id":111332301,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1681129328001,
 				"name":"十二生肖·寻宝小龙",
-				"tab_id":0,
 				"suit_item_id":111332301,
 				"properties":{
 					"fan_no_color":"#ffffff",

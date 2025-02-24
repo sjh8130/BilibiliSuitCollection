@@ -35,7 +35,6 @@
 			{
 				"item_id":1733559077001,
 				"name":"咩咩收藏集",
-				"tab_id":0,
 				"suit_item_id":234249901,
 				"properties":{
 					"fan_no_color":"#889FE6",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1733559077002,
 				"name":"咩咩收藏集粉丝",
-				"tab_id":0,
 				"suit_item_id":234249901,
 				"properties":{
 					"fan_no_color":"#889FE6",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1733560175001,
 				"name":"咩咩收藏集",
-				"tab_id":0,
 				"suit_item_id":234249901,
 				"properties":{
 					"fan_no_color":"#889FE6",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1733559108001,
 				"name":"咩咩收藏集",
-				"tab_id":0,
 				"suit_item_id":234249901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b829cc53df18e48b36320254ecd8290d67e93f54.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"圆珠笔\",\"image\":\"https://i0.hdslb.com/bfs/garb/8aadd3f954a95326d7ba6441095cf78a06ba9553.png\"},{\"name\":\"累了\",\"image\":\"https://i0.hdslb.com/bfs/garb/81b6d981caee5201d11a5245c338afc826228281.png\"},{\"name\":\"乖巧\",\"image\":\"https://i0.hdslb.com/bfs/garb/9072cc3b845d801dcd10afcdc2563ff50e6e8533.png\"},{\"name\":\"蝴蝶结\",\"image\":\"https://i0.hdslb.com/bfs/garb/9dbc9088b9f9599fda919fd4d48028aeaaf02746.png\"},{\"name\":\"电话\",\"image\":\"https://i0.hdslb.com/bfs/garb/8605b8396dade6092fed976a83924d5c816938f7.png\"},{\"name\":\"困了\",\"image\":\"https://i0.hdslb.com/bfs/garb/229ba255eaf976ac8ec93ee420e0dfbca5e60b6d.png\"},{\"name\":\"站岗\",\"image\":\"https://i0.hdslb.com/bfs/garb/18a7b65c7b57ba5484a6c18220873cf861462c36.png\"},{\"name\":\"收藏集\",\"image\":\"https://i0.hdslb.com/bfs/garb/e69f52925709dd483584b72021434d25e06652d0.png\"},{\"name\":\"电脑\",\"image\":\"https://i0.hdslb.com/bfs/garb/4283e4d76145ddcc52a5e652de404147791fc5af.png\"},{\"name\":\"书包\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba650e2b15715f59b7d03ec3b6cbe0b058eb7776.png\"},{\"name\":\"冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbdf3d173a7934ebdf29520979ac6350a9ab71ea.png\"},{\"name\":\"劈叉高手\",\"image\":\"https://i0.hdslb.com/bfs/garb/91282c2fd1dfea17ec86c73cc47246d86c3f5b3f.png\"},{\"name\":\"便签\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd75846a8b9d24704542e6789b43ecfff8c548a9.png\"},{\"name\":\"甜甜圈\",\"image\":\"https://i0.hdslb.com/bfs/garb/76e30e235bbad54d2ac09dfc6034e00668390d8e.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd3f2582a2643f5d9d2fecd3caed64637835d9ff.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_乖巧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9072cc3b845d801dcd10afcdc2563ff50e6e8533.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_书包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ba650e2b15715f59b7d03ec3b6cbe0b058eb7776.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_便签]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dd75846a8b9d24704542e6789b43ecfff8c548a9.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_冰激凌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbdf3d173a7934ebdf29520979ac6350a9ab71ea.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_劈叉高手]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/91282c2fd1dfea17ec86c73cc47246d86c3f5b3f.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_困了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/229ba255eaf976ac8ec93ee420e0dfbca5e60b6d.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_圆珠笔]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8aadd3f954a95326d7ba6441095cf78a06ba9553.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fd3f2582a2643f5d9d2fecd3caed64637835d9ff.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_收藏集]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e69f52925709dd483584b72021434d25e06652d0.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_甜甜圈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/76e30e235bbad54d2ac09dfc6034e00668390d8e.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_电脑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4283e4d76145ddcc52a5e652de404147791fc5af.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_电话]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8605b8396dade6092fed976a83924d5c816938f7.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_站岗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/18a7b65c7b57ba5484a6c18220873cf861462c36.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_累了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/81b6d981caee5201d11a5245c338afc826228281.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[咩咩收藏集_蝴蝶结]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9dbc9088b9f9599fda919fd4d48028aeaaf02746.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1733560118001,
 				"name":"咩咩收藏集",
-				"tab_id":0,
 				"suit_item_id":234249901,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1733559134001,
 				"name":"咩咩收藏集",
-				"tab_id":0,
 				"suit_item_id":234249901,
 				"properties":{
 					"fan_no_color":"#ffffff",

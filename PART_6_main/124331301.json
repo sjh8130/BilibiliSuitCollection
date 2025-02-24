@@ -35,7 +35,6 @@
 			{
 				"item_id":1693389526001,
 				"name":"算数小黄豆",
-				"tab_id":0,
 				"suit_item_id":124331301,
 				"properties":{
 					"fan_no_color":"#E8B70B",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1693530907001,
 				"name":"算数小黄豆粉丝",
-				"tab_id":0,
 				"suit_item_id":124331301,
 				"properties":{
 					"fan_no_color":"#E8B70B",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1693389562001,
 				"name":"算数小黄豆",
-				"tab_id":0,
 				"suit_item_id":124331301,
 				"properties":{
 					"fan_no_color":"#E8B70B",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1692932269001,
 				"name":"算数小黄豆",
-				"tab_id":0,
 				"suit_item_id":124331301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/850fb7d62dc3034042563b7f189445cb30de2e1c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"好困\",\"image\":\"https://i0.hdslb.com/bfs/garb/d69e1b81595f01cd9bc2e11bb0c92ddac90ced05.png\"},{\"name\":\"爱的教育\",\"image\":\"https://i0.hdslb.com/bfs/garb/31ca34b7b75c8ded700620a945d6d5905a4a48c9.png\"},{\"name\":\"看这里\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f83c6ffb46ea768bd8872cb0d8d945206c82c02.png\"},{\"name\":\"一拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0ff6ad6f397ec7a60e4c961b93cf7c08de40a8f.png\"},{\"name\":\"根本不会\",\"image\":\"https://i0.hdslb.com/bfs/garb/3585f0b19013a63f54f28ae65cff3dca81d279a6.png\"},{\"name\":\"cool\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b5b57ecac70419246dfe5886334f5df19663b70.png\"},{\"name\":\"加\",\"image\":\"https://i0.hdslb.com/bfs/garb/d852cb428601eaaf5383d0413576dd3e3f1da805.png\"},{\"name\":\"大放厥词\",\"image\":\"https://i0.hdslb.com/bfs/garb/3cb20c9979a642f092d5b61268109f8e71cb77c2.png\"},{\"name\":\"等于\",\"image\":\"https://i0.hdslb.com/bfs/garb/3de0f0894f59877ecc6b2118d37fe1d9754a69db.png\"},{\"name\":\"不堪一击\",\"image\":\"https://i0.hdslb.com/bfs/garb/baad42cc18510673fda4e6ea3f4c8bb91c82cce4.png\"},{\"name\":\"洗地\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5d74056bdae7e002ba916f0de754a99f31186cb.png\"},{\"name\":\"消毒\",\"image\":\"https://i0.hdslb.com/bfs/garb/273e8cedf124010bf7924a0d17ebff6b0ded52aa.png\"},{\"name\":\"擦边边\",\"image\":\"https://i0.hdslb.com/bfs/garb/38a62330ab9eebc738f042d3358fcc9a8b9f9f0a.png\"},{\"name\":\"洗白白\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ed8d7536ea088a52f3d0b37610347a96d86e89d.png\"},{\"name\":\"love\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d0f25ad5f7e2789754df6fe094f77e83f9fc27a.png\"},{\"name\":\"窃窃私语\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b7f85802200bc9a825d1fcc9f8c8d2b48c3e913.png\"},{\"name\":\"小声叨叨\",\"image\":\"https://i0.hdslb.com/bfs/garb/76b8f15d40369075a1c6006f32b5de50d17897c9.png\"},{\"name\":\"除\",\"image\":\"https://i0.hdslb.com/bfs/garb/792c87c0a6a30d8cfc9253c0c27a8d1a58fadfac.png\"},{\"name\":\"乘\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbcb6fa526897014a8c07641be0f30b3ac3462b3.png\"},{\"name\":\"减\",\"image\":\"https://i0.hdslb.com/bfs/garb/540efe4188e8a2b80e09ff6e2f0ad578e83a70ea.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_cool]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6b5b57ecac70419246dfe5886334f5df19663b70.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_love]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9d0f25ad5f7e2789754df6fe094f77e83f9fc27a.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_一拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f0ff6ad6f397ec7a60e4c961b93cf7c08de40a8f.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_不堪一击]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/baad42cc18510673fda4e6ea3f4c8bb91c82cce4.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_乘]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbcb6fa526897014a8c07641be0f30b3ac3462b3.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_减]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/540efe4188e8a2b80e09ff6e2f0ad578e83a70ea.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_加]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d852cb428601eaaf5383d0413576dd3e3f1da805.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_大放厥词]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3cb20c9979a642f092d5b61268109f8e71cb77c2.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_好困]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d69e1b81595f01cd9bc2e11bb0c92ddac90ced05.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_小声叨叨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/76b8f15d40369075a1c6006f32b5de50d17897c9.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_擦边边]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/38a62330ab9eebc738f042d3358fcc9a8b9f9f0a.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_根本不会]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3585f0b19013a63f54f28ae65cff3dca81d279a6.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_洗地]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a5d74056bdae7e002ba916f0de754a99f31186cb.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_洗白白]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ed8d7536ea088a52f3d0b37610347a96d86e89d.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_消毒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/273e8cedf124010bf7924a0d17ebff6b0ded52aa.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_爱的教育]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/31ca34b7b75c8ded700620a945d6d5905a4a48c9.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_看这里]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8f83c6ffb46ea768bd8872cb0d8d945206c82c02.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_窃窃私语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7b7f85802200bc9a825d1fcc9f8c8d2b48c3e913.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_等于]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3de0f0894f59877ecc6b2118d37fe1d9754a69db.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[算数小黄豆_除]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/792c87c0a6a30d8cfc9253c0c27a8d1a58fadfac.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1693389599001,
 				"name":"算数小黄豆",
-				"tab_id":0,
 				"suit_item_id":124331301,
 				"properties":{
 					"color":"#000000",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1693389590001,
 				"name":"算数小黄豆",
-				"tab_id":0,
 				"suit_item_id":124331301,
 				"properties":{
 					"fan_no_color":"#ffffff",

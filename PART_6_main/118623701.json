@@ -35,7 +35,6 @@
 			{
 				"item_id":1688449798001,
 				"name":"宝黛集",
-				"tab_id":0,
 				"suit_item_id":118623701,
 				"properties":{
 					"fan_no_color":"#E75E5E",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1688449798002,
 				"name":"宝黛集粉丝",
-				"tab_id":0,
 				"suit_item_id":118623701,
 				"properties":{
 					"fan_no_color":"#E75E5E",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1688449854001,
 				"name":"宝黛集",
-				"tab_id":0,
 				"suit_item_id":118623701,
 				"properties":{
 					"fan_no_color":"#E75E5E",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1688450339001,
 				"name":"宝黛集",
-				"tab_id":0,
 				"suit_item_id":118623701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0f1d2ad0481a49dfd7232713a7bd905e557e6861.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"发现盲点\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2ef0fb76c068df6a31c2a7f550e70dfc81375d0.png\"},{\"name\":\"心动\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9702d8b8df161673733244a6b330623af6cf06e.png\"},{\"name\":\"饿饿饭饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e6640335e140ca6f165a9a38e8d53bf161cb5ce.png\"},{\"name\":\"初次见面\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e33d493db280d3dd02d1f2da2ebad38743604c8.png\"},{\"name\":\"惊讶\",\"image\":\"https://i0.hdslb.com/bfs/garb/9175763fc1c0b5800deaa9ec242f70d29ac4bfc3.png\"},{\"name\":\"陶醉\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f4d24b77aabe679ffec083eb29aea53b1ecf4b9.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/8670dbb49c821b56299fe1a1ad3b914de3e95b79.png\"},{\"name\":\"告辞\",\"image\":\"https://i0.hdslb.com/bfs/garb/b1cfea352ddc9d0e15fd1035858b74d6c2fa8abb.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/37fee7dc8e5965699a49cba5489a7efbf6be3275.png\"},{\"name\":\"困...\",\"image\":\"https://i0.hdslb.com/bfs/garb/a43c33799c1c1bbc7d6f113a863668988e654037.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdcf1dfbffb3e1e46e4c18294628e8c526e4ec3e.png\"},{\"name\":\"心虚\",\"image\":\"https://i0.hdslb.com/bfs/garb/72b52cba00ba53c994665823874a6a8e53de345c.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/df9c1c33b3f14e00de3a5d7d16a9c338a0319910.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc9445bff7c8321050fd686d445f4a8a6927d477.png\"},{\"name\":\"慌张\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea859b71519f568385d50eabfbd9d474b42cba5c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_初次见面]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e33d493db280d3dd02d1f2da2ebad38743604c8.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_发现盲点]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b2ef0fb76c068df6a31c2a7f550e70dfc81375d0.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_告辞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b1cfea352ddc9d0e15fd1035858b74d6c2fa8abb.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_困...]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a43c33799c1c1bbc7d6f113a863668988e654037.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_委屈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bdcf1dfbffb3e1e46e4c18294628e8c526e4ec3e.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8670dbb49c821b56299fe1a1ad3b914de3e95b79.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_心动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d9702d8b8df161673733244a6b330623af6cf06e.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_心虚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/72b52cba00ba53c994665823874a6a8e53de345c.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_惊讶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9175763fc1c0b5800deaa9ec242f70d29ac4bfc3.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_慌张]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea859b71519f568385d50eabfbd9d474b42cba5c.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fc9445bff7c8321050fd686d445f4a8a6927d477.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/37fee7dc8e5965699a49cba5489a7efbf6be3275.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/df9c1c33b3f14e00de3a5d7d16a9c338a0319910.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_陶醉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1f4d24b77aabe679ffec083eb29aea53b1ecf4b9.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[宝黛集_饿饿饭饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1e6640335e140ca6f165a9a38e8d53bf161cb5ce.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1688451102001,
 				"name":"宝黛集",
-				"tab_id":0,
 				"suit_item_id":118623701,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1688514758001,
 				"name":"宝黛",
-				"tab_id":0,
 				"suit_item_id":118623701,
 				"properties":{
 					"fan_no_color":"#ffffff",

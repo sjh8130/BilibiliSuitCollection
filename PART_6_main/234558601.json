@@ -35,7 +35,6 @@
 			{
 				"item_id":1733828196001,
 				"name":"小羊芝士",
-				"tab_id":0,
 				"suit_item_id":234558601,
 				"properties":{
 					"fan_no_color":"#79BDFB",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1733828196002,
 				"name":"小羊芝士粉丝",
-				"tab_id":0,
 				"suit_item_id":234558601,
 				"properties":{
 					"fan_no_color":"#79BDFB",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1733828458001,
 				"name":"小羊芝士",
-				"tab_id":0,
 				"suit_item_id":234558601,
 				"properties":{
 					"fan_no_color":"#79BDFB",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1733828225001,
 				"name":"小羊芝士",
-				"tab_id":0,
 				"suit_item_id":234558601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/61234fc61a0ff26d324b7d350250bbf2a452310d.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"拿勺吃饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/442b8209eb642e517070a0dd9678dffacfa1841f.png\"},{\"name\":\"拿叉吃饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d9ec7514b9b258f2ab0a614a0134e33f7a413a4.png\"},{\"name\":\"桃子汽水\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e223d3183a813f1936d90367e2f176c645811b2.png\"},{\"name\":\"兔子面包\",\"image\":\"https://i0.hdslb.com/bfs/garb/104a40b48d177ef0003c9a35cacc97372579120d.png\"},{\"name\":\"送你花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d69288b72a328ff2fb01be1b24c543d0aecad25.png\"},{\"name\":\"施展魔法\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c6ce84567da8762eae174838e84036ad45371b0.png\"},{\"name\":\"牛奶\",\"image\":\"https://i0.hdslb.com/bfs/garb/741ac95123a98a0fd7296211db7ec6584dee05a3.png\"},{\"name\":\"冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/787feee322a98a9dd0faead2902b5d7fda7d48e2.png\"},{\"name\":\"蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/b679cf4ad383ad4f3c413d4ad0b77d72d37e9d86.png\"},{\"name\":\"累了\",\"image\":\"https://i0.hdslb.com/bfs/garb/da700851ed08033b7976f48972266f23b73edd8b.png\"},{\"name\":\"书包\",\"image\":\"https://i0.hdslb.com/bfs/garb/557ca719a8ac58516dc1103aa5fd65b49f9f0af0.png\"},{\"name\":\"电视\",\"image\":\"https://i0.hdslb.com/bfs/garb/66557986734d2f3845da5ff73e265d91b69d1115.png\"},{\"name\":\"可爱小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0d055e2265bbc15572480f7a51e38b2c9ccedcb.png\"},{\"name\":\"Hi\",\"image\":\"https://i0.hdslb.com/bfs/garb/84402828b646fbfc34f3e16ff8e25ed5c51f471b.png\"},{\"name\":\"看看\",\"image\":\"https://i0.hdslb.com/bfs/garb/dba45919534ce108ddba41387fdb57aa75931580.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_Hi]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/84402828b646fbfc34f3e16ff8e25ed5c51f471b.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_书包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/557ca719a8ac58516dc1103aa5fd65b49f9f0af0.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_兔子面包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/104a40b48d177ef0003c9a35cacc97372579120d.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_冰激凌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/787feee322a98a9dd0faead2902b5d7fda7d48e2.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_可爱小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e0d055e2265bbc15572480f7a51e38b2c9ccedcb.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_拿勺吃饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/442b8209eb642e517070a0dd9678dffacfa1841f.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_拿叉吃饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d9ec7514b9b258f2ab0a614a0134e33f7a413a4.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_施展魔法]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0c6ce84567da8762eae174838e84036ad45371b0.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_桃子汽水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7e223d3183a813f1936d90367e2f176c645811b2.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_牛奶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/741ac95123a98a0fd7296211db7ec6584dee05a3.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_电视]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/66557986734d2f3845da5ff73e265d91b69d1115.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_看看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dba45919534ce108ddba41387fdb57aa75931580.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_累了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/da700851ed08033b7976f48972266f23b73edd8b.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_蛋糕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b679cf4ad383ad4f3c413d4ad0b77d72d37e9d86.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[小羊芝士_送你花花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6d69288b72a328ff2fb01be1b24c543d0aecad25.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1733828417001,
 				"name":"小羊芝士",
-				"tab_id":0,
 				"suit_item_id":234558601,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1733828247001,
 				"name":"小羊芝士",
-				"tab_id":0,
 				"suit_item_id":234558601,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -36,7 +36,6 @@
 			{
 				"item_id":1681543412001,
 				"name":"黄昏列车",
-				"tab_id":0,
 				"suit_item_id":110546401,
 				"properties":{
 					"fan_no_color":"#E18654",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1681543412002,
 				"name":"黄昏列车粉丝",
-				"tab_id":0,
 				"suit_item_id":110546401,
 				"properties":{
 					"fan_no_color":"#E18654",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1681543433001,
 				"name":"黄昏列车",
-				"tab_id":0,
 				"suit_item_id":110546401,
 				"properties":{
 					"fan_no_color":"#E18654",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1681543490001,
 				"name":"黄昏列车",
-				"tab_id":0,
 				"suit_item_id":110546401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0f74981a89f1e4dd95cd9b11d83bb10c703e75a1.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"太差劲了\",\"image\":\"https://i0.hdslb.com/bfs/garb/d3bfbe8851c948ef1cefc3a07149e033c66d0c21.png\"},{\"name\":\"瑟瑟发抖\",\"image\":\"https://i0.hdslb.com/bfs/garb/f78fc5802bfd0fc13b42c4c77a6f5440475cd7f1.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/1be5af29edf5415b28d32630f3fadfb1d2393c72.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b9b7e0f440ff760d8e20484b65814b250da834b.png\"},{\"name\":\"让我看看\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4fb8daae7465944866343f9d39842bb95e837c5.png\"},{\"name\":\"交给我吧\",\"image\":\"https://i0.hdslb.com/bfs/garb/76e3974b3a5d1465796e2812747ab115e3786424.png\"},{\"name\":\"直接睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d57cb07f0c87401a375a6465da95acde29f50a7.png\"},{\"name\":\"恭喜\",\"image\":\"https://i0.hdslb.com/bfs/garb/023284a3867f10678ad3cf0c657804cfc2362d19.png\"},{\"name\":\"诶\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ebb4d6dbb2e4d174d6cdbaaa040eeda18d222c5.png\"},{\"name\":\"哒咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/3980a0de2f9a275ccf50a962dcaec96c6350323c.png\"},{\"name\":\"呵呵\",\"image\":\"https://i0.hdslb.com/bfs/garb/53c50f9fb0d9dcfc038082a26c7289eca9d56706.png\"},{\"name\":\"贵安\",\"image\":\"https://i0.hdslb.com/bfs/garb/4dd00108ffb3882eb341ebe4f6c778487f038ec3.png\"},{\"name\":\"心动\",\"image\":\"https://i0.hdslb.com/bfs/garb/a43310378ce9ba147e3f8f84d319858054d8b9e4.png\"},{\"name\":\"确实\",\"image\":\"https://i0.hdslb.com/bfs/garb/4cae24af521cd6d6156f69b311d01059f7410c75.png\"},{\"name\":\"尴尬\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a72ce06ce95a366a10888631f35631fa9420000.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_交给我吧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/76e3974b3a5d1465796e2812747ab115e3786424.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_呵呵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/53c50f9fb0d9dcfc038082a26c7289eca9d56706.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_哒咩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3980a0de2f9a275ccf50a962dcaec96c6350323c.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_大哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3b9b7e0f440ff760d8e20484b65814b250da834b.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_太差劲了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d3bfbe8851c948ef1cefc3a07149e033c66d0c21.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_尴尬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a72ce06ce95a366a10888631f35631fa9420000.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_心动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a43310378ce9ba147e3f8f84d319858054d8b9e4.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_恭喜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/023284a3867f10678ad3cf0c657804cfc2362d19.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_瑟瑟发抖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f78fc5802bfd0fc13b42c4c77a6f5440475cd7f1.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1be5af29edf5415b28d32630f3fadfb1d2393c72.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_直接睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5d57cb07f0c87401a375a6465da95acde29f50a7.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_确实]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4cae24af521cd6d6156f69b311d01059f7410c75.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_让我看看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e4fb8daae7465944866343f9d39842bb95e837c5.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_诶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ebb4d6dbb2e4d174d6cdbaaa040eeda18d222c5.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[黄昏列车_贵安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4dd00108ffb3882eb341ebe4f6c778487f038ec3.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1681543607001,
 				"name":"黄昏列车",
-				"tab_id":0,
 				"suit_item_id":110546401,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1681543465001,
 				"name":"黄昏列车",
-				"tab_id":0,
 				"suit_item_id":110546401,
 				"properties":{
 					"fan_no_color":"#ffffff",

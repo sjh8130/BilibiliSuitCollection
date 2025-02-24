@@ -35,7 +35,6 @@
 			{
 				"item_id":1730258106001,
 				"name":"魔女与精灵",
-				"tab_id":0,
 				"suit_item_id":230531401,
 				"properties":{
 					"fan_no_color":"#AB61FE",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1730258106002,
 				"name":"魔女与精灵粉丝",
-				"tab_id":0,
 				"suit_item_id":230531401,
 				"properties":{
 					"fan_no_color":"#AB61FE",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1730258171001,
 				"name":"魔女与精灵",
-				"tab_id":0,
 				"suit_item_id":230531401,
 				"properties":{
 					"fan_no_color":"#AB61FE",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1730259420001,
 				"name":"魔女与精灵",
-				"tab_id":0,
 				"suit_item_id":230531401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ccc4e9b39fd5107d239b7e20bb64a1a8811c4491.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"魔法消除\",\"image\":\"https://i0.hdslb.com/bfs/garb/29d39fddbd4848bb12c6a8b4173c0a7f0addccb0.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f4a9e41bc234f406f828ce704479a1e227e7fab.png\"},{\"name\":\"看不见我\",\"image\":\"https://i0.hdslb.com/bfs/garb/3939451e6bf8a53d833fd6b6b443b5651c90aef6.png\"},{\"name\":\"要抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/48630de75ee32c5b4c509147ce26baf40f62a21c.png\"},{\"name\":\"哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae0c47afe8d68d5d6873bd1f3d8a53e6b08f209a.png\"},{\"name\":\"来咯来咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/a57542f6743f0f2f6d80badb761d74805f64b03b.png\"},{\"name\":\"那咋了\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4275ec7d752b849c6cd0a084a8eb7e9ca555216.png\"},{\"name\":\"泪目了\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e97223a70660133e1b7b1e8cbe2d9661cf5705b.png\"},{\"name\":\"女巫来咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/49cd7fd2ffbd287fc7dbfb39f3aed42328803e21.png\"},{\"name\":\"捣蛋鬼出击\",\"image\":\"https://i0.hdslb.com/bfs/garb/e267ceadccd01330bc50b0258376bbdd2f92321e.png\"},{\"name\":\"没糖就捣蛋\",\"image\":\"https://i0.hdslb.com/bfs/garb/a47630e761b248d7d1dc34e5943075786850b8d5.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/dea6869f9ce24f4224bbaee21ebc3ac4ef486836.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/51adb8c3b04becaf6cc118c054c40761488e02e5.png\"},{\"name\":\"吃糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7fb7c040f4743dbe7906a29cdda1adce36a1d9f.png\"},{\"name\":\"唉\",\"image\":\"https://i0.hdslb.com/bfs/garb/b653f709205dda680c685bb20008f3bceec3f14d.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/51adb8c3b04becaf6cc118c054c40761488e02e5.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_吃糖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f7fb7c040f4743dbe7906a29cdda1adce36a1d9f.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_哈哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ae0c47afe8d68d5d6873bd1f3d8a53e6b08f209a.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_唉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b653f709205dda680c685bb20008f3bceec3f14d.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_女巫来咯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/49cd7fd2ffbd287fc7dbfb39f3aed42328803e21.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_捣蛋鬼出击]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e267ceadccd01330bc50b0258376bbdd2f92321e.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dea6869f9ce24f4224bbaee21ebc3ac4ef486836.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_来咯来咯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a57542f6743f0f2f6d80badb761d74805f64b03b.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_没糖就捣蛋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a47630e761b248d7d1dc34e5943075786850b8d5.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_泪目了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4e97223a70660133e1b7b1e8cbe2d9661cf5705b.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_看不见我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3939451e6bf8a53d833fd6b6b443b5651c90aef6.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_要抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/48630de75ee32c5b4c509147ce26baf40f62a21c.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3f4a9e41bc234f406f828ce704479a1e227e7fab.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_那咋了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e4275ec7d752b849c6cd0a084a8eb7e9ca555216.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[魔女与精灵_魔法消除]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/29d39fddbd4848bb12c6a8b4173c0a7f0addccb0.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1730267768001,
 				"name":"魔女与精灵",
-				"tab_id":0,
 				"suit_item_id":230531401,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1730258213001,
 				"name":"魔女与精灵",
-				"tab_id":0,
 				"suit_item_id":230531401,
 				"properties":{
 					"fan_no_color":"#ffffff",

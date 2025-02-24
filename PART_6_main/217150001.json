@@ -35,7 +35,6 @@
 			{
 				"item_id":1718786237001,
 				"name":"章鱼哥",
-				"tab_id":0,
 				"suit_item_id":217150001,
 				"properties":{
 					"fan_no_color":"#93BEB2",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1718786237002,
 				"name":"章鱼哥粉丝",
-				"tab_id":0,
 				"suit_item_id":217150001,
 				"properties":{
 					"fan_no_color":"#93BEB2",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1718786256001,
 				"name":"章鱼哥",
-				"tab_id":0,
 				"suit_item_id":217150001,
 				"properties":{
 					"fan_no_color":"#93BEB2",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1718786300001,
 				"name":"章鱼哥",
-				"tab_id":0,
 				"suit_item_id":217150001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5af71fbb38d37f7c6810a444eecfa12aee37b041.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"算账\",\"image\":\"https://i0.hdslb.com/bfs/garb/139ff8decdbe0a15ec153b0a9838ef0b9f436993.png\"},{\"name\":\"快跑\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2ee5cbd6da251567d04055fbc7de1f6f69df35f.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/15ab16aa22de3196eb09eeef599d136a64bb0519.png\"},{\"name\":\"真不错\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b60ba23622f9ca4ab6691362cd6c50b6b6c236b.png\"},{\"name\":\"自愿上班\",\"image\":\"https://i0.hdslb.com/bfs/garb/26ee99d2694bbfd4d31f190831f2a5662856f6e8.png\"},{\"name\":\"服了\",\"image\":\"https://i0.hdslb.com/bfs/garb/34f9e8de73233275c0f8f80dd15cc5da02f243a9.png\"},{\"name\":\"吹奏\",\"image\":\"https://i0.hdslb.com/bfs/garb/5aa286cfedcdc428f4f0f865f92d0523c2d7c566.png\"},{\"name\":\"画画\",\"image\":\"https://i0.hdslb.com/bfs/garb/451959b25afc47c4eb8c4d2178ef631b4d792b72.png\"},{\"name\":\"请慢用\",\"image\":\"https://i0.hdslb.com/bfs/garb/22b9231dfd5dfdebe0a2924dc69ab30af4896b85.png\"},{\"name\":\"赞美\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8f14da242988cc54da283e4f23263d54e9be044.png\"},{\"name\":\"求求你\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc7ae65e2d871ffbd5d4b7e218892f74a890c3c7.png\"},{\"name\":\"讨厌\",\"image\":\"https://i0.hdslb.com/bfs/garb/059b4b6b6904de120ca4a4d53a2ba2e86b50fb6b.png\"},{\"name\":\"记仇\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc957868e424210a7689f027e1e3dd0352ba6737.png\"},{\"name\":\"惊吓\",\"image\":\"https://i0.hdslb.com/bfs/garb/7dd8c317a76fb03f0f2485ea6769a231d608fdba.png\"},{\"name\":\"烦恼\",\"image\":\"https://i0.hdslb.com/bfs/garb/e40d3dce465d173171e7077fd14e27c5ee55d717.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_吹奏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5aa286cfedcdc428f4f0f865f92d0523c2d7c566.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_快跑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f2ee5cbd6da251567d04055fbc7de1f6f69df35f.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_惊吓]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7dd8c317a76fb03f0f2485ea6769a231d608fdba.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/15ab16aa22de3196eb09eeef599d136a64bb0519.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_服了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/34f9e8de73233275c0f8f80dd15cc5da02f243a9.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_求求你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bc7ae65e2d871ffbd5d4b7e218892f74a890c3c7.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_烦恼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e40d3dce465d173171e7077fd14e27c5ee55d717.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_画画]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/451959b25afc47c4eb8c4d2178ef631b4d792b72.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_真不错]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8b60ba23622f9ca4ab6691362cd6c50b6b6c236b.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_算账]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/139ff8decdbe0a15ec153b0a9838ef0b9f436993.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_自愿上班]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/26ee99d2694bbfd4d31f190831f2a5662856f6e8.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_讨厌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/059b4b6b6904de120ca4a4d53a2ba2e86b50fb6b.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_记仇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bc957868e424210a7689f027e1e3dd0352ba6737.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_请慢用]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/22b9231dfd5dfdebe0a2924dc69ab30af4896b85.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[章鱼哥_赞美]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b8f14da242988cc54da283e4f23263d54e9be044.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1718786379001,
 				"name":"章鱼哥",
-				"tab_id":0,
 				"suit_item_id":217150001,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1718786280001,
 				"name":"章鱼哥",
-				"tab_id":0,
 				"suit_item_id":217150001,
 				"properties":{
 					"fan_no_color":"#ffffff",

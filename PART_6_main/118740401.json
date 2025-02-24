@@ -36,7 +36,6 @@
 			{
 				"item_id":1688467306001,
 				"name":"魂器学院",
-				"tab_id":0,
 				"suit_item_id":118740401,
 				"properties":{
 					"fan_no_color":"#8E3DE0",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1688562262001,
 				"name":"魂器学院粉丝",
-				"tab_id":0,
 				"suit_item_id":118740401,
 				"properties":{
 					"fan_no_color":"#8E3DE0",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1688467371001,
 				"name":"魂器学院",
-				"tab_id":0,
 				"suit_item_id":118740401,
 				"properties":{
 					"fan_no_color":"#8E3DE0",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1688467402001,
 				"name":"魂器学院",
-				"tab_id":0,
 				"suit_item_id":118740401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/14302f09db3b067c6f2f9179df5578b048d46029.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"？\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7b464de277885d1190f870a9587445c2a27f1fe.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/8780501331eace0cc9e80b195c04d0fe07a0af87.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/531b380693617f9eea9e77a045c206b827a21204.png\"},{\"name\":\"awsl\",\"image\":\"https://i0.hdslb.com/bfs/garb/4788e53d017446652b9ea5d920a2b99d646677ab.png\"},{\"name\":\"拷打\",\"image\":\"https://i0.hdslb.com/bfs/garb/395f07feb6fd4c9baf29bdbff02015a5a21dec0f.png\"},{\"name\":\"羡慕\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0fd79581b67707cbc1557c7a6d826cd093abd79.png\"},{\"name\":\"cool\",\"image\":\"https://i0.hdslb.com/bfs/garb/103d3a3305886a090539cc9186198b59221c568b.png\"},{\"name\":\"买\",\"image\":\"https://i0.hdslb.com/bfs/garb/34ebcae35ebe3b5f5a85b72fd4bb13452fc8e091.png\"},{\"name\":\"穷\",\"image\":\"https://i0.hdslb.com/bfs/garb/b567430374e94d6574cc4311115997e382215a1d.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/43ae729aa4ede01b53d63193bc9b0785a0c5b7cc.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/5468d66bc6e0f0f787963b122d55cd07531c6de3.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/046e8303cb99070c2b1f719e3be0a6eaf2a8c0bc.png\"},{\"name\":\"呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/ebec66f3c8470708feff8ac01e9c56bf29c2aa2d.png\"},{\"name\":\"怒火\",\"image\":\"https://i0.hdslb.com/bfs/garb/ceb9db75c75507c74a77d72d0a6fcf04e3e14e9f.png\"},{\"name\":\"无助\",\"image\":\"https://i0.hdslb.com/bfs/garb/0274f0dbe3f8301fbfc9d4276a18a368d6f43a26.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_awsl]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4788e53d017446652b9ea5d920a2b99d646677ab.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_cool]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/103d3a3305886a090539cc9186198b59221c568b.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_买]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/34ebcae35ebe3b5f5a85b72fd4bb13452fc8e091.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_呜呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ebec66f3c8470708feff8ac01e9c56bf29c2aa2d.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5468d66bc6e0f0f787963b122d55cd07531c6de3.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_怒火]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ceb9db75c75507c74a77d72d0a6fcf04e3e14e9f.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_拷打]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/395f07feb6fd4c9baf29bdbff02015a5a21dec0f.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_无助]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0274f0dbe3f8301fbfc9d4276a18a368d6f43a26.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_暗中观察]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/43ae729aa4ede01b53d63193bc9b0785a0c5b7cc.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/531b380693617f9eea9e77a045c206b827a21204.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_爱心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8780501331eace0cc9e80b195c04d0fe07a0af87.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_穷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b567430374e94d6574cc4311115997e382215a1d.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_羡慕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c0fd79581b67707cbc1557c7a6d826cd093abd79.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/046e8303cb99070c2b1f719e3be0a6eaf2a8c0bc.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[魂器学院_？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b7b464de277885d1190f870a9587445c2a27f1fe.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1688467644001,
 				"name":"魂器学院",
-				"tab_id":0,
 				"suit_item_id":118740401,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1688468583001,
 				"name":"魂器学院",
-				"tab_id":0,
 				"suit_item_id":118740401,
 				"properties":{
 					"fan_no_color":"#ffffff",

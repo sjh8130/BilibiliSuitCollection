@@ -36,7 +36,6 @@
 			{
 				"item_id":1682386584001,
 				"name":"小小魅魔",
-				"tab_id":0,
 				"suit_item_id":111529401,
 				"properties":{
 					"fan_no_color":"#7BBFFF",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1682386584002,
 				"name":"小小魅魔粉丝",
-				"tab_id":0,
 				"suit_item_id":111529401,
 				"properties":{
 					"fan_no_color":"#7BBFFF",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1682386606001,
 				"name":"小小魅魔",
-				"tab_id":0,
 				"suit_item_id":111529401,
 				"properties":{
 					"fan_no_color":"#7BBFFF",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1682386657001,
 				"name":"小小魅魔",
-				"tab_id":0,
 				"suit_item_id":111529401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0cc097c5ae1a61f72219107b9b392b41a65248a7.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/368f1c61c7744c996516c66e66d7b58849c6e068.png\"},{\"name\":\"嘘\",\"image\":\"https://i0.hdslb.com/bfs/garb/16604f13cb1fc4fec9f084bf663e63fd1fb76770.png\"},{\"name\":\"打击\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc1ca131fefcbd450605a55cf53a421474fce7c8.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ea25711028afce62dad91bb5401433d0f6145fc.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b52dcf289839e41d77c35fdbf30f9a8778eaf04.png\"},{\"name\":\"柠檬精\",\"image\":\"https://i0.hdslb.com/bfs/garb/1238c3d76b2a8f3276e8848db6c28b5da34b6801.png\"},{\"name\":\"大受震撼\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc6fa8d080e3989274988fedd909e6c7f9958ae5.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d5e84a74e339dbf342c7f66a36a5187b52b8f41.png\"},{\"name\":\"嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b779044ba3e84ad0471cb1e5f7b53f8eaffa992.png\"},{\"name\":\"脸红\",\"image\":\"https://i0.hdslb.com/bfs/garb/69be7ba8b7a53ed6373b033d648c13ae73194099.png\"},{\"name\":\"睡觉觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/06b1c110ac60bcbb87c9ba61177be01022bd28f3.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5e2216906dda2f3fed141d9f96dce4bab9e7e7e.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/d36fe45158e9f8d6239813c00c0b01dadedbbf4a.png\"},{\"name\":\"小拳拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/8c222706758f173d6c2ae094da9c9024e469a03a.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7f45f2c4aeaec97453f6cbfcaf516421fb94eb5.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_wink]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/368f1c61c7744c996516c66e66d7b58849c6e068.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_喜欢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7ea25711028afce62dad91bb5401433d0f6145fc.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_嗨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0b779044ba3e84ad0471cb1e5f7b53f8eaffa992.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_嘘]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/16604f13cb1fc4fec9f084bf663e63fd1fb76770.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_大受震撼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bc6fa8d080e3989274988fedd909e6c7f9958ae5.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_委屈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1b52dcf289839e41d77c35fdbf30f9a8778eaf04.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_小拳拳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8c222706758f173d6c2ae094da9c9024e469a03a.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_打击]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dc1ca131fefcbd450605a55cf53a421474fce7c8.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f5e2216906dda2f3fed141d9f96dce4bab9e7e7e.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_暗中观察]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d36fe45158e9f8d6239813c00c0b01dadedbbf4a.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_柠檬精]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1238c3d76b2a8f3276e8848db6c28b5da34b6801.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1d5e84a74e339dbf342c7f66a36a5187b52b8f41.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_睡觉觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/06b1c110ac60bcbb87c9ba61177be01022bd28f3.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_脸红]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/69be7ba8b7a53ed6373b033d648c13ae73194099.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[小小魅魔_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a7f45f2c4aeaec97453f6cbfcaf516421fb94eb5.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1682387222001,
 				"name":"小小魅魔",
-				"tab_id":0,
 				"suit_item_id":111529401,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1682386626001,
 				"name":"小小魅魔",
-				"tab_id":0,
 				"suit_item_id":111529401,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -36,7 +36,6 @@
 			{
 				"item_id":1721095142001,
 				"name":"帕恰狗 美味甜点",
-				"tab_id":0,
 				"suit_item_id":219830101,
 				"properties":{
 					"fan_no_color":"#9E82BB",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1721095142002,
 				"name":"帕恰狗 美味甜点粉丝",
-				"tab_id":0,
 				"suit_item_id":219830101,
 				"properties":{
 					"fan_no_color":"#9E82BB",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1721095169001,
 				"name":"帕恰狗 美味甜点",
-				"tab_id":0,
 				"suit_item_id":219830101,
 				"properties":{
 					"fan_no_color":"#9E82BB",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1721095205001,
 				"name":"帕恰狗 美味甜点",
-				"tab_id":0,
 				"suit_item_id":219830101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6883e7d07fae665b82874064c34ca01126a80faf.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"护住\",\"image\":\"https://i0.hdslb.com/bfs/garb/5598729589dd3ae005e1a707f8be979e973b550e.png\"},{\"name\":\"爬\",\"image\":\"https://i0.hdslb.com/bfs/garb/414c497a9ffe79cd3c0176a627ba1f9a4ee5fa7a.png\"},{\"name\":\"就是你!\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ec9455fd4392996b7f653f13fec589d6e3724bc.png\"},{\"name\":\"拿到小礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ad9aac7632a529e1e6b046d09e91038c338be0f.png\"},{\"name\":\"跑来\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd4241aed10b8ada14653f56344741a6c12586f2.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbb01edc1975f5ce2ba5f0bf189d66c5293a5ac6.png\"},{\"name\":\"偷看\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a785e2b015c8c83130b58cadfbacfa7737696eb.png\"},{\"name\":\"拜~\",\"image\":\"https://i0.hdslb.com/bfs/garb/26c7425a8b3f5dbe7c6073d818c05dfb81d2132f.png\"},{\"name\":\"起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/4802e45077c7e6d145a48b4aeb5d291c0fef169a.png\"},{\"name\":\"轻置玉臀\",\"image\":\"https://i0.hdslb.com/bfs/garb/797bdfc1588866cc25926ad7affa7a26078266fa.png\"},{\"name\":\"Hi~\",\"image\":\"https://i0.hdslb.com/bfs/garb/34de5bb18122d10c2b1e252ff6aef7762a901acf.png\"},{\"name\":\"送你小礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/336310dfa9b7fda8a5b072d0d6b626be7ad3538a.png\"},{\"name\":\"倒下了\",\"image\":\"https://i0.hdslb.com/bfs/garb/57ea87b53ff85a9424cc2be72ba5f42a39d4a654.png\"},{\"name\":\"悄悄拿走\",\"image\":\"https://i0.hdslb.com/bfs/garb/c22bcbd02f6125b5abaad0c99572235d7e22e962.png\"},{\"name\":\"不理你了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c462644183f62dd6715213bd16d4ff3fbc2d2017.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_Hi~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/34de5bb18122d10c2b1e252ff6aef7762a901acf.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_不理你了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c462644183f62dd6715213bd16d4ff3fbc2d2017.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_倒下了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/57ea87b53ff85a9424cc2be72ba5f42a39d4a654.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_偷看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4a785e2b015c8c83130b58cadfbacfa7737696eb.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_就是你!]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3ec9455fd4392996b7f653f13fec589d6e3724bc.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_悄悄拿走]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c22bcbd02f6125b5abaad0c99572235d7e22e962.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_护住]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5598729589dd3ae005e1a707f8be979e973b550e.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_拜~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/26c7425a8b3f5dbe7c6073d818c05dfb81d2132f.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_拿到小礼物]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ad9aac7632a529e1e6b046d09e91038c338be0f.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_爬]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/414c497a9ffe79cd3c0176a627ba1f9a4ee5fa7a.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_盯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbb01edc1975f5ce2ba5f0bf189d66c5293a5ac6.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_起飞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4802e45077c7e6d145a48b4aeb5d291c0fef169a.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_跑来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dd4241aed10b8ada14653f56344741a6c12586f2.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_轻置玉臀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/797bdfc1588866cc25926ad7affa7a26078266fa.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[帕恰狗 美味甜点_送你小礼物]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/336310dfa9b7fda8a5b072d0d6b626be7ad3538a.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1721095280001,
 				"name":"帕恰狗 美味甜点",
-				"tab_id":0,
 				"suit_item_id":219830101,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1721095186001,
 				"name":"帕恰狗 美味甜点",
-				"tab_id":0,
 				"suit_item_id":219830101,
 				"properties":{
 					"fan_no_color":"#ffffff",

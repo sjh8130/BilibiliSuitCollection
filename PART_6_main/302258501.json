@@ -35,7 +35,6 @@
 			{
 				"item_id":1737545868001,
 				"name":"鹅1",
-				"tab_id":0,
 				"suit_item_id":302258501,
 				"properties":{
 					"fan_no_color":"#3F78FF",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1737545868002,
 				"name":"鹅1粉丝",
-				"tab_id":0,
 				"suit_item_id":302258501,
 				"properties":{
 					"fan_no_color":"#3F78FF",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1737545949001,
 				"name":"鹅1",
-				"tab_id":0,
 				"suit_item_id":302258501,
 				"properties":{
 					"fan_no_color":"#00B7FF",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1737542288001,
 				"name":"鹅1",
-				"tab_id":0,
 				"suit_item_id":302258501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b5043ef2e5dfe7b67f318ed67f0eac88a72a6e4b.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f5d6fe6027eb8fefdde6e5be3478b4ba3f43feb.png\"},{\"name\":\"鹅来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/333a3e16410a6da07dade7c3090965fa8dc3c615.png\"},{\"name\":\"躺\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc574ff1c291fe582737d369f65a568657b3ad8f.png\"},{\"name\":\"鹅坐\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d50a5a999eed3d9050eddeeab09939d213da27d.png\"},{\"name\":\"嘎嘎嘎\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b4af67cf19429a3720073de82101da853cd17df.png\"},{\"name\":\"鹅凝视\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e415d41afbb58044bc5ef1375f72c65f9536ed1.png\"},{\"name\":\"屁屁\",\"image\":\"https://i0.hdslb.com/bfs/garb/a736a4b0a60a711fa968c9cf14f8a4b367835f46.png\"},{\"name\":\"鹅错了\",\"image\":\"https://i0.hdslb.com/bfs/garb/3782154294b34436f46879ec7a532bcbd7f7ffbf.png\"},{\"name\":\"鹅哭了\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba3d0a83c0dedd938f3ec96a0e8c5fc1298cd800.png\"},{\"name\":\"汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f6b3b24d59012bf35b19f6b856fcbe888dbe42f.png\"},{\"name\":\"鹅滴天\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c8eb24b578944811f68b4ca454f452aef9c6abc.png\"},{\"name\":\"紧张\",\"image\":\"https://i0.hdslb.com/bfs/garb/620148c53193dec22dce72504fe40ad6254e5493.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/d3cf942c4dc9cc6567271f61d6d16c498f5eb3ba.png\"},{\"name\":\"铁锅炖大鹅\",\"image\":\"https://i0.hdslb.com/bfs/garb/026b17ed4ff78bac8b1df41871b59b18f6fbed70.png\"},{\"name\":\"我？\",\"image\":\"https://i0.hdslb.com/bfs/garb/145fba990f08fcd0d2e088b6465b07206466282e.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[鹅1_哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9f5d6fe6027eb8fefdde6e5be3478b4ba3f43feb.png",
 							"sale_type":"pay"
@@ -113,35 +107,7 @@
 					},
 					{
 						"item_id":0,
-						"name":"[鹅1_鹅来了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/333a3e16410a6da07dade7c3090965fa8dc3c615.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[鹅1_躺]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bc574ff1c291fe582737d369f65a568657b3ad8f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[鹅1_鹅坐]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0d50a5a999eed3d9050eddeeab09939d213da27d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[鹅1_嘎嘎嘎]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4b4af67cf19429a3720073de82101da853cd17df.png",
 							"sale_type":"pay"
@@ -149,17 +115,7 @@
 					},
 					{
 						"item_id":0,
-						"name":"[鹅1_鹅凝视]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0e415d41afbb58044bc5ef1375f72c65f9536ed1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[鹅1_屁屁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a736a4b0a60a711fa968c9cf14f8a4b367835f46.png",
 							"sale_type":"pay"
@@ -167,53 +123,15 @@
 					},
 					{
 						"item_id":0,
-						"name":"[鹅1_鹅错了]",
-						"tab_id":0,
+						"name":"[鹅1_我？]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3782154294b34436f46879ec7a532bcbd7f7ffbf.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[鹅1_鹅哭了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ba3d0a83c0dedd938f3ec96a0e8c5fc1298cd800.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[鹅1_汗]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3f6b3b24d59012bf35b19f6b856fcbe888dbe42f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[鹅1_鹅滴天]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6c8eb24b578944811f68b4ca454f452aef9c6abc.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[鹅1_紧张]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/620148c53193dec22dce72504fe40ad6254e5493.png",
+							"image":"https://i0.hdslb.com/bfs/garb/145fba990f08fcd0d2e088b6465b07206466282e.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[鹅1_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d3cf942c4dc9cc6567271f61d6d16c498f5eb3ba.png",
 							"sale_type":"pay"
@@ -221,8 +139,31 @@
 					},
 					{
 						"item_id":0,
+						"name":"[鹅1_汗]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3f6b3b24d59012bf35b19f6b856fcbe888dbe42f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[鹅1_紧张]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/620148c53193dec22dce72504fe40ad6254e5493.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[鹅1_躺]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/bc574ff1c291fe582737d369f65a568657b3ad8f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[鹅1_铁锅炖大鹅]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/026b17ed4ff78bac8b1df41871b59b18f6fbed70.png",
 							"sale_type":"pay"
@@ -230,10 +171,49 @@
 					},
 					{
 						"item_id":0,
-						"name":"[鹅1_我？]",
-						"tab_id":0,
+						"name":"[鹅1_鹅凝视]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/145fba990f08fcd0d2e088b6465b07206466282e.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0e415d41afbb58044bc5ef1375f72c65f9536ed1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[鹅1_鹅哭了]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ba3d0a83c0dedd938f3ec96a0e8c5fc1298cd800.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[鹅1_鹅坐]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0d50a5a999eed3d9050eddeeab09939d213da27d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[鹅1_鹅来了]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/333a3e16410a6da07dade7c3090965fa8dc3c615.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[鹅1_鹅滴天]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6c8eb24b578944811f68b4ca454f452aef9c6abc.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[鹅1_鹅错了]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3782154294b34436f46879ec7a532bcbd7f7ffbf.png",
 							"sale_type":"pay"
 						}
 					}
@@ -244,7 +224,6 @@
 			{
 				"item_id":1737545494001,
 				"name":"天鹅湖",
-				"tab_id":0,
 				"suit_item_id":302258501,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1737212135001,
 				"name":"天鹅湖",
-				"tab_id":0,
 				"suit_item_id":302258501,
 				"properties":{
 					"fan_no_color":"#ffffff",

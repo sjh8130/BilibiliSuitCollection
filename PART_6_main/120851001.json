@@ -36,7 +36,6 @@
 			{
 				"item_id":1690446646001,
 				"name":"娲娲的日常",
-				"tab_id":0,
 				"suit_item_id":120851001,
 				"properties":{
 					"fan_no_color":"#C14F44",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1690446646002,
 				"name":"娲娲的日常粉丝",
-				"tab_id":0,
 				"suit_item_id":120851001,
 				"properties":{
 					"fan_no_color":"#C14F44",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1690448240001,
 				"name":"娲娲的日常",
-				"tab_id":0,
 				"suit_item_id":120851001,
 				"properties":{
 					"fan_no_color":"#C14F44",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1690446728001,
 				"name":"娲娲的日常",
-				"tab_id":0,
 				"suit_item_id":120851001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/fca496fec1fa865a16399d68364691fd67dabde4.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"太酸啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab3068d662f195c5551d584a0b451b9584dbbe81.png\"},{\"name\":\"巴适\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc92de994ab0249e8ff1997ffc8f21dc85ce81c7.png\"},{\"name\":\"晒太阳\",\"image\":\"https://i0.hdslb.com/bfs/garb/78720da016b15391baf7f6abca6b7ce7e434ab1d.png\"},{\"name\":\"好热\",\"image\":\"https://i0.hdslb.com/bfs/garb/814bfeb44794c943caf97778fc6b2de6a7a764e2.png\"},{\"name\":\"惊讶\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc12dc92fcfa84057aae21c55a317a2714c14dbb.png\"},{\"name\":\"好无聊\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb33015120a3f671b3659260e72ac0f91574fc32.png\"},{\"name\":\"心累\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e4e7f078530ed23ce5c1e609b61e39458d34301.png\"},{\"name\":\"咦\",\"image\":\"https://i0.hdslb.com/bfs/garb/74445b669f4220448effbad96a4419a5d118bfc0.png\"},{\"name\":\"好晒呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/0859e5151e67544d4f0e96ff4f41dc4264fb3f07.png\"},{\"name\":\"真好吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/5c0ee31c5117cfa6101125256a7c7e002a1bc509.png\"},{\"name\":\"委屈巴巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/67b98331f1f34a6b5029f8ea4131e0ab53b10dc0.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/1462977c58e303f331a8e6d1f37f2777f1f51012.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7cee3e4efe9c25018db69e3ab68c48ea6118ff1.png\"},{\"name\":\"热腾腾\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1ccaa18a6324acd2aa10b3ca3b3bab589e11afd.png\"},{\"name\":\"吃月饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/24b23e4e54e91185d790000c3164b3c34208a94f.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_吃月饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/24b23e4e54e91185d790000c3164b3c34208a94f.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_咦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/74445b669f4220448effbad96a4419a5d118bfc0.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_太酸啦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ab3068d662f195c5551d584a0b451b9584dbbe81.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_好无聊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eb33015120a3f671b3659260e72ac0f91574fc32.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_好晒呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0859e5151e67544d4f0e96ff4f41dc4264fb3f07.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_好热]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/814bfeb44794c943caf97778fc6b2de6a7a764e2.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_委屈巴巴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/67b98331f1f34a6b5029f8ea4131e0ab53b10dc0.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_巴适]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cc92de994ab0249e8ff1997ffc8f21dc85ce81c7.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_心累]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5e4e7f078530ed23ce5c1e609b61e39458d34301.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_惊讶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dc12dc92fcfa84057aae21c55a317a2714c14dbb.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_晒太阳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/78720da016b15391baf7f6abca6b7ce7e434ab1d.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_热腾腾]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f1ccaa18a6324acd2aa10b3ca3b3bab589e11afd.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1462977c58e303f331a8e6d1f37f2777f1f51012.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e7cee3e4efe9c25018db69e3ab68c48ea6118ff1.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[娲娲的日常_真好吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5c0ee31c5117cfa6101125256a7c7e002a1bc509.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1690448206001,
 				"name":"娲娲的日常",
-				"tab_id":0,
 				"suit_item_id":120851001,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1690447344001,
 				"name":"娲娲的日常",
-				"tab_id":0,
 				"suit_item_id":120851001,
 				"properties":{
 					"fan_no_color":"#ffffff",

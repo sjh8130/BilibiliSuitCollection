@@ -35,7 +35,6 @@
 			{
 				"item_id":1683702166001,
 				"name":"今天吃什么",
-				"tab_id":0,
 				"suit_item_id":113045401,
 				"properties":{
 					"fan_no_color":"#FB7299",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1683702166002,
 				"name":"今天吃什么粉丝",
-				"tab_id":0,
 				"suit_item_id":113045401,
 				"properties":{
 					"fan_no_color":"#FB7299",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1683702470001,
 				"name":"今天吃什么",
-				"tab_id":0,
 				"suit_item_id":113045401,
 				"properties":{
 					"fan_no_color":"#FB7299",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1683702212001,
 				"name":"今天吃什么",
-				"tab_id":0,
 				"suit_item_id":113045401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1b0f29cea498644d60757903e2df378ce7844961.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"关东煮\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd727d0021242119be7fb9d5131b22be78143525.png\"},{\"name\":\"牛奶\",\"image\":\"https://i0.hdslb.com/bfs/garb/5928ff2e2944438384d9b86457f779b97d9938f6.png\"},{\"name\":\"糖果\",\"image\":\"https://i0.hdslb.com/bfs/garb/22db333d74ad965e2c25989fffc749cf91bac831.png\"},{\"name\":\"冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc5b36da20fd863853d990671c5f33e934c17679.png\"},{\"name\":\"棒棒糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8c6c5f4fe0e23602b005823e93a5776cfd57abb.png\"},{\"name\":\"饭团\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f3bbab622d8113587a0325933080d38069a01af.png\"},{\"name\":\"蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7c343e9d69aa807f9511c55ae0fa93abbfb5aee.png\"},{\"name\":\"面包\",\"image\":\"https://i0.hdslb.com/bfs/garb/3da6f0d9a4cb3c07e76e222d70a1e138f934ad92.png\"},{\"name\":\"水果\",\"image\":\"https://i0.hdslb.com/bfs/garb/b01f7e04bc8e255e3f1c6e4f2031dcbf4a5183c5.png\"},{\"name\":\"饺子\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a597a88bfaef497b36a9f952343c51c2dc83df6.png\"},{\"name\":\"饮料\",\"image\":\"https://i0.hdslb.com/bfs/garb/9da240d0a52352cffe037694c43144ad87616f8d.png\"},{\"name\":\"点心\",\"image\":\"https://i0.hdslb.com/bfs/garb/4782668c16fafbf397724f00c82b9bd698c27bfb.png\"},{\"name\":\"青团\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa7beb72a94b34664a9475ffc6ccd92e2ffda6af.png\"},{\"name\":\"火腿\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7e990b0f909b43130a8a7ab199ac3478c7fbc4c.png\"},{\"name\":\"零食\",\"image\":\"https://i0.hdslb.com/bfs/garb/66d2a7a5717b5ea073dd06729542541eb9858909.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_关东煮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dd727d0021242119be7fb9d5131b22be78143525.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_冰激凌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dc5b36da20fd863853d990671c5f33e934c17679.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_棒棒糖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b8c6c5f4fe0e23602b005823e93a5776cfd57abb.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_水果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b01f7e04bc8e255e3f1c6e4f2031dcbf4a5183c5.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_火腿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c7e990b0f909b43130a8a7ab199ac3478c7fbc4c.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_点心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4782668c16fafbf397724f00c82b9bd698c27bfb.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_牛奶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5928ff2e2944438384d9b86457f779b97d9938f6.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_糖果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/22db333d74ad965e2c25989fffc749cf91bac831.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_蛋糕]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c7c343e9d69aa807f9511c55ae0fa93abbfb5aee.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_零食]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/66d2a7a5717b5ea073dd06729542541eb9858909.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_青团]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aa7beb72a94b34664a9475ffc6ccd92e2ffda6af.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_面包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3da6f0d9a4cb3c07e76e222d70a1e138f934ad92.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_饭团]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1f3bbab622d8113587a0325933080d38069a01af.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_饮料]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9da240d0a52352cffe037694c43144ad87616f8d.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[今天吃什么_饺子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4a597a88bfaef497b36a9f952343c51c2dc83df6.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1683702414001,
 				"name":"今天吃什么",
-				"tab_id":0,
 				"suit_item_id":113045401,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1683702257001,
 				"name":"今天吃什么",
-				"tab_id":0,
 				"suit_item_id":113045401,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -23,7 +23,6 @@
 		"item_id_thumbup":"40208",
 		"owner_uid":"647193094",
 		"rank_investor_show":"false",
-		"realname_auth":"false",
 		"sale_bp_forever_raw":"5700",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"100",
@@ -46,7 +45,6 @@
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/58de011e2dc8d172689015d6524c9a81b3f1f0a7.png",
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/3007e4a92b8b46d1f092dfa4032f5f7497875358.png",
-					"realname_auth":"false",
 					"sale_type":"other"
 				}
 			},
@@ -57,7 +55,6 @@
 				"suit_item_id":40231,
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/e480470b718efbf4830a7fe660e2630aa3e3a792.png",
-					"realname_auth":"false",
 					"sale_type":"other"
 				}
 			}
@@ -71,7 +68,6 @@
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/c7901348393a16ec4ad6c8e28b2a9a432c2d003e.png",
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/61d6ccc0743785bd985701f40e056cb019e04205.png",
-					"realname_auth":"false",
 					"sale_type":"suit"
 				}
 			}
@@ -86,11 +82,9 @@
 					"addable":"true",
 					"biz":"dynamic,reply,watch_full",
 					"image":"https://i0.hdslb.com/bfs/emote/59fb237616289434011095dbaa2e83e31d4fe627.png",
-					"is_symbol":"false",
 					"item_ids":"40209,40210,40215,40218,40219,40220,40221,40222,40223,40224,40225,40226,40227,40228,40229",
 					"permanent":"false",
 					"preview":"false",
-					"realname_auth":"false",
 					"recently_used":"false",
 					"recommend":"false",
 					"removable":"true",
@@ -105,9 +99,7 @@
 						"name":"[旌旗卷平川_哀怨]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/a97fd2d8ce0f0e222a1c4041a082b887daf6c2de.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -116,9 +108,7 @@
 						"name":"[旌旗卷平川_吃咸鱼]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/a5e53d87df062981dda76e126e1bfed78f5f1569.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -127,9 +117,7 @@
 						"name":"[旌旗卷平川_吃瓜]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/bc623b86d996d94a3d00d69992ad7cf8bca03860.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -138,9 +126,7 @@
 						"name":"[旌旗卷平川_告辞]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/d2ed9005861b4b60f6ed5902e4d832d2303a7a8c.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -149,9 +135,7 @@
 						"name":"[旌旗卷平川_给我整一个]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/8f09f5d61aaa1aa194eefc091e263d299d735bbf.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -160,9 +144,7 @@
 						"name":"[旌旗卷平川_可恶]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/7b79dfc6b850756275c433f4b046b37b485c782f.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -171,9 +153,7 @@
 						"name":"[旌旗卷平川_来呀来呀]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/c06148125cf9e9714ab7e3ce62160f7a701da8cb.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -182,9 +162,7 @@
 						"name":"[旌旗卷平川_你醒啦]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/177d91ed1aa748d5e457a821c1e8213fb1bf48d0.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -193,9 +171,7 @@
 						"name":"[旌旗卷平川_你真棒]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/5979ba44a827d8c28481fc7bef957d762ea958c8.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -204,9 +180,7 @@
 						"name":"[旌旗卷平川_让我看看]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/6b0e45f989c9b665eaf2f5066651ec619ad70720.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -215,9 +189,7 @@
 						"name":"[旌旗卷平川_社会]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/7b917a54addc994f3fbe9e5415480a384558653d.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -226,9 +198,7 @@
 						"name":"[旌旗卷平川_酸了]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/4cd029c9db87e05bb964dc05bd74c8b399ae0762.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -237,9 +207,7 @@
 						"name":"[旌旗卷平川_我很好]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/396542f12b3a3ca9c0fad55c450c2b064a6958a1.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -248,9 +216,7 @@
 						"name":"[旌旗卷平川_震惊]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/9c5969c15d0d8a2419262ef7dcafa37df5895b4a.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					},
@@ -259,9 +225,7 @@
 						"name":"[旌旗卷平川_自闭]",
 						"tab_id":7,
 						"properties":{
-							"associate":"false",
 							"image":"https://i0.hdslb.com/bfs/emote/1aac373cfec1d7f71def2d70437af6bf7abdbf2c.png",
-							"is_symbol":"false",
 							"sale_type":"pay"
 						}
 					}
@@ -278,7 +242,6 @@
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/item/4b1f2761180b226fde976d33a5a33c359b4a987c.png",
 					"loading_frame_url":"https://i0.hdslb.com/bfs/garb/item/815f07d44bd55cc5f6b08e6b6b12d53b6e9ca859.png",
 					"loading_url":"https://i0.hdslb.com/bfs/garb/item/ef20cafd49ad96962b8c7d631e88c230dfcedb4f.webp",
-					"realname_auth":"false",
 					"ver":"1668056204"
 				}
 			}
@@ -293,7 +256,6 @@
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/item/01a580621f6f647e06c3d3b7d60865a4dbc952e3.png",
 					"drag_right_png":"https://i0.hdslb.com/bfs/garb/item/4cf5a9975421e6feef07af4c7bebf07ece1dfa4b.png",
 					"middle_png":"https://i0.hdslb.com/bfs/garb/item/fc84cccc86e23a4de5eea3816ff4304ff816f0e6.png",
-					"realname_auth":"false",
 					"squared_image":"https://i0.hdslb.com/bfs/garb/item/8551edec0cae6c5998206672414551ac413ffa1a.png",
 					"static_icon_image":"https://i0.hdslb.com/bfs/garb/item/fc18ec0e0f8b6f47a009c221a08f68d3b614cd31.png",
 					"ver":"1668056218"
@@ -318,7 +280,6 @@
 					"image_preview":"https://i0.hdslb.com/bfs/garb/item/bdfd448332cb9fb468132c725fd3c0e1a5ee14b7.jpg",
 					"package_md5":"285b76ff168c11907b44848bc509dff6",
 					"package_url":"https://i0.hdslb.com/bfs/garb/zip/266d3d587295b280e6b742493438677149a32ac3.zip",
-					"realname_auth":"false",
 					"side_bg_color":"#fed4a4",
 					"skin_mode":"normal",
 					"tail_bg":"https://i0.hdslb.com/bfs/garb/item/403a7762c2207f7440418140d98789f06d112140.png",
@@ -365,8 +326,7 @@
 					"image6_landscape":"https://i0.hdslb.com/bfs/garb/item/b7898febcef50850d74b9a4ba5da037648c78a03.jpg",
 					"image6_portrait":"https://i0.hdslb.com/bfs/garb/item/096cdee64197a22f52b01674e7c113735c0ed909.jpg",
 					"image7_landscape":"https://i0.hdslb.com/bfs/garb/item/bcc121df6063207a9f3a34792f9d72c6dba3c539.jpg",
-					"image7_portrait":"https://i0.hdslb.com/bfs/garb/item/ddb39650393bfb92982eb43a2b24a149f9f0b502.jpg",
-					"realname_auth":"false"
+					"image7_portrait":"https://i0.hdslb.com/bfs/garb/item/ddb39650393bfb92982eb43a2b24a149f9f0b502.jpg"
 				}
 			}
 		],
@@ -379,8 +339,7 @@
 				"properties":{
 					"image_ani":"https://i0.hdslb.com/bfs/garb/item/6e9f75026b34cf8f4df7cc201e977f18ade598fb.bin",
 					"image_ani_cut":"https://i0.hdslb.com/bfs/garb/item/6e9f75026b34cf8f4df7cc201e977f18ade598fb.bin",
-					"image_preview":"https://i0.hdslb.com/bfs/garb/item/80fb7afb7f36027e33c65ba94bcc98ed6fdb26d1.png",
-					"realname_auth":"false"
+					"image_preview":"https://i0.hdslb.com/bfs/garb/item/80fb7afb7f36027e33c65ba94bcc98ed6fdb26d1.png"
 				}
 			}
 		]

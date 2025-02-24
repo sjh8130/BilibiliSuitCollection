@@ -35,7 +35,6 @@
 			{
 				"item_id":1722938290001,
 				"name":"一窝菜鸡",
-				"tab_id":0,
 				"suit_item_id":222045401,
 				"properties":{
 					"fan_no_color":"#9AA520",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1722938290002,
 				"name":"一窝菜鸡粉丝",
-				"tab_id":0,
 				"suit_item_id":222045401,
 				"properties":{
 					"fan_no_color":"#9AA520",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1722938460001,
 				"name":"一窝菜鸡",
-				"tab_id":0,
 				"suit_item_id":222045401,
 				"properties":{
 					"fan_no_color":"#9AA520",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1722938087001,
 				"name":"一窝菜鸡",
-				"tab_id":0,
 				"suit_item_id":222045401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2d5708088725172c2ece6303ba532fed47594dc3.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"菜鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/b1fb986f088a9f65c5caff6f7541f1e330528b79.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/24ec09e8b2f092e7ddb784864a52c45b9515da05.png\"},{\"name\":\"菜鸡互啄\",\"image\":\"https://i0.hdslb.com/bfs/garb/567aa5c1d440627715ed478f741d0e44950f4a6f.png\"},{\"name\":\"翘翘鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/04a7202f4cc712c53e923dc64b67f185d436e0eb.png\"},{\"name\":\"收到鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/9478b802f3b650339353b138a84f5c11ebed6b13.png\"},{\"name\":\"生气了？\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc543b96f9e1be70d7f722aef5120d4676693a14.png\"},{\"name\":\"其实没生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/682e5f8486a1ce3279cea620020feb7f26b51279.png\"},{\"name\":\"睡鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/a729af9d774132255ca490718a59b5212ca05789.png\"},{\"name\":\"下线鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca683e2aa17240b6c96c32667b523f2dd4db0364.png\"},{\"name\":\"扭捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8934ab2ababe03b9a0cf92170e22eba8477bccf.png\"},{\"name\":\"我错了\",\"image\":\"https://i0.hdslb.com/bfs/garb/4614b8ddeb3a8cf4b88ef09c5ed747de7f854b8c.png\"},{\"name\":\"我装的\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1349b84bf7b10449bc44e863d5c3083a9f750cf.png\"},{\"name\":\"给个鸡会\",\"image\":\"https://i0.hdslb.com/bfs/garb/e68f276d1bdfad7bf3a7cb94ba50201aeb18f748.png\"},{\"name\":\"emoji\",\"image\":\"https://i0.hdslb.com/bfs/garb/771d45eedbd423b234aac4a982501664832315cf.png\"},{\"name\":\"照顾好自己\",\"image\":\"https://i0.hdslb.com/bfs/garb/1636d1585c2540185b047edf71d99ac45d6459aa.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_emoji]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/771d45eedbd423b234aac4a982501664832315cf.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_下线鸟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ca683e2aa17240b6c96c32667b523f2dd4db0364.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_其实没生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/682e5f8486a1ce3279cea620020feb7f26b51279.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_我装的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c1349b84bf7b10449bc44e863d5c3083a9f750cf.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_我错了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4614b8ddeb3a8cf4b88ef09c5ed747de7f854b8c.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_扭捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e8934ab2ababe03b9a0cf92170e22eba8477bccf.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_收到鸟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9478b802f3b650339353b138a84f5c11ebed6b13.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_流汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/24ec09e8b2f092e7ddb784864a52c45b9515da05.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_照顾好自己]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1636d1585c2540185b047edf71d99ac45d6459aa.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_生气了？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cc543b96f9e1be70d7f722aef5120d4676693a14.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_睡鸟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a729af9d774132255ca490718a59b5212ca05789.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_给个鸡会]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e68f276d1bdfad7bf3a7cb94ba50201aeb18f748.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_翘翘鸟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/04a7202f4cc712c53e923dc64b67f185d436e0eb.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_菜鸡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b1fb986f088a9f65c5caff6f7541f1e330528b79.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[一窝菜鸡_菜鸡互啄]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/567aa5c1d440627715ed478f741d0e44950f4a6f.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1722938970001,
 				"name":"一窝菜鸡",
-				"tab_id":0,
 				"suit_item_id":222045401,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1722938611001,
 				"name":"一窝菜鸡",
-				"tab_id":0,
 				"suit_item_id":222045401,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1703239492001,
 				"name":"国风·柿柿如意熊猫娘",
-				"tab_id":0,
 				"suit_item_id":135928701,
 				"properties":{
 					"fan_no_color":"#91A241",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1703239492002,
 				"name":"国风·柿柿如意熊猫娘粉丝",
-				"tab_id":0,
 				"suit_item_id":135928701,
 				"properties":{
 					"fan_no_color":"#91A241",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1703239002001,
 				"name":"国风·柿柿如意熊猫娘",
-				"tab_id":0,
 				"suit_item_id":135928701,
 				"properties":{
 					"fan_no_color":"#8FA140",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1703053301001,
 				"name":"中华熊猫娘",
-				"tab_id":0,
 				"suit_item_id":135928701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d8923323b8ffbab9c1bbb46c5c56a37b423b21e1.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"你好呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/448d508a73debc63e9d5474d60bdcf82f913a3da.png\"},{\"name\":\"一切随缘\",\"image\":\"https://i0.hdslb.com/bfs/garb/36ebb98e8bff9179488eab55826e096ca5834108.png\"},{\"name\":\"捏捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff75b411558717f7e4b2482b7d7b4bdf98d6cb5e.png\"},{\"name\":\"缓冲中\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a4ffe810ad77417bd73e6cd19c38b7c7bd81270.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e86ef1ee79089cffe1f04b39e8fb9af63c97e14.png\"},{\"name\":\"乖巧\",\"image\":\"https://i0.hdslb.com/bfs/garb/66a569d3b8b7bb80d4e3bb78765bc7bd68beeac3.png\"},{\"name\":\"吃果果\",\"image\":\"https://i0.hdslb.com/bfs/garb/4bcd2e40bc55c59d3d91a26c6e08cefae9b1c1eb.png\"},{\"name\":\"抹眼泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f608aa1d54be76c20d03e9a5a9f43dd92064c62.png\"},{\"name\":\"趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/bedb9fc8fa675d582cd7b8faa74b1e9f58e99fbf.png\"},{\"name\":\"上上签\",\"image\":\"https://i0.hdslb.com/bfs/garb/97b8045e98fe9fc4d7127970e690e3577b6f825e.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd62a3ece722876d377de49d63311882828d7335.png\"},{\"name\":\"泡温泉\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a79169e63f5ec6baafc1c6edbd3833738ed1ef8.png\"},{\"name\":\"不愧是我\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d3efcec50d316969c13d31da118926d5d98f3ac.png\"},{\"name\":\"不要看\",\"image\":\"https://i0.hdslb.com/bfs/garb/4506282eb44fd649137a1e2dc2762fba17da4375.png\"},{\"name\":\"好柿成双\",\"image\":\"https://i0.hdslb.com/bfs/garb/57163af004777f835a88d0e064b801b0d68b222c.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_一切随缘]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/36ebb98e8bff9179488eab55826e096ca5834108.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_上上签]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/97b8045e98fe9fc4d7127970e690e3577b6f825e.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_不愧是我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1d3efcec50d316969c13d31da118926d5d98f3ac.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_不要看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4506282eb44fd649137a1e2dc2762fba17da4375.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_乖巧]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/66a569d3b8b7bb80d4e3bb78765bc7bd68beeac3.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_你好呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/448d508a73debc63e9d5474d60bdcf82f913a3da.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_吃果果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4bcd2e40bc55c59d3d91a26c6e08cefae9b1c1eb.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fd62a3ece722876d377de49d63311882828d7335.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_好柿成双]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/57163af004777f835a88d0e064b801b0d68b222c.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_抹眼泪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7f608aa1d54be76c20d03e9a5a9f43dd92064c62.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_捏捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ff75b411558717f7e4b2482b7d7b4bdf98d6cb5e.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_泡温泉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5a79169e63f5ec6baafc1c6edbd3833738ed1ef8.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_缓冲中]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0a4ffe810ad77417bd73e6cd19c38b7c7bd81270.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1e86ef1ee79089cffe1f04b39e8fb9af63c97e14.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[中华熊猫娘_趴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bedb9fc8fa675d582cd7b8faa74b1e9f58e99fbf.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1703239901001,
 				"name":"中华熊猫娘改",
-				"tab_id":0,
 				"suit_item_id":135928701,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1703217254001,
 				"name":"中华熊猫娘",
-				"tab_id":0,
 				"suit_item_id":135928701,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1695626363001,
 				"name":"保卫萝卜·秋妃传",
-				"tab_id":0,
 				"suit_item_id":126846201,
 				"properties":{
 					"fan_no_color":"#E170D0",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1695626363002,
 				"name":"保卫萝卜·秋妃传粉丝",
-				"tab_id":0,
 				"suit_item_id":126846201,
 				"properties":{
 					"fan_no_color":"#E170D0",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1695626591001,
 				"name":"保卫萝卜·秋妃传",
-				"tab_id":0,
 				"suit_item_id":126846201,
 				"properties":{
 					"fan_no_color":"#E170D0",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1695626407001,
 				"name":"保卫萝卜·秋妃传",
-				"tab_id":0,
 				"suit_item_id":126846201,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a9f2c850bf6bdc0cd6493d67563fb60c18bdc951.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"让我看看\",\"image\":\"https://i0.hdslb.com/bfs/garb/e15d5ccf0c3166a64b5f45628ffe520e35217ea6.png\"},{\"name\":\"呵呵\",\"image\":\"https://i0.hdslb.com/bfs/garb/b986676d621172c1d08f3d6cd4515298878800a4.png\"},{\"name\":\"小心\",\"image\":\"https://i0.hdslb.com/bfs/garb/da5ba1f3efce549e957a4ac5e4f33f6d788c2bab.png\"},{\"name\":\"锦鲤\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0a5ac08a1134595da81fde9d373afd0b9501962.png\"},{\"name\":\"我们三\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce8e415fd960ce7f429b188f3bee8fbcaa65b3fb.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/1cb164109e558b0afcb2fa110fb3823ba251884e.png\"},{\"name\":\"不了\",\"image\":\"https://i0.hdslb.com/bfs/garb/2490d2e2087a40e9fa0614731e2533ffcbfd369d.png\"},{\"name\":\"ok\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9ffa0d2187d797b4a12b48e211e19e6f1642070.png\"},{\"name\":\"嘤\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9da4db68516ff601204ce4ee12b473a4f4c825d.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc9b2f98740c8d0e9bbbd63310d6fc51e0d2b851.png\"},{\"name\":\"理理我\",\"image\":\"https://i0.hdslb.com/bfs/garb/86c9ef9fba4c37965be7d320066500d4af40f966.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/72ba35c186209a51e637093014b4f2721a4c4744.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8209cbe4e61b8d79bc9fbdf7713cc091e0e1741.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/94adbb2ccdc6c847a3ed835d39708eb349d1411d.png\"},{\"name\":\"谢谢老板\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d55a96cadec5ace4e05d2a80d46737b66972c96.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_ok]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e9ffa0d2187d797b4a12b48e211e19e6f1642070.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_不了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2490d2e2087a40e9fa0614731e2533ffcbfd369d.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/94adbb2ccdc6c847a3ed835d39708eb349d1411d.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_呵呵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b986676d621172c1d08f3d6cd4515298878800a4.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_嘤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b9da4db68516ff601204ce4ee12b473a4f4c825d.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_小心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/da5ba1f3efce549e957a4ac5e4f33f6d788c2bab.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_我们三]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce8e415fd960ce7f429b188f3bee8fbcaa65b3fb.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/72ba35c186209a51e637093014b4f2721a4c4744.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a8209cbe4e61b8d79bc9fbdf7713cc091e0e1741.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_理理我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/86c9ef9fba4c37965be7d320066500d4af40f966.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_让我看看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e15d5ccf0c3166a64b5f45628ffe520e35217ea6.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_谢谢老板]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9d55a96cadec5ace4e05d2a80d46737b66972c96.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_贴贴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bc9b2f98740c8d0e9bbbd63310d6fc51e0d2b851.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_锦鲤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a0a5ac08a1134595da81fde9d373afd0b9501962.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[保卫萝卜·秋妃传_问号]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1cb164109e558b0afcb2fa110fb3823ba251884e.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1695626561001,
 				"name":"保卫萝卜·秋妃传",
-				"tab_id":0,
 				"suit_item_id":126846201,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1695626439001,
 				"name":"保卫萝卜·秋妃传",
-				"tab_id":0,
 				"suit_item_id":126846201,
 				"properties":{
 					"fan_no_color":"#ffffff",

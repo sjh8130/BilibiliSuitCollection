@@ -36,7 +36,6 @@
 			{
 				"item_id":1694430769001,
 				"name":"璃舞-纪念",
-				"tab_id":0,
 				"suit_item_id":125458401,
 				"properties":{
 					"fan_no_color":"#574765",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1694436575001,
 				"name":"璃舞-纪念粉丝",
-				"tab_id":0,
 				"suit_item_id":125458401,
 				"properties":{
 					"fan_no_color":"#574765",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1694430773001,
 				"name":"璃舞-纪念",
-				"tab_id":0,
 				"suit_item_id":125458401,
 				"properties":{
 					"fan_no_color":"#574765",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1694429099001,
 				"name":"璃舞-纪念",
-				"tab_id":0,
 				"suit_item_id":125458401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/059c952468b7d3e31b17ae46b6b2be96fcc06b9e.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/85c4a348dec75248458a0b1c6ee5627fbc5eb1ee.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/4606d6a06aa97fbc62489f0a20e64785dc6ba2b4.png\"},{\"name\":\"出生\",\"image\":\"https://i0.hdslb.com/bfs/garb/601060bd4c283907476d57c9973fc33a8cce91dc.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/15fc2805d7ea25c1310d1e2d27b14bf7f491f7ca.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6d74a1bab6ce6cc8dc1ed59dead83a70387e2c3.png\"},{\"name\":\"蛋包饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/b78a551860d0f0b77d155749d7323dbae5afbaaa.png\"},{\"name\":\"端披萨\",\"image\":\"https://i0.hdslb.com/bfs/garb/95707e54d7e1fe6d86150572e8c675194802d70e.png\"},{\"name\":\"结婚\",\"image\":\"https://i0.hdslb.com/bfs/garb/a4e51438f2796503a0b3d448fce8a1cd4e87a258.png\"},{\"name\":\"举手投降\",\"image\":\"https://i0.hdslb.com/bfs/garb/79a84a9af8b443e7b339e180f9093fedca5da71e.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/a703af017a01e77a2b1e165a2b13e58ed9e9a5e4.png\"},{\"name\":\"妈\",\"image\":\"https://i0.hdslb.com/bfs/garb/a56e5c0aa84d1f0d373b269b5ed106edb6daaa31.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/00fed5ae77bcc4add044ce2a1095f0239b9d91b1.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/6fd643d51238e6eb0a97eae85f5f5f1562705922.png\"},{\"name\":\"你是\",\"image\":\"https://i0.hdslb.com/bfs/garb/ebb97a671b9a04bd081e8f834dbab0e2da7629c2.png\"},{\"name\":\"手机有款\",\"image\":\"https://i0.hdslb.com/bfs/garb/47deee93f1f8efef2bfd833cf600df92aebf7e55.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/66a01e309bba88453a2ba16f12fbe572041dae03.png\"},{\"name\":\"舞门\",\"image\":\"https://i0.hdslb.com/bfs/garb/746c4903d74759ad0d4dc905df613023172f7dce.png\"},{\"name\":\"稀有\",\"image\":\"https://i0.hdslb.com/bfs/garb/689ca6388ef770b0c59ebff8bea685c38fd92e23.png\"},{\"name\":\"谢谢老板\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a6eda3c14f13998b7e0d93f0e05b597a7c66eda.png\"},{\"name\":\"永远爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbe26cf725ac2a6e535539d98f96a0070cb7427e.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_wink]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/85c4a348dec75248458a0b1c6ee5627fbc5eb1ee.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_举手投降]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/79a84a9af8b443e7b339e180f9093fedca5da71e.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_你是]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ebb97a671b9a04bd081e8f834dbab0e2da7629c2.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_出生]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/601060bd4c283907476d57c9973fc33a8cce91dc.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_吃瓜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4606d6a06aa97fbc62489f0a20e64785dc6ba2b4.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_大哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d6d74a1bab6ce6cc8dc1ed59dead83a70387e2c3.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_妈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a56e5c0aa84d1f0d373b269b5ed106edb6daaa31.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_手机有款]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/47deee93f1f8efef2bfd833cf600df92aebf7e55.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/15fc2805d7ea25c1310d1e2d27b14bf7f491f7ca.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_摸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/00fed5ae77bcc4add044ce2a1095f0239b9d91b1.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_期待]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6fd643d51238e6eb0a97eae85f5f5f1562705922.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_永远爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbe26cf725ac2a6e535539d98f96a0070cb7427e.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_流汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a703af017a01e77a2b1e165a2b13e58ed9e9a5e4.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/66a01e309bba88453a2ba16f12fbe572041dae03.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_稀有]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/689ca6388ef770b0c59ebff8bea685c38fd92e23.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_端披萨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/95707e54d7e1fe6d86150572e8c675194802d70e.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_结婚]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a4e51438f2796503a0b3d448fce8a1cd4e87a258.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_舞门]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/746c4903d74759ad0d4dc905df613023172f7dce.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_蛋包饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b78a551860d0f0b77d155749d7323dbae5afbaaa.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[璃舞-纪念_谢谢老板]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a6eda3c14f13998b7e0d93f0e05b597a7c66eda.png",
 							"sale_type":"pay"
@@ -289,7 +264,6 @@
 			{
 				"item_id":1694431938001,
 				"name":"璃舞-纪念",
-				"tab_id":0,
 				"suit_item_id":125458401,
 				"properties":{
 					"color":"#ffffff",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1694430239001,
 				"name":"璃舞-纪念",
-				"tab_id":0,
 				"suit_item_id":125458401,
 				"properties":{
 					"fan_no_color":"#ffffff",

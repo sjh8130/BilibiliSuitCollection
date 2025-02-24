@@ -35,7 +35,6 @@
 			{
 				"item_id":1701774038001,
 				"name":"老新汉堡店",
-				"tab_id":0,
 				"suit_item_id":133960301,
 				"properties":{
 					"fan_no_color":"#FF67C0",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1701774038002,
 				"name":"老新汉堡店粉丝",
-				"tab_id":0,
 				"suit_item_id":133960301,
 				"properties":{
 					"fan_no_color":"#FF67C0",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1701774893001,
 				"name":"老新汉堡店",
-				"tab_id":0,
 				"suit_item_id":133960301,
 				"properties":{
 					"fan_no_color":"#FF67C0",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1701682456001,
 				"name":"老新汉堡店",
-				"tab_id":0,
 				"suit_item_id":133960301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7889a7303bd5328ecc911cb451e1314d556adb7e.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"汉堡盖\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f6f5d8d663dc486e004c20dfcd447da50a34ca3.png\"},{\"name\":\"肉饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/9fb7d5a81a5480e5f6f14c6ba9a6897eed3a16cc.png\"},{\"name\":\"菜\",\"image\":\"https://i0.hdslb.com/bfs/garb/65919927c3032a0794fd11824d1bde795dca47ec.png\"},{\"name\":\"虾仁\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbe89d629816c6b88d76dd5578e86e030057c6a0.png\"},{\"name\":\"袜子\",\"image\":\"https://i0.hdslb.com/bfs/garb/772ef6ba8b323f30debc7b001e1900f59f226697.png\"},{\"name\":\"大螂\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b1a7785efc426d40d8f906c4c0f8e5df8a65024.png\"},{\"name\":\"芝士红柿\",\"image\":\"https://i0.hdslb.com/bfs/garb/f455497a0eeb7584c199a61b954842f06246415b.png\"},{\"name\":\"薯条\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0848dc2750ed6b3053d10846741b3f29b8cb244.png\"},{\"name\":\"汉堡底\",\"image\":\"https://i0.hdslb.com/bfs/garb/8eb693c76464528fd905d67e0044184721991582.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e2da165d4f744aad51c58b9aedc2d88bfe3d200.png\"},{\"name\":\"穷\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ccd8dcf6f8985db31a465e4a02b3f5af9e46a4f.png\"},{\"name\":\"好菜\",\"image\":\"https://i0.hdslb.com/bfs/garb/75c4cbfd0424781d318d47d9047d0468ac77fb1f.png\"},{\"name\":\"耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/e56f50fa6377d00c2dda3e45530767006decc461.png\"},{\"name\":\"666\",\"image\":\"https://i0.hdslb.com/bfs/garb/83e899497c9117bbb5f92dbef83aa909d51adff4.png\"},{\"name\":\"零昏\",\"image\":\"https://i0.hdslb.com/bfs/garb/eaebaa1143164b64b57d655b07ff960d57b4a626.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_666]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/83e899497c9117bbb5f92dbef83aa909d51adff4.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_大螂]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2b1a7785efc426d40d8f906c4c0f8e5df8a65024.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_好菜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/75c4cbfd0424781d318d47d9047d0468ac77fb1f.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_汉堡底]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8eb693c76464528fd905d67e0044184721991582.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_汉堡盖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5f6f5d8d663dc486e004c20dfcd447da50a34ca3.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1e2da165d4f744aad51c58b9aedc2d88bfe3d200.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_穷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3ccd8dcf6f8985db31a465e4a02b3f5af9e46a4f.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e56f50fa6377d00c2dda3e45530767006decc461.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_肉饼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9fb7d5a81a5480e5f6f14c6ba9a6897eed3a16cc.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_芝士红柿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f455497a0eeb7584c199a61b954842f06246415b.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_菜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/65919927c3032a0794fd11824d1bde795dca47ec.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_薯条]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a0848dc2750ed6b3053d10846741b3f29b8cb244.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_虾仁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbe89d629816c6b88d76dd5578e86e030057c6a0.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_袜子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/772ef6ba8b323f30debc7b001e1900f59f226697.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[老新汉堡店_零昏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eaebaa1143164b64b57d655b07ff960d57b4a626.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1701775163001,
 				"name":"老新汉堡店",
-				"tab_id":0,
 				"suit_item_id":133960301,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1701774944001,
 				"name":"老新汉堡店",
-				"tab_id":0,
 				"suit_item_id":133960301,
 				"properties":{
 					"fan_no_color":"#ffffff",

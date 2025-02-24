@@ -35,7 +35,6 @@
 			{
 				"item_id":1706163324001,
 				"name":"雪地小豆子",
-				"tab_id":0,
 				"suit_item_id":202549401,
 				"properties":{
 					"fan_no_color":"#A0CC26",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1706163324002,
 				"name":"雪地小豆子粉丝",
-				"tab_id":0,
 				"suit_item_id":202549401,
 				"properties":{
 					"fan_no_color":"#A0CC26",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1706163346001,
 				"name":"雪地小豆子",
-				"tab_id":0,
 				"suit_item_id":202549401,
 				"properties":{
 					"fan_no_color":"#ADC825",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1706163264001,
 				"name":"雪地小豆子",
-				"tab_id":0,
 				"suit_item_id":202549401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e92ed3b85bed68f031911b2830c2f15c76cb0459.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"请看1\",\"image\":\"https://i0.hdslb.com/bfs/garb/dde76e03298ff0c8a581aef3302e64fd4e20249d.png\"},{\"name\":\"闪亮\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5367ab38b0f4551c780b48ba80d946af1917d2a.png\"},{\"name\":\"请看2\",\"image\":\"https://i0.hdslb.com/bfs/garb/004466b2f1658a59318a5bae813d3c491640e536.png\"},{\"name\":\"奶茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4413fab54e710ca593bff848d38aab85fa2b170.png\"},{\"name\":\"真的吗！\",\"image\":\"https://i0.hdslb.com/bfs/garb/639140ea33b33d2c969b8cc90c9db0ebf4db11c7.png\"},{\"name\":\"耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/35c44b00d39af72a64b682cdea10c41eb5d3c944.png\"},{\"name\":\"喂我\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9a9d4aa9a2ce2a5946fd67520ed1291485b47ee.png\"},{\"name\":\"给你一拳！\",\"image\":\"https://i0.hdslb.com/bfs/garb/9005a76006bc7b5a4add70ab149f36fc418f6f67.png\"},{\"name\":\"放烟花\",\"image\":\"https://i0.hdslb.com/bfs/garb/71f25a137fd62addb545f0dad398b98ca50bf013.png\"},{\"name\":\"吃的！\",\"image\":\"https://i0.hdslb.com/bfs/garb/85b113ed2bf6f86c5566d9a26b507c05d01626fe.png\"},{\"name\":\"呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ef7835eee293fe7797464e8f57c4b2ebe3467f4.png\"},{\"name\":\"准备\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c2c093c445411b15a76953a049009091ea0d836.png\"},{\"name\":\"发射！\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3be9aaa77117a0f5c11694f3c87c26439a4a7ca.png\"},{\"name\":\"BIU\",\"image\":\"https://i0.hdslb.com/bfs/garb/db5a9d967600fdf5308aea927539e333f9c3453b.png\"},{\"name\":\"大烟花\",\"image\":\"https://i0.hdslb.com/bfs/garb/ced39d91d3d2d063400ea945da900119f6fd0e3a.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_BIU]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db5a9d967600fdf5308aea927539e333f9c3453b.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_准备]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2c2c093c445411b15a76953a049009091ea0d836.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_发射！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c3be9aaa77117a0f5c11694f3c87c26439a4a7ca.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_吃的！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/85b113ed2bf6f86c5566d9a26b507c05d01626fe.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_呜呜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6ef7835eee293fe7797464e8f57c4b2ebe3467f4.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_喂我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a9a9d4aa9a2ce2a5946fd67520ed1291485b47ee.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_大烟花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ced39d91d3d2d063400ea945da900119f6fd0e3a.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_奶茶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e4413fab54e710ca593bff848d38aab85fa2b170.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_放烟花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/71f25a137fd62addb545f0dad398b98ca50bf013.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_真的吗！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/639140ea33b33d2c969b8cc90c9db0ebf4db11c7.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_给你一拳！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9005a76006bc7b5a4add70ab149f36fc418f6f67.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/35c44b00d39af72a64b682cdea10c41eb5d3c944.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_请看1]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dde76e03298ff0c8a581aef3302e64fd4e20249d.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_请看2]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/004466b2f1658a59318a5bae813d3c491640e536.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[雪地小豆子_闪亮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e5367ab38b0f4551c780b48ba80d946af1917d2a.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1706163860001,
 				"name":"雪地小豆子",
-				"tab_id":0,
 				"suit_item_id":202549401,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1706163369001,
 				"name":"雪地小豆子",
-				"tab_id":0,
 				"suit_item_id":202549401,
 				"properties":{
 					"fan_no_color":"#ffffff",

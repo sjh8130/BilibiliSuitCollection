@@ -36,7 +36,6 @@
 			{
 				"item_id":1688527519001,
 				"name":"元七七 魔法少女",
-				"tab_id":0,
 				"suit_item_id":118654101,
 				"properties":{
 					"fan_no_color":"#FF7298",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1688550890001,
 				"name":"元七七 魔法少女粉丝",
-				"tab_id":0,
 				"suit_item_id":118654101,
 				"properties":{
 					"fan_no_color":"#FF7298",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1688551122001,
 				"name":"元七七 魔法少女",
-				"tab_id":0,
 				"suit_item_id":118654101,
 				"properties":{
 					"fan_no_color":"#FF7298",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1688550929001,
 				"name":"元七七 魔法少女",
-				"tab_id":0,
 				"suit_item_id":118654101,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/15b9e7c824ae9ee02093b217d61895a7e097c4f0.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/111b96f6c75d3112eee0c00c3ee310906ac01437.png\"},{\"name\":\"cool\",\"image\":\"https://i0.hdslb.com/bfs/garb/2afbf8fd927c9e1fd39d1f8d9b047db360c427b6.png\"},{\"name\":\"ok\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1df3a066ced1e14c02c4f16eefc2a2728ed31b1.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/092fb1a81193a2097d53c2bb96adf3f7df3b7ffa.png\"},{\"name\":\"笑死\",\"image\":\"https://i0.hdslb.com/bfs/garb/7de2bdac896bb0c1191a4437fbdfec2ce848ebd7.png\"},{\"name\":\"小丑\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce755f04304b7b5be7d4f69c2090a23c8d5642dd.png\"},{\"name\":\"干饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/00808dc1c45755670f8ff4923b863f0257dd7a58.png\"},{\"name\":\"v50\",\"image\":\"https://i0.hdslb.com/bfs/garb/a57f09c3e735f14ca0f6589cdf28fa4d9285d263.png\"},{\"name\":\"no\",\"image\":\"https://i0.hdslb.com/bfs/garb/728084d285e9be8389020992c92c0ca874b9f1b2.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2f9b7b3c3599d4c0298a429151118e4932e150f.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/043f0c3648268d2374daf24aa0c901d22a359edd.png\"},{\"name\":\"在忙\",\"image\":\"https://i0.hdslb.com/bfs/garb/772f1c30f387fc8abc55b7cbd37ebfec4650c411.png\"},{\"name\":\"你好\",\"image\":\"https://i0.hdslb.com/bfs/garb/152828638399f90110229be5b8f29c43a7c3b166.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/61933fd3dad1dec7511f242c56437731edbaca7b.png\"},{\"name\":\"随缘\",\"image\":\"https://i0.hdslb.com/bfs/garb/97c39e310ed3e124d9904f0eb953f26d60458f1f.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_cool]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2afbf8fd927c9e1fd39d1f8d9b047db360c427b6.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_no]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/728084d285e9be8389020992c92c0ca874b9f1b2.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_ok]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c1df3a066ced1e14c02c4f16eefc2a2728ed31b1.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_v50]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a57f09c3e735f14ca0f6589cdf28fa4d9285d263.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_你好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/152828638399f90110229be5b8f29c43a7c3b166.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a2f9b7b3c3599d4c0298a429151118e4932e150f.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_在忙]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/772f1c30f387fc8abc55b7cbd37ebfec4650c411.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_小丑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce755f04304b7b5be7d4f69c2090a23c8d5642dd.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/043f0c3648268d2374daf24aa0c901d22a359edd.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_干饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/00808dc1c45755670f8ff4923b863f0257dd7a58.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_摸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/111b96f6c75d3112eee0c00c3ee310906ac01437.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/61933fd3dad1dec7511f242c56437731edbaca7b.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/092fb1a81193a2097d53c2bb96adf3f7df3b7ffa.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_笑死]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7de2bdac896bb0c1191a4437fbdfec2ce848ebd7.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[元七七 魔法少女_随缘]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/97c39e310ed3e124d9904f0eb953f26d60458f1f.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1688551081001,
 				"name":"元七七 魔法少女",
-				"tab_id":0,
 				"suit_item_id":118654101,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1688550969001,
 				"name":"元七七 魔法少女",
-				"tab_id":0,
 				"suit_item_id":118654101,
 				"properties":{
 					"fan_no_color":"#ffffff",

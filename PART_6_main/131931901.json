@@ -35,7 +35,6 @@
 			{
 				"item_id":1700014850001,
 				"name":"吃蛋黄派的狼",
-				"tab_id":0,
 				"suit_item_id":131931901,
 				"properties":{
 					"fan_no_color":"#CBA76F",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1700014850002,
 				"name":"吃蛋黄派的狼粉丝",
-				"tab_id":0,
 				"suit_item_id":131931901,
 				"properties":{
 					"fan_no_color":"#CBA76F",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1700014887001,
 				"name":"吃蛋黄派的狼",
-				"tab_id":0,
 				"suit_item_id":131931901,
 				"properties":{
 					"fan_no_color":"#CBA76F",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1699928788001,
 				"name":"吃蛋黄派的狼",
-				"tab_id":0,
 				"suit_item_id":131931901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8a01a14f508c7c77d4ae13c719a85d1b759164d0.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"狼性\",\"image\":\"https://i0.hdslb.com/bfs/garb/a572f51006254c65dc704444c3c2bcf4009cac2b.png\"},{\"name\":\"没有狼性\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ddaf50ffa7934280c4d58d4795c9d70eb92d475.png\"},{\"name\":\"吃派\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3e1980a1469421d4a78c07272a44ae20f448d18.png\"},{\"name\":\"感谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd80f4ffd7444bd6f77281c792eb58f5c7db01d2.png\"},{\"name\":\"抛弃尊严\",\"image\":\"https://i0.hdslb.com/bfs/garb/451ada764a1854745ec75aa95ce25296cb8ab468.png\"},{\"name\":\"要饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/2790fb714ea5c98c369a1569abce723f025e5fbd.png\"},{\"name\":\"翻肚皮\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5de746a50e31d950e8c7ca45be0b1e0371ab9fd.png\"},{\"name\":\"摇尾巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/eee4d33c1d1b560254dd7dd04efd419449e7591e.png\"},{\"name\":\"讨好\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdd0ef93f0acc8ee78beb2a05c63f74cfa060a5b.png\"},{\"name\":\"慌张\",\"image\":\"https://i0.hdslb.com/bfs/garb/ccaa3bb62c11503882799cb6d96f2050a86db529.png\"},{\"name\":\"饭呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/84325bc70b3ebea1cf6a45d781f4de04ab5670f9.png\"},{\"name\":\"幸福\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce78247e1cf9cc606793dfb8610eedaf54dc5ddb.png\"},{\"name\":\"吃饱\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4a5794caaf10fb7a54fcc6ecd4ea92474408b60.png\"},{\"name\":\"保护费\",\"image\":\"https://i0.hdslb.com/bfs/garb/b39393da850bac8cc5c3523c9683bf977da26661.png\"},{\"name\":\"超重\",\"image\":\"https://i0.hdslb.com/bfs/garb/e2446573543eeeaaf03004a20c3234a71f94c1eb.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_保护费]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b39393da850bac8cc5c3523c9683bf977da26661.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_吃派]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e3e1980a1469421d4a78c07272a44ae20f448d18.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_吃饱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c4a5794caaf10fb7a54fcc6ecd4ea92474408b60.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_幸福]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce78247e1cf9cc606793dfb8610eedaf54dc5ddb.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_感谢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fd80f4ffd7444bd6f77281c792eb58f5c7db01d2.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_慌张]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ccaa3bb62c11503882799cb6d96f2050a86db529.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_抛弃尊严]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/451ada764a1854745ec75aa95ce25296cb8ab468.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_摇尾巴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eee4d33c1d1b560254dd7dd04efd419449e7591e.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_没有狼性]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4ddaf50ffa7934280c4d58d4795c9d70eb92d475.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_狼性]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a572f51006254c65dc704444c3c2bcf4009cac2b.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_翻肚皮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f5de746a50e31d950e8c7ca45be0b1e0371ab9fd.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_要饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2790fb714ea5c98c369a1569abce723f025e5fbd.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_讨好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bdd0ef93f0acc8ee78beb2a05c63f74cfa060a5b.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_超重]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e2446573543eeeaaf03004a20c3234a71f94c1eb.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[吃蛋黄派的狼_饭呢]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/84325bc70b3ebea1cf6a45d781f4de04ab5670f9.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1700015123001,
 				"name":"吃蛋黄派的狼",
-				"tab_id":0,
 				"suit_item_id":131931901,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1700014972001,
 				"name":"吃蛋黄派的狼",
-				"tab_id":0,
 				"suit_item_id":131931901,
 				"properties":{
 					"fan_no_color":"#ffffff",

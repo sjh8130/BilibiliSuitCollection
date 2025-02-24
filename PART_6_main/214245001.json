@@ -35,7 +35,6 @@
 			{
 				"item_id":1716271478001,
 				"name":"主聪慧",
-				"tab_id":0,
 				"suit_item_id":214245001,
 				"properties":{
 					"fan_no_color":"#4F81F0",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1716271478002,
 				"name":"主聪慧粉丝",
-				"tab_id":0,
 				"suit_item_id":214245001,
 				"properties":{
 					"fan_no_color":"#4F81F0",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1716271554001,
 				"name":"主体面",
-				"tab_id":0,
 				"suit_item_id":214245001,
 				"properties":{
 					"fan_no_color":"#3A83F7",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1715765302001,
 				"name":"淡淡的",
-				"tab_id":0,
 				"suit_item_id":214245001,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/3bab84322e5d76411b1a7c194d815effb0b3f172.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"摇香菇\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0cf7c1cfd25f60b7ba65470cb79f66743048b93.png\"},{\"name\":\"鸡蛋肠\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4fcbea2d1fa788769458f527e4fee44d9f0a9ec.png\"},{\"name\":\"眠一眠了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a706989b1bb9600321c095f02b44878f79682646.png\"},{\"name\":\"玉足\",\"image\":\"https://i0.hdslb.com/bfs/garb/38223adf15aae5725c105e9e4384f2c38c1f183a.png\"},{\"name\":\"即刻脚刹！\",\"image\":\"https://i0.hdslb.com/bfs/garb/d09fcae8d5f48821b7e38ed8995fe8ae840d3f70.png\"},{\"name\":\"煮葱烩\",\"image\":\"https://i0.hdslb.com/bfs/garb/d353870634748f593d1250b3b262b37b857d50cf.png\"},{\"name\":\"猪蹄面\",\"image\":\"https://i0.hdslb.com/bfs/garb/be1d686a8fce729543bc00f2a5bc6a9eb0659bf2.png\"},{\"name\":\"百口莫辩\",\"image\":\"https://i0.hdslb.com/bfs/garb/e20740d1ed4e2d6b1956693cd58d496f46c3cef5.png\"},{\"name\":\"体面OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0567dff270cb65c05918594cf8637a6cad27a3f.png\"},{\"name\":\"淡淡的\",\"image\":\"https://i0.hdslb.com/bfs/garb/58ebb30b6208b27e564a7037f6036707802e5c31.png\"},{\"name\":\"乖摸摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/5878c4793926e00fd386b978d298c72af2151c7c.png\"},{\"name\":\"好吗?\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a0200e84556b4e8dddb775aca35126c9b6c822e.png\"},{\"name\":\"好的\",\"image\":\"https://i0.hdslb.com/bfs/garb/dfc2cc4f6f119564dcfa35a5476e9b02897c3c5b.png\"},{\"name\":\"我不!\",\"image\":\"https://i0.hdslb.com/bfs/garb/7994f648a3fbf4115b577961b68399a9cf157224.png\"},{\"name\":\"你坏~\",\"image\":\"https://i0.hdslb.com/bfs/garb/68cedaeb64ed5cbfc4406f3fb255cd590ce804eb.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_乖摸摸头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5878c4793926e00fd386b978d298c72af2151c7c.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_体面OK]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f0567dff270cb65c05918594cf8637a6cad27a3f.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_你坏~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/68cedaeb64ed5cbfc4406f3fb255cd590ce804eb.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_即刻脚刹！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d09fcae8d5f48821b7e38ed8995fe8ae840d3f70.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_好吗?]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8a0200e84556b4e8dddb775aca35126c9b6c822e.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_好的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dfc2cc4f6f119564dcfa35a5476e9b02897c3c5b.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_我不!]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7994f648a3fbf4115b577961b68399a9cf157224.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_摇香菇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f0cf7c1cfd25f60b7ba65470cb79f66743048b93.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_淡淡的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/58ebb30b6208b27e564a7037f6036707802e5c31.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_煮葱烩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d353870634748f593d1250b3b262b37b857d50cf.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_猪蹄面]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/be1d686a8fce729543bc00f2a5bc6a9eb0659bf2.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_玉足]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/38223adf15aae5725c105e9e4384f2c38c1f183a.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_百口莫辩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e20740d1ed4e2d6b1956693cd58d496f46c3cef5.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_眠一眠了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a706989b1bb9600321c095f02b44878f79682646.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[淡淡的_鸡蛋肠]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c4fcbea2d1fa788769458f527e4fee44d9f0a9ec.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1716274461001,
 				"name":"墙头马上",
-				"tab_id":0,
 				"suit_item_id":214245001,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1716184030001,
 				"name":"主儿葱烩",
-				"tab_id":0,
 				"suit_item_id":214245001,
 				"properties":{
 					"fan_no_color":"#ffffff",

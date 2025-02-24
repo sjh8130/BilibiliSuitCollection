@@ -35,7 +35,6 @@
 			{
 				"item_id":1732247247001,
 				"name":"医疗系天使",
-				"tab_id":0,
 				"suit_item_id":232845601,
 				"properties":{
 					"fan_no_color":"#9FB4E5",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1732247247002,
 				"name":"医疗系天使粉丝",
-				"tab_id":0,
 				"suit_item_id":232845601,
 				"properties":{
 					"fan_no_color":"#9FB4E5",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1732247265001,
 				"name":"医疗系天使",
-				"tab_id":0,
 				"suit_item_id":232845601,
 				"properties":{
 					"fan_no_color":"#B3B9CF",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1732247342001,
 				"name":"医疗系天使",
-				"tab_id":0,
 				"suit_item_id":232845601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/09b95017e4dbd2f47e3feb3d65efe20f43628532.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"偷看\",\"image\":\"https://i0.hdslb.com/bfs/garb/35c20b3d81070931cc2fd1888a3b12a9e3191998.png\"},{\"name\":\"惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd16a1a8ddc794b059f4f4f789ec7b97541d5ca3.png\"},{\"name\":\"扭捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/d94cae1d194e9817c897f872beca189cfb623226.png\"},{\"name\":\"多喝水\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea31e71849c770ee253bb14c91adc93882db32d4.png\"},{\"name\":\"BOOM\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d14e33214b871e04c260a635fc399d1e5343397.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b28d10bddb78b361ac06dc95fd02142ee4e6802.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9201a9e4a844b5bf8c3aac93c071eb39085d68a.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/b34d5ee2d1b1aa3ab646921ec76bc7bdf9d50a07.png\"},{\"name\":\"爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/859a209b3dbcf66ccd41094a672e11fecdd8636b.png\"},{\"name\":\"鬼鬼祟祟\",\"image\":\"https://i0.hdslb.com/bfs/garb/0540ac96d043adef37a2ee7e8c24ece4175b3f92.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/12d2cec457decee54c539917672904d2c509f177.png\"},{\"name\":\"计划通\",\"image\":\"https://i0.hdslb.com/bfs/garb/719a6b5e11fd7da3fd84185c85b461d9a61c8045.png\"},{\"name\":\"面无表情\",\"image\":\"https://i0.hdslb.com/bfs/garb/f06467f7bd293887990358231dfee50da29d0bce.png\"},{\"name\":\"记仇\",\"image\":\"https://i0.hdslb.com/bfs/garb/58fc7924acda2371bddfad13c121d4af5c3afefb.png\"},{\"name\":\"拿来吧你\",\"image\":\"https://i0.hdslb.com/bfs/garb/b79a27262f6354eb4ab0ddc209988c7076eef9a0.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_BOOM]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7d14e33214b871e04c260a635fc399d1e5343397.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_偷看]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/35c20b3d81070931cc2fd1888a3b12a9e3191998.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_多喝水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea31e71849c770ee253bb14c91adc93882db32d4.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fd16a1a8ddc794b059f4f4f789ec7b97541d5ca3.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_扭捏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d94cae1d194e9817c897f872beca189cfb623226.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9b28d10bddb78b361ac06dc95fd02142ee4e6802.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_拿来吧你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b79a27262f6354eb4ab0ddc209988c7076eef9a0.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c9201a9e4a844b5bf8c3aac93c071eb39085d68a.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b34d5ee2d1b1aa3ab646921ec76bc7bdf9d50a07.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/859a209b3dbcf66ccd41094a672e11fecdd8636b.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_计划通]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/719a6b5e11fd7da3fd84185c85b461d9a61c8045.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_记仇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/58fc7924acda2371bddfad13c121d4af5c3afefb.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/12d2cec457decee54c539917672904d2c509f177.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_面无表情]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f06467f7bd293887990358231dfee50da29d0bce.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[医疗系天使_鬼鬼祟祟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0540ac96d043adef37a2ee7e8c24ece4175b3f92.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1732247643001,
 				"name":"医疗系天使",
-				"tab_id":0,
 				"suit_item_id":232845601,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1732247288001,
 				"name":"医疗系天使",
-				"tab_id":0,
 				"suit_item_id":232845601,
 				"properties":{
 					"fan_no_color":"#ffffff",

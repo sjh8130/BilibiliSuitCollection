@@ -35,7 +35,6 @@
 			{
 				"item_id":1707299581001,
 				"name":"团圆兔兔万家灯火",
-				"tab_id":0,
 				"suit_item_id":203854301,
 				"properties":{
 					"fan_no_color":"#E15940",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1707299581002,
 				"name":"团圆兔兔万家灯火粉丝",
-				"tab_id":0,
 				"suit_item_id":203854301,
 				"properties":{
 					"fan_no_color":"#E15940",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1707300056001,
 				"name":"团圆兔兔万家灯火",
-				"tab_id":0,
 				"suit_item_id":203854301,
 				"properties":{
 					"fan_no_color":"#E15940",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1707299627001,
 				"name":"团圆兔兔万家灯火",
-				"tab_id":0,
 				"suit_item_id":203854301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ed3cb93189b69f25f6bd2fab18ec5720076f7c86.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"龙年大吉\",\"image\":\"https://i0.hdslb.com/bfs/garb/1993c2f1bf516d5cfbaa3a706edbdf77a6f14b8d.png\"},{\"name\":\"放花灯\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a25dad2dd04b2b052bb82ec949e04dc6ec7b9c6.png\"},{\"name\":\"送祝福\",\"image\":\"https://i0.hdslb.com/bfs/garb/37374b38f565ec385763c5b211e486e3bbb4fca4.png\"},{\"name\":\"放风筝\",\"image\":\"https://i0.hdslb.com/bfs/garb/2af0686e975dae25e7d3eccfe234a54e388dd8f4.png\"},{\"name\":\"赏梅花\",\"image\":\"https://i0.hdslb.com/bfs/garb/c11be1ba4205854ec01156e8193cf06013fe18f6.png\"},{\"name\":\"收红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/15ef8dd19d852b6935e563de13b3dcf32394652a.png\"},{\"name\":\"舞龙狮1\",\"image\":\"https://i0.hdslb.com/bfs/garb/482c5577d8619f016bb62326ffc6c72a41b9486c.png\"},{\"name\":\"舞龙狮2\",\"image\":\"https://i0.hdslb.com/bfs/garb/844dc85db819c44ff891a5415e320a66751ddd2d.png\"},{\"name\":\"舞龙狮3\",\"image\":\"https://i0.hdslb.com/bfs/garb/deb735bb95d37c991b959ecaea57eca3e0fa0673.png\"},{\"name\":\"舞龙狮4\",\"image\":\"https://i0.hdslb.com/bfs/garb/c41615907072bced27e8481c59eebff511dbf4a8.png\"},{\"name\":\"满心欢喜\",\"image\":\"https://i0.hdslb.com/bfs/garb/f097791d8f90f52e3b5a06bc550a349b05e8ceaa.png\"},{\"name\":\"放鞭炮\",\"image\":\"https://i0.hdslb.com/bfs/garb/a74b23d927d09a020d19bbae1b119f68b5cdf263.png\"},{\"name\":\"看烟火\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a7bce482fe73e90dd5147c27184ae7ba3587f64.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/afdfe471312622f76c477eb4c07c8f137cf140a7.png\"},{\"name\":\"生日快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/b1cc94df29bd17ea373da8a948075d4944cd3ee3.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_收红包]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/15ef8dd19d852b6935e563de13b3dcf32394652a.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_放花灯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7a25dad2dd04b2b052bb82ec949e04dc6ec7b9c6.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_放鞭炮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a74b23d927d09a020d19bbae1b119f68b5cdf263.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_放风筝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2af0686e975dae25e7d3eccfe234a54e388dd8f4.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_满心欢喜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f097791d8f90f52e3b5a06bc550a349b05e8ceaa.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/afdfe471312622f76c477eb4c07c8f137cf140a7.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_生日快乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b1cc94df29bd17ea373da8a948075d4944cd3ee3.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_看烟火]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0a7bce482fe73e90dd5147c27184ae7ba3587f64.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_舞龙狮1]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/482c5577d8619f016bb62326ffc6c72a41b9486c.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_舞龙狮2]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/844dc85db819c44ff891a5415e320a66751ddd2d.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_舞龙狮3]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/deb735bb95d37c991b959ecaea57eca3e0fa0673.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_舞龙狮4]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c41615907072bced27e8481c59eebff511dbf4a8.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_赏梅花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c11be1ba4205854ec01156e8193cf06013fe18f6.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_送祝福]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/37374b38f565ec385763c5b211e486e3bbb4fca4.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[团圆兔兔万家灯火_龙年大吉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1993c2f1bf516d5cfbaa3a706edbdf77a6f14b8d.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1707299937001,
 				"name":"团圆兔兔万家灯火",
-				"tab_id":0,
 				"suit_item_id":203854301,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1707299720001,
 				"name":"团圆兔兔万家灯火",
-				"tab_id":0,
 				"suit_item_id":203854301,
 				"properties":{
 					"fan_no_color":"#ffffff",

@@ -35,7 +35,6 @@
 			{
 				"item_id":1737624960001,
 				"name":"福运香蕉蛇",
-				"tab_id":0,
 				"suit_item_id":302354501,
 				"properties":{
 					"fan_no_color":"#E84B4B",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1737624960002,
 				"name":"福运香蕉蛇粉丝",
-				"tab_id":0,
 				"suit_item_id":302354501,
 				"properties":{
 					"fan_no_color":"#E84B4B",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1737625097001,
 				"name":"福运香蕉蛇",
-				"tab_id":0,
 				"suit_item_id":302354501,
 				"properties":{
 					"fan_no_color":"#DC5757",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1737624912001,
 				"name":"福运香蕉蛇",
-				"tab_id":0,
 				"suit_item_id":302354501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/43e4ad928359a7bfb4b3799cba39ad78cdd76cc0.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"发发发\",\"image\":\"https://i0.hdslb.com/bfs/garb/2750da190dd794208c2a1432e11e0a6f8c41aeb5.png\"},{\"name\":\"啃啃甜甜圈\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d804cc0b77db693fbd13ee7c899fbb8445d630d.png\"},{\"name\":\"煎蛋面\",\"image\":\"https://i0.hdslb.com/bfs/garb/cae9dea3c305fe8ebd0da7f7c21827af66a986dd.png\"},{\"name\":\"吃吃叶儿粑\",\"image\":\"https://i0.hdslb.com/bfs/garb/24a5f3ec4a5d412a3fba18dbf08e70611e58cc79.png\"},{\"name\":\"爆米花蠕动\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ea13bae2ae04e13e9251671235d195a075f824b.png\"},{\"name\":\"一起次火锅\",\"image\":\"https://i0.hdslb.com/bfs/garb/9297af7f680635c8d6c0659da9c95423cce2a5c0.png\"},{\"name\":\"锵锵蛇炸虾\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf9ee90d0ff54d01a6d24c995761546102ea0aa5.png\"},{\"name\":\"大橘大梨\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2d50388a82a520c2a2367bcd396be45b7d376bb.png\"},{\"name\":\"福运满满\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4cb67a013164788b1202fe0f1e72acf56e718dd.png\"},{\"name\":\"回转香蕉蛇\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc7a80953f93508e446bf95ce957aaaf692c337d.png\"},{\"name\":\"财源滚滚\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef6b47a6bc635a0f457c49002e2b37488d00ef0d.png\"},{\"name\":\"招福小蛇\",\"image\":\"https://i0.hdslb.com/bfs/garb/68b87b260c17a688222181fb6db4400852029356.png\"},{\"name\":\"苹安喜乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/aea5ec73dc36a8c7ffd60fd59f977acd7ff7ebce.png\"},{\"name\":\"好柿花生\",\"image\":\"https://i0.hdslb.com/bfs/garb/c881647cfea9f959a6f0ef9602526a1e9bbf32bc.png\"},{\"name\":\"招财进宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/d568e3093f6314ca75b06336df796d178086cead.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,53 +99,7 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[福运香蕉蛇_发发发]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2750da190dd794208c2a1432e11e0a6f8c41aeb5.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[福运香蕉蛇_啃啃甜甜圈]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8d804cc0b77db693fbd13ee7c899fbb8445d630d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[福运香蕉蛇_煎蛋面]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cae9dea3c305fe8ebd0da7f7c21827af66a986dd.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[福运香蕉蛇_吃吃叶儿粑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/24a5f3ec4a5d412a3fba18dbf08e70611e58cc79.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[福运香蕉蛇_爆米花蠕动]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3ea13bae2ae04e13e9251671235d195a075f824b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[福运香蕉蛇_一起次火锅]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9297af7f680635c8d6c0659da9c95423cce2a5c0.png",
 							"sale_type":"pay"
@@ -158,35 +107,31 @@
 					},
 					{
 						"item_id":0,
-						"name":"[福运香蕉蛇_锵锵蛇炸虾]",
-						"tab_id":0,
+						"name":"[福运香蕉蛇_发发发]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cf9ee90d0ff54d01a6d24c995761546102ea0aa5.png",
+							"image":"https://i0.hdslb.com/bfs/garb/2750da190dd794208c2a1432e11e0a6f8c41aeb5.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[福运香蕉蛇_大橘大梨]",
-						"tab_id":0,
+						"name":"[福运香蕉蛇_吃吃叶儿粑]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a2d50388a82a520c2a2367bcd396be45b7d376bb.png",
+							"image":"https://i0.hdslb.com/bfs/garb/24a5f3ec4a5d412a3fba18dbf08e70611e58cc79.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[福运香蕉蛇_福运满满]",
-						"tab_id":0,
+						"name":"[福运香蕉蛇_啃啃甜甜圈]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c4cb67a013164788b1202fe0f1e72acf56e718dd.png",
+							"image":"https://i0.hdslb.com/bfs/garb/8d804cc0b77db693fbd13ee7c899fbb8445d630d.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[福运香蕉蛇_回转香蕉蛇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cc7a80953f93508e446bf95ce957aaaf692c337d.png",
 							"sale_type":"pay"
@@ -194,35 +139,15 @@
 					},
 					{
 						"item_id":0,
-						"name":"[福运香蕉蛇_财源滚滚]",
-						"tab_id":0,
+						"name":"[福运香蕉蛇_大橘大梨]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ef6b47a6bc635a0f457c49002e2b37488d00ef0d.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[福运香蕉蛇_招福小蛇]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/68b87b260c17a688222181fb6db4400852029356.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[福运香蕉蛇_苹安喜乐]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/aea5ec73dc36a8c7ffd60fd59f977acd7ff7ebce.png",
+							"image":"https://i0.hdslb.com/bfs/garb/a2d50388a82a520c2a2367bcd396be45b7d376bb.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[福运香蕉蛇_好柿花生]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c881647cfea9f959a6f0ef9602526a1e9bbf32bc.png",
 							"sale_type":"pay"
@@ -230,10 +155,65 @@
 					},
 					{
 						"item_id":0,
+						"name":"[福运香蕉蛇_招福小蛇]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/68b87b260c17a688222181fb6db4400852029356.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[福运香蕉蛇_招财进宝]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d568e3093f6314ca75b06336df796d178086cead.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[福运香蕉蛇_煎蛋面]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cae9dea3c305fe8ebd0da7f7c21827af66a986dd.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[福运香蕉蛇_爆米花蠕动]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3ea13bae2ae04e13e9251671235d195a075f824b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[福运香蕉蛇_福运满满]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c4cb67a013164788b1202fe0f1e72acf56e718dd.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[福运香蕉蛇_苹安喜乐]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/aea5ec73dc36a8c7ffd60fd59f977acd7ff7ebce.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[福运香蕉蛇_财源滚滚]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ef6b47a6bc635a0f457c49002e2b37488d00ef0d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[福运香蕉蛇_锵锵蛇炸虾]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cf9ee90d0ff54d01a6d24c995761546102ea0aa5.png",
 							"sale_type":"pay"
 						}
 					}
@@ -244,7 +224,6 @@
 			{
 				"item_id":1737626758001,
 				"name":"福运香蕉蛇",
-				"tab_id":0,
 				"suit_item_id":302354501,
 				"properties":{
 					"color":"#ffffff",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1737626430001,
 				"name":"福运香蕉蛇",
-				"tab_id":0,
 				"suit_item_id":302354501,
 				"properties":{
 					"fan_no_color":"#ffffff",

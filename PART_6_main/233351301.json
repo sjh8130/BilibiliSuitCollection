@@ -35,7 +35,6 @@
 			{
 				"item_id":1732783905001,
 				"name":"圣诞结",
-				"tab_id":0,
 				"suit_item_id":233351301,
 				"properties":{
 					"fan_no_color":"#6BD398",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1732783905002,
 				"name":"圣诞结粉丝",
-				"tab_id":0,
 				"suit_item_id":233351301,
 				"properties":{
 					"fan_no_color":"#6BD398",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1732784669001,
 				"name":"圣诞结",
-				"tab_id":0,
 				"suit_item_id":233351301,
 				"properties":{
 					"fan_no_color":"#6BD398",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1732783931001,
 				"name":"圣诞结",
-				"tab_id":0,
 				"suit_item_id":233351301,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0caf0fa1de6fb3dcff717d4c7824e56785929899.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"吃苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab0b563af29b46013fb341c33748bf7da60ba157.png\"},{\"name\":\"礼物盒\",\"image\":\"https://i0.hdslb.com/bfs/garb/589717ba88d86f56e2cf6159984e873a66a92756.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea93939ba0aab5cce93b0c75805410da09189fa8.png\"},{\"name\":\"姜饼人\",\"image\":\"https://i0.hdslb.com/bfs/garb/9297d64c925cb42483f101e10690e1d07e879941.png\"},{\"name\":\"拐杖糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/eac1c4e3bdf69e146c46509e0786a03f5b826cba.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/907a4c82752060a247ce05e000795f2aafc76af7.png\"},{\"name\":\"呆呆小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/e03bffae251f250bb703c8ccd3110b625c5bdd02.png\"},{\"name\":\"小铃铛\",\"image\":\"https://i0.hdslb.com/bfs/garb/b13589bc2e811cef8d4813469fcec75cca5a8784.png\"},{\"name\":\"圣诞花圈\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9f9bdef360626e8c56f2bcabe0f9bb23234d24f.png\"},{\"name\":\"拐杖小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/989976685e620b277711064579145d969fd67014.png\"},{\"name\":\"圣诞树\",\"image\":\"https://i0.hdslb.com/bfs/garb/556c7ee1d22c54e5b8083f13cba7765b3cd361b2.png\"},{\"name\":\"圣诞袜\",\"image\":\"https://i0.hdslb.com/bfs/garb/28b78ca33d800030d1a6587c6761a342dd5db0f4.png\"},{\"name\":\"雪人\",\"image\":\"https://i0.hdslb.com/bfs/garb/beb5f01b21ec677e15955e4c016fcfe5c9e1cea5.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/f58643fffb27b95de5cf057202af57e04ab5f123.png\"},{\"name\":\"叮叮当当\",\"image\":\"https://i0.hdslb.com/bfs/garb/753ff06f62aee2ec1ab5fec4c4ec758ab17e10d8.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_叮叮当当]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/753ff06f62aee2ec1ab5fec4c4ec758ab17e10d8.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_可爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/907a4c82752060a247ce05e000795f2aafc76af7.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_吃苹果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ab0b563af29b46013fb341c33748bf7da60ba157.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_呆呆小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e03bffae251f250bb703c8ccd3110b625c5bdd02.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_圣诞树]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/556c7ee1d22c54e5b8083f13cba7765b3cd361b2.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_圣诞花圈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d9f9bdef360626e8c56f2bcabe0f9bb23234d24f.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_圣诞袜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/28b78ca33d800030d1a6587c6761a342dd5db0f4.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_姜饼人]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9297d64c925cb42483f101e10690e1d07e879941.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_小铃铛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b13589bc2e811cef8d4813469fcec75cca5a8784.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea93939ba0aab5cce93b0c75805410da09189fa8.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_抱抱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f58643fffb27b95de5cf057202af57e04ab5f123.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_拐杖小狗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/989976685e620b277711064579145d969fd67014.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_拐杖糖]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eac1c4e3bdf69e146c46509e0786a03f5b826cba.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_礼物盒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/589717ba88d86f56e2cf6159984e873a66a92756.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[圣诞结_雪人]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/beb5f01b21ec677e15955e4c016fcfe5c9e1cea5.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1732784625001,
 				"name":"圣诞结",
-				"tab_id":0,
 				"suit_item_id":233351301,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1732783963001,
 				"name":"圣诞结",
-				"tab_id":0,
 				"suit_item_id":233351301,
 				"properties":{
 					"fan_no_color":"#ffffff",

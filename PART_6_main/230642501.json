@@ -35,7 +35,6 @@
 			{
 				"item_id":1730441234001,
 				"name":"猫咪们的播放器",
-				"tab_id":0,
 				"suit_item_id":230642501,
 				"properties":{
 					"fan_no_color":"#F4C496",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1730441234002,
 				"name":"猫咪们的播放器粉丝",
-				"tab_id":0,
 				"suit_item_id":230642501,
 				"properties":{
 					"fan_no_color":"#F4C496",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1730441256001,
 				"name":"猫咪们的播放器",
-				"tab_id":0,
 				"suit_item_id":230642501,
 				"properties":{
 					"fan_no_color":"#BAD3E2",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1730441316001,
 				"name":"猫咪们的播放器",
-				"tab_id":0,
 				"suit_item_id":230642501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e0897592dd8ca35ef30433c29024f05626786f45.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"听歌小猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc013b076131c57828577ce8b0905f52f2759c99.png\"},{\"name\":\"麦给你\",\"image\":\"https://i0.hdslb.com/bfs/garb/116bdaeb093efc09db519a6d8dec85b0225084dd.png\"},{\"name\":\"抱住星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/831beb0a2069db902836c0b57f8d6bd73ca99474.png\"},{\"name\":\"飞翔小猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/44f18e018e14da0306dfa8dd3576439c08758e02.png\"},{\"name\":\"猫屁屁\",\"image\":\"https://i0.hdslb.com/bfs/garb/9c9ba5003206919a0b870741d2f2656c60c21f27.png\"},{\"name\":\"远航小猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/da99c3dd9c77a034a20cd0d583bf2d3a0d0ee6c6.png\"},{\"name\":\"吹喇叭\",\"image\":\"https://i0.hdslb.com/bfs/garb/73387ca14c4c88ed236154b9a81c472bb7d5041f.png\"},{\"name\":\"猫咪光盘\",\"image\":\"https://i0.hdslb.com/bfs/garb/142a8bd467b10a86bf3dfe1765ce5061e4e3d5eb.png\"},{\"name\":\"深夜哞哞\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9ff10db04c5d227c37d1a1151e1abb355b962a7.png\"},{\"name\":\"指挥家\",\"image\":\"https://i0.hdslb.com/bfs/garb/56f5bf9361d7caf3e6e9cca06c49e35906df30c1.png\"},{\"name\":\"激情弹奏\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b772c9c04f5c1c3b61fec58db17aca6a2f0e754.png\"},{\"name\":\"沉浸式听歌\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2b6bd6d4a1ea74ed3baf755465bea9e44622bc8.png\"},{\"name\":\"在听什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/da8aefd980612d91f4dfaca876d97f5603a2f6e2.png\"},{\"name\":\"激情演唱\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b0fc6f8f11de0d3b836aec52ee8be162e91548f.png\"},{\"name\":\"哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/12a86aea9e5eb2bd4e2ddf64183220c7bc16c6e1.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_听歌小猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dc013b076131c57828577ce8b0905f52f2759c99.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_吹喇叭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/73387ca14c4c88ed236154b9a81c472bb7d5041f.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_哈哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/12a86aea9e5eb2bd4e2ddf64183220c7bc16c6e1.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_在听什么]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/da8aefd980612d91f4dfaca876d97f5603a2f6e2.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_抱住星星]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/831beb0a2069db902836c0b57f8d6bd73ca99474.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_指挥家]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/56f5bf9361d7caf3e6e9cca06c49e35906df30c1.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_沉浸式听歌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b2b6bd6d4a1ea74ed3baf755465bea9e44622bc8.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_深夜哞哞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d9ff10db04c5d227c37d1a1151e1abb355b962a7.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_激情弹奏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8b772c9c04f5c1c3b61fec58db17aca6a2f0e754.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_激情演唱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1b0fc6f8f11de0d3b836aec52ee8be162e91548f.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_猫咪光盘]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/142a8bd467b10a86bf3dfe1765ce5061e4e3d5eb.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_猫屁屁]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9c9ba5003206919a0b870741d2f2656c60c21f27.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_远航小猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/da99c3dd9c77a034a20cd0d583bf2d3a0d0ee6c6.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_飞翔小猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/44f18e018e14da0306dfa8dd3576439c08758e02.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[猫咪们的播放器_麦给你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/116bdaeb093efc09db519a6d8dec85b0225084dd.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1730441370001,
 				"name":"猫咪们的播放器",
-				"tab_id":0,
 				"suit_item_id":230642501,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1730441274001,
 				"name":"猫咪们的播放器",
-				"tab_id":0,
 				"suit_item_id":230642501,
 				"properties":{
 					"fan_no_color":"#ffffff",

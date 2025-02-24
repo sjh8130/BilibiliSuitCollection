@@ -36,7 +36,6 @@
 			{
 				"item_id":1702471563001,
 				"name":"青叶的冬天",
-				"tab_id":0,
 				"suit_item_id":134768701,
 				"properties":{
 					"fan_no_color":"#3A5EFF",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1702471563002,
 				"name":"青叶的冬天粉丝",
-				"tab_id":0,
 				"suit_item_id":134768701,
 				"properties":{
 					"fan_no_color":"#3A5EFF",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1702478538001,
 				"name":"评论",
-				"tab_id":0,
 				"suit_item_id":134768701,
 				"properties":{
 					"fan_no_color":"#5CA5FF",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1702473087001,
 				"name":"青叶表情包",
-				"tab_id":0,
 				"suit_item_id":134768701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/899511a0a05937ba60f10d564bb2cabf57a39136.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"呲溜\",\"image\":\"https://i0.hdslb.com/bfs/garb/70d2be3fe6e067dd159a9020c4befc2bf20229c8.png\"},{\"name\":\"桀桀桀\",\"image\":\"https://i0.hdslb.com/bfs/garb/36b2adc58246d1aa69f1fdff4e4765beb82f412d.png\"},{\"name\":\"记小本本\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0e06d55061f4a9b0108750c6109292e5ca5561b.png\"},{\"name\":\"猎鲨时刻\",\"image\":\"https://i0.hdslb.com/bfs/garb/63e19a5bcf05502801196adac8de9f75cbb9cb38.png\"},{\"name\":\"盯你个钢板\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f728d78c5704139967b5bbb2a7a41ae0a448f60.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1f0836e2b955d2bf53a20c03a1088b3a5bd5f60.png\"},{\"name\":\"我是gachi\",\"image\":\"https://i0.hdslb.com/bfs/garb/6931b8f1bfa90b2904309ae240a9cd97daf6bed8.png\"},{\"name\":\"？？？\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce0577ccd0ce4758ea073922bad8d5794b8da2b7.png\"},{\"name\":\"没问题\",\"image\":\"https://i0.hdslb.com/bfs/garb/88f8fc3cc68c7ae8332479c6212ee39fcc339806.png\"},{\"name\":\"心脏骤停\",\"image\":\"https://i0.hdslb.com/bfs/garb/9407de5ee40dca8bdc741719a20d501e338cc9b8.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2ed99b1ee2608891759fb452f603c0ff5ddc7ef.png\"},{\"name\":\"阿巴阿巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/499ba4e31c32e8625c770ae528c1fc6d0fdf7cb2.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/e80c999b2217b3f1273546b1bdb979edbf2c7d62.png\"},{\"name\":\"你小子\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a932d2cf2818a2f153259e32159d6b2e180ccc7.png\"},{\"name\":\"在做了\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d62f24f5cf9ec809351fa5828c4b8381471efcf.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_你小子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6a932d2cf2818a2f153259e32159d6b2e180ccc7.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_呲溜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/70d2be3fe6e067dd159a9020c4befc2bf20229c8.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_嘻嘻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e80c999b2217b3f1273546b1bdb979edbf2c7d62.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_在做了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d62f24f5cf9ec809351fa5828c4b8381471efcf.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_心脏骤停]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9407de5ee40dca8bdc741719a20d501e338cc9b8.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_我是gachi]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6931b8f1bfa90b2904309ae240a9cd97daf6bed8.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_摸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c1f0836e2b955d2bf53a20c03a1088b3a5bd5f60.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_桀桀桀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/36b2adc58246d1aa69f1fdff4e4765beb82f412d.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_没问题]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/88f8fc3cc68c7ae8332479c6212ee39fcc339806.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_猎鲨时刻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/63e19a5bcf05502801196adac8de9f75cbb9cb38.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_盯你个钢板]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2f728d78c5704139967b5bbb2a7a41ae0a448f60.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_记小本本]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a0e06d55061f4a9b0108750c6109292e5ca5561b.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b2ed99b1ee2608891759fb452f603c0ff5ddc7ef.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_阿巴阿巴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/499ba4e31c32e8625c770ae528c1fc6d0fdf7cb2.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[青叶表情包_？？？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce0577ccd0ce4758ea073922bad8d5794b8da2b7.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1702478113001,
 				"name":"青叶的装扮",
-				"tab_id":0,
 				"suit_item_id":134768701,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1702473405001,
 				"name":"青叶冬日",
-				"tab_id":0,
 				"suit_item_id":134768701,
 				"properties":{
 					"fan_no_color":"#ffffff",

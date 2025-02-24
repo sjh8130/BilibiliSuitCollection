@@ -35,7 +35,6 @@
 			{
 				"item_id":1716803201001,
 				"name":"獭耳",
-				"tab_id":0,
 				"suit_item_id":214853801,
 				"properties":{
 					"fan_no_color":"#EB8E1D",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1716803201002,
 				"name":"獭耳粉丝",
-				"tab_id":0,
 				"suit_item_id":214853801,
 				"properties":{
 					"fan_no_color":"#EB8E1D",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1716794467001,
 				"name":"獭堡",
-				"tab_id":0,
 				"suit_item_id":214853801,
 				"properties":{
 					"fan_no_color":"#FF9D00",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1717144136001,
 				"name":"獭耳",
-				"tab_id":0,
 				"suit_item_id":214853801,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a91dd5c6d429643e484fcae63acaf7955bbbf5a7.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/8481c1da15b91cc0e326042831f23e919ddf38c5.png\"},{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/58ee60c8298f514dd4c55a3b2521f7faa5cafabd.png\"},{\"name\":\"收藏\",\"image\":\"https://i0.hdslb.com/bfs/garb/db05c59105f7efa9154148baea560d81bd035285.png\"},{\"name\":\"respect\",\"image\":\"https://i0.hdslb.com/bfs/garb/536c231c530afbb739f48330341472c40075de0c.png\"},{\"name\":\"摊手\",\"image\":\"https://i0.hdslb.com/bfs/garb/9322711d46bfc839905c8a73a965f5516da06bc1.png\"},{\"name\":\"狠狠举报\",\"image\":\"https://i0.hdslb.com/bfs/garb/01bc94c73028ad3ca4056223893a445f4f8c17f4.png\"},{\"name\":\"soga\",\"image\":\"https://i0.hdslb.com/bfs/garb/54c95ea67632e4263f2eda614c5a9d81eb750e57.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8edba25245ffc1addf9ad41faa5ad5b81f8aab7.png\"},{\"name\":\"只想着自己\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2050b13d3f5739f2ae03bfe278fa90935b00eed.png\"},{\"name\":\"耶比\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbe7be9da99fee8ad00551a0d046cfb35993f072.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/0fa659ee3f1631ae96ea353e20f55da98fe4d0ac.png\"},{\"name\":\"眼镜獭\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ff727eb61050f887977472f177c14ed5fae65b0.png\"},{\"name\":\"肥獭\",\"image\":\"https://i0.hdslb.com/bfs/garb/242a85c1a30e8503425c1fbef701a8c299a80610.png\"},{\"name\":\"客服小獭\",\"image\":\"https://i0.hdslb.com/bfs/garb/184e624175274d5dbe6cc5cf8e04fd24320e343a.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/3363da3d0b0173e95c52cf74a49485ca8d5c88cf.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_respect]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/536c231c530afbb739f48330341472c40075de0c.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_soga]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/54c95ea67632e4263f2eda614c5a9d81eb750e57.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_只想着自己]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c2050b13d3f5739f2ae03bfe278fa90935b00eed.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f8edba25245ffc1addf9ad41faa5ad5b81f8aab7.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_客服小獭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/184e624175274d5dbe6cc5cf8e04fd24320e343a.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_打call]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0fa659ee3f1631ae96ea353e20f55da98fe4d0ac.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_投币]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/58ee60c8298f514dd4c55a3b2521f7faa5cafabd.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_摊手]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9322711d46bfc839905c8a73a965f5516da06bc1.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_收藏]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db05c59105f7efa9154148baea560d81bd035285.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_点赞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8481c1da15b91cc0e326042831f23e919ddf38c5.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_狠狠举报]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/01bc94c73028ad3ca4056223893a445f4f8c17f4.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_疑问]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3363da3d0b0173e95c52cf74a49485ca8d5c88cf.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_眼镜獭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5ff727eb61050f887977472f177c14ed5fae65b0.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_耶比]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbe7be9da99fee8ad00551a0d046cfb35993f072.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[獭耳_肥獭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/242a85c1a30e8503425c1fbef701a8c299a80610.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1717144308001,
 				"name":"春日小獭主题",
-				"tab_id":0,
 				"suit_item_id":214853801,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1717143191001,
 				"name":"獭耳六一",
-				"tab_id":0,
 				"suit_item_id":214853801,
 				"properties":{
 					"fan_no_color":"#ffffff",

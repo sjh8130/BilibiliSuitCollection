@@ -36,7 +36,6 @@
 			{
 				"item_id":1716346456001,
 				"name":"卤子和豆腐脑",
-				"tab_id":0,
 				"suit_item_id":214347901,
 				"properties":{
 					"fan_no_color":"#FFB4C8",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1716347122001,
 				"name":"卤子和豆腐脑粉丝",
-				"tab_id":0,
 				"suit_item_id":214347901,
 				"properties":{
 					"fan_no_color":"#FFB4C8",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1716346522001,
 				"name":"卤子和豆腐脑",
-				"tab_id":0,
 				"suit_item_id":214347901,
 				"properties":{
 					"fan_no_color":"#EA8585",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1716346627001,
 				"name":"卤子和豆腐脑",
-				"tab_id":0,
 				"suit_item_id":214347901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b365bf9b2ff0b94ff7407dcb56d662367190896f.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"吓到了\",\"image\":\"https://i0.hdslb.com/bfs/garb/09605a22d0602aac742d5c59595634511d0b9afa.png\"},{\"name\":\"呜呜呜~\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3cc37eddde339b845949c46070b227f61b0f251.png\"},{\"name\":\"啥？\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c10da58905320e282c7889cae8a780aea581a1b.png\"},{\"name\":\"哈哈哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4520860adc0c420e9f12c8fc70cef3f603c0b80.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8b6b6441e6f37400e6167c04c7f05011da8cf7e.png\"},{\"name\":\"好吧~\",\"image\":\"https://i0.hdslb.com/bfs/garb/61e490a400d4da90e770880330e3e39601f689db.png\"},{\"name\":\"对不起嘛\",\"image\":\"https://i0.hdslb.com/bfs/garb/a143788a6799419cde1e8c08fdbabcffd205708c.png\"},{\"name\":\"有点无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/d55aa3f72e9582345c4080d47d99231270c9bdbc.png\"},{\"name\":\"好生气！\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2b28c5d2ab746a96b05a62a19d164010eefa522.png\"},{\"name\":\"嘤嘤嘤\",\"image\":\"https://i0.hdslb.com/bfs/garb/daf8d9ffed3412d98882af7fce07b2b047acbe56.png\"},{\"name\":\"晚安~\",\"image\":\"https://i0.hdslb.com/bfs/garb/15ceae1461cae47de842602ea081385de70d2005.png\"},{\"name\":\"肚子好饿\",\"image\":\"https://i0.hdslb.com/bfs/garb/64ef2654b7903514b3c63d795a7323ae7f847108.png\"},{\"name\":\"爱你~\",\"image\":\"https://i0.hdslb.com/bfs/garb/fb1dab592ff97b744a50b9e10560d52224f10d09.png\"},{\"name\":\"好哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/738b854941e456b703ea8b780b25f3195517362d.png\"},{\"name\":\"谢谢你\",\"image\":\"https://i0.hdslb.com/bfs/garb/3bf665340bfcd3937c602588c339ca7d78823174.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f8b6b6441e6f37400e6167c04c7f05011da8cf7e.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_吓到了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/09605a22d0602aac742d5c59595634511d0b9afa.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_呜呜呜~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f3cc37eddde339b845949c46070b227f61b0f251.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_哈哈哈哈]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c4520860adc0c420e9f12c8fc70cef3f603c0b80.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_啥？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3c10da58905320e282c7889cae8a780aea581a1b.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_嘤嘤嘤]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/daf8d9ffed3412d98882af7fce07b2b047acbe56.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_好吧~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/61e490a400d4da90e770880330e3e39601f689db.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_好哦]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/738b854941e456b703ea8b780b25f3195517362d.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_好生气！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c2b28c5d2ab746a96b05a62a19d164010eefa522.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_对不起嘛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a143788a6799419cde1e8c08fdbabcffd205708c.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_晚安~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/15ceae1461cae47de842602ea081385de70d2005.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_有点无语]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d55aa3f72e9582345c4080d47d99231270c9bdbc.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_爱你~]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fb1dab592ff97b744a50b9e10560d52224f10d09.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_肚子好饿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/64ef2654b7903514b3c63d795a7323ae7f847108.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[卤子和豆腐脑_谢谢你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3bf665340bfcd3937c602588c339ca7d78823174.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1716347038001,
 				"name":"卤子和豆腐脑",
-				"tab_id":0,
 				"suit_item_id":214347901,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1716346565001,
 				"name":"卤子和豆腐脑",
-				"tab_id":0,
 				"suit_item_id":214347901,
 				"properties":{
 					"fan_no_color":"#ffffff",

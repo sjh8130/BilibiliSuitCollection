@@ -36,7 +36,6 @@
 			{
 				"item_id":1713927294001,
 				"name":"蟹宝",
-				"tab_id":0,
 				"suit_item_id":211554401,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1713948168001,
 				"name":"蟹宝粉丝",
-				"tab_id":0,
 				"suit_item_id":211554401,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1713945428001,
 				"name":"蟹蟹评论背景",
-				"tab_id":0,
 				"suit_item_id":211554401,
 				"properties":{
 					"fan_no_color":"#F83E06",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1713757657001,
 				"name":"蟹不肉",
-				"tab_id":0,
 				"suit_item_id":211554401,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/3992ecd0125bdb00cd002c7ba5c483eab865be08.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"救命\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e85352a09afada6ba1360833fdd148a9ceaf051.png\"},{\"name\":\"你好\",\"image\":\"https://i0.hdslb.com/bfs/garb/b74419a55c261f7f5f55a59575142c6b932d64df.png\"},{\"name\":\"记仇\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ffbedc5c7ece746e873e1f3c4b62b43cb3020cb.png\"},{\"name\":\"心动\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7004add7c279b8c008bdf4a5acdb1fb5750ee6c.png\"},{\"name\":\"乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c0d766198b6b60dd5588e1485fbfb31b07d7b4c.png\"},{\"name\":\"？\",\"image\":\"https://i0.hdslb.com/bfs/garb/cecab1c7e4952e7f9c66ea297fc8bccc345cc70b.png\"},{\"name\":\"厚礼蟹\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd67acae7d8ecc36bb81e82f367cc3323a2bb0e8.png\"},{\"name\":\"懵\",\"image\":\"https://i0.hdslb.com/bfs/garb/a853c6525fc48e5877cc2c69c9470ca7caeae294.png\"},{\"name\":\"是吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c3808fd34607e13525d5a2b640a7a9c00423241.png\"},{\"name\":\"跪了\",\"image\":\"https://i0.hdslb.com/bfs/garb/2997de90031d3b944e69343a42b913f19574c49b.png\"},{\"name\":\"惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/d678338cef804bfe575bc3838c74d3edf1c22e3e.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/b925a2dd7d8fa05f7c7208bac558530d3577c9d2.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/dfa267058323a33dd404025eb5a1bf07892db425.png\"},{\"name\":\"汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/7947b96e76b5de89845c0674c65150c892267094.png\"},{\"name\":\"恍然大悟\",\"image\":\"https://i0.hdslb.com/bfs/garb/1895a6a4ddd5c9c2f35df8e35fb01ab5eca758b2.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_乐]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3c0d766198b6b60dd5588e1485fbfb31b07d7b4c.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_你好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b74419a55c261f7f5f55a59575142c6b932d64df.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_加油]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dfa267058323a33dd404025eb5a1bf07892db425.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_厚礼蟹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cd67acae7d8ecc36bb81e82f367cc3323a2bb0e8.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b925a2dd7d8fa05f7c7208bac558530d3577c9d2.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_心动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c7004add7c279b8c008bdf4a5acdb1fb5750ee6c.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_恍然大悟]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1895a6a4ddd5c9c2f35df8e35fb01ab5eca758b2.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d678338cef804bfe575bc3838c74d3edf1c22e3e.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_懵]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a853c6525fc48e5877cc2c69c9470ca7caeae294.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_救命]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3e85352a09afada6ba1360833fdd148a9ceaf051.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_是吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0c3808fd34607e13525d5a2b640a7a9c00423241.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_汗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7947b96e76b5de89845c0674c65150c892267094.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_记仇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4ffbedc5c7ece746e873e1f3c4b62b43cb3020cb.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_跪了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2997de90031d3b944e69343a42b913f19574c49b.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[蟹不肉_？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cecab1c7e4952e7f9c66ea297fc8bccc345cc70b.png",
 							"sale_type":"pay"
@@ -244,7 +224,6 @@
 			{
 				"item_id":1713945175001,
 				"name":"蟹蟹静态主题",
-				"tab_id":0,
 				"suit_item_id":211554401,
 				"properties":{
 					"color":"#000000",
@@ -284,7 +263,6 @@
 			{
 				"item_id":1714295590001,
 				"name":"蟹蟹新素材",
-				"tab_id":0,
 				"suit_item_id":211554401,
 				"properties":{
 					"fan_no_color":"#ffffff",

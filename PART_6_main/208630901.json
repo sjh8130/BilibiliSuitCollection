@@ -36,7 +36,6 @@
 			{
 				"item_id":1711360559001,
 				"name":"粉丝专属Q版动态卡片",
-				"tab_id":0,
 				"suit_item_id":208630901,
 				"properties":{
 					"fan_no_color":"#D5354D",
@@ -50,7 +49,6 @@
 			{
 				"item_id":1711360559002,
 				"name":"粉丝专属Q版动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":208630901,
 				"properties":{
 					"fan_no_color":"#D5354D",
@@ -67,7 +65,6 @@
 			{
 				"item_id":1711360925001,
 				"name":"粉丝专属Q版评论卡片",
-				"tab_id":0,
 				"suit_item_id":208630901,
 				"properties":{
 					"fan_no_color":"#D5354D",
@@ -82,14 +79,12 @@
 			{
 				"item_id":1711096366001,
 				"name":"超萌Q版表情包",
-				"tab_id":0,
 				"suit_item_id":208630901,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/c7c0b0b0e3b78e1cc24657c86452a7ec4bc1623b.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/3bafeb61120e64784bc763897a1596e06bd9f652.png\"},{\"name\":\"福寿双全\",\"image\":\"https://i0.hdslb.com/bfs/garb/e50d1f7d43519f7549748115ccc11f82d177832f.png\"},{\"name\":\"福气满满\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a920fe89e513e2069daf9db0e9d1b630bf4e7d6.png\"},{\"name\":\"心寒\",\"image\":\"https://i0.hdslb.com/bfs/garb/e917e3760f13506135fbd02e7fd71483eb920df3.png\"},{\"name\":\"烟花\",\"image\":\"https://i0.hdslb.com/bfs/garb/8cf59dddff60fa5de8422d253c43045c174f031e.png\"},{\"name\":\"拜托拜托\",\"image\":\"https://i0.hdslb.com/bfs/garb/72e70467605fa850087d86aba40f482dc8a4ed4e.png\"},{\"name\":\"好吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/b456351110fb3eca618338d577fccf62d25eae2e.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/d3715f07e87677ced97401ab53a33adec884d870.png\"},{\"name\":\"2024\",\"image\":\"https://i0.hdslb.com/bfs/garb/96455a8e09d74effe866a18b2d292dda27a08870.png\"},{\"name\":\"饱了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a307f6427520c11af79a782b7519233104695720.png\"},{\"name\":\"忙碌\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d0a5df89427bf1c57849ea072e91c2a9c64786a.png\"},{\"name\":\"打扫\",\"image\":\"https://i0.hdslb.com/bfs/garb/926aff3de1b1c70b8920584385ae31e368f054ad.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f591cae6075a48bcc7b86bb0136a39e878f6828.png\"},{\"name\":\"被拎\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa7bf5463e8b1cce92bd42cc06fbf5e3487f893e.png\"},{\"name\":\"落泪了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0daa563315581dbb732a1f6ff537b14abe35a04.png\"},{\"name\":\"暴富\",\"image\":\"https://i0.hdslb.com/bfs/garb/39fc41463436e2009b6a09d125d16ab31a91cf05.png\"},{\"name\":\"红包拿来\",\"image\":\"https://i0.hdslb.com/bfs/garb/d30c8ef3c5c214619455116fd5384925300393c8.png\"},{\"name\":\"不想上班\",\"image\":\"https://i0.hdslb.com/bfs/garb/93f56fbd5d6676855aaf6a880cee887ff0d66f90.png\"},{\"name\":\"盼望过年\",\"image\":\"https://i0.hdslb.com/bfs/garb/9fd70a02385cdc9ec334cb3d5d26f4aa21b2665d.png\"},{\"name\":\"汗流浃背\",\"image\":\"https://i0.hdslb.com/bfs/garb/3257560bd4bc1af7fae43fd3aad9c14e4881f221.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -105,7 +100,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_2024]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/96455a8e09d74effe866a18b2d292dda27a08870.png",
 							"sale_type":"pay"
@@ -114,7 +108,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_不想上班]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/93f56fbd5d6676855aaf6a880cee887ff0d66f90.png",
 							"sale_type":"pay"
@@ -123,7 +116,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_好吃]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b456351110fb3eca618338d577fccf62d25eae2e.png",
 							"sale_type":"pay"
@@ -132,7 +124,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_好耶]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3bafeb61120e64784bc763897a1596e06bd9f652.png",
 							"sale_type":"pay"
@@ -141,7 +132,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_心寒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e917e3760f13506135fbd02e7fd71483eb920df3.png",
 							"sale_type":"pay"
@@ -150,7 +140,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_忙碌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8d0a5df89427bf1c57849ea072e91c2a9c64786a.png",
 							"sale_type":"pay"
@@ -159,7 +148,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_打扫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/926aff3de1b1c70b8920584385ae31e368f054ad.png",
 							"sale_type":"pay"
@@ -168,7 +156,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_拜托拜托]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/72e70467605fa850087d86aba40f482dc8a4ed4e.png",
 							"sale_type":"pay"
@@ -177,7 +164,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d3715f07e87677ced97401ab53a33adec884d870.png",
 							"sale_type":"pay"
@@ -186,7 +172,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_暴富]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/39fc41463436e2009b6a09d125d16ab31a91cf05.png",
 							"sale_type":"pay"
@@ -195,7 +180,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_汗流浃背]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3257560bd4bc1af7fae43fd3aad9c14e4881f221.png",
 							"sale_type":"pay"
@@ -204,7 +188,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_烟花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8cf59dddff60fa5de8422d253c43045c174f031e.png",
 							"sale_type":"pay"
@@ -213,7 +196,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_盼望过年]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9fd70a02385cdc9ec334cb3d5d26f4aa21b2665d.png",
 							"sale_type":"pay"
@@ -222,7 +204,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_福寿双全]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e50d1f7d43519f7549748115ccc11f82d177832f.png",
 							"sale_type":"pay"
@@ -231,7 +212,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_福气满满]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4a920fe89e513e2069daf9db0e9d1b630bf4e7d6.png",
 							"sale_type":"pay"
@@ -240,7 +220,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_红包拿来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d30c8ef3c5c214619455116fd5384925300393c8.png",
 							"sale_type":"pay"
@@ -249,7 +228,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_落泪了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a0daa563315581dbb732a1f6ff537b14abe35a04.png",
 							"sale_type":"pay"
@@ -258,7 +236,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_被拎]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/aa7bf5463e8b1cce92bd42cc06fbf5e3487f893e.png",
 							"sale_type":"pay"
@@ -267,7 +244,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7f591cae6075a48bcc7b86bb0136a39e878f6828.png",
 							"sale_type":"pay"
@@ -276,7 +252,6 @@
 					{
 						"item_id":0,
 						"name":"[超萌Q版表情包_饱了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a307f6427520c11af79a782b7519233104695720.png",
 							"sale_type":"pay"
@@ -289,7 +264,6 @@
 			{
 				"item_id":1713864376001,
 				"name":"超萌个性主题",
-				"tab_id":0,
 				"suit_item_id":208630901,
 				"properties":{
 					"color":"#ffffff",
@@ -329,7 +303,6 @@
 			{
 				"item_id":1713430827001,
 				"name":"桃妹空间海报",
-				"tab_id":0,
 				"suit_item_id":208630901,
 				"properties":{
 					"fan_no_color":"#ffffff",

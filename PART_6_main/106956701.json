@@ -35,7 +35,6 @@
 			{
 				"item_id":1678442170001,
 				"name":"动态卡片",
-				"tab_id":0,
 				"suit_item_id":106956701,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1678442170002,
 				"name":"动态卡片粉丝",
-				"tab_id":0,
 				"suit_item_id":106956701,
 				"properties":{
 					"fan_no_color":"#FF0000",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1678443201001,
 				"name":"生命幻象评论背景",
-				"tab_id":0,
 				"suit_item_id":106956701,
 				"properties":{
 					"fan_no_color":"#FC0000",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1678443083001,
 				"name":"生命幻象表情包",
-				"tab_id":0,
 				"suit_item_id":106956701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a7f8a92cc5a860f50a2dfda3915c11b3b09eb34c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"no\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0d896b3b4fb994126900cc44696506ea8d75e0b.png\"},{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea11e73e1157b202306758857472620b9956fea4.png\"},{\"name\":\"元气满满\",\"image\":\"https://i0.hdslb.com/bfs/garb/66810ab49517a11a44b91365ccd291b658453806.png\"},{\"name\":\"冲鸭\",\"image\":\"https://i0.hdslb.com/bfs/garb/122c42175940df34077e3504789d7a8256eb9eb0.png\"},{\"name\":\"泪目\",\"image\":\"https://i0.hdslb.com/bfs/garb/8fe3a80c59ca2e7630bd8d7d18400028aa8afc0d.png\"},{\"name\":\"yes\",\"image\":\"https://i0.hdslb.com/bfs/garb/b332d8de2ba86a7ef13f504069aa98d1d72c1943.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3d7cd6b4e1575c47067a6059cfd1f6c4f155a1f.png\"},{\"name\":\"就这\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a471f6abdeb3e7b6c5d5f62c583dffc721fb8c2.png\"},{\"name\":\"戳\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7d9aaf26aec347a8fd5feb158973fb4cc4216ab.png\"},{\"name\":\"亿点点\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f2d56c0caa41cba5dc7da933025c82a3a496eb4.png\"},{\"name\":\"冒头\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5b960fce6821c68d54896fa0ed08b50ae66a07f.png\"},{\"name\":\"馋\",\"image\":\"https://i0.hdslb.com/bfs/garb/980b4dc41b24fa848959f26abbbc848f44de6ac0.png\"},{\"name\":\"抱着\",\"image\":\"https://i0.hdslb.com/bfs/garb/091893f69b8c0f79f7b767e174ea5ee78807cec4.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/38f7a471f4af2bc9b3825c9c197c1bd2ab59eb1a.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd49c9eccca2d081accf620b30696c73eeb26fcb.png\"},{\"name\":\"失落\",\"image\":\"https://i0.hdslb.com/bfs/garb/c75215d3af29a3aefb39d2aa86d6153bf9680d27.png\"},{\"name\":\"耍帅\",\"image\":\"https://i0.hdslb.com/bfs/garb/44453c00083b73fbc82d181c09682fe47b63da84.png\"},{\"name\":\"吃饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d96f5328306b00ae6c836b1e6d9a6a30be063af.png\"},{\"name\":\"笨笨\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c9cb35d8bf073d2994fce601fae1480d055e799.png\"},{\"name\":\"牛牛\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ee343a8402abefb6ee88f6bb4a09543aa531455.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_no]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e0d896b3b4fb994126900cc44696506ea8d75e0b.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_yes]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b332d8de2ba86a7ef13f504069aa98d1d72c1943.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_亲亲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ea11e73e1157b202306758857472620b9956fea4.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_亿点点]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1f2d56c0caa41cba5dc7da933025c82a3a496eb4.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_元气满满]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/66810ab49517a11a44b91365ccd291b658453806.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_冒头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b5b960fce6821c68d54896fa0ed08b50ae66a07f.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_冲鸭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/122c42175940df34077e3504789d7a8256eb9eb0.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_吃饭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2d96f5328306b00ae6c836b1e6d9a6a30be063af.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_失落]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c75215d3af29a3aefb39d2aa86d6153bf9680d27.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_就这]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1a471f6abdeb3e7b6c5d5f62c583dffc721fb8c2.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_戳]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e7d9aaf26aec347a8fd5feb158973fb4cc4216ab.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_抱着]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/091893f69b8c0f79f7b767e174ea5ee78807cec4.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f3d7cd6b4e1575c47067a6059cfd1f6c4f155a1f.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_比心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/38f7a471f4af2bc9b3825c9c197c1bd2ab59eb1a.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_泪目]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8fe3a80c59ca2e7630bd8d7d18400028aa8afc0d.png",
 							"sale_type":"pay"
@@ -239,7 +219,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_牛牛]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9ee343a8402abefb6ee88f6bb4a09543aa531455.png",
 							"sale_type":"pay"
@@ -248,7 +227,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dd49c9eccca2d081accf620b30696c73eeb26fcb.png",
 							"sale_type":"pay"
@@ -257,7 +235,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_笨笨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c9cb35d8bf073d2994fce601fae1480d055e799.png",
 							"sale_type":"pay"
@@ -266,7 +243,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_耍帅]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/44453c00083b73fbc82d181c09682fe47b63da84.png",
 							"sale_type":"pay"
@@ -275,7 +251,6 @@
 					{
 						"item_id":0,
 						"name":"[生命幻象表情包_馋]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/980b4dc41b24fa848959f26abbbc848f44de6ac0.png",
 							"sale_type":"pay"
@@ -288,7 +263,6 @@
 			{
 				"item_id":1678444134001,
 				"name":"生命幻象个性主题",
-				"tab_id":0,
 				"suit_item_id":106956701,
 				"properties":{
 					"color":"#ffffff",
@@ -328,7 +302,6 @@
 			{
 				"item_id":1678443138001,
 				"name":"生命幻象空间背景图",
-				"tab_id":0,
 				"suit_item_id":106956701,
 				"properties":{
 					"fan_no_color":"#ffffff",

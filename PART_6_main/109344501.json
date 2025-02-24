@@ -37,7 +37,6 @@
 			{
 				"item_id":1680504492001,
 				"name":"蘑菇点点",
-				"tab_id":0,
 				"suit_item_id":109344501,
 				"properties":{
 					"fan_no_color":"#D06107",
@@ -51,7 +50,6 @@
 			{
 				"item_id":1680504492002,
 				"name":"蘑菇点点粉丝",
-				"tab_id":0,
 				"suit_item_id":109344501,
 				"properties":{
 					"fan_no_color":"#D06107",
@@ -68,7 +66,6 @@
 			{
 				"item_id":1680506886001,
 				"name":"蘑菇点点",
-				"tab_id":0,
 				"suit_item_id":109344501,
 				"properties":{
 					"fan_no_color":"#A32F2F",
@@ -83,14 +80,12 @@
 			{
 				"item_id":1680505132001,
 				"name":"蘑菇点点",
-				"tab_id":0,
 				"suit_item_id":109344501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b320a4f6d271666de9a7169a4577ec430218bd8d.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/7472426147e9370c90d4413ec0ecda3841d228df.png\"},{\"name\":\"不理你\",\"image\":\"https://i0.hdslb.com/bfs/garb/9bf243aa929e544f5266a464e1dee6251beb1f9e.png\"},{\"name\":\"踩踩踩\",\"image\":\"https://i0.hdslb.com/bfs/garb/9308ba76ecd39719f014351822406278dd228ef4.png\"},{\"name\":\"到怀里来\",\"image\":\"https://i0.hdslb.com/bfs/garb/4effd845f8e4dc2a349be6f44791240ea85e3a9a.png\"},{\"name\":\"对不起\",\"image\":\"https://i0.hdslb.com/bfs/garb/4226844d89014edf343bb5cbcc92b4c4ae4fdaf2.png\"},{\"name\":\"狗带\",\"image\":\"https://i0.hdslb.com/bfs/garb/07223bd4e958ffec76fdeb88fd48bda43a9ea673.png\"},{\"name\":\"好看吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/00637b0076ed3f9617a403fe057e6f84c3fd18cc.png\"},{\"name\":\"好人卡\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac7b3e27c9cdb2b9d5b377fbff954c80f0c98e8c.png\"},{\"name\":\"路过\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce03afa53ff500b68c325a0410720ab09e2dadb3.png\"},{\"name\":\"萌萌哒\",\"image\":\"https://i0.hdslb.com/bfs/garb/1134026b8bd2aca5d38a6fe65d9c80f05755231b.png\"},{\"name\":\"嗯？\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b5dfa764518c46e28555c6d0b467be3cd20279d.png\"},{\"name\":\"你拍一\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c7add8aa6103763ef1b709e3f9e61a577a1f30c.png\"},{\"name\":\"你真美\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d478108d14a8bc9391c1e256957d70421c1c5f8.png\"},{\"name\":\"扑倒\",\"image\":\"https://i0.hdslb.com/bfs/garb/35f52de4a45258759fec9f6fe8fa7c15e0433aa7.png\"},{\"name\":\"起床了\",\"image\":\"https://i0.hdslb.com/bfs/garb/b729d701a0dc42d6b958860967c8fd2e41c2b8f7.png\"},{\"name\":\"伤心\",\"image\":\"https://i0.hdslb.com/bfs/garb/8fa0a6a18954d78c45750945ff9b0101b0127a71.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/552f0981ce8cdc3af13b0a78a0de1ec887a185c7.png\"},{\"name\":\"已经起了\",\"image\":\"https://i0.hdslb.com/bfs/garb/96375fb23c00a900b77dc5a111236eedad29421e.png\"},{\"name\":\"天使\",\"image\":\"https://i0.hdslb.com/bfs/garb/7fb441119eca5b99d230cfe194896ac415416959.png\"},{\"name\":\"天使之吻\",\"image\":\"https://i0.hdslb.com/bfs/garb/33f6c6a17367435ce0b0c6ab44459166ef886693.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/bcfba35ece86fb2c7c053dd729baa2af8bd38fd9.png\"},{\"name\":\"我们\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d0294b5fc75a902622fb3e078971a1ccb0edb19.png\"},{\"name\":\"吓死\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc91a765b402f2b6369d8ec2cc7074ab371d794f.png\"},{\"name\":\"再睡一会\",\"image\":\"https://i0.hdslb.com/bfs/garb/db296cfd1661c7b36bb306438d63038a7b33c8ab.png\"},{\"name\":\"早上好\",\"image\":\"https://i0.hdslb.com/bfs/garb/71174c47dd394aa38767c8b0968fd88aad38c383.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_不理你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9bf243aa929e544f5266a464e1dee6251beb1f9e.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_伤心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8fa0a6a18954d78c45750945ff9b0101b0127a71.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_你拍一]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7c7add8aa6103763ef1b709e3f9e61a577a1f30c.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_你真美]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7d478108d14a8bc9391c1e256957d70421c1c5f8.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_再睡一会]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/db296cfd1661c7b36bb306438d63038a7b33c8ab.png",
 							"sale_type":"pay"
@@ -151,7 +141,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_到怀里来]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4effd845f8e4dc2a349be6f44791240ea85e3a9a.png",
 							"sale_type":"pay"
@@ -160,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_吓死]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/cc91a765b402f2b6369d8ec2cc7074ab371d794f.png",
 							"sale_type":"pay"
@@ -169,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_嗯？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8b5dfa764518c46e28555c6d0b467be3cd20279d.png",
 							"sale_type":"pay"
@@ -178,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_天使]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7fb441119eca5b99d230cfe194896ac415416959.png",
 							"sale_type":"pay"
@@ -187,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_天使之吻]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/33f6c6a17367435ce0b0c6ab44459166ef886693.png",
 							"sale_type":"pay"
@@ -196,7 +181,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_好人卡]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ac7b3e27c9cdb2b9d5b377fbff954c80f0c98e8c.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_好看吗]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/00637b0076ed3f9617a403fe057e6f84c3fd18cc.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_对不起]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4226844d89014edf343bb5cbcc92b4c4ae4fdaf2.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_已经起了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/96375fb23c00a900b77dc5a111236eedad29421e.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_我们]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7d0294b5fc75a902622fb3e078971a1ccb0edb19.png",
 							"sale_type":"pay"
@@ -241,7 +221,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_扑倒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/35f52de4a45258759fec9f6fe8fa7c15e0433aa7.png",
 							"sale_type":"pay"
@@ -250,7 +229,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_早上好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/71174c47dd394aa38767c8b0968fd88aad38c383.png",
 							"sale_type":"pay"
@@ -259,7 +237,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/bcfba35ece86fb2c7c053dd729baa2af8bd38fd9.png",
 							"sale_type":"pay"
@@ -268,7 +245,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7472426147e9370c90d4413ec0ecda3841d228df.png",
 							"sale_type":"pay"
@@ -277,7 +253,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_狗带]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/07223bd4e958ffec76fdeb88fd48bda43a9ea673.png",
 							"sale_type":"pay"
@@ -286,7 +261,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/552f0981ce8cdc3af13b0a78a0de1ec887a185c7.png",
 							"sale_type":"pay"
@@ -295,7 +269,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_萌萌哒]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1134026b8bd2aca5d38a6fe65d9c80f05755231b.png",
 							"sale_type":"pay"
@@ -304,7 +277,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_起床了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b729d701a0dc42d6b958860967c8fd2e41c2b8f7.png",
 							"sale_type":"pay"
@@ -313,7 +285,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_路过]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce03afa53ff500b68c325a0410720ab09e2dadb3.png",
 							"sale_type":"pay"
@@ -322,7 +293,6 @@
 					{
 						"item_id":0,
 						"name":"[蘑菇点点_踩踩踩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9308ba76ecd39719f014351822406278dd228ef4.png",
 							"sale_type":"pay"
@@ -335,7 +305,6 @@
 			{
 				"item_id":1680507245001,
 				"name":"蘑菇点点",
-				"tab_id":0,
 				"suit_item_id":109344501,
 				"properties":{
 					"goods_type":"suit",
@@ -350,7 +319,6 @@
 			{
 				"item_id":1680507285001,
 				"name":"蘑菇点点",
-				"tab_id":0,
 				"suit_item_id":109344501,
 				"properties":{
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/3668192dfdb3eefab3e480e4cdc0f2cb4593d284.png",
@@ -367,7 +335,6 @@
 			{
 				"item_id":1680506746001,
 				"name":"蘑菇点点",
-				"tab_id":0,
 				"suit_item_id":109344501,
 				"properties":{
 					"color":"#ffffff",
@@ -407,7 +374,6 @@
 			{
 				"item_id":1680506052001,
 				"name":"蘑菇点点",
-				"tab_id":0,
 				"suit_item_id":109344501,
 				"properties":{
 					"fan_no_color":"#ffffff",
@@ -427,7 +393,6 @@
 			{
 				"item_id":1680506962001,
 				"name":"蘑菇点点",
-				"tab_id":0,
 				"suit_item_id":109344501,
 				"properties":{
 					"goods_type":"suit",

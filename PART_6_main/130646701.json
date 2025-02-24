@@ -33,7 +33,6 @@
 			{
 				"item_id":1698910035001,
 				"name":"花园的秘密",
-				"tab_id":0,
 				"suit_item_id":130646701,
 				"properties":{
 					"fan_no_color":"#FF8A00",
@@ -47,7 +46,6 @@
 			{
 				"item_id":1698910035002,
 				"name":"花园的秘密粉丝",
-				"tab_id":0,
 				"suit_item_id":130646701,
 				"properties":{
 					"fan_no_color":"#FF8A00",
@@ -64,7 +62,6 @@
 			{
 				"item_id":1698910485001,
 				"name":"花园的秘密",
-				"tab_id":0,
 				"suit_item_id":130646701,
 				"properties":{
 					"fan_no_color":"#EC3D3D",
@@ -79,14 +76,12 @@
 			{
 				"item_id":1698910096001,
 				"name":"花园的秘密",
-				"tab_id":0,
 				"suit_item_id":130646701,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1c61033ed1d3041b7a4350926c86bb4b1183007c.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"难过\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f945ee0111dcc242006fe789c4b5d479ddb9564.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/12de72bddc2e8f01878bfea895f2ae23b5f52518.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/945f931a9ecec42706dbfee4678ddcee9af4509c.png\"},{\"name\":\"还有这事？\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b7acd98225237f36e4f980a7fe8d8fe8449d5e9.png\"},{\"name\":\"等等我\",\"image\":\"https://i0.hdslb.com/bfs/garb/944c07f3b75e6424d12626c7de86d7ac1016b13a.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5dfedd4d8f029a31dccb1db6c689c7b60c489fa.png\"},{\"name\":\"我真的生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d883eb2e05d1c7857dc401356e6e3724dbddf88.png\"},{\"name\":\"小心心送你\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef3d4b4a10306c9f21b27d85997ec82584111c08.png\"},{\"name\":\"发呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/783103437202423337e43e3da35309fa854f6943.png\"},{\"name\":\"给你吃萝卜\",\"image\":\"https://i0.hdslb.com/bfs/garb/0339b9957893802e4f6e1069774258ccea6fb502.png\"},{\"name\":\"抱抱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4b0523517a22fc2c7d2055c6e193fc0fdbafbec.png\"},{\"name\":\"你瞅啥\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3049285b2ca758b27a74d05ebea5eff61415d95.png\"},{\"name\":\"你好\",\"image\":\"https://i0.hdslb.com/bfs/garb/dcd55d36123c8b345e178fcb1a564e7fb3307364.png\"},{\"name\":\"出去玩不\",\"image\":\"https://i0.hdslb.com/bfs/garb/b36f85552203d90ae70f33ee643246c6ceb6286b.png\"},{\"name\":\"扭头\",\"image\":\"https://i0.hdslb.com/bfs/garb/a55989c8045c73c56eb578a998e0fd58553f54d3.png\"},{\"name\":\"大吃一惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9c2f65e9e52b4fe75d63228940b9ce164c7fb3f.png\"},{\"name\":\"送你花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/4dcddcd8cb48faf2c7a42ba07703603196c1664f.png\"},{\"name\":\"腼腆\",\"image\":\"https://i0.hdslb.com/bfs/garb/0546b2e0e27fc3f59710215e15b993ceed8fb495.png\"},{\"name\":\"你好呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/97e4f36b20a92c8dc479e193b8232cfbb184a550.png\"},{\"name\":\"惊呆了\",\"image\":\"https://i0.hdslb.com/bfs/garb/35945bab50c9a253a43f69393873f49914b739c1.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -102,7 +97,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_你好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dcd55d36123c8b345e178fcb1a564e7fb3307364.png",
 							"sale_type":"pay"
@@ -111,7 +105,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_你好呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/97e4f36b20a92c8dc479e193b8232cfbb184a550.png",
 							"sale_type":"pay"
@@ -120,7 +113,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_你瞅啥]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f3049285b2ca758b27a74d05ebea5eff61415d95.png",
 							"sale_type":"pay"
@@ -129,7 +121,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_出去玩不]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b36f85552203d90ae70f33ee643246c6ceb6286b.png",
 							"sale_type":"pay"
@@ -138,7 +129,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_发呆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/783103437202423337e43e3da35309fa854f6943.png",
 							"sale_type":"pay"
@@ -147,7 +137,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_哇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/945f931a9ecec42706dbfee4678ddcee9af4509c.png",
 							"sale_type":"pay"
@@ -156,7 +145,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_哼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c5dfedd4d8f029a31dccb1db6c689c7b60c489fa.png",
 							"sale_type":"pay"
@@ -165,7 +153,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_大吃一惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e9c2f65e9e52b4fe75d63228940b9ce164c7fb3f.png",
 							"sale_type":"pay"
@@ -174,7 +161,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_害羞]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/12de72bddc2e8f01878bfea895f2ae23b5f52518.png",
 							"sale_type":"pay"
@@ -183,7 +169,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_小心心送你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ef3d4b4a10306c9f21b27d85997ec82584111c08.png",
 							"sale_type":"pay"
@@ -192,7 +177,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_惊呆了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/35945bab50c9a253a43f69393873f49914b739c1.png",
 							"sale_type":"pay"
@@ -201,7 +185,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_我真的生气]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5d883eb2e05d1c7857dc401356e6e3724dbddf88.png",
 							"sale_type":"pay"
@@ -210,7 +193,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_扭头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a55989c8045c73c56eb578a998e0fd58553f54d3.png",
 							"sale_type":"pay"
@@ -219,7 +201,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_抱抱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e4b0523517a22fc2c7d2055c6e193fc0fdbafbec.png",
 							"sale_type":"pay"
@@ -228,7 +209,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_等等我]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/944c07f3b75e6424d12626c7de86d7ac1016b13a.png",
 							"sale_type":"pay"
@@ -237,7 +217,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_给你吃萝卜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0339b9957893802e4f6e1069774258ccea6fb502.png",
 							"sale_type":"pay"
@@ -246,7 +225,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_腼腆]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0546b2e0e27fc3f59710215e15b993ceed8fb495.png",
 							"sale_type":"pay"
@@ -255,7 +233,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_还有这事？]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6b7acd98225237f36e4f980a7fe8d8fe8449d5e9.png",
 							"sale_type":"pay"
@@ -264,7 +241,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_送你花花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4dcddcd8cb48faf2c7a42ba07703603196c1664f.png",
 							"sale_type":"pay"
@@ -273,7 +249,6 @@
 					{
 						"item_id":0,
 						"name":"[花园的秘密_难过]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5f945ee0111dcc242006fe789c4b5d479ddb9564.png",
 							"sale_type":"pay"
@@ -286,7 +261,6 @@
 			{
 				"item_id":1698910409001,
 				"name":"花园的秘密",
-				"tab_id":0,
 				"suit_item_id":130646701,
 				"properties":{
 					"color":"#ffffff",
@@ -326,7 +300,6 @@
 			{
 				"item_id":1698910132001,
 				"name":"花园的秘密",
-				"tab_id":0,
 				"suit_item_id":130646701,
 				"properties":{
 					"fan_no_color":"#ffffff",

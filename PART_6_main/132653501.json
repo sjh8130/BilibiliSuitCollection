@@ -35,7 +35,6 @@
 			{
 				"item_id":1700636662001,
 				"name":"白熊的甜食",
-				"tab_id":0,
 				"suit_item_id":132653501,
 				"properties":{
 					"fan_no_color":"#358FDD",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1700637872001,
 				"name":"白熊的甜食粉丝",
-				"tab_id":0,
 				"suit_item_id":132653501,
 				"properties":{
 					"fan_no_color":"#358FDD",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1700636774001,
 				"name":"白熊的甜食",
-				"tab_id":0,
 				"suit_item_id":132653501,
 				"properties":{
 					"fan_no_color":"#EFA133",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1700636492001,
 				"name":"白熊的甜食",
-				"tab_id":0,
 				"suit_item_id":132653501,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1ae17c86908f3283ef615f92084db6cf35b2dac9.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"哇塞！\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e704eaf0e71e5fa63bcd07777779de1a24e82dd.png\"},{\"name\":\"超爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/58ad7ab003cb0f2e2a59c3c7d001d97265fd0070.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8ac61f8dda1b8d723f097596325b8b66d020d22.png\"},{\"name\":\"怎么了\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2e158be6976dedfbf6068a96c27271f0d6d9a46.png\"},{\"name\":\"自闭惹\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbd9106074bffc171f88ed51af73eeb2b22686e3.png\"},{\"name\":\"我超酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/984c7367c28061188914798b244dd850df119207.png\"},{\"name\":\"我装的\",\"image\":\"https://i0.hdslb.com/bfs/garb/577e57223b295c1df17f58a84c2b6b444e8a22cd.png\"},{\"name\":\"要快乐！\",\"image\":\"https://i0.hdslb.com/bfs/garb/78f804b4973faa4a6901e8a24cf321aa8410e64f.png\"},{\"name\":\"要精致！\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec1f0389819e75b5b2f6460dbb300292b2521b07.png\"},{\"name\":\"美味!!\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9e1d0ea818779bd939e0bc152042467ebbbb7ef.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/38eff07a83a4243fd72df4c0be99ed4661ed59d3.png\"},{\"name\":\"没粮了\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1268fd2940cd1dfb25e711c4e560ffac2e9af0b.png\"},{\"name\":\"zzz\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d4ac4e7ad7890549fa684c7df29bfe79a6a114d.png\"},{\"name\":\"熊壮\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b473ed54034fc704caba6e9a7fee8968c9c1440.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/3197decf8071642184fc24ef1f171082b738cfc2.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_zzz]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0d4ac4e7ad7890549fa684c7df29bfe79a6a114d.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_哇塞！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6e704eaf0e71e5fa63bcd07777779de1a24e82dd.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_哭哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/e8ac61f8dda1b8d723f097596325b8b66d020d22.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_怎么了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d2e158be6976dedfbf6068a96c27271f0d6d9a46.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_我装的]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/577e57223b295c1df17f58a84c2b6b444e8a22cd.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_我超酷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/984c7367c28061188914798b244dd850df119207.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_摸鱼]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3197decf8071642184fc24ef1f171082b738cfc2.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_没粮了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f1268fd2940cd1dfb25e711c4e560ffac2e9af0b.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_熊壮]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6b473ed54034fc704caba6e9a7fee8968c9c1440.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_美味!!]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a9e1d0ea818779bd939e0bc152042467ebbbb7ef.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_自闭惹]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbd9106074bffc171f88ed51af73eeb2b22686e3.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_要快乐！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/78f804b4973faa4a6901e8a24cf321aa8410e64f.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_要精致！]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ec1f0389819e75b5b2f6460dbb300292b2521b07.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_超爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/58ad7ab003cb0f2e2a59c3c7d001d97265fd0070.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[白熊的甜食_震惊]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/38eff07a83a4243fd72df4c0be99ed4661ed59d3.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1700638290001,
 				"name":"白熊的甜食",
-				"tab_id":0,
 				"suit_item_id":132653501,
 				"properties":{
 					"color":"#000000",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1700637989001,
 				"name":"白熊的甜食",
-				"tab_id":0,
 				"suit_item_id":132653501,
 				"properties":{
 					"fan_no_color":"#ffffff",

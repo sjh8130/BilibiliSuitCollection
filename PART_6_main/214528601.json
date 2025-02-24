@@ -35,7 +35,6 @@
 			{
 				"item_id":1716451205001,
 				"name":"花开富贵",
-				"tab_id":0,
 				"suit_item_id":214528601,
 				"properties":{
 					"fan_no_color":"#ED3ED2",
@@ -49,7 +48,6 @@
 			{
 				"item_id":1716451205002,
 				"name":"花开富贵粉丝",
-				"tab_id":0,
 				"suit_item_id":214528601,
 				"properties":{
 					"fan_no_color":"#ED3ED2",
@@ -66,7 +64,6 @@
 			{
 				"item_id":1716451726001,
 				"name":"花开富贵",
-				"tab_id":0,
 				"suit_item_id":214528601,
 				"properties":{
 					"fan_no_color":"#ED3ED2",
@@ -81,14 +78,12 @@
 			{
 				"item_id":1716450146001,
 				"name":"花开富贵",
-				"tab_id":0,
 				"suit_item_id":214528601,
 				"properties":{
 					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/95119b5a322023a6893deac27b8be61d8c128a2e.png",
-					"is_symbol":"false",
 					"item_emoji_list":"[{\"name\":\"早上好\",\"image\":\"https://i0.hdslb.com/bfs/garb/48c81ba51ad51d02e1b6c12b0cf54a98b1fc4cae.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9c58d1d53e694746bb90a17b375033708e2ca88.png\"},{\"name\":\"常联系\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c08a4a7772e585e20b3bee7d963094de10d9baa.png\"},{\"name\":\"真诚的问候\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b78ad0a7479d1171b2a52e43f35321b539ff11d.png\"},{\"name\":\"相遇\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae8ed4818ef21ff9edef1932087511d69f9bedc7.png\"},{\"name\":\"我想不开\",\"image\":\"https://i0.hdslb.com/bfs/garb/6193966294ff5855e118c073e941557d0f6af485.png\"},{\"name\":\"我想开了\",\"image\":\"https://i0.hdslb.com/bfs/garb/48b2ab55ace8404198c0ca1ec042bb40b7a967e2.png\"},{\"name\":\"最美的你\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb476252e8606198420b126690143cf4f9d391ff.png\"},{\"name\":\"好运莲莲\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ab3e76058144160855215a6d45d057b55f6f5b4.png\"},{\"name\":\"盛世白莲\",\"image\":\"https://i0.hdslb.com/bfs/garb/063052e38eff9aebd487f1b8cb90c010fb4897b6.png\"},{\"name\":\"薪贫气荷\",\"image\":\"https://i0.hdslb.com/bfs/garb/512628ec215b92d76a01575c29e623173f10034f.png\"},{\"name\":\"心平气荷\",\"image\":\"https://i0.hdslb.com/bfs/garb/f85b2abafcfe1c6673435a2958de6589519dd5d6.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/4cb867d800f0a65a525701d9fa80145b82b5a040.png\"},{\"name\":\"相逢是缘\",\"image\":\"https://i0.hdslb.com/bfs/garb/028688bc2eb8c1d09d67c7690bffc7a1bc4761f2.png\"},{\"name\":\"多喝热水\",\"image\":\"https://i0.hdslb.com/bfs/garb/8219cd555331804f3d288511bfd65fdc62b81117.png\"}]",
 					"permanent":"false",
 					"preview":"false",
@@ -104,7 +99,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_多喝热水]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8219cd555331804f3d288511bfd65fdc62b81117.png",
 							"sale_type":"pay"
@@ -113,7 +107,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_好运莲莲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5ab3e76058144160855215a6d45d057b55f6f5b4.png",
 							"sale_type":"pay"
@@ -122,7 +115,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_常联系]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4c08a4a7772e585e20b3bee7d963094de10d9baa.png",
 							"sale_type":"pay"
@@ -131,7 +123,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_干杯]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4cb867d800f0a65a525701d9fa80145b82b5a040.png",
 							"sale_type":"pay"
@@ -140,7 +131,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_心平气荷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/f85b2abafcfe1c6673435a2958de6589519dd5d6.png",
 							"sale_type":"pay"
@@ -149,7 +139,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_我想不开]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6193966294ff5855e118c073e941557d0f6af485.png",
 							"sale_type":"pay"
@@ -158,7 +147,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_我想开了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/48b2ab55ace8404198c0ca1ec042bb40b7a967e2.png",
 							"sale_type":"pay"
@@ -167,7 +155,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_早上好]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/48c81ba51ad51d02e1b6c12b0cf54a98b1fc4cae.png",
 							"sale_type":"pay"
@@ -176,7 +163,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_晚安]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/b9c58d1d53e694746bb90a17b375033708e2ca88.png",
 							"sale_type":"pay"
@@ -185,7 +171,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_最美的你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/eb476252e8606198420b126690143cf4f9d391ff.png",
 							"sale_type":"pay"
@@ -194,7 +179,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_盛世白莲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/063052e38eff9aebd487f1b8cb90c010fb4897b6.png",
 							"sale_type":"pay"
@@ -203,7 +187,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_相逢是缘]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/028688bc2eb8c1d09d67c7690bffc7a1bc4761f2.png",
 							"sale_type":"pay"
@@ -212,7 +195,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_相遇]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ae8ed4818ef21ff9edef1932087511d69f9bedc7.png",
 							"sale_type":"pay"
@@ -221,7 +203,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_真诚的问候]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7b78ad0a7479d1171b2a52e43f35321b539ff11d.png",
 							"sale_type":"pay"
@@ -230,7 +211,6 @@
 					{
 						"item_id":0,
 						"name":"[花开富贵_薪贫气荷]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/512628ec215b92d76a01575c29e623173f10034f.png",
 							"sale_type":"pay"
@@ -243,7 +223,6 @@
 			{
 				"item_id":1716452912001,
 				"name":"花开富贵",
-				"tab_id":0,
 				"suit_item_id":214528601,
 				"properties":{
 					"color":"#ffffff",
@@ -283,7 +262,6 @@
 			{
 				"item_id":1716452162001,
 				"name":"花开富贵",
-				"tab_id":0,
 				"suit_item_id":214528601,
 				"properties":{
 					"fan_no_color":"#ffffff",
