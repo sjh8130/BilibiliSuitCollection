@@ -2,7 +2,7 @@
 	"id":4387,
 	"text":"楚天明c（充电）",
 	"url":"https://i0.hdslb.com/bfs/garb/2378879234e37300316a77e72d28b64695493ca1.png",
-	"mtime":1706352214,
+	"mtime":1738981496,
 	"type":12,
 	"attr":28,
 	"meta":{
@@ -224,6 +224,30 @@
 			"meta":{
 				"size":2,
 				"alias":"干饭"
+			}
+		},
+		{
+			"id":62011,
+			"package_id":4387,
+			"text":"[UPOWER_280135728_下班]",
+			"url":"https://i0.hdslb.com/bfs/garb/864f000840fbcc8eb1fc6b650cb7689168bb6a47.png",
+			"mtime":1739138398,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"下班"
+			}
+		},
+		{
+			"id":104073,
+			"package_id":4387,
+			"text":"[UPOWER_280135728_吃瓜]",
+			"url":"https://i0.hdslb.com/bfs/garb/82a8200a0b00bdce48214f742e6cbb5401f25055.png",
+			"mtime":1739002862,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"吃瓜"
 			}
 		}
 	],
