@@ -2,7 +2,7 @@
 	"id":1,
 	"text":"小黄脸",
 	"url":"https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
-	"mtime":1737632074,
+	"mtime":1740571322,
 	"type":1,
 	"attr":322,
 	"meta":{
@@ -2251,6 +2251,78 @@
 			"meta":{
 				"size":1,
 				"alias":"佛系"
+			}
+		},
+		{
+			"id":102631,
+			"package_id":1,
+			"text":"[重返未来1999_什么]",
+			"url":"https://i0.hdslb.com/bfs/emote/8f1a9abbe5364a110aba1bde276d1f2712108edc.png",
+			"mtime":1737702659,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"什么"
+			}
+		},
+		{
+			"id":102632,
+			"package_id":1,
+			"text":"[重返未来1999_喂]",
+			"url":"https://i0.hdslb.com/bfs/emote/4e224148584938588a0d500eea8127db21f06ebb.png",
+			"mtime":1737702659,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"喂"
+			}
+		},
+		{
+			"id":102633,
+			"package_id":1,
+			"text":"[重返未来1999_赞]",
+			"url":"https://i0.hdslb.com/bfs/emote/e250228e3ba06822496dc2ff81e49324298f8bc8.png",
+			"mtime":1737702659,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"赞"
+			}
+		},
+		{
+			"id":102634,
+			"package_id":1,
+			"text":"[重返未来1999_谢谢老板]",
+			"url":"https://i0.hdslb.com/bfs/emote/d87d32fd4c91f1045842362c328e8f359dab4fd6.png",
+			"mtime":1737702659,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"谢谢老板"
+			}
+		},
+		{
+			"id":105211,
+			"package_id":1,
+			"text":"[颂乐人偶_眯眼笑]",
+			"url":"https://i0.hdslb.com/bfs/emote/6087f6b3919b915c8922e608cfde147dd5ece43b.png",
+			"mtime":1740045752,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"眯眼笑"
+			}
+		},
+		{
+			"id":105515,
+			"package_id":1,
+			"text":"[我独自升级_疑惑]",
+			"url":"https://i0.hdslb.com/bfs/emote/6cac4bce69f120e04c44f09bcd624c8dcd5675fa.png",
+			"mtime":1740571323,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"疑惑"
 			}
 		}
 	],
