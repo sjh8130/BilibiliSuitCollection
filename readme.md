@@ -1,15 +1,15 @@
 #
 
-angryanut.com////suit/detail
+love-life.com////suit/detail
 
 ## stat
 |desc_group|start|end|
 |--:|-:|-:|
 |part-1			|1			| 6579		|
-|part-2			|32226		| 72663 	|
+|part-2			|32226		| 72679 	|
 |part-3(202x)	|100000000	| 136353001 |
 |part-3(2024)	|200000000	| 236649101 |
-|part-3(2025)	|300000000	| 305053801 |
+|part-3(2025)	|300000000	| 305845101 |
 
 ## replace
 ```regexp
