@@ -29,15 +29,26 @@
 		"sale_time_begin":"1741836380",
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
-		"type":"ip",
-		"user_vas_order":"true"
+		"type":"ip"
 	},
 	"suit_items":{
 		"card":[
 			{
+				"item_id":1741587775001,
+				"name":"小黑猫·苹果蛋糕",
+				"suit_item_id":306943601,
+				"properties":{
+					"fan_no_color":"#FFD2D2",
+					"fans_image":"https://i0.hdslb.com/bfs/garb/b3674cee281c37adb0000aa06c79131e995a195d.png",
+					"fans_material_id":"1741587775002",
+					"goods_type":"suit",
+					"image":"https://i0.hdslb.com/bfs/garb/f5c7e124a1d31bd626f5826ee658467651d947b3.png",
+					"sale_type":"other"
+				}
+			},
+			{
 				"item_id":1741587775002,
 				"name":"小黑猫·苹果蛋糕粉丝",
-				"tab_id":0,
 				"suit_item_id":306943601,
 				"properties":{
 					"fan_no_color":"#FFD2D2",
@@ -48,27 +59,12 @@
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/f8d024b103efbe3138d2a01da13055b082f13bb7.png",
 					"sale_type":"other"
 				}
-			},
-			{
-				"item_id":1741587775001,
-				"name":"小黑猫·苹果蛋糕",
-				"tab_id":0,
-				"suit_item_id":306943601,
-				"properties":{
-					"fan_no_color":"#FFD2D2",
-					"fans_image":"https://i0.hdslb.com/bfs/garb/b3674cee281c37adb0000aa06c79131e995a195d.png",
-					"fans_material_id":"1741587775002",
-					"goods_type":"suit",
-					"image":"https://i0.hdslb.com/bfs/garb/f5c7e124a1d31bd626f5826ee658467651d947b3.png",
-					"sale_type":"other"
-				}
 			}
 		],
 		"card_bg":[
 			{
 				"item_id":1741587796001,
 				"name":"小黑猫·苹果蛋糕",
-				"tab_id":0,
 				"suit_item_id":306943601,
 				"properties":{
 					"fan_no_color":"#EAABA9",
@@ -83,7 +79,6 @@
 			{
 				"item_id":1741587962001,
 				"name":"小黑猫·苹果蛋糕",
-				"tab_id":0,
 				"suit_item_id":306943601,
 				"properties":{
 					"addable":"true",
@@ -106,7 +101,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫·苹果蛋糕_乞讨]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1f77d604b461c950558d1edaff2aabcca533d2cb.png",
 							"sale_type":"pay"
@@ -115,7 +109,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫·苹果蛋糕_冒出]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7c3e0bd9b7ff03bf40eff5fe12aeaf7d8bade047.png",
 							"sale_type":"pay"
@@ -124,7 +117,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫·苹果蛋糕_卖掉了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8c301e72b54bacb0d6bf2da7755f79b829d70139.png",
 							"sale_type":"pay"
@@ -133,7 +125,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫·苹果蛋糕_可怜]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/dbabc9fd702dfcd2c4a1dcf7b59b8c1e744e84a7.png",
 							"sale_type":"pay"
@@ -141,8 +132,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[小黑猫·苹果蛋糕_喜欢]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1119400083a50bb8faa22b119252fd9c98eb9c49.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[小黑猫·苹果蛋糕_感动]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5abd6944104cf479611195ccd28fe2debbc66222.png",
 							"sale_type":"pay"
@@ -151,7 +149,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫·苹果蛋糕_拍桌]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7ccd724881ffb989a21ee430e1504539fbdc91d5.png",
 							"sale_type":"pay"
@@ -160,7 +157,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫·苹果蛋糕_砸]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/2090c4ee7191b2ad58e68259546b9106e4115ab9.png",
 							"sale_type":"pay"
@@ -169,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫·苹果蛋糕_红苹果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/20c507b405d89c60f0c4b530a396d234b6c9fb39.png",
 							"sale_type":"pay"
@@ -178,7 +173,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫·苹果蛋糕_艰难前行]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/56bd9b58c37686452589e57cd2d3ac59582e6c73.png",
 							"sale_type":"pay"
@@ -186,17 +180,7 @@
 					},
 					{
 						"item_id":0,
-						"name":"[小黑猫·苹果蛋糕_喜欢]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1119400083a50bb8faa22b119252fd9c98eb9c49.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[小黑猫·苹果蛋糕_苹果小猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/48f3e890f656d999d989b0f5d6cdf873cd0e49b2.png",
 							"sale_type":"pay"
@@ -205,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫·苹果蛋糕_趴趴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d167a1887bfc31e90671da5ed38751b99088d9c8.png",
 							"sale_type":"pay"
@@ -214,7 +197,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫·苹果蛋糕_送花]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0a2679273b125af0932a5a76579509e786c90e0c.png",
 							"sale_type":"pay"
@@ -223,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫·苹果蛋糕_青苹果]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5db3fb33971cd0a96e25996f166794a7a24b8bdc.png",
 							"sale_type":"pay"
@@ -232,7 +213,6 @@
 					{
 						"item_id":0,
 						"name":"[小黑猫·苹果蛋糕_麻将小猫]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/fa25628f9066a5c67b0933c6541de9aa75999db3.png",
 							"sale_type":"pay"
@@ -245,7 +225,6 @@
 			{
 				"item_id":1741588073001,
 				"name":"小黑猫·苹果蛋糕",
-				"tab_id":0,
 				"suit_item_id":306943601,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1741587822001,
 				"name":"小黑猫·苹果蛋糕",
-				"tab_id":0,
 				"suit_item_id":306943601,
 				"properties":{
 					"fan_no_color":"#ffffff",

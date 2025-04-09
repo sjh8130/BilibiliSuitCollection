@@ -29,15 +29,26 @@
 		"sale_time_begin":"1741146660",
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
-		"type":"ip",
-		"user_vas_order":"false"
+		"type":"ip"
 	},
 	"suit_items":{
 		"card":[
 			{
+				"item_id":1740729059001,
+				"name":"元气小兔狲",
+				"suit_item_id":305951701,
+				"properties":{
+					"fan_no_color":"#C79C6C",
+					"fans_image":"https://i0.hdslb.com/bfs/garb/0fe35a51ef5cc95cfa462202535a4fd7e8f7fe50.png",
+					"fans_material_id":"1740729780001",
+					"goods_type":"suit",
+					"image":"https://i0.hdslb.com/bfs/garb/a74a847d86d738296da18e0c28f0a2e8a194008b.png",
+					"sale_type":"other"
+				}
+			},
+			{
 				"item_id":1740729780001,
 				"name":"元气小兔狲粉丝",
-				"tab_id":0,
 				"suit_item_id":305951701,
 				"properties":{
 					"fan_no_color":"#C79C6C",
@@ -48,27 +59,12 @@
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/645f2700bc90f0eddcb6dc24eba4cd6fa32d0821.png",
 					"sale_type":"other"
 				}
-			},
-			{
-				"item_id":1740729059001,
-				"name":"元气小兔狲",
-				"tab_id":0,
-				"suit_item_id":305951701,
-				"properties":{
-					"fan_no_color":"#C79C6C",
-					"fans_image":"https://i0.hdslb.com/bfs/garb/0fe35a51ef5cc95cfa462202535a4fd7e8f7fe50.png",
-					"fans_material_id":"1740729780001",
-					"goods_type":"suit",
-					"image":"https://i0.hdslb.com/bfs/garb/a74a847d86d738296da18e0c28f0a2e8a194008b.png",
-					"sale_type":"other"
-				}
 			}
 		],
 		"card_bg":[
 			{
 				"item_id":1740729029001,
 				"name":"元气小兔狲",
-				"tab_id":0,
 				"suit_item_id":305951701,
 				"properties":{
 					"fan_no_color":"#C79C6C",
@@ -83,7 +79,6 @@
 			{
 				"item_id":1740728809001,
 				"name":"元气小兔狲",
-				"tab_id":0,
 				"suit_item_id":305951701,
 				"properties":{
 					"addable":"true",
@@ -105,8 +100,63 @@
 				"items":[
 					{
 						"item_id":0,
+						"name":"[元气小兔狲_两幅面孔]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/548c3da98762538106b2182c0a8aa8b59991f523.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[元气小兔狲_厚厚]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0e2607ce2a8187f8ae80bb938855345e3176983a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[元气小兔狲_哭哭]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/0e9e82b89ded75066063125cfa5970bb2d8f96e7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[元气小兔狲_喜欢喜欢]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/2334128085aadefd406090efba23e2f4bd2c0e94.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[元气小兔狲_嫌弃]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b4d98824af12fcb8f071d5980d64b8f97ee6c1f5.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[元气小兔狲_小兔狲]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/92271a0ce20717e0f18906111efe8779137f83c6.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[元气小兔狲_小骄傲]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/dc0660051c08f375a0f501c23127fc99d7a5f686.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[元气小兔狲_思考]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/1c8b5ec106f7d39beaf6b0331d5081b9b28cba45.png",
 							"sale_type":"pay"
@@ -115,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[元气小兔狲_摸摸尾巴]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/3946bf9f9c1b14e70c57000e18f582d6260b9394.png",
 							"sale_type":"pay"
@@ -123,53 +172,15 @@
 					},
 					{
 						"item_id":0,
-						"name":"[元气小兔狲_饿饿饭饭]",
-						"tab_id":0,
+						"name":"[元气小兔狲_疑惑]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bfb1959c63c0f2dc09d6957ee27db2de55dc39c8.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[元气小兔狲_嫌弃]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b4d98824af12fcb8f071d5980d64b8f97ee6c1f5.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[元气小兔狲_哭哭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0e9e82b89ded75066063125cfa5970bb2d8f96e7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[元气小兔狲_两幅面孔]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/548c3da98762538106b2182c0a8aa8b59991f523.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[元气小兔狲_喜欢喜欢]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/2334128085aadefd406090efba23e2f4bd2c0e94.png",
+							"image":"https://i0.hdslb.com/bfs/garb/16aea452bb5f62c4e229a995eaec6562a6a0e280.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[元气小兔狲_自豪]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/88a6d07eeb5ae26deb1928bafb75bf41546931ce.png",
 							"sale_type":"pay"
@@ -178,7 +189,6 @@
 					{
 						"item_id":0,
 						"name":"[元气小兔狲_被命运抓住]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/15e7bda7878a1f305a1b7378caaedd3eb66429f1.png",
 							"sale_type":"pay"
@@ -186,26 +196,7 @@
 					},
 					{
 						"item_id":0,
-						"name":"[元气小兔狲_疑惑]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/16aea452bb5f62c4e229a995eaec6562a6a0e280.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[元气小兔狲_小骄傲]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dc0660051c08f375a0f501c23127fc99d7a5f686.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[元气小兔狲_转身离去]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a722e092aefb3d13df1c6ad066a4375d144e0aa7.png",
 							"sale_type":"pay"
@@ -214,7 +205,6 @@
 					{
 						"item_id":0,
 						"name":"[元气小兔狲_长长]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/709ec183c380526d134600447923b91d4060c9ec.png",
 							"sale_type":"pay"
@@ -222,19 +212,9 @@
 					},
 					{
 						"item_id":0,
-						"name":"[元气小兔狲_厚厚]",
-						"tab_id":0,
+						"name":"[元气小兔狲_饿饿饭饭]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0e2607ce2a8187f8ae80bb938855345e3176983a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[元气小兔狲_小兔狲]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/92271a0ce20717e0f18906111efe8779137f83c6.png",
+							"image":"https://i0.hdslb.com/bfs/garb/bfb1959c63c0f2dc09d6957ee27db2de55dc39c8.png",
 							"sale_type":"pay"
 						}
 					}
@@ -245,7 +225,6 @@
 			{
 				"item_id":1740729735001,
 				"name":"元气小兔狲",
-				"tab_id":0,
 				"suit_item_id":305951701,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1740728937001,
 				"name":"元气小兔狲",
-				"tab_id":0,
 				"suit_item_id":305951701,
 				"properties":{
 					"fan_no_color":"#ffffff",

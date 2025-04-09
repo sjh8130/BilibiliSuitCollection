@@ -29,15 +29,26 @@
 		"sale_time_begin":"1741081730",
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
-		"type":"ip",
-		"user_vas_order":"false"
+		"type":"ip"
 	},
 	"suit_items":{
 		"card":[
 			{
+				"item_id":1740532829001,
+				"name":"危险卡带",
+				"suit_item_id":305847901,
+				"properties":{
+					"fan_no_color":"#F8D0E8",
+					"fans_image":"https://i0.hdslb.com/bfs/garb/f9cd0550e73a13023dc10bbd0c94bedb75604be1.png",
+					"fans_material_id":"1740532829002",
+					"goods_type":"suit",
+					"image":"https://i0.hdslb.com/bfs/garb/e4da7487b43d189388f9907cb6c9f3446df3761a.png",
+					"sale_type":"other"
+				}
+			},
+			{
 				"item_id":1740532829002,
 				"name":"危险卡带粉丝",
-				"tab_id":0,
 				"suit_item_id":305847901,
 				"properties":{
 					"fan_no_color":"#F8D0E8",
@@ -48,27 +59,12 @@
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/2efd245bcc6e4b91265f1295d4fcd36358bbd2d0.png",
 					"sale_type":"other"
 				}
-			},
-			{
-				"item_id":1740532829001,
-				"name":"危险卡带",
-				"tab_id":0,
-				"suit_item_id":305847901,
-				"properties":{
-					"fan_no_color":"#F8D0E8",
-					"fans_image":"https://i0.hdslb.com/bfs/garb/f9cd0550e73a13023dc10bbd0c94bedb75604be1.png",
-					"fans_material_id":"1740532829002",
-					"goods_type":"suit",
-					"image":"https://i0.hdslb.com/bfs/garb/e4da7487b43d189388f9907cb6c9f3446df3761a.png",
-					"sale_type":"other"
-				}
 			}
 		],
 		"card_bg":[
 			{
 				"item_id":1740533198001,
 				"name":"危险卡带",
-				"tab_id":0,
 				"suit_item_id":305847901,
 				"properties":{
 					"fan_no_color":"#FF9CD5",
@@ -83,7 +79,6 @@
 			{
 				"item_id":1740532882001,
 				"name":"危险卡带",
-				"tab_id":0,
 				"suit_item_id":305847901,
 				"properties":{
 					"addable":"true",
@@ -105,62 +100,7 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[危险卡带_卡带]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d1ae6ca78cb4cda11cb311b99bde0073ce2bb145.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[危险卡带_紫色麦克风]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8be0884c9f097abe0093afc343be685f6c1dd68a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[危险卡带_打游戏]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/39efb96006e796eb6ec87a0a1f13a22808e55903.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[危险卡带_将将]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/51a541f29be0ba74b0ca7cf92a79647a37f979e7.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[危险卡带_烦恼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/959832251d5cce939a6e53a55a9b68b0a871f31e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[危险卡带_偷乐]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1d50e9b04fabd37dd3cb1155216cafb03fe66a6c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[危险卡带_不屑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/94ca57fa31e21006932362a24b30c152d0e2f20e.png",
 							"sale_type":"pay"
@@ -168,35 +108,7 @@
 					},
 					{
 						"item_id":0,
-						"name":"[危险卡带_哭哭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/eae1114f7f9e84e4a5f5ee9023d79178d481986e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[危险卡带_点赞]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ab37f322e65fc38e3afeb69a8454ae36f9f9484a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[危险卡带_阴沉]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bd97ab10a84005569a8f219cdf5d2a02c1a500e6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[危险卡带_伸脖子]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ce3a50be6cd64185da62768c7f484b034ffb9eaf.png",
 							"sale_type":"pay"
@@ -204,26 +116,71 @@
 					},
 					{
 						"item_id":0,
-						"name":"[危险卡带_邪笑]",
-						"tab_id":0,
+						"name":"[危险卡带_偷乐]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9b5136a6f51098e6e5f02940575f7cfa52ce4826.png",
+							"image":"https://i0.hdslb.com/bfs/garb/1d50e9b04fabd37dd3cb1155216cafb03fe66a6c.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[危险卡带_给你一锤]",
-						"tab_id":0,
+						"name":"[危险卡带_卡带]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/21b7433b969e7dce932c9e628fb23e55e7a05a94.png",
+							"image":"https://i0.hdslb.com/bfs/garb/d1ae6ca78cb4cda11cb311b99bde0073ce2bb145.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[危险卡带_哭哭]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/eae1114f7f9e84e4a5f5ee9023d79178d481986e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[危险卡带_将将]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/51a541f29be0ba74b0ca7cf92a79647a37f979e7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[危险卡带_打游戏]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/39efb96006e796eb6ec87a0a1f13a22808e55903.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[危险卡带_摸不着头脑]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/fb663979d8e4aaba76d9a8e3ff0cff870a046209.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[危险卡带_点赞]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ab37f322e65fc38e3afeb69a8454ae36f9f9484a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[危险卡带_烦恼]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/959832251d5cce939a6e53a55a9b68b0a871f31e.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[危险卡带_睡觉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0de8d94c74eb83ac09229e8f54fe9402d3353d68.png",
 							"sale_type":"pay"
@@ -231,10 +188,33 @@
 					},
 					{
 						"item_id":0,
-						"name":"[危险卡带_摸不着头脑]",
-						"tab_id":0,
+						"name":"[危险卡带_紫色麦克风]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fb663979d8e4aaba76d9a8e3ff0cff870a046209.png",
+							"image":"https://i0.hdslb.com/bfs/garb/8be0884c9f097abe0093afc343be685f6c1dd68a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[危险卡带_给你一锤]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/21b7433b969e7dce932c9e628fb23e55e7a05a94.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[危险卡带_邪笑]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9b5136a6f51098e6e5f02940575f7cfa52ce4826.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[危险卡带_阴沉]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/bd97ab10a84005569a8f219cdf5d2a02c1a500e6.png",
 							"sale_type":"pay"
 						}
 					}
@@ -245,7 +225,6 @@
 			{
 				"item_id":1740533150001,
 				"name":"危险卡带",
-				"tab_id":0,
 				"suit_item_id":305847901,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1740532922001,
 				"name":"危险卡带",
-				"tab_id":0,
 				"suit_item_id":305847901,
 				"properties":{
 					"fan_no_color":"#ffffff",

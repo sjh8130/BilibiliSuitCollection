@@ -97,6 +97,7 @@ def _p_main(item: dict):
     del_keys(item, "state", operator=OPR.ANY)
     del_keys(item, "tag", operator=OPR.ANY)
     del_keys(item, "total_count_desc", operator=OPR.ANY)
+    del_keys(item, "user_vas_order", operator=OPR.ANY)
     del_keys(item, "activity_entrance", _EMPTY_ACTIVITY_ENTRANCE, recursive=False)
     del_keys(item, "activity_entrance", None, recursive=False)
     del_keys(item, "associate_words", "")

@@ -30,15 +30,26 @@
 		"sale_time_end":"2529676800",
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
-		"type":"ip",
-		"user_vas_order":"true"
+		"type":"ip"
 	},
 	"suit_items":{
 		"card":[
 			{
+				"item_id":1741239225001,
+				"name":"仁子RENZ1",
+				"suit_item_id":306543701,
+				"properties":{
+					"fan_no_color":"#BCD8FF",
+					"fans_image":"https://i0.hdslb.com/bfs/garb/d4c26b16084669267761e2f439cacdf53a519077.png",
+					"fans_material_id":"1741239225002",
+					"goods_type":"suit",
+					"image":"https://i0.hdslb.com/bfs/garb/710c1b176a0674e0e6ebe55f27a4749cafe80391.png",
+					"sale_type":"other"
+				}
+			},
+			{
 				"item_id":1741239225002,
 				"name":"仁子RENZ1粉丝",
-				"tab_id":0,
 				"suit_item_id":306543701,
 				"properties":{
 					"fan_no_color":"#BCD8FF",
@@ -49,27 +60,12 @@
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/58b3116501574e7d79ac75ba7bf7948c4a77ca44.png",
 					"sale_type":"other"
 				}
-			},
-			{
-				"item_id":1741239225001,
-				"name":"仁子RENZ1",
-				"tab_id":0,
-				"suit_item_id":306543701,
-				"properties":{
-					"fan_no_color":"#BCD8FF",
-					"fans_image":"https://i0.hdslb.com/bfs/garb/d4c26b16084669267761e2f439cacdf53a519077.png",
-					"fans_material_id":"1741239225002",
-					"goods_type":"suit",
-					"image":"https://i0.hdslb.com/bfs/garb/710c1b176a0674e0e6ebe55f27a4749cafe80391.png",
-					"sale_type":"other"
-				}
 			}
 		],
 		"card_bg":[
 			{
 				"item_id":1741242881001,
 				"name":"仁子RENZ1",
-				"tab_id":0,
 				"suit_item_id":306543701,
 				"properties":{
 					"fan_no_color":"#6F93FF",
@@ -84,7 +80,6 @@
 			{
 				"item_id":1741240379001,
 				"name":"仁子RENZ1",
-				"tab_id":0,
 				"suit_item_id":306543701,
 				"properties":{
 					"addable":"true",
@@ -106,107 +101,7 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[仁子RENZ1_呼呼呼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4d0b014c5a8454ad3c53e18c9dd8dcf3b479ad9e.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[仁子RENZ1_流汗]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/3253316bb371927be6a9f303becd9c3e3fccb11f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[仁子RENZ1_收收味]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c0c2bdf525670a165ad61f809ffaa131d9d0ad5a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[仁子RENZ1_糖]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/49ae81b9f9e84effabae7f98edca5210e9a66875.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[仁子RENZ1_钓鱼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/baf64236145ecee777929a5a266de9165f500fff.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[仁子RENZ1_已黑化]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/09fc871caceed00db8b3f7a543b0f49d0f9a92ac.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[仁子RENZ1_看看你的]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b6855d09cc1ecfbeb8a7fe8aa85d12e201705891.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[仁子RENZ1_赢]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b07e472b2a8ba7b930a9a8c452437f4f135c4b06.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[仁子RENZ1_生气]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ce440a83d6f26e5c0869b7714cc3fa0d06e31aec.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[仁子RENZ1_哈哈哈]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d9318cb5d80e9b92ba15421dfa71487365126c68.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[仁子RENZ1_期待]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/cc9c46f4bf3febf5cbec6632db075bcd4df97190.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[仁子RENZ1_亲亲]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6953f1693dccedaaaabba4c0f4b2ccc40927ab79.png",
 							"sale_type":"pay"
@@ -214,17 +109,23 @@
 					},
 					{
 						"item_id":0,
-						"name":"[仁子RENZ1_结婚]",
-						"tab_id":0,
+						"name":"[仁子RENZ1_呼呼呼]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/4688273285db95c261f5d332af8f0a849cf3bc50.png",
+							"image":"https://i0.hdslb.com/bfs/garb/4d0b014c5a8454ad3c53e18c9dd8dcf3b479ad9e.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[仁子RENZ1_哈哈哈]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d9318cb5d80e9b92ba15421dfa71487365126c68.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[仁子RENZ1_太可爱了]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/8829f0b000d4f10ad4d1cd6fa66732ceb283d9f7.png",
 							"sale_type":"pay"
@@ -232,10 +133,89 @@
 					},
 					{
 						"item_id":0,
+						"name":"[仁子RENZ1_已黑化]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/09fc871caceed00db8b3f7a543b0f49d0f9a92ac.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[仁子RENZ1_收收味]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c0c2bdf525670a165ad61f809ffaa131d9d0ad5a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[仁子RENZ1_期待]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/cc9c46f4bf3febf5cbec6632db075bcd4df97190.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[仁子RENZ1_流汗]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/3253316bb371927be6a9f303becd9c3e3fccb11f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[仁子RENZ1_生气]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ce440a83d6f26e5c0869b7714cc3fa0d06e31aec.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[仁子RENZ1_疑惑]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/648ee967ef9a8c0625e13750509d739d2cd91ad7.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[仁子RENZ1_看看你的]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b6855d09cc1ecfbeb8a7fe8aa85d12e201705891.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[仁子RENZ1_糖]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/49ae81b9f9e84effabae7f98edca5210e9a66875.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[仁子RENZ1_结婚]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/4688273285db95c261f5d332af8f0a849cf3bc50.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[仁子RENZ1_赢]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b07e472b2a8ba7b930a9a8c452437f4f135c4b06.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[仁子RENZ1_钓鱼]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/baf64236145ecee777929a5a266de9165f500fff.png",
 							"sale_type":"pay"
 						}
 					}
@@ -246,7 +226,6 @@
 			{
 				"item_id":1741242814001,
 				"name":"仁子RENZ1",
-				"tab_id":0,
 				"suit_item_id":306543701,
 				"properties":{
 					"color":"#ffffff",
@@ -286,7 +265,6 @@
 			{
 				"item_id":1741239746001,
 				"name":"仁子RENZ1",
-				"tab_id":0,
 				"suit_item_id":306543701,
 				"properties":{
 					"fan_no_color":"#ffffff",

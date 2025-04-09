@@ -29,15 +29,26 @@
 		"sale_time_begin":"1741748890",
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
-		"type":"ip",
-		"user_vas_order":"false"
+		"type":"ip"
 	},
 	"suit_items":{
 		"card":[
 			{
+				"item_id":1741333266001,
+				"name":"多巴胺猫猫",
+				"suit_item_id":306647801,
+				"properties":{
+					"fan_no_color":"#A01827",
+					"fans_image":"https://i0.hdslb.com/bfs/garb/010ed94a42654deb9d4639a59336a3fad3028159.png",
+					"fans_material_id":"1741333266002",
+					"goods_type":"suit",
+					"image":"https://i0.hdslb.com/bfs/garb/a4409a269a55fafa6176e17ec5c5d378412a7ff0.png",
+					"sale_type":"other"
+				}
+			},
+			{
 				"item_id":1741333266002,
 				"name":"多巴胺猫猫粉丝",
-				"tab_id":0,
 				"suit_item_id":306647801,
 				"properties":{
 					"fan_no_color":"#A01827",
@@ -48,27 +59,12 @@
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/abb96ab731f4b98ff6b66ae48185ee5012afc992.png",
 					"sale_type":"other"
 				}
-			},
-			{
-				"item_id":1741333266001,
-				"name":"多巴胺猫猫",
-				"tab_id":0,
-				"suit_item_id":306647801,
-				"properties":{
-					"fan_no_color":"#A01827",
-					"fans_image":"https://i0.hdslb.com/bfs/garb/010ed94a42654deb9d4639a59336a3fad3028159.png",
-					"fans_material_id":"1741333266002",
-					"goods_type":"suit",
-					"image":"https://i0.hdslb.com/bfs/garb/a4409a269a55fafa6176e17ec5c5d378412a7ff0.png",
-					"sale_type":"other"
-				}
 			}
 		],
 		"card_bg":[
 			{
 				"item_id":1741334125001,
 				"name":"多巴胺猫猫",
-				"tab_id":0,
 				"suit_item_id":306647801,
 				"properties":{
 					"fan_no_color":"#A01827",
@@ -83,7 +79,6 @@
 			{
 				"item_id":1741333673001,
 				"name":"多巴胺猫猫",
-				"tab_id":0,
 				"suit_item_id":306647801,
 				"properties":{
 					"addable":"true",
@@ -105,26 +100,7 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[多巴胺猫猫_吃饭饭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c6427946f8854ff71322bd899f0ad707714d7dfb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[多巴胺猫猫_发呆]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/de303681d39010fdbdee32961055f82540f8f0f2.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[多巴胺猫猫_休息]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/35f31765a2ec281f85793b430e3b1420d9fd73f3.png",
 							"sale_type":"pay"
@@ -132,62 +108,7 @@
 					},
 					{
 						"item_id":0,
-						"name":"[多巴胺猫猫_花花]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/28f83822d89c03f1c24e922a6220d18d54e8e5de.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[多巴胺猫猫_来呀]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8b9c051e767d4fac2ca989fdbf05d45d154d90b1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[多巴胺猫猫_打招呼]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d5214955d79b259a7e2d82115e84a0280ea9cd2c.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[多巴胺猫猫_蝴蝶]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9bc0dcfb39b7ccab73afbbd98adbbc8d269ed3d5.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[多巴胺猫猫_哈哈]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/e45f1f01fdefd1201ce6c3e8e35db736d77a4709.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[多巴胺猫猫_打卡]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/a2f6fb1a43fabfc783ce8597cc0c7646536a9a19.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[多巴胺猫猫_你好呀]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/be3a876eea2371f4714a1098ec3241d73ad041f1.png",
 							"sale_type":"pay"
@@ -195,26 +116,39 @@
 					},
 					{
 						"item_id":0,
-						"name":"[多巴胺猫猫_悠闲]",
-						"tab_id":0,
+						"name":"[多巴胺猫猫_发呆]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/94fa0a98fc01dba5564712127f2021e24dd45583.png",
+							"image":"https://i0.hdslb.com/bfs/garb/de303681d39010fdbdee32961055f82540f8f0f2.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[多巴胺猫猫_打扮]",
-						"tab_id":0,
+						"name":"[多巴胺猫猫_吃饭饭]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/8a977fd273f657a6fe95354b167892021cdfc559.png",
+							"image":"https://i0.hdslb.com/bfs/garb/c6427946f8854ff71322bd899f0ad707714d7dfb.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[多巴胺猫猫_听歌]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/10a86a9684242e07b32d510cae09e5b5abe9aa4a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[多巴胺猫猫_哈哈]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/e45f1f01fdefd1201ce6c3e8e35db736d77a4709.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[多巴胺猫猫_心寄给你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a42c99be559b94f4eb66bbd889a0b0fcbb352382.png",
 							"sale_type":"pay"
@@ -222,8 +156,47 @@
 					},
 					{
 						"item_id":0,
+						"name":"[多巴胺猫猫_悠闲]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/94fa0a98fc01dba5564712127f2021e24dd45583.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[多巴胺猫猫_打卡]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/a2f6fb1a43fabfc783ce8597cc0c7646536a9a19.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[多巴胺猫猫_打扮]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8a977fd273f657a6fe95354b167892021cdfc559.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[多巴胺猫猫_打招呼]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d5214955d79b259a7e2d82115e84a0280ea9cd2c.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[多巴胺猫猫_来呀]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/8b9c051e767d4fac2ca989fdbf05d45d154d90b1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[多巴胺猫猫_自信]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/5767f0a0058ef31678694f629b827b604488903e.png",
 							"sale_type":"pay"
@@ -231,10 +204,17 @@
 					},
 					{
 						"item_id":0,
-						"name":"[多巴胺猫猫_听歌]",
-						"tab_id":0,
+						"name":"[多巴胺猫猫_花花]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/10a86a9684242e07b32d510cae09e5b5abe9aa4a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/28f83822d89c03f1c24e922a6220d18d54e8e5de.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[多巴胺猫猫_蝴蝶]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9bc0dcfb39b7ccab73afbbd98adbbc8d269ed3d5.png",
 							"sale_type":"pay"
 						}
 					}
@@ -245,7 +225,6 @@
 			{
 				"item_id":1741334032001,
 				"name":"多巴胺猫猫",
-				"tab_id":0,
 				"suit_item_id":306647801,
 				"properties":{
 					"color":"#ffffff",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1741333751001,
 				"name":"多巴胺猫猫",
-				"tab_id":0,
 				"suit_item_id":306647801,
 				"properties":{
 					"fan_no_color":"#ffffff",

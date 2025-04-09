@@ -29,15 +29,26 @@
 		"sale_time_begin":"1741059280",
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
-		"type":"ip",
-		"user_vas_order":"false"
+		"type":"ip"
 	},
 	"suit_items":{
 		"card":[
 			{
+				"item_id":1740536411001,
+				"name":"春日灿烂大熊猫",
+				"suit_item_id":305731401,
+				"properties":{
+					"fan_no_color":"#79D7F2",
+					"fans_image":"https://i0.hdslb.com/bfs/garb/3dd7338c7fe19683a5316c82708f6d81b54b20d2.png",
+					"fans_material_id":"1740536411002",
+					"goods_type":"suit",
+					"image":"https://i0.hdslb.com/bfs/garb/b9a3f2796f1c9d66e8d2061623e5696ee6240f4e.png",
+					"sale_type":"other"
+				}
+			},
+			{
 				"item_id":1740536411002,
 				"name":"春日灿烂大熊猫粉丝",
-				"tab_id":0,
 				"suit_item_id":305731401,
 				"properties":{
 					"fan_no_color":"#79D7F2",
@@ -48,27 +59,12 @@
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/12fe849cc50fadabc04168f2eb4f275802343ba2.png",
 					"sale_type":"other"
 				}
-			},
-			{
-				"item_id":1740536411001,
-				"name":"春日灿烂大熊猫",
-				"tab_id":0,
-				"suit_item_id":305731401,
-				"properties":{
-					"fan_no_color":"#79D7F2",
-					"fans_image":"https://i0.hdslb.com/bfs/garb/3dd7338c7fe19683a5316c82708f6d81b54b20d2.png",
-					"fans_material_id":"1740536411002",
-					"goods_type":"suit",
-					"image":"https://i0.hdslb.com/bfs/garb/b9a3f2796f1c9d66e8d2061623e5696ee6240f4e.png",
-					"sale_type":"other"
-				}
 			}
 		],
 		"card_bg":[
 			{
 				"item_id":1740536432001,
 				"name":"春日灿烂大熊猫",
-				"tab_id":0,
 				"suit_item_id":305731401,
 				"properties":{
 					"fan_no_color":"#79D7F2",
@@ -83,7 +79,6 @@
 			{
 				"item_id":1740536473001,
 				"name":"春日灿烂大熊猫",
-				"tab_id":0,
 				"suit_item_id":305731401,
 				"properties":{
 					"addable":"true",
@@ -105,35 +100,31 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[春日灿烂大熊猫_拜拜]",
-						"tab_id":0,
+						"name":"[春日灿烂大熊猫_休息]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/299a15b0b7e9622e6cd7494f93f3bf1e302a47c3.png",
+							"image":"https://i0.hdslb.com/bfs/garb/0eb0f304dbc9185d10b0254f9f6f8e5eacddce7a.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[春日灿烂大熊猫_摔倒]",
-						"tab_id":0,
+						"name":"[春日灿烂大熊猫_你好呀]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/88e5d3827643a59e7c303539391ae081ab1dbbcc.png",
+							"image":"https://i0.hdslb.com/bfs/garb/f29bbb6045377763cd32d306004764ff7dd44b36.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
-						"name":"[春日灿烂大熊猫_送花]",
-						"tab_id":0,
+						"name":"[春日灿烂大熊猫_冲鸭]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/be2856adccd978914cc449c4d1eb45246f73b176.png",
+							"image":"https://i0.hdslb.com/bfs/garb/37cc15a77e401da10c2960c7089dc55281747849.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[春日灿烂大熊猫_可爱]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/c6f0465e05ab5ced8332e12320e4da39c664222f.png",
 							"sale_type":"pay"
@@ -142,7 +133,6 @@
 					{
 						"item_id":0,
 						"name":"[春日灿烂大熊猫_哭]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/0fac6191be5f4e88d18f166d3d0a9b6d8c25254a.png",
 							"sale_type":"pay"
@@ -150,62 +140,7 @@
 					},
 					{
 						"item_id":0,
-						"name":"[春日灿烂大熊猫_生气]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/701908df0b5c3217174f50c76cc80f33bd8e1770.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[春日灿烂大熊猫_冲鸭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/37cc15a77e401da10c2960c7089dc55281747849.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[春日灿烂大熊猫_你好呀]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f29bbb6045377763cd32d306004764ff7dd44b36.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[春日灿烂大熊猫_飞升]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/6de97f7c5be8b5644484c3f6a7681758a6b22578.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[春日灿烂大熊猫_沉默]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/5c275a8e08714aa77efaf729d2f301c008aac262.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[春日灿烂大熊猫_趴]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/7f099f57573a1f5c8d05218958c3984e560a7dd1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[春日灿烂大熊猫_开心]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/9a9a1337af90796c7c322479d0b2c4eda2288ade.png",
 							"sale_type":"pay"
@@ -213,17 +148,31 @@
 					},
 					{
 						"item_id":0,
-						"name":"[春日灿烂大熊猫_休息]",
-						"tab_id":0,
+						"name":"[春日灿烂大熊猫_拜拜]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/0eb0f304dbc9185d10b0254f9f6f8e5eacddce7a.png",
+							"image":"https://i0.hdslb.com/bfs/garb/299a15b0b7e9622e6cd7494f93f3bf1e302a47c3.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[春日灿烂大熊猫_摔倒]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/88e5d3827643a59e7c303539391ae081ab1dbbcc.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[春日灿烂大熊猫_沉默]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/5c275a8e08714aa77efaf729d2f301c008aac262.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[春日灿烂大熊猫_玩耍]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a3aeaed63a9fb042a4447cd10b08ce9c74fed51b.png",
 							"sale_type":"pay"
@@ -231,10 +180,41 @@
 					},
 					{
 						"item_id":0,
+						"name":"[春日灿烂大熊猫_生气]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/701908df0b5c3217174f50c76cc80f33bd8e1770.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[春日灿烂大熊猫_荡秋千]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/6f3dbbcb394dc235126464ed2b04a12e413c00f9.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[春日灿烂大熊猫_趴]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/7f099f57573a1f5c8d05218958c3984e560a7dd1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[春日灿烂大熊猫_送花]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/be2856adccd978914cc449c4d1eb45246f73b176.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[春日灿烂大熊猫_飞升]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/6de97f7c5be8b5644484c3f6a7681758a6b22578.png",
 							"sale_type":"pay"
 						}
 					}
@@ -245,7 +225,6 @@
 			{
 				"item_id":1740536722001,
 				"name":"春日灿烂大熊猫",
-				"tab_id":0,
 				"suit_item_id":305731401,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1740536453001,
 				"name":"春日灿烂大熊猫",
-				"tab_id":0,
 				"suit_item_id":305731401,
 				"properties":{
 					"fan_no_color":"#ffffff",

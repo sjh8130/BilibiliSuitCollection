@@ -29,15 +29,26 @@
 		"sale_time_begin":"1741685010",
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
-		"type":"ip",
-		"user_vas_order":"false"
+		"type":"ip"
 	},
 	"suit_items":{
 		"card":[
 			{
+				"item_id":1740967233001,
+				"name":"兔子星球",
+				"suit_item_id":306230101,
+				"properties":{
+					"fan_no_color":"#FFDD8A",
+					"fans_image":"https://i0.hdslb.com/bfs/garb/b9921ecae7600b0ac976bab3dca70b0b57d53e53.png",
+					"fans_material_id":"1740967233002",
+					"goods_type":"suit",
+					"image":"https://i0.hdslb.com/bfs/garb/7e6fcf1539a6ceefdaaab83a78b8a354dbbd589d.png",
+					"sale_type":"other"
+				}
+			},
+			{
 				"item_id":1740967233002,
 				"name":"兔子星球粉丝",
-				"tab_id":0,
 				"suit_item_id":306230101,
 				"properties":{
 					"fan_no_color":"#FFDD8A",
@@ -48,27 +59,12 @@
 					"image_preview_small":"https://i0.hdslb.com/bfs/garb/afa9c8f4b032ae48a04d34f41d3ae7de3dec4a2a.png",
 					"sale_type":"other"
 				}
-			},
-			{
-				"item_id":1740967233001,
-				"name":"兔子星球",
-				"tab_id":0,
-				"suit_item_id":306230101,
-				"properties":{
-					"fan_no_color":"#FFDD8A",
-					"fans_image":"https://i0.hdslb.com/bfs/garb/b9921ecae7600b0ac976bab3dca70b0b57d53e53.png",
-					"fans_material_id":"1740967233002",
-					"goods_type":"suit",
-					"image":"https://i0.hdslb.com/bfs/garb/7e6fcf1539a6ceefdaaab83a78b8a354dbbd589d.png",
-					"sale_type":"other"
-				}
 			}
 		],
 		"card_bg":[
 			{
 				"item_id":1740967253001,
 				"name":"兔子星球",
-				"tab_id":0,
 				"suit_item_id":306230101,
 				"properties":{
 					"fan_no_color":"#F1AE65",
@@ -83,7 +79,6 @@
 			{
 				"item_id":1740967302001,
 				"name":"兔子星球",
-				"tab_id":0,
 				"suit_item_id":306230101,
 				"properties":{
 					"addable":"true",
@@ -105,71 +100,7 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[兔子星球_愣住]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/430ec98cb43c533bbd91e9c8b8321ed538c5e601.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[兔子星球_吃瓜]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/19baa8de573644c3fc95b4539da9870e78942c60.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[兔子星球_自拍]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/dacf878945437426868e8dc737aa2a4fdd620dc1.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[兔子星球_兔兔点赞]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1f6291cfc7f121130512066c2e70e51a62b5dad0.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[兔子星球_贴脸]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/9dc08c4b98f76b77dd17689ab7c86b7361a76d34.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[兔子星球_男孩]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/d0424df4d0ddc64220c6ca3ec8848403d164953b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[兔子星球_兔兔汉堡]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1bd6f21cfe628dfdcd3225f9bffb8c8b854f9825.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[兔子星球_兔兔拍照]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/4ddab9456e4e47704ebe0529317ca8540153ff5a.png",
 							"sale_type":"pay"
@@ -177,17 +108,7 @@
 					},
 					{
 						"item_id":0,
-						"name":"[兔子星球_烤红薯]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c111c197a00d7bf725ffbd7dcd1bcc8333d82922.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[兔子星球_兔兔探头]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/d1e73ffb1494048e1605b1380e3416f4540d6470.png",
 							"sale_type":"pay"
@@ -195,8 +116,31 @@
 					},
 					{
 						"item_id":0,
+						"name":"[兔子星球_兔兔汉堡]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1bd6f21cfe628dfdcd3225f9bffb8c8b854f9825.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[兔子星球_兔兔点赞]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1f6291cfc7f121130512066c2e70e51a62b5dad0.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[兔子星球_吃瓜]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/19baa8de573644c3fc95b4539da9870e78942c60.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[兔子星球_女孩]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/7327efa89334814ee9fa0ba4b209df7e84ffd4c5.png",
 							"sale_type":"pay"
@@ -204,8 +148,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[兔子星球_愣住]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/430ec98cb43c533bbd91e9c8b8321ed538c5e601.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[兔子星球_打电话]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/af7dc6c9b2cb23def22fb7b8b079d5b03cbd107f.png",
 							"sale_type":"pay"
@@ -214,7 +165,6 @@
 					{
 						"item_id":0,
 						"name":"[兔子星球_朋友自拍]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/a9e1df9bd0d1629b093916d33ae35ec0a9dc156e.png",
 							"sale_type":"pay"
@@ -222,8 +172,15 @@
 					},
 					{
 						"item_id":0,
+						"name":"[兔子星球_烤红薯]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c111c197a00d7bf725ffbd7dcd1bcc8333d82922.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[兔子星球_爱你]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/ae1a533239f6c0ae6cb20f22dbb2914e47c046f5.png",
 							"sale_type":"pay"
@@ -231,10 +188,33 @@
 					},
 					{
 						"item_id":0,
+						"name":"[兔子星球_男孩]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/d0424df4d0ddc64220c6ca3ec8848403d164953b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[兔子星球_自拍]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/dacf878945437426868e8dc737aa2a4fdd620dc1.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
 						"name":"[兔子星球_许愿]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/13bae7e90086ab28552e4406f49fcd723c7f9691.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[兔子星球_贴脸]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/9dc08c4b98f76b77dd17689ab7c86b7361a76d34.png",
 							"sale_type":"pay"
 						}
 					}
@@ -245,7 +225,6 @@
 			{
 				"item_id":1740967357001,
 				"name":"兔子星球",
-				"tab_id":0,
 				"suit_item_id":306230101,
 				"properties":{
 					"color":"#000000",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1740967279001,
 				"name":"兔子星球",
-				"tab_id":0,
 				"suit_item_id":306230101,
 				"properties":{
 					"fan_no_color":"#ffffff",

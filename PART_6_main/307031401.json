@@ -29,15 +29,13 @@
 		"sale_time_begin":"1742009310",
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
-		"type":"ip",
-		"user_vas_order":"true"
+		"type":"ip"
 	},
 	"suit_items":{
 		"card":[
 			{
 				"item_id":1741331383001,
 				"name":"画画人",
-				"tab_id":0,
 				"suit_item_id":307031401,
 				"properties":{
 					"fan_no_color":"#707070",
@@ -51,7 +49,6 @@
 			{
 				"item_id":1741338868001,
 				"name":"画画人粉丝",
-				"tab_id":0,
 				"suit_item_id":307031401,
 				"properties":{
 					"fan_no_color":"#707070",
@@ -68,7 +65,6 @@
 			{
 				"item_id":1741329150001,
 				"name":"画画人",
-				"tab_id":0,
 				"suit_item_id":307031401,
 				"properties":{
 					"fan_no_color":"#7D7D7D",
@@ -83,7 +79,6 @@
 			{
 				"item_id":1741659876001,
 				"name":"苦命画画人",
-				"tab_id":0,
 				"suit_item_id":307031401,
 				"properties":{
 					"addable":"true",
@@ -105,80 +100,7 @@
 				"items":[
 					{
 						"item_id":0,
-						"name":"[苦命画画人_美哭了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/28780f3c117b26c4e4e67cc07a36aabd6a75554a.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[苦命画画人_开画]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/b32009a34eb4beb4fe111f85cdc84515a357f565.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[苦命画画人_画不了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/bcdce3f24feb0ef10be7be1121e2c4818d156bf6.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[苦命画画人_太简单了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/47eb8043a4581d1dda91c146cac01d3be8df09eb.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[苦命画画人_拜托了]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/ce5034ee51d654107361c63b24a638de2bd8cd8b.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[苦命画画人_偷偷画画]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/160a7674fb6f7a2b841916e051f30ba5517cc415.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[苦命画画人_给力]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/f1a5d2b37ecf7786698da466c1c9442950db2a30.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[苦命画画人_无力]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/c3094e29763cdda8a6d73d35dfb7a4edae45b101.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[苦命画画人_万分抱歉]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/185f87784aa5c06e6255629ef7a3a6f04b3a1f53.png",
 							"sale_type":"pay"
@@ -186,35 +108,7 @@
 					},
 					{
 						"item_id":0,
-						"name":"[苦命画画人_我稿子呢]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/fcfeecdf8d3130e46d9dff281499aab76b83bf9f.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[苦命画画人_好香的饭]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/1a706c7743ede2b952961234349d6be340302609.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
-						"name":"[苦命画画人_大人请用]",
-						"tab_id":0,
-						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/19bcdb054be20d300386b99194e3d28fbabf2518.png",
-							"sale_type":"pay"
-						}
-					},
-					{
-						"item_id":0,
 						"name":"[苦命画画人_做饭中]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/39be0babd19d2e94b174c8d924ff4ee1031a6adc.png",
 							"sale_type":"pay"
@@ -222,19 +116,105 @@
 					},
 					{
 						"item_id":0,
-						"name":"[苦命画画人_马上好]",
-						"tab_id":0,
+						"name":"[苦命画画人_偷偷画画]",
 						"properties":{
-							"image":"https://i0.hdslb.com/bfs/garb/32af239df46e4efba99444f90267da1bc78f9aa3.png",
+							"image":"https://i0.hdslb.com/bfs/garb/160a7674fb6f7a2b841916e051f30ba5517cc415.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[苦命画画人_大人请用]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/19bcdb054be20d300386b99194e3d28fbabf2518.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[苦命画画人_太简单了]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/47eb8043a4581d1dda91c146cac01d3be8df09eb.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[苦命画画人_好香的饭]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/1a706c7743ede2b952961234349d6be340302609.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[苦命画画人_开画]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/b32009a34eb4beb4fe111f85cdc84515a357f565.png",
 							"sale_type":"pay"
 						}
 					},
 					{
 						"item_id":0,
 						"name":"[苦命画画人_快画]",
-						"tab_id":0,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/garb/78abdf01015c6f742002e8587551690223f3e11d.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[苦命画画人_我稿子呢]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/fcfeecdf8d3130e46d9dff281499aab76b83bf9f.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[苦命画画人_拜托了]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/ce5034ee51d654107361c63b24a638de2bd8cd8b.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[苦命画画人_无力]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/c3094e29763cdda8a6d73d35dfb7a4edae45b101.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[苦命画画人_画不了]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/bcdce3f24feb0ef10be7be1121e2c4818d156bf6.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[苦命画画人_给力]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/f1a5d2b37ecf7786698da466c1c9442950db2a30.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[苦命画画人_美哭了]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/28780f3c117b26c4e4e67cc07a36aabd6a75554a.png",
+							"sale_type":"pay"
+						}
+					},
+					{
+						"item_id":0,
+						"name":"[苦命画画人_马上好]",
+						"properties":{
+							"image":"https://i0.hdslb.com/bfs/garb/32af239df46e4efba99444f90267da1bc78f9aa3.png",
 							"sale_type":"pay"
 						}
 					}
@@ -245,7 +225,6 @@
 			{
 				"item_id":1741335650001,
 				"name":"画画人",
-				"tab_id":0,
 				"suit_item_id":307031401,
 				"properties":{
 					"color":"#ffffff",
@@ -285,7 +264,6 @@
 			{
 				"item_id":1741254107001,
 				"name":"画画人",
-				"tab_id":0,
 				"suit_item_id":307031401,
 				"properties":{
 					"fan_no_color":"#ffffff",
