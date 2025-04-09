@@ -1,15 +1,15 @@
 #
 
-love-life.com////suit/detail
+oh-mango.com////suit/detail
 
 ## stat
 |desc_group|start|end|
 |--:|-:|-:|
 |part-1			|1			| 6579		|
-|part-2			|32226		| 72726 	|
+|part-2			|32226		| 72942 	|
 |part-3(202x)	|100000000	| 136353001 |
 |part-3(2024)	|200000000	| 236649101 |
-|part-3(2025)	|300000000	| 307031401 |
+|part-3(2025)	|300000000	| 309351401 |
 
 ## replace
 ```regexp
