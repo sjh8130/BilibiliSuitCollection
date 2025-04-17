@@ -8,9 +8,15 @@
 		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/garb/item/eab164c4cc080d0be3503609badec1a0f7a69627.png",
-		"item_ids":"58657,58658,58659,58660,58661,58662,58663,58664,58665,58666,58667,58668,58669,58670,58671,58672,58673",
+		"item_ids":"58657,58658,58659,58660,58661,58662,58663,58664,58665,58666,58667,58668,58669,58670,58671,58672,58673,72529",
+		"permanent":"false",
+		"preview":"false",
+		"recently_used":"false",
+		"recommend":"false",
 		"removable":"true",
+		"resource_type":"0",
 		"sale_type":"pay",
+		"setting_pannel_not_show":"false",
 		"size":"L",
 		"sortable":"true"
 	},
@@ -166,6 +172,15 @@
 				"tab_id":7,
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/garb/item/7482bcee0060b3ea0d1d99b82703c91d429af051.png",
+					"sale_type":"pay"
+				}
+			},
+			{
+				"item_id":72529,
+				"name":"[装扮小姐姐专属_新年快乐]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/emote/d4d500bc4b1ee93caa5a5fd0fd19731229c55845.png",
 					"sale_type":"pay"
 				}
 			}
