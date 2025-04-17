@@ -6,10 +6,10 @@ oh-mango.com////suit/detail
 |desc_group|start|end|
 |--:|-:|-:|
 |part-1			|1			| 6579		|
-|part-2			|32226		| 72942 	|
+|part-2			|32226		| 72965 	|
 |part-3(202x)	|100000000	| 136353001 |
 |part-3(2024)	|200000000	| 236649101 |
-|part-3(2025)	|300000000	| 309351401 |
+|part-3(2025)	|300000000	| 309854101 |
 
 ## replace
 ```regexp
@@ -19,12 +19,21 @@ oh-mango.com////suit/detail
 
 __bilivideo__
 http(s)?://(upos-(sz|tribe)-(mirror|static|estg)(08c|cos|ali|oss|bd)?(-cmask)?|data|bvc|(c|d)\d+--(p\d+--)?(cn|ov|tf)-gotcha\d+|cn-[a-z]+-(cm|ct|cc|fx|se|gd|cu|eq|ix|wasu)(-v)?-\d+)\.bilivideo\.com
+
+\?vd_source=[0-9a-zA-A]+"
+/"
+" +
+\?(spm_id_from|from_spmid)=\d+\.\d+\.(\d+|episode)\.\d+"
+\?(spm_id_from|from_spmid)=\d+\.\d+\.(\d+|episode)\.\d+&(spm_id_from|from_spmid)=\d+\.\d+\.(\d+|episode)\.\d+"
+\?from=search&seid=\d+"
+\?from=search&seid=\d+&(spm_id_from|from_spmid)=\d+\.\d+\.(\d+|episode)\.\d+"
+\?(spm_id_from|from_spmid)=\d+\.\d+\.(\d+|episode)\.\d+"
 ```
 
 ## find
 "(activity_entrance|current_activity|current_sources|finish_sources|gray_rule|gray_rule_type|hot|item_stock_surplus|jump_link|next_activity|open_platform_vip_discount|sale_count_desc|sale_left_time|sale_surplus|sale_time_end|sales_mode|state|tag|tag_month|time_left|time_left_month|total_count_desc|unlock_items)" ?:
 (noface|账号已注销)
-&(e|uipk|nbs|deadline|gen|playurlv2|os|08cbv|cosbv|alibv|upos|bdbv|oi|trid|platform|og|upsig|cos|hw|uparams|bvc|vod|nettype|orderid|logo|xxx)=
+&(seid|from|e|uipk|nbs|deadline|gen|playurlv2|os|08cbv|cosbv|alibv|upos|bdbv|oi|trid|platform|og|upsig|cos|hw|uparams|bvc|vod|nettype|orderid|logo|xxx)=
 
 (from|search|seid|spm_id_from|xxx)
 
