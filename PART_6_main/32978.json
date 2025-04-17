@@ -33,6 +33,8 @@
 		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
 		"sale_reserve_switch":"false",
+		"sale_sku_id_1":"329782",
+		"sale_sku_id_2":"329781",
 		"sale_time_begin":"1637319600",
 		"sale_type":"pay",
 		"type":"ip"
@@ -264,6 +266,7 @@
 						"tab_id":7,
 						"properties":{
 							"image":"https://i0.hdslb.com/bfs/emote/754b452413bdf27d2e7061f8fd8637bdc18440a7.png",
+							"owner_uid":"647193094",
 							"sale_type":"pay"
 						}
 					},

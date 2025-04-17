@@ -1,3 +1,4 @@
+import glob
 import json
 import os
 import sys
@@ -43,13 +44,9 @@ def _main(path: str):
 
 
 def walk_dir(path):
-    walk_result = os.walk(os.path.join(base_path, path))
     ret_list = []
-    for r in walk_result:
-        for p in r[2]:
-            if p == "ids.csv":
-                continue
-            ret_list.append(os.path.join(base_path, path, p))
+    for r in glob.glob("*.json", root_dir=os.path.join(base_path, path)):
+        ret_list.append(os.path.join(base_path, path, r))
     return ret_list
 
 

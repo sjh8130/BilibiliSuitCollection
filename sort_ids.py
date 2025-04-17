@@ -1,3 +1,4 @@
+import glob
 import json
 import os
 import sys
@@ -115,15 +116,6 @@ def _p_main(item: dict):
     del_keys(item, "unlock_items", None)
 
 
-def walk_dir(path):
-    walk_result = os.walk(os.path.join(base_path, path))
-    ret_list = []
-    for r in walk_result:
-        for p in r[2]:
-            ret_list.append(os.path.join(base_path, path, p))
-    return ret_list
-
-
 def _main(path: str):
     with open(path, "r", encoding="utf-8") as fp:
         src = fp.read()
@@ -146,29 +138,20 @@ def _main(path: str):
         fp.write(target)
 
 
+def _K() -> list[str]:
+    A: list[str] = []
+    _M = base_path
+    for a in ["PART_5_表情包", "PART_6_main"]:
+        for b in glob.glob("*.json", root_dir=os.path.join(_M, a)):
+            A.append(os.path.join(_M, a, b))
+    for a in glob.glob("PART*.jsonl", root_dir=_M):
+        A.append(os.path.join(_M, a))
+    return A
+
+
 if __name__ == "__main__":
     base_path = os.path.abspath(".")
-    t_list: list[str] = (
-        (
-            walk_dir("PART_5_表情包")
-            + walk_dir("PART_6_main")
-            + [
-                "PART_10_加载动画.jsonl",
-                "PART_11_进度条装扮.jsonl",
-                "PART_12_test.jsonl",
-                "PART_13_NFT.jsonl",
-                "PART_1_头像框.jsonl",
-                "PART_2_动态卡片.jsonl",
-                "PART_3_点赞效果.jsonl",
-                "PART_4_表情.jsonl",
-                "PART_7_空间背景.jsonl",
-                "PART_8_勋章.jsonl",
-                "PART_9_皮肤.jsonl",
-            ]
-        )
-        if len(sys.argv) <= 1
-        else sys.argv[1:]
-    )
+    t_list: list[str] = _K() if len(sys.argv) <= 1 else sys.argv[1:]
 
     try:
         for file in tqdm(t_list):
