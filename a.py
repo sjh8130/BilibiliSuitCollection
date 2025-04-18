@@ -112,7 +112,7 @@ def replace_value_in_list_dict(
         isinstance(d_or_lst, list) and isinstance(k_or_idx, int) and len(d_or_lst) >= k_or_idx
     ):
         if d_or_lst[k_or_idx] == old_v:  # type:ignore
-            d_or_lst[k_or_idx] = d_or_lst[k_or_idx] = new_v  # type:ignore
+            d_or_lst[k_or_idx] = new_v  # type:ignore
     if not recursive:
         return
     for key in d_or_lst:
@@ -126,24 +126,28 @@ def replace_value_in_list_dict(
                     replace_value_in_list_dict(d_or_lst[key], k_or_idx, old_v, new_v, recursive)
 
 
-def replace_str(d: dict[str, str | Any], old: str, new: str, count: int = -1, recursive=True):
+def replace_str(d: dict[str, str | Any] | list[str], old: str, new: str, count: int = -1, recursive=True):
     if not isinstance(d, (dict, list)):
         return
     if not recursive:
+        if isinstance(d, dict):
+            for key, val in d.items():
+                if isinstance(val, str):
+                    d[key] = val.replace(old, new, count)
+        elif isinstance(d, list):
+            for index, val in enumerate(d):
+                if isinstance(val, str):
+                    d[index] = val.replace(old, new, count)
         return
     if isinstance(d, dict):
-        for key in d:
-            if isinstance(d[key], str):
-                d[key] = d[key].replace(old, new, count)
-            elif isinstance(d[key], dict):
-                pass
-            elif isinstance(d[key], list):
-                pass
+        for key, val in d.items():
+            if isinstance(val, str):
+                d[key] = val.replace(old, new, count)
+            elif isinstance(val, (dict, list)):
+                replace_str(val, old, new, count, recursive)
     elif isinstance(d, list):
         for index, val in enumerate(d):
-            if isinstance(d[index], str):
+            if isinstance(val, str):
                 d[index] = d[index].replace(old, new, count)
-            elif isinstance(d[index], dict):
-                pass
-            elif isinstance(d[index], list):
-                pass
+            elif isinstance(val, (dict, list)):
+                replace_str(val, old, new, count, recursive)
