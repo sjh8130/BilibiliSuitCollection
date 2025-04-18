@@ -6,7 +6,7 @@ import sys
 from loguru import logger
 from tqdm import tqdm
 
-from a import OPR, del_keys, sort_list_dict, sort_p6_emoji, sort_str_list
+from a import OPR, del_keys, replace_str, sort_list_dict, sort_p6_emoji, sort_str_list
 
 log = logger.bind(user="S.i")
 
@@ -114,6 +114,7 @@ def _p_main(item: dict):
     del_keys(item, "suit_items", {})
     del_keys(item, "tab_id", 0, OPR.EQ)
     del_keys(item, "unlock_items", None)
+    replace_str(item, "http://", "https://")
 
 
 def _main(path: str):
