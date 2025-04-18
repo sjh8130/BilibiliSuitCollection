@@ -115,6 +115,9 @@ def _p_main(item: dict):
     del_keys(item, "tab_id", 0, OPR.EQ)
     del_keys(item, "unlock_items", None)
     replace_str(item, "http://", "https://")
+    replace_str(item, "https://i1.hdslb.com", "https://i0.hdslb.com")
+    replace_str(item, "https://i2.hdslb.com", "https://i0.hdslb.com")
+    replace_str(item, "fasle", "false")
 
 
 def _main(path: str):

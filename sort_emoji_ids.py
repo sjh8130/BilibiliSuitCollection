@@ -6,13 +6,13 @@ import sys
 from loguru import logger
 from tqdm import tqdm
 
-from a import OPR, del_keys, sort_list_dict
+from a import OPR, del_keys, replace_str, sort_list_dict
 
 log = logger.bind(user="S.ei")
 
 
 def _p_main(item: dict):
-    print(item["id"])
+    # print(item["id"])
     del_keys(item, "suggest", [""])
     del_keys(item, "flags", {})
     del_keys(item, "flags", {"no_access": True, "unlocked": False})
@@ -25,7 +25,11 @@ def _p_main(item: dict):
     del_keys(item, "ref_mid", 0)
     del_keys(item, "resource_type", 0)
     if "emote" in item:
-        sort_list_dict(item["emote"])
+        sort_list_dict(item["emote"], "id", "text")
+    replace_str(item, "http://", "https://")
+    replace_str(item, "https://i1.hdslb.com", "https://i0.hdslb.com")
+    replace_str(item, "https://i2.hdslb.com", "https://i0.hdslb.com")
+    replace_str(item, "fasle", "false")
 
 
 def _main(path: str):
@@ -57,4 +61,7 @@ if __name__ == "__main__":
         for file in tqdm(t_list):
             _main(file)
     except Exception as e:
+        log.error(file)
         log.exception(e)
+    finally:
+        pass
