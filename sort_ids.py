@@ -157,5 +157,8 @@ if __name__ == "__main__":
     try:
         for file in tqdm(t_list):
             _main(file)
+    except Exception as e:
+        log.error(file)
+        log.exception(e)
     finally:
         pass
