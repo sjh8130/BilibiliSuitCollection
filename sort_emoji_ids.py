@@ -43,7 +43,7 @@ def _main(path: str):
         fp.write(target)
 
 
-def walk_dir(path):
+def _N(path):
     ret_list = []
     for r in glob.glob("*.json", root_dir=os.path.join(base_path, path)):
         ret_list.append(os.path.join(base_path, path, r))
@@ -52,7 +52,7 @@ def walk_dir(path):
 
 if __name__ == "__main__":
     base_path = os.path.abspath(".")
-    t_list: list[str] = walk_dir("emoji") if len(sys.argv) <= 1 else sys.argv[1:]
+    t_list: list[str] = _N("emoji") if len(sys.argv) <= 1 else sys.argv[1:]
     try:
         for file in tqdm(t_list):
             _main(file)
