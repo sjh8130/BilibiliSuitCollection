@@ -20,14 +20,14 @@ oh-mango.com////suit/detail
 __bilivideo__
 http(s)?://(upos-(sz|tribe)-(mirror|static|estg)(08c|cos|ali|oss|bd)?(-cmask)?|data|bvc|(c|d)\d+--(p\d+--)?(cn|ov|tf)-gotcha\d+|cn-[a-z]+-(cm|ct|cc|fx|se|gd|cu|eq|ix|wasu)(-v)?-\d+)\.bilivideo\.com
 
-\?vd_source=[0-9a-zA-A]+"
-/"
 " +
+/"
+/?\?from=decoration"
 \?(spm_id_from|from_spmid)=\d+\.\d+\.(\d+|episode)\.\d+"
 \?(spm_id_from|from_spmid)=\d+\.\d+\.(\d+|episode)\.\d+&(spm_id_from|from_spmid)=\d+\.\d+\.(\d+|episode)\.\d+"
-\?from=search&seid=\d+"
-\?from=search&seid=\d+&(spm_id_from|from_spmid)=\d+\.\d+\.(\d+|episode)\.\d+"
-\?(spm_id_from|from_spmid)=\d+\.\d+\.(\d+|episode)\.\d+"
+/?\?from=search&seid=\d+"
+/?\?from=search&seid=\d+&(spm_id_from|from_spmid)=\d+\.\d+\.(\d+|episode)\.\d+"
+/?\?vd_source=[0-9a-zA-A]+"
 ```
 
 ## find
