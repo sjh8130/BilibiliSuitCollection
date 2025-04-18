@@ -1,5 +1,6 @@
 import json
 from enum import IntEnum, auto
+from typing import Any
 
 
 class OPR(IntEnum):
@@ -101,25 +102,48 @@ def del_keys(d: dict, k: str, v=None, operator: OPR = OPR.EQ, recursive=True):
 
 
 def replace_value_in_list_dict(
-    d_or_l: dict | list,
-    k_or_i: int | str,
+    d_or_lst: dict[str, Any] | list,
+    k_or_idx: int | str,
     old_v,
     new_v,
     recursive=True,
 ):
-    if (k_or_i in d_or_l and isinstance(d_or_l, dict) and isinstance(d_or_l[k_or_i], str)) or (
-        isinstance(d_or_l, list) and isinstance(k_or_i, int) and len(d_or_l) >= k_or_i
+    if (k_or_idx in d_or_lst and isinstance(d_or_lst, dict) and isinstance(d_or_lst[k_or_idx], str)) or (
+        isinstance(d_or_lst, list) and isinstance(k_or_idx, int) and len(d_or_lst) >= k_or_idx
     ):
-        if d_or_l[k_or_i] == old_v:  # type:ignore
-            d_or_l[k_or_i] = d_or_l[k_or_i] = new_v  # type:ignore
+        if d_or_lst[k_or_idx] == old_v:  # type:ignore
+            d_or_lst[k_or_idx] = d_or_lst[k_or_idx] = new_v  # type:ignore
     if not recursive:
         return
-    for key in d_or_l:
-        if isinstance(d_or_l[key], dict):
-            replace_value_in_list_dict(d_or_l[key], k_or_i, old_v, new_v, recursive)
-        elif isinstance(d_or_l[key], list):
-            for index, item in enumerate(d_or_l[key]):
+    for key in d_or_lst:
+        if isinstance(d_or_lst[key], dict):
+            replace_value_in_list_dict(d_or_lst[key], k_or_idx, old_v, new_v, recursive)
+        elif isinstance(d_or_lst[key], list):
+            for index, item in enumerate(d_or_lst[key]):
                 if isinstance(item, dict):
-                    replace_value_in_list_dict(item, k_or_i, old_v, new_v, recursive)
+                    replace_value_in_list_dict(item, k_or_idx, old_v, new_v, recursive)
                 elif isinstance(item, list):
-                    replace_value_in_list_dict(d_or_l[key], k_or_i, old_v, new_v, recursive)
+                    replace_value_in_list_dict(d_or_lst[key], k_or_idx, old_v, new_v, recursive)
+
+
+def replace_str(d: dict[str, str | Any], old: str, new: str, count: int = -1, recursive=True):
+    if not isinstance(d, (dict, list)):
+        return
+    if not recursive:
+        return
+    if isinstance(d, dict):
+        for key in d:
+            if isinstance(d[key], str):
+                d[key] = d[key].replace(old, new, count)
+            elif isinstance(d[key], dict):
+                pass
+            elif isinstance(d[key], list):
+                pass
+    elif isinstance(d, list):
+        for index, val in enumerate(d):
+            if isinstance(d[index], str):
+                d[index] = d[index].replace(old, new, count)
+            elif isinstance(d[index], dict):
+                pass
+            elif isinstance(d[index], list):
+                pass
