@@ -23,61 +23,32 @@ _EMPTY_ACTIVITY_ENTRANCE = {
 
 
 def _p_main(item: dict):
-    match item["part_id"]:
-        case 1:
-            pass
-        case 2:
-            pass
-        case 3:
-            pass
-        case 4:
-            pass
-        case 5:
-            if isinstance(item.get(P), dict):
-                if isinstance(item[P].get("item_ids"), str):
-                    item[P]["item_ids"] = sort_str_list(item[P]["item_ids"])
-            if isinstance(item.get(S), dict):
-                if isinstance(item[S].get("emoji"), list):
-                    sort_list_dict(item[S]["emoji"])
-        case 6:
-            if isinstance(item.get(P), dict):
-                if isinstance(item[P].get("fan_item_ids"), str):
-                    item[P]["fan_item_ids"] = sort_str_list(item[P]["fan_item_ids"])
-            if isinstance(item.get(S), dict):
-                if isinstance(item[S].get("card"), list):
-                    sort_list_dict(item[S]["card"])
-                if isinstance(item[S].get("card_bg"), list):
-                    sort_list_dict(item[S]["card_bg"])
-                if isinstance(item[S].get("loading"), list):
-                    sort_list_dict(item[S]["loading"])
-                if isinstance(item[S].get("pendant"), list):
-                    sort_list_dict(item[S]["pendant"])
-                if isinstance(item[S].get("play_icon"), list):
-                    sort_list_dict(item[S]["play_icon"])
-                if isinstance(item[S].get("skin"), list):
-                    sort_list_dict(item[S]["skin"])
-                if isinstance(item[S].get("space_bg"), list):
-                    sort_list_dict(item[S]["space_bg"])
-                if isinstance(item[S].get("thumbup"), list):
-                    sort_list_dict(item[S]["thumbup"])
-                if isinstance(item[S].get("emoji_package"), list):
-                    item[S]["emoji_package"] = sort_p6_emoji(item[S]["emoji_package"])
-        case 7:
-            pass
-        case 8:
-            pass
-        case 9:
-            pass
-        case 10:
-            pass
-        case 11:
-            pass
-        case 12:
-            pass
-        case 13:
-            pass
-        case _:
-            pass
+    if isinstance(item.get(P), dict):
+        if isinstance(item[P].get("item_ids"), str):
+            item[P]["item_ids"] = sort_str_list(item[P]["item_ids"])
+        if isinstance(item[P].get("fan_item_ids"), str):
+            item[P]["fan_item_ids"] = sort_str_list(item[P]["fan_item_ids"])
+    if isinstance(item.get(S), dict):
+        if isinstance(item[S].get("emoji"), list):
+            sort_list_dict(item[S]["emoji"])
+        if isinstance(item[S].get("card"), list):
+            sort_list_dict(item[S]["card"])
+        if isinstance(item[S].get("card_bg"), list):
+            sort_list_dict(item[S]["card_bg"])
+        if isinstance(item[S].get("loading"), list):
+            sort_list_dict(item[S]["loading"])
+        if isinstance(item[S].get("pendant"), list):
+            sort_list_dict(item[S]["pendant"])
+        if isinstance(item[S].get("play_icon"), list):
+            sort_list_dict(item[S]["play_icon"])
+        if isinstance(item[S].get("skin"), list):
+            sort_list_dict(item[S]["skin"])
+        if isinstance(item[S].get("space_bg"), list):
+            sort_list_dict(item[S]["space_bg"])
+        if isinstance(item[S].get("thumbup"), list):
+            sort_list_dict(item[S]["thumbup"])
+        if isinstance(item[S].get("emoji_package"), list):
+            sort_p6_emoji(item[S]["emoji_package"])
     del_keys(item, "associate", operator=OPR.ANY)
     del_keys(item, "current_activity", operator=OPR.ANY)
     del_keys(item, "current_sources", operator=OPR.ANY)
