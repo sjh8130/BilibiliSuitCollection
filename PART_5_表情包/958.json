@@ -5,7 +5,7 @@
 	"group_name":"小黄脸",
 	"part_id":5,
 	"properties":{
-		"addable":"false",
+		"addable":"fasle",
 		"biz":"reply,dynamic,comic_reply,watch_full",
 		"comment":"同步数据",
 		"image":"https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
@@ -13,13 +13,13 @@
 		"permanent":"true",
 		"preview":"true",
 		"recently_used":"true",
-		"recommend":"false",
-		"removable":"false",
+		"recommend":"fasle",
+		"removable":"fasle",
 		"resource_type":"0",
 		"sale_type":"free",
 		"setting_pannel_not_show":"false",
 		"size":"S",
-		"sortable":"false"
+		"sortable":"fasle"
 	},
 	"suit_items":{
 		"emoji":[
