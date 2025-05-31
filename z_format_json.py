@@ -2,8 +2,8 @@ import json
 import sys
 
 
-def _main(path: str):
-    with open(path, "r", encoding="utf-8") as fp:
+def _main(path: str) -> None:
+    with open(path, encoding="utf-8") as fp:
         item: dict = json.load(fp)
 
     with open(path, "w", encoding="utf-8") as fp:

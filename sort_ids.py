@@ -6,7 +6,7 @@ import sys
 from loguru import logger
 from tqdm import tqdm
 
-from a import OPR, del_keys, replace_str, sort_list_dict, sort_p6_emoji, sort_str_list
+from a import OPR, X1, del_keys, replace_str, sort_list_dict, sort_p6_emoji, sort_str_list
 
 log = logger.bind(user="S.i")
 
@@ -22,7 +22,7 @@ _EMPTY_ACTIVITY_ENTRANCE = {
 }
 
 
-def _p_main(item: dict):
+def _p_main(item: X1) -> None:
     if isinstance(item.get(P), dict):
         if isinstance(item[P].get("item_ids"), str):
             item[P]["item_ids"] = sort_str_list(item[P]["item_ids"])
@@ -88,27 +88,25 @@ def _p_main(item: dict):
     replace_str(item, "http://", "https://")
     replace_str(item, "https://i1.hdslb.com", "https://i0.hdslb.com")
     replace_str(item, "https://i2.hdslb.com", "https://i0.hdslb.com")
-    replace_str(item, "fasle", "false")
+    # replace_str(item, "fasle", "false")
 
 
-def _main(path: str):
-    with open(path, "r", encoding="utf-8") as fp:
+def _main(path: str) -> None:
+    with open(path, encoding="utf-8") as fp:
         src = fp.read()
     if path.endswith(".jsonl"):
         target = ""
         for line in src.splitlines():
-            item: dict = json.loads(line)
+            item: X1 = json.loads(line)
             _p_main(item)
             target += json.dumps(item, ensure_ascii=False, separators=(",", ":")) + "\n"
     else:
-        item: dict = json.loads(src)
+        item: X1 = json.loads(src)
         _p_main(item)
         target = json.dumps(item, ensure_ascii=False, separators=(",", ":"), indent="\t")
     if src == target:
         return
         print(f"EQ:{path}")
-    else:
-        ...
     with open(path, "w", encoding="utf-8") as fp:
         fp.write(target)
 
@@ -132,7 +130,7 @@ if __name__ == "__main__":
         for file in tqdm(t_list):
             _main(file)
     except Exception as e:
-        log.error(file)
+        log.error(file)  # type: ignore
         log.exception(e)
     finally:
         pass
