@@ -8,7 +8,7 @@
 		"addable":"false",
 		"biz":"reply,dynamic",
 		"image":"https://i0.hdslb.com/bfs/emote/832ea967ef93795d0cecb122e029d2f1636bb902.png",
-		"item_ids":"73213,73214",
+		"item_ids":"73213,73214,73255,73256,73257,73258",
 		"permanent":"false",
 		"preview":"false",
 		"recently_used":"false",
@@ -24,7 +24,7 @@
 		"emoji":[
 			{
 				"item_id":73213,
-				"name":"[哦？]",
+				"name":"[啊?!]",
 				"tab_id":7,
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/emote/832ea967ef93795d0cecb122e029d2f1636bb902.png",
@@ -33,11 +33,47 @@
 			},
 			{
 				"item_id":73214,
-				"name":"[拜拜~]",
+				"name":"[拜拜噜]",
 				"tab_id":7,
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/emote/b146dfc6d01929aa605270c5a3ac40c5e5825602.png",
 					"sale_type":"diy_group"
+				}
+			},
+			{
+				"item_id":73255,
+				"name":"[急急急]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/emote/d1085966257176aaa69e8622aa33038bdc886815.png",
+					"sale_type":"diy_group"
+				}
+			},
+			{
+				"item_id":73256,
+				"name":"[跟你拼了]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/emote/8734b028b3192e8fbe30231c89040e81b7d6cd80.png",
+					"sale_type":"diy_group"
+				}
+			},
+			{
+				"item_id":73257,
+				"name":"[整挺好]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/emote/378699d209b63e69834fa52b72f57293c91851e3.png",
+					"sale_type":"diy_group"
+				}
+			},
+			{
+				"item_id":73258,
+				"name":"[不愧是我!]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/emote/5d29b33d91ee4e40af64618341957a8dead75eb0.png",
+					"sale_type":"activity_unlock"
 				}
 			}
 		]
