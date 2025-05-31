@@ -233,7 +233,7 @@ if 1:
 
 def sort_final(item):
     if isinstance(item, dict):
-        for key in item.keys():
+        for key in item:
             sort_final(item[key])
     elif isinstance(item, list) and bool(item):
         item.sort()
@@ -242,7 +242,7 @@ def sort_final(item):
                 sort_final(itm)
 
 
-def analyze_structure(item: Any, target_key="root"):
+def analyze_structure(item: Any, target_key="root") -> None:
     if target_key in S1:
         target_key = "root.suit_items.space_bg[IDX].properties.imageIDX_landscape"
     if target_key in S2:
@@ -267,11 +267,7 @@ def analyze_structure(item: Any, target_key="root"):
             analyze_structure(value, f"{target_key}.{key}")
     elif isinstance(item, list):
         for index, li in enumerate(item):
-            _tk = (
-                f"{target_key}[{DONT_CARE_INDEX_SEP}]"
-                if target_key in DONT_CARE_INDEX_LIST
-                else f"{target_key}[{index}]"
-            )
+            _tk = f"{target_key}[{DONT_CARE_INDEX_SEP}]" if target_key in DONT_CARE_INDEX_LIST else f"{target_key}[{index}]"
             analyze_structure(li, _tk)
     if isinstance(item, (dict, list)):
         return
@@ -299,9 +295,9 @@ def walk_dir(path) -> list[str]:
 
 def main():
     for in_path in tqdm(t_list):
-        with open(in_path, "r", encoding="utf-8") as file_in:
+        with open(in_path, encoding="utf-8") as file_in:
             if in_path.endswith(".jsonl"):
-                for line in file_in.readlines():
+                for line in file_in:
                     item: dict = json.loads(line)
                     analyze_structure(item)
             elif in_path.endswith(".json"):
@@ -312,10 +308,7 @@ def main():
 
 
 if __name__ == "__main__":
-    if os.name == "nt":
-        output_dir = "Z:\\"
-    else:
-        output_dir = "/mnt/z/"
+    output_dir = "Z:\\" if os.name == "nt" else "/mnt/z/"
     base_path = os.path.abspath(".")
     t_list: list[str] = (
         [
@@ -323,10 +316,8 @@ if __name__ == "__main__":
             "PART_2_动态卡片.jsonl",
             "PART_3_点赞效果.jsonl",
             "PART_4_表情.jsonl",
-        ]
-        + walk_dir("PART_5_表情包")
-        + walk_dir("PART_6_main")
-        + [
+            *walk_dir("PART_5_表情包"),
+            *walk_dir("PART_6_main"),
             "PART_7_空间背景.jsonl",
             "PART_8_勋章.jsonl",
             "PART_9_皮肤.jsonl",
