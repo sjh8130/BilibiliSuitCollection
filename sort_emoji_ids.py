@@ -11,7 +11,7 @@ from a import OPR, del_keys, replace_str, sort_list_dict
 log = logger.bind(user="S.ei")
 
 
-def _p_main(item: dict):
+def _p_main(item: dict) -> None:
     # print(item["id"])
     del_keys(item, "suggest", [""])
     del_keys(item, "flags", {})
@@ -32,7 +32,7 @@ def _p_main(item: dict):
     replace_str(item, "fasle", "false")
 
 
-def _main(path: str):
+def _main(path: str) -> None:
     with open(path, encoding="utf-8") as fp:
         src = fp.read()
         item: dict = json.loads(src)
@@ -41,13 +41,11 @@ def _main(path: str):
     if src == target:
         return
         print(f"EQ:{path}")
-    else:
-        ...
     with open(path, "w", encoding="utf-8") as fp:
         fp.write(target)
 
 
-def _N(path):
+def _N(path: str) -> list[str]:
     ret_list = []
     for r in glob.glob("*.json", root_dir=os.path.join(base_path, path)):
         ret_list.append(os.path.join(base_path, path, r))
@@ -61,7 +59,7 @@ if __name__ == "__main__":
         for file in tqdm(t_list):
             _main(file)
     except Exception as e:
-        log.error(file)
+        log.exception(file)
         log.exception(e)
     finally:
         pass
