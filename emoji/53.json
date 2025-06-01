@@ -2,7 +2,7 @@
 	"id":53,
 	"text":"热词系列一",
 	"url":"https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
-	"mtime":1748521983,
+	"mtime":1748606045,
 	"type":1,
 	"attr":2,
 	"meta":{
@@ -1207,6 +1207,48 @@
 				"label_text":"限时",
 				"label_color":"#FF20AAe2",
 				"alias":"赛博考古"
+			}
+		},
+		{
+			"id":111750,
+			"package_id":53,
+			"text":"[热词系列_确诊为好人]",
+			"url":"https://i0.hdslb.com/bfs/emote/c5d47a9f6cbd087589734b3afb47d45b3dbb20df.png",
+			"mtime":1748521983,
+			"type":8,
+			"meta":{
+				"size":2,
+				"label_text":"限时",
+				"label_color":"#FF20AAe2",
+				"alias":"确诊为好人"
+			}
+		},
+		{
+			"id":111751,
+			"package_id":53,
+			"text":"[热词系列_暖暖的]",
+			"url":"https://i0.hdslb.com/bfs/emote/6e23b860f432b72bb789ed82b4202aafa7967306.png",
+			"mtime":1748521983,
+			"type":8,
+			"meta":{
+				"size":2,
+				"label_text":"限时",
+				"label_color":"#FF20AAe2",
+				"alias":"暖暖的"
+			}
+		},
+		{
+			"id":111752,
+			"package_id":53,
+			"text":"[热词系列_你是这个]",
+			"url":"https://i0.hdslb.com/bfs/emote/50f698b5e4d903e2a82cbc3d767d24e039f73e6a.png",
+			"mtime":1748521983,
+			"type":8,
+			"meta":{
+				"size":2,
+				"label_text":"限时",
+				"label_color":"#FF20AAe2",
+				"alias":"你是这个"
 			}
 		}
 	]
