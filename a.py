@@ -1,7 +1,7 @@
 import json
-from collections.abc import Sequence
+from collections.abc import Mapping, Sequence
 from enum import IntEnum, auto
-from typing import Any, TypedDict, _TypedDict
+from typing import Any, TypedDict
 
 
 class OPR(IntEnum):
@@ -28,20 +28,20 @@ def sort_str_list(s: str, /) -> str:
 
 
 def sort_list_dict(
-    ld: Sequence[dict | _TypedDict],
+    ld: Sequence[Mapping],
     k1: str = "item_id",
     k2: str = "name",
-) -> Sequence[dict | _TypedDict]:
+) -> Sequence[Mapping]:
     list_temp = [json.loads(i2) for i2 in list({json.dumps(item) for item in ld})]
     items_with_k1 = [item for item in list_temp if item[k1] not in {0, "0"}]
     items_with_k2 = [item for item in list_temp if item[k1] in {0, "0"}]
-    items_with_k1.sort(key=lambda x: x[k1])
-    items_with_k2.sort(key=lambda x: x[k2])
-    ld[:] = items_with_k1 + items_with_k2
+    items_with_k1.sort(key=lambda x: x[k1])  # noqa: FURB118
+    items_with_k2.sort(key=lambda x: x[k2])  # noqa: FURB118
+    ld[:] = items_with_k1 + items_with_k2  # type: ignore
     return items_with_k1 + items_with_k2
 
 
-def sort_p6_emoji(ld: list[dict], /) -> list[dict]:
+def sort_p6_emoji(ld: list[Mapping], /) -> list[Mapping]:
     for i in range(len(ld)):
         if isinstance(ld[i].get("properties"), dict) and isinstance(ld[i]["properties"].get("item_ids"), str):
             ld[i]["properties"]["item_ids"] = sort_str_list(ld[i]["properties"]["item_ids"])
@@ -49,7 +49,7 @@ def sort_p6_emoji(ld: list[dict], /) -> list[dict]:
     return ld
 
 
-def del_keys(d: dict | _TypedDict, k: str, v=None, operator: OPR = OPR.EQ, recursive=True) -> None:
+def del_keys(d: Mapping, k: str, v=None, operator: OPR = OPR.EQ, *, recursive=True) -> None:
     if isinstance(d, dict) and k in d and (type(d[k]) is type(v) or operator in {OPR.IN, OPR.ANY}):
         match operator:
             case OPR.EQ:
@@ -95,37 +95,38 @@ def del_keys(d: dict | _TypedDict, k: str, v=None, operator: OPR = OPR.EQ, recur
         return
     for key in d:
         if isinstance(d[key], dict):
-            del_keys(d[key], k, v, operator, recursive)
+            del_keys(d[key], k, v, operator, recursive=recursive)
         elif isinstance(d[key], list):
-            for item in d[key]:
+            for item in d[key]:  # type: ignore
                 if isinstance(item, dict):
-                    del_keys(item, k, v, operator, recursive)
+                    del_keys(item, k, v, operator, recursive=recursive)
 
 
 def replace_value_in_list_dict(
-    d_or_lst: dict[str, Any] | list,
+    d_or_lst: Mapping[str, Any] | list,
     k_or_idx: int | str,
     old_v,
     new_v,
+    *,
     recursive=True,
 ) -> None:
-    if (k_or_idx in d_or_lst and isinstance(d_or_lst, dict) and isinstance(d_or_lst[k_or_idx], str)) or (isinstance(d_or_lst, list) and isinstance(k_or_idx, int) and len(d_or_lst) >= k_or_idx):  # type: ignore
+    if (k_or_idx in d_or_lst and isinstance(d_or_lst, dict) and isinstance(d_or_lst[k_or_idx], str)) or (isinstance(d_or_lst, list) and isinstance(k_or_idx, int) and len(d_or_lst) >= k_or_idx):  # type: ignore # noqa: PLR0916, SIM102
         if d_or_lst[k_or_idx] == old_v:  # type:ignore
             d_or_lst[k_or_idx] = new_v  # type:ignore
     if not recursive:
         return
     for key in d_or_lst:
         if isinstance(d_or_lst[key], dict):  # type: ignore
-            replace_value_in_list_dict(d_or_lst[key], k_or_idx, old_v, new_v, recursive)  # type: ignore
+            replace_value_in_list_dict(d_or_lst[key], k_or_idx, old_v, new_v, recursive=recursive)  # type: ignore
         elif isinstance(d_or_lst[key], list):  # type: ignore
             for index, item in enumerate(d_or_lst[key]):  # type: ignore
                 if isinstance(item, dict):
-                    replace_value_in_list_dict(item, k_or_idx, old_v, new_v, recursive)
+                    replace_value_in_list_dict(item, index, old_v, new_v, recursive=recursive)
                 elif isinstance(item, list):
-                    replace_value_in_list_dict(d_or_lst[key], k_or_idx, old_v, new_v, recursive)  # type: ignore
+                    replace_value_in_list_dict(d_or_lst[key], index, old_v, new_v, recursive=recursive)  # type: ignore
 
 
-def replace_str(d: dict[str, str | Any] | list[str], old: str, new: str, count: int = -1, recursive=True) -> None:
+def replace_str(d: Mapping | Sequence[str], old: str, new: str, count: int = -1, *, recursive=True) -> None:
     if not isinstance(d, (dict, list)):
         return
     if not recursive:
@@ -143,13 +144,13 @@ def replace_str(d: dict[str, str | Any] | list[str], old: str, new: str, count: 
             if isinstance(val, str):
                 d[key] = val.replace(old, new, count)
             elif isinstance(val, (dict, list)):
-                replace_str(val, old, new, count, recursive)
+                replace_str(val, old, new, count, recursive=recursive)
     elif isinstance(d, list):
         for index, val in enumerate(d):
             if isinstance(val, str):
                 d[index] = d[index].replace(old, new, count)
             elif isinstance(val, (dict, list)):
-                replace_str(val, old, new, count, recursive)
+                replace_str(val, old, new, count, recursive=recursive)
 
 
 class Properties(TypedDict):

@@ -1,7 +1,6 @@
-import glob
 import json
-import os
 import sys
+from pathlib import Path
 
 from loguru import logger
 from tqdm import tqdm
@@ -32,8 +31,8 @@ def _p_main(item: dict) -> None:
     replace_str(item, "fasle", "false")
 
 
-def _main(path: str) -> None:
-    with open(path, encoding="utf-8") as fp:
+def _main(path: Path) -> None:
+    with path.open(encoding="utf-8") as fp:
         src = fp.read()
         item: dict = json.loads(src)
     _p_main(item)
@@ -41,25 +40,20 @@ def _main(path: str) -> None:
     if src == target:
         return
         print(f"EQ:{path}")
-    with open(path, "w", encoding="utf-8") as fp:
+    with path.open("w", encoding="utf-8") as fp:
         fp.write(target)
 
 
-def _N(path: str) -> list[str]:
-    ret_list = []
-    for r in glob.glob("*.json", root_dir=os.path.join(base_path, path)):
-        ret_list.append(os.path.join(base_path, path, r))
-    return ret_list
+def _N(path: Path) -> list[Path]:
+    return list(path.glob("*.json"))
 
 
 if __name__ == "__main__":
-    base_path = os.path.abspath(".")
-    t_list: list[str] = _N("emoji") if len(sys.argv) <= 1 else sys.argv[1:]
     try:
-        for file in tqdm(t_list):
+        for file in tqdm(_N(Path.cwd() / "emoji") if len(sys.argv) <= 1 else [Path(x) for x in sys.argv[1:]]):
             _main(file)
     except Exception as e:
-        log.exception(file)
+        log.exception(str(file))  # type: ignore
         log.exception(e)
     finally:
         pass

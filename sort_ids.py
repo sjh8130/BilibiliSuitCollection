@@ -1,7 +1,6 @@
-import glob
 import json
-import os
 import sys
+from pathlib import Path
 
 from loguru import logger
 from tqdm import tqdm
@@ -30,25 +29,25 @@ def _p_main(item: X1) -> None:
             item[P]["fan_item_ids"] = sort_str_list(item[P]["fan_item_ids"])
     if isinstance(item.get(S), dict):
         if isinstance(item[S].get("emoji"), list):
-            sort_list_dict(item[S]["emoji"])
+            sort_list_dict(item[S]["emoji"])  # type: ignore
         if isinstance(item[S].get("card"), list):
-            sort_list_dict(item[S]["card"])
+            sort_list_dict(item[S]["card"])  # type: ignore
         if isinstance(item[S].get("card_bg"), list):
-            sort_list_dict(item[S]["card_bg"])
+            sort_list_dict(item[S]["card_bg"])  # type: ignore
         if isinstance(item[S].get("loading"), list):
-            sort_list_dict(item[S]["loading"])
+            sort_list_dict(item[S]["loading"])  # type: ignore
         if isinstance(item[S].get("pendant"), list):
-            sort_list_dict(item[S]["pendant"])
+            sort_list_dict(item[S]["pendant"])  # type: ignore
         if isinstance(item[S].get("play_icon"), list):
-            sort_list_dict(item[S]["play_icon"])
+            sort_list_dict(item[S]["play_icon"])  # type: ignore
         if isinstance(item[S].get("skin"), list):
-            sort_list_dict(item[S]["skin"])
+            sort_list_dict(item[S]["skin"])  # type: ignore
         if isinstance(item[S].get("space_bg"), list):
-            sort_list_dict(item[S]["space_bg"])
+            sort_list_dict(item[S]["space_bg"])  # type: ignore
         if isinstance(item[S].get("thumbup"), list):
-            sort_list_dict(item[S]["thumbup"])
+            sort_list_dict(item[S]["thumbup"])  # type: ignore
         if isinstance(item[S].get("emoji_package"), list):
-            sort_p6_emoji(item[S]["emoji_package"])
+            sort_p6_emoji(item[S]["emoji_package"])  # type: ignore
     del_keys(item, "associate", operator=OPR.ANY)
     del_keys(item, "current_activity", operator=OPR.ANY)
     del_keys(item, "current_sources", operator=OPR.ANY)
@@ -92,7 +91,7 @@ def _p_main(item: X1) -> None:
 
 
 def _main(path: str) -> None:
-    with open(path, encoding="utf-8") as fp:
+    with Path(path).open(encoding="utf-8") as fp:
         src = fp.read()
     if path.endswith(".jsonl"):
         target = ""
@@ -107,23 +106,23 @@ def _main(path: str) -> None:
     if src == target:
         return
         print(f"EQ:{path}")
-    with open(path, "w", encoding="utf-8") as fp:
+    with Path(path).open("w", encoding="utf-8") as fp:
         fp.write(target)
 
 
 def _K() -> list[str]:
     A: list[str] = []
-    _M = base_path
+    _M = base_path  # noqa: RUF052
     for a in ["PART_5_表情包", "PART_6_main"]:
-        for b in glob.glob("*.json", root_dir=os.path.join(_M, a)):
-            A.append(os.path.join(_M, a, b))
-    for a in glob.glob("PART*.jsonl", root_dir=_M):
-        A.append(os.path.join(_M, a))
+        for b in (_M / a).rglob("*.json"):
+            A.append(str(b.resolve()))
+    for a in _M.glob("PART*.jsonl"):
+        A.append(str(_M / a))
     return A
 
 
 if __name__ == "__main__":
-    base_path = os.path.abspath(".")
+    base_path = Path.cwd()
     t_list: list[str] = _K() if len(sys.argv) <= 1 else sys.argv[1:]
 
     try:
