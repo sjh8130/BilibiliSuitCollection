@@ -1,12 +1,13 @@
 import json
 import sys
+from pathlib import Path
 
 
-def _main(path: str) -> None:
-    with open(path, encoding="utf-8") as fp:
+def _main(path: Path) -> None:
+    with path.open(encoding="utf-8") as fp:
         item: dict = json.load(fp)
 
-    with open(path, "w", encoding="utf-8") as fp:
+    with path.open("w", encoding="utf-8") as fp:
         json.dump(item, fp, ensure_ascii=False, separators=(",", ":"), indent="\t")
 
 
@@ -14,8 +15,8 @@ if __name__ == "__main__":
     try:
         files = sys.argv[1:]
         for file in files:
-            _main(file)
-    except Exception:
+            _main(Path(file))
+    except Exception:  # noqa: BLE001
         import time
 
         time.sleep(10)
