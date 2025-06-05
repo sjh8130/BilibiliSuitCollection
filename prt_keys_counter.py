@@ -2,6 +2,7 @@ import json
 import os
 import sys
 import time
+from pathlib import Path
 from types import NoneType
 from typing import Any
 
@@ -253,22 +254,19 @@ def analyze_structure(item: Any, target_key="root") -> None:
         target_key = "root.properties.imageIDX_portrait"
     if result.get(target_key) is None:
         result[target_key] = {"type": {}}
-    _typ = type(item).__name__
-    if target_key in (
-        "root.suit_items.emoji_package[IDX].properties.item_emoji_list",
-        "root.suit_items.skin[IDX].properties.head_myself_mp4_bg_list",
-    ):
+    typ = type(item).__name__
+    if target_key in {"root.suit_items.emoji_package[IDX].properties.item_emoji_list", "root.suit_items.skin[IDX].properties.head_myself_mp4_bg_list"}:
         item = json.loads(item)  # type:ignore[reportOperatorIssue]
-        _typ = "str_list"
-    if _typ not in result[target_key]["type"]:
-        result[target_key]["type"][_typ] = result[target_key]["type"].get(_typ, 0) + 1
+        typ = "str_list"
+    if typ not in result[target_key]["type"]:
+        result[target_key]["type"][typ] = result[target_key]["type"].get(typ, 0) + 1
     if isinstance(item, dict):
         for key, value in item.items():
             analyze_structure(value, f"{target_key}.{key}")
     elif isinstance(item, list):
         for index, li in enumerate(item):
-            _tk = f"{target_key}[{DONT_CARE_INDEX_SEP}]" if target_key in DONT_CARE_INDEX_LIST else f"{target_key}[{index}]"
-            analyze_structure(li, _tk)
+            tk = f"{target_key}[{DONT_CARE_INDEX_SEP}]" if target_key in DONT_CARE_INDEX_LIST else f"{target_key}[{index}]"
+            analyze_structure(li, tk)
     if isinstance(item, (dict, list)):
         return
     if SW1 and target_key in IGNORE_LIST:
@@ -281,63 +279,47 @@ def analyze_structure(item: Any, target_key="root") -> None:
         t1 = str(item)
     if result[target_key]["value"].get(t1) is None:
         result[target_key]["value"][t1] = 0
-    result[target_key]["value"][t1] = result[target_key]["value"][t1] + 1
+    result[target_key]["value"][t1] += 1
 
 
-def walk_dir(path) -> list[str]:
-    walk_result = os.walk(os.path.join(base_path, path))
-    ret_list: list[str] = []
-    for r in walk_result:
-        for p in r[2]:
-            ret_list.append(os.path.join(base_path, path, p))
-    return ret_list
+def walk_dir() -> list[Path]:
+    A: list[Path] = []
+    _M = base_path  # noqa: RUF052
+    for a in ["PART_5_表情包", "PART_6_main"]:
+        for b in (_M / a).rglob("*.json"):
+            A.append(b.resolve())
+    for a in _M.glob("PART*.jsonl"):
+        A.append(_M / a)
+    return A
 
 
 def main():
-    for in_path in tqdm(t_list):
-        with open(in_path, encoding="utf-8") as file_in:
-            if in_path.endswith(".jsonl"):
-                for line in file_in:
+    for p in tqdm(t_list):
+        with p.open(encoding="utf-8") as fp:
+            if str(p).endswith(".jsonl"):
+                for line in fp:
                     item: dict = json.loads(line)
                     analyze_structure(item)
-            elif in_path.endswith(".json"):
-                item: dict = json.load(file_in)
+            elif str(p).endswith(".json"):
+                item: dict = json.load(fp)
                 analyze_structure(item)
     # sort_final(result)
     return result
 
 
 if __name__ == "__main__":
-    output_dir = "Z:\\" if os.name == "nt" else "/mnt/z/"
-    base_path = os.path.abspath(".")
-    t_list: list[str] = (
-        [
-            "PART_1_头像框.jsonl",
-            "PART_2_动态卡片.jsonl",
-            "PART_3_点赞效果.jsonl",
-            "PART_4_表情.jsonl",
-            *walk_dir("PART_5_表情包"),
-            *walk_dir("PART_6_main"),
-            "PART_7_空间背景.jsonl",
-            "PART_8_勋章.jsonl",
-            "PART_9_皮肤.jsonl",
-            "PART_10_加载动画.jsonl",
-            "PART_11_进度条装扮.jsonl",
-            "PART_12_test.jsonl",
-            "PART_13_NFT.jsonl",
-        ]
-        if len(sys.argv) <= 1
-        else sys.argv[1:]
-    )
+    output_dir = Path("Z:\\") if os.name == "nt" else Path("/mnt/z/")
+    base_path = Path.cwd()
+    t_list: list[Path] = walk_dir() if len(sys.argv) <= 1 else [Path(x) for x in sys.argv[1:]]
 
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    if not output_dir.exists():
+        output_dir.mkdir()
     # if os.path.exists(os.path.join(output_dir, "result.json")):
     #     with open(os.path.join(output_dir, "result.json"), "r", encoding="utf-8") as fp:
     #         result.update(json.load(fp))
     start_time = time.time()
     main()
-    with open(os.path.join(output_dir, "result.json"), "w", encoding="utf-8") as fp:
+    with (output_dir / "result.json").open("w", encoding="utf-8") as fp:
         json.dump(result, fp, ensure_ascii=False, indent="\t", sort_keys=True)
     total_time = time.time() - start_time
     print(f"处理完成，耗时：{total_time:.3f}秒")
