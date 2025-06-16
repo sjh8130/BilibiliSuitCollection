@@ -1,3 +1,4 @@
+import contextlib
 import json
 import sys
 from pathlib import Path
@@ -22,6 +23,7 @@ _EMPTY_ACTIVITY_ENTRANCE = {
 
 
 def _p_main(item: X1) -> None:
+    c = item["part_id"]
     if isinstance(item.get(P), dict):
         if isinstance(item[P].get("item_ids"), str):
             item[P]["item_ids"] = sort_str_list(item[P]["item_ids"])
@@ -48,6 +50,36 @@ def _p_main(item: X1) -> None:
             sort_list_dict(item[S]["thumbup"])  # type: ignore
         if isinstance(item[S].get("emoji_package"), list):
             sort_p6_emoji(item[S]["emoji_package"])  # type: ignore
+    match c:
+        case 1:
+            pass
+        case 2:
+            pass
+        case 3:
+            pass
+        case 4:
+            pass
+        case 5:
+            pass
+        case 6:
+            with contextlib.suppress(KeyError):
+                del item["fan_user"]["avatar"]  # type: ignore
+        case 7:
+            pass
+        case 8:
+            pass
+        case 9:
+            pass
+        case 10:
+            pass
+        case 11:
+            pass
+        case 12:
+            pass
+        case 13:
+            pass
+        case _:
+            pass
     del_keys(item, "associate", operator=OPR.ANY)
     del_keys(item, "current_activity", operator=OPR.ANY)
     del_keys(item, "current_sources", operator=OPR.ANY)
