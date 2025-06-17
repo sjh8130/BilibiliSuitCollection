@@ -13,6 +13,7 @@ log = logger.bind(user="S.i")
 P = "properties"
 S = "suit_items"
 _EMPTY_FAN_USER = {"mid": 0, "nickname": "", "avatar": ""}
+_EMPTY_FAN_USER_2 = {"mid": 0, "nickname": ""}
 _EMPTY_ACTIVITY_ENTRANCE = {
     "id": 0,
     "item_id": 0,
@@ -105,6 +106,7 @@ def _p_main(item: X1) -> None:
     del_keys(item, "activity_entrance", None, recursive=False)
     del_keys(item, "associate_words", "")
     del_keys(item, "fan_user", _EMPTY_FAN_USER, recursive=False)
+    del_keys(item, "fan_user", _EMPTY_FAN_USER_2, recursive=False)
     del_keys(item, "finish_sources", None)
     del_keys(item, "items", None)
     del_keys(item, "jump_link", "")
