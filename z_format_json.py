@@ -16,7 +16,7 @@ if __name__ == "__main__":
         files = sys.argv[1:]
         for file in files:
             _main(Path(file))
-    except Exception:  # noqa: BLE001
+    except Exception:
         import time
 
         time.sleep(10)
