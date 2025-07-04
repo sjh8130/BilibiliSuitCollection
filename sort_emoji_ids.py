@@ -1,5 +1,6 @@
 import json
 import sys
+from collections.abc import Iterable
 from pathlib import Path
 
 from loguru import logger
@@ -32,20 +33,18 @@ def _p_main(item: dict) -> None:
 
 
 def _main(path: Path) -> None:
-    with path.open(encoding="utf-8") as fp:
-        src = fp.read()
-        item: dict = json.loads(src)
+    src = path.read_text("utf-8")
+    item: dict = json.loads(src)
     _p_main(item)
     target = json.dumps(item, ensure_ascii=False, separators=(",", ":"), indent="\t")
     if src == target:
         return
         print(f"EQ:{path}")
-    with path.open("w", encoding="utf-8") as fp:
-        fp.write(target)
+    path.write_text(target, encoding="utf-8")
 
 
-def _N(path: Path) -> list[Path]:
-    return list(path.glob("*.json"))
+def _N(path: Path) -> Iterable[Path]:
+    return path.glob("*.json")
 
 
 if __name__ == "__main__":
