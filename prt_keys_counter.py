@@ -284,12 +284,11 @@ def analyze_structure(item: Any, target_key="root") -> None:
 
 def walk_dir() -> list[Path]:
     A: list[Path] = []
-    _M = base_path  # noqa: RUF052
     for a in ["PART_5_表情包", "PART_6_main"]:
-        for b in (_M / a).rglob("*.json"):
+        for b in (base_path / a).rglob("*.json"):
             A.append(b.resolve())
-    for a in _M.glob("PART*.jsonl"):
-        A.append(_M / a)
+    for a in base_path.glob("PART*.jsonl"):
+        A.append(base_path / a)
     return A
 
 
@@ -309,7 +308,7 @@ def main():
 
 if __name__ == "__main__":
     output_dir = Path("Z:\\") if os.name == "nt" else Path("/mnt/z/")
-    base_path = Path.cwd()
+    base_path = Path.cwd().resolve()
     t_list: list[Path] = walk_dir() if len(sys.argv) <= 1 else [Path(x) for x in sys.argv[1:]]
 
     if not output_dir.exists():
