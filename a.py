@@ -110,7 +110,7 @@ def replace_value_in_list_dict(
     *,
     recursive=True,
 ) -> None:
-    if (k_or_idx in d_or_lst and isinstance(d_or_lst, dict) and isinstance(d_or_lst[k_or_idx], str)) or (isinstance(d_or_lst, list) and isinstance(k_or_idx, int) and len(d_or_lst) >= k_or_idx):  # type: ignore # noqa: PLR0916, SIM102
+    if (k_or_idx in d_or_lst and isinstance(d_or_lst, dict) and isinstance(d_or_lst[k_or_idx], str)) or (isinstance(d_or_lst, list) and isinstance(k_or_idx, int) and len(d_or_lst) >= k_or_idx):  # type: ignore # noqa: SIM102
         if d_or_lst[k_or_idx] == old_v:  # type:ignore
             d_or_lst[k_or_idx] = new_v  # type:ignore
     if not recursive:
