@@ -27,12 +27,8 @@ def sort_str_list(s: str, /) -> str:
     return ",".join(str(c) for c in b)
 
 
-def sort_list_dict(
-    ld: Sequence[Mapping],
-    k1: str = "item_id",
-    k2: str = "name",
-) -> Sequence[Mapping]:
-    list_temp = [json.loads(i2) for i2 in list({json.dumps(item) for item in ld})]
+def sort_list_dict(ld: Sequence[Mapping], k1: str = "item_id", k2: str = "name") -> Sequence[Mapping]:
+    list_temp = [json.loads(i2) for i2 in sorted({json.dumps(item) for item in ld})]
     items_with_k1 = [item for item in list_temp if item[k1] not in {0, "0"}]
     items_with_k2 = [item for item in list_temp if item[k1] in {0, "0"}]
     items_with_k1.sort(key=lambda x: x[k1])  # noqa: FURB118
@@ -102,14 +98,7 @@ def del_keys(d: Mapping, k: str, v=None, operator: OPR = OPR.EQ, *, recursive=Tr
                     del_keys(item, k, v, operator, recursive=recursive)
 
 
-def replace_value_in_list_dict(
-    d_or_lst: Mapping[str, Any] | list,
-    k_or_idx: int | str,
-    old_v,
-    new_v,
-    *,
-    recursive=True,
-) -> None:
+def replace_value_in_list_dict(d_or_lst: Mapping[str, Any] | list, k_or_idx: int | str, old_v, new_v, *, recursive=True) -> None:
     if (k_or_idx in d_or_lst and isinstance(d_or_lst, dict) and isinstance(d_or_lst[k_or_idx], str)) or (isinstance(d_or_lst, list) and isinstance(k_or_idx, int) and len(d_or_lst) >= k_or_idx):  # type: ignore # noqa: SIM102
         if d_or_lst[k_or_idx] == old_v:  # type:ignore
             d_or_lst[k_or_idx] = new_v  # type:ignore
