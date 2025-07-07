@@ -116,6 +116,7 @@ def _p_main(item: X1) -> None:
     del_keys(item, "sales_mode", 0)
     del_keys(item, "suit_item_id", 0)
     del_keys(item, "suit_items", {})
+    del_keys(item, "properties", {})
     del_keys(item, "tab_id", 0, OPR.EQ)
     del_keys(item, "unlock_items", None)
     replace_str(item, "http://", "https://")
@@ -150,7 +151,7 @@ def _K() -> list[str]:
     for a in ["PART_5_表情包", "PART_6_main"]:
         for b in (_M / a).rglob("*.json"):
             A.append(str(b.resolve()))
-    for a in _M.glob("PART*.jsonl"):
+    for a in _M.rglob("PART*.jsonl"):
         A.append(str(_M / a))
     return A
 
