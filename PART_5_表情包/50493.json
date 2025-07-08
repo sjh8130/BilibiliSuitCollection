@@ -7,7 +7,7 @@
 	"properties":{
 		"addable":"true",
 		"biz":"reply,dynamic,watch_full",
-		"image":"https://i0.hdslb.com/bfs/emote/19cb75f84e819fbdb3d54b951aa3ae6f430d0d17.png",
+		"image":"https://i0.hdslb.com/bfs/activity-plat/static/20230402/b259b7b0f2bb7794ccabec8d9a08f89f/PLY5JnWKgx.png",
 		"item_ids":"50459,50460,50461,50462,50463,50464,50465,50466,50467,50468,50469,50470,50471,50472,50473,50474,50475,50476,50477,50478,50479,50480,50481,50482,50483,50484,50485,50486,50487,50488,50489,50490,50491,50492,51381,51382,51383,51384,51385,52727,52728,52729,52782,54319,55205,55206,55207,55208,55209,55210,55211,55212,55213,55214,55215,57222,57223,57224,58650,58699,65396",
 		"permanent":"false",
 		"preview":"false",
@@ -289,6 +289,15 @@
 				"tab_id":7,
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/emote/b0267c184252052053dc11747241ec20a216a005.png",
+					"sale_type":"vip"
+				}
+			},
+			{
+				"item_id":50489,
+				"name":"[小会员绿豆人_什么]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/emote/1e3e88266d7418a20c0025c745bfe70f75ef8086.png",
 					"sale_type":"vip"
 				}
 			},

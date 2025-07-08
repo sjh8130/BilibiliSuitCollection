@@ -327,12 +327,63 @@
 					"goods_type":"suit",
 					"middle_png":"https://i0.hdslb.com/bfs/garb/d2b23549174bd91e0fa77b7521d1ce65b5e9f268.png",
 					"squared_image":"https://i0.hdslb.com/bfs/baselabs/op/d18fe56d1ab956866798daa0f229405fdf6009c15947fc0c65f1b5916962e042.png",
+					"static_icon_image":"https://i0.hdslb.com/bfs/garb/d2b23549174bd91e0fa77b7521d1ce65b5e9f268.png",
+					"ver":"1728039300"
+				}
+			},
+			{
+				"item_id":1727523308001,
+				"name":"妖精管理局第一弹",
+				"suit_item_id":227254701,
+				"properties":{
+					"drag_left_png":"https://i0.hdslb.com/bfs/garb/6a0f82c60c70c6725f5c84b43543096baa728cea.png",
+					"drag_right_png":"https://i0.hdslb.com/bfs/garb/e9c1aaddc09aa36050e2c6a70e237a1a72c1cc76.png",
+					"goods_type":"suit",
+					"middle_png":"https://i0.hdslb.com/bfs/garb/d2b23549174bd91e0fa77b7521d1ce65b5e9f268.png",
+					"squared_image":"https://i0.hdslb.com/bfs/baselabs/op/d18fe56d1ab956866798daa0f229405fdf6009c15947fc0c65f1b5916962e042.png",
 					"static_icon_image":"https://i0.hdslb.com/bfs/garb/f1d2ca9e31f80b5935af744926b50b20f319fbd0.png",
 					"ver":"1728039300"
 				}
 			}
 		],
 		"skin":[
+			{
+				"item_id":1727522618001,
+				"name":"妖精管理局第一弹",
+				"suit_item_id":227254701,
+				"properties":{
+					"color":"#000000",
+					"color_mode":"light",
+					"color_second_page":"#FFFFFF",
+					"goods_type":"suit",
+					"head_bg":"https://i0.hdslb.com/bfs/garb/f8a33e1383eb88d945a5d830407bc6f32032d68d.png",
+					"head_myself_mp4_bg":"",
+					"head_myself_mp4_play":"loop",
+					"head_myself_squared_bg":"https://i0.hdslb.com/bfs/garb/93add5f0b216c0abe1fa09e80e0410f9e6cce48c.jpg",
+					"head_tab_bg":"https://i0.hdslb.com/bfs/baselabs/op/0a79ac6c287ad02fb6a7ac51fad9bf0e165b5d5578c7ef83cc03bdc9868e5ed1.png",
+					"image_cover":"https://i0.hdslb.com/bfs/garb/25e1baa070471dc903743e38bfbde2c6641e1b50.jpg",
+					"image_preview":"https://i0.hdslb.com/bfs/garb/25e1baa070471dc903743e38bfbde2c6641e1b50.jpg",
+					"package_md5":"ad52b3fee7b8d707867ef53ac1fe8625",
+					"package_url":"https://i0.hdslb.com/bfs/garb/zip/1ce312dcdf9aec7399886f44f40c4d894e9a0a58.zip",
+					"tail_bg":"https://i0.hdslb.com/bfs/garb/f9023846ccfa24578134a989f8d336ffe7a78a48.png",
+					"tail_color":"#000000",
+					"tail_color_selected":"#000000",
+					"tail_icon_channel":"https://i0.hdslb.com/bfs/garb/e9a096f57677f1a035c072b3598641bacbaf44da.png",
+					"tail_icon_dynamic":"https://i0.hdslb.com/bfs/garb/e9a096f57677f1a035c072b3598641bacbaf44da.png",
+					"tail_icon_main":"https://i0.hdslb.com/bfs/garb/e69b5fe065710ed5575d714c70270285c66d5e83.png",
+					"tail_icon_mode":"img",
+					"tail_icon_myself":"https://i0.hdslb.com/bfs/garb/1af04177223805817ae3297e58d0e338d9e8031b.png",
+					"tail_icon_pub_btn_bg":"https://i0.hdslb.com/bfs/garb/4b80eab9eaefeaab64b98a637965ff9c0498bfc6.png",
+					"tail_icon_selected_channel":"https://i0.hdslb.com/bfs/garb/87866de7283064c341d194a4663c56f40ea934e0.png",
+					"tail_icon_selected_dynamic":"https://i0.hdslb.com/bfs/garb/87866de7283064c341d194a4663c56f40ea934e0.png",
+					"tail_icon_selected_main":"https://i0.hdslb.com/bfs/garb/3b041e3971bc4f8350a09d34ebb2c60453d79546.png",
+					"tail_icon_selected_myself":"https://i0.hdslb.com/bfs/garb/a6645248211fe33a27065f3fa5633c9c5f672322.png",
+					"tail_icon_selected_pub_btn_bg":"https://i0.hdslb.com/bfs/garb/4b80eab9eaefeaab64b98a637965ff9c0498bfc6.png",
+					"tail_icon_selected_shop":"https://i0.hdslb.com/bfs/garb/f52edb193793bbd4c44750d414cc58528875be4a.png",
+					"tail_icon_shop":"https://i0.hdslb.com/bfs/garb/25c9eaf8ae9dffbe4a1bdde1d64797f76ce8b109.png",
+					"ver":"1727535207"
+				}
+			},
 			{
 				"item_id":1727522618001,
 				"name":"妖精管理局第一弹",

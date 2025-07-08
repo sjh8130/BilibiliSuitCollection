@@ -322,6 +322,20 @@
 				"name":"三无marblue1",
 				"suit_item_id":301549501,
 				"properties":{
+					"drag_left_png":"https://i0.hdslb.com/bfs/garb/307f7999391229667e0efb06c1add040330ad657.png",
+					"drag_right_png":"https://i0.hdslb.com/bfs/garb/6ffeab6590d0698cc93e10b8d7cda86cb4ab7fb1.png",
+					"goods_type":"suit",
+					"middle_png":"https://i0.hdslb.com/bfs/garb/da4640a6be261324b550b0e103e61ac3ce99f966.png",
+					"squared_image":"https://i0.hdslb.com/bfs/baselabs/op/b9ad339cc0877ce493f428d07506c51321a02f70a68b6dced9a0123bc8a7dce1.png",
+					"static_icon_image":"https://i0.hdslb.com/bfs/garb/b520bcca1559068406ba57985193d4c0333b6a7f.png",
+					"ver":"1737701700"
+				}
+			},
+			{
+				"item_id":1737124547001,
+				"name":"三无marblue1",
+				"suit_item_id":301549501,
+				"properties":{
 					"drag_left_png":"https://i0.hdslb.com/bfs/garb/item/d63c003c38ef20ca2145883c8b430481ebc399d7.png",
 					"drag_right_png":"https://i0.hdslb.com/bfs/garb/item/df2b2ebd068a820d919fabf7389d592046281341.png",
 					"goods_type":"suit",
@@ -373,6 +387,33 @@
 			}
 		],
 		"space_bg":[
+			{
+				"item_id":1737178017001,
+				"name":"三无Marblue",
+				"suit_item_id":301549501,
+				"properties":{
+					"fan_no_color":"#ffffff",
+					"goods_type":"suit",
+					"image1_landscape":"https://i0.hdslb.com/bfs/garb/b696a25569037b718068f7643122ed33a81d4b86.jpg",
+					"image1_portrait":"https://i0.hdslb.com/bfs/garb/b8a345b4f2ae5327222680dcf209bfe4f60b20ee.jpg",
+					"image2_landscape":"https://i0.hdslb.com/bfs/garb/9992f826b2d1ab1cd2372510a2825abffad0b898.jpg",
+					"image2_portrait":"https://i0.hdslb.com/bfs/garb/651b7d2dc5dd91b0c2f0446ab82361f5937c8995.jpg",
+					"image3_landscape":"https://i0.hdslb.com/bfs/garb/1991388c3268288987eced308f1f390aed0ca715.jpg",
+					"image3_portrait":"https://i0.hdslb.com/bfs/garb/60a373738eb83c3bcbe1bbf59ee94db461601ed0.jpg",
+					"image4_landscape":"https://i0.hdslb.com/bfs/garb/56096cae697173040886e7ace60e67afaf4aec06.jpg",
+					"image4_portrait":"https://i0.hdslb.com/bfs/garb/c241dd583b00afab96f4570e34ce85538917ab95.jpg",
+					"image5_landscape":"https://i0.hdslb.com/bfs/garb/7b6874d3ba22fc62f37d64c2ed3706c817619a42.jpg",
+					"image5_portrait":"https://i0.hdslb.com/bfs/garb/a8e4d6add6fb7e10f54225ae26160b6e87f2fd2d.jpg",
+					"image6_landscape":"https://i0.hdslb.com/bfs/garb/44fb9d41f07078b84d14bc98e128c62cc9bbb691.jpg",
+					"image6_portrait":"https://i0.hdslb.com/bfs/garb/c64d6da84b00014517fd4233f5c8b1635b1cc71d.jpg",
+					"image7_landscape":"https://i0.hdslb.com/bfs/garb/67ac93717867d92e8087ebf10a0d01d1d6b419c9.jpg",
+					"image7_portrait":"https://i0.hdslb.com/bfs/garb/1776f91a22c663825fb200f8dfd9183dba1af048.jpg",
+					"image8_landscape":"https://i0.hdslb.com/bfs/garb/c5caf9c1e441919251391d55f60a5a2206527d28.jpg",
+					"image8_portrait":"https://i0.hdslb.com/bfs/garb/815f802dfb6b2cce3a5c7f8e5546cf68b6fe9c52.jpg",
+					"image9_landscape":"https://i0.hdslb.com/bfs/garb/4f896e7910e0d7038254e8c25b5eedbb7e65a122.jpg",
+					"image9_portrait":"https://i0.hdslb.com/bfs/garb/1f122c1d4e44e8d71790695b52ae6059f69b1d35.jpg"
+				}
+			},
 			{
 				"item_id":1737178017001,
 				"name":"三无Marblue",

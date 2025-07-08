@@ -329,6 +329,20 @@
 					"static_icon_image":"https://i0.hdslb.com/bfs/garb/3d4b95fb88a66164bd8037f4b9d3098dcea1bc7f.png",
 					"ver":"1708254000"
 				}
+			},
+			{
+				"item_id":1707385282001,
+				"name":"冬雪莲装扮",
+				"suit_item_id":204370401,
+				"properties":{
+					"drag_left_png":"https://i0.hdslb.com/bfs/garb/b11f4480f3f83588f87153e8725b2e2f05cd06c9.png",
+					"drag_right_png":"https://i0.hdslb.com/bfs/garb/317b409c12b856b7b4469a336398f222c3257790.png",
+					"goods_type":"suit",
+					"middle_png":"https://i0.hdslb.com/bfs/garb/ab5034ea5927c3ccd5411acf219dc4b04f5e62d6.png",
+					"squared_image":"https://i0.hdslb.com/bfs/baselabs/op/1c3264b38f468b263d75feed215c0940719d9b9ee314ca2a5123ab8f8c9d7908.png",
+					"static_icon_image":"https://i0.hdslb.com/bfs/garb/ab5034ea5927c3ccd5411acf219dc4b04f5e62d6.png",
+					"ver":"1708254000"
+				}
 			}
 		],
 		"skin":[
@@ -344,6 +358,44 @@
 					"head_bg":"https://i0.hdslb.com/bfs/garb/f8ef3f4c8276a00d42f38c0bef695512431818c6.jpg",
 					"head_myself_mp4_bg":"__bilivideo__/panguxcodeboss/eb/q7/_00001siebalfx757a2o4j6g7yf6q7eb-1-152111110022.mp4",
 					"head_myself_mp4_bg_list":"[\"__bilivideo__/panguxcodeboss/eb/q7/_00001siebalfx757a2o4j6g7yf6q7eb-1-152111110022.mp4\",\"__bilivideo__/panguxcodeboss/eb/q7/_00001siebalfx757a2o4j6g7yf6q7eb-1-152111110022.mp4\",\"__bilivideo__/panguxcodeboss/eb/q7/_00001siebalfx757a2o4j6g7yf6q7eb-1-152111110022.mp4\"]",
+					"head_myself_mp4_play":"loop",
+					"head_myself_squared_bg":"",
+					"head_tab_bg":"https://i0.hdslb.com/bfs/baselabs/op/4154209cd6d98224e2b334477b3d85067a2be9f27864d015218a07066d7d85a4.png",
+					"image_cover":"https://i0.hdslb.com/bfs/garb/1c638d6a86839288a176840141d56f0ea0695532.png",
+					"image_preview":"https://i0.hdslb.com/bfs/garb/1c638d6a86839288a176840141d56f0ea0695532.png",
+					"package_md5":"5805c4fc47dfd02254bd10970458f17c",
+					"package_url":"https://i0.hdslb.com/bfs/garb/zip/2dac24b0e0a5e014d5600e97e8c3e15650cac278.zip",
+					"tail_bg":"https://i0.hdslb.com/bfs/garb/503aaae8f69feace210b35c26627c8e14658572a.png",
+					"tail_color":"#36006D",
+					"tail_color_selected":"#613CFF",
+					"tail_icon_channel":"https://i0.hdslb.com/bfs/garb/ed87e7e80c91dc8268be3822c3cb1110b15d12fd.png",
+					"tail_icon_dynamic":"https://i0.hdslb.com/bfs/garb/ed87e7e80c91dc8268be3822c3cb1110b15d12fd.png",
+					"tail_icon_main":"https://i0.hdslb.com/bfs/garb/7d5696133142db8615d3fe6cbc79a7f109b0eae7.png",
+					"tail_icon_mode":"img",
+					"tail_icon_myself":"https://i0.hdslb.com/bfs/garb/0aa23768e714b1158863fc215285770c579ad262.png",
+					"tail_icon_pub_btn_bg":"https://i0.hdslb.com/bfs/garb/b6c455a5d3b4c403587ae23d89fc821e2209e344.png",
+					"tail_icon_selected_channel":"https://i0.hdslb.com/bfs/garb/ce6321a587b8702d94bfc70b4c676e8dbeb6c96a.png",
+					"tail_icon_selected_dynamic":"https://i0.hdslb.com/bfs/garb/ce6321a587b8702d94bfc70b4c676e8dbeb6c96a.png",
+					"tail_icon_selected_main":"https://i0.hdslb.com/bfs/garb/44aba70cc4eef353096f78d53a1b5ac5de509853.png",
+					"tail_icon_selected_myself":"https://i0.hdslb.com/bfs/garb/ab1003eab49e275895db5f69396f501bfebb8136.png",
+					"tail_icon_selected_pub_btn_bg":"https://i0.hdslb.com/bfs/garb/b6c455a5d3b4c403587ae23d89fc821e2209e344.png",
+					"tail_icon_selected_shop":"https://i0.hdslb.com/bfs/garb/1a14444b468ebcbd25bed31d5e870dcec7439b00.png",
+					"tail_icon_shop":"https://i0.hdslb.com/bfs/garb/b52f4fc849687f3cb209ad08cbc65eaf2ac081da.png",
+					"ver":"1708318429"
+				}
+			},
+			{
+				"item_id":1707389079001,
+				"name":"東雪蓮·烟火星辰",
+				"suit_item_id":204370401,
+				"properties":{
+					"color":"#000000",
+					"color_mode":"light",
+					"color_second_page":"#C3D4EA",
+					"goods_type":"suit",
+					"head_bg":"https://i0.hdslb.com/bfs/garb/f8ef3f4c8276a00d42f38c0bef695512431818c6.jpg",
+					"head_myself_mp4_bg":"__bilivideo__/panguxcodeboss/eb/q7/_00001siebalfx757a2o4j6g7yf6q7eb-1-152111110022.mp4",
+					"head_myself_mp4_bg_list":"[\"__bilivideo__/panguxcodeboss/eb/q7/_00001siebalfx757a2o4j6g7yf6q7eb-1-152111110022.mp4\"]",
 					"head_myself_mp4_play":"loop",
 					"head_myself_squared_bg":"",
 					"head_tab_bg":"https://i0.hdslb.com/bfs/baselabs/op/4154209cd6d98224e2b334477b3d85067a2be9f27864d015218a07066d7d85a4.png",

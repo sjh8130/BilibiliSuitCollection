@@ -233,6 +233,43 @@
 					"head_bg":"https://i0.hdslb.com/bfs/garb/57a5ce60915b03f6706d119c756e5cf09166a237.jpg",
 					"head_myself_mp4_bg":"",
 					"head_myself_mp4_play":"loop",
+					"head_myself_squared_bg":"https://i0.hdslb.com/bfs/garb/ff7ea611932eaece8ff19245481391787f4557ca.jpg",
+					"head_tab_bg":"https://i0.hdslb.com/bfs/baselabs/op/35650aec5f509133908d68de36360ad930118aeeff0748801f434d326d311513.png",
+					"image_cover":"https://i0.hdslb.com/bfs/garb/9002e9c34d9deb04082786cd9e7b7ffbbee19f66.jpg",
+					"image_preview":"https://i0.hdslb.com/bfs/garb/9002e9c34d9deb04082786cd9e7b7ffbbee19f66.jpg",
+					"package_md5":"cd2694493b1bc784a9ef283ccbf9fb18",
+					"package_url":"https://i0.hdslb.com/bfs/garb/zip/521cf83c1b0636522fdc8a123ef46e56933ddd5b.zip",
+					"tail_bg":"https://i0.hdslb.com/bfs/garb/514405cfb1fef61525ced2eceb402cd7351e4aaa.png",
+					"tail_color":"#3D5D85",
+					"tail_color_selected":"#05152F",
+					"tail_icon_channel":"https://i0.hdslb.com/bfs/garb/aa42e51f7190dd6961bd4e8cfab4a655a9c39c37.png",
+					"tail_icon_dynamic":"https://i0.hdslb.com/bfs/garb/aa42e51f7190dd6961bd4e8cfab4a655a9c39c37.png",
+					"tail_icon_main":"https://i0.hdslb.com/bfs/garb/0bbac1967f2e33c03fe0e92e75e35435f0cdec8d.png",
+					"tail_icon_mode":"img",
+					"tail_icon_myself":"https://i0.hdslb.com/bfs/garb/3e608c80c2b3df56f642dfc81f3768f4e5c3bbfd.png",
+					"tail_icon_pub_btn_bg":"https://i0.hdslb.com/bfs/garb/d592bc8a881d27bd87531fa762706f8d156c79c9.png",
+					"tail_icon_selected_channel":"https://i0.hdslb.com/bfs/garb/17503f8ab718ccd2ddb0b306a5bc62aaa8647f45.png",
+					"tail_icon_selected_dynamic":"https://i0.hdslb.com/bfs/garb/17503f8ab718ccd2ddb0b306a5bc62aaa8647f45.png",
+					"tail_icon_selected_main":"https://i0.hdslb.com/bfs/garb/309c720f621102a49a2d96dc0835e003f27ded27.png",
+					"tail_icon_selected_myself":"https://i0.hdslb.com/bfs/garb/c896ca67f5d48ad4d8486840322d6308d72e9330.png",
+					"tail_icon_selected_pub_btn_bg":"https://i0.hdslb.com/bfs/garb/d592bc8a881d27bd87531fa762706f8d156c79c9.png",
+					"tail_icon_selected_shop":"https://i0.hdslb.com/bfs/garb/3f3c3fde51fa7f38f877e1698277df10d6792f60.png",
+					"tail_icon_shop":"https://i0.hdslb.com/bfs/garb/30bcb1afa449ac217390375d341492b142f1a3db.png",
+					"ver":"1710990336"
+				}
+			},
+			{
+				"item_id":1710921590001,
+				"name":"北极熊个性主题",
+				"suit_item_id":208133201,
+				"properties":{
+					"color":"#ffffff",
+					"color_mode":"dark",
+					"color_second_page":"#2359A4",
+					"goods_type":"suit",
+					"head_bg":"https://i0.hdslb.com/bfs/garb/57a5ce60915b03f6706d119c756e5cf09166a237.jpg",
+					"head_myself_mp4_bg":"",
+					"head_myself_mp4_play":"loop",
 					"head_myself_squared_bg":"https://i0.hdslb.com/bfs/garb/item/e79950fd2b55833f3ac13319c1d623650156c56f.png",
 					"head_tab_bg":"https://i0.hdslb.com/bfs/baselabs/op/35650aec5f509133908d68de36360ad930118aeeff0748801f434d326d311513.png",
 					"image_cover":"https://i0.hdslb.com/bfs/garb/item/344719c605cb4fbfc325a4f0a7f0145ef8c6ec61.png",
@@ -260,6 +297,19 @@
 			}
 		],
 		"space_bg":[
+			{
+				"item_id":1710920225001,
+				"name":"北极熊第一套空间背景",
+				"suit_item_id":208133201,
+				"properties":{
+					"fan_no_color":"#ffffff",
+					"goods_type":"suit",
+					"image1_landscape":"https://i0.hdslb.com/bfs/garb/5680a4dc3f6e17047f56662334f42f66e2aa1d7a.jpg",
+					"image1_portrait":"https://i0.hdslb.com/bfs/garb/7eee687b8f73e87c58ea8a8a9cd80c95b916f480.jpg",
+					"image2_landscape":"https://i0.hdslb.com/bfs/garb/620e90e33952ed02aef81734fc512d64d9d44996.jpg",
+					"image2_portrait":"https://i0.hdslb.com/bfs/garb/4e41cb299f7a54a432c95044c1f958dfc26450e7.jpg"
+				}
+			},
 			{
 				"item_id":1710920225001,
 				"name":"北极熊第一套空间背景",
