@@ -2,7 +2,7 @@
 	"id":1,
 	"text":"小黄脸",
 	"url":"https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
-	"mtime":1748512664,
+	"mtime":1751436738,
 	"type":1,
 	"attr":322,
 	"meta":{
@@ -2335,6 +2335,42 @@
 			"meta":{
 				"size":1,
 				"alias":"哇哦"
+			}
+		},
+		{
+			"id":114237,
+			"package_id":1,
+			"text":"[黑猫]",
+			"url":"https://i0.hdslb.com/bfs/emote/6bd61d4f5c29c17098f31dfb6ce2140dd2b728a8.png",
+			"mtime":1751436522,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"黑猫"
+			}
+		},
+		{
+			"id":114238,
+			"package_id":1,
+			"text":"[三花猫]",
+			"url":"https://i0.hdslb.com/bfs/emote/3a36c1f88956996b31a835c13041f4d505f2e2e0.png",
+			"mtime":1751436738,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"三花猫"
+			}
+		},
+		{
+			"id":114239,
+			"package_id":1,
+			"text":"[折耳猫]",
+			"url":"https://i0.hdslb.com/bfs/emote/4a09dc958bdd82391ba97af0d09dab0925c5b46c.png",
+			"mtime":1751436738,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"折耳猫"
 			}
 		}
 	]
