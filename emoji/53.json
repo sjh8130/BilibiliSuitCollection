@@ -2,7 +2,7 @@
 	"id":53,
 	"text":"热词系列一",
 	"url":"https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
-	"mtime":1750046366,
+	"mtime":1752072762,
 	"type":1,
 	"attr":2,
 	"meta":{
@@ -1247,6 +1247,18 @@
 				"label_text":"限时",
 				"label_color":"#FF20AAe2",
 				"alias":"你是这个"
+			}
+		},
+		{
+			"id":114875,
+			"package_id":53,
+			"text":"[热词系列_发刀大队]",
+			"url":"https://i0.hdslb.com/bfs/emote/4d2f556dea78a37f5dbb1d99a6576b2d38ce582f.png",
+			"mtime":1752072587,
+			"type":1,
+			"meta":{
+				"size":2,
+				"alias":"发刀大队"
 			}
 		}
 	]
