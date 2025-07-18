@@ -49,7 +49,7 @@ def _N(path: Path) -> Iterable[Path]:
 
 if __name__ == "__main__":
     try:
-        for file in tqdm(_N(Path.cwd() / "emoji") if len(sys.argv) <= 1 else [Path(x) for x in sys.argv[1:]]):
+        for file in tqdm(_N(Path.cwd() / "emoji") if len(sys.argv) <= 1 else [Path(x) for x in sys.argv[1:]], total=10000):
             _main(file)
     except Exception as e:
         log.exception(str(file))  # type: ignore
