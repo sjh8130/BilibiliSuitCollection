@@ -2,7 +2,7 @@
 	"id":53,
 	"text":"热词系列一",
 	"url":"https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
-	"mtime":1752072762,
+	"mtime":1753329943,
 	"type":1,
 	"attr":2,
 	"meta":{
@@ -1259,6 +1259,30 @@
 			"meta":{
 				"size":2,
 				"alias":"发刀大队"
+			}
+		},
+		{
+			"id":116115,
+			"package_id":53,
+			"text":"[热词系列_道友请了]",
+			"url":"https://i0.hdslb.com/bfs/emote/94efa372b3a7388aad265b4678241f07081bffb3.png",
+			"mtime":1753327544,
+			"type":1,
+			"meta":{
+				"size":2,
+				"alias":"道友请了"
+			}
+		},
+		{
+			"id":116116,
+			"package_id":53,
+			"text":"[热词系列_念头通达]",
+			"url":"https://i0.hdslb.com/bfs/emote/6519460319141c9684e14b986d53fcf39b39347b.png",
+			"mtime":1753327544,
+			"type":1,
+			"meta":{
+				"size":2,
+				"alias":"念头通达"
 			}
 		}
 	]
