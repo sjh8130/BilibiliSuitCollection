@@ -9,8 +9,8 @@ j = _M / "🗑.json"
 
 
 def _O():
-    a = []
-    b = []
+    a: list[int] = []
+    b: list[int] = []
     c = _M / IDCSV
     with c.open(encoding="utf-8") as file:
         reader = csv.reader(file, delimiter=",")
@@ -24,7 +24,7 @@ def _O():
 
 
 def main():
-    a = json.loads(j.read_text("utf-8"))
+    a: list[int] = json.loads(j.read_text("utf-8"))
     b, c = _O()
     for d in c:
         a.append(d)
