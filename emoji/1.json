@@ -2,7 +2,7 @@
 	"id":1,
 	"text":"小黄脸",
 	"url":"https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
-	"mtime":1752158131,
+	"mtime":1753676767,
 	"type":1,
 	"attr":322,
 	"meta":{
@@ -2371,6 +2371,78 @@
 			"meta":{
 				"size":1,
 				"alias":"折耳猫"
+			}
+		},
+		{
+			"id":115042,
+			"package_id":1,
+			"text":"[FGO_wink]",
+			"url":"https://i0.hdslb.com/bfs/emote/2faa79d03fe40dba69b014d1908efb94780700a9.png",
+			"mtime":1753676767,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"wink"
+			}
+		},
+		{
+			"id":116453,
+			"package_id":1,
+			"text":"[FGO_燃尽]",
+			"url":"https://i0.hdslb.com/bfs/emote/ec452d2a6caa86333e9d0bbf1badd3d554128b4e.png",
+			"mtime":1753676767,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"燃尽"
+			}
+		},
+		{
+			"id":116454,
+			"package_id":1,
+			"text":"[FGO_困]",
+			"url":"https://i0.hdslb.com/bfs/emote/760a0f88213b2a27e1c566dd9cd6eff64984285a.png",
+			"mtime":1753676767,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"困"
+			}
+		},
+		{
+			"id":116455,
+			"package_id":1,
+			"text":"[FGO_加油]",
+			"url":"https://i0.hdslb.com/bfs/emote/1ac3d29dda3660d0f4e4be4ac3478cd01e5e4502.png",
+			"mtime":1753676767,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"加油"
+			}
+		},
+		{
+			"id":116456,
+			"package_id":1,
+			"text":"[FGO_干饭]",
+			"url":"https://i0.hdslb.com/bfs/emote/4e415a5da552265b01264321a7609982b4e8778f.png",
+			"mtime":1753676767,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"干饭"
+			}
+		},
+		{
+			"id":116457,
+			"package_id":1,
+			"text":"[FGO_点赞]",
+			"url":"https://i0.hdslb.com/bfs/emote/bd43daa7e0fcd07bae5eedcc7e9f5e0b7f528514.png",
+			"mtime":1753676767,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"点赞"
 			}
 		}
 	]
