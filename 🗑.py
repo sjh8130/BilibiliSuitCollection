@@ -24,11 +24,15 @@ def _O():
 
 
 def main():
-    a: list[int] = json.loads(j.read_text("utf-8"))
+    f = j.read_text("utf-8")
+    a: list[int] = json.loads(f)
     b, c = _O()
     for d in c:
         a.append(d)
-    j.write_text(json.dumps(sorted(set(a)), indent="\t"))
+    g = json.dumps(sorted(set(a)), indent="\t")
+    if g == f:
+        return
+    j.write_text(g)
 
 
 if __name__ == "__main__":
