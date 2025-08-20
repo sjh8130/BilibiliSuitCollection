@@ -2,7 +2,7 @@
 	"id":1,
 	"text":"小黄脸",
 	"url":"https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
-	"mtime":1753676767,
+	"mtime":1754652281,
 	"type":1,
 	"attr":322,
 	"meta":{
@@ -2443,6 +2443,18 @@
 			"meta":{
 				"size":1,
 				"alias":"点赞"
+			}
+		},
+		{
+			"id":117447,
+			"package_id":1,
+			"text":"[怪兽8号_奇可露]",
+			"url":"https://i0.hdslb.com/bfs/emote/694a2bc638d2242e379d802715d29536357f9d36.png",
+			"mtime":1754652281,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"奇可露"
 			}
 		}
 	]
