@@ -1,8 +1,8 @@
 {
 	"id":8343,
 	"text":"机动战士高达UC",
-	"url":"https://i0.hdslb.com/bfs/garb/17b3ee644cd8554474ec39981ab508cefeaa5ae4.png",
-	"mtime":1751965201,
+	"url":"https://i0.hdslb.com/bfs/garb/item/17b3ee644cd8554474ec39981ab508cefeaa5ae4.png",
+	"mtime":1754557797,
 	"type":3,
 	"attr":28,
 	"meta":{
@@ -23,6 +23,18 @@
 			}
 		},
 		{
+			"id":114764,
+			"package_id":8343,
+			"text":"[机动战士高达UC_NTD启动]",
+			"url":"https://i0.hdslb.com/bfs/garb/item/7e23778b2b0d4d1126632b8c893ba252a0a4d186.png",
+			"mtime":1754557797,
+			"type":3,
+			"meta":{
+				"size":2,
+				"alias":"NTD启动"
+			}
+		},
+		{
 			"id":114765,
 			"package_id":8343,
 			"text":"[机动战士高达UC_悲伤]",
@@ -35,11 +47,35 @@
 			}
 		},
 		{
+			"id":114765,
+			"package_id":8343,
+			"text":"[机动战士高达UC_悲伤]",
+			"url":"https://i0.hdslb.com/bfs/garb/item/ee6a100f48d058a44fe9a85c1aa02521ee53fe46.png",
+			"mtime":1754557797,
+			"type":3,
+			"meta":{
+				"size":2,
+				"alias":"悲伤"
+			}
+		},
+		{
 			"id":114766,
 			"package_id":8343,
 			"text":"[机动战士高达UC_嗯！]",
 			"url":"https://i0.hdslb.com/bfs/garb/03ecb2587086f0ec510d6d14ad8dbd7c97b8a342.png",
 			"mtime":1751965201,
+			"type":3,
+			"meta":{
+				"size":2,
+				"alias":"嗯！"
+			}
+		},
+		{
+			"id":114766,
+			"package_id":8343,
+			"text":"[机动战士高达UC_嗯！]",
+			"url":"https://i0.hdslb.com/bfs/garb/item/3f36809e9af52f65cc0aee5d6891290d58041029.png",
+			"mtime":1754557797,
 			"type":3,
 			"meta":{
 				"size":2,
