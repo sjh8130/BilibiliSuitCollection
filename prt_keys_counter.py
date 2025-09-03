@@ -24,6 +24,7 @@ if 1:
         "root.suit_items.pendant",
         "root.suit_items.play_icon",
         "root.suit_items.skin",
+        "root.suit_items.skin[IDX].properties.head_myself_mp4_bg_list"
         "root.suit_items.space_bg",
         "root.suit_items.thumbup",
     }
@@ -230,6 +231,10 @@ if 1:
         "root.properties.image10_portrait",
         "root.properties.image11_portrait",
     }
+if 0:
+    DONT_CARE_INDEX_LIST = set()
+if 1:
+    IGNORE_LIST = set()
 
 
 def sort_final(item):
