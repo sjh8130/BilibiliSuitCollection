@@ -2,7 +2,7 @@
 	"id":53,
 	"text":"热词系列一",
 	"url":"https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
-	"mtime":1754637166,
+	"mtime":1756825884,
 	"type":1,
 	"attr":2,
 	"meta":{
@@ -1297,6 +1297,34 @@
 				"label_text":"限时",
 				"label_color":"#FF20AAe2",
 				"alias":"闪闪发光"
+			}
+		},
+		{
+			"id":119846,
+			"package_id":53,
+			"text":"[热词系列_夸夸]",
+			"url":"https://i0.hdslb.com/bfs/emote/6004624413881770636a9fe0ec8dd65403879533.png",
+			"mtime":1756823043,
+			"type":8,
+			"meta":{
+				"size":2,
+				"label_text":"限时",
+				"label_color":"#FF20AAe2",
+				"alias":"夸夸"
+			}
+		},
+		{
+			"id":119847,
+			"package_id":53,
+			"text":"[热词系列_大好人]",
+			"url":"https://i0.hdslb.com/bfs/emote/cca7ac3bfacae8f6cb721b6b0fa5d75ee0e00220.png",
+			"mtime":1756823043,
+			"type":8,
+			"meta":{
+				"size":2,
+				"label_text":"限时",
+				"label_color":"#FF20AAe2",
+				"alias":"大好人"
 			}
 		}
 	]
