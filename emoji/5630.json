@@ -2,7 +2,7 @@
 	"id":5630,
 	"text":"百里浪丶（充电）",
 	"url":"https://i0.hdslb.com/bfs/garb/3d851368f4afa5c2f9c7c28bee8f159b121fed83.png",
-	"mtime":1755876216,
+	"mtime":1755921375,
 	"type":12,
 	"attr":28,
 	"meta":{
@@ -10,6 +10,18 @@
 		"item_url":"https://www.bilibili.com/h5/upower/index?navhide=1&mid=43831821&prePage=emote"
 	},
 	"emote":[
+		{
+			"id":82678,
+			"package_id":5630,
+			"text":"[UPOWER_43831821_点赞]",
+			"url":"https://i0.hdslb.com/bfs/garb/65bd6e53eeca394f4a377951e12f443eaf5ef060.png",
+			"mtime":1755876239,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"点赞"
+			}
+		},
 		{
 			"id":82678,
 			"package_id":5630,
