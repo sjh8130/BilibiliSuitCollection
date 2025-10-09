@@ -2,7 +2,7 @@
 	"id":8769,
 	"text":"妮姬抖抖&弹弹",
 	"url":"https://i0.hdslb.com/bfs/emote/f18a9f838111bff1834996b8d7454a742051509b.png",
-	"mtime":1758699015,
+	"mtime":1758708389,
 	"type":3,
 	"attr":28,
 	"meta":{
@@ -141,6 +141,20 @@
 		{
 			"id":121783,
 			"package_id":8769,
+			"text":"[妮姬抖抖&弹弹_玛丽安抖抖]",
+			"url":"https://i0.hdslb.com/bfs/emote/056ace4300874e76ec06d850b974b76dabb9fb34.png",
+			"gif_url":"https://i0.hdslb.com/bfs/emote/60ccb002ffd5d036599108a132c63166c71f30c6.gif",
+			"mtime":1758708389,
+			"type":3,
+			"meta":{
+				"size":2,
+				"alias":"玛丽安抖抖"
+			},
+			"webp_url":"https://i0.hdslb.com/bfs/emote/5aa307b4ea5e578a9e2a42263e3f08631ff5ce46.webp"
+		},
+		{
+			"id":121783,
+			"package_id":8769,
 			"text":"[妮姬抖抖&弹弹_玛丽安抖]",
 			"url":"https://i0.hdslb.com/bfs/emote/056ace4300874e76ec06d850b974b76dabb9fb34.png",
 			"gif_url":"https://i0.hdslb.com/bfs/emote/60ccb002ffd5d036599108a132c63166c71f30c6.gif",
@@ -177,6 +191,20 @@
 			"meta":{
 				"size":2,
 				"alias":"普丽瓦抖抖"
+			},
+			"webp_url":"https://i0.hdslb.com/bfs/emote/beae2706d63176e5df756da76f50e0e2ef91a825.webp"
+		},
+		{
+			"id":121805,
+			"package_id":8769,
+			"text":"[妮姬抖抖&弹弹_普丽瓦蒂抖抖]",
+			"url":"https://i0.hdslb.com/bfs/emote/81884dc64b47e954782445a3c3ea99cee3f4cb27.png",
+			"gif_url":"https://i0.hdslb.com/bfs/emote/558553c6df5498b3311b79dc1ad0c5294c751689.gif",
+			"mtime":1758708389,
+			"type":3,
+			"meta":{
+				"size":2,
+				"alias":"普丽瓦蒂抖抖"
 			},
 			"webp_url":"https://i0.hdslb.com/bfs/emote/beae2706d63176e5df756da76f50e0e2ef91a825.webp"
 		},
