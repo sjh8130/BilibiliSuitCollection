@@ -2,6 +2,8 @@ import json
 import sys
 from pathlib import Path
 
+import tqdm
+
 
 def _main(path: Path) -> None:
     with path.open(encoding="utf-8") as fp:
@@ -14,11 +16,12 @@ def _main(path: Path) -> None:
 if __name__ == "__main__":
     try:
         files = sys.argv[1:]
-        for file in files:
+        for file in tqdm.tqdm(files):
             _main(Path(file))
-    except Exception:
+    except Exception as e:
         import time
 
+        print(e)
         time.sleep(10)
     finally:
         pass
