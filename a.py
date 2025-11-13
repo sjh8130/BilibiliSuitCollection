@@ -27,17 +27,17 @@ def sort_str_list(s: str, /) -> str:
     return ",".join(str(c) for c in b)
 
 
-def sort_list_dict(ld: Sequence[Mapping], k1: str = "item_id", k2: str = "name") -> Sequence[Mapping]:
+def sort_list_dict(ld: Sequence[Mapping[str, Any]], k1: str = "item_id", k2: str = "name") -> Sequence[Mapping[str, Any]]:
     list_temp = [json.loads(i2) for i2 in sorted({json.dumps(item) for item in ld})]
     items_with_k1 = [item for item in list_temp if item[k1] not in {0, "0"}]
     items_with_k2 = [item for item in list_temp if item[k1] in {0, "0"}]
     items_with_k1.sort(key=lambda x: x[k1])  # noqa: FURB118
     items_with_k2.sort(key=lambda x: x[k2])  # noqa: FURB118
-    ld[:] = items_with_k1 + items_with_k2  # type: ignore
+    ld[:] = items_with_k1 + items_with_k2  # pyright: ignore[reportIndexIssue]
     return items_with_k1 + items_with_k2
 
 
-def sort_p6_emoji(ld: list[Mapping], /) -> list[Mapping]:
+def sort_p6_emoji(ld: list[Mapping[str, Any]], /) -> list[Mapping[str, Any]]:
     for i in range(len(ld)):
         if isinstance(ld[i].get("properties"), dict) and isinstance(ld[i]["properties"].get("item_ids"), str):
             ld[i]["properties"]["item_ids"] = sort_str_list(ld[i]["properties"]["item_ids"])
@@ -45,13 +45,16 @@ def sort_p6_emoji(ld: list[Mapping], /) -> list[Mapping]:
     return ld
 
 
-def del_keys(d: Mapping, k: str, v=None, operator: OPR = OPR.EQ, *, recursive=True) -> None:
+def del_keys(d: Mapping[str, Any], k: str, v=None, operator: OPR = OPR.EQ, *, recursive=True) -> None:
     if isinstance(d, dict) and k in d and (type(d[k]) is type(v) or operator in {OPR.IN, OPR.ANY}):
         match operator:
             case OPR.EQ:
                 if d.get(k) == v:
                     d.pop(k)
-            case OPR.IN | OPR.ANY:
+            case OPR.IN:
+                if k in d and d.get(k) in v:  # pyright: ignore[reportOperatorIssue]
+                    d.pop(k, None)
+            case OPR.ANY:
                 d.pop(k, None)
             case OPR.GT:
                 if isinstance(d[k], (int, float)) and d[k] > v:
@@ -93,29 +96,29 @@ def del_keys(d: Mapping, k: str, v=None, operator: OPR = OPR.EQ, *, recursive=Tr
         if isinstance(d[key], dict):
             del_keys(d[key], k, v, operator, recursive=recursive)
         elif isinstance(d[key], list):
-            for item in d[key]:  # type: ignore
+            for item in d[key]:
                 if isinstance(item, dict):
                     del_keys(item, k, v, operator, recursive=recursive)
 
 
 def replace_value_in_list_dict(d_or_lst: Mapping[str, Any] | list, k_or_idx: int | str, old_v, new_v, *, recursive=True) -> None:
-    if (k_or_idx in d_or_lst and isinstance(d_or_lst, dict) and isinstance(d_or_lst[k_or_idx], str)) or (isinstance(d_or_lst, list) and isinstance(k_or_idx, int) and len(d_or_lst) >= k_or_idx):  # type: ignore # noqa: SIM102
-        if d_or_lst[k_or_idx] == old_v:  # type:ignore
-            d_or_lst[k_or_idx] = new_v  # type:ignore
+    if (k_or_idx in d_or_lst and isinstance(d_or_lst, dict) and isinstance(d_or_lst[k_or_idx], str)) or (isinstance(d_or_lst, list) and isinstance(k_or_idx, int) and len(d_or_lst) >= k_or_idx):  # pyright: ignore[reportArgumentType] # noqa: SIM102
+        if d_or_lst[k_or_idx] == old_v:  # pyright: ignore[reportCallIssue, reportArgumentType]
+            d_or_lst[k_or_idx] = new_v  # pyright: ignore[reportCallIssue, reportArgumentType]
     if not recursive:
         return
     for key in d_or_lst:
-        if isinstance(d_or_lst[key], dict):  # type: ignore
-            replace_value_in_list_dict(d_or_lst[key], k_or_idx, old_v, new_v, recursive=recursive)  # type: ignore
-        elif isinstance(d_or_lst[key], list):  # type: ignore
-            for index, item in enumerate(d_or_lst[key]):  # type: ignore
+        if isinstance(d_or_lst[key], dict):  # pyright: ignore[reportArgumentType, reportCallIssue]
+            replace_value_in_list_dict(d_or_lst[key], k_or_idx, old_v, new_v, recursive=recursive)  # pyright: ignore[reportArgumentType, reportCallIssue]
+        elif isinstance(d_or_lst[key], list):  # pyright: ignore[reportArgumentType, reportCallIssue]
+            for index, item in enumerate(d_or_lst[key]):  # pyright: ignore[reportArgumentType, reportCallIssue]
                 if isinstance(item, dict):
                     replace_value_in_list_dict(item, index, old_v, new_v, recursive=recursive)
                 elif isinstance(item, list):
-                    replace_value_in_list_dict(d_or_lst[key], index, old_v, new_v, recursive=recursive)  # type: ignore
+                    replace_value_in_list_dict(d_or_lst[key], index, old_v, new_v, recursive=recursive)  # pyright: ignore[reportArgumentType, reportCallIssue]
 
 
-def replace_str(d: Mapping | Sequence[str], old: str, new: str, count: int = -1, *, recursive=True) -> None:
+def replace_str(d: Mapping[str, Any] | Sequence[str], old: str, new: str, count: int = -1, *, recursive=True) -> None:
     if not isinstance(d, (dict, list)):
         return
     if not recursive:
@@ -206,6 +209,12 @@ class SuitItems(TypedDict):
     properties: Properties
 
 
+class FanUser(TypedDict):
+    avatar: str
+    mid: int
+    username: str
+
+
 class CurrentNextActivity(TypedDict):
     type: int
     time_limit: bool
@@ -240,6 +249,45 @@ class X1(TypedDict):
     jump_link: str
     sales_mode: int
     suit_items: dict[str, list[SuitItems]]
-    fan_user: int
+    fan_user: FanUser
     unlock_items: int
     activity_entrance: int
+
+
+class EmoteMeta(TypedDict):
+    size: int
+    item_id: int
+    alias: str
+    label_text: str
+    label_color: str
+
+
+class EmoteFlags(TypedDict):
+    added: bool
+    no_access: bool
+    preview: bool
+    unlocked: bool
+
+
+class EmoteEmote(TypedDict):
+    id: int
+    package_id: int
+    text: str
+    url: str
+    gif_url: str
+    webp_url: str
+    mtime: int
+    type: int
+    meta: EmoteMeta
+
+
+class Emote(TypedDict):
+    id: int
+    text: str
+    url: str
+    mtime: int
+    type: int
+    attr: int
+    meta: EmoteMeta
+    emote: list[EmoteEmote]
+    flags: EmoteMeta

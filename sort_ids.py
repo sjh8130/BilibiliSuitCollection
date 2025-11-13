@@ -32,25 +32,25 @@ def _p_main(item: X1) -> None:
             item[P]["fan_item_ids"] = sort_str_list(item[P]["fan_item_ids"])
     if isinstance(item.get(S), dict):
         if isinstance(item[S].get("emoji"), list):
-            sort_list_dict(item[S]["emoji"])  # type: ignore
+            sort_list_dict(item[S]["emoji"])
         if isinstance(item[S].get("card"), list):
-            sort_list_dict(item[S]["card"])  # type: ignore
+            sort_list_dict(item[S]["card"])
         if isinstance(item[S].get("card_bg"), list):
-            sort_list_dict(item[S]["card_bg"])  # type: ignore
+            sort_list_dict(item[S]["card_bg"])
         if isinstance(item[S].get("loading"), list):
-            sort_list_dict(item[S]["loading"])  # type: ignore
+            sort_list_dict(item[S]["loading"])
         if isinstance(item[S].get("pendant"), list):
-            sort_list_dict(item[S]["pendant"])  # type: ignore
+            sort_list_dict(item[S]["pendant"])
         if isinstance(item[S].get("play_icon"), list):
-            sort_list_dict(item[S]["play_icon"])  # type: ignore
+            sort_list_dict(item[S]["play_icon"])
         if isinstance(item[S].get("skin"), list):
-            sort_list_dict(item[S]["skin"])  # type: ignore
+            sort_list_dict(item[S]["skin"])
         if isinstance(item[S].get("space_bg"), list):
-            sort_list_dict(item[S]["space_bg"])  # type: ignore
+            sort_list_dict(item[S]["space_bg"])
         if isinstance(item[S].get("thumbup"), list):
-            sort_list_dict(item[S]["thumbup"])  # type: ignore
+            sort_list_dict(item[S]["thumbup"])
         if isinstance(item[S].get("emoji_package"), list):
-            sort_p6_emoji(item[S]["emoji_package"])  # type: ignore
+            sort_p6_emoji(item[S]["emoji_package"])  # pyright: ignore[reportArgumentType]
     match c:
         case 1:
             pass
@@ -64,7 +64,7 @@ def _p_main(item: X1) -> None:
             pass
         case 6:
             with contextlib.suppress(KeyError):
-                del item["fan_user"]["avatar"]  # type: ignore
+                del item["fan_user"]["avatar"]  # pyright: ignore[reportGeneralTypeIssues]
         case 7:
             pass
         case 8:
@@ -149,10 +149,8 @@ def _K() -> list[str]:
     A: list[str] = []
     _M = base_path  # noqa: RUF052
     for a in ["PART_5_表情包", "PART_6_main"]:
-        for b in (_M / a).rglob("*.json"):
-            A.append(str(b.resolve()))
-    for a in _M.rglob("PART*.jsonl"):
-        A.append(str(_M / a))
+        A.extend(str(b.resolve()) for b in (_M / a).rglob("*.json"))
+    A.extend(str(_M / a) for a in _M.rglob("PART*.jsonl"))
     return A
 
 
@@ -164,7 +162,7 @@ if __name__ == "__main__":
         for file in tqdm(t_list):
             _main(file)
     except Exception as e:
-        log.error(file)  # type: ignore
+        log.error(file)  # pyright: ignore[reportPossiblyUnboundVariable]
         log.exception(e)
     finally:
         pass
