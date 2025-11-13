@@ -6,17 +6,15 @@ from pathlib import Path
 from loguru import logger
 from tqdm import tqdm
 
-from a import OPR, del_keys, replace_str, sort_list_dict
+from a import OPR, Emote, del_keys, replace_str, sort_list_dict
 
 log = logger.bind(user="S.ei")
 
 
-def _p_main(item: dict) -> None:
+def _p_main(item: Emote) -> None:
     # print(item["id"])
     del_keys(item, "suggest", [""])
-    del_keys(item, "flags", {})
-    del_keys(item, "flags", {"no_access": True, "unlocked": False})
-    del_keys(item, "flags", {"no_access": True})
+    del_keys(item, "flags", operator=OPR.ANY)
     del_keys(item, "activity", None, OPR.ANY)
     del_keys(item, "sale_promo", None, OPR.ANY)
     del_keys(item, "label", None)
@@ -34,7 +32,7 @@ def _p_main(item: dict) -> None:
 
 def _main(path: Path) -> None:
     src = path.read_text("utf-8")
-    item: dict = json.loads(src)
+    item: Emote = json.loads(src)
     _p_main(item)
     target = json.dumps(item, ensure_ascii=False, separators=(",", ":"), indent="\t")
     if src == target:
@@ -52,7 +50,7 @@ if __name__ == "__main__":
         for file in tqdm(_N(Path.cwd() / "emoji") if len(sys.argv) <= 1 else [Path(x) for x in sys.argv[1:]], total=10000):
             _main(file)
     except Exception as e:
-        log.exception(str(file))  # type: ignore
+        log.exception(str(file))  # pyright: ignore[reportPossiblyUnboundVariable]
         log.exception(e)
     finally:
         pass

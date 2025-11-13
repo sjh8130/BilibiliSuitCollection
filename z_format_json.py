@@ -18,7 +18,7 @@ if __name__ == "__main__":
         files = sys.argv[1:]
         for file in tqdm.tqdm(files):
             _main(Path(file))
-    except Exception as e:
+    except Exception as e:  # noqa: BLE001
         import time
 
         print(e)

@@ -2,7 +2,7 @@
 	"id":1,
 	"text":"小黄脸",
 	"url":"https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
-	"mtime":1760080766,
+	"mtime":1762163973,
 	"type":1,
 	"attr":322,
 	"meta":{
@@ -2467,6 +2467,42 @@
 			"meta":{
 				"size":1,
 				"alias":"justaway"
+			}
+		},
+		{
+			"id":124985,
+			"package_id":1,
+			"text":"[鸭科夫_流汗鸭]",
+			"url":"https://i0.hdslb.com/bfs/emote/b49b325224cef1ef8313728022aa86e93e65bd08.png",
+			"mtime":1762163627,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"流汗鸭"
+			}
+		},
+		{
+			"id":124986,
+			"package_id":1,
+			"text":"[鸭科夫_干嘛鸭]",
+			"url":"https://i0.hdslb.com/bfs/emote/2e67293d703e6501d7a639870477cbcc16277a23.png",
+			"mtime":1762163627,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"干嘛鸭"
+			}
+		},
+		{
+			"id":124987,
+			"package_id":1,
+			"text":"[鸭科夫_红温鸭]",
+			"url":"https://i0.hdslb.com/bfs/emote/3ff2737eb4d78fba74f37276d99755ee5df621b8.png",
+			"mtime":1762163627,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"红温鸭"
 			}
 		}
 	]
