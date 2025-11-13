@@ -290,10 +290,8 @@ def analyze_structure(item: Any, target_key="root") -> None:
 def walk_dir() -> list[Path]:
     A: list[Path] = []
     for a in ["PART_5_表情包", "PART_6_main"]:
-        for b in (base_path / a).rglob("*.json"):
-            A.append(b.resolve())
-    for a in base_path.glob("PART*.jsonl"):
-        A.append(base_path / a)
+        A.extend(b.resolve() for b in (base_path / a).rglob("*.json"))
+    A.extend(base_path / a for a in base_path.glob("PART*.jsonl"))
     return A
 
 
