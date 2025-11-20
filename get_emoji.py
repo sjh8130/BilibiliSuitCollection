@@ -41,20 +41,13 @@ class EmoteMain(TypedDict):
 
 
 def walk_dir() -> list[Path]:
-    A: list[Path] = []
-    for b in (base_path / "emoji").rglob("*.json"):
-        A.append(b.resolve())
-    return A
+    return [b.resolve() for b in (base_path / "emoji").rglob("*.json")]
 
 
 def main():
     for p in tqdm(t_list):
-        with p.open(encoding="utf-8") as fp:
-            item: EmoteMain = json.load(fp)
-            if "emote" in item:
-                for x in item["emote"]:
-                    result.append(x["text"])
-    return result
+        item: EmoteMain = json.loads(p.read_text("utf-8"))
+        result.extend(x["text"] for x in item.get("emote", []))
 
 
 if __name__ == "__main__":
@@ -64,8 +57,8 @@ if __name__ == "__main__":
 
     if not output_dir.exists():
         output_dir.mkdir()
-    if os.path.exists(output_dir / "emoji_result.json"):
-        with open(output_dir / "emoji_result.json", "r", encoding="utf-8") as fp:
+    if (output_dir / "emoji_result.json").exists():
+        with open(output_dir / "emoji_result.json", encoding="utf-8") as fp:
             result = json.load(fp)
     start_time = time.time()
     main()
