@@ -11,20 +11,22 @@ from tqdm import tqdm
 result: dict = {}
 if 1:
     DONT_CARE_INDEX_SEP: str = "IDX"
-    SW1 = False
+    SW1 = True
     DONT_CARE_INDEX_LIST = {
         "root.finish_sources",
+        "root.properties.preview_imgs",
+        "root.properties.public_time_line",
         "root.suit_items.card_bg",
         "root.suit_items.card",
         "root.suit_items.emoji_package",
-        "root.suit_items.emoji_package[IDX].items",
-        "root.suit_items.emoji_package[IDX].properties.item_emoji_list",
+        f"root.suit_items.emoji_package[{DONT_CARE_INDEX_SEP}].items",
+        f"root.suit_items.emoji_package[{DONT_CARE_INDEX_SEP}].properties.item_emoji_list",
         "root.suit_items.emoji",
         "root.suit_items.loading",
         "root.suit_items.pendant",
         "root.suit_items.play_icon",
         "root.suit_items.skin",
-        "root.suit_items.skin[IDX].properties.head_myself_mp4_bg_list"
+        f"root.suit_items.skin[{DONT_CARE_INDEX_SEP}].properties.head_myself_mp4_bg_list",
         "root.suit_items.space_bg",
         "root.suit_items.thumbup",
     }
@@ -32,10 +34,10 @@ if 1:
         "root.fan_user.avatar",
         "root.fan_user.mid",
         "root.fan_user.nickname",
-        "root.finish_sources[IDX].id",
-        "root.finish_sources[IDX].jump_url",
-        "root.finish_sources[IDX].time_from",
-        "root.finish_sources[IDX].time_to",
+        f"root.finish_sources[{DONT_CARE_INDEX_SEP}].id",
+        f"root.finish_sources[{DONT_CARE_INDEX_SEP}].jump_url",
+        f"root.finish_sources[{DONT_CARE_INDEX_SEP}].time_from",
+        f"root.finish_sources[{DONT_CARE_INDEX_SEP}].time_to",
         "root.group_name",
         "root.item_id",
         "root.name",
@@ -47,11 +49,18 @@ if 1:
         "root.properties.fan_no_color",
         "root.properties.fan_recommend_desc",
         "root.properties.fan_share_image",
+        "root.properties.first_up",
+        "root.properties.head_bg",
+        "root.properties.head_myself_mp4_bg",
+        "root.properties.head_myself_squared_bg",
+        "root.properties.head_tab_bg",
         "root.properties.image_ani",
         "root.properties.image_cover_color",
         "root.properties.image_cover",
+        "root.properties.image_gif",
         "root.properties.image_preview_small",
         "root.properties.image_preview",
+        "root.properties.image_webp",
         "root.properties.image",
         "root.properties.imageIDX_landscape",
         "root.properties.imageIDX_portrait",
@@ -64,6 +73,7 @@ if 1:
         "root.properties.loading_frame_url",
         "root.properties.loading_url",
         "root.properties.owner_uid",
+        "root.properties.package_md5",
         "root.properties.sale_bp_forever_raw",
         "root.properties.sale_quantity_limit",
         "root.properties.sale_quantity",
@@ -73,6 +83,8 @@ if 1:
         "root.properties.sale_time_end",
         "root.properties.squared_image",
         "root.properties.static_icon_image",
+        "root.properties.tail_color_selected",
+        "root.properties.tail_icon_myself",
         "root.properties.ver",
         "root.suit_items.card_bg[IDX].item_id",
         "root.suit_items.card_bg[IDX].name",
@@ -231,9 +243,15 @@ if 1:
         "root.properties.image10_portrait",
         "root.properties.image11_portrait",
     }
+    STR_ITM = {
+        "root.properties.preview_imgs",
+        "root.properties.public_time_line",
+        "root.suit_items.emoji_package[IDX].properties.item_emoji_list",
+        "root.suit_items.skin[IDX].properties.head_myself_mp4_bg_list",
+    }
 if 0:
     DONT_CARE_INDEX_LIST = set()
-if 1:
+if 0:
     IGNORE_LIST = set()
 
 
@@ -260,7 +278,7 @@ def analyze_structure(item: Any, target_key="root") -> None:
     if result.get(target_key) is None:
         result[target_key] = {"type": {}}
     typ = type(item).__name__
-    if target_key in {"root.suit_items.emoji_package[IDX].properties.item_emoji_list", "root.suit_items.skin[IDX].properties.head_myself_mp4_bg_list"}:
+    if target_key in STR_ITM:
         item = json.loads(item)  # type:ignore[reportOperatorIssue]
         typ = "str_list"
     if typ not in result[target_key]["type"]:
