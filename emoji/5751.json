@@ -2,7 +2,7 @@
 	"id":5751,
 	"text":"新皇大帝（充电）",
 	"url":"https://i0.hdslb.com/bfs/garb/46c3dabdf09b226631a480a69f379ab4a564b61e.png",
-	"mtime":1750830406,
+	"mtime":1764797141,
 	"type":12,
 	"attr":28,
 	"meta":{
@@ -263,6 +263,18 @@
 			}
 		},
 		{
+			"id":85051,
+			"package_id":5751,
+			"text":"[UPOWER_27141298_哭死]",
+			"url":"https://i0.hdslb.com/bfs/garb/c98a55106a1aff0119996c3227658d71e35db9e1.png",
+			"mtime":1764880545,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"哭死"
+			}
+		},
+		{
 			"id":85053,
 			"package_id":5751,
 			"text":"[UPOWER_27141298_拍照]",
@@ -380,6 +392,30 @@
 			"meta":{
 				"size":2,
 				"alias":"鸟头"
+			}
+		},
+		{
+			"id":126950,
+			"package_id":5751,
+			"text":"[UPOWER_27141298_你好]",
+			"url":"https://i0.hdslb.com/bfs/garb/18b6125b36f6a2f0c3d1b02619b0a5570e8361f0.png",
+			"mtime":1764880543,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"你好"
+			}
+		},
+		{
+			"id":126951,
+			"package_id":5751,
+			"text":"[UPOWER_27141298_害怕]",
+			"url":"https://i0.hdslb.com/bfs/garb/1e36f62c6e730b6ebb61bbf343837b5a191ebb08.png",
+			"mtime":1764880541,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"害怕"
 			}
 		}
 	],
