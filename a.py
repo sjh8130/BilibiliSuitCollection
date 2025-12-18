@@ -3,19 +3,32 @@ from collections.abc import Mapping, Sequence
 from enum import IntEnum, auto
 from typing import Any, TypedDict
 
+FALSE_CMP = [0, "", [], False, {}, None, set(), frozenset()]
+"false compare"
+
 
 class OPR(IntEnum):
     EQ = auto()
+    "=="
     NEQ = auto()
+    "!="
     GT = auto()
+    ">"
     LT = auto()
+    "<"
     GEQ = auto()
+    ">="
     LEQ = auto()
+    "<="
     ANY = auto()
     IN = auto()
     NIN = auto()
+    "not in"
     IS = auto()
     NIS = auto()
+    "not is"
+    FALSE_CMP = auto()
+    "false compare"
 
 
 def sort_str_list(s: str, /) -> str:
@@ -53,6 +66,9 @@ def del_keys(d: Mapping[str, Any], k: str, v=None, operator: OPR = OPR.EQ, *, re
                     d.pop(k)
             case OPR.IN:
                 if k in d and d.get(k) in v:  # pyright: ignore[reportOperatorIssue]
+                    d.pop(k, None)
+            case OPR.FALSE_CMP:
+                if k in FALSE_CMP and d.get(k) in v:  # pyright: ignore[reportOperatorIssue]
                     d.pop(k, None)
             case OPR.ANY:
                 d.pop(k, None)
