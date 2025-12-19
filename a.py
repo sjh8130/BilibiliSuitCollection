@@ -59,16 +59,16 @@ def sort_p6_emoji(ld: list[Mapping[str, Any]], /) -> list[Mapping[str, Any]]:
 
 
 def del_keys(d: Mapping[str, Any], k: str, v=None, operator: OPR = OPR.EQ, *, recursive=True) -> None:
-    if isinstance(d, dict) and k in d and (type(d[k]) is type(v) or operator in {OPR.IN, OPR.ANY}):
+    if isinstance(d, dict) and k in d and (type(d[k]) is type(v) or operator in {OPR.IN, OPR.ANY, OPR.FALSE_CMP}):
         match operator:
             case OPR.EQ:
                 if d.get(k) == v:
                     d.pop(k)
             case OPR.IN:
-                if k in d and d.get(k) in v:  # pyright: ignore[reportOperatorIssue]
+                if v is not None and d.get(k) in v:
                     d.pop(k, None)
             case OPR.FALSE_CMP:
-                if k in FALSE_CMP and d.get(k) in v:  # pyright: ignore[reportOperatorIssue]
+                if k in d and d.get(k) in FALSE_CMP:
                     d.pop(k, None)
             case OPR.ANY:
                 d.pop(k, None)
