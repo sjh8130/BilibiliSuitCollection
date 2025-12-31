@@ -27,8 +27,7 @@ def main():
     f = j.read_text("utf-8")
     a: list[int] = json.loads(f)
     b, c = _O()
-    for d in c:
-        a.append(d)
+    a.extend(c)
     g = json.dumps(sorted(set(a)), indent="\t")
     if g == f:
         return
