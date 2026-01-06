@@ -21,6 +21,7 @@ _EMPTY_ACTIVITY_ENTRANCE = {
     "image_cover": "",
     "jump_link": "",
 }
+_DEBUG_LST = []
 
 
 def _p_main(item: X1) -> None:
