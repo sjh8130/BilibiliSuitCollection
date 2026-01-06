@@ -68,7 +68,7 @@ def del_keys(d: Mapping[str, Any], k: str, v=None, operator: OPR = OPR.EQ, *, re
                 if v is not None and d.get(k) in v:
                     d.pop(k, None)
             case OPR.FALSE_CMP:
-                if k in d and d.get(k) in FALSE_CMP:
+                if d.get(k) in FALSE_CMP:
                     d.pop(k, None)
             case OPR.ANY:
                 d.pop(k, None)

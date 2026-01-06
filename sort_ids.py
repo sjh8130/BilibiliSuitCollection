@@ -24,6 +24,9 @@ _EMPTY_ACTIVITY_ENTRANCE = {
 
 
 def _p_main(item: X1) -> None:
+    itm_id = item["item_id"]
+    if itm_id in _DEBUG_LST:
+        pass
     c = item["part_id"]
     if isinstance(item.get(P), dict):
         if isinstance(item[P].get("item_ids"), str):
