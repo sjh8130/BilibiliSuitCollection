@@ -2,7 +2,7 @@
 	"id":585,
 	"text":"籽岷（充电）",
 	"url":"https://i0.hdslb.com/bfs/garb/c2651543ac1436022fdc69e8bb7d2fcd4848056e.png",
-	"mtime":1767173699,
+	"mtime":1767336471,
 	"type":12,
 	"attr":28,
 	"meta":{
@@ -80,6 +80,18 @@
 			"meta":{
 				"size":2,
 				"alias":"实力"
+			}
+		},
+		{
+			"id":10625,
+			"package_id":585,
+			"text":"[UPOWER_686127_头大]",
+			"url":"https://i0.hdslb.com/bfs/garb/4e1e1e56f52ca28a24b8fa9adeaa51ec160b529d.png",
+			"mtime":1767388851,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"头大"
 			}
 		},
 		{
@@ -311,6 +323,18 @@
 			}
 		},
 		{
+			"id":45079,
+			"package_id":585,
+			"text":"[UPOWER_686127_震惊]",
+			"url":"https://i0.hdslb.com/bfs/garb/f42df0a227d00677010ef6e6ebaa8fe1ad1c14a2.png",
+			"mtime":1767388825,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"震惊"
+			}
+		},
+		{
 			"id":45098,
 			"package_id":585,
 			"text":"[UPOWER_686127_捂脸]",
@@ -500,6 +524,66 @@
 			"meta":{
 				"size":2,
 				"alias":"逢考必过"
+			}
+		},
+		{
+			"id":129414,
+			"package_id":585,
+			"text":"[UPOWER_686127_疲惫]",
+			"url":"https://i0.hdslb.com/bfs/garb/5f77453191354604158a58148413706125adaf96.png",
+			"mtime":1767388848,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"疲惫"
+			}
+		},
+		{
+			"id":129415,
+			"package_id":585,
+			"text":"[UPOWER_686127_否认]",
+			"url":"https://i0.hdslb.com/bfs/garb/b8cecfcd8b85a14ee99ef2f8a930736bd45554ff.png",
+			"mtime":1767388838,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"否认"
+			}
+		},
+		{
+			"id":129416,
+			"package_id":585,
+			"text":"[UPOWER_686127_得意]",
+			"url":"https://i0.hdslb.com/bfs/garb/1eb86afe77289c48b6169c8aaa2fd0e98133487d.png",
+			"mtime":1767388833,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"得意"
+			}
+		},
+		{
+			"id":129417,
+			"package_id":585,
+			"text":"[UPOWER_686127_机智]",
+			"url":"https://i0.hdslb.com/bfs/garb/75e659e1a1f044bd37e3387834fd1cc1d992a735.png",
+			"mtime":1767388830,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"机智"
+			}
+		},
+		{
+			"id":129419,
+			"package_id":585,
+			"text":"[UPOWER_686127_神降临]",
+			"url":"https://i0.hdslb.com/bfs/garb/6ac479a86bca12558320abb7b9ccbebea9465983.png",
+			"mtime":1767388821,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"神降临"
 			}
 		}
 	],
