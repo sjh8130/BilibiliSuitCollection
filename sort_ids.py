@@ -101,7 +101,7 @@ def _p_main(item: X1) -> None:
     del_keys(item, "sale_left_time", operator=OPR.ANY)
     del_keys(item, "sale_promo", operator=OPR.ANY)
     del_keys(item, "sale_surplus", operator=OPR.ANY)
-    del_keys(item, "sale_time_end", recursive=False, operator=OPR.ANY)
+    del_keys(item, "sale_time_end", operator=OPR.ANY, recursive=False)
     del_keys(item, "state", operator=OPR.ANY)
     del_keys(item, "tag", operator=OPR.ANY)
     del_keys(item, "total_count_desc", operator=OPR.ANY)
@@ -121,7 +121,7 @@ def _p_main(item: X1) -> None:
     del_keys(item, "suit_item_id", 0)
     del_keys(item, "suit_items", {})
     del_keys(item, "properties", {})
-    del_keys(item, "tab_id", 0, OPR.EQ)
+    del_keys(item, "tab_id", 0)
     del_keys(item, "unlock_items", None)
     replace_str(item, "http://", "https://")
     replace_str(item, "https://i1.hdslb.com", "https://i0.hdslb.com")
@@ -130,8 +130,7 @@ def _p_main(item: X1) -> None:
 
 
 def _main(path: str) -> None:
-    with Path(path).open(encoding="utf-8") as fp:
-        src = fp.read()
+    src = Path(path).read_text(encoding="utf-8")
     if path.endswith(".jsonl"):
         target = ""
         for line in src.splitlines():
@@ -145,8 +144,7 @@ def _main(path: str) -> None:
     if src == target:
         return
         print(f"EQ:{path}")
-    with Path(path).open("w", encoding="utf-8") as fp:
-        fp.write(target)
+    Path(path).write_text(target, encoding="utf-8")
 
 
 def _K() -> list[str]:
