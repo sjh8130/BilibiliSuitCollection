@@ -10,6 +10,9 @@ from a import OPR, X1, del_keys, replace_str, sort_list_dict, sort_p6_emoji, sor
 
 log = logger.bind(user="S.i")
 
+AA = "https://i0.hdslb.com/bfs/activity-plat/static/20240223/3334b2daefb8be78dcc25a7ec37d60fe/sVvHUQ5IPV.png"
+BB = "https://i0.hdslb.com/bfs/garb/item/edfb01bd0fa7de7c7e3f516a16a16e8b0cde9ef5.png"
+CC = "https://i0.hdslb.com/bfs/garb/item/bb95a716723fa17354aa18ae10323903747c79ec.png"
 P = "properties"
 S = "suit_items"
 _EMPTY_FAN_USER = {"mid": 0, "nickname": "", "avatar": ""}
@@ -59,7 +62,11 @@ def _p_main(item: X1) -> None:
         case 1:
             pass
         case 2:
-            pass
+            if item[P].get("image", "") == AA and item[P].get("image_preview_small", "") == BB and item[P].get("sale_type", "") == "collect_card":
+                item[P].pop("image")
+                item[P].pop("image_preview_small")
+                item[P].pop("sale_type")
+                item[P]["X_Part2_collect_card"] = 1  # pyright: ignore[reportGeneralTypeIssues, reportArgumentType]
         case 3:
             pass
         case 4:
@@ -72,7 +79,11 @@ def _p_main(item: X1) -> None:
         case 7:
             pass
         case 8:
-            pass
+            if item[P].get("image", "") == CC and item[P].get("image_preview_small", "") == BB and item[P].get("sale_type", "") == "collect_card":
+                item[P].pop("image")
+                item[P].pop("image_preview_small")
+                item[P].pop("sale_type")
+                item[P]["X_Part8_collect_card"] = 1  # pyright: ignore[reportGeneralTypeIssues, reportArgumentType]
         case 9:
             pass
         case 10:
