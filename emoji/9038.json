@@ -2,7 +2,7 @@
 	"id":9038,
 	"text":"美味花蘑菇（充电）",
 	"url":"https://i0.hdslb.com/bfs/garb/e7b7ed0d5521989852e3dd35befa4bff82bbc0f5.png",
-	"mtime":1763831626,
+	"mtime":1769421844,
 	"type":12,
 	"attr":28,
 	"meta":{
@@ -68,6 +68,30 @@
 			"meta":{
 				"size":2,
 				"alias":"礼物菇"
+			}
+		},
+		{
+			"id":130779,
+			"package_id":9038,
+			"text":"[UPOWER_14327878_yes]",
+			"url":"https://i0.hdslb.com/bfs/garb/c82055544c648f701bf4ab0cd777de0836a1cd3d.png",
+			"mtime":1769476294,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"yes"
+			}
+		},
+		{
+			"id":130780,
+			"package_id":9038,
+			"text":"[UPOWER_14327878_no]",
+			"url":"https://i0.hdslb.com/bfs/garb/2d3463e20a3f8da7f2d19b12c9834a878984c8dc.png",
+			"mtime":1769476292,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"no"
 			}
 		}
 	],
