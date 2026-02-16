@@ -255,7 +255,7 @@ if 0:
     IGNORE_LIST = set()
 
 
-def sort_final(item):
+def sort_final(item: dict | list) -> None:
     if isinstance(item, dict):
         for key in item:
             sort_final(item[key])
@@ -266,7 +266,7 @@ def sort_final(item):
                 sort_final(itm)
 
 
-def analyze_structure(item: Any, target_key="root") -> None:
+def analyze_structure(item: Any, target_key: str = "root") -> None:
     if target_key in S1:
         target_key = "root.suit_items.space_bg[IDX].properties.imageIDX_landscape"
     if target_key in S2:
@@ -306,14 +306,14 @@ def analyze_structure(item: Any, target_key="root") -> None:
 
 
 def walk_dir() -> list[Path]:
-    A: list[Path] = []
+    c: list[Path] = []
     for a in ["PART_5_表情包", "PART_6_main"]:
-        A.extend(b.resolve() for b in (base_path / a).rglob("*.json"))
-    A.extend(base_path / a for a in base_path.glob("PART*.jsonl"))
-    return A
+        c.extend(b.resolve() for b in (base_path / a).rglob("*.json"))
+    c.extend(base_path / a for a in base_path.glob("PART*.jsonl"))
+    return c
 
 
-def main():
+def main() -> dict[Any, Any]:
     for p in tqdm(t_list):
         with p.open(encoding="utf-8") as fp:
             if str(p).endswith(".jsonl"):
@@ -331,7 +331,6 @@ if __name__ == "__main__":
     output_dir = Path("Z:\\") if os.name == "nt" else Path("/mnt/z/")
     base_path = Path.cwd().resolve()
     t_list: list[Path] = walk_dir() if len(sys.argv) <= 1 else [Path(x) for x in sys.argv[1:]]
-
     if not output_dir.exists():
         output_dir.mkdir()
     # if os.path.exists(os.path.join(output_dir, "result.json")):

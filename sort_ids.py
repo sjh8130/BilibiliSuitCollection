@@ -9,7 +9,6 @@ from tqdm import tqdm
 from a import OPR, X1, del_keys, replace_str, sort_list_dict, sort_p6_emoji, sort_str_list
 
 log = logger.bind(user="S.i")
-
 AA = "https://i0.hdslb.com/bfs/activity-plat/static/20240223/3334b2daefb8be78dcc25a7ec37d60fe/sVvHUQ5IPV.png"
 BB = "https://i0.hdslb.com/bfs/garb/item/edfb01bd0fa7de7c7e3f516a16a16e8b0cde9ef5.png"
 CC = "https://i0.hdslb.com/bfs/garb/item/bb95a716723fa17354aa18ae10323903747c79ec.png"
@@ -96,44 +95,43 @@ def _p_main(item: X1) -> None:
             pass
         case _:
             pass
+    del_keys(item, "activity_entrance", _EMPTY_ACTIVITY_ENTRANCE, recursive=False)
+    del_keys(item, "activity_entrance", None, recursive=False)
+    del_keys(item, "associate_words", "")
     del_keys(item, "associate", operator=OPR.ANY)
     del_keys(item, "current_activity", operator=OPR.ANY)
     del_keys(item, "current_sources", operator=OPR.ANY)
+    del_keys(item, "fan_user", _EMPTY_FAN_USER, recursive=False)
+    del_keys(item, "finish_sources", None)
     del_keys(item, "gray_rule_type", operator=OPR.ANY)
     del_keys(item, "gray_rule", operator=OPR.ANY)
     del_keys(item, "hot", operator=OPR.ANY)
     del_keys(item, "is_symbol", operator=OPR.ANY)
     del_keys(item, "item_stock_surplus", operator=OPR.ANY)
+    del_keys(item, "items", None)
+    del_keys(item, "jump_link", "")
     del_keys(item, "next_activity", operator=OPR.ANY)
     del_keys(item, "non_associate", operator=OPR.ANY)
     del_keys(item, "open_platform_vip_discount", operator=OPR.ANY)
+    del_keys(item, "properties", {})
     del_keys(item, "realname_auth", operator=OPR.ANY)
+    del_keys(item, "ref_mid", "0")
     del_keys(item, "sale_count_desc", operator=OPR.ANY)
     del_keys(item, "sale_left_time", operator=OPR.ANY)
     del_keys(item, "sale_promo", operator=OPR.ANY)
     del_keys(item, "sale_surplus", operator=OPR.ANY)
-    del_keys(item, "sale_time_end", operator=OPR.ANY, recursive=False)
-    del_keys(item, "state", operator=OPR.ANY)
-    del_keys(item, "tag", operator=OPR.ANY)
-    del_keys(item, "total_count_desc", operator=OPR.ANY)
-    del_keys(item, "user_vas_order", operator=OPR.ANY)
-    del_keys(item, "activity_entrance", _EMPTY_ACTIVITY_ENTRANCE, recursive=False)
-    del_keys(item, "activity_entrance", None, recursive=False)
-    del_keys(item, "associate_words", "")
-    del_keys(item, "fan_user", _EMPTY_FAN_USER, recursive=False)
-    del_keys(item, "fan_user", _EMPTY_FAN_USER_2, recursive=False)
-    del_keys(item, "finish_sources", None)
-    del_keys(item, "items", None)
-    del_keys(item, "jump_link", "")
-    del_keys(item, "properties", {})
-    del_keys(item, "ref_mid", "0")
     del_keys(item, "sale_time_end", 0, OPR.LEQ)
+    del_keys(item, "sale_time_end", operator=OPR.ANY, recursive=False)
     del_keys(item, "sales_mode", 0)
+    del_keys(item, "state", operator=OPR.ANY)
     del_keys(item, "suit_item_id", 0)
     del_keys(item, "suit_items", {})
-    del_keys(item, "properties", {})
     del_keys(item, "tab_id", 0)
+    del_keys(item, "tag", operator=OPR.ANY)
+    del_keys(item, "total_count_desc", operator=OPR.ANY)
+    del_keys(item, "tracking_info", "")
     del_keys(item, "unlock_items", None)
+    del_keys(item, "user_vas_order", operator=OPR.ANY)
     replace_str(item, "http://", "https://")
     replace_str(item, "https://i1.hdslb.com", "https://i0.hdslb.com")
     replace_str(item, "https://i2.hdslb.com", "https://i0.hdslb.com")
@@ -159,23 +157,22 @@ def _main(path: str) -> None:
 
 
 def _K() -> list[str]:
-    A: list[str] = []
-    _M = base_path  # noqa: RUF052
+    c: list[str] = []
+    d = base_path
     for a in ["PART_5_表情包", "PART_6_main"]:
-        A.extend(str(b.resolve()) for b in (_M / a).rglob("*.json"))
-    A.extend(str(_M / a) for a in _M.rglob("PART*.jsonl"))
-    return A
+        c.extend(str(b.resolve()) for b in (d / a).rglob("*.json"))
+    c.extend(str(d / a) for a in d.rglob("PART*.jsonl"))
+    return c
 
 
 if __name__ == "__main__":
     base_path = Path.cwd()
     t_list: list[str] = _K() if len(sys.argv) <= 1 else sys.argv[1:]
-
     try:
         for file in tqdm(t_list):
             _main(file)
     except Exception as e:
-        log.error(file)  # pyright: ignore[reportPossiblyUnboundVariable]
+        log.exception(file)  # pyright: ignore[reportPossiblyUnboundVariable]
         log.exception(e)
     finally:
         pass
