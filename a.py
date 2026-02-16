@@ -32,7 +32,6 @@ class OPR(IntEnum):
 
 
 def sort_str_list(s: str, /) -> str:
-    """example: `'1,3,2,4,5'` -> `'1,2,3,4,5'`"""
     if s.count(",") == 0:
         return s
     a = json.loads(f"[{s}]")
@@ -58,7 +57,7 @@ def sort_p6_emoji(ld: list[Mapping[str, Any]], /) -> list[Mapping[str, Any]]:
     return ld
 
 
-def del_keys(d: Mapping[str, Any], k: str, v=None, operator: OPR = OPR.EQ, *, recursive=True) -> None:
+def del_keys(d: Mapping[str, Any], k: str, v: Any = None, operator: OPR = OPR.EQ, *, recursive: bool = True) -> None:
     if isinstance(d, dict) and k in d and (type(d[k]) is type(v) or operator in {OPR.IN, OPR.ANY, OPR.FALSE_CMP}):
         match operator:
             case OPR.EQ:
@@ -117,7 +116,7 @@ def del_keys(d: Mapping[str, Any], k: str, v=None, operator: OPR = OPR.EQ, *, re
                     del_keys(item, k, v, operator, recursive=recursive)
 
 
-def replace_value_in_list_dict(d_or_lst: Mapping[str, Any] | list, k_or_idx: int | str, old_v, new_v, *, recursive=True) -> None:
+def replace_value_in_list_dict(d_or_lst: Mapping[str, Any] | list, k_or_idx: int | str, old_v: str, new_v: str, *, recursive: bool = True) -> None:
     if (k_or_idx in d_or_lst and isinstance(d_or_lst, dict) and isinstance(d_or_lst[k_or_idx], str)) or (isinstance(d_or_lst, list) and isinstance(k_or_idx, int) and len(d_or_lst) >= k_or_idx):  # pyright: ignore[reportArgumentType] # noqa: SIM102
         if d_or_lst[k_or_idx] == old_v:  # pyright: ignore[reportCallIssue, reportArgumentType]
             d_or_lst[k_or_idx] = new_v  # pyright: ignore[reportCallIssue, reportArgumentType]
@@ -134,7 +133,7 @@ def replace_value_in_list_dict(d_or_lst: Mapping[str, Any] | list, k_or_idx: int
                     replace_value_in_list_dict(d_or_lst[key], index, old_v, new_v, recursive=recursive)  # pyright: ignore[reportArgumentType, reportCallIssue]
 
 
-def replace_str(d: Mapping[str, Any] | Sequence[str], old: str, new: str, count: int = -1, *, recursive=True) -> None:
+def replace_str(d: Mapping[str, Any] | Sequence[str], old: str, new: str, count: int = -1, *, recursive: bool = True) -> None:
     if not isinstance(d, (dict, list)):
         return
     if not recursive:

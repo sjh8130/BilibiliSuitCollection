@@ -44,7 +44,7 @@ def walk_dir() -> list[Path]:
     return [b.resolve() for b in (base_path / "emoji").rglob("*.json")]
 
 
-def main():
+def main() -> None:
     for p in tqdm(t_list):
         item: EmoteMain = json.loads(p.read_text("utf-8"))
         result.extend(x["text"] for x in item.get("emote", []))
@@ -54,11 +54,10 @@ if __name__ == "__main__":
     output_dir = Path("Z:\\") if os.name == "nt" else Path("/mnt/z/")
     base_path = Path.cwd().resolve()
     t_list: list[Path] = walk_dir() if len(sys.argv) <= 1 else [Path(x) for x in sys.argv[1:]]
-
     if not output_dir.exists():
         output_dir.mkdir()
     if (output_dir / "emoji_result.json").exists():
-        with open(output_dir / "emoji_result.json", encoding="utf-8") as fp:
+        with (output_dir / "emoji_result.json").open(encoding="utf-8") as fp:
             result = json.load(fp)
     start_time = time.time()
     main()
