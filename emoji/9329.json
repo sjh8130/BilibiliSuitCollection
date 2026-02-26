@@ -2,7 +2,7 @@
 	"id":9329,
 	"text":"安夏原创动画（充电）",
 	"url":"https://i0.hdslb.com/bfs/garb/2a6c4f18a5b9203fa96433f568f4cda671a4ad12.png",
-	"mtime":1769508792,
+	"mtime":1770366962,
 	"type":12,
 	"attr":28,
 	"meta":{
@@ -10,6 +10,18 @@
 		"item_url":"https://www.bilibili.com/h5/upower/index?navhide=1&mid=3546944882346544&prePage=emote"
 	},
 	"emote":[
+		{
+			"id":130896,
+			"package_id":9329,
+			"text":"[UPOWER_3546944882346544_期待]",
+			"url":"https://i0.hdslb.com/bfs/garb/0bbb5d4506723fc51f7bbd38f5a6e00410f462cc.png",
+			"mtime":1770428993,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"期待"
+			}
+		},
 		{
 			"id":130896,
 			"package_id":9329,
@@ -62,6 +74,18 @@
 			"id":130900,
 			"package_id":9329,
 			"text":"[UPOWER_3546944882346544_鞠躬]",
+			"url":"https://i0.hdslb.com/bfs/garb/78eb161eee1db61be13c6db632195e6dd4e8be7b.png",
+			"mtime":1770428984,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"鞠躬"
+			}
+		},
+		{
+			"id":130900,
+			"package_id":9329,
+			"text":"[UPOWER_3546944882346544_鞠躬]",
 			"url":"https://i0.hdslb.com/bfs/garb/9945c2f19e117402cdbc7771a051bcaf12d2671e.png",
 			"mtime":1769508792,
 			"type":12,
@@ -95,6 +119,30 @@
 			}
 		},
 		{
+			"id":130902,
+			"package_id":9329,
+			"text":"[UPOWER_3546944882346544_睡觉]",
+			"url":"https://i0.hdslb.com/bfs/garb/7fa8cd7fd18c0742de2261795a3d845c30980f3f.png",
+			"mtime":1770428981,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"睡觉"
+			}
+		},
+		{
+			"id":130903,
+			"package_id":9329,
+			"text":"[UPOWER_3546944882346544_赞]",
+			"url":"https://i0.hdslb.com/bfs/garb/43b3a494f6dbf56b7ceb388ad400e890cb20778f.png",
+			"mtime":1770428979,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"赞"
+			}
+		},
+		{
 			"id":130903,
 			"package_id":9329,
 			"text":"[UPOWER_3546944882346544_赞]",
@@ -112,6 +160,18 @@
 			"text":"[UPOWER_3546944882346544_求红包]",
 			"url":"https://i0.hdslb.com/bfs/garb/88aaf898cb020f99c7c0a71a91ac00c13e38a92d.png",
 			"mtime":1769508792,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"求红包"
+			}
+		},
+		{
+			"id":130904,
+			"package_id":9329,
+			"text":"[UPOWER_3546944882346544_求红包]",
+			"url":"https://i0.hdslb.com/bfs/garb/8e5dfb1e469c535522491cf92d2488a636e6e3e4.png",
+			"mtime":1770428976,
 			"type":12,
 			"meta":{
 				"size":2,
@@ -140,6 +200,30 @@
 			"meta":{
 				"size":2,
 				"alias":"no"
+			}
+		},
+		{
+			"id":131713,
+			"package_id":9329,
+			"text":"[UPOWER_3546944882346544_发呆]",
+			"url":"https://i0.hdslb.com/bfs/garb/81f0887657b41ef86b05f62bddce9ecf93d964df.png",
+			"mtime":1770428973,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"发呆"
+			}
+		},
+		{
+			"id":131714,
+			"package_id":9329,
+			"text":"[UPOWER_3546944882346544_闪眼]",
+			"url":"https://i0.hdslb.com/bfs/garb/cb84a86688ae1dc429260e2a890a28bc0beeb7db.png",
+			"mtime":1770428971,
+			"type":12,
+			"meta":{
+				"size":2,
+				"alias":"闪眼"
 			}
 		}
 	],
