@@ -16,14 +16,11 @@
 		"item_id_card":"1693146884001",
 		"item_id_emoji_package":"1692607065001",
 		"owner_uid":"35017141",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1239679012",
 		"sale_sku_id_2":"1239679011",
 		"sale_time_begin":"1693922400",
@@ -81,20 +78,12 @@
 				"name":"打call",
 				"suit_item_id":123967901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f52f5bb61147017fc8f7787a1202490ce9603ca9.png",
 					"item_emoji_list":"[{\"name\":\"打call01\",\"image\":\"https://i0.hdslb.com/bfs/garb/6421ec08299fa06e48cb754227cd5bbe814e6e5e.png\"},{\"name\":\"打call02\",\"image\":\"https://i0.hdslb.com/bfs/garb/e15f43118365da4a178e89f6d50ce3394cf358b7.png\"},{\"name\":\"打call03\",\"image\":\"https://i0.hdslb.com/bfs/garb/9772e41e7d958c0edce88de3c2c92547717104f2.png\"},{\"name\":\"打call04\",\"image\":\"https://i0.hdslb.com/bfs/garb/162d676302c22699ed7af63b6f17f0a3ac1529ba.png\"},{\"name\":\"打call05\",\"image\":\"https://i0.hdslb.com/bfs/garb/0cf289a34cfcd322bdcba551879f394c88676dbc.png\"},{\"name\":\"打call06\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb56e3dc458fe9c140688c783da526ec6949953c.png\"},{\"name\":\"打call07\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9c711c8e35410b62e34e49111b07789a79b7f93.png\"},{\"name\":\"打call08\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c1212f85f9b3080419a70331bf097faaeeb255b.png\"},{\"name\":\"打call09\",\"image\":\"https://i0.hdslb.com/bfs/garb/e97d4cea6ee94ca0326541917d236f41e266e61e.png\"},{\"name\":\"打call10\",\"image\":\"https://i0.hdslb.com/bfs/garb/1bd1d2d902f8c066cbf1ea94cd609599478e961e.png\"},{\"name\":\"打call11\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf64a16105612db0f12322999d87889bc30ab4c3.png\"},{\"name\":\"打call12\",\"image\":\"https://i0.hdslb.com/bfs/garb/07f1b3dd11891b5256c6cd7b04a6c844c221783e.png\"},{\"name\":\"打call13\",\"image\":\"https://i0.hdslb.com/bfs/garb/8516c1e49b9fc203d811bd721faf103837b3b435.png\"},{\"name\":\"打call14\",\"image\":\"https://i0.hdslb.com/bfs/garb/1361bbe946311a5ea9f725c1a04db65f4a32969e.png\"},{\"name\":\"打call15\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd8820bcf7ea6ff04c92311de9f3d45f895cb189.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1722504222001",
 		"item_id_emoji_package":"1722302868001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"2000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2215274012",
 		"sale_sku_id_2":"2215274011",
 		"sale_time_begin":"1722657850",
@@ -81,21 +78,13 @@
 				"name":"小人",
 				"suit_item_id":221527401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8275b7b713858a9ccbdcaa7513b3a6cc1e975f2a.png",
 					"item_emoji_list":"[{\"name\":\"携猫逃跑\",\"image\":\"https://i0.hdslb.com/bfs/garb/710dfc3b5a6bb1f24411e6e49430e2546823fac2.png\"},{\"name\":\"给钱\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2a3ed9f8c1d6aed9aca704e4430f3dbba8ad72a.png\"},{\"name\":\"禁止人类\",\"image\":\"https://i0.hdslb.com/bfs/garb/267823dbf86ea30276fb1154c4cac959537f84bb.png\"},{\"name\":\"好物推荐\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b8eee9744e7286bb92b0bf453654b6741a3d343.png\"},{\"name\":\"申请\",\"image\":\"https://i0.hdslb.com/bfs/garb/84b62550cdc404e7a83e5c79a9e23ced46cd1c70.png\"},{\"name\":\"爬行\",\"image\":\"https://i0.hdslb.com/bfs/garb/6132aeec2f6fad323e696bf2a59cd8c62b86b4c1.png\"},{\"name\":\"洗头\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6cc7ece2c01045da047fcb9ea71d10ea41dbba7.png\"},{\"name\":\"求求给点\",\"image\":\"https://i0.hdslb.com/bfs/garb/4385cd493b0db85db5edf4f5e65ff9c91af66b8a.png\"},{\"name\":\"空空如也\",\"image\":\"https://i0.hdslb.com/bfs/garb/5fc9229d4e1403e27e70cdf767d8386579b16148.png\"},{\"name\":\"上厕所\",\"image\":\"https://i0.hdslb.com/bfs/garb/756a570eec0e812e02890b8a8c0ebe5b76624397.png\"},{\"name\":\"先睡了\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d3e4b73cc5359ac3e0a2cd4eacdaddab0e28f70.png\"},{\"name\":\"那咋了\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ceeabe17f3f637b7ac69595c72b9cdf3dc39f49.png\"},{\"name\":\"敲木鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/54186c01c68e818e725b0ef80f5a254a3b229e07.png\"},{\"name\":\"带走\",\"image\":\"https://i0.hdslb.com/bfs/garb/f221a2132d9fcd5147e8de852f32b5b9c4f9a115.png\"},{\"name\":\"神秘按钮\",\"image\":\"https://i0.hdslb.com/bfs/garb/b977152443f65bfceb6265307fa724d0c08e0236.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

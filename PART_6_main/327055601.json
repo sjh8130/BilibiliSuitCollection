@@ -16,14 +16,11 @@
 		"item_id_card":"1758969387001",
 		"item_id_emoji_package":"1758969556001",
 		"owner_uid":"3493136024210152",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3270556012",
 		"sale_sku_id_2":"3270556011",
 		"sale_time_begin":"1759312800",
@@ -81,21 +78,13 @@
 				"name":"魔女暮色巡礼",
 				"suit_item_id":327055601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4494b227902931bfb3585d5f7253b1b7726ad3df.png",
 					"item_emoji_list":"[{\"name\":\"碎镜\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d7c50d12395df7db816d07e0c0c32b3e5ab0145.png\"},{\"name\":\"沙漏\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b71b18bb51af746c1919b29bed0e17637b52537.png\"},{\"name\":\"月亮脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/554d9a95573a8268681effc952380b665b637c63.png\"},{\"name\":\"火漆印章\",\"image\":\"https://i0.hdslb.com/bfs/garb/665412339d31a54dbbdaba88c4d4a5eb52c4c9ba.png\"},{\"name\":\"羽毛笔\",\"image\":\"https://i0.hdslb.com/bfs/garb/af0d1fef704bbc24ed5757b88c4fe401b644ea7a.png\"},{\"name\":\"泪眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0c920f9e48574851535f64893465d041f7c1710.png\"},{\"name\":\"乌鸦宝石\",\"image\":\"https://i0.hdslb.com/bfs/garb/24f1772af3c6468c1f4a4a95e2f3c7b40f76706f.png\"},{\"name\":\"蛾子\",\"image\":\"https://i0.hdslb.com/bfs/garb/f77ecc83babd7f9bde5f05a0a0e9fb64a95cfde9.png\"},{\"name\":\"呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ca623e2e06c8532114bd3e867989526dfdc05ab.png\"},{\"name\":\"沉思\",\"image\":\"https://i0.hdslb.com/bfs/garb/0843b4458c33140d28517e9f8778df9980b901f9.png\"},{\"name\":\"啊这\",\"image\":\"https://i0.hdslb.com/bfs/garb/5bef093df86b8e63dabd18b6656e58b613a7f983.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/038453aff339f7345ba046bf17fa8924ff028717.png\"},{\"name\":\"嘎\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9ce3aeb5f8efa643c5d053c0edf9808de5ae0c2.png\"},{\"name\":\"分隔符\",\"image\":\"https://i0.hdslb.com/bfs/garb/896bbf8bf375f5d17b048af3c3a4a73e40ac7ebb.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/643ffb418e1480a27e4d8bf3f75acbb373e82346.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

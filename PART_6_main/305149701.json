@@ -16,14 +16,11 @@
 		"item_id_card":"1740039527001",
 		"item_id_emoji_package":"1740039421001",
 		"owner_uid":"670729222",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3051497012",
 		"sale_sku_id_2":"3051497011",
 		"sale_time_begin":"1740715100",
@@ -81,21 +78,13 @@
 				"name":"萨卡加加加班",
 				"suit_item_id":305149701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0fb57366550b15e85e9dc0b088c20fd6e9a730e5.png",
 					"item_emoji_list":"[{\"name\":\"自愿上班\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b7ae42309ec2c0f06d1160dd52f5a1675ae97ba.png\"},{\"name\":\"宕机\",\"image\":\"https://i0.hdslb.com/bfs/garb/903bba5026b8ac925273ef5cb9a0037685efeee1.png\"},{\"name\":\"不干了\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdd2a4e604f05b021f915a666767fe3ead07431f.png\"},{\"name\":\"被迫干活\",\"image\":\"https://i0.hdslb.com/bfs/garb/4233c07d7498505522ac6a94e85f3d31eb466354.png\"},{\"name\":\"小的了解\",\"image\":\"https://i0.hdslb.com/bfs/garb/60e50d1787d402745720eeae3803c55c1804b0ad.png\"},{\"name\":\"哭晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/0cff5a53748423b61ba3cae07ba85e98e776369b.png\"},{\"name\":\"倒头\",\"image\":\"https://i0.hdslb.com/bfs/garb/625b768065863974ecf12ae410b2c00abdb6a697.png\"},{\"name\":\"收到\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab180c7474e703b081dab7406bbcc0a18e6b37ec.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc197b7307798a96931ec77f87da059b5eeb2e02.png\"},{\"name\":\"凑近\",\"image\":\"https://i0.hdslb.com/bfs/garb/a6806d8fb460504eeb1aa824c445b6ed07800b62.png\"},{\"name\":\"看手机\",\"image\":\"https://i0.hdslb.com/bfs/garb/f025125a134037bcebfcf315282a779ddb7dea09.png\"},{\"name\":\"大脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/0122e96f977bc0a1fe0901586bd1c301ecff7a0c.png\"},{\"name\":\"努力修改\",\"image\":\"https://i0.hdslb.com/bfs/garb/975e6d6d250b92a72bee4af2bee2c0d6169c942d.png\"},{\"name\":\"等下班\",\"image\":\"https://i0.hdslb.com/bfs/garb/98f5a2803a5eeb8ef521bb77a2c5665b5aabd58a.png\"},{\"name\":\"工位自闭\",\"image\":\"https://i0.hdslb.com/bfs/garb/614530ca777ffcb3bba6b1dda2ebaade1d257aa4.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

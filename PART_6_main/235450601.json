@@ -16,14 +16,11 @@
 		"item_id_card":"1734597599001",
 		"item_id_emoji_package":"1734597725001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2354506012",
 		"sale_sku_id_2":"2354506011",
 		"sale_time_begin":"1734969600",
@@ -81,21 +78,13 @@
 				"name":"兔叽超爱吃炸鸡",
 				"suit_item_id":235450601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/83bc0a9774b1462156540501553488316330bdd4.png",
 					"item_emoji_list":"[{\"name\":\"薯条侠\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2a45254b6496fefafb28988f1c99b0bc41a02c3.png\"},{\"name\":\"偷偷观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/2259dc5af74cd8bb2d2c7a00934f209db1c523fd.png\"},{\"name\":\"忽扰\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c9475fda69942cbe2f7aa01b46d1d7be5120e76.png\"},{\"name\":\"努力工作中\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4ac264d8f89f8411a82353ba0896eb997dbf3f1.png\"},{\"name\":\"可可爱爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/731fc65305ad33d492f9451456dab9f63c7cbd6e.png\"},{\"name\":\"汉堡包\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c30ae21f87a0877c5bdf987915bc8f3e8ddcd8e.png\"},{\"name\":\"馋哭了\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e81e1a363b1e1c19ff63c8be2940559c3df3f2c.png\"},{\"name\":\"Holle\",\"image\":\"https://i0.hdslb.com/bfs/garb/785fb17b2c81c0b3554c6331e7f55797117c57b3.png\"},{\"name\":\"皱眉\",\"image\":\"https://i0.hdslb.com/bfs/garb/03b96a14a80b73ae58c4e30ab513dad9614b561e.png\"},{\"name\":\"休息中\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7823fafd3f4e0a82e34d1edf7f9124f9b1ebbdc.png\"},{\"name\":\"鸡腿侠\",\"image\":\"https://i0.hdslb.com/bfs/garb/cfd6da2f061f13f40073629dd0739ff724a63766.png\"},{\"name\":\"鸡米花侠\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb8bb2f6cf89563439a4e50746536e6f11b59b2a.png\"},{\"name\":\"可乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/10a40a7e3ad106ce047547766eaac8bbb333b4b1.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b02f01a3bf2351ec84cc0e6186cf5432ea2957b.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/5bba1f6c7250deb0a0ac2d817bb8a33c1deb435e.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

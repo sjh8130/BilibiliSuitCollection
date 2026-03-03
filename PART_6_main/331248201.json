@@ -16,14 +16,11 @@
 		"item_id_card":"1762588297001",
 		"item_id_emoji_package":"1762588539001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3312482012",
 		"sale_sku_id_2":"3312482011",
 		"sale_time_begin":"1762841941",
@@ -82,21 +79,13 @@
 				"name":"冬日也要冰激凌",
 				"suit_item_id":331248201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a15d51f8c045f3a4cb4feaff0827e0fb8b778c07.png",
 					"item_emoji_list":"[{\"name\":\"Molly\",\"image\":\"https://i0.hdslb.com/bfs/garb/762b247bf97e16bc930c907b38fff4d6e5ab507e.png\"},{\"name\":\"冬日小霉\",\"image\":\"https://i0.hdslb.com/bfs/garb/7edbce6568d5bed15bfdc4808548efb751919c62.png\"},{\"name\":\"冬日小蕾\",\"image\":\"https://i0.hdslb.com/bfs/garb/abc68c2ff3bf871c23950bcc78a314f2f6d5c8e8.png\"},{\"name\":\"黄色仓鼠\",\"image\":\"https://i0.hdslb.com/bfs/garb/75847a5d48b8c0d1be57060b49161997c9910ab9.png\"},{\"name\":\"樱桃Biao\",\"image\":\"https://i0.hdslb.com/bfs/garb/63f8836f7a564597b3465e69723401bd2704286e.png\"},{\"name\":\"Biaobiao\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c56b49266e790ed3d1de6892c208146582667ae.png\"},{\"name\":\"超大份\",\"image\":\"https://i0.hdslb.com/bfs/garb/032e243bd69af2bae25804d0d309bf7b32a9b339.png\"},{\"name\":\"小份冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/771feeb93927bc7fc776f11b1a2b92e68d768664.png\"},{\"name\":\"彩色冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c7a7663ccdca69404f268149fc728a1a5bbc392.png\"},{\"name\":\"韩文\",\"image\":\"https://i0.hdslb.com/bfs/garb/1dca2d5098908eeee31a73e5f8c07830c5b02ad2.png\"},{\"name\":\"冰激凌小摊\",\"image\":\"https://i0.hdslb.com/bfs/garb/299630a3833316ff5389fe88f8ca3cf161e7acd6.png\"},{\"name\":\"樱桃冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d3e71ebecc96b9e2aec55c070bc912889cb4cbf.png\"},{\"name\":\"冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b1e6fe4fa73c9b0038e22ebd23c4db79090be81.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/d68f00bd338ed592a016fc72e34fa3ae79b9c01e.png\"},{\"name\":\"收藏\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2b51c538be7abe34bf21b3d3be71ef63cb90e00.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -5,19 +5,11 @@
 	"group_name":"暂停！让我查攻略",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/f07f1afed3489bf746e78f638b86b1ff6cffe1c2.png",
 		"item_ids":"35558,35560,35561,35562,35563,35564,35565,35566,35567,35568",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

@@ -16,14 +16,11 @@
 		"item_id_card":"1679500661001",
 		"item_id_emoji_package":"1679500697001",
 		"owner_uid":"3461581786581601",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"8888",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1082001012",
 		"sale_sku_id_2":"1082001011",
 		"sale_time_begin":"1680083620",
@@ -81,20 +78,12 @@
 				"name":"猫耳咖啡厅",
 				"suit_item_id":108200101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0a6fd9b8ab878c8ab4376cb40d7de15aaf26fb39.png",
 					"item_emoji_list":"[{\"name\":\"笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc16692fb3a0ec811daed89292cf67c3819e101a.png\"},{\"name\":\"放我出去\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b304c3c1660e0eee1e1d1cd11fb5eed74db1a19.png\"},{\"name\":\"重伤\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b2fed1b68f6f2e624f808d342d1b5798637d661.png\"},{\"name\":\"谁顶得住\",\"image\":\"https://i0.hdslb.com/bfs/garb/a6b3ab03798eda8a8eed702f3c3982a0642e406b.png\"},{\"name\":\"难过\",\"image\":\"https://i0.hdslb.com/bfs/garb/bcdf919d580df6ae180bf621a88be15274d8c2ae.png\"},{\"name\":\"冒泡\",\"image\":\"https://i0.hdslb.com/bfs/garb/de8160fb489e3c90d3b837b3a4ebb7ef7f13915e.png\"},{\"name\":\"说什么呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/2073598c75bc91d9bcdcb7fa35c3fc0b590b25f0.png\"},{\"name\":\"沉默\",\"image\":\"https://i0.hdslb.com/bfs/garb/2547fd904add54ee3727be2912154e524f09c07f.png\"},{\"name\":\"不理解了\",\"image\":\"https://i0.hdslb.com/bfs/garb/65d0990eecc9b94aba1bfad7b030caf810e1ac7f.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/33ae337e155054be332b3c57784e6941ec3b87d6.png\"},{\"name\":\"吃惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/52ec6c7ed189263233d33ca91a1ce525b20e88f8.png\"},{\"name\":\"知识增加\",\"image\":\"https://i0.hdslb.com/bfs/garb/39774b31b1acbb06556c0dddc885c6b77f1c0642.png\"},{\"name\":\"？\",\"image\":\"https://i0.hdslb.com/bfs/garb/53a615bf5df24175afd8fe8e6e5473167c29bdac.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7fd3c4c1950ff3c2b940174f2da30a68287a5a8.png\"},{\"name\":\"麻了\",\"image\":\"https://i0.hdslb.com/bfs/garb/008feba4ffc9987cf7d4ae66ac247adb210e3f65.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

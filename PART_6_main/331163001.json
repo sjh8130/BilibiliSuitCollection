@@ -16,14 +16,11 @@
 		"item_id_card":"1762494731001",
 		"item_id_emoji_package":"1762516984001",
 		"owner_uid":"5888511",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"200000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3311630012",
 		"sale_sku_id_2":"3311630011",
 		"sale_time_begin":"1762830000",
@@ -81,21 +78,13 @@
 				"name":"途",
 				"suit_item_id":331163001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e16f1c25b2b6b343b1aed61645497d1c3ac1e641.png",
 					"item_emoji_list":"[{\"name\":\"踏草\",\"image\":\"https://i0.hdslb.com/bfs/garb/24a4b2d598aa72500cd7c3ca512060a8fcff5e4c.png\"},{\"name\":\"踏星\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2168567739daf3bb5be75a47db46a8b45e03c5e.png\"},{\"name\":\"燕子梁\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5ddac658b0766ab515f0c5bc2e73f183645f4dd.png\"},{\"name\":\"涿鹿\",\"image\":\"https://i0.hdslb.com/bfs/garb/61181ed23af412c12e2647f2758c70de84eb66c2.png\"},{\"name\":\"行鹿\",\"image\":\"https://i0.hdslb.com/bfs/garb/c695128fc09d0d3ab0cade004d873670c8ac7029.png\"},{\"name\":\"枫华\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6cd3a1cad9b376171911c975b39aa69f512998b.png\"},{\"name\":\"昙花一现\",\"image\":\"https://i0.hdslb.com/bfs/garb/03c3683d88a14ee5149733cf40c1674e629df317.png\"},{\"name\":\"富贵满堂\",\"image\":\"https://i0.hdslb.com/bfs/garb/c192873b2df2b8585169ee68668d2eb73b55873f.png\"},{\"name\":\"芝台\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f054b0fe08a2e10c0a611c33f019e941b974602.png\"},{\"name\":\"红梅\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4c56b23d1ba85b65153362d2f4e37dc5048006e.png\"},{\"name\":\"酿橙\",\"image\":\"https://i0.hdslb.com/bfs/garb/07a8bfe977471cefdc65e1965f42e8162d1870b1.png\"},{\"name\":\"紫胆\",\"image\":\"https://i0.hdslb.com/bfs/garb/158309487d966cb668025570437dce65a276faf5.png\"},{\"name\":\"复桃\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b9be7d0d79ff963bb3abc63c42e4c29dd11f3b4.png\"},{\"name\":\"断红\",\"image\":\"https://i0.hdslb.com/bfs/garb/3db101eea373940a088c99a0756081e43f9c65e4.png\"},{\"name\":\"红升\",\"image\":\"https://i0.hdslb.com/bfs/garb/81643c8c9d668f79e0d30f708ea4df2850fdc9d6.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

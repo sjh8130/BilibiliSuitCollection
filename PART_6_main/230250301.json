@@ -16,14 +16,11 @@
 		"item_id_card":"1730101435001",
 		"item_id_emoji_package":"1730085530001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"1000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2302503012",
 		"sale_sku_id_2":"2302503011",
 		"sale_time_begin":"1730282400",
@@ -81,21 +78,13 @@
 				"name":"萌萌美食",
 				"suit_item_id":230250301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/3ec84e39ca54fc1661dcf2e632c12e66eafc5964.png",
 					"item_emoji_list":"[{\"name\":\"热狗棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/08595e52c5749ab882f5ccf64018776405f71a6e.png\"},{\"name\":\"大吃一口\",\"image\":\"https://i0.hdslb.com/bfs/garb/50e7c9e5c87f69d859aa58fceb2016daf19248bf.png\"},{\"name\":\"小狗蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed4ea7b9e4eb5973ef91c50cdc633aeb1b7a1b0f.png\"},{\"name\":\"吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4371bf606687885a9929f217b3a884b47b41e56.png\"},{\"name\":\"炒\",\"image\":\"https://i0.hdslb.com/bfs/garb/0de0914ff43364c8cb323f09de9b8d49e4cf5341.png\"},{\"name\":\"开饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/5723ade894a6041e1954a668f02cb217e5a996ab.png\"},{\"name\":\"小猫面包\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff32d02c68953d7c9bf1e24b12689b4e0b5f2ff1.png\"},{\"name\":\"饱\",\"image\":\"https://i0.hdslb.com/bfs/garb/d8f0ef7c23dee7d29804bb89b187eb6e6db3f35d.png\"},{\"name\":\"请喝\",\"image\":\"https://i0.hdslb.com/bfs/garb/e579ca99f048efdf1d0d1f036ded08571f71b483.png\"},{\"name\":\"只要一勺\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b5258bf76b9a18527238d42ce08397bfded4f2c.png\"},{\"name\":\"再来一碗\",\"image\":\"https://i0.hdslb.com/bfs/garb/f839b0a45171590c6d34e68976fc36ce30e3c12b.png\"},{\"name\":\"太美味了\",\"image\":\"https://i0.hdslb.com/bfs/garb/abfa91bc31b8c12b98cb002f769b2d30ab45e0d5.png\"},{\"name\":\"咕咕\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a400a8826575b211760c24a323b64526ca66133.png\"},{\"name\":\"小猫寿司\",\"image\":\"https://i0.hdslb.com/bfs/garb/825797e18d6725eb7ef8c026942520e089a0c28f.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1cef66cf6e7b190e62aec92705952838b497980.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

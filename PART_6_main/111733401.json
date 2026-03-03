@@ -16,14 +16,11 @@
 		"item_id_card":"1682561656001",
 		"item_id_emoji_package":"1682561758001",
 		"owner_uid":"1732540672",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1117334012",
 		"sale_sku_id_2":"1117334011",
 		"sale_time_begin":"1683282280",
@@ -81,20 +78,12 @@
 				"name":"panda的快乐假期",
 				"suit_item_id":111733401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e004d8bdfa2a6f7b9202df0f168eb347c8861903.png",
 					"item_emoji_list":"[{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/f533a0fa9731c78f504295272985656fa2b09ed0.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/4865cbad645259771e32e3b181b95c455598dfac.png\"},{\"name\":\"跑跑\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9800662ceb6b16e91142ea6f7be2cd7385271a0.png\"},{\"name\":\"啃啃\",\"image\":\"https://i0.hdslb.com/bfs/garb/4411ed77bbddafacd0256b4df7010834cfe91067.png\"},{\"name\":\"送你花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/2be6ff4c5916d50e8e5795e832a039581e278e83.png\"},{\"name\":\"探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc8309a8a486f5182ce2251ced35bce3f0644bf4.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/7527861ef35073579925677dc9cadd6a1553030c.png\"},{\"name\":\"嗷呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/a539eaf5b05f36de04c7592d8addf28b1d3a8da7.png\"},{\"name\":\"H\",\"image\":\"https://i0.hdslb.com/bfs/garb/91f18d702057a0d9b2ec94376945873550120582.png\"},{\"name\":\"O\",\"image\":\"https://i0.hdslb.com/bfs/garb/31dd8bd76bdd5c3c2e83cdc98ec7493e20476b65.png\"},{\"name\":\"L\",\"image\":\"https://i0.hdslb.com/bfs/garb/83a79f5ff112f159d000d7eb0c01adf39bebac82.png\"},{\"name\":\"I\",\"image\":\"https://i0.hdslb.com/bfs/garb/239caa88cc4ab1e4100bb47e6219591a8d314d9a.png\"},{\"name\":\"D\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0a265590ee358064bd88e9e29410cc9916ea551.png\"},{\"name\":\"A\",\"image\":\"https://i0.hdslb.com/bfs/garb/51a7999478b1763b415f2537abed6c9bf8fb1b53.png\"},{\"name\":\"Y\",\"image\":\"https://i0.hdslb.com/bfs/garb/d589125537865ea9a7e35f18de5d46b7e424a91d.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

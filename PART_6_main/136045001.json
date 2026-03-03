@@ -16,14 +16,11 @@
 		"item_id_card":"1703556198001",
 		"item_id_emoji_package":"1703486518001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"499999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1360450012",
 		"sale_sku_id_2":"1360450011",
 		"sale_time_begin":"1703818850",
@@ -81,20 +78,12 @@
 				"name":"文字萌萌",
 				"suit_item_id":136045001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2530d0c42c6c9ced9297a852d0974c06bb423b5b.png",
 					"item_emoji_list":"[{\"name\":\"ok\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff0677ba8ad976a0f0a57c7e7b6b1680cfea4e35.png\"},{\"name\":\"Hi\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d9c6e5d6c15248f6ac57422860f0075ed485363.png\"},{\"name\":\"滴滴\",\"image\":\"https://i0.hdslb.com/bfs/garb/82727d100d16bbbb33a87f8e74226b05ab09ed69.png\"},{\"name\":\"哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/e31aeb17c08591ec55af96ab9b9a1e2e1a9f30ba.png\"},{\"name\":\"嗯嗯\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7e914cec9cae682b05a90b545e7a058230b7366.png\"},{\"name\":\"是真的\",\"image\":\"https://i0.hdslb.com/bfs/garb/b64bd3f4cdcd7eacff6156ccd119e50d6f9f6808.png\"},{\"name\":\"是假的\",\"image\":\"https://i0.hdslb.com/bfs/garb/368d802a64028b06b7e5dec63993927b04d46093.png\"},{\"name\":\"QAQ\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d8d03d291ed928e9db452e0c2f8d6d2fa206a9c.png\"},{\"name\":\"对不起\",\"image\":\"https://i0.hdslb.com/bfs/garb/6234f522018dde02e20d7d1f80956e231719d023.png\"},{\"name\":\"233\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e1d4058ae122112a11112ce4e4c9cb09ba0c900.png\"},{\"name\":\"黑洞\",\"image\":\"https://i0.hdslb.com/bfs/garb/27059724a9736d979c8fa794cfbe3ed7c5360a53.png\"},{\"name\":\"飞跃\",\"image\":\"https://i0.hdslb.com/bfs/garb/a42dedeb4607ba2d1ee686f86658dced0ff982a3.png\"},{\"name\":\"趴趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ba1c4c417f6aee5e1ff2839fd527b44bb310828.png\"},{\"name\":\"0分反转\",\"image\":\"https://i0.hdslb.com/bfs/garb/923d016fb8a7398050c8b94eb61f379b9eeee02c.png\"},{\"name\":\"锤锤锤\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ac0146b9af8fa434621ef977490067526bed6d1.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

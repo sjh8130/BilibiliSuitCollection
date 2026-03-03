@@ -16,14 +16,11 @@
 		"item_id_card":"1681800797001",
 		"item_id_emoji_package":"1681800861001",
 		"owner_uid":"504406727",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1108449012",
 		"sale_sku_id_2":"1108449011",
 		"sale_time_begin":"1682250769",
@@ -81,20 +78,12 @@
 				"name":"地雷少女",
 				"suit_item_id":110844901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/81260a931dd76f4390675e00dd50d093e43395bb.png",
 					"item_emoji_list":"[{\"name\":\"主人\",\"image\":\"https://i0.hdslb.com/bfs/garb/07f325812144dab17f1dc6a7a2699e03d8dcba97.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b4c8712bc9f1f94450feb7af72ef842afd6630c.png\"},{\"name\":\"rich\",\"image\":\"https://i0.hdslb.com/bfs/garb/4261ec9ef63db2a3ea86f14010e000f5d9819461.png\"},{\"name\":\"哒咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/782dbdfe6f788728721e7afa80a6e815cce3d077.png\"},{\"name\":\"世界一番\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b1f3b7918e09a9289958cee5466cb0950d9976d.png\"},{\"name\":\"入睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ca5be53f738f1139848784a4e131cfb34d8ce43.png\"},{\"name\":\"呃\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f57c76e30d8a73f07b5cf666ed821347c2916de.png\"},{\"name\":\"歪头\",\"image\":\"https://i0.hdslb.com/bfs/garb/410685de63c47ec4523f0e62fb31ee3b554aa556.png\"},{\"name\":\"我怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2d696fc4d440ccbec950bddf8ac6a9ab09335da.png\"},{\"name\":\"汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/f43bf47186236ba6b51806220f2629986ec5e36a.png\"},{\"name\":\"过分\",\"image\":\"https://i0.hdslb.com/bfs/garb/37d9980152c2eb4b568d273ccf7df45ffbee1b3b.png\"},{\"name\":\"破防了\",\"image\":\"https://i0.hdslb.com/bfs/garb/02e4805671ebc4613e44ba66f63317c35310e2e9.png\"},{\"name\":\"略\",\"image\":\"https://i0.hdslb.com/bfs/garb/f876fb2df9d89be35d9b1f9f32c92f58eb85df30.png\"},{\"name\":\"难绷\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4bc36c9a33d2cf4a17a73c3a2d0f51eb837b78c.png\"},{\"name\":\"穷\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a69674377cc7f5d283c2f3f213456ad20ae6c08.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

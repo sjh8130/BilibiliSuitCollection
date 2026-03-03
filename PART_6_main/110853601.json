@@ -16,14 +16,11 @@
 		"item_id_card":"1681811009001",
 		"item_id_emoji_package":"1681811216001",
 		"owner_uid":"3461581786581601",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"6666",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1108536012",
 		"sale_sku_id_2":"1108536011",
 		"sale_time_begin":"1682429120",
@@ -81,20 +78,12 @@
 				"name":"芭蕾情书",
 				"suit_item_id":110853601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/cc4b2d1cac4db368897d0767b373f61cf032fceb.png",
 					"item_emoji_list":"[{\"name\":\"转圈圈\",\"image\":\"https://i0.hdslb.com/bfs/garb/a34c15386f57331835ffb105259b13e0750f46ea.png\"},{\"name\":\"优雅\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e5e82b379af768e20725d378c2c74084af7f2c0.png\"},{\"name\":\"看戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/21577308fc369ccead24978c8148195797cdb399.png\"},{\"name\":\"劈个叉\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a60fb8aa95792e54a410dc44ef91f5996d985ab.png\"},{\"name\":\"脑袋空空的\",\"image\":\"https://i0.hdslb.com/bfs/garb/5c03202416064847ff18f45114b2a27d39cca59c.png\"},{\"name\":\"气\",\"image\":\"https://i0.hdslb.com/bfs/garb/80625448643cf29d7478073cebaf47231d6bca08.png\"},{\"name\":\"变漂亮\",\"image\":\"https://i0.hdslb.com/bfs/garb/61f956fa8c8badf8fe0908547ebbf77d973aed00.png\"},{\"name\":\"仙女不气\",\"image\":\"https://i0.hdslb.com/bfs/garb/39958d8932da26138c95475ba76f0f6d284be20f.png\"},{\"name\":\"仙女落泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/144ac3fb18579b8f97fd2c40c929b25d74f3e150.png\"},{\"name\":\"累瘫\",\"image\":\"https://i0.hdslb.com/bfs/garb/a181debbf8b2a29fda68d132aca4e004123816db.png\"},{\"name\":\"拳头嗯了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2469393266e78d52edf533f925553a436633105.png\"},{\"name\":\"萌混过关\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdacbf1a5d4ebf12bc8c247809574b912aa05042.png\"},{\"name\":\"我不看\",\"image\":\"https://i0.hdslb.com/bfs/garb/a837050da7108e06806dfa6f3c483bf125bad1a7.png\"},{\"name\":\"鞠躬\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0385aab813abb695fe7b57beb17cb0cedb4ccb5.png\"},{\"name\":\"起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6ba909d38a94a73f92fa9980c607aac3e12e2b2.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

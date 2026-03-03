@@ -16,14 +16,11 @@
 		"item_id_card":"1731234621001",
 		"item_id_emoji_package":"1731234904001",
 		"owner_uid":"5888511",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"200000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2315572012",
 		"sale_sku_id_2":"2315572011",
 		"sale_time_begin":"1731466800",
@@ -81,21 +78,13 @@
 				"name":"星途",
 				"suit_item_id":231557201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/873ac2f38c278bb78db4eccb8defe6345f9fd69a.png",
 					"item_emoji_list":"[{\"name\":\"北斗七星1\",\"image\":\"https://i0.hdslb.com/bfs/garb/07271d3f72b7251b0e196ba154a7bf507cba7fc3.png\"},{\"name\":\"北斗七星2\",\"image\":\"https://i0.hdslb.com/bfs/garb/fb8dd4d1a0fe396ef39f41ff57eaed897d79dedf.png\"},{\"name\":\"北斗七星3\",\"image\":\"https://i0.hdslb.com/bfs/garb/242b7eff18629b6c4f57fe36c91ba72f8c4d7518.png\"},{\"name\":\"忧郁\",\"image\":\"https://i0.hdslb.com/bfs/garb/af6a04bcc465ec200edd98abda33e04462b7c6e1.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/28c015371117549204ee0331d9273325a7ab2bc8.png\"},{\"name\":\"陨石速度\",\"image\":\"https://i0.hdslb.com/bfs/garb/d17626cc3dbbd48d2dfca8dff193f7b1b2eabe85.png\"},{\"name\":\"陨石速度2\",\"image\":\"https://i0.hdslb.com/bfs/garb/fabd5b3c27356561cf8bebe031f2344cc24bf40e.png\"},{\"name\":\"陨石撞地球\",\"image\":\"https://i0.hdslb.com/bfs/garb/4eb884297581ebbfd8b32c9f7a29729ca21d25c0.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/009f5845f367ba6c47816c63814624741e0666e1.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ed7c91f30125eb38726d558709b2be73b7528cb.png\"},{\"name\":\"火箭1\",\"image\":\"https://i0.hdslb.com/bfs/garb/086988fbeddacb7ac4d30feee5f3d03cbd619b33.png\"},{\"name\":\"火箭2\",\"image\":\"https://i0.hdslb.com/bfs/garb/730d20d58f6b007b8801ceca5d73fd9397ebd97e.png\"},{\"name\":\"火箭3\",\"image\":\"https://i0.hdslb.com/bfs/garb/d4eb1b176e8813d0dce84094be911af5150955eb.png\"},{\"name\":\"火箭4\",\"image\":\"https://i0.hdslb.com/bfs/garb/2936e822019d4ac15addfbf88da5ac46ec30362a.png\"},{\"name\":\"火箭5\",\"image\":\"https://i0.hdslb.com/bfs/garb/66ca282cb7f38c1ee20ebd77a10f00f73b77fdc2.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1680253466001",
 		"item_id_emoji_package":"1680253513001",
 		"owner_uid":"3493080047029111",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"9999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1090522012",
 		"sale_sku_id_2":"1090522011",
 		"sale_time_begin":"1712635200",
@@ -82,20 +79,12 @@
 				"name":"魔法小螈",
 				"suit_item_id":109052201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8efb07f3a4b3fccbf55957ba8b19274921203e6c.png",
 					"item_emoji_list":"[{\"name\":\"你好\",\"image\":\"https://i0.hdslb.com/bfs/garb/2e02dbfa79cad7923218a1dc6373b35c8399a6de.png\"},{\"name\":\"变身\",\"image\":\"https://i0.hdslb.com/bfs/garb/42d1fe29f270a23fbef2ec9cda5219e96865c970.png\"},{\"name\":\"唱歌\",\"image\":\"https://i0.hdslb.com/bfs/garb/ebdf2227d16350cb475d81bb7bf334e145b05381.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/ee900fb89621b3cb23a598ed34e0daef1d298ce5.png\"},{\"name\":\"好奇\",\"image\":\"https://i0.hdslb.com/bfs/garb/698dbb6fca4401d5c5c28311f1d6f46f75ed8eff.png\"},{\"name\":\"好喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e6691932e5c290ec75ad400de403069d5d4d513.png\"},{\"name\":\"计划通\",\"image\":\"https://i0.hdslb.com/bfs/garb/6997f011e6fd0f62d6547d7a2e4be6fd55aeae2b.png\"},{\"name\":\"哭唧唧\",\"image\":\"https://i0.hdslb.com/bfs/garb/23e8b7197ece39141e696ee61ec35134e3aa55c1.png\"},{\"name\":\"略略略\",\"image\":\"https://i0.hdslb.com/bfs/garb/33aaa07bb02da6d703c83073f58c23a05de752cf.png\"},{\"name\":\"摸摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/f04837b358b9f5bd5c31b2a0e5d183769b2640d5.png\"},{\"name\":\"伸懒腰\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe89e19ef03604d64894a020d7541b619a17b1e4.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/bcb19902cd7ea7691c375b43c162c9651ebc73e6.png\"},{\"name\":\"逃离现场\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd9fc841875f122632735edb05860f7ddd621ad3.png\"},{\"name\":\"投降\",\"image\":\"https://i0.hdslb.com/bfs/garb/58e34d03d1e2d76a86fb8dd02fd662285f093a5a.png\"},{\"name\":\"装死\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd01122e42462378b6d6274c5846357587844a4d.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

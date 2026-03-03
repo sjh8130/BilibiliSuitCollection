@@ -25,14 +25,11 @@
 		"item_id_thumbup":"2252",
 		"owner_uid":"647193094",
 		"rank_investor_name":"侠士鸣谢榜",
-		"rank_investor_show":"true",
 		"sale_bp_forever_raw":"5000",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"100",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"false",
 		"sale_sku_id_1":"22682",
 		"sale_sku_id_2":"22681",
 		"sale_time_begin":"1595847600",
@@ -83,18 +80,11 @@
 				"tab_id":8,
 				"suit_item_id":2268,
 				"properties":{
-					"addable":"true",
 					"biz":"dynamic,reply,watch_full",
 					"image":"https://i0.hdslb.com/bfs/emote/e2fe6d74de3a7a9e7e64ba91c701f672798802a9.png",
 					"item_ids":"2253,2254,2255,2256,2257,2258,2259,2260,2261,2262",
-					"permanent":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1689683095001",
 		"item_id_emoji_package":"1701331346001",
 		"owner_uid":"1181834006",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1334358012",
 		"sale_sku_id_2":"1334358011",
 		"sale_time_begin":"1701768450",
@@ -81,20 +78,12 @@
 				"name":"甜蜜派对第一弹",
 				"suit_item_id":133435801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/cab3a64de9b1826fdf91050fbc3d25697dbf68d1.png",
 					"item_emoji_list":"[{\"name\":\"Hi\",\"image\":\"https://i0.hdslb.com/bfs/garb/386c4895ba615d889d7be54af098323dbd3e7083.png\"},{\"name\":\"haha\",\"image\":\"https://i0.hdslb.com/bfs/garb/83bcbd20f63dff0267c8bf3f85ad84910f8e785f.png\"},{\"name\":\"go\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a5e883d0a3ba1c8bd78e8e9588ce1b475a8a963.png\"},{\"name\":\"kiss\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7d70cd3fe39cfd1345e68ea1049fdd77345065e.png\"},{\"name\":\"nice\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b0ff6708b4a0afcb44bdd14942bbe1b126aa468.png\"},{\"name\":\"sad\",\"image\":\"https://i0.hdslb.com/bfs/garb/66fe839908ed219f0195bbd27fa6afd37a085d35.png\"},{\"name\":\"www\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd6629d5943f4a5fa90a0c8e8c072df6d4303664.png\"},{\"name\":\"lol\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e309cee0b23f51e6a557e3474733a3539661416.png\"},{\"name\":\"no\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5fa0229efd9c5e11342ed0091e114233fa28311.png\"},{\"name\":\"what\",\"image\":\"https://i0.hdslb.com/bfs/garb/75fb434830c73d8c8f17a28247bacc37723a40c5.png\"},{\"name\":\"plz\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9343ee2a8a5c7278c36fe66d86d2c528afe88b0.png\"},{\"name\":\"mom\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed52f97c3595f1daf2b73af58d6b96f4e2ba547c.png\"},{\"name\":\"why\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7831f81108adfba961b4938ae7cbaacb5aed70f.png\"},{\"name\":\"bye\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5b1bfde01b74448d37f03a80f25abd0c3b1dcd7.png\"},{\"name\":\"hot\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3fe5167b6b34f2b47c4fe37e00de365fe6bd1d4.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

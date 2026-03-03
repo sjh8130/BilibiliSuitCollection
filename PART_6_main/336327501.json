@@ -16,14 +16,11 @@
 		"item_id_card":"1766732130001",
 		"item_id_emoji_package":"1766732452001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3363275012",
 		"sale_sku_id_2":"3363275011",
 		"sale_time_begin":"1767667170",
@@ -81,21 +78,13 @@
 				"name":"冬雪小狐",
 				"suit_item_id":336327501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/33351d1fd38e3b76eb23f5d9c3904ccf4d176ad9.png",
 					"item_emoji_list":"[{\"name\":\"心虚\",\"image\":\"https://i0.hdslb.com/bfs/garb/62c1f365edf71b6399b0fafcec61fac8d9d3c0d3.png\"},{\"name\":\"吃手\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c17b90a518195fcec009b3a8ff13f847f6cb0c3.png\"},{\"name\":\"品鉴\",\"image\":\"https://i0.hdslb.com/bfs/garb/a48c56cd9116b369d6b4c7667779aee88f17e83b.png\"},{\"name\":\"酸\",\"image\":\"https://i0.hdslb.com/bfs/garb/31de347ab89273fe926bf39b687d10b1fc7a2f6b.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/3d8815c92bf20c20390ecfe3299cf3907ca20594.png\"},{\"name\":\"艾特\",\"image\":\"https://i0.hdslb.com/bfs/garb/619107abdf92a528f619fa000e2467b89f07acd3.png\"},{\"name\":\"叼花\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd23ec2744e11ad761fecfa024ac4b6910e7831d.png\"},{\"name\":\"展示\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd2183bdd96c07bcb550e3a7735f30fe1d28989e.png\"},{\"name\":\"石化\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5f429fa36ee141629283112281840437b6c5a4e.png\"},{\"name\":\"豆橛子\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7b91106c528cc7446b1ed6f120943bbb97020df.png\"},{\"name\":\"对\",\"image\":\"https://i0.hdslb.com/bfs/garb/25e099e8aabcffe8e6e3ad48bf0d19a4ce5b86ef.png\"},{\"name\":\"错\",\"image\":\"https://i0.hdslb.com/bfs/garb/2492ef19d04bc0127ac773c2d9cfe9b1fd39888f.png\"},{\"name\":\"融化了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1cc623fbeb6ffe7cf76b0d36cbd817631b8f82c.png\"},{\"name\":\"偷偷看\",\"image\":\"https://i0.hdslb.com/bfs/garb/d15d9f66f7d0599cf2a152a19e910094769fe1a6.png\"},{\"name\":\"看报\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad0a1bc480db10b7792cbba8216fa091ad27afdb.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

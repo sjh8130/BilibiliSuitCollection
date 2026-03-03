@@ -16,14 +16,11 @@
 		"item_id_card":"1737532122001",
 		"item_id_emoji_package":"1737532178001",
 		"owner_uid":"204715617",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3022477012",
 		"sale_sku_id_2":"3022477011",
 		"sale_time_begin":"1737943200",
@@ -81,21 +78,13 @@
 				"name":"奶茶鼠财神到",
 				"suit_item_id":302247701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8329b31770b76fe4c4bc78b1f409af0f086fab11.png",
 					"item_emoji_list":"[{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/5c735bd06fac154182e5eb326e3952b3a16d9c78.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/d781f6ce00372cdafa969629c2d2b20d25a4ae53.png\"},{\"name\":\"喝奶茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/26139f98e5414f7bde58719268fc17cdaea5c7b0.png\"},{\"name\":\"emm\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2cf1488f6baba813b7d6e8e9c7168684d052b60.png\"},{\"name\":\"色\",\"image\":\"https://i0.hdslb.com/bfs/garb/efc9b1420c638d08db23eebaf5c9c32ef150f653.png\"},{\"name\":\"棒棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/959aa014238b225e12746ba838a69f4c5fd520a2.png\"},{\"name\":\"惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ef1bd244a10c16ab32d6611ca6e1acaeac97ca3.png\"},{\"name\":\"偷笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0c7c9a0ea964fd94c303cf526ec78e0b5e029c7.png\"},{\"name\":\"打脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/7cf9e9544acbdbf723da77d3d9a29fc25df1bba8.png\"},{\"name\":\"饿\",\"image\":\"https://i0.hdslb.com/bfs/garb/d4b169f5b0c1dbfbf4ec10611666fb12fda1619b.png\"},{\"name\":\"调皮\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb11be326e4a808f3eb2b1fb7660b1ae5f4ee246.png\"},{\"name\":\"汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a402b0ad4f5f784c385dccc8993347fa253de23.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0eaca4546b06bedf2a3bce7d9fffadefb195738.png\"},{\"name\":\"看书\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e5a18b0ed5bbd189e0b53fd872f999e3cfa07e1.png\"},{\"name\":\"很多问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/3376020514479b4cb260b152ca593d06ae8fc4d8.png\"},{\"name\":\"玫瑰\",\"image\":\"https://i0.hdslb.com/bfs/garb/36fc323baa5c11591c8321bdba5f80d6788ccd17.png\"},{\"name\":\"拍照\",\"image\":\"https://i0.hdslb.com/bfs/garb/7fca5598983f92093dd0a2f7d1024725db79b499.png\"},{\"name\":\"吐\",\"image\":\"https://i0.hdslb.com/bfs/garb/de650a4f71a9e6cca1c3f2b19ca8c37c62294e42.png\"},{\"name\":\"庆祝\",\"image\":\"https://i0.hdslb.com/bfs/garb/bde4233c22b3007fa52d0abb1cd4bbd3c674cf81.png\"},{\"name\":\"感动流泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/78b86aa19715fe8e587ad58b428dd256b0a6bb2b.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

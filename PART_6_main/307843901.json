@@ -16,14 +16,11 @@
 		"item_id_card":"1742203997001",
 		"item_id_emoji_package":"1742204167001",
 		"owner_uid":"3494364170947008",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"3000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3078439012",
 		"sale_sku_id_2":"3078439011",
 		"sale_time_begin":"1742537190",
@@ -81,21 +78,13 @@
 				"name":"小猫并没有生气",
 				"suit_item_id":307843901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/db5ba26a974a99f2edbe1c681f9fb7145f1fd5fc.png",
 					"item_emoji_list":"[{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/0665f833a372c4ca85aa6fb14556eb35cbf348ad.png\"},{\"name\":\"卖萌\",\"image\":\"https://i0.hdslb.com/bfs/garb/415f76a6f2243dd9ec0a8f1a05b09f61cf945428.png\"},{\"name\":\"低落\",\"image\":\"https://i0.hdslb.com/bfs/garb/21e01b3bc1fb4da6cb1a47ea54c341eb2a7a72a0.png\"},{\"name\":\"困\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f798becfc3279dccbd8fa259dd78fa887efa3e0.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/f63241f384fe24f8ad7c924ca1749b13d59aebef.png\"},{\"name\":\"磨爪爪\",\"image\":\"https://i0.hdslb.com/bfs/garb/49aa0c3d29810285eade47c5f6465a933efd1d41.png\"},{\"name\":\"惊讶\",\"image\":\"https://i0.hdslb.com/bfs/garb/260d0955695bbc7eccb073a34fef23c184e6f236.png\"},{\"name\":\"惊吓\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ce388f6f19aa8bf8587de57d3af712406c5c0c8.png\"},{\"name\":\"着急\",\"image\":\"https://i0.hdslb.com/bfs/garb/53b4cd0a5380b1453f967c5cb7015921411e41db.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a9fcf916210c2c101bcb692dbaf7b5e325340ea.png\"},{\"name\":\"伤心\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd26117a55fd492181877dbfce39c0931f35e4c2.png\"},{\"name\":\"干什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/2bb1b2502f48c7b5aface943678699222b1a9119.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/4d8d3cdd5095edf355d5e39d1c7d8f0ef9789fe2.png\"},{\"name\":\"趴下\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c1468ee83cba08c6ba73aa712e26890ff8b2d6c.png\"},{\"name\":\"啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/6074a507302b8fe0842e4bba972718eaa1657ae3.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

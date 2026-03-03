@@ -15,14 +15,11 @@
 		"item_id_card":"1720003570001",
 		"item_id_emoji_package":"1720003591001",
 		"owner_uid":"204715617",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"9999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2185566012",
 		"sale_sku_id_2":"2185566011",
 		"sale_time_begin":"1720090800",
@@ -81,21 +78,13 @@
 				"name":"奶茶鼠圣诞日",
 				"suit_item_id":218556601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b734d80268bf45971f54e1d113950dc6adcf3b2c.png",
 					"item_emoji_list":"[{\"name\":\"送你\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5bd4f10c098f99848a0f0e96e9122bccda5902a.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/b00babc33bd13de0fbbb827624cd1c4bf5a722ac.png\"},{\"name\":\"哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/af2af9bcea6691a204af455d16dae267c83eccc8.png\"},{\"name\":\"热\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f4469fe104f6bc5879e0c6abc9c9135c5f6e786.png\"},{\"name\":\"别走啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/8cb8af2954ea15e49163dae47045d074ed01ef5f.png\"},{\"name\":\"爱心攻击\",\"image\":\"https://i0.hdslb.com/bfs/garb/fde9e21b3ebc935a8c0bfb56f5ddf3dd8c696717.png\"},{\"name\":\"垃圾\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f46602764427f36967de336f2a54e3ebdb109c6.png\"},{\"name\":\"呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/ded4e015adff267c0f1c56777759de94a1319a74.png\"},{\"name\":\"查岗\",\"image\":\"https://i0.hdslb.com/bfs/garb/19fe1faf863cedef8b2a4b3572a460e418e35ae5.png\"},{\"name\":\"饿\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5e94730787be3495d0dd75d4d76c0679a7337bc.png\"},{\"name\":\"按摩\",\"image\":\"https://i0.hdslb.com/bfs/garb/5df9b98ff283e50231caa84ee340da9e2906f67a.png\"},{\"name\":\"悠闲\",\"image\":\"https://i0.hdslb.com/bfs/garb/bfdd36550d5e7a262b7779784cbedc7621443346.png\"},{\"name\":\"溜了\",\"image\":\"https://i0.hdslb.com/bfs/garb/aee09b00aa9f3c9a2b8967cf57878c15f8dd48e8.png\"},{\"name\":\"离谱\",\"image\":\"https://i0.hdslb.com/bfs/garb/d663f9553c10c51fa6590c9bb3f1c782e48cc1b2.png\"},{\"name\":\"补妆\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2020fba656ca75cd55c2df436b68c1e14bfe35b.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/b12141dac16f7c74442f64e5686e39944cf84f34.png\"},{\"name\":\"困\",\"image\":\"https://i0.hdslb.com/bfs/garb/071ca892fadfc192e231ebfcdd51b78dafdc86b6.png\"},{\"name\":\"咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5938776e5c66e894ed523b87c4871df692eb76f.png\"},{\"name\":\"看书\",\"image\":\"https://i0.hdslb.com/bfs/garb/d727eafb65b1fa9cd312dec2af7f72d68af93c5d.png\"},{\"name\":\"收到\",\"image\":\"https://i0.hdslb.com/bfs/garb/b24088feaa400650ea8ed68e91ca042427e59aa8.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

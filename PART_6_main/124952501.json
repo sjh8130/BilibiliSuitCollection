@@ -16,14 +16,11 @@
 		"item_id_card":"1693992343001",
 		"item_id_emoji_package":"1693992384001",
 		"owner_uid":"1181834006",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1249525012",
 		"sale_sku_id_2":"1249525011",
 		"sale_time_begin":"1694147769",
@@ -81,20 +78,12 @@
 				"name":"狮王少女",
 				"suit_item_id":124952501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/28c59861caddc06351f11055f0eccad12dc1f100.png",
 					"item_emoji_list":"[{\"name\":\"嗷\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b8a9e9040a4e8485f9a0b571bb2638ee6595b6a.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/73b27a94848ff066e61cff3d1722305151c1e4c6.png\"},{\"name\":\"吃肉\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1f2628230ad55f2d99d911b4b3bed7df91a63b6.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/192bf6312fa6ece4fba666c7d7713713c23da139.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f8ac0fad3f01952075f06478fe3a64fc1bd9062.png\"},{\"name\":\"炸毛\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ba4402544e58647d066ec5aef0e49baa7d2c39d.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/43e2f2ff426f10eee98082736ffb08ce55e049a1.png\"},{\"name\":\"智慧\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc0f8e14356ed9eda754e9c2b860efb378f7c0f4.png\"},{\"name\":\"嫌弃\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc07d65ede9d41fe7a214c907abecfd0609d44d9.png\"},{\"name\":\"震撼\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b7e232991af18c537f00e66e4a37177421beff6.png\"},{\"name\":\"大西叽\",\"image\":\"https://i0.hdslb.com/bfs/garb/5251b1844683477953bf12bd3746b9129d767db5.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/ddbb4b52324dfdb68b66caeed9b5e5508da498be.png\"},{\"name\":\"饿饿饭饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/fa2d85176c06d55c7416450fd476c62b7928f51d.png\"},{\"name\":\"盯上你了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c948f91cd5297de8c754be66a4e7f3f055cccefa.png\"},{\"name\":\"可怜巴巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/73af83ed546e90dea1bb124bd7754b7694ccd638.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

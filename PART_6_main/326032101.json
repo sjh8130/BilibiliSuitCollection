@@ -16,14 +16,11 @@
 		"item_id_card":"1758076630001",
 		"item_id_emoji_package":"1758076739001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3260321012",
 		"sale_sku_id_2":"3260321011",
 		"sale_time_begin":"1758942431",
@@ -81,21 +78,13 @@
 				"name":"千禧少女",
 				"suit_item_id":326032101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/be85613dc28c0953a9b0be3b6589de46ea0268b6.png",
 					"item_emoji_list":"[{\"name\":\"星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/65ac2eb4bfab49745cbebf50ef83e8cfaef42650.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/132c1f680e49fe16e54964fb8bb39b1d817b88fa.png\"},{\"name\":\"小猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1eb236aef1652e72da4f27041f85682760e91cc.png\"},{\"name\":\"小天使\",\"image\":\"https://i0.hdslb.com/bfs/garb/f84b1c71b36668688483033173945642541a685e.png\"},{\"name\":\"眨眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9eb9dd854e889452fc6e607fff5facac20d49e4.png\"},{\"name\":\"比耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/35c2f84bc3ec736229667af178748144fe874f3f.png\"},{\"name\":\"快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/208f826fba5c93751e8d261798d6d0521389f0f1.png\"},{\"name\":\"光碟\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd935cc01fc545190f74956062192f5f83703ff8.png\"},{\"name\":\"信封\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb474a2455eb2d2441b8be55d39a3a38d020fa39.png\"},{\"name\":\"彩虹\",\"image\":\"https://i0.hdslb.com/bfs/garb/125ac2311c17787febf6e43cae5304e29f8db320.png\"},{\"name\":\"弹窗\",\"image\":\"https://i0.hdslb.com/bfs/garb/d35147abb10117feeeac32545d32966045403afe.png\"},{\"name\":\"大星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/38cc6c6d600a61e80d9483e5c5a6ef30ec030ee0.png\"},{\"name\":\"文件夹\",\"image\":\"https://i0.hdslb.com/bfs/garb/c94557bb93094d69bdcd340dd365e9f12bbe837b.png\"},{\"name\":\"四叶草\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5f3105e3aabdd3592e7c7e3ae011c1fe939abfd.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/93af58c565cee78e33e44787e46999f1794a55ce.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

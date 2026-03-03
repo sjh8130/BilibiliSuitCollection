@@ -16,14 +16,11 @@
 		"item_id_card":"1745314839001",
 		"item_id_emoji_package":"1745303214001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3113291012",
 		"sale_sku_id_2":"3113291011",
 		"sale_time_begin":"1745576260",
@@ -81,21 +78,13 @@
 				"name":"包浆小鸟",
 				"suit_item_id":311329101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6847c7fc6e5a5a2d0cb98c47398c21980aea8fae.png",
 					"item_emoji_list":"[{\"name\":\"期待鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/95f0e725fb97ce25abe00b1ccf928164e2e911d0.png\"},{\"name\":\"v我50鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/e335d59a7239f3ef882c81c4951818762aa282fe.png\"},{\"name\":\"拿捏鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d682b28b12c69349205dbf2777dedf9ece7517f.png\"},{\"name\":\"好朋鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/ede591780669665703d486d819cf7e11bc7c6ac3.png\"},{\"name\":\"过两招鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/8126a2b4ccb8c1e982b9904cec3e3f391522c661.png\"},{\"name\":\"强壮鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3dda3f7867792c4d2104fe83e11b5440c842f6f.png\"},{\"name\":\"倒要看看鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/73b00fe691541dd2ea127884b61bfaeee4a5395d.png\"},{\"name\":\"保佑鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/e726465bdf4185d1154c4b6c01ca6c3cb16382a6.png\"},{\"name\":\"判决鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/afa6c8f2230e7f64c88cc43d0d60a1e4e14bbc8e.png\"},{\"name\":\"望风鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/d8434a0f0f5264a8d409588107f494d6e6875961.png\"},{\"name\":\"酸鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/fefb96f3f0a440999240bf95df840db3e032dda8.png\"},{\"name\":\"摸摸鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/26526ff6c75e5aaf9c85850e4f93e2cceebd5bc1.png\"},{\"name\":\"登基鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f1fc321ff21b05b439aa226542cbebb27f95ecc.png\"},{\"name\":\"丢失鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a47eacfb691e3251a5eb68fbc8f7f36f41f5ecb.png\"},{\"name\":\"凝视鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b9bf5f0ab4ebe1375b4a38e19ed758453ab3051.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

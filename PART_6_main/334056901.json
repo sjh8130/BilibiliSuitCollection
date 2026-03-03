@@ -16,14 +16,11 @@
 		"item_id_card":"1764948486001",
 		"item_id_emoji_package":"1764948816001",
 		"owner_uid":"5888511",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"200000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3340569012",
 		"sale_sku_id_2":"3340569011",
 		"sale_time_begin":"1765339200",
@@ -81,21 +78,13 @@
 				"name":"遥",
 				"suit_item_id":334056901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/448a71a378fff29ea1b201750062e4a645551e48.png",
 					"item_emoji_list":"[{\"name\":\"OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/b29a78681fafb5b7f32b69bee25f630350ac7c8e.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/a4f3fd2f4742b045ef0d48c2d1223738463dfcb9.png\"},{\"name\":\"没眼看\",\"image\":\"https://i0.hdslb.com/bfs/garb/5264149f4fe6a861bbffdf01654f2b986fde9e73.png\"},{\"name\":\"送花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/935e12c550bf22e54343df833ee495fb4ce9227a.png\"},{\"name\":\"飘花\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf24469c1464caa8d2214460c1897ff83cab1805.png\"},{\"name\":\"可怜\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3fcb1231a07018e2feaa2ae77027e74ccace76e.png\"},{\"name\":\"愤怒\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9f180865bd6fe4183c9f5172e912321ccf0bb96.png\"},{\"name\":\"惊喜\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f8153acb7a5d101da7eebce4adfa0579b8bf0b1.png\"},{\"name\":\"开溜\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8a107067764128c481dc72cfda86bec00365b4a.png\"},{\"name\":\"无语ing\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f8e6fe42f6fbf9136561206f0f026cd2fda5498.png\"},{\"name\":\"火车头\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1a0a92dcca32e217c417aba988b6fa13fc196cb.png\"},{\"name\":\"开\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9bd72baf84260ac3925ae164d8da8cf30ddd035.png\"},{\"name\":\"往\",\"image\":\"https://i0.hdslb.com/bfs/garb/31642d37a027b2ef94c17f64ee2693de558434a2.png\"},{\"name\":\"春\",\"image\":\"https://i0.hdslb.com/bfs/garb/4fe3f8287d445cf4a72d442aba24dcf5c53d1e73.png\"},{\"name\":\"天\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ac41aff9d01a11c505984cdf685b909f492140e.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

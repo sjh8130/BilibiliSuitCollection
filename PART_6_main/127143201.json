@@ -16,14 +16,11 @@
 		"item_id_card":"1695881317001",
 		"item_id_emoji_package":"1695881523001",
 		"owner_uid":"3493275023444234",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1271432012",
 		"sale_sku_id_2":"1271432011",
 		"sale_time_begin":"1696903200",
@@ -82,20 +79,12 @@
 				"name":"柴柴的日常",
 				"suit_item_id":127143201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/501881430708b43d06bde71a8d96e38a4996a004.png",
 					"item_emoji_list":"[{\"name\":\"丑拒\",\"image\":\"https://i0.hdslb.com/bfs/garb/9c28e6a92706781c7afa9c81b011a4933709b795.png\"},{\"name\":\"凭什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/3caf85dd857f7ec036dc5af1046b9987febb5680.png\"},{\"name\":\"好想逃\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5fb24aaf15e08ad435bdfd4a4926ff36c622e63.png\"},{\"name\":\"救救我\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe680687ad7451deebe88bfe8be8a253bc8d49ae.png\"},{\"name\":\"你有事\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5fe309a36261edd26d516948a7ff2ff87675b8e.png\"},{\"name\":\"保持微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/94eaf79c76dae91c21b53ec42f87ae6c2ec40be7.png\"},{\"name\":\"我好忙\",\"image\":\"https://i0.hdslb.com/bfs/garb/31c4b3e4fd2e8b7bfdbd73130502d7f0a64e1d87.png\"},{\"name\":\"迷惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/73942da3603eebe8f94e727048c62497548582e1.png\"},{\"name\":\"嘻嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/07f3a12474d426abcc94e1c9e4b29b062df6ffe6.png\"},{\"name\":\"成交\",\"image\":\"https://i0.hdslb.com/bfs/garb/327f0f3ec9915b420cca2516e8b7d1a7b6e40844.png\"},{\"name\":\"嘤嘤\",\"image\":\"https://i0.hdslb.com/bfs/garb/3bc97abda55ebe567ce3c1159ebcf7136c815243.png\"},{\"name\":\"离谱\",\"image\":\"https://i0.hdslb.com/bfs/garb/675e0b6629d1ff5b6f5c970a01ed448cf4701751.png\"},{\"name\":\"没事\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b4e7d16946c18bb6592e05d8a2a30f20449350f.png\"},{\"name\":\"真的栓Q\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3a4eec113527b3f08a004900987fb3d85101b50.png\"},{\"name\":\"哈啰\",\"image\":\"https://i0.hdslb.com/bfs/garb/7690b88f96c25415bbf909f36c212e2b38d3a483.png\"},{\"name\":\"冲呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f6462a03726c7dc0b2cd84622f6aa9f96a9c2d2.png\"},{\"name\":\"休息一下\",\"image\":\"https://i0.hdslb.com/bfs/garb/f97cedb4d605115fe179fce9c15a359f007b365f.png\"},{\"name\":\"啪\",\"image\":\"https://i0.hdslb.com/bfs/garb/07ac51bbfb13c5d942b2a2536e26ec77d1ecbb52.png\"},{\"name\":\"啊对对对\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f620ac949c3d3efa53586dfbfb6b0768eca95ca.png\"},{\"name\":\"先走一步\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a8a25ca09831874d50f387db34ab2ac516a4e10.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

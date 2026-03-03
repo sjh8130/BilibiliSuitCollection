@@ -16,14 +16,11 @@
 		"item_id_card":"1701774038001",
 		"item_id_emoji_package":"1701682456001",
 		"owner_uid":"1181834006",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1339603012",
 		"sale_sku_id_2":"1339603011",
 		"sale_time_begin":"1702007160",
@@ -81,20 +78,12 @@
 				"name":"老新汉堡店",
 				"suit_item_id":133960301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7889a7303bd5328ecc911cb451e1314d556adb7e.png",
 					"item_emoji_list":"[{\"name\":\"汉堡盖\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f6f5d8d663dc486e004c20dfcd447da50a34ca3.png\"},{\"name\":\"肉饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/9fb7d5a81a5480e5f6f14c6ba9a6897eed3a16cc.png\"},{\"name\":\"菜\",\"image\":\"https://i0.hdslb.com/bfs/garb/65919927c3032a0794fd11824d1bde795dca47ec.png\"},{\"name\":\"虾仁\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbe89d629816c6b88d76dd5578e86e030057c6a0.png\"},{\"name\":\"袜子\",\"image\":\"https://i0.hdslb.com/bfs/garb/772ef6ba8b323f30debc7b001e1900f59f226697.png\"},{\"name\":\"大螂\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b1a7785efc426d40d8f906c4c0f8e5df8a65024.png\"},{\"name\":\"芝士红柿\",\"image\":\"https://i0.hdslb.com/bfs/garb/f455497a0eeb7584c199a61b954842f06246415b.png\"},{\"name\":\"薯条\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0848dc2750ed6b3053d10846741b3f29b8cb244.png\"},{\"name\":\"汉堡底\",\"image\":\"https://i0.hdslb.com/bfs/garb/8eb693c76464528fd905d67e0044184721991582.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e2da165d4f744aad51c58b9aedc2d88bfe3d200.png\"},{\"name\":\"穷\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ccd8dcf6f8985db31a465e4a02b3f5af9e46a4f.png\"},{\"name\":\"好菜\",\"image\":\"https://i0.hdslb.com/bfs/garb/75c4cbfd0424781d318d47d9047d0468ac77fb1f.png\"},{\"name\":\"耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/e56f50fa6377d00c2dda3e45530767006decc461.png\"},{\"name\":\"666\",\"image\":\"https://i0.hdslb.com/bfs/garb/83e899497c9117bbb5f92dbef83aa909d51adff4.png\"},{\"name\":\"零昏\",\"image\":\"https://i0.hdslb.com/bfs/garb/eaebaa1143164b64b57d655b07ff960d57b4a626.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

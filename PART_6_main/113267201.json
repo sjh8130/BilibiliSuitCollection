@@ -16,14 +16,11 @@
 		"item_id_card":"1683900973001",
 		"item_id_emoji_package":"1683901075001",
 		"owner_uid":"3461581786581601",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"2000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1132672012",
 		"sale_sku_id_2":"1132672011",
 		"sale_time_begin":"1685100439",
@@ -81,20 +78,12 @@
 				"name":"天气小象 小巴",
 				"suit_item_id":113267201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/08ae4c9dd1ac950a50f85cc68f01b8e5b789536d.png",
 					"item_emoji_list":"[{\"name\":\"晴\",\"image\":\"https://i0.hdslb.com/bfs/garb/569ef22dc4ad7b4049bd9b3fae9c166f55fd28ad.png\"},{\"name\":\"夜\",\"image\":\"https://i0.hdslb.com/bfs/garb/b1bf2df2c4b1869fd69654dd9cd583c51134c7cc.png\"},{\"name\":\"阴\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d89ffa113157b63715b9c437b95f500eb28f835.png\"},{\"name\":\"多云\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5007e02efc77e69e227eb5fe70fedf59296ec8c.png\"},{\"name\":\"雷雨\",\"image\":\"https://i0.hdslb.com/bfs/garb/0603e1915961eccb56d4e282fbc1342f5ff081ca.png\"},{\"name\":\"雨\",\"image\":\"https://i0.hdslb.com/bfs/garb/22e9fbc31fee36d00bbf091235e6762c77fa4875.png\"},{\"name\":\"晴夜\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc070668946e1a64378182af346a12bcee9599e9.png\"},{\"name\":\"彩虹\",\"image\":\"https://i0.hdslb.com/bfs/garb/9fdd664228dc93ff35d54ce39bf3d658105b8b21.png\"},{\"name\":\"sad\",\"image\":\"https://i0.hdslb.com/bfs/garb/c53360293261604ee58158c42dd7670d6923c210.png\"},{\"name\":\"堆雪人\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b44f898470202c687def65b335faf5ffabe4065.png\"},{\"name\":\"大风\",\"image\":\"https://i0.hdslb.com/bfs/garb/57cb575f2ddab801e00a7576ce9f5bd8c41b42b0.png\"},{\"name\":\"踩水\",\"image\":\"https://i0.hdslb.com/bfs/garb/c877341c77a15c3a971242d6c05a1bb5018b976a.png\"},{\"name\":\"晒太阳\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e9e74254aa66fd09aad52f7a9ded14c5a1d95a7.png\"},{\"name\":\"遮雨\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8aac61306b6daa9832326c58f75bdd3a2e3b2df.png\"},{\"name\":\"流星\",\"image\":\"https://i0.hdslb.com/bfs/garb/340bf53c73f5fe87e6c68f82d1eedafc9491c542.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

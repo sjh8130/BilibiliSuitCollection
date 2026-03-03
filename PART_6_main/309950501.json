@@ -16,14 +16,11 @@
 		"item_id_card":"1744177834001",
 		"item_id_emoji_package":"1744178298001",
 		"owner_uid":"3493076777568981",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"9999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3099505012",
 		"sale_sku_id_2":"3099505011",
 		"sale_time_begin":"1745582400",
@@ -81,21 +78,13 @@
 				"name":"塔娅娅表情包",
 				"suit_item_id":309950501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/dbeef4e2ee863e9feca929b7f4b0a04aa4987b4a.png",
 					"item_emoji_list":"[{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/1334c03f1488c84fa186f458874d9fd9c4449dd3.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0da2c38aed8f9f2253a5c886c49fac918a2084b.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/11d2b0dcc7cc93466741053df5cc8c6e68edbeb5.png\"},{\"name\":\"偷窥\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3a8abe77385a4d04e8239acd97e5c892c0b322f.png\"},{\"name\":\"小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/0fcc33e2eaf28f927596abe7dfb3cc49b6c0bdf2.png\"},{\"name\":\"汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d756a6d9acf3d37c5e1d70d196d2f04dbb2ad72.png\"},{\"name\":\"痴呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/29532cf2b4f163919921269ce39258e621335907.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc9c608c124dbd31dec66e704f28b69b543c521e.png\"},{\"name\":\"坏笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/111f5d07c07e4563a8962db1d8866e11540f6d9d.png\"},{\"name\":\"冲鸭\",\"image\":\"https://i0.hdslb.com/bfs/garb/25242d1838a2529a67003f8ad40f7c97c9ba6f9b.png\"},{\"name\":\"难绷\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2de4f6a8f38f0e05d878fe2892f19b963763f67.png\"},{\"name\":\"惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/9425db3aa18e70d6ae506363f945eb579cdfe771.png\"},{\"name\":\"急急急\",\"image\":\"https://i0.hdslb.com/bfs/garb/176e5dba21a34ae8e8404fd7eae3af8fe51e5b4a.png\"},{\"name\":\"对唔住\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d889fff9ef7c148e33cc31ef115ea4ed407c641.png\"},{\"name\":\"黑脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/c096c634e16e59a100d416e721d721eef4e720fe.png\"},{\"name\":\"哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d4059301ba3e0919a861c28a76f9cad14998b4d.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/df5344690f07c4cb063276521b63723752d2798d.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d491c887eb9a939e25e98d816afaefcfc814f19.png\"},{\"name\":\"啊这\",\"image\":\"https://i0.hdslb.com/bfs/garb/e934b076dcb29131367acd8eeaa02910da8daf53.png\"},{\"name\":\"星星眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/d45ccd13724b2031e4f79794cc96751679f988c2.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1690789817001",
 		"item_id_emoji_package":"1690789840001",
 		"owner_uid":"3493136928082317",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"50000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1212477012",
 		"sale_sku_id_2":"1212477011",
 		"sale_time_begin":"1691150400",
@@ -81,20 +78,12 @@
 				"name":"不安全出口",
 				"suit_item_id":121247701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b33288dd47100f3ae9199905d71b8b68c693bdf1.png",
 					"item_emoji_list":"[{\"name\":\"xox\",\"image\":\"https://i0.hdslb.com/bfs/garb/2072d38d2c958683effb64c0a2563174e3c35e48.png\"},{\"name\":\"打飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0ade7a5f093ba7572df675df0a4fe1ad31dd14c.png\"},{\"name\":\"尊嘟假嘟\",\"image\":\"https://i0.hdslb.com/bfs/garb/6dfdcfe20a8430edaa4d8892e788c1f3162b5b43.png\"},{\"name\":\"封口\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e274f825e01974e64c296b9525ab192065aa7ac.png\"},{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/e77170d9cf67480c1ad633514c3ad173092929c5.png\"},{\"name\":\"别走\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6300a46f48178b47bf8af5c1e0d62883248bd0d.png\"},{\"name\":\"吐舌\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8eecd568cc2563b219932a3e6b64f33c9582455.png\"},{\"name\":\"呃\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3b14a9052fdb5ec6fd4922626922994d0fad69c.png\"},{\"name\":\"捂嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/041f652c6aec971b4bae9201536f19d7584fecb1.png\"},{\"name\":\"电摇达人\",\"image\":\"https://i0.hdslb.com/bfs/garb/6406f790f9556bf9a6206eec120d4611220ba05e.png\"},{\"name\":\"拒绝\",\"image\":\"https://i0.hdslb.com/bfs/garb/48146272305774f5ee1e29e27e678ecd510dff91.png\"},{\"name\":\"扔\",\"image\":\"https://i0.hdslb.com/bfs/garb/12cb51dd7c82ad50e73830ae0228764efbde3fcf.png\"},{\"name\":\"说谎长鼻子\",\"image\":\"https://i0.hdslb.com/bfs/garb/07a5572f4e622daff3ad717e15ddce1718d6736d.png\"},{\"name\":\"放\",\"image\":\"https://i0.hdslb.com/bfs/garb/b683f86c32205b610b280acc901abb98c4c26649.png\"},{\"name\":\"看拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/11c37b1e6f67fe15e69aafbb0fe9c4627cf7fb0b.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

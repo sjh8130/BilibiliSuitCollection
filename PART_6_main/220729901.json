@@ -16,14 +16,11 @@
 		"item_id_card":"1721368414001",
 		"item_id_emoji_package":"1721355881001",
 		"owner_uid":"260645654",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2207299012",
 		"sale_sku_id_2":"2207299011",
 		"sale_time_begin":"1721963020",
@@ -81,21 +78,13 @@
 				"name":"家中常备",
 				"suit_item_id":220729901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/02965f49298033d39b2ac567241e95ec7a49b79d.png",
 					"item_emoji_list":"[{\"name\":\"释缓胶囊\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f17533c9125691f65e81a8c6be295b06877b5da.png\"},{\"name\":\"清醒片\",\"image\":\"https://i0.hdslb.com/bfs/garb/069e4828635974f840416fed23d44a5b73867ed5.png\"},{\"name\":\"小丑喷雾\",\"image\":\"https://i0.hdslb.com/bfs/garb/172fb89a5965958ef0381d0af6649a266f69ba41.png\"},{\"name\":\"画技吸取\",\"image\":\"https://i0.hdslb.com/bfs/garb/88d4a0c5ae37e253bbf7d48fd164b19cac73b842.png\"},{\"name\":\"眼红药水\",\"image\":\"https://i0.hdslb.com/bfs/garb/322ab7e0a3bb031cd7cf4596b3aa83cb94ba3eaa.png\"},{\"name\":\"去红温膏\",\"image\":\"https://i0.hdslb.com/bfs/garb/fb6f059a772fc47c463fe97a9b2026f23ed8f38c.png\"},{\"name\":\"不崩溃颗粒\",\"image\":\"https://i0.hdslb.com/bfs/garb/d454c793e73fcfc52610911f0be53694c2706e6a.png\"},{\"name\":\"家中常备\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e15a8206061d01650a9306e08b47f8c5dc19db8.png\"},{\"name\":\"止懒口服液\",\"image\":\"https://i0.hdslb.com/bfs/garb/f684066137ecaffc10b15e27449a947c6261366f.png\"},{\"name\":\"吃点好的\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ad565f778d0886c2c8de530263a0fe264573478.png\"},{\"name\":\"健忘消食片\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4e3b8e78d3591d19b6652e09196b1a6cefe2e40.png\"},{\"name\":\"隔障喷雾\",\"image\":\"https://i0.hdslb.com/bfs/garb/5efd83464c97135eff9face67a8ff16b18e5a91b.png\"},{\"name\":\"断情绝爱片\",\"image\":\"https://i0.hdslb.com/bfs/garb/f06965ab9618263be95203ac38d36c65a86ec39d.png\"},{\"name\":\"去晦气药片\",\"image\":\"https://i0.hdslb.com/bfs/garb/79dfd5e0c416fbaa78d3871d8cdc3ea0b940429c.png\"},{\"name\":\"续命丸\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d92e1a447a867b79c09a7a0b7f0cb81f54deb0e.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

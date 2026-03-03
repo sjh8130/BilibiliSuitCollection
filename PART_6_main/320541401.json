@@ -16,14 +16,11 @@
 		"item_id_card":"1753164058001",
 		"item_id_emoji_package":"1753254019001",
 		"owner_uid":"3537113272289504",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3205414012",
 		"sale_sku_id_2":"3205414011",
 		"sale_time_begin":"1753502400",
@@ -81,21 +78,13 @@
 				"name":"凉哈皮3.0静态表情",
 				"suit_item_id":320541401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/c32815773f2b706c0b608a0adf98c2bdadc2c33f.png",
 					"item_emoji_list":"[{\"name\":\"水友令\",\"image\":\"https://i0.hdslb.com/bfs/garb/27758fc0155d488fa5578036f278c1451f815bab.png\"},{\"name\":\"猛兽咆哮\",\"image\":\"https://i0.hdslb.com/bfs/garb/42048fda8cdc092a1b5e54ee1e57a832bdc3edaf.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f2cbcaca05926b6e4069a6aa6a73b9a146d5702.png\"},{\"name\":\"小女仆\",\"image\":\"https://i0.hdslb.com/bfs/garb/90ca6b6723f251fee7ae7f769d317df841fc48ad.png\"},{\"name\":\"等车中\",\"image\":\"https://i0.hdslb.com/bfs/garb/73ec82f64f6efbce26011379d400c21053b4ae74.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/eec6f1c36cb3e818165c069974db63fe3140cfb3.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7228a37cd10a61eab5172446c98b258db26b6e5.png\"},{\"name\":\"晕乎乎\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ca649f6e8a73b1daf20b70b61f52c961568a171.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae6bab57ff0dda248190d051b3cee591344c2546.png\"},{\"name\":\"超级猛男\",\"image\":\"https://i0.hdslb.com/bfs/garb/660148777e3f27d13596e6886154ba86dab5a1ee.png\"},{\"name\":\"趣味生煎\",\"image\":\"https://i0.hdslb.com/bfs/garb/e82f3d497085f80c3781a9dd74b1acde1834053e.png\"},{\"name\":\"啃玉米\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7b491b83c67066c9954def69f7da0a5cca06c13.png\"},{\"name\":\"红眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8d79b70fd51cf701d03c930f565220eb406a991.png\"},{\"name\":\"吃水友了\",\"image\":\"https://i0.hdslb.com/bfs/garb/d8c863c1e04e1fa0c21054495d7241f87662e4b2.png\"},{\"name\":\"cos装\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/20c28a8dcc631ff7354353c3763f28f4c3a10cd4.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

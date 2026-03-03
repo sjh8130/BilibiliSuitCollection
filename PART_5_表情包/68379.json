@@ -5,20 +5,12 @@
 	"group_name":"战斗少女",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/04712e51c719c1d9bfa6e8340ff64709bd17e092.png",
 		"item_ids":"68369,68370,68371,68372,68373,68374,68375,68376,68377,68378",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"resource_type":"0",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

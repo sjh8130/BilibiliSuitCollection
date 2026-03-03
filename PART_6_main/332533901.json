@@ -16,14 +16,11 @@
 		"item_id_card":"1763694513001",
 		"item_id_emoji_package":"1763694575001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"99999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3325339012",
 		"sale_sku_id_2":"3325339011",
 		"sale_time_begin":"1763792511",
@@ -81,21 +78,13 @@
 				"name":"甜甜猫",
 				"suit_item_id":332533901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e266e29f60ed296fb75e812b9830b66d05c0549d.png",
 					"item_emoji_list":"[{\"name\":\"面包猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f2a7af8e487a0fd8a2e2d820a9892a1661e2945.png\"},{\"name\":\"厨师猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/2db5e2cb7a1a8989bd714fd7c477df19d0e64046.png\"},{\"name\":\"嗯嗯\",\"image\":\"https://i0.hdslb.com/bfs/garb/79e17608977f1c1d98dfd2addfeeb8cc1bf66396.png\"},{\"name\":\"烤箱猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac8d86173df6a748505c7b6bb04bc41591d4c366.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/f553672aad508c0343665c72855be1fbd9076d91.png\"},{\"name\":\"甜甜猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/abe96bffebcc098146530b4200f7549b4d4f7ce3.png\"},{\"name\":\"夹猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/459f33cce171ad15707d41edb6cab35468c0e42a.png\"},{\"name\":\"小猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/c07fc72b3827f9a0f261bdba9fc6907d9790a4c8.png\"},{\"name\":\"Hi~\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2832dd378bb4e8f6fe3c105ccaacc1303f961bc.png\"},{\"name\":\"吃饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6db3e7acc84726cbbde4f89225f581aa96bdf55.png\"},{\"name\":\"地球猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/a926c283b59127925f8529eab0cb758d4ed7ec2b.png\"},{\"name\":\"下雨\",\"image\":\"https://i0.hdslb.com/bfs/garb/349178c35e3f331f2d4f844080cbfa6995192422.png\"},{\"name\":\"叉子\",\"image\":\"https://i0.hdslb.com/bfs/garb/84d02c093820fa3ff56428755e5b30068ff00cfe.png\"},{\"name\":\"甜点\",\"image\":\"https://i0.hdslb.com/bfs/garb/c10133daafecd90c10c51dc31c9baa1c880c7b66.png\"},{\"name\":\"阳光\",\"image\":\"https://i0.hdslb.com/bfs/garb/22241a33e6f05cef859a7ab73a8561d1b8a86fef.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

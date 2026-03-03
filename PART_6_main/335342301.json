@@ -16,14 +16,11 @@
 		"item_id_card":"1766123917001",
 		"item_id_emoji_package":"1766123998001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"99999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3353423012",
 		"sale_sku_id_2":"3353423011",
 		"sale_time_begin":"1766214530",
@@ -81,21 +78,13 @@
 				"name":"下雪天",
 				"suit_item_id":335342301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/88dc2d9042400c9bd34bccf62f772aac39e846c9.png",
 					"item_emoji_list":"[{\"name\":\"Hi~\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d6214f7e3ff18c73038bc1359c78c3f12e4cdd2.png\"},{\"name\":\"冷\",\"image\":\"https://i0.hdslb.com/bfs/garb/fefd878f015738576d4e4cf4750a624bbc34a8fa.png\"},{\"name\":\"哼！！\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d9a601a2cb3b328f9da53bdab7d5b51198b1f39.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/fa7be6407a6c6d2b52a4533438c41d5e052ba6f7.png\"},{\"name\":\"嗯嗯\",\"image\":\"https://i0.hdslb.com/bfs/garb/2fdda4721aeea77f50b619b9a2077f96d283cc35.png\"},{\"name\":\"哭泣\",\"image\":\"https://i0.hdslb.com/bfs/garb/d313180c47fb4f83f453b3bc5899d7a9f7e40965.png\"},{\"name\":\"雪球\",\"image\":\"https://i0.hdslb.com/bfs/garb/541e4f05537ee57b4bfc5479f8af96e0edd549bd.png\"},{\"name\":\"送你\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d4e78957a0b35f783e9741d64d8a96b0b6837b8.png\"},{\"name\":\"？？？\",\"image\":\"https://i0.hdslb.com/bfs/garb/6519c4ddb1d7d8fff2725f94d53ff631a036dd1c.png\"},{\"name\":\"晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/059982442cf6b3ac3f93ae88409f051f63b75a9c.png\"},{\"name\":\"玩耍\",\"image\":\"https://i0.hdslb.com/bfs/garb/b15019feabe58fe15950c590be8471707818ad84.png\"},{\"name\":\"雪人\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a1e4ca8e21c7eeb834743a75af0e0f28b6a2ba2.png\"},{\"name\":\"堆雪人\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec9130d31b6f652112fb694d5e7995fb63ec372a.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc2597dd4d9b30c93a23e483e0dadbc5a9b07307.png\"},{\"name\":\"树\",\"image\":\"https://i0.hdslb.com/bfs/garb/5715b40cfa33fae92d8180f27470d0bc48951fe3.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

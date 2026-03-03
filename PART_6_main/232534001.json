@@ -16,14 +16,11 @@
 		"item_id_card":"1732072376001",
 		"item_id_emoji_package":"1732072609001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2325340012",
 		"sale_sku_id_2":"2325340011",
 		"sale_time_begin":"1732330920",
@@ -81,21 +78,13 @@
 				"name":"猫猫舒芙蕾",
 				"suit_item_id":232534001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6db0fc8d4d92b9ddbba28b9c68ab258d0eabc40d.png",
 					"item_emoji_list":"[{\"name\":\"淋奶油\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1112cf814c155e9f6eb3d21be65db3819c0c419.png\"},{\"name\":\"焦糖松饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb945faf88833f166fdd79acf05764fec9f65846.png\"},{\"name\":\"猫猫厨师\",\"image\":\"https://i0.hdslb.com/bfs/garb/281a0c2f2c967827ce9ccd9f47dd76700a846905.png\"},{\"name\":\"章鱼烧\",\"image\":\"https://i0.hdslb.com/bfs/garb/3beeb92c764c7c88c1c690851dcd1e3ea7e208ab.png\"},{\"name\":\"小狗松饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c516cb6b02c4a20f93a291eafa771e2b7fb7ccb.png\"},{\"name\":\"奶油松饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/949e5ed6fc9f86ff70423899951ac5981580e94d.png\"},{\"name\":\"降落\",\"image\":\"https://i0.hdslb.com/bfs/garb/531134c95754101fbc84ab055f1465694f3bea97.png\"},{\"name\":\"干饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f41fdfe6960f626eb385effedf6fd4c810c3b08.png\"},{\"name\":\"猫猫松饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b3682101c6ff431586743c768ff8f33eff60a1f.png\"},{\"name\":\"倒奶昔\",\"image\":\"https://i0.hdslb.com/bfs/garb/81988cbbf4a6b97514cfb27e5557fbbcf7bf612c.png\"},{\"name\":\"小鼻噶1\",\"image\":\"https://i0.hdslb.com/bfs/garb/83d1a9f7727c901ca3dd5aa293d026ba386e5418.png\"},{\"name\":\"小鼻噶2\",\"image\":\"https://i0.hdslb.com/bfs/garb/013666d4d5d83966be6a2124d355d36f03407453.png\"},{\"name\":\"小鼻嘎3\",\"image\":\"https://i0.hdslb.com/bfs/garb/18d5f8b981bb20dc0c55070c8b7b71f0f3edcb06.png\"},{\"name\":\"麻薯松饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/b347745dbc574db8f89595516b48f9a469d0297f.png\"},{\"name\":\"奶昔\",\"image\":\"https://i0.hdslb.com/bfs/garb/76646eaaad1fd967dd4c1c731dbe23de35e04713.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

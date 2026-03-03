@@ -16,14 +16,11 @@
 		"item_id_card":"1678709106001",
 		"item_id_emoji_package":"1678709346001",
 		"owner_uid":"389894527",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1074680012",
 		"sale_sku_id_2":"1074680011",
 		"sale_time_begin":"1679562750",
@@ -81,20 +78,12 @@
 				"name":"纸上竹马",
 				"suit_item_id":107468001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0a8747c1fe3e5659ac9326798e70c308f79bb586.png",
 					"item_emoji_list":"[{\"name\":\"嬉皮笑脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3c11cdd79c90c53ce3d96f9d849549b0115f38f.png\"},{\"name\":\"呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/53cfb8db0e462edbcb518f3d86d708b793fcd2db.png\"},{\"name\":\"我的天\",\"image\":\"https://i0.hdslb.com/bfs/garb/234b43eaabdd405d4dd1290aa659f213d17bf00b.png\"},{\"name\":\"好热\",\"image\":\"https://i0.hdslb.com/bfs/garb/77ae431850025df87e6a64f6bbc0a430bac38fd9.png\"},{\"name\":\"您再想想\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e53d5e482152981fbe3999eb18583e20560d7b6.png\"},{\"name\":\"品茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/c73b5385a21e3c5eb67273be62ddf923687ff6d0.png\"},{\"name\":\"滑稽\",\"image\":\"https://i0.hdslb.com/bfs/garb/5051eb04fbb546bfc0d3779da87c7b13a03dcaa2.png\"},{\"name\":\"给你一拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e6b4c14a0d0517f67564f4ffe2150f69e53e41b.png\"},{\"name\":\"给您磕了\",\"image\":\"https://i0.hdslb.com/bfs/garb/94c1013121831ad4fa954949d5e6dad2fc61fc19.png\"},{\"name\":\"俺来咯！\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8039c9d318abb6c8b5aaa2171987ad4c1a52a07.png\"},{\"name\":\"可怜\",\"image\":\"https://i0.hdslb.com/bfs/garb/edd56b4f836452cefbe9108a80eb6c71cd3e35c2.png\"},{\"name\":\"石化\",\"image\":\"https://i0.hdslb.com/bfs/garb/011f30b2df43dcb59b42886edeeef6a7d0bb2212.png\"},{\"name\":\"被打\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8843bc42ec4fcc75fcfd1fbe4936cc0f26862d7.png\"},{\"name\":\"感谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a6647fa33a19d461dda1296114af04ba2b0fdfd.png\"},{\"name\":\"坏了\",\"image\":\"https://i0.hdslb.com/bfs/garb/5537d56bb1c4975d25e04704db7cbf02f5896149.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

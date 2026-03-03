@@ -16,14 +16,11 @@
 		"item_id_card":"1676276543001",
 		"item_id_emoji_package":"1676332562001",
 		"owner_uid":"3493130617752150",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1045300012",
 		"sale_sku_id_2":"1045300011",
 		"sale_time_begin":"1676476800",
@@ -81,20 +78,12 @@
 				"name":"肥肥鲨情侣篇",
 				"suit_item_id":104530001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/453dadc11f5ab40b2af221d07f5a78e7e6c317a7.png",
 					"item_emoji_list":"[{\"name\":\"桃花\",\"image\":\"https://i0.hdslb.com/bfs/garb/f32730ab9385431308e7e4014e504c6c4ea86748.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/965909f544620d81e77d97f9ebb4ec56b72181d8.png\"},{\"name\":\"约会\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e838c5cfc5bd587ec397e937dfd4e7e764a8d3b.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4ca40f5fd55e9cbfddba07a27754d0fc964475d.png\"},{\"name\":\"惊喜\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1320207157d2fb9f5559e75eccb504aca92f8c1.png\"},{\"name\":\"给你爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/16538eccad85ba3fe8a962a5c351892410ca686e.png\"},{\"name\":\"接受爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd40b363c808d9f1e60139dbe9e51b50312ae538.png\"},{\"name\":\"聊天\",\"image\":\"https://i0.hdslb.com/bfs/garb/890deb1cd9fc778638f154cdc78f46c961501c8a.png\"},{\"name\":\"巧克力\",\"image\":\"https://i0.hdslb.com/bfs/garb/3add22a50a1291ab90444d3063b54b8125e301bb.png\"},{\"name\":\"撒爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/84081ed841d760bc6808c9d78242646dade6e670.png\"},{\"name\":\"我的心\",\"image\":\"https://i0.hdslb.com/bfs/garb/b101a8b690d8d934101a5e986a3e4e3bffa96415.png\"},{\"name\":\"丘比特\",\"image\":\"https://i0.hdslb.com/bfs/garb/55fed95074dd347ed0af66f16cb10ecc7f24ed14.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/c89fce4e4371c0c935b7b5824c8a34313285eb6e.png\"},{\"name\":\"收情书\",\"image\":\"https://i0.hdslb.com/bfs/garb/16d06fd2ab1af1dbdb2a2e9164a8f0919ff4de5d.png\"},{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6d4f9718e1c694a6b3eb722f495f7f43e9e91db.png\"},{\"name\":\"送给你\",\"image\":\"https://i0.hdslb.com/bfs/garb/a94e3e6cffdced7f2b8fb93d23a3085986e3d109.png\"},{\"name\":\"举高高\",\"image\":\"https://i0.hdslb.com/bfs/garb/c17f10f4bac50d8f2a39d9798f2c1b0162288be3.png\"},{\"name\":\"拆礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/60be9369fe0eaf1072231f2403ddd88e14d2a8df.png\"},{\"name\":\"把爱送给你\",\"image\":\"https://i0.hdslb.com/bfs/garb/1adb7766422e26ace9e2ae8a4fe71e41a4a429ba.png\"},{\"name\":\"捏脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/d630db9d53f0cbd5c850e0b97bce5cdf84bfa69d.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

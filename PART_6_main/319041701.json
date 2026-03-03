@@ -16,14 +16,11 @@
 		"item_id_card":"1752040172001",
 		"item_id_emoji_package":"1752040204001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"9999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3190417012",
 		"sale_sku_id_2":"3190417011",
 		"sale_time_begin":"1752227680",
@@ -82,21 +79,13 @@
 				"name":"卡皮巴拉夏日派对",
 				"suit_item_id":319041701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/fc53da7ac58b0ce22cd6b9452cbe2fe73aff929f.png",
 					"item_emoji_list":"[{\"name\":\"下雨啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/88284ae7052b3db6c1a819ddf8314a237d629229.png\"},{\"name\":\"吹风扇\",\"image\":\"https://i0.hdslb.com/bfs/garb/dcaac5086ed59809a490293512e5bb6992379c52.png\"},{\"name\":\"喝饮料\",\"image\":\"https://i0.hdslb.com/bfs/garb/365533ac8fadd84ccb5cfde9a0d6addd604c9ba8.png\"},{\"name\":\"捞鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/b23a130840557198c0dc3e4e6314b70a6aa55d45.png\"},{\"name\":\"来啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/e44bf937be46cb016caed908437246687aca94cc.png\"},{\"name\":\"收获\",\"image\":\"https://i0.hdslb.com/bfs/garb/edb5c22aef002680506d17cba7f6195f38b95797.png\"},{\"name\":\"笋\",\"image\":\"https://i0.hdslb.com/bfs/garb/0930b381998cb4b2a7a0911806c6c0a8e0cd36f0.png\"},{\"name\":\"烧烤啤酒\",\"image\":\"https://i0.hdslb.com/bfs/garb/993e96e3466a260314d9d89f85573cd6204e138c.png\"},{\"name\":\"睡啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/989ef130df37872ca0495820b5670ba6c6b861ff.png\"},{\"name\":\"西瓜豚\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1d5507626cbab4839181ec0c2ae8e1b974743ee.png\"},{\"name\":\"紫色花\",\"image\":\"https://i0.hdslb.com/bfs/garb/d271c39abe989597a73d00c3a91f7d2cd784417b.png\"},{\"name\":\"面包\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b754fe0e9669080a48f3707191aa79208d78b06.png\"},{\"name\":\"花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/a52d4ece3a07219387ec42c4cdf7c3bbfac7b25c.png\"},{\"name\":\"荷叶躺\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9a0cf29155304020e9fc9c35f5d73ebd1ad4009.png\"},{\"name\":\"降温\",\"image\":\"https://i0.hdslb.com/bfs/garb/0bc3dc048191666cc64e9ab2644c62f9ec6275d9.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

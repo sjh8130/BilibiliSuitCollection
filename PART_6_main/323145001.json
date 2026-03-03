@@ -16,14 +16,11 @@
 		"item_id_card":"1755583596001",
 		"item_id_emoji_package":"1755583643001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3231450012",
 		"sale_sku_id_2":"3231450011",
 		"sale_time_begin":"1756281382",
@@ -81,21 +78,13 @@
 				"name":"秋日来信",
 				"suit_item_id":323145001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b4ce6fa5402bec9b394325c2cf0e7788ff6f8fdf.png",
 					"item_emoji_list":"[{\"name\":\"拍照\",\"image\":\"https://i0.hdslb.com/bfs/garb/a08dc870074833a71ec1bd7cf43e79ebebe7181e.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c1c43a74e364aa358a7dbe462d7783c5cf00c50.png\"},{\"name\":\"观察落叶\",\"image\":\"https://i0.hdslb.com/bfs/garb/35913cd34cd5683527adee44dbdb55c6c1c7eab3.png\"},{\"name\":\"信件\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9b84f28fde03e42db972bdb58099897d71c4013.png\"},{\"name\":\"邮箱\",\"image\":\"https://i0.hdslb.com/bfs/garb/847a30d86bd32157fc8b2194bb73c220c72b9960.png\"},{\"name\":\"柿子\",\"image\":\"https://i0.hdslb.com/bfs/garb/e64aef772906e5e2c5153bdaca817e5793fecd83.png\"},{\"name\":\"银杏\",\"image\":\"https://i0.hdslb.com/bfs/garb/af9aae84ad0520a6c03a782b9d10fb22b86fa4ce.png\"},{\"name\":\"写信\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f974bc897c2309b7b7d500adab223324af185d8.png\"},{\"name\":\"礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e5101523078072975c4b8993ceaf32b483138bb.png\"},{\"name\":\"松果\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf85ca12693595d0d1cae1e8eaed348209fd3cef.png\"},{\"name\":\"火棘果\",\"image\":\"https://i0.hdslb.com/bfs/garb/8c18707429d4c0cfcb6f0fa72c53c48f7cbcd140.png\"},{\"name\":\"枯叶\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1b60e86a74a8978e515603da02390d481cdd146.png\"},{\"name\":\"茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/64ddde93ce41fa15558db9823d3aba9ee56f4463.png\"},{\"name\":\"蘑菇\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a572cd03b319dda823bf567ce4c4737ca137452.png\"},{\"name\":\"苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/838ab764f3ba19a4a538dfb3c94d3eeab19f3d55.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

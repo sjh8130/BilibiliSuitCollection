@@ -16,14 +16,11 @@
 		"item_id_card":"1733470272001",
 		"item_id_emoji_package":"1733391630001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2341483012",
 		"sale_sku_id_2":"2341483011",
 		"sale_time_begin":"1733801510",
@@ -81,21 +78,13 @@
 				"name":"青青蛇",
 				"suit_item_id":234148301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6584d9cbe31c91e8eef42042c8ae3a45acc14fa5.png",
 					"item_emoji_list":"[{\"name\":\"财源滚滚\",\"image\":\"https://i0.hdslb.com/bfs/garb/b80364cecdc3524fa91dbf6b986b0d68123b9791.png\"},{\"name\":\"傲娇\",\"image\":\"https://i0.hdslb.com/bfs/garb/84963e759b4eb336ab370f6f69fec7c4bc64bfcd.png\"},{\"name\":\"石化\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f7cd2736f8a4874c5860c4d2bf5ac17f6286eed.png\"},{\"name\":\"偷听\",\"image\":\"https://i0.hdslb.com/bfs/garb/af4ba7eb82560d7a8a176a78cb5371ce72c5ec25.png\"},{\"name\":\"摇摆\",\"image\":\"https://i0.hdslb.com/bfs/garb/294e98bb0493d5efeb28606f671f33271635df5f.png\"},{\"name\":\"蛇宝宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c2ec49455931f8810c927472511468192fd33de.png\"},{\"name\":\"贪吃蛇\",\"image\":\"https://i0.hdslb.com/bfs/garb/b987c0df9ed36c1e6d581feb84a3bb63721d213d.png\"},{\"name\":\"球球\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d9d88c8513d82dcccd5a79e11ad75580d58f931.png\"},{\"name\":\"好柿\",\"image\":\"https://i0.hdslb.com/bfs/garb/f786e23bfbb13f6037417ebaed22f11875872a50.png\"},{\"name\":\"困\",\"image\":\"https://i0.hdslb.com/bfs/garb/f4e8cd9055652cab65437f9d06abf3aa89623d0b.png\"},{\"name\":\"哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc930ffa90926dd67b1b64c601697693589dc346.png\"},{\"name\":\"变戏法\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ff9cc68eea11311e3c80f9b761123ece786a079.png\"},{\"name\":\"焰火棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/a78736d820be695d6fad62541bff2107b25efca7.png\"},{\"name\":\"续命水\",\"image\":\"https://i0.hdslb.com/bfs/garb/d4b79f9b1a25121ba08009da51be9af9eb7c148b.png\"},{\"name\":\"蛇精病\",\"image\":\"https://i0.hdslb.com/bfs/garb/df98dda62ac43b7d21512e2a1df95ab426715a12.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

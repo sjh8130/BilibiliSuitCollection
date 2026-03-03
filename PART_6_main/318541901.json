@@ -16,14 +16,11 @@
 		"item_id_card":"1751257282001",
 		"item_id_emoji_package":"1751257380001",
 		"owner_uid":"3493136955345818",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3185419012",
 		"sale_sku_id_2":"3185419011",
 		"sale_time_begin":"1751709600",
@@ -81,21 +78,13 @@
 				"name":"甜可可洛丽塔",
 				"suit_item_id":318541901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e124a8f81377303f29f9f92ba54f3b159b891298.png",
 					"item_emoji_list":"[{\"name\":\"蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc516559de30aefc5b6198f2859c29150d452569.png\"},{\"name\":\"香水\",\"image\":\"https://i0.hdslb.com/bfs/garb/c147f144c88bde2c22e5aa74d7c0e74fc4380eb0.png\"},{\"name\":\"茶杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ea0e418111a257687dee6b3d8ed4ee47bc9527c.png\"},{\"name\":\"花\",\"image\":\"https://i0.hdslb.com/bfs/garb/27a719653a21c456e22aca67b5f7424ef2e3b58c.png\"},{\"name\":\"蝴蝶\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a9c8e1c0d02939991dfc8d1626b03b9cf2537c2.png\"},{\"name\":\"蝴蝶结\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5d2fc3b6cc4b3e394815962e0424b23d522dde8.png\"},{\"name\":\"冰淇淋\",\"image\":\"https://i0.hdslb.com/bfs/garb/e10fa21485c6beb113ff87e5d6424184ce2830e8.png\"},{\"name\":\"钥匙\",\"image\":\"https://i0.hdslb.com/bfs/garb/285d6b27fdf6d10858f05599076927e2b5a892fd.png\"},{\"name\":\"勺子\",\"image\":\"https://i0.hdslb.com/bfs/garb/4abd6ef720f01fb4dc321ff317ead6b0fc33d374.png\"},{\"name\":\"镜子\",\"image\":\"https://i0.hdslb.com/bfs/garb/3813cee039be3e493d8a42c04988b7c101f558ea.png\"},{\"name\":\"小蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/119b1e5c4e89c967f18ce0f9a677575c6e0c5e0b.png\"},{\"name\":\"茶壶\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ef928b72962f36c38bcfe081c06bd4add64b1ad.png\"},{\"name\":\"甜甜圈\",\"image\":\"https://i0.hdslb.com/bfs/garb/f321c0bf1d9c36e163451d2d275f86c03a7fb1e7.png\"},{\"name\":\"手链\",\"image\":\"https://i0.hdslb.com/bfs/garb/f552eac72e3c1e69b409aa56980a97bd32d683ff.png\"},{\"name\":\"人\",\"image\":\"https://i0.hdslb.com/bfs/garb/b79e274718ae11973ea5b2f6d3f5288663b6f750.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

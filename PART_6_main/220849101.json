@@ -16,14 +16,11 @@
 		"item_id_card":"1721981802001",
 		"item_id_emoji_package":"1721981898001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2208491012",
 		"sale_sku_id_2":"2208491011",
 		"sale_time_begin":"1722312000",
@@ -82,21 +79,13 @@
 				"name":"海绵宝宝浪漫海底",
 				"suit_item_id":220849101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f5107ac895c34014da88af913bab06b62d1fe7a1.png",
 					"item_emoji_list":"[{\"name\":\"蟹老板\",\"image\":\"https://i0.hdslb.com/bfs/garb/4d7dd59dae4778326d43f50d4353e1377481ffd3.png\"},{\"name\":\"思索\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e9d4468ca235ad287bd98562c451081db90c9d3.png\"},{\"name\":\"欢乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/9935079d917dceff9a85882f6d985676e561fb88.png\"},{\"name\":\"送心心\",\"image\":\"https://i0.hdslb.com/bfs/garb/84377e53a33681cea560385c430613a08634272f.png\"},{\"name\":\"小窝\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ff70efad14b1cd2b5133a5f70b4c654a66c26d1.png\"},{\"name\":\"打招呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f0d25f975063799a00e5ab572c7573e191b9f80.png\"},{\"name\":\"请你吃汉堡\",\"image\":\"https://i0.hdslb.com/bfs/garb/6488ebca1eaf86d25bfd88b014f61abc568bbe61.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/5754bbc527f9b1239b194d0f414eb7a726c63d9f.png\"},{\"name\":\"菠萝堡\",\"image\":\"https://i0.hdslb.com/bfs/garb/42e0e41fce309fff2b0e754b0542c193d990caae.png\"},{\"name\":\"玩积木\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ad7db55d8b97a2608424c82567a442e2ce9fcbe.png\"},{\"name\":\"请吃冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8301a7585df7a06988fed21f1fc0f886e894934.png\"},{\"name\":\"乖巧珊迪\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec22ef17031ad9dc081f216534da99e064f37c59.png\"},{\"name\":\"请喝茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/92d1a3df82a83e9436e23c870f3ddcc1b80e7b31.png\"},{\"name\":\"度假\",\"image\":\"https://i0.hdslb.com/bfs/garb/eef27361fd533a30b48d0864acf10a9528f2d0c4.png\"},{\"name\":\"观赏小鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/fcee3e9d983fd328cd798fa461c3455e1fbb136c.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

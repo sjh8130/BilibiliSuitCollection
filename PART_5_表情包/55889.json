@@ -5,14 +5,11 @@
 	"group_name":"空罐王收藏集",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/garb/item/64def32698f42b662bc7ea609d46d060fbcba928.png",
 		"item_ids":"55890,55891,55892,55893,55894,55895,55896,55897,55898,55899,55900,55901,55902,55903,55904,55905,55906,55907,55908,55909",
-		"removable":"true",
 		"sale_type":"pay",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

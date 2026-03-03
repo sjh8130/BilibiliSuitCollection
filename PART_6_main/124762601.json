@@ -17,14 +17,11 @@
 		"item_id_emoji_package":"1693830502001",
 		"item_id_thumbup":"1693829775001",
 		"owner_uid":"438292030",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"6500",
 		"sale_bp_pm_raw":"1000",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1247626012",
 		"sale_sku_id_2":"1247626011",
 		"sale_time_begin":"1694862000",
@@ -82,20 +79,12 @@
 				"name":"夕兔_H2",
 				"suit_item_id":124762601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5c87ba79acb255cf50f3346f2735c6ef3f97a5fc.png",
 					"item_emoji_list":"[{\"name\":\"一拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/52709490b92f41b2628e2f1b0c65ca0f2d5937f3.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9df80ae65ad62fc161dc543d91041ad9045ba53.png\"},{\"name\":\"摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/9adc46b2c5c7896d51b7188cca0d0cbc3f511feb.png\"},{\"name\":\"溜了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a38d4bb745973c2036f3397250c95bdeb0571a21.png\"},{\"name\":\"睡不醒\",\"image\":\"https://i0.hdslb.com/bfs/garb/de62547dcf192b2a939bfc4ce3670126996f131b.png\"},{\"name\":\"等饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/ee892e79ef731ae7414cacc85e28584f10c5638b.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ee17f2f9d64dbcafe50a37200e42b99064d2285.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/c90c3aa21323415ce7684f4ac906d7f43c69d587.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3529bc0bcaefea7f04aa212040765631b9ac041.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/de023261cd99f01209bb7f39f36c8a08b184cc40.png\"},{\"name\":\"被揪脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e941d4ea627609046342c385a7b870e2554eaa3.png\"},{\"name\":\"吃桃\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0fad15825398e81208752aedc4a65b4e25711ae.png\"},{\"name\":\"爆金币\",\"image\":\"https://i0.hdslb.com/bfs/garb/586baf461778a4cfa1361e0012c24eb53805a03e.png\"},{\"name\":\"被拖走\",\"image\":\"https://i0.hdslb.com/bfs/garb/d19c2727a424860d6524e448bd14b69ef786c760.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/82ccaf5ccb90cb9285e7815d1638bc70f01726fc.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/0abcb64ca37c49a8b83bdb229312905b38522c11.png\"},{\"name\":\"来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/3600eade6008f1848b854a9d3c8b5b99e7c28c8b.png\"},{\"name\":\"让我访问\",\"image\":\"https://i0.hdslb.com/bfs/garb/b20fed23c8011233a610405d2f576c5fa5a5604d.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/930fb880a8e7f95d8e94c36fe147d861e3bff86c.png\"},{\"name\":\"要长脑子了\",\"image\":\"https://i0.hdslb.com/bfs/garb/261edee3ba3db45c78d3ebace9290e34761dd6d8.png\"},{\"name\":\"让我教你\",\"image\":\"https://i0.hdslb.com/bfs/garb/feea53dec54e92ea93c512a4d6b3e806d70a0871.png\"},{\"name\":\"听不懂\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdc4333672c88d4ffc55055a9132531311641eec.png\"},{\"name\":\"呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ff6818a509d240359c5a9cf2bd6b82c0076fc69.png\"},{\"name\":\"记笔记\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad8ff4060336cf61588c408b4da4969fa240033c.png\"},{\"name\":\"功德减一\",\"image\":\"https://i0.hdslb.com/bfs/garb/435af895e08b28c1bea9cbcb9706337e1d604dc2.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

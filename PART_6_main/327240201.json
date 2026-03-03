@@ -16,14 +16,11 @@
 		"item_id_card":"1759122925001",
 		"item_id_emoji_package":"1759123112001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3272402012",
 		"sale_sku_id_2":"3272402011",
 		"sale_time_begin":"1760066061",
@@ -81,21 +78,13 @@
 				"name":"雨天",
 				"suit_item_id":327240201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2505ac7763750417a45d851dffa99c5cb40b0d80.png",
 					"item_emoji_list":"[{\"name\":\"打伞\",\"image\":\"https://i0.hdslb.com/bfs/garb/79e8c060f0da0a8f6afd16a330f5d1ff445bb1b0.png\"},{\"name\":\"hi\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6a0fa3ad275063bdaf1a867f1522fa2fface634.png\"},{\"name\":\"眯眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/735af85d6c7203d8cb88e24fd45e832a00cd48fd.png\"},{\"name\":\"下雨\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab54802a9ccc65ac60263e7dd321af3d218555d6.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/35763484c2f6dee31b4afd271078b4937eda48df.png\"},{\"name\":\"彩虹\",\"image\":\"https://i0.hdslb.com/bfs/garb/676999b577be88ba9cd1658dffaa6e6255ce5c72.png\"},{\"name\":\"蘑菇\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef4079ce8de059ccf67b98dbe3f816f2a18da729.png\"},{\"name\":\"晴天娃娃\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e9271ae685ec30cfa60d9fd590ee1e9e8755f2d.png\"},{\"name\":\"鞋子\",\"image\":\"https://i0.hdslb.com/bfs/garb/186be7b702d3b76f8b864edb4b253b3d568c5f38.png\"},{\"name\":\"倒影\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5b8d5e594bebc7d3ca54fb903614c888bc5b400.png\"},{\"name\":\"雨天\",\"image\":\"https://i0.hdslb.com/bfs/garb/de82685417bbf8782bc2a3f16ebcd4355e59be13.png\"},{\"name\":\"蒲公英\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a60f76c5b63bbb4277481f4ff641f055508c8b7.png\"},{\"name\":\"日记本\",\"image\":\"https://i0.hdslb.com/bfs/garb/9945cf716cd4b3aacc95c742d87d1f829f4547c2.png\"},{\"name\":\"风铃\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f4fa57f414f0f5212b43baa1cfb609ce67c527b.png\"},{\"name\":\"闪电\",\"image\":\"https://i0.hdslb.com/bfs/garb/567ce2925656912bf55a4a605f1779524bed8f75.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

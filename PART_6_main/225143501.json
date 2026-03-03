@@ -16,14 +16,11 @@
 		"item_id_card":"1725685097001",
 		"item_id_emoji_package":"1725687034001",
 		"owner_uid":"5888511",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"200000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2251435012",
 		"sale_sku_id_2":"2251435011",
 		"sale_time_begin":"1726023600",
@@ -81,21 +78,13 @@
 				"name":"甜品猫",
 				"suit_item_id":225143501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/00ab0f40ec870be9741f62f2ba4c559cb9489513.png",
 					"item_emoji_list":"[{\"name\":\"红茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/19943cf2096944d6475dacce81d9b8448e824379.png\"},{\"name\":\"大福\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe0dfcfcae0f3dc5a189f70a5119acf78931eb56.png\"},{\"name\":\"甜甜圈\",\"image\":\"https://i0.hdslb.com/bfs/garb/52864aa427b41400b4abe51fdceca444e24044e6.png\"},{\"name\":\"巧克力蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6f95405a23195714fe9872583aabebca87271d3.png\"},{\"name\":\"杯子蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/71078caeb7b3d918f463e413acf32206c2b78604.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d4a8bd893536cb09c4af7e7b7c581a8478212ad.png\"},{\"name\":\"超棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/c38b13a7b6fe5b82f316f60568926ffcaa04ca26.png\"},{\"name\":\"那咋了\",\"image\":\"https://i0.hdslb.com/bfs/garb/fafc96c044edb028ce962d3e2d7c477d8caf7738.png\"},{\"name\":\"安详\",\"image\":\"https://i0.hdslb.com/bfs/garb/ffc4601af2d8df4a12299990b2a9736246d5abec.png\"},{\"name\":\"啊这\",\"image\":\"https://i0.hdslb.com/bfs/garb/c32e053e170e3742b544c80cfcb557829a26adb8.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/2abcb2653841652378dd611b3941853bfbafa512.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/77bbf788fcf4b2a77c5dc9b28d401b98ca33fa03.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9748a2ec8360dca63aab766d11ac1d576ab15ec.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ee19b84f2215fa414134725ce64fa08761e353f.png\"},{\"name\":\"求你了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0bbeaa52266908b436a9449b5275989a6b75a21.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

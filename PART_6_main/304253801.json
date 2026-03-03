@@ -16,14 +16,11 @@
 		"item_id_card":"1739264195001",
 		"item_id_emoji_package":"1739264566001",
 		"owner_uid":"647193094",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3042538012",
 		"sale_sku_id_2":"3042538011",
 		"sale_time_begin":"1739937600",
@@ -81,21 +78,13 @@
 				"name":"2025大会员生日",
 				"suit_item_id":304253801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/14a4579239801d93d5d2fa7edf9fdf3b05ebe085.png",
 					"item_emoji_list":"[{\"name\":\"抱紧我\",\"image\":\"https://i0.hdslb.com/bfs/garb/9cfdc7e137d28feff9c2aedaebd6c848217b0042.png\"},{\"name\":\"WINK\",\"image\":\"https://i0.hdslb.com/bfs/garb/1165089afd370fa0a4b8f3cbe423c424fbf03c69.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c754101086fab3783c669fdcd7ddb655d16e5f9.png\"},{\"name\":\"生日快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b15a0d4ce4eabd30d5ee7960dfc0b4f5b2738f5.png\"},{\"name\":\"生日快乐2\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ee266c63045c707a32294c3ddc9c4f1415c9d21.png\"},{\"name\":\"试图融入\",\"image\":\"https://i0.hdslb.com/bfs/garb/e752d8f638ceaccc248351aabfa8c9e9020cd314.png\"},{\"name\":\"惊喜送达\",\"image\":\"https://i0.hdslb.com/bfs/garb/149cfe2791ed08efe0ab4af11460d5040c524655.png\"},{\"name\":\"生日帽\",\"image\":\"https://i0.hdslb.com/bfs/garb/5343d8014d16f98aa1c06771189560af0f97f2fa.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e09e03faf4fe0d717562e83fffc6c3c70a617b3.png\"},{\"name\":\"22许愿\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b1b20abf87b9d7bed2572c75a0ba2246ed63f63.png\"},{\"name\":\"33许愿\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d26c466622606d44325f2bdcdf47ec82fdc420a.png\"},{\"name\":\"撒花\",\"image\":\"https://i0.hdslb.com/bfs/garb/2606ce40c94084a9d47e7d3b69161faf1811faa8.png\"},{\"name\":\"庆祝\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5e1b9e5ee8d36c9066247cb04bd9941c9fde553.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa7c9dc5d70a4bf22df86fd32f01cdbe2430b482.png\"},{\"name\":\"烟花\",\"image\":\"https://i0.hdslb.com/bfs/garb/51eef9d6958231fbe4c23e35473e00b14e9e00bc.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

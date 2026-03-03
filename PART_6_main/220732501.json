@@ -16,14 +16,11 @@
 		"item_id_card":"1721815974001",
 		"item_id_emoji_package":"1721815667001",
 		"owner_uid":"3494364170947008",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2207325012",
 		"sale_sku_id_2":"2207325011",
 		"sale_time_begin":"1721970000",
@@ -81,21 +78,13 @@
 				"name":"MBTI猫猫版",
 				"suit_item_id":220732501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8ee6d7309cb3b35a61e2f01b8d05176fd18ec6ad.png",
 					"item_emoji_list":"[{\"name\":\"INTJ\",\"image\":\"https://i0.hdslb.com/bfs/garb/9871019581dfb5b963d01d9d0182fb63dce7dc6a.png\"},{\"name\":\"ENTJ\",\"image\":\"https://i0.hdslb.com/bfs/garb/a93665d2c727996ff803523e1bf818452c9cae6a.png\"},{\"name\":\"INTP\",\"image\":\"https://i0.hdslb.com/bfs/garb/e47455364e67c58c1b13fc28f9197b8726caf452.png\"},{\"name\":\"ENTP\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b81543515236689317d6cb6576af44f8730449c.png\"},{\"name\":\"INFJ\",\"image\":\"https://i0.hdslb.com/bfs/garb/6fc258637990cf6567f4411d18543c0a94e03506.png\"},{\"name\":\"INFP\",\"image\":\"https://i0.hdslb.com/bfs/garb/5482ac0d7330595173be68a653219fd75fbb26e2.png\"},{\"name\":\"ENFJ\",\"image\":\"https://i0.hdslb.com/bfs/garb/93218a3a57dde2a5dcfe2460b9e842a6e19a13af.png\"},{\"name\":\"ENFP\",\"image\":\"https://i0.hdslb.com/bfs/garb/4455dd83a70571d24646b97390a58fc471ee920b.png\"},{\"name\":\"ISTP\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e9eaf6f217510e4795ae07b7346a70bd25fd8ec.png\"},{\"name\":\"ESTP\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff9ac3e849acda6a9e7025a97e981f8efab096fb.png\"},{\"name\":\"ESFP\",\"image\":\"https://i0.hdslb.com/bfs/garb/aca9907f6fd161d6bd96c7aeeb32e1c0ed591386.png\"},{\"name\":\"ISFP\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5a06291a9f0bf0afe42006b7888f34117675354.png\"},{\"name\":\"ISTJ\",\"image\":\"https://i0.hdslb.com/bfs/garb/9238a6f7d11a9eb6e48eadda546f1ad0d8800e01.png\"},{\"name\":\"ISFJ\",\"image\":\"https://i0.hdslb.com/bfs/garb/223c19a74a634c198dfc0355c0bf046c7bcd8191.png\"},{\"name\":\"ESFJ\",\"image\":\"https://i0.hdslb.com/bfs/garb/a980dae703bd8d80281609f0cee6711bfcc6f13a.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

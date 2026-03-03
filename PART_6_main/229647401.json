@@ -16,14 +16,11 @@
 		"item_id_card":"1729582954001",
 		"item_id_emoji_package":"1729583156001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2296474012",
 		"sale_sku_id_2":"2296474011",
 		"sale_time_begin":"1729753740",
@@ -81,21 +78,13 @@
 				"name":"猫猫乐队卡牌",
 				"suit_item_id":229647401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ccefd43c8dfcd12074cb8163b114577213b6e7de.png",
 					"item_emoji_list":"[{\"name\":\"风琴小猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0a2d89c2bf4863e9c77a6e92752be16315a0eb7.png\"},{\"name\":\"花朵小猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9df78f3b91b847462c5900ee3d26f80c4bc87af.png\"},{\"name\":\"拉小提琴\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5cdf143f7d82763e9b8cb05790ce7f8d57937d1.png\"},{\"name\":\"甩彩带小猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae296cfd6332a00703cef2b7f232b193b312c64c.png\"},{\"name\":\"知识飞走啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/034091016141a701e9b71e037b8322b1abff809f.png\"},{\"name\":\"小提琴\",\"image\":\"https://i0.hdslb.com/bfs/garb/548ae58f27b8f73730b3c557794df7c6552b3259.png\"},{\"name\":\"手风琴\",\"image\":\"https://i0.hdslb.com/bfs/garb/070cee05c239300ec0594026024e75633d0f7cf0.png\"},{\"name\":\"wink喵\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef1c38a8f76a0eb88a5ace6142791df7efba0fda.png\"},{\"name\":\"猫猫登月\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb41d3adaa29339fb68d4a47b99298378bbdb682.png\"},{\"name\":\"彩带前端\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e2cf4099c80479b8cba84b444f5508d2091a753.png\"},{\"name\":\"猫猫打招呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/23b2dc3ef0c27d0c375b1850934c846ee918ca3a.png\"},{\"name\":\"送花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/7da92b147599ed0abf26c6f2691a68e070f40464.png\"},{\"name\":\"云层弹奏\",\"image\":\"https://i0.hdslb.com/bfs/garb/09a191ab4adf649d11bec0d17cd326869e5f53b6.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f68e58b8f673205d99f5cbfdacc750efa2b1367.png\"},{\"name\":\"彩带末端\",\"image\":\"https://i0.hdslb.com/bfs/garb/d3ef618fadf7587b0ee833498a4af01efcdc2f68.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

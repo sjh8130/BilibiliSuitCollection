@@ -16,14 +16,11 @@
 		"item_id_card":"1744872614001",
 		"item_id_emoji_package":"1744862043001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"96",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3108484012",
 		"sale_sku_id_2":"3108484011",
 		"sale_time_begin":"1745984110",
@@ -81,21 +78,13 @@
 				"name":"温馨午后",
 				"suit_item_id":310848401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/26cfd51e6dfbb2c9782208ad85dc5bca73a324f4.png",
 					"item_emoji_list":"[{\"name\":\"电量耗光\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b5300da87f5805aec3095a8022a8e645aee8906.png\"},{\"name\":\"探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/a02c959dfb4a500a82d4ec0751ee58c5cf536d45.png\"},{\"name\":\"崇拜\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba49addfadd050b549436525a8d4f0b1b709cb19.png\"},{\"name\":\"鸡皇\",\"image\":\"https://i0.hdslb.com/bfs/garb/388c98ae1ed39bcc809cee48ea13f021050de157.png\"},{\"name\":\"突然出现\",\"image\":\"https://i0.hdslb.com/bfs/garb/63d5807958f7e6e6b48811282d0410340ff380b0.png\"},{\"name\":\"小鸡甜筒\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ae6853848c12827506ac4ef32992edb62800594.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/51bd34ed7df0aad70096c1d6769ac8e8a5a80bea.png\"},{\"name\":\"左心心\",\"image\":\"https://i0.hdslb.com/bfs/garb/0be2f34e668a6d733d059da44542f56e28b5ed26.png\"},{\"name\":\"右心心\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a86b569aaa3b94b92c63d789087b6f77e22caf8.png\"},{\"name\":\"没睡醒\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ece6db95118c5c26353b086d211e63501ca229c.png\"},{\"name\":\"快看\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b8f21a15365313646917b8c3c9bca234b362df8.png\"},{\"name\":\"心虚\",\"image\":\"https://i0.hdslb.com/bfs/garb/38680c215fee4dd3c3799e07e9534670dab6fb58.png\"},{\"name\":\"我吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/c83a78bd3981f07ad4b6e1981fe457edddf50ae0.png\"},{\"name\":\"来财\",\"image\":\"https://i0.hdslb.com/bfs/garb/d3a8113122028df2ab718bf2bd8947112957b10f.png\"},{\"name\":\"小鸡登场\",\"image\":\"https://i0.hdslb.com/bfs/garb/78a0a402617d224558b4b49f2fd7cc8236b88bd6.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

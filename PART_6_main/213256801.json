@@ -16,14 +16,11 @@
 		"item_id_card":"1715424162001",
 		"item_id_emoji_package":"1715424415001",
 		"owner_uid":"14424458",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2132568012",
 		"sale_sku_id_2":"2132568011",
 		"sale_time_begin":"1715853600",
@@ -81,20 +78,12 @@
 				"name":"蟹佬海鲜餐",
 				"suit_item_id":213256801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ec0641fd10aa1e149134ade74d7155842d26973d.png",
 					"item_emoji_list":"[{\"name\":\"吹口哨\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd0ba84aa6c32b150d18489a844207429f066c7e.png\"},{\"name\":\"大叫\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbb73b46f8c0a573b1da32da6cefbbe9e3ba33b4.png\"},{\"name\":\"好吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/6932841c17458569c1868ffc96e940814f0b2588.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/31dc0ea48e1bc0548c8db58bda9df0a1b97869e7.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/055e8550934b8784a7073447f016f13208504f65.png\"},{\"name\":\"泪目\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e0cce1639b8fd1b5711016c752bf6d46fb3b657.png\"},{\"name\":\"诶嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c2910e60bb7bab0177f00227a6fabb16833f47f.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/0318f87e04784f93bb06f5dc67a6d200fef26904.png\"},{\"name\":\"难过\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c3c22247567ec1c00ea9bfef74b2da7a79930b1.png\"},{\"name\":\"黑线\",\"image\":\"https://i0.hdslb.com/bfs/garb/01d29f83740e2d24f59187b945c24fbe8d180c66.png\"},{\"name\":\"虾\",\"image\":\"https://i0.hdslb.com/bfs/garb/0962b9e17cd422a75f13a9af73b66274f97957fc.png\"},{\"name\":\"扇贝\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb90f61ee1a6df1ac34b6d88daa598445fdecea6.png\"},{\"name\":\"生蚝\",\"image\":\"https://i0.hdslb.com/bfs/garb/c61a64cdc8711ec706a935f8ac7f0da7ec419606.png\"},{\"name\":\"螺\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f459532701fd7eb04154b4e545a6e87fb377e93.png\"},{\"name\":\"青口\",\"image\":\"https://i0.hdslb.com/bfs/garb/739e16890e0fe7bf14ccfd0922c8e18642649349.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

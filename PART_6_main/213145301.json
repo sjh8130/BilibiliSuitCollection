@@ -16,14 +16,11 @@
 		"item_id_card":"1715324055001",
 		"item_id_emoji_package":"1715324248001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2131453012",
 		"sale_sku_id_2":"2131453011",
 		"sale_time_begin":"1730260800",
@@ -82,20 +79,12 @@
 				"name":"Hangfook 大菠萝",
 				"suit_item_id":213145301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7f2995add6223e5a519421b24ae3290fa4740f7a.png",
 					"item_emoji_list":"[{\"name\":\"吃货\",\"image\":\"https://i0.hdslb.com/bfs/garb/3677ffcea881b978122859941d1d7421b2b630cf.png\"},{\"name\":\"南瓜熊\",\"image\":\"https://i0.hdslb.com/bfs/garb/be31f8dd22181009cc1f1bc7ca408501c0a87aaf.png\"},{\"name\":\"玉米玩偶\",\"image\":\"https://i0.hdslb.com/bfs/garb/728e929611defebd9e227c341b0777170279eed8.png\"},{\"name\":\"瓶子熊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a191e71637e9fbe335bd364931a87c2bc327501e.png\"},{\"name\":\"胡萝卜猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/68105e720dc3505c7305b12f5df5b39ccd823b6a.png\"},{\"name\":\"说三明治\",\"image\":\"https://i0.hdslb.com/bfs/garb/500216ded832bd4a86fe45c272c0f1c8b52e70ef.png\"},{\"name\":\"冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/6fca0b2dfac16c8eeb37416f9b893ed92176ff8a.png\"},{\"name\":\"牛油果\",\"image\":\"https://i0.hdslb.com/bfs/garb/ecabbd1cedf6d886ff41f72bb10855cedf9bc340.png\"},{\"name\":\"南瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/b948c407fe03a57ff85b5a3112c29ce9b6e3d288.png\"},{\"name\":\"蛙声一片\",\"image\":\"https://i0.hdslb.com/bfs/garb/ccf8cfeb7464bbdad1ae72fd459b110769517308.png\"},{\"name\":\"捉鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/8515b2c520de3043730e10cc23e2621102996ef2.png\"},{\"name\":\"饭团\",\"image\":\"https://i0.hdslb.com/bfs/garb/7cf781faf60a87128ff9974aedc85eefff5847d4.png\"},{\"name\":\"熊熊冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdbe861ffa45079017a765b438b1c5be87a28ed6.png\"},{\"name\":\"兔饭团\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1882152c0ad0fa3db25f7f1944b3054d1d45ff7.png\"},{\"name\":\"猫猫冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d9888583e4ef43ef62f6c9184205e9b94217691.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

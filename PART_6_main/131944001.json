@@ -16,14 +16,11 @@
 		"item_id_card":"1700028948001",
 		"item_id_emoji_package":"1699954012001",
 		"owner_uid":"260645654",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"200000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1319440012",
 		"sale_sku_id_2":"1319440011",
 		"sale_time_begin":"1700884710",
@@ -81,20 +78,12 @@
 				"name":"看看路牌",
 				"suit_item_id":131944001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a5431e1f3cc68e8dd3dee8b74067ff8b63a1a957.png",
 					"item_emoji_list":"[{\"name\":\"点了\",\"image\":\"https://i0.hdslb.com/bfs/garb/8dbb35c480ca8e9aee764f52bd826682303793d6.png\"},{\"name\":\"垃圾桶\",\"image\":\"https://i0.hdslb.com/bfs/garb/88299fd0f40bd10930ec142127419cf2b600da0b.png\"},{\"name\":\"警戒线\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb812c93c9cb97521e4810ebbb6df1e97742fe0f.png\"},{\"name\":\"禁止驾驶\",\"image\":\"https://i0.hdslb.com/bfs/garb/77a890992b8e95cb66b96265750cfed7c3d88fb2.png\"},{\"name\":\"停\",\"image\":\"https://i0.hdslb.com/bfs/garb/78f268bc3b37692a811dc3d82e92b153663c572a.png\"},{\"name\":\"慢\",\"image\":\"https://i0.hdslb.com/bfs/garb/37fbfe7a5f3d27d572137c4c01df10cc2af88666.png\"},{\"name\":\"停车标志\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b6808747bcb35daa2aea3098fe4b6008a0a7dd6.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/19c6315b54597c29812092c2f851466ad12d68e4.png\"},{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/9c5e8341b5e4f366d5dfe6bc9a7692f34ef48b50.png\"},{\"name\":\"注意牲畜\",\"image\":\"https://i0.hdslb.com/bfs/garb/acac3dda5a2042a389391f08aa1bca771e0786be.png\"},{\"name\":\"南蚌\",\"image\":\"https://i0.hdslb.com/bfs/garb/613bd955a6a739480a51548d2ace72b7a9e8c0c8.png\"},{\"name\":\"汗流浃背\",\"image\":\"https://i0.hdslb.com/bfs/garb/1400908b3f35b6787e6a5a35a84b1cdb3ff9210c.png\"},{\"name\":\"注意\",\"image\":\"https://i0.hdslb.com/bfs/garb/4376aeaababb9e4f87c6276877e3e3a8951a72ae.png\"},{\"name\":\"红色警戒线\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef4f3959e8071f8ceab6eab61067038e23874151.png\"},{\"name\":\"vocal\",\"image\":\"https://i0.hdslb.com/bfs/garb/cea4251160754e1526e89af421816767c6326f25.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

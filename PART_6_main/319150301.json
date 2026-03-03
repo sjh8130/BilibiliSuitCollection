@@ -16,14 +16,11 @@
 		"item_id_card":"1752134561001",
 		"item_id_emoji_package":"1752135053001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3191503012",
 		"sale_sku_id_2":"3191503011",
 		"sale_time_begin":"1752810561",
@@ -81,21 +78,13 @@
 				"name":"青苹果喵",
 				"suit_item_id":319150301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d28fddda62d20010e61a8bc4432f36fd5d528bd8.png",
 					"item_emoji_list":"[{\"name\":\"拥抱苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/a151b17a6b04695fbf34c9fbdb0bb9e6e111ba45.png\"},{\"name\":\"吃掉苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/001083d1ea6c0038176e46660f48d0f869e33bdd.png\"},{\"name\":\"苹果小车\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a89f30a318c6dc7b2bad052f16d0843fbb3b182.png\"},{\"name\":\"苹果皮\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9a07ec920273cdd4fa8e3ad7e040d92f464dcbb.png\"},{\"name\":\"苹果汽水\",\"image\":\"https://i0.hdslb.com/bfs/garb/8546fa40f4a8a9a5041f150001989d875ec6d258.png\"},{\"name\":\"一袋苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/fbcba37c29082d42351c731bc8bf959ff0ff1464.png\"},{\"name\":\"一箱苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/37e6e8da269503ddc27a412755a5378418aa746e.png\"},{\"name\":\"削皮\",\"image\":\"https://i0.hdslb.com/bfs/garb/5db2b2a727627030b7d73c03795fef5534c36420.png\"},{\"name\":\"清爽\",\"image\":\"https://i0.hdslb.com/bfs/garb/2eacf15f61c711bb93a61b76e40d7bd62c71114a.png\"},{\"name\":\"极简\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1e21a861ed26020163a2e5f8ee92b7222d374f2.png\"},{\"name\":\"举起苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/22c2c424a19384a27967ae41ed071f3933561d63.png\"},{\"name\":\"花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/5bf3ba78042a6cacf8e88da2f308cf8f30df3792.png\"},{\"name\":\"苹果书\",\"image\":\"https://i0.hdslb.com/bfs/garb/f932ec8e7540047a42cb3520ed8244082a6a1177.png\"},{\"name\":\"兔子苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d37f540a3acb6b0915ad5c8371395a35498f517.png\"},{\"name\":\"苹果核\",\"image\":\"https://i0.hdslb.com/bfs/garb/318bb04a12fdc6b22e35bc0ab38548b1c9d43873.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

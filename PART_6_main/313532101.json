@@ -16,14 +16,11 @@
 		"item_id_card":"1747214046001",
 		"item_id_emoji_package":"1747214519001",
 		"owner_uid":"670729222",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3135321012",
 		"sale_sku_id_2":"3135321011",
 		"sale_time_begin":"1757484581",
@@ -81,21 +78,13 @@
 				"name":"吗喽来喽",
 				"suit_item_id":313532101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a98788edcd989e5ef85475c0b41f7eef8332f24f.png",
 					"item_emoji_list":"[{\"name\":\"吗喽皇帝\",\"image\":\"https://i0.hdslb.com/bfs/garb/27626aca9962ec0432493b83a8fec4820cfe8376.png\"},{\"name\":\"out喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/01b6b8d92e18c77d184f98b787f1490857b746dd.png\"},{\"name\":\"睡喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/a311a08f274117c72e81dd43049d19ef3c1faee0.png\"},{\"name\":\"左看\",\"image\":\"https://i0.hdslb.com/bfs/garb/b724df63ce2a22575125111673d732b3c073127c.png\"},{\"name\":\"右看\",\"image\":\"https://i0.hdslb.com/bfs/garb/802a965d468791aa2891514217260be673fb8f8d.png\"},{\"name\":\"醒醒\",\"image\":\"https://i0.hdslb.com/bfs/garb/12e96447c1053fc11a0df8573c831886df325f37.png\"},{\"name\":\"馋喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/3574a4cd54306e429dabbdcaff826355dd47de11.png\"},{\"name\":\"醉喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/9daddeae54e3a94943fba9e333ab41476e99d6ab.png\"},{\"name\":\"来喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/eec40df1b1e5f58baec65434bb1fafe562a9891e.png\"},{\"name\":\"走喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c257a789791ceb74b55650d93250916feee4f1b.png\"},{\"name\":\"...\",\"image\":\"https://i0.hdslb.com/bfs/garb/7cdb5166bfd7746460aaa2fc4fd21f2a3fafbb21.png\"},{\"name\":\"蜂喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/8290e32180a579f4c0407bdbfd0d30d76bf1d12b.png\"},{\"name\":\"？\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0aa94096fe0acd8d530fe7093c82c4258b758fc.png\"},{\"name\":\"不干喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/d64c5f9a07c4b783ed865a10c54e4a5b941c690c.png\"},{\"name\":\"铁窗泪喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/b91378db82165f7b9b07ed48cb3f333fa70f2a82.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

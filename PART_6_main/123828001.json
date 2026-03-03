@@ -15,14 +15,11 @@
 		"item_id_card":"1693012153001",
 		"item_id_emoji_package":"1693012562001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1238280012",
 		"sale_sku_id_2":"1238280011",
 		"sale_time_begin":"1693297500",
@@ -81,20 +78,12 @@
 				"name":"迷惑猫猫们",
 				"suit_item_id":123828001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9538293fb4363f425a4bfa90c91766034df502a0.png",
 					"item_emoji_list":"[{\"name\":\"OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/c198cfacd239bbd9d60b06d36844b92f4206ed9e.png\"},{\"name\":\"嗯嗯\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e204954c31cc1b72630404a091458a7f70faf0f.png\"},{\"name\":\"宕机\",\"image\":\"https://i0.hdslb.com/bfs/garb/443ed9da58dbbeb62c9881ad5c33aa76f65be029.png\"},{\"name\":\"好方\",\"image\":\"https://i0.hdslb.com/bfs/garb/96559d4222e313e4b737a908869128b8032c0448.png\"},{\"name\":\"啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/789de8f92fb0a3329331c087b8bb9fa386954384.png\"},{\"name\":\"妈！\",\"image\":\"https://i0.hdslb.com/bfs/garb/186dec07c07eee6e951f44ada4331d8d5cc49ed5.png\"},{\"name\":\"小丑是我\",\"image\":\"https://i0.hdslb.com/bfs/garb/9cfd3eccc84b0707a9e00b94e419b769216f9e49.png\"},{\"name\":\"略\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b2b86c60322cf149bcf6cff761204a290b02cdc.png\"},{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/498da1e7733aafde55176d0423c096ae08d5c06a.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/70286458fedf91e19c6377636b55ce4d4db6f1ee.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e8ad6008c836d0d071dcfcd6c875639c91ae7a7.png\"},{\"name\":\"歪嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/950a0722d386b4cf9ad3b8fd98e28676ed659288.png\"},{\"name\":\"汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/08f5ea7b0f50216a640d0288a04ec81cfc67acb0.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/19ef215061cb6b7b81922aa8dd13530dfea79459.png\"},{\"name\":\"白眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/207437e1575a1251af1a94c2af040b1e3d05a440.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

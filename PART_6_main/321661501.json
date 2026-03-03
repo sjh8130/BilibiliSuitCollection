@@ -16,14 +16,11 @@
 		"item_id_card":"1754110914001",
 		"item_id_emoji_package":"1754111194001",
 		"owner_uid":"411750181",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3216615012",
 		"sale_sku_id_2":"3216615011",
 		"sale_time_begin":"1754798400",
@@ -82,21 +79,13 @@
 				"name":"白鸟Asuta",
 				"suit_item_id":321661501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/67fd90002c0f4e05b6ee4536a2c7755c72413953.png",
 					"item_emoji_list":"[{\"name\":\"咋回事\",\"image\":\"https://i0.hdslb.com/bfs/garb/77002aff1081413700a19cd8aae3b476f01c0838.png\"},{\"name\":\"真无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/7210d446952e39461e4e2c2cc7d009e38d2e95e1.png\"},{\"name\":\"哭唧唧\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3584fb5a65a0e95070a3b470ce616a62bb66f9b.png\"},{\"name\":\"害羞羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a3ac33f349b378ebe7a39b0f443b052cdcdfdc8.png\"},{\"name\":\"你小子\",\"image\":\"https://i0.hdslb.com/bfs/garb/2e0777e1a488312998371f7671e615246f378616.png\"},{\"name\":\"干嘛啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/1aec4c931111a9068c99aadff522d2b4a48d5f40.png\"},{\"name\":\"忙不完\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6c4122923fb19acbdbcba82b4817885de1214e4.png\"},{\"name\":\"开饭啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d28ce2898e111137c083088aa976297d7920b3c.png\"},{\"name\":\"我喷了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c57067fcc034ae014dfdfd05037160fc60d079aa.png\"},{\"name\":\"要闹了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0e51a28b3e3f8db614d3d1071802bbc7751f03c.png\"},{\"name\":\"撒花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/bba61a27ca8b431adae7b5f37830e8d575451bc5.png\"},{\"name\":\"摸摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f2d6686f19b3b54947a6c5853c6474c9dde0400.png\"},{\"name\":\"太荒谬\",\"image\":\"https://i0.hdslb.com/bfs/garb/deab98ae900ad6bc9a02e4afc380fd13d0737845.png\"},{\"name\":\"他急了\",\"image\":\"https://i0.hdslb.com/bfs/garb/b32b8df6a1718609ad2963ddf0a389229fab02aa.png\"},{\"name\":\"来瞅瞅\",\"image\":\"https://i0.hdslb.com/bfs/garb/0fd6f4e45a5b4275b2ac1787669e4b89c1237cc2.png\"},{\"name\":\"采访你\",\"image\":\"https://i0.hdslb.com/bfs/garb/923958d417cf203f9ac5ed682d45e03fbda2b47d.png\"},{\"name\":\"打Call\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f717b45ce9304c721dff181285d1c841607d51b.png\"},{\"name\":\"贴贴鸟\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d7a74d979609732746b7623cc073017dedd3485.png\"},{\"name\":\"包的哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/177a14fbfe79033a0942537c1edee152516bebf9.png\"},{\"name\":\"神降临\",\"image\":\"https://i0.hdslb.com/bfs/garb/59e5e48020116e57b98a68916c08d85ef6c905c5.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

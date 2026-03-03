@@ -16,14 +16,11 @@
 		"item_id_card":"1716794134001",
 		"item_id_emoji_package":"1716793559001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2149483012",
 		"sale_sku_id_2":"2149483011",
 		"sale_time_begin":"1718596800",
@@ -81,20 +78,12 @@
 				"name":"萌萌懒羊羊",
 				"suit_item_id":214948301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/131a947d4f178f5a6ce92d267b9637917a646bf5.png",
 					"item_emoji_list":"[{\"name\":\"调皮\",\"image\":\"https://i0.hdslb.com/bfs/garb/06dad84b08a0a054a5d573ac8f113e11b16a01e2.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/2cb3500081f35393244ab0db47d92e66be4702ec.png\"},{\"name\":\"呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/7999a0ae1c9d3adaa0d516994d1dcdbb88c86b61.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/83c1f9f23b3a232a7270e743d6a501cba62e896a.png\"},{\"name\":\"馋馋\",\"image\":\"https://i0.hdslb.com/bfs/garb/794c2fcf54e4a09cd95e6171bbb72d6d28768114.png\"},{\"name\":\"拜拜\",\"image\":\"https://i0.hdslb.com/bfs/garb/98b5c0f619166de64c9548bf5a74cb7ffe68d9eb.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/bac9cf5a135786afc797e396c5b3f93738cf5112.png\"},{\"name\":\"困了\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc8493a2819bbdf0de2c33e8a864f24e1a5dd191.png\"},{\"name\":\"喝饮料\",\"image\":\"https://i0.hdslb.com/bfs/garb/d80ec896eb856c8ac5ed7ec0e3438370918e9248.png\"},{\"name\":\"气\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a309fd84de46832e2f48be78d8577aae49e466a.png\"},{\"name\":\"我是狼\",\"image\":\"https://i0.hdslb.com/bfs/garb/7818ae54d81032806211cded82355fce635e1d89.png\"},{\"name\":\"我是羊\",\"image\":\"https://i0.hdslb.com/bfs/garb/6675687d0982126bb784db59e2859b87974432ed.png\"},{\"name\":\"学习\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2cd66d35194559a481f2646ba7cfb1576a37e38.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/00525a9b3cb346476211a99bd38019bc4185b572.png\"},{\"name\":\"敲键盘\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ba6ad3eaea008519f573f2640651c15d8e130e1.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

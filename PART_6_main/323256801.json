@@ -16,14 +16,11 @@
 		"item_id_card":"1755670731001",
 		"item_id_emoji_package":"1755670283001",
 		"owner_uid":"647193094",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3232568012",
 		"sale_sku_id_2":"3232568011",
 		"sale_time_begin":"1755831600",
@@ -81,21 +78,13 @@
 				"name":"百妖谱表情包",
 				"suit_item_id":323256801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/fc9f8a8afb1df891b6d06dc78d9ec3a3bb9f6ce4.png",
 					"item_emoji_list":"[{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/80e68ae17df1ddde50706e3024c09a108681323b.png\"},{\"name\":\"星星眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/fcf9427bb4c4001234f98a6418ca9000b7dcfac8.png\"},{\"name\":\"傲娇\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b33ba2e881692096fe7c7601fdc6b8ac1cc9934.png\"},{\"name\":\"大笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/fa78ca52a9bbc7f570245ba6df62a39907b17123.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc80fd269d5dbe9dd7128bb0930f96bab5e360ff.png\"},{\"name\":\"坏笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/693f85d38ea08d2f65bdde577dbd76801818f49e.png\"},{\"name\":\"呆滞\",\"image\":\"https://i0.hdslb.com/bfs/garb/c716daafb7ea3489d80e9974e3cb496a785a91bf.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b77283494d7e68451c4a1d842724637fb01942f.png\"},{\"name\":\"幸福\",\"image\":\"https://i0.hdslb.com/bfs/garb/0eb92b70d68b98fbe7a7f0a5a2f18358afeb2f7c.png\"},{\"name\":\"好吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/5c18b71504be76681f5f0cfc6301feb443a728e3.png\"},{\"name\":\"吱\",\"image\":\"https://i0.hdslb.com/bfs/garb/eef8516484c64f1a9e36067b1dd565a40d0b1df9.png\"},{\"name\":\"做饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1f00a96dc10ff11755fef0cb95a706a5ff75e3b.png\"},{\"name\":\"可爱蛇蛇\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8343671efcf53c81d357b1862f555aca1369610.png\"},{\"name\":\"深情\",\"image\":\"https://i0.hdslb.com/bfs/garb/89caaddf1a177ae5ea53c7cc45bfe8b9a1928cd5.png\"},{\"name\":\"我？\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ffc898782a3d11610b9ed77a4752e0741c6b63e.png\"},{\"name\":\"饿了\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ebbee066ceb87a5d73fbc6b80f4f03a16dfdb1b.png\"},{\"name\":\"画画\",\"image\":\"https://i0.hdslb.com/bfs/garb/042c9eafa8a3c8a50cfaef3e8ad83867cdebda02.png\"},{\"name\":\"发呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/64c98febde19c8fef7928dd4d3069f45693e5d6b.png\"},{\"name\":\"OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9b9c469a52b3536ca8637a074a23b1b354145f3.png\"},{\"name\":\"愣住\",\"image\":\"https://i0.hdslb.com/bfs/garb/abc066a67d8b9d286662ca71120fc4ce1d839820.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

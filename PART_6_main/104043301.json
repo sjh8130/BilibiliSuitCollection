@@ -16,12 +16,10 @@
 		"item_id_card":"1675922176001",
 		"item_id_emoji_package":"1675923122001",
 		"owner_uid":"3461581786581601",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
 		"sale_sku_id_1":"1040433012",
 		"sale_sku_id_2":"1040433011",
@@ -80,20 +78,12 @@
 				"name":"花月小熊座",
 				"suit_item_id":104043301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/659e0b8ee4189892d0c31588b5a0df62a5085227.png",
 					"item_emoji_list":"[{\"name\":\"加一\",\"image\":\"https://i0.hdslb.com/bfs/garb/63ccd3c2586c54336c70b00a12c4a8387272eab6.png\"},{\"name\":\"点点点\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c55da92e665f20748f112d7fa28a7c8f1cddd8e.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/06fa37b179428036dea870e623a792bdf3c41441.png\"},{\"name\":\"饿饿饭饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/102ecf459d120fc58f0ddcd721722786220c5d4e.png\"},{\"name\":\"搬砖中\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b3fb544f640305df665f8fc0bd7f596d60371dc.png\"},{\"name\":\"真香\",\"image\":\"https://i0.hdslb.com/bfs/garb/a05d6c2ce374799f37070166bcf781450ddf9bfc.png\"},{\"name\":\"紧张\",\"image\":\"https://i0.hdslb.com/bfs/garb/056f42b29c6279026f5be14a3a20aa5687bfe73d.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/5472a2bfeb9b1e074460f062c7b9e01adff4318a.png\"},{\"name\":\"OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/beb43ee476fe0b507a6058c6fbb6af1c87d1d8ad.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/63ea1c76b644c83347a4471bb42b0aabf1f0a13f.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/231e4a3fdaaf2c6f107404a2ef3a73a4f8b2e619.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/44d705127b2d1dd8e33a61ecefb88e1113dd6703.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1c3ab4cd0723954d1643d21333799d0862b2e4b.png\"},{\"name\":\"谢谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/27ea64d7dcba7bf398ce4f9acd2312564a77e1da.png\"},{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/0add44153b530a918b37665e9336ef9313b46a46.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

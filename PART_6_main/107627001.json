@@ -16,14 +16,11 @@
 		"item_id_card":"1678947153001",
 		"item_id_emoji_package":"1678948692001",
 		"owner_uid":"2142503509",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1076270012",
 		"sale_sku_id_2":"1076270011",
 		"sale_time_begin":"1679907570",
@@ -81,20 +78,12 @@
 				"name":"去寄封信吧",
 				"suit_item_id":107627001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e794e2123b89342e6bf6c5a6000ae8f92af4aa5d.png",
 					"item_emoji_list":"[{\"name\":\"摸摸\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d0f21252bbc6499ed005d7e3014fd160b691e29.png\"},{\"name\":\"这很难评\",\"image\":\"https://i0.hdslb.com/bfs/garb/abc22085ca99b0ac8976b666ec719f5eee43b085.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf36f13d1e8dd715420f0932ea7e4f77a8b52c7b.png\"},{\"name\":\"跟我读\",\"image\":\"https://i0.hdslb.com/bfs/garb/710692775c8e609f4adc3768c66678dc52b00c0f.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e9e798b15cccaedefe2f0f1c0b4360dc8f99ae5.png\"},{\"name\":\"狗咬狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/4705fc20a8e639f718ddb96b82864453200c35b0.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/18b6cedec3cc3141583e85257e805f31cb356936.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f266de2b1593cced07cb4fb1d052d1652ba83aa.png\"},{\"name\":\"唔\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca8188f4c92cded6790e687abf0e350e1bf719bd.png\"},{\"name\":\"你欺负人\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6b2cbad51bbbca7537027263a77f2987c7f9624.png\"},{\"name\":\"刚睡醒啥事\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8f09c466b5f39b5ee9ae7d4a64a84e7173d9855.png\"},{\"name\":\"揪你狗脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ba7fd3da4e47f1ee16c6dd5446874b66d013fa8.png\"},{\"name\":\"对不起\",\"image\":\"https://i0.hdslb.com/bfs/garb/5232c24e30f2fe4aff3332a5881960004f19b446.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/159fe202ce4bf0c547801af03042cefd427c164f.png\"},{\"name\":\"惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2e2de6f3b4a6ee202246d274853100b95ec91f3.png\"},{\"name\":\"哎嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/1bb098448a0f94f2118a70d510a0e154fc14dffd.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/46fdd964a14e2b8318bb4056312f91e85f17df2d.png\"},{\"name\":\"呜哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2a286c0877f49f7b44684fa3a4467b6ce41bef7.png\"},{\"name\":\"汪汪糊糊\",\"image\":\"https://i0.hdslb.com/bfs/garb/3540746563cb019fc08f54734518d3b4cc9d5d99.png\"},{\"name\":\"火大\",\"image\":\"https://i0.hdslb.com/bfs/garb/da37d50df490d21a6a559c522ce7dbf5031b8b44.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

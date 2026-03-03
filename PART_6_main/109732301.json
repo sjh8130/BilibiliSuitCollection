@@ -15,12 +15,10 @@
 		"item_id_card":"1679555618001",
 		"item_id_emoji_package":"1679555688001",
 		"owner_uid":"3493080527276309",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
 		"sale_sku_id_1":"1097323012",
 		"sale_sku_id_2":"1097323011",
@@ -79,20 +77,12 @@
 				"name":"爆蛋-表情包",
 				"suit_item_id":109732301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e298613b7e81bb2c173f2a26a60719575c2ef6dd.png",
 					"item_emoji_list":"[{\"name\":\"收到\",\"image\":\"https://i0.hdslb.com/bfs/garb/2e86e7a72eff4e1fd7be56e09d0c2d05efbcacc1.png\"},{\"name\":\"去吃饭吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/e95a9b644404787e41fb753a6d62e4f8080d1298.png\"},{\"name\":\"请查收\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0a77daa7a60a06213b3554b6afe7cff33bb0828.png\"},{\"name\":\"坐等下班\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb233003b997db231f14268b7eb84d77680132ca.png\"},{\"name\":\"您请过目\",\"image\":\"https://i0.hdslb.com/bfs/garb/18924b2d590d8b85d68291111793b93791d054f9.png\"},{\"name\":\"点外卖吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd28d6d3071391415d130d7c38309eba6af97cb1.png\"},{\"name\":\"离谱\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8dcb44b53aac38865d5a840711d1797d665727d.png\"},{\"name\":\"马上\",\"image\":\"https://i0.hdslb.com/bfs/garb/37e357b3377d7daa3e35bcdcba026f6e8887cb9a.png\"},{\"name\":\"出差了\",\"image\":\"https://i0.hdslb.com/bfs/garb/e2578f32bf83c4c9631cf9a8c374a6737e1efc16.png\"},{\"name\":\"发工资了\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac72110871214b0a1832c54eb84d2b9f37a65364.png\"},{\"name\":\"溜了\",\"image\":\"https://i0.hdslb.com/bfs/garb/655268cb59c8d1d16945ba946e8ef7d8321f416d.png\"},{\"name\":\"老板在吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/eaaa52fa848c27c34e4c9a2455bc784e81f5e497.png\"},{\"name\":\"难顶啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab080d94c1d803a333f8f94250f778aff0e5548d.png\"},{\"name\":\"开会了\",\"image\":\"https://i0.hdslb.com/bfs/garb/ddf670e84db1c375ddef0c799b14c2be49bcb245.png\"},{\"name\":\"脑子空白\",\"image\":\"https://i0.hdslb.com/bfs/garb/c62f93d624f73d7389185e2d21b303da8522e48f.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

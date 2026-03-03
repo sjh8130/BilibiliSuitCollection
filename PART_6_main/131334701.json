@@ -16,14 +16,11 @@
 		"item_id_card":"1699500324001",
 		"item_id_emoji_package":"1699500456001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"200000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1313347012",
 		"sale_sku_id_2":"1313347011",
 		"sale_time_begin":"1699676170",
@@ -81,20 +78,12 @@
 				"name":"牧羊少女",
 				"suit_item_id":131334701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f2c886c6e34bc2c41795d2305dd6992c7211aab5.png",
 					"item_emoji_list":"[{\"name\":\"认真\",\"image\":\"https://i0.hdslb.com/bfs/garb/408d4a853ab06476718e2a8caaac35c9b9f2c1b8.png\"},{\"name\":\"嫌弃\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c9e93b615f745e88f47ac25933e576ab42d48f5.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a2313ce4467230fd03c8893bc91409dcdb01381.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/301f91b9e4b8e7442cbf6ad03ca8bc0e5d0f33f9.png\"},{\"name\":\"真下头\",\"image\":\"https://i0.hdslb.com/bfs/garb/66efd0b3536c40040379320819c868bee9a61ddc.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/70b3c299a514029b08fb00312dcfe2f19eccfc53.png\"},{\"name\":\"强\",\"image\":\"https://i0.hdslb.com/bfs/garb/9633492f026a5f6463654235944888e934288df2.png\"},{\"name\":\"动手\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c8253636d87ab9f1c827574ca90813bc8d59bfc.png\"},{\"name\":\"抱团\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1d7f0d664fef1dc04c4b1a962a61c315a551e37.png\"},{\"name\":\"放我出去\",\"image\":\"https://i0.hdslb.com/bfs/garb/e56c42a858496a781ad141277e9d91eb4d1817cc.png\"},{\"name\":\"叽里呱啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e0781f551dede9d0f2c3df8e9bed4bbb4788175.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ea66de85f6bc4d105886c200647aa684dbf5843.png\"},{\"name\":\"芜湖\",\"image\":\"https://i0.hdslb.com/bfs/garb/507183d89495670ba0a4ae012f64b15b9a526bc6.png\"},{\"name\":\"呵呵\",\"image\":\"https://i0.hdslb.com/bfs/garb/669b2b4212b2375b0f0771933ec9b401e4c0ce72.png\"},{\"name\":\"一起睡大觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/6bfc2f91bf3a7d3cc74b9df569fc1e34f0bcd5f6.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

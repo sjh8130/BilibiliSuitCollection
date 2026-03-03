@@ -17,12 +17,10 @@
 		"item_id_emoji_package":"1752572211001",
 		"item_id_thumbup":"1752586207001",
 		"owner_uid":"159426001",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"6500",
 		"sale_bp_pm_raw":"1000",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
 		"sale_sku_id_1":"3140302012",
 		"sale_sku_id_2":"3140302011",
@@ -80,21 +78,13 @@
 				"name":"霜泽淋雪",
 				"suit_item_id":314030201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/41c89f852ec2348e7fe69c863bd14d8f35ce57ed.png",
 					"item_emoji_list":"[{\"name\":\"敲\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9e058751407746dd73746c54ac4b75b79488425.png\"},{\"name\":\"握手\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d0ed59bed65dd5d17fe3d69e2012dcf85cd9cff.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/2cf83e6bf1f21b5a7e70b5bf389a828b63114b5b.png\"},{\"name\":\"嘿嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d2aa2fd22b3b809fa2c9e1363d1e8a06ef8f5c6.png\"},{\"name\":\"不行\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d3c19231c89c106ec9174688562f1e01fa7bf09.png\"},{\"name\":\"嗯\",\"image\":\"https://i0.hdslb.com/bfs/garb/850f9bc035be199844d986ecd4e43900c2db1b83.png\"},{\"name\":\"请坐\",\"image\":\"https://i0.hdslb.com/bfs/garb/5695049b1f946ace3852290ea512d195b7ade998.png\"},{\"name\":\"加班\",\"image\":\"https://i0.hdslb.com/bfs/garb/958f860c5c8ebdbe822e834c981054cf7b0da005.png\"},{\"name\":\"喂喂喂\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8f22e39c3d0b8d7507ab8783fc2878a3f8120fd.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/87ff2d2afb7df9b0ac1da9106aa8ff8dddf706bd.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/f56c2759d2c88744995d3077656c45d6445617a5.png\"},{\"name\":\"摊手\",\"image\":\"https://i0.hdslb.com/bfs/garb/afe015b219a379bc6002895f2e7231fcb9427fbd.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9c43954832ca764d762972ac89313bf2f27a70a.png\"},{\"name\":\"OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/3800c2118fec09e45530de82e10bdf7a61bcd240.png\"},{\"name\":\"哈欠\",\"image\":\"https://i0.hdslb.com/bfs/garb/f102bd04704ea464eea4bebeec067bf808dd41e1.png\"},{\"name\":\"老人手机\",\"image\":\"https://i0.hdslb.com/bfs/garb/5283a2d203e8502f33232322056da644850eaecb.png\"},{\"name\":\"冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/7fc49a8ccf4bd9b4ba48880f17d9f0f5edd7018b.png\"},{\"name\":\"牛角包\",\"image\":\"https://i0.hdslb.com/bfs/garb/340aae7cb8270c117a2b157b4906eb3d26028f04.png\"},{\"name\":\"眉眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/21e2c7167a1f22839f09639dafb85588f9a07c6b.png\"},{\"name\":\"舔手机\",\"image\":\"https://i0.hdslb.com/bfs/garb/a640ea8aab0f521491211d657fb319455114e1e5.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/305fefda75559660212dc8ac9e3b8350d7c49c72.png\"},{\"name\":\"伤心\",\"image\":\"https://i0.hdslb.com/bfs/garb/92a8924f032e90f8f1ef18e050ba455db6b7322b.png\"},{\"name\":\"乐了\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3bfc85c8cefc49bb0de960ac4fed3091e6b0eb8.png\"},{\"name\":\"打扣\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6662d81501f3a355e28164611933903ea778798.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/19c922b4eabe70ba250481a98af30541a257e41b.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

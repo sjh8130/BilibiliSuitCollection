@@ -16,14 +16,11 @@
 		"item_id_card":"1689751259001",
 		"item_id_emoji_package":"1689751696001",
 		"owner_uid":"3493293524519197",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1202411012",
 		"sale_sku_id_2":"1202411011",
 		"sale_time_begin":"1690358360",
@@ -81,20 +78,12 @@
 				"name":"雨夜少女",
 				"suit_item_id":120241101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b8c737073b3a4cbc84cbefb4ba5eb233f4e400db.png",
 					"item_emoji_list":"[{\"name\":\"emm\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c7fe0370fa1ba5e507297d966ca906e6b15b0ba.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7a9eb75b845857b7c73c0cbdb856d64c545f0e7.png\"},{\"name\":\"汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6f7809f7aeb9023ac50c83a2829c6ba2d605bcb.png\"},{\"name\":\"馋了\",\"image\":\"https://i0.hdslb.com/bfs/garb/08ab9a68380a13a20ee1b1244ab37f8a9eb6f626.png\"},{\"name\":\"送礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/fda872ba6637614b9f574b0e45835d0f8e3fe0fe.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/02bedd799fb6dc2a868df1c7b457ac683323fd7f.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/543701849cca5a42c465fca27b87fd4cc3a76a4d.png\"},{\"name\":\"打招呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/ddd29ec16b7b6bd13ce4321c93e988f414152418.png\"},{\"name\":\"学生卡\",\"image\":\"https://i0.hdslb.com/bfs/garb/b1c127cbc92ada2664625b15d59e2a7161d161ee.png\"},{\"name\":\"喝果汁\",\"image\":\"https://i0.hdslb.com/bfs/garb/844ae412de08cb444e7ef7f3fe3cff9253d3e7fa.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/05c714459d4a1a4c8c521ce71fa8eba99b9b32df.png\"},{\"name\":\"搬家\",\"image\":\"https://i0.hdslb.com/bfs/garb/a952374089223ffea02aee992d79aa425a59760e.png\"},{\"name\":\"吃冰棍\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab9af060060b9a2f1d0c620dcdd804756198bc2d.png\"},{\"name\":\"一杯果汁\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb685a2470ba2b03c756ffe0d3cb00b05082681d.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/85bda2e824fd6c753918669c23754578e6f7cbbe.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

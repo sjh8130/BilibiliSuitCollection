@@ -16,14 +16,11 @@
 		"item_id_card":"1761313743001",
 		"item_id_emoji_package":"1761313853001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"9999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3297659012",
 		"sale_sku_id_2":"3297659011",
 		"sale_time_begin":"1761621631",
@@ -81,21 +78,13 @@
 				"name":"晾晒小动物",
 				"suit_item_id":329765901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ed8892f156d121763820ae10e21a06cf20baf47c.png",
 					"item_emoji_list":"[{\"name\":\"生日快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/66a68f0aeaa43b0a47b1f1544ef5e97e45288931.png\"},{\"name\":\"兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/890fddacb9a7d072e99668f75aff16dd0ae7000e.png\"},{\"name\":\"哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5e606042cd512f6ce160e4cfcf85d41d1e44746.png\"},{\"name\":\"小羊包\",\"image\":\"https://i0.hdslb.com/bfs/garb/403419edd5eaca9dab411f8e0e0432bb99a00c89.png\"},{\"name\":\"嗯嗯\",\"image\":\"https://i0.hdslb.com/bfs/garb/bca03f3dbd56c80442f18c7c72016efa49706ee9.png\"},{\"name\":\"哭泣\",\"image\":\"https://i0.hdslb.com/bfs/garb/ebf8d566491ae06e9c2d0ce160426f2b3c98a436.png\"},{\"name\":\"啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/15d17a0c20a6522ba3ec87f993d87e942e6015af.png\"},{\"name\":\"兔耳朵\",\"image\":\"https://i0.hdslb.com/bfs/garb/955cdd4091b035ec978c0beecc1195a7b4a651b3.png\"},{\"name\":\"金鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/943cf3d2b308e89f2a689a46a12cea1942f4794a.png\"},{\"name\":\"小羊上\",\"image\":\"https://i0.hdslb.com/bfs/garb/8fcac3d049b0639983dce707399982c106198d84.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/7eb04e3a986992afbe7f9944010ad6c558253606.png\"},{\"name\":\"小猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/58a994b2a61fcf9125ef243cbed0a54695430760.png\"},{\"name\":\"蝴蝶结\",\"image\":\"https://i0.hdslb.com/bfs/garb/c853ffa82acddd2fae1606664ebd2cdf2d719ab6.png\"},{\"name\":\"云朵\",\"image\":\"https://i0.hdslb.com/bfs/garb/95dc63c227a2e24c64e9e37ab691b8f8c7c6eb03.png\"},{\"name\":\"小羊下\",\"image\":\"https://i0.hdslb.com/bfs/garb/80e17a6eb4361b21d6fa7da4b4ed3bb50d95ed92.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

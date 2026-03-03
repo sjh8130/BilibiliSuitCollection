@@ -16,14 +16,11 @@
 		"item_id_card":"1758554412001",
 		"item_id_emoji_package":"1758554673001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"99999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3265704012",
 		"sale_sku_id_2":"3265704011",
 		"sale_time_begin":"1758771281",
@@ -82,21 +79,13 @@
 				"name":"卡皮巴拉中秋快乐",
 				"suit_item_id":326570401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/cce3f2c61f4971c6d954fedc6a532e2284dafa9e.png",
 					"item_emoji_list":"[{\"name\":\"月亮\",\"image\":\"https://i0.hdslb.com/bfs/garb/443747c95b21bd8157faa6f968dadd4e563feb54.png\"},{\"name\":\"中秋快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/46f26cddef88c0aa98b6ee6963475dff7248073d.png\"},{\"name\":\"鱼灯\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e030a4010ed9b1bab413eee4a41fabfe7c6cb3f.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0af5d659c64e153d559fe108fd74fc5f6273898.png\"},{\"name\":\"过节啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/c73c0e26b06c7dde519bc2f2dad634ca15239ae9.png\"},{\"name\":\"花灯\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d6319d08ceb43e0e098563a2feb4f99311e5790.png\"},{\"name\":\"月饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3f39ec087a0598ecae7fd9093d54e01e49387d6.png\"},{\"name\":\"月饼块\",\"image\":\"https://i0.hdslb.com/bfs/garb/4acaf70f409aa47cd68d447bcf5c70bc8e0a86a4.png\"},{\"name\":\"玉兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/54989b9386c769e8c7edc96ce19f314dfb8c2525.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/45f3877847256711d52bd7408df60d9f67ca38a6.png\"},{\"name\":\"兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/d94129378faf9f3f54bad0c6df5028666bd61cb3.png\"},{\"name\":\"卡皮巴拉\",\"image\":\"https://i0.hdslb.com/bfs/garb/2e0a91591b0a21e1b9952582a0ceccc9f6d69d17.png\"},{\"name\":\"鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/78eb18617f6f1a6d3c369517c64576a04a4f0a84.png\"},{\"name\":\"趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/4dfcc183ab7fdd9d428ab1815e0a0fafff50b9a4.png\"},{\"name\":\"灯笼\",\"image\":\"https://i0.hdslb.com/bfs/garb/e2bb1b010fcbc9f5004ce1dc2ecea6b7a6291869.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

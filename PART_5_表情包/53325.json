@@ -5,14 +5,11 @@
 	"group_name":"漂流瓶",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/garb/item/cf98011f507f66e774d6247b1d901e9d60574977.png",
 		"item_ids":"53326,53327,53328,53329,53330,53331,53332,53333,53334,53335",
-		"removable":"true",
 		"sale_type":"pay",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

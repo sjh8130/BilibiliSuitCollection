@@ -16,14 +16,11 @@
 		"item_id_card":"1737363223001",
 		"item_id_emoji_package":"1737363298001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3020514012",
 		"sale_sku_id_2":"3020514011",
 		"sale_time_begin":"1737515680",
@@ -81,21 +78,13 @@
 				"name":"水色机械姬",
 				"suit_item_id":302051401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/77dad26b98dc9951bba851ed828bf10d5bdd2d4e.png",
 					"item_emoji_list":"[{\"name\":\"信件\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed3d87137e48a82b02eb74ea79a153fb8a3f8f0e.png\"},{\"name\":\"信封\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab3718d70fc246b0c8e16e4a2f0e05c28069c9db.png\"},{\"name\":\"地球\",\"image\":\"https://i0.hdslb.com/bfs/garb/05cf9254db47907274c47091ada36c7900f8f4ef.png\"},{\"name\":\"科技猫爪\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c3c609dd03f3053c05976c24dd79536fbf854c2.png\"},{\"name\":\"小熊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8908230fa75d54892227fa8dd50f0ad5881a1d8.png\"},{\"name\":\"箭头\",\"image\":\"https://i0.hdslb.com/bfs/garb/29997bc64c05d83c1257e0e6b528312a0c27f346.png\"},{\"name\":\"可爱包\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed31b5e686529a61fed866367d8d9d3c75e90ae9.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe0716753fc327191f9b0f037696d61f58028286.png\"},{\"name\":\"倾听心跳\",\"image\":\"https://i0.hdslb.com/bfs/garb/b88f96b491f58444db15b8fa6fff5eca0f0e2992.png\"},{\"name\":\"音乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/975230c12293816af17345362f38a57dc3c8f5e8.png\"},{\"name\":\"笔记本\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8211b8aa674293dcadf9d2d105dfe4b7553bf16.png\"},{\"name\":\"电池\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1b37a720b9485f9a6fabb20ec11e26bfd8f6ef1.png\"},{\"name\":\"机械猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/acee489f18fc3b14b3e6e9de7ac54eb09d283a54.png\"},{\"name\":\"机械兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d1de0d07bb8c3ad22d2ab13d6d79c3f0aa2fc98.png\"},{\"name\":\"水色药剂\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab5a368d204b0274f12cf85dcebf2e46f16dea67.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

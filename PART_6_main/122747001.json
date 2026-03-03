@@ -16,14 +16,11 @@
 		"item_id_card":"1692152195001",
 		"item_id_emoji_package":"1692085255001",
 		"owner_uid":"3493275023444234",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1227470012",
 		"sale_sku_id_2":"1227470011",
 		"sale_time_begin":"1692583200",
@@ -82,20 +79,12 @@
 				"name":"艺术馆-浮世绘",
 				"suit_item_id":122747001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/99fb40a5d43bb93013ccd9b488384f85b5c58a10.png",
 					"item_emoji_list":"[{\"name\":\"羞怯\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4a328dbb40ae3068b780661b4c47ffd3bfa8a59.png\"},{\"name\":\"灯光师\",\"image\":\"https://i0.hdslb.com/bfs/garb/c871814cc7f9ec7a880876d30b3524e193737bf8.png\"},{\"name\":\"左汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e8e4e441023b51c5c018efc4bf5e1bd482c1307.png\"},{\"name\":\"右汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ef4e1e81032f1770b59ff1d69074c52dd804bb9.png\"},{\"name\":\"婉拒了哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/037ea2e18d63ff3dfeae15921fc96d16956a674b.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/99ca1d58d86bce62a7f752bebd5be164c791b420.png\"},{\"name\":\"大哥\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab1a69de03783013ecfc2bb639dfd9a7bd4096b9.png\"},{\"name\":\"唔？\",\"image\":\"https://i0.hdslb.com/bfs/garb/97a5e7322cdbaab9a487a7c7548c286103380023.png\"},{\"name\":\"哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/c89d6d8d746fd399c348e789734dfdbee8de7bc9.png\"},{\"name\":\"偷看\",\"image\":\"https://i0.hdslb.com/bfs/garb/0656c89c9c80dec70ffe100a0592a0a7275aea60.png\"},{\"name\":\"潮流先祖\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d72c70a72e2aa462dad08189c63a82afc43ee91.png\"},{\"name\":\"石化\",\"image\":\"https://i0.hdslb.com/bfs/garb/0378d11847b8a5a817e653b0cfba06cb4a1f1cbd.png\"},{\"name\":\"气！\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e7de0ab629d2f0996ca06fc35eb84fde9b1c895.png\"},{\"name\":\"尴尬\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c60d395806218883888bc754c7c9c6a0bd9b0e2.png\"},{\"name\":\"瞳孔地震\",\"image\":\"https://i0.hdslb.com/bfs/garb/a204ca1c14f8ecdf7895b4eaeddd18d895353246.png\"},{\"name\":\"zz\",\"image\":\"https://i0.hdslb.com/bfs/garb/61e2d6f30604c6a2b4856fd0e06d874ca9831626.png\"},{\"name\":\"做鬼脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d7caded89c1f006d33125827f174d35aa8e909d.png\"},{\"name\":\"吓\",\"image\":\"https://i0.hdslb.com/bfs/garb/57c998a7b03d44a63a080a2a7ebd23ed8d9956f6.png\"},{\"name\":\"社会\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2210ff1d42d41c20baa96058baaa927cefda88c.png\"},{\"name\":\"欧气满满\",\"image\":\"https://i0.hdslb.com/bfs/garb/4512cd964d18c6072388d6a07daa73b017156025.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

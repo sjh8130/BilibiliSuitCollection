@@ -5,19 +5,12 @@
 	"group_name":"灵笼",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"reply,dynamic,watch_full",
 		"comment":"同步数据",
 		"image":"https://i0.hdslb.com/bfs/emote/d70f80c8a0af74726d8e08dca88849cd259eb61a.png",
 		"item_ids":"901,902,903,904,905,906,907,908,909,910,911,912,913,914,915,916",
-		"permanent":"fasle",
-		"recently_used":"false",
-		"recommend":"fasle",
-		"removable":"true",
 		"sale_type":"vip",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

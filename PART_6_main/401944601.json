@@ -16,14 +16,11 @@
 		"item_id_card":"1768794625001",
 		"item_id_emoji_package":"1768551800001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"4019446012",
 		"sale_sku_id_2":"4019446011",
 		"sale_time_begin":"1768965250",
@@ -81,21 +78,13 @@
 				"name":"狐狸团子",
 				"suit_item_id":401944601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/41c24df75cc2800adfd72a24d60a5b4a713756e9.png",
 					"item_emoji_list":"[{\"name\":\"乖乖坐好\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d33b7272ccd6a66f1dfe7bb7c194f5fc481f4e8.png\"},{\"name\":\"开麦\",\"image\":\"https://i0.hdslb.com/bfs/garb/07da13e11bd3de0f59fa28d865552be36cba20b7.png\"},{\"name\":\"手动闭麦\",\"image\":\"https://i0.hdslb.com/bfs/garb/c52d4178a80624675e789c87bb4180b1a2b568b1.png\"},{\"name\":\"摸摸小狐\",\"image\":\"https://i0.hdslb.com/bfs/garb/ccabaa91eb945cac93ead5d888de26b5c5cec538.png\"},{\"name\":\"翻肚皮\",\"image\":\"https://i0.hdslb.com/bfs/garb/450954383f4ec8d39ee56ad0dadf72593fc98b86.png\"},{\"name\":\"流泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/412ce4910058d06c493b190c1ec04d167009b28c.png\"},{\"name\":\"横\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7318ad86cafaae68f9c243afe3f5f3634f33c8a.png\"},{\"name\":\"给我饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/cbd4f40f6ab0ec9e7151c00ebe60e0f25f380ac8.png\"},{\"name\":\"脚印\",\"image\":\"https://i0.hdslb.com/bfs/garb/a654a85bded48cd8d60739d26c0ea3cdd780e291.png\"},{\"name\":\"观察中\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0942f319a22be051e1f3e6e3a734dc6947fd47d.png\"},{\"name\":\"心虚\",\"image\":\"https://i0.hdslb.com/bfs/garb/3dcbd6a7f7f5f843234698345a9c6b3a4cf28270.png\"},{\"name\":\"摔倒\",\"image\":\"https://i0.hdslb.com/bfs/garb/9801db76518992829c79c3d96701f76323423b22.png\"},{\"name\":\"跟随\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9c619d1409ceabe99de09818e7524a88fbbbd1c.png\"},{\"name\":\"打包带走\",\"image\":\"https://i0.hdslb.com/bfs/garb/48f1ef7bddeafa221eec16a3245ce85e40fe3ce2.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/38d90e1da284450157e0a5da7bf95b17c1ac3621.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

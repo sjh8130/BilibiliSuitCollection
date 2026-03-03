@@ -16,14 +16,11 @@
 		"item_id_card":"1725603238001",
 		"item_id_emoji_package":"1725603304001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2250428012",
 		"sale_sku_id_2":"2250428011",
 		"sale_time_begin":"1725705250",
@@ -81,21 +78,13 @@
 				"name":"猫狗彩色回忆",
 				"suit_item_id":225042801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/fb1d4e7c4b290bc0077d3955efd43ec6dd518b7d.png",
 					"item_emoji_list":"[{\"name\":\"樱桃布丁\",\"image\":\"https://i0.hdslb.com/bfs/garb/5aa5f05b3abce1c8f441b43c0c41c9fba8e853b2.png\"},{\"name\":\"小白狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ce302743a18defc649720d913ba99aff0fd0641.png\"},{\"name\":\"粉色雨衣狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/130c40f93a29eeeaf352d49593eb4d240e460aac.png\"},{\"name\":\"小蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/bcda8b7b29acea7c8065d35ccd4bf9e2135c07a1.png\"},{\"name\":\"面包\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b238853716ca6554b54b71602e99d84994e69d6.png\"},{\"name\":\"小灰狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/29d9999b7074ecf76e5ed069cb27b2dfbe593506.png\"},{\"name\":\"暹罗猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/2224e25ca08714b1c2a52e578e1f269d2e1345c2.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ecbaeafac22ebb79d4f6b2baed0ac540c4e18a6.png\"},{\"name\":\"沉默\",\"image\":\"https://i0.hdslb.com/bfs/garb/35916f4f55bc79920bb1b5a4ca9ef1ed05dc46c7.png\"},{\"name\":\"奶油千层\",\"image\":\"https://i0.hdslb.com/bfs/garb/d79f397f9944d6634539b7c4af02eab9d6c300af.png\"},{\"name\":\"蓝色雨衣狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/91a884afcf8b07cd3d31239466012a17d4ae984c.png\"},{\"name\":\"咖啡饼干猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/0bbbe4409dc36924c3160c502b57af8b99895d5a.png\"},{\"name\":\"斑点猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e835999d1f95c9d9fb0d414b512fe660df5473f.png\"},{\"name\":\"黄色雨衣狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/91f7b6a46d5153b45ba1b78cca1445b8a70ae528.png\"},{\"name\":\"小黄狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/039e32015ffb17ba9344930dd4c5344eae550517.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

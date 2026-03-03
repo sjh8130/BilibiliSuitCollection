@@ -16,14 +16,11 @@
 		"item_id_card":"1689217125001",
 		"item_id_emoji_package":"1689217363001",
 		"owner_uid":"504406727",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1194333012",
 		"sale_sku_id_2":"1194333011",
 		"sale_time_begin":"1716350400",
@@ -81,20 +78,12 @@
 				"name":"机皇回归",
 				"suit_item_id":119433301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6715ae9c4ccfcc4603e39055e28763592fab0d79.png",
 					"item_emoji_list":"[{\"name\":\"HAHA\",\"image\":\"https://i0.hdslb.com/bfs/garb/8323c66c464d77d0efcbf8a184789d1f369cc1a3.png\"},{\"name\":\"biu\",\"image\":\"https://i0.hdslb.com/bfs/garb/a4b29e373b49fa3ff32e19ab7aa34ddebbbbdcb2.png\"},{\"name\":\"瓦肯举手礼\",\"image\":\"https://i0.hdslb.com/bfs/garb/aed3a2c6d705bab8f9715ee5e8ede6dacba00289.png\"},{\"name\":\"内存已满\",\"image\":\"https://i0.hdslb.com/bfs/garb/80a9e5ae48be35cfa62602718e51918448e1973d.png\"},{\"name\":\"萨卡班\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf509542103cbbed13ae46e977c7b4738e991738.png\"},{\"name\":\"拿捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e6831cfb94121d1f5bedd70ddfd7a88bb8540c8.png\"},{\"name\":\"静音\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f56fcdf7c126c190b07c87301c5200abbb917ae.png\"},{\"name\":\"当心塌房\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4e853445825948c797374ff8cc8449c0c2549de.png\"},{\"name\":\"小心危房\",\"image\":\"https://i0.hdslb.com/bfs/garb/24319a18bb08dafd1633eea4b55906409cea592d.png\"},{\"name\":\"警戒线\",\"image\":\"https://i0.hdslb.com/bfs/garb/3d6022d4f16988dbb69c85edb6795790334a1f05.png\"},{\"name\":\"绝密\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c768c1de4be11c1ecdf9945095aa486870a6a09.png\"},{\"name\":\"禁止喧哗\",\"image\":\"https://i0.hdslb.com/bfs/garb/532cf0de39b601a066e7db9b02e8533bfd576000.png\"},{\"name\":\"厕所在哪\",\"image\":\"https://i0.hdslb.com/bfs/garb/054ec6edc64aa6ed50ed83f53368fe5641c494f9.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f756c5191059aa29c0f8cf989589c271690a26e.png\"},{\"name\":\"警告\",\"image\":\"https://i0.hdslb.com/bfs/garb/884c25e3127450e7eaca45f11fa7445e93905482.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

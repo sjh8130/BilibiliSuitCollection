@@ -16,14 +16,11 @@
 		"item_id_card":"1753954494001",
 		"item_id_emoji_package":"1753954517001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3212541012",
 		"sale_sku_id_2":"3212541011",
 		"sale_time_begin":"1754362962",
@@ -81,21 +78,13 @@
 				"name":"蝶梦",
 				"suit_item_id":321254101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/bf003aa16d32bacd76a3e82d574bace2483b046d.png",
 					"item_emoji_list":"[{\"name\":\"星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/32836527f82be92f357768ac251b7dbea9c38c88.png\"},{\"name\":\"蝴蝶结\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e8e3fb74d35abbb8f58feb85b32a3dcad20ffb1.png\"},{\"name\":\"眼泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/251ac1947bfa5097c7fff5f16c009fd8a95afe60.png\"},{\"name\":\"蝴蝶\",\"image\":\"https://i0.hdslb.com/bfs/garb/6323cddcb38b4f5576663263ad1a6d1ec835ebec.png\"},{\"name\":\"花\",\"image\":\"https://i0.hdslb.com/bfs/garb/83655787c011eb7191ef8e31b5f0339f5a701ea1.png\"},{\"name\":\"五角星\",\"image\":\"https://i0.hdslb.com/bfs/garb/0daedcf493fcb99777f3cf61d451b24bd8f77ddd.png\"},{\"name\":\"花环\",\"image\":\"https://i0.hdslb.com/bfs/garb/83acb8fbd66f23a9d126729821f03c3e41bf5fee.png\"},{\"name\":\"圆圈\",\"image\":\"https://i0.hdslb.com/bfs/garb/afba614debf077a18b5f6c3307336b5b4418a3cf.png\"},{\"name\":\"环\",\"image\":\"https://i0.hdslb.com/bfs/garb/cbf4c8598fe1d88f4d7bfeb7265fc2060eb51360.png\"},{\"name\":\"红蝴蝶\",\"image\":\"https://i0.hdslb.com/bfs/garb/164c723aac39faea2e484cc7166a40e255a9ba42.png\"},{\"name\":\"闪星\",\"image\":\"https://i0.hdslb.com/bfs/garb/94656ed5d266410a94add595bff1045216070efe.png\"},{\"name\":\"眼睛\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e151a76f2d034a6004252cb2fbd95cc6812c58c.png\"},{\"name\":\"睁眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7520f9a5b3ce369177d01650048baee5fefda32.png\"},{\"name\":\"色块\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a9d0f9a483ca8a1460dd44f969b370af5965905.png\"},{\"name\":\"点\",\"image\":\"https://i0.hdslb.com/bfs/garb/118e95902e4f8f68dae42bd6b6e7953569e076b8.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

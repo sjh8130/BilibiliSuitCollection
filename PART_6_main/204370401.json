@@ -17,14 +17,11 @@
 		"item_id_emoji_package":"1707384943001",
 		"item_id_thumbup":"1707385088001",
 		"owner_uid":"3493076777568981",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"6500",
 		"sale_bp_pm_raw":"1000",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2043704012",
 		"sale_sku_id_2":"2043704011",
 		"sale_time_begin":"1708340400",
@@ -82,20 +79,12 @@
 				"name":"冬雪莲装扮",
 				"suit_item_id":204370401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e8a1486f4e0b655b86e2efb3f503723a3fe06378.png",
 					"item_emoji_list":"[{\"name\":\"不熟\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c74fdfeafedefc17f3b85b96c8a906335025059.png\"},{\"name\":\"感恩\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb92ddb109933842e9347a5ea37839c828ee52d7.png\"},{\"name\":\"你是\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ca64dda444ae880619e764cfa8236acc90de7cd.png\"},{\"name\":\"嘲笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0d66090cb625dbdeedf20e6ed82d87f16f04961.png\"},{\"name\":\"爆\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d7283f995d9f80f4f9bdaad3db2988f7ef34d27.png\"},{\"name\":\"idol\",\"image\":\"https://i0.hdslb.com/bfs/garb/113bb7e3235834917f27f735034a14622e171238.png\"},{\"name\":\"我莲伟大\",\"image\":\"https://i0.hdslb.com/bfs/garb/e98a01cc0abac9c3e131abe95bda6259745315db.png\"},{\"name\":\"自信\",\"image\":\"https://i0.hdslb.com/bfs/garb/5af58da0d3aced16773bd438822dbc9b8d65ad96.png\"},{\"name\":\"龙年大吉\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2207e9f8c172257fe903331f4e1a0262756442d.png\"},{\"name\":\"数纸片\",\"image\":\"https://i0.hdslb.com/bfs/garb/57583781c3a82968388a05f3796dedf6981d05ab.png\"},{\"name\":\"遥遥领先\",\"image\":\"https://i0.hdslb.com/bfs/garb/046c837dd06f5e1a6206be53dc200ada534a4d53.png\"},{\"name\":\"打咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/e71a391049d6e2059b3eee99d59e90c05bc13d04.png\"},{\"name\":\"对不起\",\"image\":\"https://i0.hdslb.com/bfs/garb/48479d2a3c2debeaf3f5970728fcf13a71f62358.png\"},{\"name\":\"hua\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc9c6fa266dcf12e896872fd65eb3ffff0663c08.png\"},{\"name\":\"启动\",\"image\":\"https://i0.hdslb.com/bfs/garb/41591011391a95b70e64795a983acdca638eb817.png\"},{\"name\":\"哦嗨哟\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac5e7d56772c4054984fd6e9bb8f09e16682a907.png\"},{\"name\":\"杂鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/7dd0e5fdb7cfb4e68bd4580e66d2ab575dc48d3a.png\"},{\"name\":\"震撼\",\"image\":\"https://i0.hdslb.com/bfs/garb/4518f77cbe457c58ea3a400bda8e0c26d30d885b.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/6731a2119286274a7aea4b869cd8be277433a451.png\"},{\"name\":\"宇宙\",\"image\":\"https://i0.hdslb.com/bfs/garb/523b7186af8c1da89ca89a264c2d5a1b3b821819.png\"},{\"name\":\"失落\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a90996c446039828c4c2f77a9249b66cdef1376.png\"},{\"name\":\"哈基米\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2482acba57010b7f13f331ca4781888b82ea80a.png\"},{\"name\":\"？\",\"image\":\"https://i0.hdslb.com/bfs/garb/42e71f781969eb90417b0268a4e8b8a8cc71a8e3.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/445be92b756926db362c075be71d0f8b7ea7d763.png\"},{\"name\":\"大头\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3b49d72a2a43a4e359d333ab0e0804f1309fba8.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

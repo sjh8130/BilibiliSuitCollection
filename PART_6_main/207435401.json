@@ -16,14 +16,11 @@
 		"item_id_card":"1710386804001",
 		"item_id_emoji_package":"1710386854001",
 		"owner_uid":"15938156",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"1000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2074354012",
 		"sale_sku_id_2":"2074354011",
 		"sale_time_begin":"1710583200",
@@ -81,20 +78,12 @@
 				"name":"少女手账",
 				"suit_item_id":207435401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/10ade09095b896ce8a0ce1f5ea1ddfde08bf6532.png",
 					"item_emoji_list":"[{\"name\":\"兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/c18fa7a94d2af4ddd19a3416cd5e1f8ca65a23e2.png\"},{\"name\":\"鸭鸭\",\"image\":\"https://i0.hdslb.com/bfs/garb/b48aca477283116e4cb47dcf16074aa3bf6646ca.png\"},{\"name\":\"猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/def30041c7d4f8effb498d69b45ff237d1c9adf4.png\"},{\"name\":\"小熊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9283ba4a0b2b922bdfee078e1ea7651eb6acad7.png\"},{\"name\":\"礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0eaef060df8fa7b52c3fa7dc28f2043696bbea5.png\"},{\"name\":\"樱桃蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/27d39ca0be40b720635528e952d59bdcbc64cab7.png\"},{\"name\":\"香水\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a1437c6c4a1ea9211db05cbfc29313958aee547.png\"},{\"name\":\"闪闪钻戒\",\"image\":\"https://i0.hdslb.com/bfs/garb/2e2b515f1b56ebf81bf0c968f3ba1a6dc2dcd95f.png\"},{\"name\":\"浪漫烛光\",\"image\":\"https://i0.hdslb.com/bfs/garb/8144a5057f680c80f3019bfe99e9ae325a8de73b.png\"},{\"name\":\"天使爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9ee9ed5cbd9bc0e63c12acacd292ebddca3f266.png\"},{\"name\":\"蝴蝶结\",\"image\":\"https://i0.hdslb.com/bfs/garb/53b5da5c08d3e2ff4d87e4fc9b762b996cf9abd2.png\"},{\"name\":\"铃兰\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e3a9f29a03ef66857ead26ff3fd885e48841aa5.png\"},{\"name\":\"爱心镜\",\"image\":\"https://i0.hdslb.com/bfs/garb/5128210fe7112f340b781a00e323694514b1fc72.png\"},{\"name\":\"情书\",\"image\":\"https://i0.hdslb.com/bfs/garb/91a62bc027570ca544c4cdfb3162fadb0f1c7935.png\"},{\"name\":\"花谱\",\"image\":\"https://i0.hdslb.com/bfs/garb/a6dfe85e188b9b1ebd17cc69f34dd60308ae8c21.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

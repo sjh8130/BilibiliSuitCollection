@@ -16,14 +16,11 @@
 		"item_id_card":"1715268731001",
 		"item_id_emoji_package":"1715265648001",
 		"owner_uid":"14424458",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2130708012",
 		"sale_sku_id_2":"2130708011",
 		"sale_time_begin":"1715486400",
@@ -81,20 +78,12 @@
 				"name":"骷髅三兄弟",
 				"suit_item_id":213070801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f592a55244790d72de48433338177015453d1c92.png",
 					"item_emoji_list":"[{\"name\":\"一起跳\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f38b9c394fbdaeb2085eab739233ba158161bb9.png\"},{\"name\":\"挠头\",\"image\":\"https://i0.hdslb.com/bfs/garb/53d11f925fa83e62c6436440d6bdda3ed3aa2a51.png\"},{\"name\":\"挠头咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/abe5ebd29d4a65d604a6947d653fb6ebc01f89ee.png\"},{\"name\":\"向左\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e1054f34d82d9d994af03d5879ea19a824dbc03.png\"},{\"name\":\"向左咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/29c3a963c39f524a4dac7b3cc5220d92f52a50ea.png\"},{\"name\":\"向右\",\"image\":\"https://i0.hdslb.com/bfs/garb/7579b0ad6dd401998a827414106d5fe1f4e35f87.png\"},{\"name\":\"向右咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/48db2416e850740b6918350d322caaac9570b25e.png\"},{\"name\":\"舒展\",\"image\":\"https://i0.hdslb.com/bfs/garb/7db53950f5b526e3185e7f955353daaef75a0711.png\"},{\"name\":\"舒展咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/1dfc120bfa95139b4c30706ba09085548e0f1e0b.png\"},{\"name\":\"看天\",\"image\":\"https://i0.hdslb.com/bfs/garb/55ec3bc7ea59addfd76d08e5c9018f67c8b3c024.png\"},{\"name\":\"看天咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8b3e0f5fd7581d9c371964ca5689cb93a86023e.png\"},{\"name\":\"开始\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdd7743b44a7f6c56c687ccf1e0e3bd338719719.png\"},{\"name\":\"游戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9310ba23220e43538c1f647e0efe34f30c83620.png\"},{\"name\":\"传说\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2a1f2ce8e18a655ca81878296b8933038a5c1aa.png\"},{\"name\":\"稀有\",\"image\":\"https://i0.hdslb.com/bfs/garb/fbf29965c79e5e09244d2c982b9d690b1d275542.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1751610388001",
 		"item_id_emoji_package":"1751610594001",
 		"owner_uid":"670729222",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3185495012",
 		"sale_sku_id_2":"3185495011",
 		"sale_time_begin":"1752115991",
@@ -81,21 +78,13 @@
 				"name":"苹果小狐狸",
 				"suit_item_id":318549501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6eb6b516c72e3ceae44fb8b9d03d6fd28d58463e.png",
 					"item_emoji_list":"[{\"name\":\"乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/d7eb7f278259c2fc09101f43bc3f1ffee6cb8db1.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/10dea382aeef3346eac3bf703d3bab5e7d7328ea.png\"},{\"name\":\"收藏\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc9b0b465c6ebb0d3e8fb799e2821cffc9b1f854.png\"},{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/943810f8ecbd044ee7379b202e1a9d4a74157f68.png\"},{\"name\":\"红温\",\"image\":\"https://i0.hdslb.com/bfs/garb/8c5308f2215df366457f6abdb8c8fb9a3589e845.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/d4d5c234627799280e600a982870e2c3e96c0a93.png\"},{\"name\":\"怎么这样\",\"image\":\"https://i0.hdslb.com/bfs/garb/a98549a626d018d4cfbfe48e6b246bec93e51e72.png\"},{\"name\":\"我装的\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c815647a69b5041522d1debee534fa14eb3c61e.png\"},{\"name\":\"呃\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ce247be0b07dac8182e8f0a52aabef353d33398.png\"},{\"name\":\"困\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbf69a66bb81099f4ab3dd087e27c9ca6b4c101f.png\"},{\"name\":\"我吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/705c42131dd1d9994760a6530028702f6785f31a.png\"},{\"name\":\"什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9817e44a0e97124b56da5df9ac0955f1a04a0f9.png\"},{\"name\":\"略\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3d38520a038675deab07ba96740596123610604.png\"},{\"name\":\"尊嘟假嘟\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2dedf5e0d32c91cfecbea50136f17cfb174c312.png\"},{\"name\":\"苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/b4bc37207c1ffa97d2ed90113fcf6c2fa4164859.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

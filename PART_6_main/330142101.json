@@ -16,14 +16,11 @@
 		"item_id_card":"1761616501001",
 		"item_id_emoji_package":"1761546409001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3301421012",
 		"sale_sku_id_2":"3301421011",
 		"sale_time_begin":"1761795051",
@@ -81,21 +78,13 @@
 				"name":"包浆鸡",
 				"suit_item_id":330142101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/3bf9a2d6347390efe48da1efd3fc30eda37acc79.png",
 					"item_emoji_list":"[{\"name\":\"扭扭鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce1f31c44f424e881835cf29b193d69071a94eb6.png\"},{\"name\":\"送花鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/244fc2d8cc7ca03c921440dc2cac8fd56bcc4846.png\"},{\"name\":\"跑步鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/a4121158a5db49ee110b37e341a6d114b72d15b2.png\"},{\"name\":\"隔空摸鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/71feb282761e7620fc978bbfd119af3c1962224e.png\"},{\"name\":\"鸡缘巧合\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1e5f3957ef3ee811eaff238b00fd9ac833b5e3d.png\"},{\"name\":\"kimo鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/b28d77729da5bcdf25efadc91523100d608cca9a.png\"},{\"name\":\"烤鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5d069655415e428e53702a9653a50d897bf5d90.png\"},{\"name\":\"探头鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/21225e9818dbf47220956839f8a90c094e92776b.png\"},{\"name\":\"发言鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a74f8c5f30cfea746ca34903e2daa484e5766bd.png\"},{\"name\":\"走路鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/a27ed7a33533c929f6c786bd1e5624619e2b94b5.png\"},{\"name\":\"玛莎鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/88fb074e1c095bc2f352896aaba28d993f7c815a.png\"},{\"name\":\"yuh\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc34741cc873f56d16df1b4dd416dcbfbe039b19.png\"},{\"name\":\"墨镜鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/642d05252a5295adb2df02bf1da150bf5c62aac2.png\"},{\"name\":\"拳鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/8966ca38c9aeef4691a06553d33a0dbf318f3342.png\"},{\"name\":\"战斗鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/78f079181c525417d6fc574a6fcd50b79f3b6109.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

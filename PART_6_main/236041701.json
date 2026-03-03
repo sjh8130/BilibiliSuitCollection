@@ -16,14 +16,11 @@
 		"item_id_card":"1735105722001",
 		"item_id_emoji_package":"1735105847001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2360417012",
 		"sale_sku_id_2":"2360417011",
 		"sale_time_begin":"1735268640",
@@ -81,21 +78,13 @@
 				"name":"nono狗音乐节",
 				"suit_item_id":236041701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2bda7cc29218d7cc761f835f976b71be15558cab.png",
 					"item_emoji_list":"[{\"name\":\"演唱\",\"image\":\"https://i0.hdslb.com/bfs/garb/928cd752913a5aee2107016b31f714b753e0bebc.png\"},{\"name\":\"跳舞\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1370d64c2a659cb8d21c7145ea2bef8bba83d68.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/87c57f28d2a3d5ff8f74fad6468d80108fad8583.png\"},{\"name\":\"嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/792464b5d67aa4619cbfb16233a2fe9f7c465e86.png\"},{\"name\":\"弹奏\",\"image\":\"https://i0.hdslb.com/bfs/garb/db21871ef9b33edf6c3a2ef7013f08ca4eb2a50c.png\"},{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c983f0d67c32411063aadc3288534d6fa7ce6a0.png\"},{\"name\":\"唱歌\",\"image\":\"https://i0.hdslb.com/bfs/garb/849ad2c9bff808f45231e49b8b4cbff478539b34.png\"},{\"name\":\"伴奏\",\"image\":\"https://i0.hdslb.com/bfs/garb/c21e8d6171464f7a16a78b67fed504bcd064e3fa.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2cdbbd30d425e40ea86c3ec7044c2f14a64aa7b.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/0111e68e9e1ff10fe90d2784e02c0330265b3f2e.png\"},{\"name\":\"击中你的心\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c48decbd9cf5629bbb5332e6ccec678b3e86420.png\"},{\"name\":\"手机\",\"image\":\"https://i0.hdslb.com/bfs/garb/9edfeb68650726834129460680b6e0c068012a02.png\"},{\"name\":\"唱片\",\"image\":\"https://i0.hdslb.com/bfs/garb/99d97fb344e3fc6572a0df606a3e103a2ff4876e.png\"},{\"name\":\"磁带\",\"image\":\"https://i0.hdslb.com/bfs/garb/453ad94410fc6b97aee0435cecc22adb999e33db.png\"},{\"name\":\"吉他\",\"image\":\"https://i0.hdslb.com/bfs/garb/366ae5de6207984af06256c6dfce776521491380.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

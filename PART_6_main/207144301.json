@@ -16,14 +16,11 @@
 		"item_id_card":"1709862648001",
 		"item_id_emoji_package":"1709862997001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"66",
 		"sale_quantity":"3000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2071443012",
 		"sale_sku_id_2":"2071443011",
 		"sale_time_begin":"1711857600",
@@ -81,20 +78,12 @@
 				"name":"愚人小丑",
 				"suit_item_id":207144301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/00c8d5ee253af960f45f6b245ff756a241611bcb.png",
 					"item_emoji_list":"[{\"name\":\"震撼通知\",\"image\":\"https://i0.hdslb.com/bfs/garb/e2a43489b96d1dcaee86bf99e9cc5b0d79c39598.png\"},{\"name\":\"小丑卡\",\"image\":\"https://i0.hdslb.com/bfs/garb/e21b8642e83631fb472f8989b9e2ae35066058cc.png\"},{\"name\":\"向下看\",\"image\":\"https://i0.hdslb.com/bfs/garb/7aaa4da9d0c2adef304d7d68c74ced51c49bd500.png\"},{\"name\":\"快乐哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/88b4d2a86e414d691b39b86e948614815f4a9dfc.png\"},{\"name\":\"不哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b448440feb07c31b2438ac83559934aab38a9fd.png\"},{\"name\":\"你鼻子掉啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/4bf030802409f91e97603d9e4a323823cc03fc99.png\"},{\"name\":\"向右看\",\"image\":\"https://i0.hdslb.com/bfs/garb/a24d6229072e5254bcafc83dc9a53285f08b98bb.png\"},{\"name\":\"小丑脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/859528ef213205a62087d2b0dc194f08ce240021.png\"},{\"name\":\"向左看\",\"image\":\"https://i0.hdslb.com/bfs/garb/7bc7716612e54afd0c6a62f256b32e24a75a1bae.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/11714cb7810de13990acbbe069398e1d208c86d7.png\"},{\"name\":\"大丑\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3e97cc4bc5cca84d2bbcfb1bbdba7ee03bb3ab6.png\"},{\"name\":\"小丑\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b2c6c0898d3be3dd0a9ce468e2372e0c31198ac.png\"},{\"name\":\"向上\",\"image\":\"https://i0.hdslb.com/bfs/garb/a283fbc3f341c0708f9c7d7c7da218af1c80b7e4.png\"},{\"name\":\"照镜子\",\"image\":\"https://i0.hdslb.com/bfs/garb/679917e6407b12967175d992ec4c1f12a94073fd.png\"},{\"name\":\"出国\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ff5b8a61ad6bb9d2f12bf0283a7d89db867449c.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

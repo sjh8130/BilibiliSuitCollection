@@ -16,14 +16,11 @@
 		"item_id_card":"1689927113001",
 		"item_id_emoji_package":"1689927212001",
 		"owner_uid":"504406727",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"50000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1202488012",
 		"sale_sku_id_2":"1202488011",
 		"sale_time_begin":"1690430400",
@@ -81,20 +78,12 @@
 				"name":"你礼貌马 第二弹",
 				"suit_item_id":120248801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/fc4459e04b307790fd742b3f5b44fd9c77476c69.png",
 					"item_emoji_list":"[{\"name\":\"放烟花\",\"image\":\"https://i0.hdslb.com/bfs/garb/73afde3a63f6688d1e322cb830d8ecef659854df.png\"},{\"name\":\"左太极\",\"image\":\"https://i0.hdslb.com/bfs/garb/90b7a04d10cc7a1ba3c5b834003725f126abe13c.png\"},{\"name\":\"右太极\",\"image\":\"https://i0.hdslb.com/bfs/garb/9fb4182d54a306ca7f930d6b2172461a3ad759e0.png\"},{\"name\":\"送你花\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9965f93d27ea1241f178f62e7fcc34bc2b852e1.png\"},{\"name\":\"大拇哥\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2cba4b77b731536d31e500a1fced570850d6aa4.png\"},{\"name\":\"马尾\",\"image\":\"https://i0.hdslb.com/bfs/garb/28d78b61975437fd0fee5ee2629360dbcf8b0fd1.png\"},{\"name\":\"身体\",\"image\":\"https://i0.hdslb.com/bfs/garb/4648e75730a71c5f4d8ee527e0508c00dcff6f13.png\"},{\"name\":\"马头\",\"image\":\"https://i0.hdslb.com/bfs/garb/898a5c257b910d534bfc402914c34aa4c783f0a0.png\"},{\"name\":\"瞄准\",\"image\":\"https://i0.hdslb.com/bfs/garb/5626fae970c49f64eaa27513567934e611e08129.png\"},{\"name\":\"比武\",\"image\":\"https://i0.hdslb.com/bfs/garb/acbe1585c2278de31e12467eb487f2a6fd5bb457.png\"},{\"name\":\"右喇叭\",\"image\":\"https://i0.hdslb.com/bfs/garb/02fcaa99f97e3cb99f575816c9119afe224e9e81.png\"},{\"name\":\"马身\",\"image\":\"https://i0.hdslb.com/bfs/garb/3046314b05362b4b4efcc8b7735acc86ddf792e2.png\"},{\"name\":\"左喇叭\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0938aa06cec0fa28ebb876114a64cda362cec09.png\"},{\"name\":\"baby\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b7efd97378b3ebf5377679e4cb8cbdb69634f48.png\"},{\"name\":\"功德\",\"image\":\"https://i0.hdslb.com/bfs/garb/c40833d082a08813b4471b102f5a1f3766ad94e4.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1678846656001",
 		"item_id_emoji_package":"1678846807001",
 		"owner_uid":"3461581786581601",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1074314012",
 		"sale_sku_id_2":"1074314011",
 		"sale_time_begin":"1679563000",
@@ -81,20 +78,12 @@
 				"name":"樱海梦故里",
 				"suit_item_id":107431401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/dffe5052345710a758c9a77df115eccaff0eb30a.png",
 					"item_emoji_list":"[{\"name\":\"乱叫\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ce6d46ee7c8e55d81acc2fe43a0c4172ac41fb1.png\"},{\"name\":\"尬住\",\"image\":\"https://i0.hdslb.com/bfs/garb/7734e0061c67a68daafd2fcbf26614bf68df4853.png\"},{\"name\":\"破防了\",\"image\":\"https://i0.hdslb.com/bfs/garb/900dd3aa17bc5a3e62cb2e67c61ab9ab7c51ee38.png\"},{\"name\":\"画饼中\",\"image\":\"https://i0.hdslb.com/bfs/garb/0424a5c00cf9ec845eaaeca053444abf2a5e2549.png\"},{\"name\":\"有鸽子\",\"image\":\"https://i0.hdslb.com/bfs/garb/45445a7da9ea6603db7d2c3224b7db5f41690a1f.png\"},{\"name\":\"我来咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/c86be6a4d8bd4e2cd909ccaf6d0b6d347fd91637.png\"},{\"name\":\"鸽了\",\"image\":\"https://i0.hdslb.com/bfs/garb/37eac706f40ce3e3f992a5c91fa337ecdc8b8507.png\"},{\"name\":\"抓鸽子\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e90782438ad4a59ad3c4a5acd11f309ee446d09.png\"},{\"name\":\"润了\",\"image\":\"https://i0.hdslb.com/bfs/garb/57fa2c53757d10a7452582e05d6f97cf2680cbcd.png\"},{\"name\":\"棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8a79219f8ec2ef7f979f2aa4f7a2d7a92845937.png\"},{\"name\":\"心像石头\",\"image\":\"https://i0.hdslb.com/bfs/garb/f484327b6f55af98094fe501a4afad842f44901b.png\"},{\"name\":\"不能接受\",\"image\":\"https://i0.hdslb.com/bfs/garb/e422da05f60cca58fc4ccfa40352e669c827a543.png\"},{\"name\":\"看不见我\",\"image\":\"https://i0.hdslb.com/bfs/garb/29fcfb1e22e3dc29f4cd1c6adf6f27049337699c.png\"},{\"name\":\"好菜呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/efe8f86bbfcdf892ef7bc1476ceb4f7b0b777494.png\"},{\"name\":\"啊这\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4104804aab5410621aa4a07bf3d5b4f890ffd42.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

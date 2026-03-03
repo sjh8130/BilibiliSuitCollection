@@ -16,14 +16,11 @@
 		"item_id_card":"1715666453001",
 		"item_id_emoji_package":"1715666487001",
 		"owner_uid":"3493286178196349",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2135424012",
 		"sale_sku_id_2":"2135424011",
 		"sale_time_begin":"1715831050",
@@ -82,20 +79,12 @@
 				"name":"猫猫便利店",
 				"suit_item_id":213542401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0e01926cb2b64c041b683f9f42ffe8dc66c77e5e.png",
 					"item_emoji_list":"[{\"name\":\"突击查岗\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7daf355595dd5ac9c59c3e633e649696b9b21d7.png\"},{\"name\":\"等下班\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb5f92ac525dceaa5c25067fca4560a2b1f694a0.png\"},{\"name\":\"麦门\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b2a077a9943aa4079f5cda889682767facd2e02.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/d745321c07d001781baec2fc6fcd4d04210fbc91.png\"},{\"name\":\"撒拉嘿哟\",\"image\":\"https://i0.hdslb.com/bfs/garb/4835f859db6d6271c20991c8d88a367dd82f84e8.png\"},{\"name\":\"亚比\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2064e279ac764e2348106ee3f70cbde827d8dcd.png\"},{\"name\":\"囧囧囧~\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb0a209485599f16404387b8d9e7dd52ba53a77d.png\"},{\"name\":\"咬牙切齿\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd4beec07c3f86d2ad09f071965adee476779385.png\"},{\"name\":\"命比咖啡苦\",\"image\":\"https://i0.hdslb.com/bfs/garb/678cc3c5369c9a1d2507660062585b968f0fa611.png\"},{\"name\":\"嗯~\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a44cb689d2264f725e465a83a87a94abe5cfa46.png\"},{\"name\":\"不想说话\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a78ef8b89665893685c0f98cbcd1611151b4f79.png\"},{\"name\":\"真糕笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/8afc53be5cd9a1d2e86bc44f4a0be51dea5474a2.png\"},{\"name\":\"有冰是吧\",\"image\":\"https://i0.hdslb.com/bfs/garb/b19b2b1fbd211b3291f9256ec7e9af20f21771b7.png\"},{\"name\":\"COOL\",\"image\":\"https://i0.hdslb.com/bfs/garb/a873b6c81bc48d2d4cd5195a6942e8c8f36633cb.png\"},{\"name\":\"wen儿哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/d100f024cd1155a9361a4c2544272095d30258b0.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -5,14 +5,11 @@
 	"group_name":"海鸥",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/garb/item/c61c1399b7edfd2322a22db238f26039152cb2a0.png",
 		"item_ids":"53300,53301,53302,53303,53304,53305,53306,53307,53308,53309",
-		"removable":"true",
 		"sale_type":"pay",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

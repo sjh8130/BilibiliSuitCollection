@@ -16,14 +16,11 @@
 		"item_id_card":"1755082130001",
 		"item_id_emoji_package":"1755082330001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"99999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3225569012",
 		"sale_sku_id_2":"3225569011",
 		"sale_time_begin":"1755229751",
@@ -82,21 +79,13 @@
 				"name":"克克莉丝 海底世界",
 				"suit_item_id":322556901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e0e0be398568d8da7cf403da822d5ce7d299ab26.png",
 					"item_emoji_list":"[{\"name\":\"鼓掌\",\"image\":\"https://i0.hdslb.com/bfs/garb/88e32156276b4552ec415e0a69b0435ea7d66029.png\"},{\"name\":\"自闭\",\"image\":\"https://i0.hdslb.com/bfs/garb/6539e469aa0a903218356746fc367bf0b9009af7.png\"},{\"name\":\"emo\",\"image\":\"https://i0.hdslb.com/bfs/garb/1793d6f24513369cbb9d819584cfc7cf97cb28ed.png\"},{\"name\":\"发火\",\"image\":\"https://i0.hdslb.com/bfs/garb/a873f1db8266ddfdf941dca06a40b813bac776a3.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/68671fc78c1ae355c2202c711c11346645b30d56.png\"},{\"name\":\"不好意思\",\"image\":\"https://i0.hdslb.com/bfs/garb/9dc833439c9bf8fbf654da8df35252751b7557e9.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/23a541ebe210d55b54cca22860b8e6d0b1965422.png\"},{\"name\":\"打瞌睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e38c4947f57027359bac6bbc115a2459ce92f28.png\"},{\"name\":\"你醒啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/dad542b4b2dbe8e2bdd91069f7bc342575f9ebe2.png\"},{\"name\":\"撒花\",\"image\":\"https://i0.hdslb.com/bfs/garb/deda3ee056f1a28b0fb767e5606265c6cd7ecde8.png\"},{\"name\":\"挠头\",\"image\":\"https://i0.hdslb.com/bfs/garb/9dff79a458b001fc0477a19d50f80d278a9496f3.png\"},{\"name\":\"糖糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/f612023934a09fbbc269e31c8fbd7ffb347f4ac8.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/a4ba7ffa45c5ea22b7570d4ecb26b76200e39c21.png\"},{\"name\":\"拍一拍\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe497ca0af875b8a3d184dda7e1d5dd2c3a588af.png\"},{\"name\":\"在做什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b1d26651625727775f4f867ffd49a863850e835.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

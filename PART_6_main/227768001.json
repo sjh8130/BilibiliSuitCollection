@@ -16,14 +16,11 @@
 		"item_id_card":"1727965550001",
 		"item_id_emoji_package":"1727965599001",
 		"owner_uid":"5888511",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"300000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2277680012",
 		"sale_sku_id_2":"2277680011",
 		"sale_time_begin":"1728615600",
@@ -81,21 +78,13 @@
 				"name":"星之神使",
 				"suit_item_id":227768001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/19d27ffc964502275355b1d1d4df8fdf2eec6d3e.png",
 					"item_emoji_list":"[{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/c14a0135161d55ad59753d65d7d3aad3be553072.png\"},{\"name\":\"得意\",\"image\":\"https://i0.hdslb.com/bfs/garb/93a37fbd88f5cfba6c8aba71fd9c0429bbedeb13.png\"},{\"name\":\"旁观\",\"image\":\"https://i0.hdslb.com/bfs/garb/7264a416e38d6a1ee223f759c499a1194bc7fbed.png\"},{\"name\":\"宕机\",\"image\":\"https://i0.hdslb.com/bfs/garb/b94606a255a4511fda361cb950cfa104a53acafc.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/87c55201e6d493a76a7da325309c31777381103b.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/0bbf202ee16e8da46ca8b6e4e91ca40354a24efd.png\"},{\"name\":\"幸福\",\"image\":\"https://i0.hdslb.com/bfs/garb/efa2b15c4c3f03fe196e872bacac5a6a14cb3e1e.png\"},{\"name\":\"祈愿\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3bd27ba490f05954838b8e945d4b6edcf5ad58c.png\"},{\"name\":\"发怒\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b195deaf24f55e82343b3d947fc964b26f4d59c.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/4cc21496b8ccd6eeac10756136ad5f40f3aae717.png\"},{\"name\":\"卖萌\",\"image\":\"https://i0.hdslb.com/bfs/garb/50e15d139187ac926da0f269ff3bd7812a62b54c.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/d8a59402f22a9ef4c0c174b8f68da145c1e25bc7.png\"},{\"name\":\"独角兽\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b394cbe3c1716efc5911e9ef2c09716cd578b0f.png\"},{\"name\":\"彩虹\",\"image\":\"https://i0.hdslb.com/bfs/garb/52ea61e2d00858e6b49f4e298d12c17447712adb.png\"},{\"name\":\"尾巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/d37cb350dbb9300bcc457e236619680ca5827449.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

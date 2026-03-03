@@ -16,14 +16,11 @@
 		"item_id_card":"1703235272001",
 		"item_id_emoji_package":"1703235387001",
 		"owner_uid":"504406727",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"50000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1356511012",
 		"sale_sku_id_2":"1356511011",
 		"sale_time_begin":"1703491200",
@@ -81,20 +78,12 @@
 				"name":"圣诞快乐 第二弹",
 				"suit_item_id":135651101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/adaf3f647131e4ec6281670c6b83df485fb2b961.png",
 					"item_emoji_list":"[{\"name\":\"好\",\"image\":\"https://i0.hdslb.com/bfs/garb/94e050cfe8bebf7169548a225434f1f2ff2b3742.png\"},{\"name\":\"显眼包\",\"image\":\"https://i0.hdslb.com/bfs/garb/2add2994e9cd63e7ac8981a8f133887f8ec6ca89.png\"},{\"name\":\"圣诞拐杖\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a0045e184c1d499d571d40237b23538ce0c980a.png\"},{\"name\":\"小趴菜\",\"image\":\"https://i0.hdslb.com/bfs/garb/0cf2ceef754e641185b246bb331571ee805ab686.png\"},{\"name\":\"圣\",\"image\":\"https://i0.hdslb.com/bfs/garb/2de59e506b72125bb0b7f988b2bf9222d5adeff2.png\"},{\"name\":\"欢迎\",\"image\":\"https://i0.hdslb.com/bfs/garb/e2e3fa969356219577fc8242eb9b8d6da4cb74d6.png\"},{\"name\":\"拆礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/f45ef2ffc0bffea483b278b6e37e290de2b6a694.png\"},{\"name\":\"探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/9637d1ba7f16ec2245e8c483114b4593a13f07d2.png\"},{\"name\":\"诞\",\"image\":\"https://i0.hdslb.com/bfs/garb/706be652bedcc6468f7b7742829a3d5953d39d55.png\"},{\"name\":\"一把抱住\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ee5c4fa7795390c50e6c220287f481c081f823a.png\"},{\"name\":\"收信\",\"image\":\"https://i0.hdslb.com/bfs/garb/96ed6c5923e6b13e3f8e739275b06ec70d295811.png\"},{\"name\":\"啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/31cb6961f96ee6f89a61996118f2a96ac05920e8.png\"},{\"name\":\"忙碌\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5a56d2205cb3eb32e591ec1c31d57eca4e5bc8c.png\"},{\"name\":\"喝牛奶\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1c4eb703cd1f6544b1ee127478a7c6e76761b83.png\"},{\"name\":\"礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/50f1fecb5b024d84ad9ec920f89a372d620da10e.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

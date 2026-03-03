@@ -5,14 +5,11 @@
 	"group_name":"高能手办团",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/garb/item/24efb7596bf94683d2b3a4b0659bc7e3eef41d72.png",
 		"item_ids":"44768,44769,44770,44771,44772,44773,44774,44775,44776,44777,44778,44779,44780,44781,44782,44783",
-		"removable":"true",
 		"sale_type":"pay",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

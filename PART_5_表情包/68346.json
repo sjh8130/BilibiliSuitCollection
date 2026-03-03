@@ -5,19 +5,11 @@
 	"group_name":"放映机",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/1a9497c249d60e44b08998d18b2abd81654818e9.png",
 		"item_ids":"68336,68337,68338,68339,68340,68341,68342,68343,68344,68345",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

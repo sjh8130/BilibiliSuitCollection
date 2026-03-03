@@ -16,14 +16,11 @@
 		"item_id_card":"1744788184001",
 		"item_id_emoji_package":"1744788645001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5200",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3107476012",
 		"sale_sku_id_2":"3107476011",
 		"sale_time_begin":"1745031880",
@@ -81,21 +78,13 @@
 				"name":"甜品小摊宝",
 				"suit_item_id":310747601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b43e3f49f5b3a68228d7d99f5d82682eeeca92b7.png",
 					"item_emoji_list":"[{\"name\":\"憋气\",\"image\":\"https://i0.hdslb.com/bfs/garb/52d9144bc4af988b806e3b4f1649d853fd0a6bd6.png\"},{\"name\":\"886\",\"image\":\"https://i0.hdslb.com/bfs/garb/af00c50d7b9dd7737efabf7cee6bf9f3c0467c51.png\"},{\"name\":\"OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f0a7e9c60d6ca8bb55fcaa5913e939061bfb970.png\"},{\"name\":\"怒了\",\"image\":\"https://i0.hdslb.com/bfs/garb/db3b8a896ead4a0451bc71e522d3f27fd9f1e6f0.png\"},{\"name\":\"捏捏小脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0a1078ea80088f35f462bd5038f05ca16092cea.png\"},{\"name\":\"Oi\",\"image\":\"https://i0.hdslb.com/bfs/garb/be7e0a112305c466ee3a466395aab5c779f2e12e.png\"},{\"name\":\"打游戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/310b9390e8d28e600917edaac4d84a2967c6e719.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/abd990388c27e85c699ad6995e0884a317c90e92.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad36a1dc93aae4da298b1aabb26e1e2d9f0ef0f6.png\"},{\"name\":\"什么意思呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/be4512a2ad1c4fd0eb8255ff8b4db516b35d7722.png\"},{\"name\":\"电子宠物\",\"image\":\"https://i0.hdslb.com/bfs/garb/fa965983dd35946392e214dc054d6d0cc9a625d4.png\"},{\"name\":\"开饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4d78d0e393a109e493a62b0e143579eae1917dc.png\"},{\"name\":\"心在下小雨\",\"image\":\"https://i0.hdslb.com/bfs/garb/6cdcb71fa81fdd0508e3e8fe59a7b45b6699a6e5.png\"},{\"name\":\"拜托拜托\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0ab505deffa6182b62ce8da09a295c76f190868.png\"},{\"name\":\"出门遛遛\",\"image\":\"https://i0.hdslb.com/bfs/garb/beeccd1b491be49b0889b481dc394fc86c137b05.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1751005747001",
 		"item_id_emoji_package":"1751275288001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3178526012",
 		"sale_sku_id_2":"3178526011",
 		"sale_time_begin":"1751426211",
@@ -81,21 +78,13 @@
 				"name":"爱天使2",
 				"suit_item_id":317852601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/165c4fb58a60a290820c391e496c35385781d533.png",
 					"item_emoji_list":"[{\"name\":\"四叶草\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa0c7662bfc81c4075ae79ef6f50042a69ad3f63.png\"},{\"name\":\"酷女孩\",\"image\":\"https://i0.hdslb.com/bfs/garb/2fcb39ac0ba09366e70713794fcf1f98fca9f419.png\"},{\"name\":\"甜甜爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/b45126d5c8f4da152013059899b6297ffbc15f2a.png\"},{\"name\":\"草莓\",\"image\":\"https://i0.hdslb.com/bfs/garb/9251b676f8f2609d8d30c0a9e3c1a14e8be90c78.png\"},{\"name\":\"蓝色蝴蝶结\",\"image\":\"https://i0.hdslb.com/bfs/garb/d118718dd2fd7d9e21cbb61e9b5ef2cb5da25096.png\"},{\"name\":\"一串风铃\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e284ce67c718a922764ad8c923521f65a9ca6ed.png\"},{\"name\":\"天使女孩\",\"image\":\"https://i0.hdslb.com/bfs/garb/3d5dcf4ba071b41fda522ed5f37fff67c3923f96.png\"},{\"name\":\"折翼天使\",\"image\":\"https://i0.hdslb.com/bfs/garb/4385560480af615b429d9d9fa71cc5d68f36e292.png\"},{\"name\":\"爱心抱枕\",\"image\":\"https://i0.hdslb.com/bfs/garb/21448240fc058a323d1d14b4cb4bb4033077b310.png\"},{\"name\":\"小恶魔\",\"image\":\"https://i0.hdslb.com/bfs/garb/bfc9643a1cb096bae36f9a3a37efa8d808f31558.png\"},{\"name\":\"铃铛\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a84f88dbab7078c44eb4403f7a82cc8a5bc7856.png\"},{\"name\":\"魔法书\",\"image\":\"https://i0.hdslb.com/bfs/garb/b37f10d72296d6257828286ffd86f3f16b41e952.png\"},{\"name\":\"星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5e75901bf53be93e49d23719a9f10c51d36639b.png\"},{\"name\":\"兔子\",\"image\":\"https://i0.hdslb.com/bfs/garb/2787753d1d74db8a8d791e8ea94c0f4554488d7f.png\"},{\"name\":\"竖琴\",\"image\":\"https://i0.hdslb.com/bfs/garb/d595a06c0bb87ce04741e7d9ba9d63e604080b91.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

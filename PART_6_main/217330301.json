@@ -16,14 +16,11 @@
 		"item_id_card":"1718935465001",
 		"item_id_emoji_package":"1718935533001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2173303012",
 		"sale_sku_id_2":"2173303011",
 		"sale_time_begin":"1719287150",
@@ -82,21 +79,13 @@
 				"name":"夏日薄荷小可爱",
 				"suit_item_id":217330301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6ef23cef102e983a3db532f27616bd65be3c9e08.png",
 					"item_emoji_list":"[{\"name\":\"派对牛牛\",\"image\":\"https://i0.hdslb.com/bfs/garb/273d1ede33eeb52a8cf34373f2e1e90ecdeeb97b.png\"},{\"name\":\"奔跑小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/017fabd67c4ac77aecd932c8c59227b3988caa3f.png\"},{\"name\":\"粉粉草莓\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5ad7e8145af3c9dfe3a140bcdae6c5b11178963.png\"},{\"name\":\"派对帽子\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae594a43fc49004552d66f0d0ee4bf998b090b6a.png\"},{\"name\":\"小狗蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/a534267f6e415741516978ce60c860b87afff1ce.png\"},{\"name\":\"樱桃水杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ce9e26f6dd1f76ba6ff1183ed6853e1cf559666.png\"},{\"name\":\"草莓小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef0efaf43be6b1e0c34e0ed413487605e2c765e2.png\"},{\"name\":\"半个苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/b13a72ee6559158b2d5ebce2be947e14bc554648.png\"},{\"name\":\"打个电话\",\"image\":\"https://i0.hdslb.com/bfs/garb/a30fe3bacdeceb4a06a5817d2f210204b7523ad8.png\"},{\"name\":\"派对小熊\",\"image\":\"https://i0.hdslb.com/bfs/garb/d92d56fb52f7567ba0f66636b70dd9c9e70b1035.png\"},{\"name\":\"薄荷蛋糕卷\",\"image\":\"https://i0.hdslb.com/bfs/garb/15202b676a7bdbdee531f330b97024b805bccc00.png\"},{\"name\":\"听歌小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8ed5719ecc5eee529891f8897967764e23d581a.png\"},{\"name\":\"来杯奶茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/da1e306f6e184dc87637a47069c9436cdd155a60.png\"},{\"name\":\"派对小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/75ee462e55914bab5d3848c7163e5f11d2c55efc.png\"},{\"name\":\"生日蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/7716c4da984a3275b4b825c73df6346d3b1e3662.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1705037670001",
 		"item_id_emoji_package":"1705038600001",
 		"owner_uid":"1732540672",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2012420012",
 		"sale_sku_id_2":"2012420011",
 		"sale_time_begin":"1705376060",
@@ -81,20 +78,12 @@
 				"name":"眠眠兔和他的朋友们",
 				"suit_item_id":201242001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b8ca9b0e10d7e3220ddd30b95dd92375c9d35cdb.png",
 					"item_emoji_list":"[{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e10063eb507f41451c2f008564773008fd0b680.png\"},{\"name\":\"好事发生\",\"image\":\"https://i0.hdslb.com/bfs/garb/725a44300b0336f715ec5b2658fa1ef20b9e0972.png\"},{\"name\":\"红包多多\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f66a339bd8cfa6308ccdd9e55f86b805ff2277e.png\"},{\"name\":\"福到啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/029a8b97b4ad62c8df14a23c78ae0544c3db400a.png\"},{\"name\":\"一夜暴富\",\"image\":\"https://i0.hdslb.com/bfs/garb/cbdbcc9284b827253d036e4dbc6ffc8d96b1a9b5.png\"},{\"name\":\"放鞭炮\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b39deb37910072c1deb85bc392c44f43daa40a0.png\"},{\"name\":\"好运锦鲤\",\"image\":\"https://i0.hdslb.com/bfs/garb/725b7f2742f2faf97fddda419a65205f07d57a55.png\"},{\"name\":\"大吉大利\",\"image\":\"https://i0.hdslb.com/bfs/garb/51aeb5433bfbe36077143edb2fe5d34617287514.png\"},{\"name\":\"举杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/edd9a685cae9198672ea6056e43e26b5fa0e5f32.png\"},{\"name\":\"谢谢老板\",\"image\":\"https://i0.hdslb.com/bfs/garb/44f9bfb5927d12479b11cdf9ee958acb3d2a74b6.png\"},{\"name\":\"恭喜发财\",\"image\":\"https://i0.hdslb.com/bfs/garb/1bce31e2a9696e6fd3ea7b89aaf509fe081c7a33.png\"},{\"name\":\"指定暴富\",\"image\":\"https://i0.hdslb.com/bfs/garb/03d204de5526269f71c2eb01dfdcf4275b6b3fe8.png\"},{\"name\":\"好运喷雾\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ae53942da1706ddbb543a57cf3e8a7442607729.png\"},{\"name\":\"新年快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9206d59ee11e262f4aca9423dd2f84ad9fb6a7d.png\"},{\"name\":\"红包拿来\",\"image\":\"https://i0.hdslb.com/bfs/garb/793b08228a16bb86aa8f6fc93304e41d4374576c.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

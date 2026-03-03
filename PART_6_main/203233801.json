@@ -16,14 +16,11 @@
 		"item_id_card":"1706665578001",
 		"item_id_emoji_package":"1706665678001",
 		"owner_uid":"3493259372399028",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2032338012",
 		"sale_sku_id_2":"2032338011",
 		"sale_time_begin":"1707361200",
@@ -82,20 +79,12 @@
 				"name":"咬咬过新年",
 				"suit_item_id":203233801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/679df0f6f66bbd8f342bd41acf2f37f94c8c0491.png",
 					"item_emoji_list":"[{\"name\":\"红包给你\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ed19eef61f5516f06cf0a17bcf39d28cb8ef820.png\"},{\"name\":\"鞭炮\",\"image\":\"https://i0.hdslb.com/bfs/garb/a655a7dbcce40721476aec0084901f68b704b7f7.png\"},{\"name\":\"发发发\",\"image\":\"https://i0.hdslb.com/bfs/garb/8268524edaa711aa01da134a62e8c7993bf81b54.png\"},{\"name\":\"红包拿来\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef3fab5b4f6305debcc09c3f4d64278bff46d2de.png\"},{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2ce3aee3b82333eda10326d863c1f5d5c70a750.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9fa6c76d89f4ca8cbe72b6a6e359178e4932d17.png\"},{\"name\":\"福气多多\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3ea46f992896c377419a62958936f4ae576dfc5.png\"},{\"name\":\"新年好\",\"image\":\"https://i0.hdslb.com/bfs/garb/63f2924a5bc60425b38e9d81bbc074ba7a709f6a.png\"},{\"name\":\"谢谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/162b96a0199e305a5139f16174ba655839c56915.png\"},{\"name\":\"好运\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab617348ecc1d8dbcd75d42ce60933441cb6eedf.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/101e120021b70648a1b683cfb1124b85300ca355.png\"},{\"name\":\"老板大气\",\"image\":\"https://i0.hdslb.com/bfs/garb/9810185aa8e59a1ff82f9b84d47860cf3db51497.png\"},{\"name\":\"灯笼\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f9d2a8fe805f666b8e2a6377d0303a9aac601a9.png\"},{\"name\":\"年年有余\",\"image\":\"https://i0.hdslb.com/bfs/garb/9bd3b375b358250d08c65d4ac47730004ca1842b.png\"},{\"name\":\"狐来福来\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba6d492950aeb4643cb60531ed5e712593313286.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

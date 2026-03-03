@@ -16,14 +16,11 @@
 		"item_id_card":"1686878042001",
 		"item_id_emoji_package":"1686878088001",
 		"owner_uid":"1732540672",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"88",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1167281012",
 		"sale_sku_id_2":"1167281011",
 		"sale_time_begin":"1687167030",
@@ -81,20 +78,12 @@
 				"name":"幸运塔罗星 金牛座",
 				"suit_item_id":116728101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/db455e1d7c8fbc2a07541543da4b26ca34f7ec03.png",
 					"item_emoji_list":"[{\"name\":\"上岸成功\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7a88224608f668c3ac5fa8ebe57feabe271a2d9.png\"},{\"name\":\"水逆退散\",\"image\":\"https://i0.hdslb.com/bfs/garb/888a4f158ec34a3a0249beeed105dc1e1ce6eee1.png\"},{\"name\":\"天官赐福\",\"image\":\"https://i0.hdslb.com/bfs/garb/2e3f1aaf5c6d273b0611ed24201c32564ae3c6cb.png\"},{\"name\":\"天选之子\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c3d7dc43f3520c8f88700bc4c205faa840302cc.png\"},{\"name\":\"财运爆棚\",\"image\":\"https://i0.hdslb.com/bfs/garb/acc946ad32ab23122fe95e66ff21d3b271483426.png\"},{\"name\":\"钱来\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ba3fda1de90136699515efa1102bf0e2148af95.png\"},{\"name\":\"老哥稳\",\"image\":\"https://i0.hdslb.com/bfs/garb/b61edf09113fbb29342303e5ded73b1dcac0b2d5.png\"},{\"name\":\"牛牛牛\",\"image\":\"https://i0.hdslb.com/bfs/garb/68ea04d2b2e791391ef9dc96d04c3a9382c6db84.png\"},{\"name\":\"有好吃的\",\"image\":\"https://i0.hdslb.com/bfs/garb/f17c34fbec3c0ab378ab9548f0c1b0f84770bbd3.png\"},{\"name\":\"撤回\",\"image\":\"https://i0.hdslb.com/bfs/garb/40bafd802d76d2302ae74cf0d46d368ec23833e7.png\"},{\"name\":\"买\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a1364213e3701f0367523d2bc6e73a810e02cf2.png\"},{\"name\":\"打钱\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ab76ba249132080090053015f6cdc6f56251a5c.png\"},{\"name\":\"馋\",\"image\":\"https://i0.hdslb.com/bfs/garb/6fdee63fb82e8fe6c8b7ed0cb4d2f6a30ee1db84.png\"},{\"name\":\"炫我嘴里\",\"image\":\"https://i0.hdslb.com/bfs/garb/626db7903773cc4498707ee8e7ec49bc455b3241.png\"},{\"name\":\"金牛座\",\"image\":\"https://i0.hdslb.com/bfs/garb/c00cc80895ca8800b1ae1a19ba61ae26460baaf6.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1725954022001",
 		"item_id_emoji_package":"1725953466001",
 		"owner_uid":"3494364170947008",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2254542012",
 		"sale_sku_id_2":"2254542011",
 		"sale_time_begin":"1726117200",
@@ -81,21 +78,13 @@
 				"name":"全麦无糖大面包",
 				"suit_item_id":225454201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5d51224a28de126f4d4c05e483986f604ae4bcf3.png",
 					"item_emoji_list":"[{\"name\":\"面包猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f739082a5fd351d829aa925279a2d3f1c19d384.png\"},{\"name\":\"橘猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc54e4af46d16f1c6c8ae63f1076960907619677.png\"},{\"name\":\"慵懒\",\"image\":\"https://i0.hdslb.com/bfs/garb/613302f3d82081f4ee45d6642a2d8fd299550e8e.png\"},{\"name\":\"啊这\",\"image\":\"https://i0.hdslb.com/bfs/garb/df3cf925fbf9ee01df22b7c413ce0f8059811cbe.png\"},{\"name\":\"橘猪\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c3c94635403c65435c296a3c1ec74611d61890f.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/eaf0642467958ec23ec08ad8ba3db484f2264c6f.png\"},{\"name\":\"祈祷\",\"image\":\"https://i0.hdslb.com/bfs/garb/1794cfab64215218e1873556c7bbb7a8be3a55d4.png\"},{\"name\":\"大鸡腿猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/85713d3062c0537dfa2fea57246463512c4955f4.png\"},{\"name\":\"已老实\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ccdb9f5c8026b3780c7c3b434b64612cbcd7f87.png\"},{\"name\":\"一坨猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/79041d4216aa9a93087375059916d5c63af623b2.png\"},{\"name\":\"嘲笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/f15a72f119844650401f6f478cc4243dc86194d8.png\"},{\"name\":\"乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/d032c7bf593fd1e53a31b07578d7b8ca6d435c0c.png\"},{\"name\":\"橘猫头\",\"image\":\"https://i0.hdslb.com/bfs/garb/b30ee364a1dc1ab1ef277ab34df4260d5d6df173.png\"},{\"name\":\"猫棍\",\"image\":\"https://i0.hdslb.com/bfs/garb/c58b958ab3df3c96cad30650d7254e0c5bcd4ab1.png\"},{\"name\":\"橘猫脚\",\"image\":\"https://i0.hdslb.com/bfs/garb/47f1d1696222ec8fb3c770e1fb144ce95e24e1a8.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

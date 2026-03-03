@@ -16,14 +16,11 @@
 		"item_id_card":"1702893405001",
 		"item_id_emoji_package":"1702893363001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1353322012",
 		"sale_sku_id_2":"1353322011",
 		"sale_time_begin":"1703054880",
@@ -81,20 +78,12 @@
 				"name":"爱你甜品兔",
 				"suit_item_id":135332201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4503c86d3ee4e28678f83a534a2b7910a3ba5205.png",
 					"item_emoji_list":"[{\"name\":\"困\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ac64ca263808760c2f8f657e4e708bb6d3e728d.png\"},{\"name\":\"挨打\",\"image\":\"https://i0.hdslb.com/bfs/garb/e961a22563e21ecc6e8b027a4e678621ad495b4f.png\"},{\"name\":\"沉默凝视\",\"image\":\"https://i0.hdslb.com/bfs/garb/fb6a781e673775b0bf04de7e5376394157ebb3ea.png\"},{\"name\":\"哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/a752ba0b36c35ae4d50df043023d275c5f5edada.png\"},{\"name\":\"哎呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/db8fc98793b1b6f5a5d4f594d4488eee6f76f75b.png\"},{\"name\":\"灵魂出窍\",\"image\":\"https://i0.hdslb.com/bfs/garb/85493e98a813b45384ac35ed30cb8aa5136132c7.png\"},{\"name\":\"收到\",\"image\":\"https://i0.hdslb.com/bfs/garb/4baa06e35693b69451a43739af7852b5023b0951.png\"},{\"name\":\"不愿面对\",\"image\":\"https://i0.hdslb.com/bfs/garb/90f98a4f3ea1ced1b49c9285a721693be3944d12.png\"},{\"name\":\"倒地\",\"image\":\"https://i0.hdslb.com/bfs/garb/919dbff8ea818a6776daf3ddd39f3e9404146af2.png\"},{\"name\":\"不客气\",\"image\":\"https://i0.hdslb.com/bfs/garb/67bc40a1871b7f48e8f0ffca00905baf1be7edc6.png\"},{\"name\":\"内心狂喜\",\"image\":\"https://i0.hdslb.com/bfs/garb/865f3b827dd20c80000cddc1159eadb0b2d051e2.png\"},{\"name\":\"永远爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/7054f672a49eb66cf8fc6904a652964dc9edb92d.png\"},{\"name\":\"融化\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2d9c27546a3455987ebd8480bfb1694fa5f7c3a.png\"},{\"name\":\"亲一口\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ef379477552050d58b26c3432c032dcb3cd0255.png\"},{\"name\":\"冒出\",\"image\":\"https://i0.hdslb.com/bfs/garb/7055935fbc230940f698931f0560d2ab3333f44c.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

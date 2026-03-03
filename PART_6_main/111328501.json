@@ -16,14 +16,11 @@
 		"item_id_card":"1682043866001",
 		"item_id_emoji_package":"1682044186001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1113285012",
 		"sale_sku_id_2":"1113285011",
 		"sale_time_begin":"1682329539",
@@ -81,20 +78,12 @@
 				"name":"Animal萌萌们",
 				"suit_item_id":111328501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5cfa481e2b92c68e79f43c6c205da06414861922.png",
 					"item_emoji_list":"[{\"name\":\"那我走\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7890ee12ccbe4a1d297f1579dfab88a63a2d849.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/9986342b76370d71f3375c459dc7542e0a5e7dd5.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/850f709ae03e8220a11e182a9ff9a0f5c1c000c7.png\"},{\"name\":\"狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ed08787c85abf3e7f80149b7c4e90ddee3f017d.png\"},{\"name\":\"耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b5066311d22d3e8f504f277be6a97ce15d2eb9e.png\"},{\"name\":\"长蘑菇惹\",\"image\":\"https://i0.hdslb.com/bfs/garb/4bc851ffb44e74a8c9b8f67de94233652f1b96d4.png\"},{\"name\":\"受伤\",\"image\":\"https://i0.hdslb.com/bfs/garb/7210ba94560a35902cc3f6e2a18a21f9b5a5d0e5.png\"},{\"name\":\"魔法攻击\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d2b91fdf9fca56243ab8c43a50dfd8396bbc0a6.png\"},{\"name\":\"蹦迪\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b569b6fdc320429dcbe0cfdd8420b899cab7763.png\"},{\"name\":\"弱小无助\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4e904017b4e114768461595bd588ade6899d333.png\"},{\"name\":\"你胖了\",\"image\":\"https://i0.hdslb.com/bfs/garb/0040194ce0b4bf53e70a317c079d063085d059bb.png\"},{\"name\":\"电到\",\"image\":\"https://i0.hdslb.com/bfs/garb/75dd28252df2078a235a8181fb4c9acb104fa679.png\"},{\"name\":\"挤出爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e677de464de47cdce526c09b4f2731d35bb8d89.png\"},{\"name\":\"嗷嗷大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/7193a0e2e765cc2b9d1dcaf8479f70b3f544f400.png\"},{\"name\":\"翻脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/6482037e1cab99f0dafda72f410b235a581c04f8.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -15,14 +15,11 @@
 		"item_id_card":"1696925582001",
 		"item_id_emoji_package":"1696925613001",
 		"owner_uid":"1181834006",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1283494012",
 		"sale_sku_id_2":"1283494011",
 		"sale_time_begin":"1699603910",
@@ -80,20 +77,12 @@
 				"name":"保卫萝卜·美食派对",
 				"suit_item_id":128349401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6f5c201ce3257fed17d20ed2c9ac960d094d4051.png",
 					"item_emoji_list":"[{\"name\":\"吃零食\",\"image\":\"https://i0.hdslb.com/bfs/garb/d599b5f5f99d3cdd1d7966d0fc6c7a37d357501c.png\"},{\"name\":\"狗粮\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba938cbbd2450355f8b26d7b497b5b077a54d8bf.png\"},{\"name\":\"饿\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a94d609ca1f0051e48d78bd091ce0551cebcf7f.png\"},{\"name\":\"炸弹\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef20f68b17efe13239d6e409552437c6a86b11a6.png\"},{\"name\":\"吃辣条\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e315e67a275791e7aaadac9077a1d459770fce2.png\"},{\"name\":\"扮鬼脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/1763a3cb846e79c1b52630fa470c621f45efb0d5.png\"},{\"name\":\"炫饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/23418129697b229a44da2fdd79950241fba7aeb1.png\"},{\"name\":\"煮汤\",\"image\":\"https://i0.hdslb.com/bfs/garb/24d8fabf6b25aaa5719f7a7872702cd9f8ea4641.png\"},{\"name\":\"钓萝卜\",\"image\":\"https://i0.hdslb.com/bfs/garb/04b354b33bb2a1a42256ef5244b63a5daa90996c.png\"},{\"name\":\"嗦面条\",\"image\":\"https://i0.hdslb.com/bfs/garb/013aa2082a901a33997f3a9a0d5601637e28025a.png\"},{\"name\":\"抢零食\",\"image\":\"https://i0.hdslb.com/bfs/garb/7742a2160b80ad76081cd279be7bc793771a58d1.png\"},{\"name\":\"看戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/26534e309ccc4919e6a969d438cf3e9cdb4e1daf.png\"},{\"name\":\"大吃特吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/26e829320bc94bc42ea681d14075f4d8416d5f39.png\"},{\"name\":\"一起吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/173f79c2b3c1ecbe516806f4b5831d4cd6ccbd10.png\"},{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/e85fb62ed3dab8db35ea2cdc4e87765bb3941b16.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

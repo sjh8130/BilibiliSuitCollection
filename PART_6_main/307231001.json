@@ -16,14 +16,11 @@
 		"item_id_card":"1741329432001",
 		"item_id_emoji_package":"1741329926001",
 		"owner_uid":"1181834006",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3072310012",
 		"sale_sku_id_2":"3072310011",
 		"sale_time_begin":"1743132680",
@@ -81,21 +78,13 @@
 				"name":"大人请用",
 				"suit_item_id":307231001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/88ede9e5515997bb59cd4c89e49ace2186893561.png",
 					"item_emoji_list":"[{\"name\":\"请用憨八嘎\",\"image\":\"https://i0.hdslb.com/bfs/garb/27174b62a7c0f9985b4c1712fe42afe2e5f24d3c.png\"},{\"name\":\"请用茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb567bb1ddf9fe37401df51e5de1c236e3901047.png\"},{\"name\":\"请用扣乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/5210804b0d2d45739d401a5ac49b0d5f3b7805b4.png\"},{\"name\":\"请用螺西混\",\"image\":\"https://i0.hdslb.com/bfs/garb/7445b2241011fc38b87ad395bfea33a14a807098.png\"},{\"name\":\"请用破忒头\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1410cb9b3e21c20a3dd025cbf3441bd486d0b69.png\"},{\"name\":\"请用奥润几\",\"image\":\"https://i0.hdslb.com/bfs/garb/97dfc55d10018ec1dbd4a84b078bdb2849f3a7ef.png\"},{\"name\":\"请用扣飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9f0441f50cae1c47fbe88e54e1d9900f247cd5c.png\"},{\"name\":\"请用薯条\",\"image\":\"https://i0.hdslb.com/bfs/garb/e54bfdd1c9fef2fbbea39da02876e42cea8e47d3.png\"},{\"name\":\"请用小鱼干\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4bbd5a8d3154829c243a991d73abdab9c31c586.png\"},{\"name\":\"请用笔\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e2d53c499610e7b9862cbeca09cac2084a0fe29.png\"},{\"name\":\"请用毛米\",\"image\":\"https://i0.hdslb.com/bfs/garb/2bf09ed895e05c57dc4ad5e38a30bf2a749de237.png\"},{\"name\":\"请用修勾\",\"image\":\"https://i0.hdslb.com/bfs/garb/34a9d03c1c78e221560426ac155f79c09525229b.png\"},{\"name\":\"请用药\",\"image\":\"https://i0.hdslb.com/bfs/garb/456bfd9716388a1ace087d72d820c902d0106c9a.png\"},{\"name\":\"请用马桶\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b70b1eafa233105aeac28ef736127f08930c610.png\"},{\"name\":\"请用纸\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce21b68d2ad318e86f276f633e51aadbbdaa9991.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1688005631001",
 		"item_id_emoji_package":"1688005532001",
 		"owner_uid":"670729222",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"150000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1180489022",
 		"sale_sku_id_2":"1180489021",
 		"sale_time_begin":"1688124540",
@@ -81,20 +78,12 @@
 				"name":"萨卡班甲鱼2.0",
 				"suit_item_id":118048902,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a850c475b745e27ee0dfa3e971818826a2e81ef6.png",
 					"item_emoji_list":"[{\"name\":\"鱼头X2\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ca1af33940009f6b5dd3c59b73868628c88dbea.png\"},{\"name\":\"鱼尾X2\",\"image\":\"https://i0.hdslb.com/bfs/garb/4d0c12c2df0d746e1d6f1d2f45c234f196f1409b.png\"},{\"name\":\"反向鱼头\",\"image\":\"https://i0.hdslb.com/bfs/garb/03407fe469bd5509b02e058664aedae8c946d6ce.png\"},{\"name\":\"帽子鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/8888c889a5f6ece20ab52241fb76e1cc1887d0c1.png\"},{\"name\":\"让我康康\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c7495de838a80711449acc872eee6bf241ee9c6.png\"},{\"name\":\"怪东西\",\"image\":\"https://i0.hdslb.com/bfs/garb/43a6167b43dc51ad046541fdcc018a266b807f47.png\"},{\"name\":\"大聪明\",\"image\":\"https://i0.hdslb.com/bfs/garb/fac07cf13a8c4bba8943c1fc4a5be8e7f1ba2cc6.png\"},{\"name\":\"阿巴阿巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/af9ef2c929943eb90d8c038db26fcd21b0c8f52c.png\"},{\"name\":\"大喊\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e46e779bc15d88f912c35baaa1356860e9d6191.png\"},{\"name\":\"嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/31bb6d227e254b85fa75cb137306d07397f228d2.png\"},{\"name\":\"RUN\",\"image\":\"https://i0.hdslb.com/bfs/garb/687fa68ec012ffd8b32a70fbc35bf801d5978576.png\"},{\"name\":\"家的感觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0e651635724d3d3658ae52fdf650a20efd3e715.png\"},{\"name\":\"NO\",\"image\":\"https://i0.hdslb.com/bfs/garb/e2542e5d5a281cbee116eccef4624d2b64eb574a.png\"},{\"name\":\"欸嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/b80159ed0623e31ab3b82e9eb3880579961444aa.png\"},{\"name\":\"抽搐\",\"image\":\"https://i0.hdslb.com/bfs/garb/79cb5a9a15ad1775fbede9f32af41dcfaf90b42f.png\"},{\"name\":\"闪亮\",\"image\":\"https://i0.hdslb.com/bfs/garb/c28ee1b3519813cb7d806335a6e017278115bff4.png\"},{\"name\":\"融化\",\"image\":\"https://i0.hdslb.com/bfs/garb/2840f0b8686788a85fad99fa9b7aa67cd144013a.png\"},{\"name\":\"震撼\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a89cf905fe56f9cf814f858facd4a377f9c8b08.png\"},{\"name\":\"墨镜\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1fb90e5c619be76da43ae2c816d94c6c9a4a6a8.png\"},{\"name\":\"智慧疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e8186f9fdfb04e1d5fa2290cbd08f7be4baa5a6.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

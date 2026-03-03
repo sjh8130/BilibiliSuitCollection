@@ -5,19 +5,11 @@
 	"group_name":"蔬菜精灵",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/2dc2b2b446c5fda0cf7cd980b6c7f245a09692c3.png",
 		"item_ids":"33610,33611,33612,33613,33614,33615,33616,33617,33618,33619",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

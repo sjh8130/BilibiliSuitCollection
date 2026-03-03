@@ -5,20 +5,12 @@
 	"group_name":"血量动态表情包",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/454cda4e14ee3fa97279b2f7742f7adc9a5b773c.png",
 		"item_ids":"69820,69834,69835,69836,69837,69838,69839,69840,69841,69842,69843",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"resource_type":"1",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

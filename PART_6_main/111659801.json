@@ -15,14 +15,11 @@
 		"item_id_card":"1682491626001",
 		"item_id_emoji_package":"1682491833001",
 		"owner_uid":"33009791",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1116598012",
 		"sale_sku_id_2":"1116598011",
 		"sale_time_begin":"1683702000",
@@ -81,20 +78,12 @@
 				"name":"恐龙奇奇",
 				"suit_item_id":111659801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4bc56490289259b4554b3076e849b601616c8a19.png",
 					"item_emoji_list":"[{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/f307c1ff5d534d48776db15cfdf40c2d3f33936b.png\"},{\"name\":\"吃鸡腿\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a961b3cc29ac1ca016417bca2f7808fafd735ab.png\"},{\"name\":\"仰望大佬\",\"image\":\"https://i0.hdslb.com/bfs/garb/cca73fab77cbae7c2c0dc1d73c43f5dee22aaceb.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/eed7bb401feb67079094f14e212de68fa4321399.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/e18d269fbcf8ccb35bc108043f10d2ac1a7a0fd3.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f058d9a2f8ac76c86fa3226467b348f51609d2b.png\"},{\"name\":\"焦绿\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d5744a68f500a0ad34947ca401688c95ba913fd.png\"},{\"name\":\"呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/84d1fb051f06590d213d77028b594cca8308e42f.png\"},{\"name\":\"哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/52a0d372e101cb30655178e582dc94a56eafec1b.png\"},{\"name\":\"哈哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/08363709945480d0b33023cb0dbf1469e1dde138.png\"},{\"name\":\"酸了\",\"image\":\"https://i0.hdslb.com/bfs/garb/bbfe82476623a34bfae7500557e5dba3c3bfef3d.png\"},{\"name\":\"嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/a55eeb01e09d34bed5311da24e4c49ba4e6cb083.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a20404a5c28730d73eaef5a59e2d7aacc0b5cdb.png\"},{\"name\":\"栓Q\",\"image\":\"https://i0.hdslb.com/bfs/garb/c30e1f60e1a8c599f9a9940d435842091a27b679.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/d71411cdba1acbdb29b6f9c74a151b9662c4f301.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

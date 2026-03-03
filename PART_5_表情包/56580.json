@@ -5,14 +5,11 @@
 	"group_name":"神契幻奇谭",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/garb/item/f3485c9f24d9ba92543c8ed4de8da3f0a8a5acd2.png",
 		"item_ids":"56581,56582,56583,56584,56585,56586,56587,56588,56589,56590,56591,56592,56593,56594,56595,56596,56597,56598,56599,56600",
-		"removable":"true",
 		"sale_type":"pay",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

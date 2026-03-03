@@ -16,14 +16,11 @@
 		"item_id_card":"1765447131001",
 		"item_id_emoji_package":"1765447079001",
 		"owner_uid":"670729222",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3345544012",
 		"sale_sku_id_2":"3345544011",
 		"sale_time_begin":"1765616760",
@@ -81,21 +78,13 @@
 				"name":"章鱼猫主理人",
 				"suit_item_id":334554401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a4ca88f88211e909fdb8acc62f6a11fbab73cfd0.png",
 					"item_emoji_list":"[{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/d4c19f284cb1ce26095204b3912d8c777083b2a6.png\"},{\"name\":\"喝咖啡\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d5bf6c4b6edac32fd277e51491e23f880850968.png\"},{\"name\":\"炒饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd701e47d5bea29f75ce543dd327e084db92f2e4.png\"},{\"name\":\"弹射\",\"image\":\"https://i0.hdslb.com/bfs/garb/e56091e8b0aa9aaaf70c76a0defef7f0511cde46.png\"},{\"name\":\"捏捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/05d6380bf3019fcfe3967184bf161c7c88bfb647.png\"},{\"name\":\"饿了\",\"image\":\"https://i0.hdslb.com/bfs/garb/3533e26a63b8ae84d562020c95d077a908b1edd5.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/57a0598ecc233be596c4963d9e1c7cdbcdd2e06d.png\"},{\"name\":\"积累\",\"image\":\"https://i0.hdslb.com/bfs/garb/78617cd90ca79f0a9f34eff70beec3a9d19911d5.png\"},{\"name\":\"痛哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/b1f2fa9444cfcf5538662c42b21eb7669885f1d3.png\"},{\"name\":\"失落\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6e61aed3a2f6cc3ae6e56d031a8c371f8f6fd39.png\"},{\"name\":\"在做了\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e01717603ac3e164b8adbf874db91678d6758b1.png\"},{\"name\":\"围观\",\"image\":\"https://i0.hdslb.com/bfs/garb/96b05aa458c9669347995136ecdb2784fe98d10d.png\"},{\"name\":\"请用\",\"image\":\"https://i0.hdslb.com/bfs/garb/308f589b2b1a4c42a516ed5277a5a69d3cab8fe1.png\"},{\"name\":\"拉衣服\",\"image\":\"https://i0.hdslb.com/bfs/garb/4d4a2b10bfa4ff5e768b55145df2927841a6a17d.png\"},{\"name\":\"天使\",\"image\":\"https://i0.hdslb.com/bfs/garb/d839e5066096b6246705d1714dd63ce694d7d16b.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

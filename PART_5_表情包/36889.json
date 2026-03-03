@@ -5,19 +5,11 @@
 	"group_name":"传统美食",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/3504558c81a77272668563cce37a9bcc992d7c07.png",
 		"item_ids":"36879,36880,36881,36882,36883,36884,36885,36886,36887,36888",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

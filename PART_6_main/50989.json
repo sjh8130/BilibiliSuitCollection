@@ -21,14 +21,11 @@
 		"item_id_emoji":"50935",
 		"item_id_thumbup":"50922",
 		"owner_uid":"647193094",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"5500",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"100",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_time_begin":"1682679600",
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
@@ -78,19 +75,11 @@
 				"tab_id":8,
 				"suit_item_id":50989,
 				"properties":{
-					"addable":"true",
 					"biz":"dynamic,reply,watch_full",
 					"image":"https://i0.hdslb.com/bfs/emote/92aa4547eb8bd90cd28f911dbf6bd7b85fde88b9.png",
 					"item_ids":"50936,50937,50938,50939,50940,50941,50942,50943,50944,50945,50946,50947,50948,50949,50950,50951,50952,50953,50954,50955",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

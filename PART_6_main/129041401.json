@@ -16,14 +16,11 @@
 		"item_id_card":"1697446825001",
 		"item_id_emoji_package":"1697446937001",
 		"owner_uid":"3493293524519197",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1290414012",
 		"sale_sku_id_2":"1290414011",
 		"sale_time_begin":"1697611710",
@@ -81,20 +78,12 @@
 				"name":"星际漫游宇航员",
 				"suit_item_id":129041401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/101cc7b7fcc43fc0eecf0fac1e1f2b22dc96e896.png",
 					"item_emoji_list":"[{\"name\":\"打招呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/deae02c03b1a49a76ca34f30f72e30138762a029.png\"},{\"name\":\"充能中\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fa994b6d0c59a2127cd866cd36efc47b1a38642.png\"},{\"name\":\"冲向宇宙\",\"image\":\"https://i0.hdslb.com/bfs/garb/c51451328bc6675c18f03419ccf11a00fc0a63e5.png\"},{\"name\":\"工作\",\"image\":\"https://i0.hdslb.com/bfs/garb/34671a893bea81e63b5323931d1f3a402744dbe0.png\"},{\"name\":\"半个月饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/a6d2533f774673c435c561562ed0b07df77af10e.png\"},{\"name\":\"爱咋咋地\",\"image\":\"https://i0.hdslb.com/bfs/garb/9c1c79a95bdad0f1f88a32ea1c99c4da6b1ae401.png\"},{\"name\":\"兔子滚球\",\"image\":\"https://i0.hdslb.com/bfs/garb/77d9b0ba59e7e194c211097c3ff05611d7dd4444.png\"},{\"name\":\"遥望地球\",\"image\":\"https://i0.hdslb.com/bfs/garb/4d2953deea3c4703322e818b57e5f3965468f01a.png\"},{\"name\":\"给你心心\",\"image\":\"https://i0.hdslb.com/bfs/garb/9365c5fd8b98155c36356f649b6eec25c02b98a3.png\"},{\"name\":\"比耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c5fe5875987cc1c9e6cf14b3989b227608fa653.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b71f6503bd441585c5a664488d0f072274c2d8f.png\"},{\"name\":\"送你玫瑰\",\"image\":\"https://i0.hdslb.com/bfs/garb/d27c5e7a2d96183bbfa6e3a8aa0354ffdd622e49.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/26b757618f08141c5b3b4b72250bc68acc88fa1c.png\"},{\"name\":\"都是浮云\",\"image\":\"https://i0.hdslb.com/bfs/garb/599c2b77c2126eb068ba8c1eee65810586569c84.png\"},{\"name\":\"远程观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f8e80e7714f6c603d0c23cdfd3f9d20528e903d.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

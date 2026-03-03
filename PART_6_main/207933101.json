@@ -16,14 +16,11 @@
 		"item_id_card":"1710817116001",
 		"item_id_emoji_package":"1710750337001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"23333",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2079331012",
 		"sale_sku_id_2":"2079331011",
 		"sale_time_begin":"1711879200",
@@ -81,20 +78,12 @@
 				"name":"愚人节小黄豆",
 				"suit_item_id":207933101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6a02ec0ca877abbb247bbbc564a8aaa0ede03cf8.png",
 					"item_emoji_list":"[{\"name\":\"皮戳子\",\"image\":\"https://i0.hdslb.com/bfs/garb/56e124ffd153e1f33c675d1de569861c760eb3b5.png\"},{\"name\":\"好笑吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/7339452bb86b84dff7a2646d48384dc5415e3eee.png\"},{\"name\":\"开玩笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/9134dc4f3ad9b57c532038f3462542d1f0d67a03.png\"},{\"name\":\"往哪跑\",\"image\":\"https://i0.hdslb.com/bfs/garb/2662be3c16579abc991c60ed32bc25c281950245.png\"},{\"name\":\"run\",\"image\":\"https://i0.hdslb.com/bfs/garb/faeeb87ee6833122eed985b1a139fee95c2c9979.png\"},{\"name\":\"对不起\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f4aa7ce1f93e73297227b493b935ae8456d07e3.png\"},{\"name\":\"芥末\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3a772223f872ac86c048308ec653782334c2465.png\"},{\"name\":\"愚人节快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a9af7dd494d15e84b5d70cd63e3c075f85b7bbc.png\"},{\"name\":\"牙膏\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ced41b04ff0047047b5bea3c7bb7a593ee04acc.png\"},{\"name\":\"小丑\",\"image\":\"https://i0.hdslb.com/bfs/garb/458ff0673410c382e47d9e21a7e9a1e062586535.png\"},{\"name\":\"不开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5bc1a541989bf905c64a7161e7fb1e0daa1f3bc.png\"},{\"name\":\"太小了\",\"image\":\"https://i0.hdslb.com/bfs/garb/94359558f51f3351db6ff876bfcdba2a5d194b41.png\"},{\"name\":\"太大了\",\"image\":\"https://i0.hdslb.com/bfs/garb/890d41f08d2e586d68452cd75d815fe06b1a9964.png\"},{\"name\":\"刚刚好\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae847f169ad899ad69e8288337b24e961d774f3a.png\"},{\"name\":\"扭曲\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9ee9abc2114bf219d8c98d13f4b1023a84dcc07.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

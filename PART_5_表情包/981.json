@@ -5,19 +5,12 @@
 	"group_name":"异常生物见闻录",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"reply,dynamic,watch_full",
 		"comment":"同步数据",
 		"image":"https://i0.hdslb.com/bfs/emote/545b7740869d2f9bd04fb45de751d6aff99c3924.png",
 		"item_ids":"920,921,922,923,924,925,926,927,928,929,930,931,932,933,934,935,936,937,938,939,940",
-		"permanent":"fasle",
-		"recently_used":"false",
-		"recommend":"fasle",
-		"removable":"true",
 		"sale_type":"vip",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

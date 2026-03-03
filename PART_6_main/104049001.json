@@ -16,14 +16,11 @@
 		"item_id_card":"1675930262001",
 		"item_id_emoji_package":"1675930385001",
 		"owner_uid":"389894527",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1040490012",
 		"sale_sku_id_2":"1040490011",
 		"sale_time_begin":"1676528120",
@@ -81,20 +78,12 @@
 				"name":"缺德猫",
 				"suit_item_id":104049001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5a996bcf2408a95ca17dad0cb2ef13593f89b01f.png",
 					"item_emoji_list":"[{\"name\":\"嗐嗨嗐\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac3340281d5e39189b51a38d42e1ce7959755e0d.png\"},{\"name\":\"嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/d843e099c8170ec06c7d826ca7cca13df5d836a3.png\"},{\"name\":\"两副面孔\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ca7fbfc338bb43e1792741db37591a14181aca5.png\"},{\"name\":\"坏笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/259b395f66a48f2187df86c58ecd9f1e841a529b.png\"},{\"name\":\"嘿嘿小鱼干\",\"image\":\"https://i0.hdslb.com/bfs/garb/4bf0deee5746ee1f8670dda13ee61bdc5554cf06.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca4d1c9ab20513d8cf3189b4b2843a875ad7df8b.png\"},{\"name\":\"乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/deffa6ad7351f00d008389060cb5397623b8de55.png\"},{\"name\":\"查岗\",\"image\":\"https://i0.hdslb.com/bfs/garb/066fd236b8d40afc9827855ce91fd77223c1b155.png\"},{\"name\":\"闭嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/92f501d992e1b14d485ffeda0dd1dfbbddb4b4c5.png\"},{\"name\":\"发现目标\",\"image\":\"https://i0.hdslb.com/bfs/garb/a62c781ae9a5e7c60e8c40d9f07f6db9f1931113.png\"},{\"name\":\"强者的肯定\",\"image\":\"https://i0.hdslb.com/bfs/garb/f6d5e2a11aa1d30789bd4adcd04d5566a0307143.png\"},{\"name\":\"亮爪\",\"image\":\"https://i0.hdslb.com/bfs/garb/681887fa620fad2dfab7b0eb1aca51e48e23ed4f.png\"},{\"name\":\"安详\",\"image\":\"https://i0.hdslb.com/bfs/garb/b33ac507b00c4620b20c7038ad5f224b016ff6f2.png\"},{\"name\":\"打没打内\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a3b887bb9592a8609af9aeb870822d737e08c82.png\"},{\"name\":\"不通过\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f7fdd6e3a2493b054217e81629c289789c6fdd1.png\"},{\"name\":\"面露难色\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb1d1c3d259094a35baea425c2d598fefddbe906.png\"},{\"name\":\"哈？\",\"image\":\"https://i0.hdslb.com/bfs/garb/664c6f3693d2ade88a24368aa4bff11df82a5884.png\"},{\"name\":\"爱我怕了吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/48a4a45c3c4130e1899ba5e22ffc13a394ac67a0.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/0531a996419e93d358ee70b4723716c1f0bd3dea.png\"},{\"name\":\"困了\",\"image\":\"https://i0.hdslb.com/bfs/garb/faa028d8df1af515644e09bfa442d13056000741.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -5,19 +5,11 @@
 	"group_name":"殿光镜影",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/bee9e06e57160343d70cd8f5a58c85c4e2179bde.png",
 		"item_ids":"64259,64260,64261,64262,64263,64264,64265,64266,64268,64269,64270,64271,64272,64273,64274,64275,64277,64278,64279,64280,64281,64282,64283,64284,64285",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

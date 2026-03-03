@@ -16,14 +16,11 @@
 		"item_id_card":"1733820634001",
 		"item_id_emoji_package":"1733889267001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2346483012",
 		"sale_sku_id_2":"2346483011",
 		"sale_time_begin":"1734077490",
@@ -81,21 +78,13 @@
 				"name":"围炉夜话",
 				"suit_item_id":234648301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/27402e5503760b2a674223ebe22b8b3d40f2cf73.png",
 					"item_emoji_list":"[{\"name\":\"放爆竹\",\"image\":\"https://i0.hdslb.com/bfs/garb/12e5fb9584913312d44e339bf7b55d6451514411.png\"},{\"name\":\"放灯\",\"image\":\"https://i0.hdslb.com/bfs/garb/014f0fc12a7470490a03eb04710c58881af464f3.png\"},{\"name\":\"披风兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/2160a9a1146f3e70f81c387becc425effd8c6d2a.png\"},{\"name\":\"虎头帽\",\"image\":\"https://i0.hdslb.com/bfs/garb/86d3f06ced2f9ef00a1fcdb2d78d33c45ba8bd31.png\"},{\"name\":\"雪兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/347c0958762fd645a6bffdf6010d63a5246656ad.png\"},{\"name\":\"吃糖葫芦\",\"image\":\"https://i0.hdslb.com/bfs/garb/a96469cd59e1277b28b0441628513968491d7f68.png\"},{\"name\":\"滚雪球\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca163af0207405474aaecc87a866845d3cdfe49f.png\"},{\"name\":\"左喝茶兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec36a2334163373fbcd6dc25ca2f7a36eca5f7d8.png\"},{\"name\":\"桌子\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9b8aa326d355d587d0fd75e0707e450e8eda36b.png\"},{\"name\":\"右喝茶兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ee077502131852336c391a4cb71a5aa46291e5b.png\"},{\"name\":\"火堆\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d4f2aa84963d032ec402bc29ef590e9ee4fb992.png\"},{\"name\":\"撑伞\",\"image\":\"https://i0.hdslb.com/bfs/garb/6500955834910d57ccf043f2b9e15058e91df05e.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/4fff966aac6641205a3c594a52a0f4e289ba40ea.png\"},{\"name\":\"吹笛子\",\"image\":\"https://i0.hdslb.com/bfs/garb/aeac3a27d8def83f6972dac5ad45d05f5dbf3515.png\"},{\"name\":\"吃红薯\",\"image\":\"https://i0.hdslb.com/bfs/garb/299c12880a734c96552a829b7eab9583507b4946.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

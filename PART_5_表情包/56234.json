@@ -5,14 +5,11 @@
 	"group_name":"水果动物园",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/garb/item/443f26e030b8c80e61f995daed72534c24a5daaf.png",
 		"item_ids":"56235,56236,56237,56238,56239,56240,56241,56242,56243,56244,56245,56246,56247,56248,56249,56250,56251,56252,56253,56254",
-		"removable":"true",
 		"sale_type":"pay",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

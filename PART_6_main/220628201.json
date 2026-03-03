@@ -16,14 +16,11 @@
 		"item_id_card":"1721290943001",
 		"item_id_emoji_package":"1721290305001",
 		"owner_uid":"3494364170947008",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2206282012",
 		"sale_sku_id_2":"2206282011",
 		"sale_time_begin":"1721883600",
@@ -81,21 +78,13 @@
 				"name":"少女柠檬茶",
 				"suit_item_id":220628201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/27db4b828b7926f94e03696422416bcfe433356c.png",
 					"item_emoji_list":"[{\"name\":\"探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/0bc4cfc229e0c6b29b486af0d88e68847b368105.png\"},{\"name\":\"茶否\",\"image\":\"https://i0.hdslb.com/bfs/garb/273c38ac0f213e6eda663e5b265c2c520608b8b5.png\"},{\"name\":\"舔柠檬\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9e18b8f5f808981e80b69f729c761c7bc668335.png\"},{\"name\":\"酸\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0499d7a185889960f3dde3c26f88566c0c60930.png\"},{\"name\":\"优雅\",\"image\":\"https://i0.hdslb.com/bfs/garb/e922688d525702fd168b7aec37c231abe8f66376.png\"},{\"name\":\"上头\",\"image\":\"https://i0.hdslb.com/bfs/garb/68f7d16491b417a9c5b737845288191f1d202480.png\"},{\"name\":\"吨吨吨\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2ba1ec18a8dd697e753b8a04838db4d5d3707ff.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/3fd9e554d5263440de0df2b21a62aa0bb5c7f84c.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbbbf0733eaeaea3ba858902c1a76ec528525ff1.png\"},{\"name\":\"恶俗啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ccbb1d0e758306a1ccb7a03205fbca7a37bd9de.png\"},{\"name\":\"好重口\",\"image\":\"https://i0.hdslb.com/bfs/garb/d65f5bc5871b5df6b5529a70a783e6e4b2791dd8.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/83cca48c65f7a6bbf7c155339ff36a52c61549fd.png\"},{\"name\":\"喝茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/aaf294e578ac3c07a2c5eff753097bc74e81ed0d.png\"},{\"name\":\"美味\",\"image\":\"https://i0.hdslb.com/bfs/garb/384be45cda61f6d9783e9ada62c889b300570ff9.png\"},{\"name\":\"泪目\",\"image\":\"https://i0.hdslb.com/bfs/garb/5cb34fc6151c8892c9eeea309620c6965f362cef.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

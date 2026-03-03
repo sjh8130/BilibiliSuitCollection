@@ -16,14 +16,11 @@
 		"item_id_card":"1683901343001",
 		"item_id_emoji_package":"1683901526001",
 		"owner_uid":"1732540672",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1132680012",
 		"sale_sku_id_2":"1132680011",
 		"sale_time_begin":"1687861790",
@@ -81,20 +78,12 @@
 				"name":"喵喵精英团",
 				"suit_item_id":113268001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/235acbaa52355fe05cf667de041c6ac02d850c3c.png",
 					"item_emoji_list":"[{\"name\":\"1\",\"image\":\"https://i0.hdslb.com/bfs/garb/afe39d5e33178b3333aa709b2e49dfe651891fea.png\"},{\"name\":\"2\",\"image\":\"https://i0.hdslb.com/bfs/garb/d562a62820410f066113e4db9ecf995fb26c6f02.png\"},{\"name\":\"3\",\"image\":\"https://i0.hdslb.com/bfs/garb/d33575de6d3188e591ee8f250a6343da01eab55f.png\"},{\"name\":\"4\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7c8f6270274b2548ff004bddcbd186df37b7e18.png\"},{\"name\":\"5\",\"image\":\"https://i0.hdslb.com/bfs/garb/be372f3487bab83462480907dda89a6bba42e973.png\"},{\"name\":\"6\",\"image\":\"https://i0.hdslb.com/bfs/garb/0cb682871625eed56b945ac9c5ad536c1b8eef10.png\"},{\"name\":\"减号\",\"image\":\"https://i0.hdslb.com/bfs/garb/ffa01e333226726b6297caa0dfe603c47599502c.png\"},{\"name\":\"加号\",\"image\":\"https://i0.hdslb.com/bfs/garb/bda2dad1deb15e21c9f9e528ef71c5764a6b07f5.png\"},{\"name\":\"除号\",\"image\":\"https://i0.hdslb.com/bfs/garb/cabc3d655e772597a60e4edbf86fee39407512c3.png\"},{\"name\":\"乘号\",\"image\":\"https://i0.hdslb.com/bfs/garb/9227d852b1afa1142b05217c59289d294a501218.png\"},{\"name\":\"小于号\",\"image\":\"https://i0.hdslb.com/bfs/garb/33274a196d83841bc4058e5674889dddf3e0a5ba.png\"},{\"name\":\"大于号\",\"image\":\"https://i0.hdslb.com/bfs/garb/e36310b9f73112587ba887d86e3c58483884bbd4.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/1426976779fd7d4069c8d99b4f4f1a6353552a23.png\"},{\"name\":\"扛不住啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/2106451729cc6eec7a1e18f9e284e7590f9181ac.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/621fab78dc1cae5c45bcbed97ab6eb5f0b2c69e4.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

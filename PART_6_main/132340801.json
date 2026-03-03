@@ -16,14 +16,11 @@
 		"item_id_card":"1700371419001",
 		"item_id_emoji_package":"1700115791001",
 		"owner_uid":"23155481",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1323408012",
 		"sale_sku_id_2":"1323408011",
 		"sale_time_begin":"1701435600",
@@ -82,20 +79,12 @@
 				"name":"fa",
 				"suit_item_id":132340801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/44b982780574c8bd8f2af95ebe3ccef36b6cdf39.png",
 					"item_emoji_list":"[{\"name\":\"下饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/0575dd181a966a18d9b098e6c76faa06c0057ec0.png\"},{\"name\":\"乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/55ba88cd912612d079ed98be9d69e4ea5a53ddfc.png\"},{\"name\":\"典\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0c73da341e5d5f12fe14ccc0087e5a81830c04a.png\"},{\"name\":\"超\",\"image\":\"https://i0.hdslb.com/bfs/garb/9eb28cf8614237bae2763691a2c97ee550fd62ab.png\"},{\"name\":\"哭闹\",\"image\":\"https://i0.hdslb.com/bfs/garb/7702b28f70ce48ab184aa18610d0592f5ec1303f.png\"},{\"name\":\"绷\",\"image\":\"https://i0.hdslb.com/bfs/garb/32df9b303c3c69221c93047caeda4d5d6dbe1aa5.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/f45679cc3a657b70bff949678e02d33bb5e22e7d.png\"},{\"name\":\"撕\",\"image\":\"https://i0.hdslb.com/bfs/garb/5927a41cbd9594a34cd1a4571004ed2731272adb.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/92b02c9696dd25095f5eace29bcbb2ab7179f1df.png\"},{\"name\":\"困\",\"image\":\"https://i0.hdslb.com/bfs/garb/1bec3b17b3992eda45ce76ec79eef45000c4d4c1.png\"},{\"name\":\"能打架\",\"image\":\"https://i0.hdslb.com/bfs/garb/cad94e49bc7d69a43270f938d4ed92816a532c11.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/18d3e401c906506d612e0a6dd5fb3bbed713d1d6.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fd115bdfd80541e5a8c2d15845f68d9e2ced663.png\"},{\"name\":\"迷茫\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7500865aee453bf07f6cf9de9929bbea03215c9.png\"},{\"name\":\"我\",\"image\":\"https://i0.hdslb.com/bfs/garb/fa3e4b62cd6171ce4b60ccc6210873e22a9a263d.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1688548378001",
 		"item_id_emoji_package":"1688548496001",
 		"owner_uid":"39880378",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"20",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1212456012",
 		"sale_sku_id_2":"1212456011",
 		"sale_time_begin":"1691208000",
@@ -81,20 +78,12 @@
 				"name":"黑猫饭饭",
 				"suit_item_id":121245601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/bcc6dc1b9df6e429ed747ded0487b55ead5a60c0.png",
 					"item_emoji_list":"[{\"name\":\"三连\",\"image\":\"https://i0.hdslb.com/bfs/garb/425d1af0d40ed0ba012904e73d3dedba25847c83.png\"},{\"name\":\"夺笋\",\"image\":\"https://i0.hdslb.com/bfs/garb/3dfbbaae6382dea5d1ca33019dc7a4ca16444530.png\"},{\"name\":\"？\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ec6cab4cdda6fcf6fbe4ae1d93cd0e1b26a11b3.png\"},{\"name\":\"完结撒花\",\"image\":\"https://i0.hdslb.com/bfs/garb/14f139d3e687b4093e681dded8a8d9e787aa23d1.png\"},{\"name\":\"哭了\",\"image\":\"https://i0.hdslb.com/bfs/garb/866050b08216434e7dcae74242f401330c335730.png\"},{\"name\":\"awsl\",\"image\":\"https://i0.hdslb.com/bfs/garb/b9b5b20e0211f5ccfef0bfd7a5ce196df34693d6.png\"},{\"name\":\"爱了\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba023a40754f3f655b896ddedb6fdb051afac20d.png\"},{\"name\":\"燃起来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/43927bfb0bfbb93ad7b89ccd9052fdb24663103f.png\"},{\"name\":\"裂开了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c56d51ab5d1423bc0e643dfc37825ed5725c50c0.png\"},{\"name\":\"下次一定\",\"image\":\"https://i0.hdslb.com/bfs/garb/f54bf8d357026f33a0d5ed9811f711b96094b440.png\"},{\"name\":\"吹爆\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b684544cbca8a59811f358324fedc01fc6b3110.png\"},{\"name\":\"可\",\"image\":\"https://i0.hdslb.com/bfs/garb/5558e6b23bf73195fbd5eafd4efd027ca0b9d1e6.png\"},{\"name\":\"吐血\",\"image\":\"https://i0.hdslb.com/bfs/garb/946ee5777bb0ceb13789aab32d80494d67c5ba18.png\"},{\"name\":\"啊这\",\"image\":\"https://i0.hdslb.com/bfs/garb/20b086b86f14b3f3dadcdb1b8f317d729f73ccbf.png\"},{\"name\":\"emmm\",\"image\":\"https://i0.hdslb.com/bfs/garb/029cd96ee4ca1a4df766dce9841c4e0f28c72eb4.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

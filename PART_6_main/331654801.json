@@ -16,14 +16,11 @@
 		"item_id_card":"1762941979001",
 		"item_id_emoji_package":"1762940400001",
 		"owner_uid":"670729222",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3316548012",
 		"sale_sku_id_2":"3316548011",
 		"sale_time_begin":"1763435551",
@@ -81,21 +78,13 @@
 				"name":"来份乌鸦",
 				"suit_item_id":331654801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/273c90167b5599c7b72a4cb213b80f7230d7e1e5.png",
 					"item_emoji_list":"[{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/4251c1d952fda25c15d96c9baef782f6f02c0eb7.png\"},{\"name\":\"叫\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a60275f32eba4da4b1741b0baa172e1802cffd1.png\"},{\"name\":\"走路\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9b3322b7c6d19270d611b1e62f19d2f8dc5b046.png\"},{\"name\":\"？\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf5633f8688c99f5453e44dc1008f6a60cee6a3b.png\"},{\"name\":\"拿捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d671b12d3877c9aa6404731846604d9e2631c01.png\"},{\"name\":\"吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/f794b304b54d15c443341083ea9dfff38f39e246.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/46af5cfb93b177848c1f17ab89e7ec7892a792d6.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/83f5989cdbc0c0eaf683c431f8086d92b6915768.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/ddefa3f0ad597c15ad6bddcc12548386884a69ae.png\"},{\"name\":\"飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/edd906d388b5453da2c3f1dd17213ee9a5847e9b.png\"},{\"name\":\"炸毛\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a0cfdae0163ffce81cdf936b0543e6716174a1f.png\"},{\"name\":\"扁扁\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2a4c388c010dfb141e6396e7d44466b5ea227fc.png\"},{\"name\":\"OVO\",\"image\":\"https://i0.hdslb.com/bfs/garb/35f72e18a222962dfac6f8f3ce3bee228eb9475a.png\"},{\"name\":\"滑铲\",\"image\":\"https://i0.hdslb.com/bfs/garb/99e972d05d6cefa85cfc06028d90d4d3f4c10705.png\"},{\"name\":\"吐魂\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ec350431e8f4acf692d53799e34deada780a706.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

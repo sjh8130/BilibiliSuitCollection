@@ -16,14 +16,11 @@
 		"item_id_card":"1716262160001",
 		"item_id_emoji_package":"1716262164001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"51",
 		"sale_quantity":"5200",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2143306012",
 		"sale_sku_id_2":"2143306011",
 		"sale_time_begin":"1716433729",
@@ -81,20 +78,12 @@
 				"name":"电子女鹅",
 				"suit_item_id":214330601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ab76761949a6c1783c676ee754e4b68f0a6e2210.png",
 					"item_emoji_list":"[{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/a033300a2dde64351c38bd293811f335520fd9ba.png\"},{\"name\":\"打招呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1452667d4d04dcdd7c7d16fb23c01360924a992.png\"},{\"name\":\"冲啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/719095004088a22eed7618ca770f55a286ddbbcd.png\"},{\"name\":\"渴望\",\"image\":\"https://i0.hdslb.com/bfs/garb/6dc90c1acc21ba71e4f2fce8557673b4e724f388.png\"},{\"name\":\"学习\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6e914b10d70637d81c170358f1e54a1ad5e78ed.png\"},{\"name\":\"吃饭中\",\"image\":\"https://i0.hdslb.com/bfs/garb/34c00c1192d935b0d73468d80cc71c322e9b0c4b.png\"},{\"name\":\"下午茶中\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c29af40d3774a4639437f751510b50f4b09b87e.png\"},{\"name\":\"摸摸中\",\"image\":\"https://i0.hdslb.com/bfs/garb/23c4996f52c701a74d445b2d2d05ce01d9e789e0.png\"},{\"name\":\"换装中\",\"image\":\"https://i0.hdslb.com/bfs/garb/0516438abcdbc27842bf1a2be9283ed4d2435ce1.png\"},{\"name\":\"游戏中\",\"image\":\"https://i0.hdslb.com/bfs/garb/366a1ad88a0c421846aa84bc9f5523becc221014.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/d3f9e38600d8b3dfcf1c3a54e79cc7fb04b30cc9.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/29a1650dcf7371c446f943a3efc36086e81fab22.png\"},{\"name\":\"小猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1c4c85c470795ec14be8ba0f1f9161cc426ee04.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/3851245d3a8abf6f08f65eff69a3bd191c8339e4.png\"},{\"name\":\"心动\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e077e9a1437f74fbfa456f9fc03725e7e98ac76.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

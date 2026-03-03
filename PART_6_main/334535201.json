@@ -16,14 +16,11 @@
 		"item_id_card":"1765358301001",
 		"item_id_emoji_package":"1765359016001",
 		"owner_uid":"3494364170947008",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"1000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3345352012",
 		"sale_sku_id_2":"3345352011",
 		"sale_time_begin":"1765616740",
@@ -81,21 +78,13 @@
 				"name":"真不错鸦",
 				"suit_item_id":334535201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/960da3f648f4c5358ba63b70e5d8a178b750b509.png",
 					"item_emoji_list":"[{\"name\":\"真哭了鸦\",\"image\":\"https://i0.hdslb.com/bfs/garb/45c4ccce4dde0ad533210d366a50532f6066e69b.png\"},{\"name\":\"生气鸦\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1f1e465e9f308a3853f71e11b8f860baeb0a247.png\"},{\"name\":\"睡着了鸦\",\"image\":\"https://i0.hdslb.com/bfs/garb/be5178ebf4ac749fc440b552eda48288f29d6596.png\"},{\"name\":\"好靓鸦\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc91bc2cf1fada0da24d3531a0b222c33f7c41a3.png\"},{\"name\":\"鸦打\",\"image\":\"https://i0.hdslb.com/bfs/garb/5da8bd185b371055fd1e39d2a2f5bfdadf78a13d.png\"},{\"name\":\"讨厌鸦\",\"image\":\"https://i0.hdslb.com/bfs/garb/b1cee04924e1db07cc60ccbfb66da8ee353da779.png\"},{\"name\":\"绅士鸦\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e70a1404ea9354477aacf6f3c99e6d46c945417.png\"},{\"name\":\"坏了鸦\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac82335f6badcee7d12ca72ec962b95f9c9fb8cf.png\"},{\"name\":\"鸦啤\",\"image\":\"https://i0.hdslb.com/bfs/garb/bfa868b3d889b5e17be71458e3f82d4eebab873a.png\"},{\"name\":\"抱歉鸦\",\"image\":\"https://i0.hdslb.com/bfs/garb/de861abf58685cfee4bba8f8d793d7b11012fce1.png\"},{\"name\":\"盯鸦\",\"image\":\"https://i0.hdslb.com/bfs/garb/a74aa9b25c10cfaf90a0cfdc40130b796a60e59e.png\"},{\"name\":\"蒜了鸦\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd773ca80ad8e3f1ecaed5e05b1ca9ba58940ceb.png\"},{\"name\":\"期待鸦\",\"image\":\"https://i0.hdslb.com/bfs/garb/4699634500f4731f22ede3f26228b3809bf5da4f.png\"},{\"name\":\"嚣张鸦\",\"image\":\"https://i0.hdslb.com/bfs/garb/1511fcc2439e33bb2a586b173f5f5a502f556d3d.png\"},{\"name\":\"信鸦\",\"image\":\"https://i0.hdslb.com/bfs/garb/388d54426ca5aa8df02f5f73f3ce0848b34ec6c5.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

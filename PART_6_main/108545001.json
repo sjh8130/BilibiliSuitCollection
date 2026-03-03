@@ -16,14 +16,11 @@
 		"item_id_card":"1679812254001",
 		"item_id_emoji_package":"1679810326001",
 		"owner_uid":"174501086",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"50000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1085450012",
 		"sale_sku_id_2":"1085450011",
 		"sale_time_begin":"1680001200",
@@ -81,20 +78,12 @@
 				"name":"2233赏樱时节",
 				"suit_item_id":108545001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/54ad6b836e1d9ff98075b94c0bed891bd16145c9.png",
 					"item_emoji_list":"[{\"name\":\"发射爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/b4c137cf2e0689c4f207c2b116762d788f4d1fc5.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5b8897684eef56d91707aa397fe2cb29230c519.png\"},{\"name\":\"？？？\",\"image\":\"https://i0.hdslb.com/bfs/garb/d567866cf02598ef0c3d6c6b903ae41a39312099.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/46489a1e05e898d8dec075f27b6f470d4c08bf05.png\"},{\"name\":\"困困\",\"image\":\"https://i0.hdslb.com/bfs/garb/c708d666ef186630edecddefb03edf12eec9415e.png\"},{\"name\":\"灵魂出走\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d9506b2c5524f0ca1017451df9cd9ca4ef1bbcf.png\"},{\"name\":\"啊对对对\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e865f1d8d4f02d6b8f11b977aebcbfcf0e7987b.png\"},{\"name\":\"闪亮登场\",\"image\":\"https://i0.hdslb.com/bfs/garb/3396a857b6e1cf36dee230be8517d2bdb9657656.png\"},{\"name\":\"点点点\",\"image\":\"https://i0.hdslb.com/bfs/garb/d32fb37dc322b62d63c0ecde3f87859c8baacb26.png\"},{\"name\":\"喜欢喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f1116426234991abfa99b2feb3cb2520bcdcf1a.png\"},{\"name\":\"你好\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0f3286f7414d2fe83d0cb603b67dca0decba737.png\"},{\"name\":\"变欧喷雾\",\"image\":\"https://i0.hdslb.com/bfs/garb/2cafcec669f010bb31eac1f4defd89351852305c.png\"},{\"name\":\"流汗微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/55470939c5c1dfffbbc7a389b3534c26e6b47f01.png\"},{\"name\":\"啊~春天啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/1981b54037d2b36d91ed24c10d289dda9c46b209.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d9ed02f8f1af6adf30eb0087f75110914218985.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a0b59d845443f56b356e43c37ede1508072d14d.png\"},{\"name\":\"OKK\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2a653eef4742be11d66c3cd6d1afe7403d54c16.png\"},{\"name\":\"石化\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd602a4b4a4699f2f6765e68ab59101b2a45425e.png\"},{\"name\":\"不在\",\"image\":\"https://i0.hdslb.com/bfs/garb/47b9e2f707bb99d1861e19cffa37bb6321b2ef03.png\"},{\"name\":\"拜拜\",\"image\":\"https://i0.hdslb.com/bfs/garb/2dc37c0c2e3b9166928fa948a6a47bbb9688b943.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1718963264001",
 		"item_id_emoji_package":"1718962785001",
 		"owner_uid":"3494364170947008",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2176289012",
 		"sale_sku_id_2":"2176289011",
 		"sale_time_begin":"1719291600",
@@ -81,21 +78,13 @@
 				"name":"人格类型 rest",
 				"suit_item_id":217628901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/da2768c8f239ab44c03c50d42c9c79ee25f86e0f.png",
 					"item_emoji_list":"[{\"name\":\"床门\",\"image\":\"https://i0.hdslb.com/bfs/garb/05b9e06bda17dca20dd8c697a08f767686a47e7e.png\"},{\"name\":\"睡大觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6e54a599982ff2877d17a588aa9c1e1848cddd4.png\"},{\"name\":\"睡美人\",\"image\":\"https://i0.hdslb.com/bfs/garb/39952fb881c55e743e5b22b8e69018877821a0de.png\"},{\"name\":\"万睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/38c7036a6c227cff8d28faff15e2c3bdeef787e5.png\"},{\"name\":\"鳄梦\",\"image\":\"https://i0.hdslb.com/bfs/garb/79127bc930a1f73052f6c20c1dd518118a6f4d8f.png\"},{\"name\":\"起床\",\"image\":\"https://i0.hdslb.com/bfs/garb/d00dcce121d4e0f44f025605305114bcaeda9665.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b3f6e854eb01ec78aa890b979481e83509d81fc.png\"},{\"name\":\"醒了\",\"image\":\"https://i0.hdslb.com/bfs/garb/3129c854eb68309f34b1ca2a3daafa79a2a35886.png\"},{\"name\":\"早上好\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb36ce2653dbb8605e199835f33f56f97d1bd290.png\"},{\"name\":\"困得摇头\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3c3ade37f3bedf4b67e4aec673cbaedeefeb0df.png\"},{\"name\":\"昏昏浴睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d20e11e79d59cd03042b87f5cbd4cb8fc5d8619.png\"},{\"name\":\"打倒睡魔\",\"image\":\"https://i0.hdslb.com/bfs/garb/afd0d60be31430fa0462d8c0f619ac440e481ef3.png\"},{\"name\":\"打完了\",\"image\":\"https://i0.hdslb.com/bfs/garb/37cf7d67711b7ee722706997006d8c67cf6da82f.png\"},{\"name\":\"马上就睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/2fbed89c4ae44f1f408104510d5f56a12decc0d0.png\"},{\"name\":\"裹紧被子\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec5abd713d12262ad0d712d81bbd1b2ac1a83b94.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

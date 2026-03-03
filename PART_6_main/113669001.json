@@ -16,14 +16,11 @@
 		"item_id_card":"1684248968001",
 		"item_id_emoji_package":"1684249039001",
 		"owner_uid":"3461581786581601",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"3000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1136690012",
 		"sale_sku_id_2":"1136690011",
 		"sale_time_begin":"1684503000",
@@ -81,20 +78,12 @@
 				"name":"蟹蟹美食店",
 				"suit_item_id":113669001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/bbee6b62cd69356a72be32919059b8b6edda1480.png",
 					"item_emoji_list":"[{\"name\":\"中午吃什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/3d64988f4b1528677f01a8eff07bb574c31f9c60.png\"},{\"name\":\"晚上吃什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/719d2794697294b1e25445062743b5cf3c8786a8.png\"},{\"name\":\"淀粉肠\",\"image\":\"https://i0.hdslb.com/bfs/garb/27ed8d46aca7f518306426524abfc192b7ea0cbe.png\"},{\"name\":\"大鱿鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd2bb7aa4b332a65e1d3a3ddb03eff5d446ae1d0.png\"},{\"name\":\"羊肉串\",\"image\":\"https://i0.hdslb.com/bfs/garb/d12f430169efafe7afbff12d773f1663d9c9a884.png\"},{\"name\":\"地锅鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/eadc18533d01589a60ec2c2861141ea561b278c3.png\"},{\"name\":\"猫山王\",\"image\":\"https://i0.hdslb.com/bfs/garb/de47e2f7765a9083b71aa2287ddb981fb5f6cd61.png\"},{\"name\":\"pizza\",\"image\":\"https://i0.hdslb.com/bfs/garb/935e07ca6ce77c73c0f0b186b9330b75e6fe357e.png\"},{\"name\":\"小龙虾\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2383c8b222de5592d23a3f09f651e21817aa333.png\"},{\"name\":\"大鸡腿\",\"image\":\"https://i0.hdslb.com/bfs/garb/678c13b7470d7dc3422d9f26075dc8bd96da7631.png\"},{\"name\":\"生煎\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbb1f6a2e55de586c1ef0c623934c06542d79caf.png\"},{\"name\":\"火鸡面\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5f00a34fafc52cfde9b1abf35d05e5cdb8756d7.png\"},{\"name\":\"烤螃蟹\",\"image\":\"https://i0.hdslb.com/bfs/garb/2930a61e3879674c7fe43aca64b88ff744eccc41.png\"},{\"name\":\"蟹黄堡\",\"image\":\"https://i0.hdslb.com/bfs/garb/2aa6a1b4925f046a28359b3efb6756aa57b0d928.png\"},{\"name\":\"小猪蟹\",\"image\":\"https://i0.hdslb.com/bfs/garb/cbd7fcb2820df02a76b2b2292a6b5242dd02a0f4.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

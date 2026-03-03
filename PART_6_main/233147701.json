@@ -16,14 +16,11 @@
 		"item_id_card":"1732607343001",
 		"item_id_emoji_package":"1732607391001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"10",
 		"sale_quantity":"1000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2331477012",
 		"sale_sku_id_2":"2331477011",
 		"sale_time_begin":"1732763590",
@@ -81,21 +78,13 @@
 				"name":"曲奇碎卷卷",
 				"suit_item_id":233147701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f700482f9a6b9c3cc8299fcebd6e2f3926e0c1de.png",
 					"item_emoji_list":"[{\"name\":\"华夫饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/66d8cb5cd341ff0937a894a26867bbd01657cbf9.png\"},{\"name\":\"纸杯蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/303145f94b9af7ad8549c546531fa004c3baeafe.png\"},{\"name\":\"小熊饼干\",\"image\":\"https://i0.hdslb.com/bfs/garb/66999e41dc4febaff2a08db23915557b8ddc0ac7.png\"},{\"name\":\"小狗饼干\",\"image\":\"https://i0.hdslb.com/bfs/garb/6fd8bfce58d30fcdb517eeed69f9f1f86be1e62c.png\"},{\"name\":\"小猫饼干\",\"image\":\"https://i0.hdslb.com/bfs/garb/96deb006453284befc759cda924c725c9e6d1ac9.png\"},{\"name\":\"松饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/3699c03f784c093b47193aef53023e994c255bc2.png\"},{\"name\":\"一袋饼干\",\"image\":\"https://i0.hdslb.com/bfs/garb/6245d6def52ee7c54bc1c164cce5865f6dfc1231.png\"},{\"name\":\"袋装曲奇饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab260e7254848bdf5b8778a0e2c96c084e4bb9df.png\"},{\"name\":\"方饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d2483d9f391d00e3a2881fdbc8dd94cb194f065.png\"},{\"name\":\"方糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/c066b5d75fdd0b5b48ee810c6db0df00c69beb3e.png\"},{\"name\":\"圆饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/cdb46972ba9d5965a287cfb49225559b253a26a7.png\"},{\"name\":\"威化饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/034f3b30f25787963551d41f9c639a4f36a74e31.png\"},{\"name\":\"曲奇棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ed9003b6233ddf7722e6daa51af2677b5729eb0.png\"},{\"name\":\"夹心饼干\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf00e4b3bcdb6e1f89be30fecbebda3a00955009.png\"},{\"name\":\"蓝莓\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1d81b1147f2cf9c84a3ce613f204b9c04e3f6e3.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

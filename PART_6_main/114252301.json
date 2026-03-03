@@ -16,14 +16,11 @@
 		"item_id_card":"1685003204001",
 		"item_id_emoji_package":"1684747640001",
 		"owner_uid":"49701",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1142523012",
 		"sale_sku_id_2":"1142523011",
 		"sale_time_begin":"1687060800",
@@ -81,20 +78,12 @@
 				"name":"青灰緑",
 				"suit_item_id":114252301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8ab9a92a4e6d24e60ca8f152b325653f4ad27bae.png",
 					"item_emoji_list":"[{\"name\":\"赞赏\",\"image\":\"https://i0.hdslb.com/bfs/garb/229811ce5fd8f685a537ad22b8f7bfec9fc29de8.png\"},{\"name\":\"偷听\",\"image\":\"https://i0.hdslb.com/bfs/garb/3771e13f9508904fc32a67b577dd0e643f641ea5.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/c490d419692d8a8b2533e5c5a3a301675db0c7fe.png\"},{\"name\":\"呆住\",\"image\":\"https://i0.hdslb.com/bfs/garb/a6b9f8988e372d6abf8a79db8937c5d92b7cf16a.png\"},{\"name\":\"脑袋\",\"image\":\"https://i0.hdslb.com/bfs/garb/985d5ab34b33835282da672f23be1e9d42543b3e.png\"},{\"name\":\"布左\",\"image\":\"https://i0.hdslb.com/bfs/garb/a868995a83476db13f0e335d255ddade4647c8ee.png\"},{\"name\":\"布右\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b54fcab506f7eca92e032d16ef4090041eebb9c.png\"},{\"name\":\"剪刀左\",\"image\":\"https://i0.hdslb.com/bfs/garb/1071cd7279b9a6e932abf8ccbfdb70600fbe3c08.png\"},{\"name\":\"剪刀右\",\"image\":\"https://i0.hdslb.com/bfs/garb/125c602ce071b34644089c7242172af0715ce6a2.png\"},{\"name\":\"吃饭手左\",\"image\":\"https://i0.hdslb.com/bfs/garb/e909f50b9cdc9f3b69e959f684c360dee6c4226f.png\"},{\"name\":\"吃饭手右\",\"image\":\"https://i0.hdslb.com/bfs/garb/c55a2a823df8e8a28c694ab5d4833ffe8f37ed3a.png\"},{\"name\":\"正确手\",\"image\":\"https://i0.hdslb.com/bfs/garb/e795842f3fdb8f539f07249ab4e1dfd36d0e9666.png\"},{\"name\":\"错误手\",\"image\":\"https://i0.hdslb.com/bfs/garb/c25527530013790025dafd459615565d07e5b1af.png\"},{\"name\":\"心心\",\"image\":\"https://i0.hdslb.com/bfs/garb/2aaa6d870774720d82f04b5eaa33ee68f77e1b20.png\"},{\"name\":\"指你右\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b5d2b538fc45cf69ddf8de94a3ac0d1c5f84062.png\"},{\"name\":\"头\",\"image\":\"https://i0.hdslb.com/bfs/garb/94349e9aa185e3fd105ee8deaabe4f119b346747.png\"},{\"name\":\"身\",\"image\":\"https://i0.hdslb.com/bfs/garb/79480951e45a11901439dd919a7a3f5272e23be3.png\"},{\"name\":\"尾\",\"image\":\"https://i0.hdslb.com/bfs/garb/a80c9c67d5f54f819e45ae1c2b07c12d809355e7.png\"},{\"name\":\"石头左\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5ea0a06f5735a2f61ec6486c242f8c6ab66ba53.png\"},{\"name\":\"石头右\",\"image\":\"https://i0.hdslb.com/bfs/garb/f6566e436419629f7b9c22ac7356c54b7b8f8af8.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

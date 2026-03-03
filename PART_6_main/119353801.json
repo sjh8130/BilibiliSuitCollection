@@ -16,14 +16,11 @@
 		"item_id_card":"1689952889001",
 		"item_id_emoji_package":"1689144153001",
 		"owner_uid":"123927359",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1193538012",
 		"sale_sku_id_2":"1193538011",
 		"sale_time_begin":"1690196950",
@@ -81,20 +78,12 @@
 				"name":"茂之森",
 				"suit_item_id":119353801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7000dcff426c9cd3ead816b2fba102d73c51542b.png",
 					"item_emoji_list":"[{\"name\":\"大拇指\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f7cb7add3c99906858a25c9d45c4da95dea5176.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/62922c007436ea8e55902d58bbb96f41fc06d225.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/4053d189164d2b3fd804f4bdaaa7cf29351d11e5.png\"},{\"name\":\"诶嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f5f9b2cfdcf73d7c6088ea7cbdb0f867abd48f5.png\"},{\"name\":\"美好\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4771d340f4afc012cbdde5dcb2a0218e0ad843c.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0acf1299215e163de34aa92386f1ee68f95947a.png\"},{\"name\":\"送你花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/622f2d217a1ba5744adc1c3b85c30eec2f8f492c.png\"},{\"name\":\"躺\",\"image\":\"https://i0.hdslb.com/bfs/garb/1328daf01e90aa9f55b52a0d6360effe70f5647a.png\"},{\"name\":\"猫猫小憩\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe09507d888a2cd518b46123e17da0c4e1076ccc.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/d99ee272049ae6d4cd09a4b91a0448440e3ca4e6.png\"},{\"name\":\"森日快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/644a1e2c5677e56de63bb4b5225f0f5a8973415e.png\"},{\"name\":\"魔法药水\",\"image\":\"https://i0.hdslb.com/bfs/garb/8c6f03aa9c2115ab598683695dd6840ee6549bc6.png\"},{\"name\":\"撑伞\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5b62fef1c96254da7907820b429e3cb85f558f0.png\"},{\"name\":\"听雨\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca8909c36bd20f0c9b534380dbbc41e934d6e38d.png\"},{\"name\":\"雨中舞\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0ca0e10bd61cc228a6e27e067bcd0be44867add.png\"},{\"name\":\"画爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/68b774157c64a9ae62eede3db2581802643d7b7e.png\"},{\"name\":\"三彩丸子\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a4cb43eb2facc6f5552d4950a519bc75476a164.png\"},{\"name\":\"花仙宝宝唱\",\"image\":\"https://i0.hdslb.com/bfs/garb/23e3e5059fa47c52b124bc83ff586295c026554f.png\"},{\"name\":\"花仙宝宝困\",\"image\":\"https://i0.hdslb.com/bfs/garb/60e0b0b41ec65807176a72ed08fd52a0863ca96e.png\"},{\"name\":\"花仙宝宝乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/415115883432a64dd35307eba3990e808d0ca4e1.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

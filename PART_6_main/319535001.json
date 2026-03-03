@@ -16,14 +16,11 @@
 		"item_id_card":"1752212266001",
 		"item_id_emoji_package":"1752212438001",
 		"owner_uid":"3493136955345818",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3195350012",
 		"sale_sku_id_2":"3195350011",
 		"sale_time_begin":"1753437600",
@@ -81,21 +78,13 @@
 				"name":"甜品小奶狗",
 				"suit_item_id":319535001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/be8486b898be0759254fc45fd63b4fba6b4946f5.png",
 					"item_emoji_list":"[{\"name\":\"冰淇淋\",\"image\":\"https://i0.hdslb.com/bfs/garb/1732bb27f33cbf5d9a33c94411f2a7f471bf89ed.png\"},{\"name\":\"瑞士卷\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a13166bc927aa2c0f9dd30e00d14eee60e7286c.png\"},{\"name\":\"牛角面包\",\"image\":\"https://i0.hdslb.com/bfs/garb/7938834cc06f94ee6b9b41d43f0cff3e3949bbad.png\"},{\"name\":\"糖果\",\"image\":\"https://i0.hdslb.com/bfs/garb/3db9e5714e534b5ac9c988086b2a176438f4949f.png\"},{\"name\":\"微波炉\",\"image\":\"https://i0.hdslb.com/bfs/garb/e2649de67cbd7f46943d475cbc76eede56ad28dc.png\"},{\"name\":\"蝴蝶酥\",\"image\":\"https://i0.hdslb.com/bfs/garb/c184d10d339cb278eafbbae866fd84ebfbf75842.png\"},{\"name\":\"布丁\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0b63dad4f6db6d9be5bcf8f17b8df3291bb85e4.png\"},{\"name\":\"面包\",\"image\":\"https://i0.hdslb.com/bfs/garb/c62bc4e5ceae4d0ec861870ef03b5c6d2ca491e9.png\"},{\"name\":\"曲奇\",\"image\":\"https://i0.hdslb.com/bfs/garb/f703c3d9193244dc630094e465182382969c0238.png\"},{\"name\":\"小饼干\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1440d1ea8317ce5a68eed1bede403bfad06bb70.png\"},{\"name\":\"蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/1861607bab2c96123c15a5a39c6f60e56a89d225.png\"},{\"name\":\"马卡龙\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ad70fcb9edb01a31c07cbc2a1aa3dac4b58717f.png\"},{\"name\":\"甜甜圈\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9bb9b4871f85dbffa161d8948561402c9afdd9c.png\"},{\"name\":\"棒棒糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/fb3136d3446a6bf5af4c3cdb24b3b7ec2ef20c3b.png\"},{\"name\":\"蓝莓\",\"image\":\"https://i0.hdslb.com/bfs/garb/360e33705cd0c6464e983e55330104dc3c48f427.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

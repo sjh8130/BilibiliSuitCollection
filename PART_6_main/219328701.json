@@ -16,14 +16,11 @@
 		"item_id_card":"1720073722001",
 		"item_id_emoji_package":"1720073563001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2193287012",
 		"sale_sku_id_2":"2193287011",
 		"sale_time_begin":"1720754590",
@@ -81,21 +78,13 @@
 				"name":"夏威夷小黄豆",
 				"suit_item_id":219328701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b94bce9713ab3f2dca987c811aec91db9d2a3b81.png",
 					"item_emoji_list":"[{\"name\":\"美黑椰汁\",\"image\":\"https://i0.hdslb.com/bfs/garb/82fe6155a940806a6678bf131cf56ed1329d6e37.png\"},{\"name\":\"舔柠檬\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ed7e8d3d9c18c930df8e66a93e7f6c24e7cbf00.png\"},{\"name\":\"齁栓\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f08c411f3531e0575094f1d82db153b93e4240f.png\"},{\"name\":\"耶比\",\"image\":\"https://i0.hdslb.com/bfs/garb/079205277a6d33ecc35f0a6465ef7c10d9b38fe1.png\"},{\"name\":\"耶耶耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc83ad10ad309789dceca0bcf10d4ccb009a5532.png\"},{\"name\":\"美黑舞\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e008c55a0400e6f7de62a60bbfd543f02a3cf81.png\"},{\"name\":\"哦耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/90efd71d13532156a190f6f850dd2c37a3eafd83.png\"},{\"name\":\"大事不妙\",\"image\":\"https://i0.hdslb.com/bfs/garb/5648055491efe0085c3328b715936de669e4eb06.png\"},{\"name\":\"螃蟹\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f8ec723a40bd621bb762f8a927067d4fd7bd086.png\"},{\"name\":\"豆星\",\"image\":\"https://i0.hdslb.com/bfs/garb/71d1a32ec20145b1c22ccf2a1e64243bd0d3cc9a.png\"},{\"name\":\"美人舞\",\"image\":\"https://i0.hdslb.com/bfs/garb/51c90b7910544cb2734e29c8db733e5d0b8028ef.png\"},{\"name\":\"敷面膜\",\"image\":\"https://i0.hdslb.com/bfs/garb/770ec9ca4e51a49da32a2c70108772362a1bf8da.png\"},{\"name\":\"难评\",\"image\":\"https://i0.hdslb.com/bfs/garb/baf9c17989c02a6616f22a9849ecce861ecf9251.png\"},{\"name\":\"豆沙\",\"image\":\"https://i0.hdslb.com/bfs/garb/45960ed7e57aaa96e4d17b4b8d455ecd587e71df.png\"},{\"name\":\"热舞\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2de28576e0361f6a011ed3aef33073539c42a37.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

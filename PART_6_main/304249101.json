@@ -16,14 +16,11 @@
 		"item_id_card":"1739244225001",
 		"item_id_emoji_package":"1739170469001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3042491012",
 		"sale_sku_id_2":"3042491011",
 		"sale_time_begin":"1739427440",
@@ -81,21 +78,13 @@
 				"name":"列车猫猫",
 				"suit_item_id":304249101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2bb12ec285c04889250c8a6cb4e0395de44f46b9.png",
 					"item_emoji_list":"[{\"name\":\"吹泡泡\",\"image\":\"https://i0.hdslb.com/bfs/garb/8297166d3d37b3ebe37416a10912fe7c97763271.png\"},{\"name\":\"戳泡泡\",\"image\":\"https://i0.hdslb.com/bfs/garb/866392c93cdb0bc1889ff84f1a4f1cc8631077c5.png\"},{\"name\":\"求原谅\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8b30a46b2414eafd7cc05bb56eb72b7b3f055cd.png\"},{\"name\":\"流泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/1365fafc6d0b0df6c06a8900f98bcaead9ae1776.png\"},{\"name\":\"应援\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9065fafc844c27ce5a030e765cfa4fe4a63e151.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/56f23130bef24b0534182670fddbdbca62922d22.png\"},{\"name\":\"别走\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc653d22fcbd32cfb8cde85da1ce0e03ebb58346.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/97b5f1e8518682b28818d34fd00d9c20ba735c76.png\"},{\"name\":\"开心扭捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/f660c3e9d9f8dcf1d6a26767a2e03b4746165252.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/481be01a9a2c108cbb8ccbc71a5695c1e558580b.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/276694a1372311e7a0a0a0b94d16675a2835ff03.png\"},{\"name\":\"打招呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/690c257deb111da4bd36aa092bf5b1f02378b7f1.png\"},{\"name\":\"爆炸按钮\",\"image\":\"https://i0.hdslb.com/bfs/garb/edfba4799669610e11901b5e37282ad61fb3d893.png\"},{\"name\":\"扭捏倒地\",\"image\":\"https://i0.hdslb.com/bfs/garb/31be9038665048f7ce2f4fd057ad9a811e920faa.png\"},{\"name\":\"呼呼大睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/92df0eff6b256025afe5a25c27b8e2256be2356c.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

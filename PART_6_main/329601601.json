@@ -16,14 +16,11 @@
 		"item_id_card":"1761033822001",
 		"item_id_emoji_package":"1761033059001",
 		"owner_uid":"14424458",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"40000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3296016012",
 		"sale_sku_id_2":"3296016011",
 		"sale_time_begin":"1761364800",
@@ -81,21 +78,13 @@
 				"name":"幽灵飘飘",
 				"suit_item_id":329601601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4ec35b59893f243b5db541d42713bdfae2d2627e.png",
 					"item_emoji_list":"[{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/9df405c8cfa173fcee3993519e722971c5e4d412.png\"},{\"name\":\"小幽灵\",\"image\":\"https://i0.hdslb.com/bfs/garb/0124e10a09120cf36505f0c8cd749eb6af3726fb.png\"},{\"name\":\"丸辣\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c7e8cfff8dfd31d5086dd32611c122e95cfc04c.png\"},{\"name\":\"神圣\",\"image\":\"https://i0.hdslb.com/bfs/garb/358a5b0072180ad7cb6e3cd6c57ca15084622b80.png\"},{\"name\":\"出魂\",\"image\":\"https://i0.hdslb.com/bfs/garb/af3112bd7605e66d6810325eed78f0938f301a42.png\"},{\"name\":\"尖锐爆鸣\",\"image\":\"https://i0.hdslb.com/bfs/garb/2af3c2c9d451683447feadd4e9420a747e2e7174.png\"},{\"name\":\"鬼\",\"image\":\"https://i0.hdslb.com/bfs/garb/d841ded741d90789a5782189e8d9ddcf3375eb30.png\"},{\"name\":\"头秃\",\"image\":\"https://i0.hdslb.com/bfs/garb/0bee02a36fc797b36bb76ebf75b731709ca7e311.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/a847030bec3223190ec87864c236d3b639ae6446.png\"},{\"name\":\"喜极而泣\",\"image\":\"https://i0.hdslb.com/bfs/garb/335db6c932d9d5ca2900408da5b891170b239a21.png\"},{\"name\":\"吓到\",\"image\":\"https://i0.hdslb.com/bfs/garb/a52d65ebbb903d0148f336542f6bd06c3ebca72a.png\"},{\"name\":\"汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ff2372ebf58ae3ce5ebd47250e878d1c29c2557.png\"},{\"name\":\"偷看\",\"image\":\"https://i0.hdslb.com/bfs/garb/113b9cde5fe84dbcbff98aadb603f743785d2c9f.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/11d1171125efd48c93e287bef2588607d428b9ca.png\"},{\"name\":\"石化\",\"image\":\"https://i0.hdslb.com/bfs/garb/3d895c4a5ba23929e2e776ec8e20f7218eaa7e81.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -5,14 +5,11 @@
 	"group_name":"山海幻音",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/garb/item/1e2b9af73298fb78e1bb223d784d6d97d6ef8e3f.png",
 		"item_ids":"65814,65815,65816,65817,65818,65819,65820,65821,65822,65823",
-		"removable":"true",
 		"sale_type":"pay",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

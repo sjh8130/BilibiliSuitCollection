@@ -5,19 +5,11 @@
 	"group_name":"我的小铺",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
 		"item_ids":"33981,33982,33983,33984,33985,33986,33987,33988,33995,33996",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"card_bg":[

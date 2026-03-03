@@ -16,14 +16,11 @@
 		"item_id_card":"1756279650001",
 		"item_id_emoji_package":"1756279824001",
 		"owner_uid":"3494364170947008",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"1000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3244284012",
 		"sale_sku_id_2":"3244284011",
 		"sale_time_begin":"1756869991",
@@ -81,21 +78,13 @@
 				"name":"兔兔四叶",
 				"suit_item_id":324428401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8a386040e2e5d126c32dfe69a1f3f44e96248c1a.png",
 					"item_emoji_list":"[{\"name\":\"汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/adb396027df0ec16aab588d7cbeb3f4c23ba7b34.png\"},{\"name\":\"hi\",\"image\":\"https://i0.hdslb.com/bfs/garb/8836dd85d8dc99a823092feaf3ccfb350313d69d.png\"},{\"name\":\"馊主意\",\"image\":\"https://i0.hdslb.com/bfs/garb/f991a1cc302dce5fefb79c97354f193b4a2b3f87.png\"},{\"name\":\"蛐蛐\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce271ad2fb0108670f608661e69d9151e368d98b.png\"},{\"name\":\"哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/afe0084799bd58074c0954fabb605c3a57b493d3.png\"},{\"name\":\"石化\",\"image\":\"https://i0.hdslb.com/bfs/garb/736a3da2b9c23ecb61853451d389e4353819b70b.png\"},{\"name\":\"柚子叶\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb2449c36b83b2b319f9edd741e1fee29f2e0766.png\"},{\"name\":\"送我\",\"image\":\"https://i0.hdslb.com/bfs/garb/eaba4db38d60fd8131399d1da82164985cc40a50.png\"},{\"name\":\"摸摸\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ea439a026ea5171cb216174e884bee06f23ab92.png\"},{\"name\":\"斜视\",\"image\":\"https://i0.hdslb.com/bfs/garb/77b3d269500909e02f1d438201767b96cf8ae88b.png\"},{\"name\":\"看电脑\",\"image\":\"https://i0.hdslb.com/bfs/garb/bbfba7c5b87ed194a795a927f4b9737a118dd509.png\"},{\"name\":\"乞讨\",\"image\":\"https://i0.hdslb.com/bfs/garb/997b7e5eb4fff619f997f5ec5d848332676174d2.png\"},{\"name\":\"舔\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf640692f89e346f1f7549b27381ccb3e72465a4.png\"},{\"name\":\"吐舌\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce5643df692853d7f01d561d1d86dfcb6cb216cd.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/caca986f79d9c7186d9863f6846150eb3e5fd020.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1719380330001",
 		"item_id_emoji_package":"1719380412001",
 		"owner_uid":"15938156",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"2000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2178447012",
 		"sale_sku_id_2":"2178447011",
 		"sale_time_begin":"1719572400",
@@ -81,21 +78,13 @@
 				"name":"萌宠捏捏",
 				"suit_item_id":217844701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ece9a6ce9ddf99004bdbabee44b034c11efe5f7a.png",
 					"item_emoji_list":"[{\"name\":\"猫猫捏捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe479c43be1588e6147d42129deb46187b6319f4.png\"},{\"name\":\"修狗捏捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/3b9e5a101ce7843b38b44a133ed87811d86604af.png\"},{\"name\":\"兔兔捏捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/78160b8eb86d2472cd0918b05432a0044026c78f.png\"},{\"name\":\"熊猫捏捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/f475ac3d4808efbabd1980f903dba8294d39022e.png\"},{\"name\":\"可爱猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/208681e6ac343f668719315beb8fd4649c1f81a0.png\"},{\"name\":\"可爱修狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/357e958a356d478690c1234ed1d77915e603b1e7.png\"},{\"name\":\"可爱兔兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/73f27c91afb74b5dbbcbcfea7ad1a2942fb4e440.png\"},{\"name\":\"可爱熊猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/b1b0904217c23698b2697de07ac83152bf831dec.png\"},{\"name\":\"芝士捏捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/d314ba3fea96ea199aad67b9a271a849949ef25e.png\"},{\"name\":\"猫爪捏捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/29b27fbf6ae941523a9474d207676f90f7ef03df.png\"},{\"name\":\"小鱼捏捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/3dbc0461fa4370721e6720cf42c95f700f8efec6.png\"},{\"name\":\"木鱼猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/33fc94eb28c3af309bd86de4cf3455a2744ae405.png\"},{\"name\":\"狗粮\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9bcbbefa83577e9367eac29e85072e7d417b673.png\"},{\"name\":\"猫粮\",\"image\":\"https://i0.hdslb.com/bfs/garb/641d1704f713eb9f90401d6900cc9c6fd1505d87.png\"},{\"name\":\"盖章\",\"image\":\"https://i0.hdslb.com/bfs/garb/97443f605fc058232729766eddb78700873060db.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

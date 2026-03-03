@@ -15,14 +15,11 @@
 		"item_id_card":"1680600850001",
 		"item_id_emoji_package":"1681779826001",
 		"owner_uid":"2142503509",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1104445012",
 		"sale_sku_id_2":"1104445011",
 		"sale_time_begin":"1682163270",
@@ -80,20 +77,12 @@
 				"name":"一年好景",
 				"suit_item_id":110444501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/610c7404f29c41f3bafa63765dfc8b25a101656a.png",
 					"item_emoji_list":"[{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f6d33bbe1251fd0b2806a9ec7ae9c78be7d6d3a.png\"},{\"name\":\"看不见\",\"image\":\"https://i0.hdslb.com/bfs/garb/810d9b66dcbad119de3cc1a0cd88d9f7ca9d9444.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/14faea6dc1da26b181a83037b6edee38930a0b07.png\"},{\"name\":\"憋笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/497c0729595bb30f9f9454563259d982d4ccf0e8.png\"},{\"name\":\"好\",\"image\":\"https://i0.hdslb.com/bfs/garb/ded01c784a9e37f591572b95a795adb8f302986c.png\"},{\"name\":\"偷看\",\"image\":\"https://i0.hdslb.com/bfs/garb/65d3768662f5426e3f6a8f60db93ac7463299054.png\"},{\"name\":\"看看镜子\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6b2116163fa24c83485c684d166ee7ed4e92c11.png\"},{\"name\":\"看戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ab6aa2ffeb4246c6384a5447bfbaec50e539e4f.png\"},{\"name\":\"花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdbd9d207ac1bbd632e2a10c203bd6edac90777d.png\"},{\"name\":\"沉默\",\"image\":\"https://i0.hdslb.com/bfs/garb/cdde36f1bf069a58286245656edf9fe82ddc573f.png\"},{\"name\":\"丑拒\",\"image\":\"https://i0.hdslb.com/bfs/garb/5915484e9b3c2ef0c6eba9289b1144036c39038f.png\"},{\"name\":\"二胡\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c507160285c389cb1e2b2d5db0bd805d6d96b37.png\"},{\"name\":\"古筝\",\"image\":\"https://i0.hdslb.com/bfs/garb/942f46146d6b445b392ffa506069e75d7e6dceb1.png\"},{\"name\":\"琵琶\",\"image\":\"https://i0.hdslb.com/bfs/garb/1380f1ae9fce33861881ae372564ca6233024f72.png\"},{\"name\":\"竹笛\",\"image\":\"https://i0.hdslb.com/bfs/garb/441df36f95e2b02054de5f498041f8f872bef027.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

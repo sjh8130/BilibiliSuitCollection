@@ -5,19 +5,11 @@
 	"group_name":"小电视看s11",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/742bd7f0a1612ccd55b42ae19fcb7787da507586.png",
 		"item_ids":"32347,32348,32349,32350,32351,32352,32353,32354,32355,32356",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"true",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

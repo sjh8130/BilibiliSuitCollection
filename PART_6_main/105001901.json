@@ -16,14 +16,11 @@
 		"item_id_card":"1676737328001",
 		"item_id_emoji_package":"1676737650001",
 		"owner_uid":"3461581786581601",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1050019012",
 		"sale_sku_id_2":"1050019011",
 		"sale_time_begin":"1677661550",
@@ -81,20 +78,12 @@
 				"name":"山河忽晚",
 				"suit_item_id":105001901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f636ed720823da51959574b592f40c80fc65e69f.png",
 					"item_emoji_list":"[{\"name\":\"冲呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ab856e6b3bc0f993acfb1181389787c88e86d29.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a506ac35d9e9db4a5fa058e658d647053f46abe.png\"},{\"name\":\"大脑过载\",\"image\":\"https://i0.hdslb.com/bfs/garb/b83e59e89fcb60c42c4171682b4e155471bae766.png\"},{\"name\":\"灵光一闪\",\"image\":\"https://i0.hdslb.com/bfs/garb/4eefae96937073ebd65869b77b920bc60b0d0c5a.png\"},{\"name\":\"爆哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/c05d56bde051beffa65e21cd7e9ad24541663702.png\"},{\"name\":\"柔弱\",\"image\":\"https://i0.hdslb.com/bfs/garb/a00bc88c8aac491ef6efa4bde2834e144188ca91.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce00059f3eaa21bcaa0a7a7a78504c72fd5acb01.png\"},{\"name\":\"我裂开了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a37b9b057f69d1c0a0ba937f04049a4650c41c1.png\"},{\"name\":\"压力\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0f026d1c75523736ec02ba87ceccd6520e222ab.png\"},{\"name\":\"酸了\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e1571eb305abf2703a607a36fedd498c88e811b.png\"},{\"name\":\"馋\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a22f3ed04a62dd86cfac2ba75f5f4ec0861fd9c.png\"},{\"name\":\"大叫\",\"image\":\"https://i0.hdslb.com/bfs/garb/08eb0b93dc7d852dc0857e30df9016e10784a715.png\"},{\"name\":\"在吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/d4bdff486cff25e4ac20f80a706937707a23edb9.png\"},{\"name\":\"拔草\",\"image\":\"https://i0.hdslb.com/bfs/garb/aabff070be95528f4f374bc043a1437fbdf3141e.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/397a633cb6c5f78204c04f6ee80b6d5271790c0b.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

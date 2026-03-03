@@ -16,14 +16,11 @@
 		"item_id_card":"1733802416001",
 		"item_id_emoji_package":"1733802447001",
 		"owner_uid":"3493286178196349",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2345415012",
 		"sale_sku_id_2":"2345415011",
 		"sale_time_begin":"1734059400",
@@ -82,21 +79,13 @@
 				"name":"圣诞恋歌少女",
 				"suit_item_id":234541501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d081e7555d41165614482e18d70f675e76dfbf1a.png",
 					"item_emoji_list":"[{\"name\":\"在吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/622df2844f8fe3e7fd29d07d02187d27de773e7e.png\"},{\"name\":\"怪我？\",\"image\":\"https://i0.hdslb.com/bfs/garb/e52b405948b9c8178a5aa85a5482cd0116688dc5.png\"},{\"name\":\"盯你\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d0aa77b3217b29136f0be830d09203222f4596c.png\"},{\"name\":\"吃苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5c3eb7549b3479c32ec90a104fb23ab009bd231.png\"},{\"name\":\"伤心\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b7ebc6ed251a2f966fa96fb9c1755f524628d68.png\"},{\"name\":\"崩溃\",\"image\":\"https://i0.hdslb.com/bfs/garb/227cf583c2fcb5347d96aef06dca069ef68dbd9c.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa0da530c5a44b025b956fc1a7dbac8a41a23475.png\"},{\"name\":\"愤怒\",\"image\":\"https://i0.hdslb.com/bfs/garb/49d2965e026c52be17ede3751dc7f62a821029f9.png\"},{\"name\":\"自己吓自己\",\"image\":\"https://i0.hdslb.com/bfs/garb/e72fc9bafaf0ec4ffe0f429c762b14364a37cf9d.png\"},{\"name\":\"捏脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/b327a2aa8ad8108a8bc20b5de7169f008b4b6098.png\"},{\"name\":\"许愿\",\"image\":\"https://i0.hdslb.com/bfs/garb/fdfbe1bf608f573d76bb29715d8705490c0352ca.png\"},{\"name\":\"一键三连\",\"image\":\"https://i0.hdslb.com/bfs/garb/829329f38769523be98225f6ac631c8b477407bd.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8016bef8f0cc88dd01cc611311b4a6ef2d919ff.png\"},{\"name\":\"圣诞树\",\"image\":\"https://i0.hdslb.com/bfs/garb/02a5e66e0eca5c0ab8d938a4c175035cfa220724.png\"},{\"name\":\"圣诞花环\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c58f78b826f54dab70208b7a0c3c2c5c01b02b0.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

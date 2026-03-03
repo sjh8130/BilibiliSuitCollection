@@ -16,14 +16,11 @@
 		"item_id_card":"1730801072001",
 		"item_id_emoji_package":"1730801165001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2310544012",
 		"sale_sku_id_2":"2310544011",
 		"sale_time_begin":"1730948630",
@@ -81,21 +78,13 @@
 				"name":"少女电子录",
 				"suit_item_id":231054401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5c3d24b2d2a7e5182459fadecfb53e81883a8ad8.png",
 					"item_emoji_list":"[{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5d0ab747de53d5a161df1d9f765670cbc5a024a.png\"},{\"name\":\"郁闷\",\"image\":\"https://i0.hdslb.com/bfs/garb/06307eb245e48c4f1e47e6d993b9e47af49f24c9.png\"},{\"name\":\"比耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a9ce4c36fe8ca93db1c7a52bc5fc224ca68161e.png\"},{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/f514ca679f81dc01453582bcf80f2d6e8efae74d.png\"},{\"name\":\"桀桀桀\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e398339599e16af7fd6d8061d159bbf07afd891.png\"},{\"name\":\"糖果\",\"image\":\"https://i0.hdslb.com/bfs/garb/c196252a040c3141da09016d4fc0075bc117ffee.png\"},{\"name\":\"心\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ac3deba1ee2326fe1c45f289aa277e6917d112b.png\"},{\"name\":\"连心\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3a13e077e2509df3b854c4707496ff4102954e8.png\"},{\"name\":\"布丁\",\"image\":\"https://i0.hdslb.com/bfs/garb/f655ad55257be6f7261b2b2750dddf86e6637ad0.png\"},{\"name\":\"泡芙\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4e4b602b52309bbafa1d88d6dcf93f0dc08d56e.png\"},{\"name\":\"停止\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3d4be554c6654703a243297771d7a4187f34971.png\"},{\"name\":\"钥匙扣\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f8cc9401cd3517f1a0feea20becf7592acd057d.png\"},{\"name\":\"花边钟\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1deffd6fafebad83d77cc9777ca2c60cf421493.png\"},{\"name\":\"小电视机\",\"image\":\"https://i0.hdslb.com/bfs/garb/bfc6c9bf5f19126c310e3c4e9719a31cfc9525db.png\"},{\"name\":\"小灵通\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1dab5746eff148c08d96668bc34008d0f0e9f30.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

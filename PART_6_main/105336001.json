@@ -16,14 +16,11 @@
 		"item_id_card":"1677029417001",
 		"item_id_emoji_package":"1677037005001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1053360012",
 		"sale_sku_id_2":"1053360011",
 		"sale_time_begin":"1677562670",
@@ -81,20 +78,12 @@
 				"name":"花卷铃兰",
 				"suit_item_id":105336001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/89e023bb6f30444875176c8992f9c4eb7b6397bd.png",
 					"item_emoji_list":"[{\"name\":\"叹气\",\"image\":\"https://i0.hdslb.com/bfs/garb/6103411aa9d64e52f0f544624b2d80fdd385bc2e.png\"},{\"name\":\"我会出手\",\"image\":\"https://i0.hdslb.com/bfs/garb/c032a3057c02f852bc8b48c751fd9554addf29f8.png\"},{\"name\":\"自闭\",\"image\":\"https://i0.hdslb.com/bfs/garb/2512459357376d11d0ac152b711d91d99e615c13.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/86c50941f8afecf4332571d44276390bb130945e.png\"},{\"name\":\"赞哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa8bbf00d3b23a9b7e80d92a7c7087942d413cc9.png\"},{\"name\":\"干饭人\",\"image\":\"https://i0.hdslb.com/bfs/garb/efa35b273c606513313d924b0136825a7e19f234.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/4eeac5e06e86a2efa059ad793ad8a3280d3336d6.png\"},{\"name\":\"吓一跳\",\"image\":\"https://i0.hdslb.com/bfs/garb/b4e7b4bf2234bd5c7db38911010ed77faf14a551.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/6bf4ddc8a2ef6315ed0e3af1b2a76fbe5f11ed2d.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e199abcbb388880fd217c51278a19dc19265d26.png\"},{\"name\":\"送你花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/21c2f5bd6490ea739d1b489e705d99aa680e7973.png\"},{\"name\":\"裂开\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f57d748048045e782e081463c5483335140090a.png\"},{\"name\":\"不愿面对\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1d5a4beb5af1a1b68194498e615e70404a97ff3.png\"},{\"name\":\"弱小可怜\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a053b36eb752891fbc3f9bb93f982f04b43b936.png\"},{\"name\":\"球球你\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5664d8a7c55244d7847d2b745ccbf496b56a1b0.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

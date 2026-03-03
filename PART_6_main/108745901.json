@@ -16,14 +16,11 @@
 		"item_id_card":"1679623634001",
 		"item_id_emoji_package":"1679987667001",
 		"owner_uid":"2142503509",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"1000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1087459012",
 		"sale_sku_id_2":"1087459011",
 		"sale_time_begin":"1680788830",
@@ -81,20 +78,12 @@
 				"name":"水韵鹤礼",
 				"suit_item_id":108745901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d10b16cca52fce3d54adbd92f7425c7de2575f9b.png",
 					"item_emoji_list":"[{\"name\":\"嫌弃\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e997d5d2060a7c94dbd98ee5d654965373f722f.png\"},{\"name\":\"得意\",\"image\":\"https://i0.hdslb.com/bfs/garb/cb440568aab70eba2f3aecb3c75cbb4354ce23bb.png\"},{\"name\":\"嘲讽\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e0ce296e1c36497ff7c9707a2f68c010ceffca1.png\"},{\"name\":\"载入中\",\"image\":\"https://i0.hdslb.com/bfs/garb/466ccf62c6fe63b935fdf16e0bf888dc99ea270a.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/0eb949b8680939923cb89a583ffa70b48a5c721d.png\"},{\"name\":\"大脑超载\",\"image\":\"https://i0.hdslb.com/bfs/garb/42976f5a5f165232421ebbca022e5b4c91839752.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/051ea86f9a5ef0de3617b9910e7a2901a7d648ff.png\"},{\"name\":\"啊啊啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/71a578fbcce77fb5e99a79168c7c72867bceebd7.png\"},{\"name\":\"怪东西\",\"image\":\"https://i0.hdslb.com/bfs/garb/809e3d75807fdf34fd8c92af6acd7edc030a6c4a.png\"},{\"name\":\"紧张\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ecac7e8e5462d855a029edac4db54531abebd93.png\"},{\"name\":\"大凶\",\"image\":\"https://i0.hdslb.com/bfs/garb/0610c088f492590a1997be344e3f2ef1da7a1107.png\"},{\"name\":\"怒气值up\",\"image\":\"https://i0.hdslb.com/bfs/garb/45a88c8dbba3ad2d8f4a99fdbd0f0487c91b9ff2.png\"},{\"name\":\"肯定\",\"image\":\"https://i0.hdslb.com/bfs/garb/a11dc3b42345ec1f740d819588b8199d6a0abb7f.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b76fade7aa417fadb702be2911f52d5d56e43a1.png\"},{\"name\":\"傲娇\",\"image\":\"https://i0.hdslb.com/bfs/garb/19ce083771e602892ca841c094cb6b9259f6f177.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

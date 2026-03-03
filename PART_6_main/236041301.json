@@ -16,14 +16,11 @@
 		"item_id_card":"1735105359001",
 		"item_id_emoji_package":"1735105495001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2360413012",
 		"sale_sku_id_2":"2360413011",
 		"sale_time_begin":"1735355200",
@@ -81,21 +78,13 @@
 				"name":"nono狗烘焙面包坊",
 				"suit_item_id":236041301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/95fc3887faf873db59522778fe4f105eb8c84d1b.png",
 					"item_emoji_list":"[{\"name\":\"准备做饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/3537a3b222b3d7b802fd0de133974368a579a654.png\"},{\"name\":\"准备开饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7b1568580677c9cd075bca72a5f82101f2087ae.png\"},{\"name\":\"吃面包\",\"image\":\"https://i0.hdslb.com/bfs/garb/4da015942dd6c03cb555983270c3497b774cf8b4.png\"},{\"name\":\"吃蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/e094d5a69daebf4cb4b1136638866d0453bea93f.png\"},{\"name\":\"大吃一口\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac349f81ab1cf82bf489329f8d753df349c1f5b4.png\"},{\"name\":\"趴瑞士卷\",\"image\":\"https://i0.hdslb.com/bfs/garb/dfd244cdbb4a0d450eddac1cb2e67d5a4111ef66.png\"},{\"name\":\"甜甜圈\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ece0a485a8d9e1c890028ebc9cb3b0f9b4a63ef.png\"},{\"name\":\"奶油蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/8008795a1473c8a4ec2c45c75790df206e357d67.png\"},{\"name\":\"纸杯蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/92e47a4c1107344e6861bff025073ebfb3515dd6.png\"},{\"name\":\"蓝莓蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/103bb16d682feba1f71b702c974d4fd217576e25.png\"},{\"name\":\"菜单\",\"image\":\"https://i0.hdslb.com/bfs/garb/55658c480cc53dc08a9f1d058322873f7d83b955.png\"},{\"name\":\"喝咖啡\",\"image\":\"https://i0.hdslb.com/bfs/garb/9ff36ebf5539ee1ac74013148ebf58e7736addfd.png\"},{\"name\":\"欢迎光临\",\"image\":\"https://i0.hdslb.com/bfs/garb/d41e44b390aaf9abb3f135293e036f2614671581.png\"},{\"name\":\"上布丁\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f744efa0dc6fe8e05b72b22fb57b533a085ea2b.png\"},{\"name\":\"营业中\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd7ab9131296948ecc0616b088458b4ce6a33c23.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

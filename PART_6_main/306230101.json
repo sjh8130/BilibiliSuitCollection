@@ -16,14 +16,11 @@
 		"item_id_card":"1740967233001",
 		"item_id_emoji_package":"1740967302001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3062301012",
 		"sale_sku_id_2":"3062301011",
 		"sale_time_begin":"1741685010",
@@ -81,21 +78,13 @@
 				"name":"兔子星球",
 				"suit_item_id":306230101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/80c27e986dc52aec888cc2f79d71b176018bb081.png",
 					"item_emoji_list":"[{\"name\":\"愣住\",\"image\":\"https://i0.hdslb.com/bfs/garb/430ec98cb43c533bbd91e9c8b8321ed538c5e601.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/19baa8de573644c3fc95b4539da9870e78942c60.png\"},{\"name\":\"自拍\",\"image\":\"https://i0.hdslb.com/bfs/garb/dacf878945437426868e8dc737aa2a4fdd620dc1.png\"},{\"name\":\"兔兔点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f6291cfc7f121130512066c2e70e51a62b5dad0.png\"},{\"name\":\"贴脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/9dc08c4b98f76b77dd17689ab7c86b7361a76d34.png\"},{\"name\":\"男孩\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0424df4d0ddc64220c6ca3ec8848403d164953b.png\"},{\"name\":\"兔兔汉堡\",\"image\":\"https://i0.hdslb.com/bfs/garb/1bd6f21cfe628dfdcd3225f9bffb8c8b854f9825.png\"},{\"name\":\"兔兔拍照\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ddab9456e4e47704ebe0529317ca8540153ff5a.png\"},{\"name\":\"烤红薯\",\"image\":\"https://i0.hdslb.com/bfs/garb/c111c197a00d7bf725ffbd7dcd1bcc8333d82922.png\"},{\"name\":\"兔兔探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1e73ffb1494048e1605b1380e3416f4540d6470.png\"},{\"name\":\"女孩\",\"image\":\"https://i0.hdslb.com/bfs/garb/7327efa89334814ee9fa0ba4b209df7e84ffd4c5.png\"},{\"name\":\"打电话\",\"image\":\"https://i0.hdslb.com/bfs/garb/af7dc6c9b2cb23def22fb7b8b079d5b03cbd107f.png\"},{\"name\":\"朋友自拍\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9e1df9bd0d1629b093916d33ae35ec0a9dc156e.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae1a533239f6c0ae6cb20f22dbb2914e47c046f5.png\"},{\"name\":\"许愿\",\"image\":\"https://i0.hdslb.com/bfs/garb/13bae7e90086ab28552e4406f49fcd723c7f9691.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1688119836001",
 		"item_id_emoji_package":"1688119681001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1184294012",
 		"sale_sku_id_2":"1184294011",
 		"sale_time_begin":"1688468209",
@@ -81,20 +78,12 @@
 				"name":"魔性鹅鹅",
 				"suit_item_id":118429401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ebf89d46c8850d2e2e876d8ef3feaa682d8d7e67.png",
 					"item_emoji_list":"[{\"name\":\"鹅头\",\"image\":\"https://i0.hdslb.com/bfs/garb/89d80583e963de140a39bd8fb2811c3c8348c67e.png\"},{\"name\":\"鹅身\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca10d98888134ac11f3149f5b76cf71299fd12f0.png\"},{\"name\":\"鹅尾\",\"image\":\"https://i0.hdslb.com/bfs/garb/64f88dfcac26439ddef4c0079f83562ba60c2dea.png\"},{\"name\":\"一摊鹅\",\"image\":\"https://i0.hdslb.com/bfs/garb/3daee2e9f976b3704a0fdc754ca942eb505a881d.png\"},{\"name\":\"戳\",\"image\":\"https://i0.hdslb.com/bfs/garb/672dc6bbbe9c21e38e90abf44483bfc063e8cf61.png\"},{\"name\":\"铁锅炖大鹅\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd0881112c85a5d349f53beb0dc522d533fe0438.png\"},{\"name\":\"嘎\",\"image\":\"https://i0.hdslb.com/bfs/garb/3230a25978205c9ab3f51de99fe6d168e8adb9be.png\"},{\"name\":\"嘎嘎\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9141d900ff4a1f7d2b8edf46a076d4d0e2965bf.png\"},{\"name\":\"嘎嘎嘎\",\"image\":\"https://i0.hdslb.com/bfs/garb/120912a03f631a00c933c58a8bf996aae204308d.png\"},{\"name\":\"嘎嘎嘎嘎\",\"image\":\"https://i0.hdslb.com/bfs/garb/4fe7393d9603508b0ead670e3d8eecfab652459d.png\"},{\"name\":\"起杀心\",\"image\":\"https://i0.hdslb.com/bfs/garb/a11cf0125eceeb0a73fadc155feb2818a463b388.png\"},{\"name\":\"扼住咽喉\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f0e648dba0170b80524513b06ee88727f93717a.png\"},{\"name\":\"精神良好\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe22300d0b942ef0b272cc5e3afbff5d99c41043.png\"},{\"name\":\"着急\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbf1a2106c354b2d3b43925b6e7865f22ad22a30.png\"},{\"name\":\"上天堂鹅\",\"image\":\"https://i0.hdslb.com/bfs/garb/77d047a6b72ea78116349b397bd49b33494c4ed5.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

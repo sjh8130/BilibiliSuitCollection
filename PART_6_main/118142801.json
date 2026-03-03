@@ -16,14 +16,11 @@
 		"item_id_card":"1688105425001",
 		"item_id_emoji_package":"1688105590001",
 		"owner_uid":"504406727",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1181428012",
 		"sale_sku_id_2":"1181428011",
 		"sale_time_begin":"1689051600",
@@ -81,20 +78,12 @@
 				"name":"生日派对",
 				"suit_item_id":118142801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7a00f21699097fb362b60281dc7bfeb6e37d8d41.png",
 					"item_emoji_list":"[{\"name\":\"左天使\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ca2103eb06db0dc6b04c7b3f061f293694e87e9.png\"},{\"name\":\"额\",\"image\":\"https://i0.hdslb.com/bfs/garb/c408e3db458c19c809232d3f6da0d77143c10a37.png\"},{\"name\":\"行\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf4f6e0008c63cc38d80804184f844103db1c8bb.png\"},{\"name\":\"送礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/de2645b2131ec3725aeda6e4f921f6411dc6dbab.png\"},{\"name\":\"右天使\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0050c916d7924e79a9f12fdf89fcb47afb467a0.png\"},{\"name\":\"惊喜\",\"image\":\"https://i0.hdslb.com/bfs/garb/09cd5489f70ca48c6f663aec5298e7be9200cf12.png\"},{\"name\":\"星\",\"image\":\"https://i0.hdslb.com/bfs/garb/4cd5161cc632314c994344481b018442c8ede4a0.png\"},{\"name\":\"生日蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/b75bcd9ff51cf9c8bef47f9a818484f1c2ad946c.png\"},{\"name\":\"吹奏\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc76ef784ea2473494e2b011a444b163fcbc82fa.png\"},{\"name\":\"气球\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e2227fb593b197e0a86b14f7d50c962b9a6671a.png\"},{\"name\":\"叉子\",\"image\":\"https://i0.hdslb.com/bfs/garb/77022e967ecdb7773823fa3a1f6d80ac52c999c1.png\"},{\"name\":\"叉子杆\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7364263168b3877c5092516bbda67a2070c3334.png\"},{\"name\":\"叉\",\"image\":\"https://i0.hdslb.com/bfs/garb/98a409c4c91400d64ca08245c8ebedce17d826b1.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/f4c397b8c129afef1eef058663caad087da74675.png\"},{\"name\":\"绳\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fa3aff4f9af4598f1ce20109e7603d0ff06ca99.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

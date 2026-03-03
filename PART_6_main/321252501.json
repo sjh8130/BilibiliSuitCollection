@@ -16,14 +16,11 @@
 		"item_id_card":"1753953974001",
 		"item_id_emoji_package":"1753954004001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3212525012",
 		"sale_sku_id_2":"3212525011",
 		"sale_time_begin":"1754467291",
@@ -81,21 +78,13 @@
 				"name":"樱花落下的声音",
 				"suit_item_id":321252501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/41de681f83f7e156fa4218d6f6c71ad509071b0b.png",
 					"item_emoji_list":"[{\"name\":\"樱花\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd82ac896971c8850cb3652526c7c2f932d4a84f.png\"},{\"name\":\"蝴蝶\",\"image\":\"https://i0.hdslb.com/bfs/garb/d39d4ffa775091f0594eef812a22ac34f3cfac53.png\"},{\"name\":\"风铃\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa055aec1b73d6dc09f5f35b0771ab088fb83e67.png\"},{\"name\":\"花\",\"image\":\"https://i0.hdslb.com/bfs/garb/d365d3d0ae9473933ac8c92b2d4744808a27091e.png\"},{\"name\":\"扇子\",\"image\":\"https://i0.hdslb.com/bfs/garb/ab9f210b20d62cac16d5015da7de700d7f467a32.png\"},{\"name\":\"灯笼\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7abf160aa98b82f25fa11c733c59feaf5210daf.png\"},{\"name\":\"三色团子\",\"image\":\"https://i0.hdslb.com/bfs/garb/5973e1631114a82202293e510119904e5dcbb510.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/20694043ae223ce7f4af933f06d68009a8b7e014.png\"},{\"name\":\"蝴蝶结\",\"image\":\"https://i0.hdslb.com/bfs/garb/eef0df6b79d369fe80961bb90eddffdd64a81a73.png\"},{\"name\":\"和果子\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdab9cb658e9cb1de291e4378b76d727f681b196.png\"},{\"name\":\"茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc6f73331425f444e9bbb0563d958c93b82c7e1d.png\"},{\"name\":\"酒\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8ddbc816e0e9ce24e39b18e778e4c377fab2c2f.png\"},{\"name\":\"花蕾\",\"image\":\"https://i0.hdslb.com/bfs/garb/b775ee99e05b990774bb441f0794709786bb96cb.png\"},{\"name\":\"飘落的花瓣\",\"image\":\"https://i0.hdslb.com/bfs/garb/74f254c2d981ea2c0e89548aaddc6ad2b2fde88e.png\"},{\"name\":\"星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/c10eff6e85b83b2d3bc62469f23a93bce2a5f785.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

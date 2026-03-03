@@ -16,14 +16,11 @@
 		"item_id_card":"1708502936001",
 		"item_id_emoji_package":"1708502574001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2052529012",
 		"sale_sku_id_2":"2052529011",
 		"sale_time_begin":"1708658190",
@@ -81,20 +78,12 @@
 				"name":"芭蕾",
 				"suit_item_id":205252901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b3eb801b5d7a670cb8f459ed923e7b7188462323.png",
 					"item_emoji_list":"[{\"name\":\"珍珠\",\"image\":\"https://i0.hdslb.com/bfs/garb/27b3d5fd8cd85d22aa2e53f3fd2bb9dc8b52b563.png\"},{\"name\":\"爱心ok绷\",\"image\":\"https://i0.hdslb.com/bfs/garb/c14f631593dba1154529cf44b3056787dc54e418.png\"},{\"name\":\"黑蝴蝶结\",\"image\":\"https://i0.hdslb.com/bfs/garb/6dd0b0955070563e0d95a6c558925868ee7f378d.png\"},{\"name\":\"纯白画框\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc06766c844b02d3b49b11b9d9bd5b791b70b249.png\"},{\"name\":\"白蝴蝶结\",\"image\":\"https://i0.hdslb.com/bfs/garb/f217390e496715b39ead677256540db54cb0ff1d.png\"},{\"name\":\"时尚\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0fa9da2ac1bdf5c9f836da011c6c25990820304.png\"},{\"name\":\"女孩\",\"image\":\"https://i0.hdslb.com/bfs/garb/02061491b6585f842f1e6a16974910dbc5bcf9ae.png\"},{\"name\":\"蕾丝爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/d345aa2721d59fe9c5014f71ac96ac85d758264b.png\"},{\"name\":\"粉色小熊\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d0e573df48581896610d9a80616ccc9592a38be.png\"},{\"name\":\"黑玫瑰\",\"image\":\"https://i0.hdslb.com/bfs/garb/021df0fcbff8394e881fe93b35acc983cbb1a501.png\"},{\"name\":\"镭射爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5bd31d33bccd11afacd295e35b91b8189fc0f98.png\"},{\"name\":\"绑带\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3e31b59c1eb4f170c7ec77d0ee6af05ee095ef3.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/19c17a30394047194abb670127fb8038930dc41d.png\"},{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/e373fcabdd247d23d6adfb166a33063e8ea5c561.png\"},{\"name\":\"收藏\",\"image\":\"https://i0.hdslb.com/bfs/garb/a8d19f61a48f632db5c60401c199ed34b2674b36.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

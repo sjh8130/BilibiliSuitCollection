@@ -16,14 +16,11 @@
 		"item_id_card":"1753864801001",
 		"item_id_emoji_package":"1753865675001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3211588012",
 		"sale_sku_id_2":"3211588011",
 		"sale_time_begin":"1754968541",
@@ -81,21 +78,13 @@
 				"name":"晚安天使",
 				"suit_item_id":321158801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ef5635523875ea4003ee3e01291f7e1e30c35c2c.png",
 					"item_emoji_list":"[{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/070f4b25cdefadf7d6702d5c6927ca9622311eaf.png\"},{\"name\":\"兔子\",\"image\":\"https://i0.hdslb.com/bfs/garb/2891977e915acc00c4d8aabc000c32b64207d1aa.png\"},{\"name\":\"闹钟\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b91473de7f72a988582ca4a8aeb6d7d29435c5c.png\"},{\"name\":\"镜子\",\"image\":\"https://i0.hdslb.com/bfs/garb/3d106f3fa4de402e872ebb97f00dc11f7ee1103c.png\"},{\"name\":\"小船\",\"image\":\"https://i0.hdslb.com/bfs/garb/1013bc573ea45db8532496b1069088d6d120f5c8.png\"},{\"name\":\"小马\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8f5ec25a1781df1e3f0f8acbfc3aa6e362c61b7.png\"},{\"name\":\"灯罩\",\"image\":\"https://i0.hdslb.com/bfs/garb/a64732cf6418d0422c4e1f0550007b6a6493f57b.png\"},{\"name\":\"袜子\",\"image\":\"https://i0.hdslb.com/bfs/garb/d51e57917f4941e16b6a06d4e5962f74bd401d1d.png\"},{\"name\":\"云\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0a55e80b2ef3afc7294ad9f995893dbeeb83cde.png\"},{\"name\":\"梳子\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0ab9a428ecc1fea31fd8b9993d8f5e264edca79.png\"},{\"name\":\"枕头\",\"image\":\"https://i0.hdslb.com/bfs/garb/28b46af42d612c563e67d8bdc7db45afe1b7eb79.png\"},{\"name\":\"捕梦网\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ad8b6d095ea3a0244ebf8d2c0d8a130ddbd05b5.png\"},{\"name\":\"星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe62ff3fc4e2875b26383201b55968f0b8e75276.png\"},{\"name\":\"眼罩\",\"image\":\"https://i0.hdslb.com/bfs/garb/95af90e66c29d1b32d41599e1a333115776a4fdd.png\"},{\"name\":\"睡帽\",\"image\":\"https://i0.hdslb.com/bfs/garb/b817aaac23c0f9adb255e20f971ba82d9c9be696.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

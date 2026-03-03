@@ -16,14 +16,11 @@
 		"item_id_card":"1692763925001",
 		"item_id_emoji_package":"1692763799001",
 		"owner_uid":"3546696774584724",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"10",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1242582012",
 		"sale_sku_id_2":"1242582011",
 		"sale_time_begin":"1695211200",
@@ -82,20 +79,12 @@
 				"name":"夜雪千沫Channel",
 				"suit_item_id":124258201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f140a6a369ee858a0fb85d88d1d4e5a4937a0650.png",
 					"item_emoji_list":"[{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/88cbc95eb597819fcd3574bb0acae981acf533ae.png\"},{\"name\":\"给我打米\",\"image\":\"https://i0.hdslb.com/bfs/garb/20e793e3101da2cefb7ea9fcce99c0aab717c216.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/4d91ea1e654e1ce876fde931d6d9eb2f000ea0ed.png\"},{\"name\":\"惊恐\",\"image\":\"https://i0.hdslb.com/bfs/garb/170bf781d432a059418f9d32bc470f3ea09bdc42.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/d45da5a5f82169a11f9287d3cd9a0b891cdb7a5b.png\"},{\"name\":\"困死了\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9e0fad341aa716ce0ed979fad1814fed32c9b3f.png\"},{\"name\":\"灵魂出窍\",\"image\":\"https://i0.hdslb.com/bfs/garb/a08e9e5f4233ce12084c99911f46ccba9c2f711c.png\"},{\"name\":\"哈哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/684e98234e000f08c5b0fa8d6457d00d4865dffc.png\"},{\"name\":\"失望\",\"image\":\"https://i0.hdslb.com/bfs/garb/5362c644f299f25b5812fec4c8fca056ed02c967.png\"},{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c0df30ceefb292f416ac6560ef63d05076c6890.png\"},{\"name\":\"呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0201b5f70f50864574b65ec1dcee07984a42c5f.png\"},{\"name\":\"无精打采\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc16e48db839c31e1a3707b5981e33410b20b7bf.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/69fc8a375a753457ffd789c2158cb4ea13fb4230.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c0fe8f85979709ee49f7f620c3875c9aaedbc19.png\"},{\"name\":\"杂鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9ab1f552d174cd7068cabeaa45e8ecc41df1803.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

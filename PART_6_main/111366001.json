@@ -16,14 +16,11 @@
 		"item_id_card":"1682248531001",
 		"item_id_emoji_package":"1682249893001",
 		"owner_uid":"596630228",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1113660012",
 		"sale_sku_id_2":"1113660011",
 		"sale_time_begin":"1683000000",
@@ -81,20 +78,12 @@
 				"name":"虚幻的权杖",
 				"suit_item_id":111366001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/db4123e5c410dda27fb3bbc57752c792edd2daab.png",
 					"item_emoji_list":"[{\"name\":\"早上好\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5352f0ee96e791d8cc3dc12e7e3375d7074a34b.png\"},{\"name\":\"晚安安\",\"image\":\"https://i0.hdslb.com/bfs/garb/b1c48f010958d5630769cb492f5f3756fd3de9a4.png\"},{\"name\":\"翻白眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/f6a4934176d99a63be7338bbe97e4d2081314a3c.png\"},{\"name\":\"好累\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b418e82eb63da7db0632871b51c9deb6cd8f210.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4850e447f1d64ac5881393dc57028bbc0f4f629.png\"},{\"name\":\"变成猪\",\"image\":\"https://i0.hdslb.com/bfs/garb/d44c049e19911ae3c11a8be059d9543ad8591be9.png\"},{\"name\":\"我错了\",\"image\":\"https://i0.hdslb.com/bfs/garb/02893e3a3703262500d82015b584b085a3c9db53.png\"},{\"name\":\"OKK\",\"image\":\"https://i0.hdslb.com/bfs/garb/114e87e7edf302265eeca064c0531c2def1dc7cd.png\"},{\"name\":\"生气气\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f65a6e67655d595696d5cace476b663bc016f9b.png\"},{\"name\":\"嘿嘿嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/353353630c10f30b80c8c2215ee58c2b9042c105.png\"},{\"name\":\"难受\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9d4372d7a20fd40a816b70ecc3cb3ad6029ce6b.png\"},{\"name\":\"炸毛\",\"image\":\"https://i0.hdslb.com/bfs/garb/536e557586b7f74d27337c10fe3e233cdc83f0a6.png\"},{\"name\":\"契约达成\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a6a083e5dc9267afb370d685f21d779dab9bee6.png\"},{\"name\":\"勾搭\",\"image\":\"https://i0.hdslb.com/bfs/garb/e08d150692afcf15d78358507e894a4b75ce639d.png\"},{\"name\":\"庄严\",\"image\":\"https://i0.hdslb.com/bfs/garb/80e504ce4d66f88e260c2e8438fe0579720782b6.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

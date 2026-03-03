@@ -5,14 +5,11 @@
 	"group_name":"海浪",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/garb/item/9161da74a355c7b171a4034cba3ae31350996a0a.png",
 		"item_ids":"53271,53272,53273,53274,53275,53276,53277,53278,53279,53280",
-		"removable":"true",
 		"sale_type":"pay",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

@@ -15,14 +15,11 @@
 		"item_id_card":"1683881540001",
 		"item_id_emoji_package":"1683881655001",
 		"owner_uid":"3493136928082317",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1132510012",
 		"sale_sku_id_2":"1132510011",
 		"sale_time_begin":"1687498590",
@@ -81,20 +78,12 @@
 				"name":"酷洛米 夏日冰淇淋",
 				"suit_item_id":113251001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b516d707c5ceff00efdb537676d4a74013c3aebb.png",
 					"item_emoji_list":"[{\"name\":\"你一半\",\"image\":\"https://i0.hdslb.com/bfs/garb/84077d170762d8e60ad7119283ef13ca931bdc7f.png\"},{\"name\":\"我一半\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf83fe49f3b603413093f613ccd939cd7cac19e4.png\"},{\"name\":\"分你一口\",\"image\":\"https://i0.hdslb.com/bfs/garb/36d0b30239eb3e008c3a0bdc59835619b01e2bb3.png\"},{\"name\":\"吃冰淇淋\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd7085618ea83589040ae62a9b98fe69065d1a0d.png\"},{\"name\":\"我的呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/7508ec9a4dd3dd01a10e821d26269faae7005a5c.png\"},{\"name\":\"你看看你\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e85a0f545f949a47b8bff6fe7ec8a79c89c7e8a.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/6fb494275237b4d9fa509ef965433bc7822e9fae.png\"},{\"name\":\"傲娇\",\"image\":\"https://i0.hdslb.com/bfs/garb/c30df2401f81d380349ef0afac12cacd26c88434.png\"},{\"name\":\"急了\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a492a47a3efff5dcab198e36dc206c7c9ec4c3d.png\"},{\"name\":\"晕乎乎\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f719316a351847b68d3f7644e6ab9a74734f6e9.png\"},{\"name\":\"我全都要\",\"image\":\"https://i0.hdslb.com/bfs/garb/b98f5eb458e0f5da53091cf672766048eced2299.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/22149322f6d03250f36c1454ed9987ef487e68d1.png\"},{\"name\":\"掉小珍珠\",\"image\":\"https://i0.hdslb.com/bfs/garb/14add37370378ca73c9cd905d69c7861a478087a.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/a19aa14b93c63e795f1dedf248353da075f0677e.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/21365f5d6cc4acfe48b7ff6b40eff6ced60fea26.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

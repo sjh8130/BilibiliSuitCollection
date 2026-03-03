@@ -5,19 +5,11 @@
 	"group_name":"萌宠小熊",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/b6fa7855cc76f14d5729469d8bd9c06ce123e8e9.png",
 		"item_ids":"32892,32893,32894,32895,32896,32897,32898,32899,32900,32901,32902,32903,32904,32905,32906",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"true",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

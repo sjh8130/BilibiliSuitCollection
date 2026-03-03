@@ -5,14 +5,11 @@
 	"group_name":"夏日小海豚",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/garb/item/358f36a8967ae1823f5941d49f56b25d4e6d6782.png",
 		"item_ids":"53257,53258,53259,53260,53261,53262,53263,53264,53265,53266",
-		"removable":"true",
 		"sale_type":"pay",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

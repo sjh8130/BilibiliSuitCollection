@@ -16,14 +16,11 @@
 		"item_id_card":"1762744829001",
 		"item_id_emoji_package":"1762744913001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"99999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3314343012",
 		"sale_sku_id_2":"3314343011",
 		"sale_time_begin":"1765424840",
@@ -82,21 +79,13 @@
 				"name":"团子硬核露营",
 				"suit_item_id":331434301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9c0cfb9c1558e55b876ab5f8aa18387e327e6103.png",
 					"item_emoji_list":"[{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/cec9914531e5d5992e76c14d091c518230fb32d5.png\"},{\"name\":\"喝水\",\"image\":\"https://i0.hdslb.com/bfs/garb/032598635cf9c7c66eb4d59066ddacad83cfbb8e.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/0169339772a1caf48e973410be9dd08421448dc2.png\"},{\"name\":\"蹲蹲\",\"image\":\"https://i0.hdslb.com/bfs/garb/62a941176327f8c3283a85a6bb7a221b4020c3dc.png\"},{\"name\":\"拜拜\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c91326b5fc3e9a8d1916531bdfe2d3aa2fb41bf.png\"},{\"name\":\"炉子\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c38de3208dfa1b9b4369f9749a889e93e11507a.png\"},{\"name\":\"露营左\",\"image\":\"https://i0.hdslb.com/bfs/garb/c690e5af4fc7f663a81b3286ee83c6899ed89b97.png\"},{\"name\":\"露营右\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc3038a4b23c30f4a1ad67f404729367eea42996.png\"},{\"name\":\"钓鱼上\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed3b9093a70a4d40eb87b32d571d088ce139ebab.png\"},{\"name\":\"火\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a99df7d60c305c1154a86f6d9489aa8da335179.png\"},{\"name\":\"闹钟\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef8f8d9c0552a03d78f18cb785757e8fc81eb95a.png\"},{\"name\":\"背包\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c323b2f03190daadf2ff3a29c33f143ec541e38.png\"},{\"name\":\"杯子\",\"image\":\"https://i0.hdslb.com/bfs/garb/9c31bdc4adc8ac8faedfd3cb1bf1968d18405615.png\"},{\"name\":\"钓鱼下\",\"image\":\"https://i0.hdslb.com/bfs/garb/29047ec8ec3b854c2078ad5420dff72e41a9a2e8.png\"},{\"name\":\"树\",\"image\":\"https://i0.hdslb.com/bfs/garb/7847dd35f62d020bfb4b0236202749ee6bd2b994.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

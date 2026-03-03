@@ -15,14 +15,11 @@
 		"item_id_card":"1688003097003",
 		"item_id_emoji_package":"1688003179001",
 		"owner_uid":"2142503509",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1180295012",
 		"sale_sku_id_2":"1180295011",
 		"sale_time_begin":"1688124500",
@@ -80,20 +77,12 @@
 				"name":"海底搞怪图鉴",
 				"suit_item_id":118029501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/76e77285e7f93470e001423244957f522c1725ab.png",
 					"item_emoji_list":"[{\"name\":\"加班\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7210d64b211c1c50856cb228f30eedf2366c1c5.png\"},{\"name\":\"笑喷了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a46600ee0cdeee2bc98f3c24b8b12f43427fb7c7.png\"},{\"name\":\"海星还行\",\"image\":\"https://i0.hdslb.com/bfs/garb/65290746f30d354e8cc0178b68f1918e9d82ffd2.png\"},{\"name\":\"膨胀\",\"image\":\"https://i0.hdslb.com/bfs/garb/abd52e1b0cc2d296779bc7b47ebecfb67e826df4.png\"},{\"name\":\"起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/59b50f003dcefd356b9ff96983ebdc4aefb91c41.png\"},{\"name\":\"吃我一鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/868f91c2ab425d38f77c01d80986c034171ee8fb.png\"},{\"name\":\"猛鱼落泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/9bfc61a0898b070e4d74a1e2a7431ffa02437f29.png\"},{\"name\":\"鲸呆了\",\"image\":\"https://i0.hdslb.com/bfs/garb/dabec5bcec160da3d6ac1a690a24b77776858680.png\"},{\"name\":\"下班下班\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f5ff4f301c6a7f22fb890a44c1665d7c2dabee4.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e10250658fe986f601b3b4ef19a5ba2b39bfc42.png\"},{\"name\":\"翻车了\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea23a1f360184d0c755170d1d7233c584f254712.png\"},{\"name\":\"裂开\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a361c52f56d99c4bcd87f579c814fb21f5906f4.png\"},{\"name\":\"离家出走\",\"image\":\"https://i0.hdslb.com/bfs/garb/fbad797cb03eb925262f05a7be6ac673bf8af66d.png\"},{\"name\":\"碗安\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c89fab1abf6eecdf01d02b0a0a2365db2e142bd.png\"},{\"name\":\"咸鱼一刺\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e9c68d587591856791f86292f1afca522c04c49.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

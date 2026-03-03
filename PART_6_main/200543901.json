@@ -16,14 +16,11 @@
 		"item_id_card":"1704356030001",
 		"item_id_emoji_package":"1704274574001",
 		"owner_uid":"670729222",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"200000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2005439012",
 		"sale_sku_id_2":"2005439011",
 		"sale_time_begin":"1704542019",
@@ -81,20 +78,12 @@
 				"name":"地雷系",
 				"suit_item_id":200543901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/50b86209a56acbb42110d1add105cb9386df64fc.png",
 					"item_emoji_list":"[{\"name\":\"坏笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/d659742a29d58c9e0f961edbeeacead09026248e.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f01b1db12efef8633284c1cc91d46d2f2f82740.png\"},{\"name\":\"哼哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1f5a5f10b4d61443f04d401f7b42d2fa3a8f8da.png\"},{\"name\":\"我按\",\"image\":\"https://i0.hdslb.com/bfs/garb/a64ef0fe3a5e96515c5d70ccdda99e6c20a31c4d.png\"},{\"name\":\"自爆\",\"image\":\"https://i0.hdslb.com/bfs/garb/a997c233106de751077d8204f719aa062c7bd0d1.png\"},{\"name\":\"嘲笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/149e60e3d4994512df348914d2423ca6892e46bb.png\"},{\"name\":\"嘘\",\"image\":\"https://i0.hdslb.com/bfs/garb/39ce8a1a366a4a1ffdbd5e4460be7769f5adb72b.png\"},{\"name\":\"碎碎念\",\"image\":\"https://i0.hdslb.com/bfs/garb/116f2e096b3258f9c3452fbfa5b72867a2730b6d.png\"},{\"name\":\"你说什么？\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae9212c4f578bd52315af4be2380c5511044e9c7.png\"},{\"name\":\"耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/397d7819c271e65eea3bbacc75805977deb5f250.png\"},{\"name\":\"？\",\"image\":\"https://i0.hdslb.com/bfs/garb/56f0f5595226d01f94c76851d846604e476bbcc9.png\"},{\"name\":\"啊！\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf9f44ff4864bc7913a5724ef79ea1e66e86edd6.png\"},{\"name\":\"呆胶布\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea691b8c949efef4f2317fd10126ba67429853ff.png\"},{\"name\":\"小黑猫贴纸\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6d41b7799713cea4fe9f9f95de4a8c0f0147a18.png\"},{\"name\":\"小粉兔贴纸\",\"image\":\"https://i0.hdslb.com/bfs/garb/d377c24a4d7764d11e5925c237936925ade3470b.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

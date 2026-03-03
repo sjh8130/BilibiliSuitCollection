@@ -15,14 +15,11 @@
 		"item_id_card":"1682386584001",
 		"item_id_emoji_package":"1682386657001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1115294012",
 		"sale_sku_id_2":"1115294011",
 		"sale_time_begin":"1683714270",
@@ -81,20 +78,12 @@
 				"name":"小小魅魔",
 				"suit_item_id":111529401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0cc097c5ae1a61f72219107b9b392b41a65248a7.png",
 					"item_emoji_list":"[{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/368f1c61c7744c996516c66e66d7b58849c6e068.png\"},{\"name\":\"嘘\",\"image\":\"https://i0.hdslb.com/bfs/garb/16604f13cb1fc4fec9f084bf663e63fd1fb76770.png\"},{\"name\":\"打击\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc1ca131fefcbd450605a55cf53a421474fce7c8.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ea25711028afce62dad91bb5401433d0f6145fc.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b52dcf289839e41d77c35fdbf30f9a8778eaf04.png\"},{\"name\":\"柠檬精\",\"image\":\"https://i0.hdslb.com/bfs/garb/1238c3d76b2a8f3276e8848db6c28b5da34b6801.png\"},{\"name\":\"大受震撼\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc6fa8d080e3989274988fedd909e6c7f9958ae5.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d5e84a74e339dbf342c7f66a36a5187b52b8f41.png\"},{\"name\":\"嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b779044ba3e84ad0471cb1e5f7b53f8eaffa992.png\"},{\"name\":\"脸红\",\"image\":\"https://i0.hdslb.com/bfs/garb/69be7ba8b7a53ed6373b033d648c13ae73194099.png\"},{\"name\":\"睡觉觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/06b1c110ac60bcbb87c9ba61177be01022bd28f3.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5e2216906dda2f3fed141d9f96dce4bab9e7e7e.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/d36fe45158e9f8d6239813c00c0b01dadedbbf4a.png\"},{\"name\":\"小拳拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/8c222706758f173d6c2ae094da9c9024e469a03a.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7f45f2c4aeaec97453f6cbfcaf516421fb94eb5.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

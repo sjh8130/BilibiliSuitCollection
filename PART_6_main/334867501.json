@@ -16,14 +16,11 @@
 		"item_id_card":"1765479246001",
 		"item_id_emoji_package":"1765123414001",
 		"owner_uid":"3546739967527097",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"98",
 		"sale_quantity":"2000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3348675012",
 		"sale_sku_id_2":"3348675011",
 		"sale_time_begin":"1768910400",
@@ -82,21 +79,13 @@
 				"name":"水中魔女",
 				"suit_item_id":334867501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7d06f08914a8ed9289437a717ae0fcbf56c7f67e.png",
 					"item_emoji_list":"[{\"name\":\"阴暗爬行\",\"image\":\"https://i0.hdslb.com/bfs/garb/47b7c2b99cc18731363f826437a3099b4b4c5cf9.png\"},{\"name\":\"开饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/21dc592a7831c8c4538205b2927d40b2dc03da9c.png\"},{\"name\":\"不想加班\",\"image\":\"https://i0.hdslb.com/bfs/garb/f6f162ab6268d4d7244429c81c72adb115c8ab1d.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ee7d34d36f1ec8b4262068e10231a041fcb3f75.png\"},{\"name\":\"冒头\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ffb9e982eb7dcee2b483de3f705311ce50054a9.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/26e88c1f0888dc79fe344a48d002a70abab52786.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/8585823695315479689a6a2391e7f85e4ff8f787.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/1daedba6318f76bcbe48c01f4c0b66e02fe33d0b.png\"},{\"name\":\"钢板\",\"image\":\"https://i0.hdslb.com/bfs/garb/35c93353703feef8f4cdd1750c88f2e5be4d432d.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/cac7ad4472330a25387eccfcd78af838fdd2192f.png\"},{\"name\":\"爆米\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e8d6279ab5ca59ecdf428089edc2a6129887bab.png\"},{\"name\":\"黑听\",\"image\":\"https://i0.hdslb.com/bfs/garb/0bfddee158dd01402d19206698442495384d5bc0.png\"},{\"name\":\"好菜\",\"image\":\"https://i0.hdslb.com/bfs/garb/dec870b017981da137b101eaca3774e556670572.png\"},{\"name\":\"不要涩涩\",\"image\":\"https://i0.hdslb.com/bfs/garb/920d1f6e91ff071f99187e57a7bf55bc85b9818e.png\"},{\"name\":\"吃饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9ef42d07e5c958f189d86b19bd51fb7876ce396.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

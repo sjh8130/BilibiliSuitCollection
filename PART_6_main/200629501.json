@@ -16,14 +16,11 @@
 		"item_id_card":"1704444888001",
 		"item_id_emoji_package":"1704422062001",
 		"owner_uid":"3494364170947008",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2006295012",
 		"sale_sku_id_2":"2006295011",
 		"sale_time_begin":"1705052970",
@@ -81,20 +78,12 @@
 				"name":"猫猫包烘焙坊",
 				"suit_item_id":200629501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/54b7ce2a98fed3d79cd2be44a6bacbbebf1502a1.png",
 					"item_emoji_list":"[{\"name\":\"啜泣\",\"image\":\"https://i0.hdslb.com/bfs/garb/38a96485f8279d85d1d319af96fa37582f5559d1.png\"},{\"name\":\"邪笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c076c3eb4a427da6359c5c6326a5d0764ef58c3.png\"},{\"name\":\"尖叫\",\"image\":\"https://i0.hdslb.com/bfs/garb/b47ee6ff4e0e82ec565c4d029104e2cba0cecb71.png\"},{\"name\":\"逃窜\",\"image\":\"https://i0.hdslb.com/bfs/garb/74efdb59fb2945b7f87d3e1f88886a99c343876f.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/83dcb3a9984f05d0a671e1cfd2d4ef0e240d442f.png\"},{\"name\":\"隐忍\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a39390ae84a7926b3ba9d749da459b963544833.png\"},{\"name\":\"卑微\",\"image\":\"https://i0.hdslb.com/bfs/garb/282587c278b64523cd8ed4879b5e14f482baedf3.png\"},{\"name\":\"融化\",\"image\":\"https://i0.hdslb.com/bfs/garb/030c248eb8785912b5485f57ae5e4dea87c0c0b9.png\"},{\"name\":\"休眠\",\"image\":\"https://i0.hdslb.com/bfs/garb/8737e05565636b9e5cad32eadca73542bceb0a69.png\"},{\"name\":\"抓取\",\"image\":\"https://i0.hdslb.com/bfs/garb/636101583916b839265460c00746e7b276f4db3c.png\"},{\"name\":\"揉面\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a6894795ac4f65db2a8b52465792db7f490b8b4.png\"},{\"name\":\"醒发\",\"image\":\"https://i0.hdslb.com/bfs/garb/4143218fa73c1fda0ac83f27d586368f066275de.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/c38ef68035c1678b78295f98a6582ec02ce0edc8.png\"},{\"name\":\"凝视\",\"image\":\"https://i0.hdslb.com/bfs/garb/307f0f73105ac0f1173eefaaf99dc7a25358881e.png\"},{\"name\":\"失眠\",\"image\":\"https://i0.hdslb.com/bfs/garb/bbd806bace1381f9287f42d0f9efc2d5b3f72cd3.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

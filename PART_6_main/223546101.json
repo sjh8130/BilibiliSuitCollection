@@ -16,14 +16,11 @@
 		"item_id_card":"1724310447001",
 		"item_id_emoji_package":"1724318282001",
 		"owner_uid":"15938156",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"2000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2235461012",
 		"sale_sku_id_2":"2235461011",
 		"sale_time_begin":"1725012000",
@@ -81,21 +78,13 @@
 				"name":"像素·萌宠派对",
 				"suit_item_id":223546101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/c25d0048fce72305c9152973d1ca57c4f1c4dd45.png",
 					"item_emoji_list":"[{\"name\":\"像素小熊\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a3675ade6977026bbf297a22f70e236aad84410.png\"},{\"name\":\"像素橘猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/11c8169d828edb824a16a7ec4eff5c7b3ce8b5cc.png\"},{\"name\":\"像素熊猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e538b8ca13029fb46603dc1fe6849c5883ffbe9.png\"},{\"name\":\"像素小鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/006dd9f7c54c505c005509f8cda4610a3c6887d1.png\"},{\"name\":\"像素哈士奇\",\"image\":\"https://i0.hdslb.com/bfs/garb/91eee312c5eb095582ebba08b625d719a551df0f.png\"},{\"name\":\"像素萨摩耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/10ee07f9b0ddc450eb908eec0d6ac06af3a38414.png\"},{\"name\":\"像素柯基\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c0ffa07088e815f8d82d506f521a2f0f0bc90f1.png\"},{\"name\":\"像素比熊\",\"image\":\"https://i0.hdslb.com/bfs/garb/54b930c9c08df11138914629cb7e32247e6e0087.png\"},{\"name\":\"像素比格\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd5fbd8dbec37e34c40ecf9891a23ac682dc5744.png\"},{\"name\":\"像素泰迪\",\"image\":\"https://i0.hdslb.com/bfs/garb/b69ba422d90845d5bfd07e2c9aace43b4436f324.png\"},{\"name\":\"像素虎斑猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/6450cb3927684f4d86e6dd4acb7b8a4f43f0c492.png\"},{\"name\":\"像素奶牛\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ecf4d1a9dd33f5fc72297ba0fb49d0c67fec0e6.png\"},{\"name\":\"像素小狼\",\"image\":\"https://i0.hdslb.com/bfs/garb/c831e7b05161eca7b1ebe8e2d404408a427af5ba.png\"},{\"name\":\"像素麋鹿\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f1e668484b34ffe74726ff4fd3856b4dd138505.png\"},{\"name\":\"像素仓鼠\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a9184a71f8700c90e0ee374825028624c2eb770.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

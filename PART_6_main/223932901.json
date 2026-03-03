@@ -16,14 +16,11 @@
 		"item_id_card":"1724295079001",
 		"item_id_emoji_package":"1724295104001",
 		"owner_uid":"204715617",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"9999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2239329012",
 		"sale_sku_id_2":"2239329011",
 		"sale_time_begin":"1724749200",
@@ -81,21 +78,13 @@
 				"name":"这个肥肥鲨不太冷",
 				"suit_item_id":223932901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ab4be04be22de70ed5a24a8afab0be22e199162b.png",
 					"item_emoji_list":"[{\"name\":\"记仇\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7149e707623eebebed806ed1df70d39550b14f5.png\"},{\"name\":\"谢谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/58b955697840baa243e259f6cc7b5d5b519c21b2.png\"},{\"name\":\"呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8e8d55b1384e0a462472aada527f1bc6c3e2f3f.png\"},{\"name\":\"偷笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd873f48f4d3160108025d7ac9d3490b7dbd9500.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/47f444027f33b691d1b33098e716b9eab39c6627.png\"},{\"name\":\"拍照\",\"image\":\"https://i0.hdslb.com/bfs/garb/b93cae11066e304d80f7ff48363260f48d6d3dc3.png\"},{\"name\":\"你没事吧\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ca49bcf5fc1c51b93c36237c4888021a72a592d.png\"},{\"name\":\"你\",\"image\":\"https://i0.hdslb.com/bfs/garb/97efce95caa4b810a49e458fcb780df9e0b5f07d.png\"},{\"name\":\"没生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/cad3b1d1b48a152a70a2e73eef5725f4866d9f7f.png\"},{\"name\":\"略略略\",\"image\":\"https://i0.hdslb.com/bfs/garb/adc38d85bcf395b2135b35fd82da412f02e3d48a.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/184aad09e3f4018887305b35947f05572c81baff.png\"},{\"name\":\"干饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e8530e0099933737c8d11654949f955ab50d68c.png\"},{\"name\":\"烦躁\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd12066c216713af6a719d0d4d23ed4f6af4f60b.png\"},{\"name\":\"得瑟\",\"image\":\"https://i0.hdslb.com/bfs/garb/47e32f19553caf39d8302dc4c216158ad210148a.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/cea357fb90433d8a68693d771d6d6cbe4eda9d20.png\"},{\"name\":\"吃冰棍\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae38382eebf843fcb353425df52b4022f2f7a792.png\"},{\"name\":\"不生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/77b665aba7cda45fb57a38e2d7c99c196e3ca79e.png\"},{\"name\":\"不愧是我\",\"image\":\"https://i0.hdslb.com/bfs/garb/45bc0348d5479dd1eb6b8a4142e1de8ab599eb3c.png\"},{\"name\":\"爱你哦\",\"image\":\"https://i0.hdslb.com/bfs/garb/4d39b82eccdfb8687eb607ce4324010cdc01fa18.png\"},{\"name\":\"醒醒\",\"image\":\"https://i0.hdslb.com/bfs/garb/d47573c202e4bafa9621b684ebe85b51a5c8494d.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

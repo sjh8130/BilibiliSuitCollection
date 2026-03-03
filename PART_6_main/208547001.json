@@ -15,14 +15,11 @@
 		"item_id_card":"1711102096001",
 		"item_id_emoji_package":"1711102445001",
 		"owner_uid":"3493259372399028",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2085470012",
 		"sale_sku_id_2":"2085470011",
 		"sale_time_begin":"1711522800",
@@ -81,20 +78,12 @@
 				"name":"不四小羊愚人装扮",
 				"suit_item_id":208547001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9fbecf3b8cce607148cac003d5cbc006f74417e9.png",
 					"item_emoji_list":"[{\"name\":\"吹吹\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e2cc307b669fe43c0287100db3b1fbec4267222.png\"},{\"name\":\"好舒服\",\"image\":\"https://i0.hdslb.com/bfs/garb/6cbae00fe427243e25f08a1a9fbbe8ded09980ed.png\"},{\"name\":\"要睡咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/92fb7138d56039e6173c9b3d9f732a8ba35eda96.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5556b986a474699b0fdf32b1b752595030690d7.png\"},{\"name\":\"我错了\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf441400713bdee10603574eddf5ca3c951d554a.png\"},{\"name\":\"揍你\",\"image\":\"https://i0.hdslb.com/bfs/garb/c129fbb2723ba5745c5c8f7338f5741d86c0dbfd.png\"},{\"name\":\"吓你\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb0e1f5fcd365b8f35296535263be90df4fa4412.png\"},{\"name\":\"记仇\",\"image\":\"https://i0.hdslb.com/bfs/garb/32a5c8defaffb0a61639471f14273c74a5b67f9e.png\"},{\"name\":\"闭嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd3d862177ef2e15f7f3d23c751e451197e6a1d5.png\"},{\"name\":\"鸡哔你\",\"image\":\"https://i0.hdslb.com/bfs/garb/e804cb8444805974b0da8003f2767ee1290baaa9.png\"},{\"name\":\"偷走了\",\"image\":\"https://i0.hdslb.com/bfs/garb/f93b252b5b83cae70f8dff62929d4296745183ec.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/55a4ad220de94d2300cf44897223f1ed22bc3340.png\"},{\"name\":\"吹气球\",\"image\":\"https://i0.hdslb.com/bfs/garb/077536b4854a13151d7d025c21d750a3fa2df951.png\"},{\"name\":\"我喝热水\",\"image\":\"https://i0.hdslb.com/bfs/garb/1be999c1fa9d34fb7a521d10a217d9a88940ce30.png\"},{\"name\":\"多喝热水\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b647bf2390644aa64b27485128bfc2085c76507.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

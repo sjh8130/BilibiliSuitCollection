@@ -5,18 +5,11 @@
 	"group_name":"催更行动",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/b9adf257bb3d448f3625deca4099f231e46960e0.png",
 		"item_ids":"4338,4339,4340,4341,4342,4343,4344,4345,4346,4347",
-		"permanent":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"true",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

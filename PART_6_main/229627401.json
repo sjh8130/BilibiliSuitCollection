@@ -16,14 +16,11 @@
 		"item_id_card":"1729499886001",
 		"item_id_emoji_package":"1729499913001",
 		"owner_uid":"204715617",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"9999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2296274012",
 		"sale_sku_id_2":"2296274011",
 		"sale_time_begin":"1729674000",
@@ -81,21 +78,13 @@
 				"name":"是甜荔枝呀",
 				"suit_item_id":229627401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/fdafa705e027b4f1541bb90e7d2c0ab8d64199a9.png",
 					"item_emoji_list":"[{\"name\":\"拍照\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8c7dc98e2151121dd6dec86a0ab57903a52adde.png\"},{\"name\":\"圣诞节\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5944ce7868d71815348b354090a9d51f479ee78.png\"},{\"name\":\"生日快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc0dd1e866bba65f887bb1a1dc76787fa19fea26.png\"},{\"name\":\"喝可乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a11f9dc3e1f7ae08494712e7057efb5824c2d73.png\"},{\"name\":\"喝奶茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c1a460cb8fce5f9ed1b61b5b3db1596758c9f2c.png\"},{\"name\":\"赏花\",\"image\":\"https://i0.hdslb.com/bfs/garb/3d2aa835b8dff500487df52aff6064d296b8a157.png\"},{\"name\":\"爬山\",\"image\":\"https://i0.hdslb.com/bfs/garb/7276ac94f189ddbd83f88f31e0873e7fa3b7a9eb.png\"},{\"name\":\"一起回家\",\"image\":\"https://i0.hdslb.com/bfs/garb/aded1746ab8145d4df671be793c692f0ddbc96dd.png\"},{\"name\":\"吃饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/3441301488d2bfd5345ccc5dc86d3aaf4b83c67f.png\"},{\"name\":\"购物\",\"image\":\"https://i0.hdslb.com/bfs/garb/15ac88e5d0ea70b4e6218a7ec3614af00f2c6405.png\"},{\"name\":\"是我\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a21fc0186dd1fdcf8a75ba56c2e4253c20cd8d4.png\"},{\"name\":\"哈喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c249f7a2e17310fb81f97915cc76c8ac3c8b02c.png\"},{\"name\":\"工作\",\"image\":\"https://i0.hdslb.com/bfs/garb/6722e93b978efcce401a615c622e3a45e43c3d74.png\"},{\"name\":\"看戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/38574f516d2ce10825e7279e41ee9ce0c4342c44.png\"},{\"name\":\"好朋友\",\"image\":\"https://i0.hdslb.com/bfs/garb/10e70d1e815be210daa35b2e8e73ea0ea90577fe.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/153b526e76bb724ebe3508533e461ee6e2d17105.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f8feb8e0a93392a60942a8932d5fef505b9d1b2.png\"},{\"name\":\"送你花\",\"image\":\"https://i0.hdslb.com/bfs/garb/539274cebfb3f58145deb0b9b691e8ed2ade8f88.png\"},{\"name\":\"陪你\",\"image\":\"https://i0.hdslb.com/bfs/garb/97048b3b112f684b6b2455581662151a30240d1f.png\"},{\"name\":\"好酸\",\"image\":\"https://i0.hdslb.com/bfs/garb/8fd151ff6543c0d408fadd885ebb12dded965c47.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

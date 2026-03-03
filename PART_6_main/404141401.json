@@ -16,14 +16,11 @@
 		"item_id_card":"1770701715001",
 		"item_id_emoji_package":"1770689864001",
 		"owner_uid":"3494364170947008",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"1000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"4041414012",
 		"sale_sku_id_2":"4041414011",
 		"sale_time_begin":"1770965130",
@@ -81,21 +78,13 @@
 				"name":"晴雨伞小猫",
 				"suit_item_id":404141401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6908d7011702bcd223c3bdc0b901a97abdea171c.png",
 					"item_emoji_list":"[{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/55feab47c1416f0d57ed878b973a9068569ce17e.png\"},{\"name\":\"可怜\",\"image\":\"https://i0.hdslb.com/bfs/garb/ee7587ca906bcae5324d666e512c8e540e02d264.png\"},{\"name\":\"叼花\",\"image\":\"https://i0.hdslb.com/bfs/garb/c16c1b56eaf5747994357d5c69f53e4266915df4.png\"},{\"name\":\"汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/eea7b7feebd8b96feebb684dce5f53547849180d.png\"},{\"name\":\"太阳\",\"image\":\"https://i0.hdslb.com/bfs/garb/a0d61a38d52173a319d52499908f392a3bb2e679.png\"},{\"name\":\"宕机\",\"image\":\"https://i0.hdslb.com/bfs/garb/ccfb7b03cd521b2bb5a9f7f081c77ab08f0b8e59.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a17fb278e0cadf4ed1b219f7b2b1f0c75bf53b3.png\"},{\"name\":\"哭泣\",\"image\":\"https://i0.hdslb.com/bfs/garb/0fa54119b2eedfe829a092f47de1bfd398d03c43.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/1df58fef24f56a877942c0bb8d614e91246caf3b.png\"},{\"name\":\"下雨\",\"image\":\"https://i0.hdslb.com/bfs/garb/54063b9106dca0a9a46ba471916d9140a3639cd7.png\"},{\"name\":\"探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/83759bc1f1c7b0e5a9e32a68f78c9416f1289a6c.png\"},{\"name\":\"趴地板\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7974c7b641d986aed53d3731e5128dc6ad922bd.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/b33580c296c99cb3ed50a4241c32f7702a72ca76.png\"},{\"name\":\"晾干\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5a9714d9d8eae624ce972749e9454792a170331.png\"},{\"name\":\"晴雨伞\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e44b50e698309cca582aa3d6c6aaca26ad2a970.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

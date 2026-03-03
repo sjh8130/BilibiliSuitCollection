@@ -16,14 +16,11 @@
 		"item_id_card":"1720592213001",
 		"item_id_emoji_package":"1720592707001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"8888",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2192446012",
 		"sale_sku_id_2":"2192446011",
 		"sale_time_begin":"1720754580",
@@ -81,21 +78,13 @@
 				"name":"程序崩溃中",
 				"suit_item_id":219244601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f829a4fff56b43766a308c8f21380468ee9ef2e6.png",
 					"item_emoji_list":"[{\"name\":\"已停止\",\"image\":\"https://i0.hdslb.com/bfs/garb/72b59cdb43ddbe8da69a0f21dcad6e545db351fd.png\"},{\"name\":\"图裂了\",\"image\":\"https://i0.hdslb.com/bfs/garb/aedb8ed96b704ec7ac6e8b02172a58a14f72624f.png\"},{\"name\":\"崩溃了\",\"image\":\"https://i0.hdslb.com/bfs/garb/43817ad42697b55fbb94a106fee328ba1ab51ad6.png\"},{\"name\":\"生成报告\",\"image\":\"https://i0.hdslb.com/bfs/garb/30824ce6db54442f9841ed5c30bb1ddfabf24242.png\"},{\"name\":\"思考加载\",\"image\":\"https://i0.hdslb.com/bfs/garb/a6a3f50e3fe701041b662eff054f71958ef0834d.png\"},{\"name\":\"睡眠\",\"image\":\"https://i0.hdslb.com/bfs/garb/1826ffcc38e20715e2b1d7e7fc1e2682a76002e1.png\"},{\"name\":\"情绪崩溃\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d53b8dad997d3059354bae6d42dac91c8030a7e.png\"},{\"name\":\"连不上网\",\"image\":\"https://i0.hdslb.com/bfs/garb/37405b34cea54b6037154a1772b48c2d5089bb06.png\"},{\"name\":\"静音\",\"image\":\"https://i0.hdslb.com/bfs/garb/293cf39b4f65d6fda1d7b51461be41823d9af5ec.png\"},{\"name\":\"玫瑰凋谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0cfbe28fd0cb3c132a16ec462924889e8091cf4.png\"},{\"name\":\"无信号\",\"image\":\"https://i0.hdslb.com/bfs/garb/41e44c939ff8e8c1cefad7799e56040784ba2c59.png\"},{\"name\":\"出错了\",\"image\":\"https://i0.hdslb.com/bfs/garb/408125fafb63752d316a111703fbb7ea97407702.png\"},{\"name\":\"尝试修复\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad7265374742a799dc2432c5df6c253955c902fa.png\"},{\"name\":\"哎呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f3133c2abf121005829e4143bcb24516da6a5f4.png\"},{\"name\":\"投诉成功\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f5f471cab6de6897f6e8b7fa0447d3816fe067a.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

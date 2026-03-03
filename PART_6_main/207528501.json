@@ -16,14 +16,11 @@
 		"item_id_card":"1710398193001",
 		"item_id_emoji_package":"1710398118001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"66",
 		"sale_quantity":"3001",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2075285012",
 		"sale_sku_id_2":"2075285011",
 		"sale_time_begin":"1710570630",
@@ -81,20 +78,12 @@
 				"name":"我家产品",
 				"suit_item_id":207528501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7c24956612a735e8295d2c68028519090b00f167.png",
 					"item_emoji_list":"[{\"name\":\"磕学家\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a0b38f5ddcc0da0cb5c5d47a70a59bc18ac742e.png\"},{\"name\":\"真的磕到了\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7e0883f066f0c420f01ae84459802df8d61c248.png\"},{\"name\":\"车呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/71405d5cef876a78ee6c8791c170c99b29a98bbd.png\"},{\"name\":\"是饭吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/e14ea55d915033b888e4e0c9528778e52cabd731.png\"},{\"name\":\"禁止ntr\",\"image\":\"https://i0.hdslb.com/bfs/garb/7bda76c76c57b0c97d61b91751ae82bc713b57e0.png\"},{\"name\":\"左手\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ed8152929ef883b5e13be0fc10412bd49c08f81.png\"},{\"name\":\"右手\",\"image\":\"https://i0.hdslb.com/bfs/garb/c06c40e6627a11f21473c87f5de402b44ab2d032.png\"},{\"name\":\"握手\",\"image\":\"https://i0.hdslb.com/bfs/garb/084119e0bf2e9b5c9e92edcb33bb5279a572f264.png\"},{\"name\":\"洗手\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d149330f9f374b7296958140f32dc13eaedbcf9.png\"},{\"name\":\"结婚\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a3fc890dbfe9477da9c32e0e6e67630d90f55ec.png\"},{\"name\":\"继续\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9b1e566f042918b10d64165fe2dab93141e488c.png\"},{\"name\":\"翻墙\",\"image\":\"https://i0.hdslb.com/bfs/garb/4629fd977b93654f79052b6df85597e69a31d1f9.png\"},{\"name\":\"锁死\",\"image\":\"https://i0.hdslb.com/bfs/garb/399abfeb8e2c99c2e8f8e0f1d6fd0d406345d076.png\"},{\"name\":\"我说的\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2875e45ac24a80128e63b23c14cb7324e77e15a.png\"},{\"name\":\"马上结婚\",\"image\":\"https://i0.hdslb.com/bfs/garb/01246fbce91e7eb468d24f05b0573d3bc6f4b9ae.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

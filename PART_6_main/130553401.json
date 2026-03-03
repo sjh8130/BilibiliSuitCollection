@@ -16,14 +16,11 @@
 		"item_id_card":"1698831433001",
 		"item_id_emoji_package":"1698831562001",
 		"owner_uid":"1181834006",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1305534012",
 		"sale_sku_id_2":"1305534011",
 		"sale_time_begin":"1699330150",
@@ -81,20 +78,12 @@
 				"name":"守宫爬爬",
 				"suit_item_id":130553401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/651714e3c84f4ab251e4fd6573f1e016884a0639.png",
 					"item_emoji_list":"[{\"name\":\"我刷我刷\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3d392874d2a2d8098bc1bd3793efdb58988dd02.png\"},{\"name\":\"啊哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0f90f02b1e434ba04dd24dae1b07f02365ee639.png\"},{\"name\":\"嗷呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/d003949913cc4ea21643c2e09da4d6bfc11e9c6e.png\"},{\"name\":\"踩踩\",\"image\":\"https://i0.hdslb.com/bfs/garb/574197bf27dd3b4b17e9c5278cb469ec69cb4dfc.png\"},{\"name\":\"蛋花泪\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e3d40923beb44a563284393ff6d662f47e205d9.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/b505acd81fdc0999e61d7f318b10d69b5d621976.png\"},{\"name\":\"卖萌\",\"image\":\"https://i0.hdslb.com/bfs/garb/d75edc913a5dc1e8879e4be25c182e6dde3eeabc.png\"},{\"name\":\"眉头一皱\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e03a0d317516237751100a08766484d1c1b118c.png\"},{\"name\":\"趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/18685e23447002714b29bec34c5cbacdb805b808.png\"},{\"name\":\"燃起来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/07171ae3714a479d0f7f3399258181bef9d91784.png\"},{\"name\":\"爬爬\",\"image\":\"https://i0.hdslb.com/bfs/garb/be18e45f7f88fce936e3ae8ef09667f9baa7e391.png\"},{\"name\":\"蛙\",\"image\":\"https://i0.hdslb.com/bfs/garb/be0349c14f1657d9bf25ae2565c3a19f3ca988e4.png\"},{\"name\":\"妖娆\",\"image\":\"https://i0.hdslb.com/bfs/garb/61dd205d9a51ba7a42f52989561b647124f8bd85.png\"},{\"name\":\"OOOO\",\"image\":\"https://i0.hdslb.com/bfs/garb/59cb61898dc0d3933d8a07860ebd47f300417d89.png\"},{\"name\":\"F\",\"image\":\"https://i0.hdslb.com/bfs/garb/f26ed8acebb6113d789e3f1cd1320b7d7fb226b9.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

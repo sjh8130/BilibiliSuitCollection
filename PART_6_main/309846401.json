@@ -16,14 +16,11 @@
 		"item_id_card":"1744096249001",
 		"item_id_emoji_package":"1744096340001",
 		"owner_uid":"3461576665336761",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3098464012",
 		"sale_sku_id_2":"3098464011",
 		"sale_time_begin":"1744796260",
@@ -81,21 +78,13 @@
 				"name":"一只猫的旅行",
 				"suit_item_id":309846401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/db04632fbd3012cd57a36a7b84f7005e867ae0af.png",
 					"item_emoji_list":"[{\"name\":\"卖萌\",\"image\":\"https://i0.hdslb.com/bfs/garb/d951338cd5eb39502bba5a4f6ffe40da2683044d.png\"},{\"name\":\"偷看\",\"image\":\"https://i0.hdslb.com/bfs/garb/8cc94dacf42c18ebbf7959d3a4a1a018255fd7b5.png\"},{\"name\":\"去旅行\",\"image\":\"https://i0.hdslb.com/bfs/garb/8cd3b3e6833aac5e43fff64efbb9a60320619ab3.png\"},{\"name\":\"开饭了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c09124e0da110174392a07dd9cf2058f68fec58b.png\"},{\"name\":\"吃啥呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/71db55253c433ee03706e4409236e15a0a2c7131.png\"},{\"name\":\"打扮\",\"image\":\"https://i0.hdslb.com/bfs/garb/d69dd94ddb1c4c8f9674ca55130687024fb4c79e.png\"},{\"name\":\"生日快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a0c85d24bbc187468ad9fee4e6f9ffbf5a914d5.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/4001dbd1ed7d2067ddbc37f67563a62cbeec907d.png\"},{\"name\":\"晴天\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7e5b637819d1a1b39f33bc9fa497c6ea5de15e8.png\"},{\"name\":\"清凉\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7621c319a0314f37f0a1355fc9056836a3f99f0.png\"},{\"name\":\"潜水\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d12a6aacc4b5bea7211c9ab11741e0c03915c3a.png\"},{\"name\":\"飞咯\",\"image\":\"https://i0.hdslb.com/bfs/garb/539f69a90d14eb00a75c53aa2834e772eafccffa.png\"},{\"name\":\"舔屏\",\"image\":\"https://i0.hdslb.com/bfs/garb/18e42718f97c099cc1ed548286e8001858d5ef50.png\"},{\"name\":\"飞行中\",\"image\":\"https://i0.hdslb.com/bfs/garb/c574d12693819b3f190137da8e155fdded998500.png\"},{\"name\":\"防御\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c48b5e61a16a13f912490a41d439485ca1dde5d.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

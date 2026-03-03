@@ -16,14 +16,11 @@
 		"item_id_card":"1737551082001",
 		"item_id_emoji_package":"1737551192001",
 		"owner_uid":"3461576665336761",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3022637012",
 		"sale_sku_id_2":"3022637011",
 		"sale_time_begin":"1738031270",
@@ -81,21 +78,13 @@
 				"name":"福蛇",
 				"suit_item_id":302263701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9749bded5acd18b53f41af37c8f0db31619db829.png",
 					"item_emoji_list":"[{\"name\":\"八方来财\",\"image\":\"https://i0.hdslb.com/bfs/garb/2824bf7bdd0ad1a727535125ca2a4c2016cac3d9.png\"},{\"name\":\"萌萌哒\",\"image\":\"https://i0.hdslb.com/bfs/garb/a40e4473bf7afbab5a7be8dea992fb8084bbe342.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/a382f4e05ae7e350c6afe51b6d4d989411bc620d.png\"},{\"name\":\"福气到\",\"image\":\"https://i0.hdslb.com/bfs/garb/254b364168e5a776dd328d4f3e1250cbb9d5bb7e.png\"},{\"name\":\"收红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/64f1e97bfffb6ef4a00c4e38367a44bc0ffb9feb.png\"},{\"name\":\"超开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/26464491fc8ec2e24e0bee02d56479057afb23b1.png\"},{\"name\":\"好运2\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e96783f94ce660c579d4a46af6abbc2e6ca31af.png\"},{\"name\":\"0\",\"image\":\"https://i0.hdslb.com/bfs/garb/2fb94982f1ca302f2a62ff69a46b6feb7c7ce5ec.png\"},{\"name\":\"5\",\"image\":\"https://i0.hdslb.com/bfs/garb/28169a3293527f95846867d71d498f61e7473314.png\"},{\"name\":\"嘻嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/d99c8d3f06d1ff60e06e8d2d8804f0847fca6d3d.png\"},{\"name\":\"大笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca7ae232428fef43ca343f4394927f16d71531bf.png\"},{\"name\":\"哈欠\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8d4209d0aa18120807dce6f38e6e3617ba642d0.png\"},{\"name\":\"大吉大利\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c3d3567b2d29aa70cdf78958739cfb9f03d3b52.png\"},{\"name\":\"招财\",\"image\":\"https://i0.hdslb.com/bfs/garb/8fc58c892c294bd09dcf7b3ceaf44107d9888514.png\"},{\"name\":\"歪头\",\"image\":\"https://i0.hdslb.com/bfs/garb/6090da563c26a0af5f4e4e885142b5ae911da364.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1718957496001",
 		"item_id_emoji_package":"1718957576001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2173487012",
 		"sale_sku_id_2":"2173487011",
 		"sale_time_begin":"1719373650",
@@ -82,21 +79,13 @@
 				"name":"面包小狗",
 				"suit_item_id":217348701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9c6642659c07376c4aba8648ba1d1ce96031bb5f.png",
 					"item_emoji_list":"[{\"name\":\"冒个泡\",\"image\":\"https://i0.hdslb.com/bfs/garb/9cfec4af09500ce1c09e481270da7838f4f4a166.png\"},{\"name\":\"卷毛猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/305909b167689a8c7d390cf18969c51bc88cd005.png\"},{\"name\":\"独栋大别墅\",\"image\":\"https://i0.hdslb.com/bfs/garb/9467482e17e4b5cef2aa87ed2b7e0282f4dee0b6.png\"},{\"name\":\"又熬夜啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/4405f680359b5c226965a47b17b203c7557ec6d0.png\"},{\"name\":\"礼物盒\",\"image\":\"https://i0.hdslb.com/bfs/garb/2793a8d93f5943c67114e2ca56a60134f304ecea.png\"},{\"name\":\"打电话\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b66b7b95d072031ebeacc584c7ad95a6efe1f27.png\"},{\"name\":\"电话线\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1a57c404335fce21e36ff751f728a111ac8168f.png\"},{\"name\":\"接电话\",\"image\":\"https://i0.hdslb.com/bfs/garb/b296ebbd5534d4f6b8aa6ac74b1fa36d4655abc6.png\"},{\"name\":\"玩游戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/c85e6c78198d7fc41776118aa5c0f4c0fe176a7c.png\"},{\"name\":\"躲猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb9f6bd5a034874860b69db70d39973cf453992c.png\"},{\"name\":\"头套兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/3150f4be8ff1f3792ff4c807934dcb355d0871e3.png\"},{\"name\":\"正经兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/19eb25ab1b368dbfde01bb5b2ab8426387e298ad.png\"},{\"name\":\"幸运小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/aca400239108df2ae27d7c57d545c70f304af5ed.png\"},{\"name\":\"面包小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/57fefe898ea88f7c3b78cf4861e7bf4ef06b6a75.png\"},{\"name\":\"去购物\",\"image\":\"https://i0.hdslb.com/bfs/garb/2cde4943f7200a5e9d23528381eca1369eeba413.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

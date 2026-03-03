@@ -5,19 +5,11 @@
 	"group_name":"茶话会",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/a57fb761fd717a20150891c8f67f80be143a151d.png",
 		"item_ids":"54065,54066,54067,54068,54069,54070,54071,54072,54073,54074,54075,54078,54079,54081,54082,54084,54085,54086,54087,54088,54089,54090,54091,54092,54093",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

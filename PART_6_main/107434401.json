@@ -16,14 +16,11 @@
 		"item_id_card":"1678850186001",
 		"item_id_emoji_package":"1678850356001",
 		"owner_uid":"504406727",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"8000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1074344012",
 		"sale_sku_id_2":"1074344011",
 		"sale_time_begin":"1679634000",
@@ -81,20 +78,12 @@
 				"name":"笨笨猪",
 				"suit_item_id":107434401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/64fde74b3c846e25e3e859a03ee5ff1aa1aae59e.png",
 					"item_emoji_list":"[{\"name\":\"不关我事\",\"image\":\"https://i0.hdslb.com/bfs/garb/e370f0bbac429f192e64f9f0b009c65047719195.png\"},{\"name\":\"V20\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a58d54e5ebe3e2f77c819a3c4343e9646a0be59.png\"},{\"name\":\"吃我一拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ac4d154efbed66ac040acda5a483f30ca10bb59.png\"},{\"name\":\"反了你了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7702d3f9b5d96b90f48e62192564cff995d91224.png\"},{\"name\":\"哭成猪头\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a8a2a13cdc88329d0e3f6c57522ec284ec99cc1.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/fb169db0ff6d25d2474d8c8b7623f583625c19df.png\"},{\"name\":\"委屈巴巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/1426c93f44eb7d44b8a063e4f4436052a7dcd51c.png\"},{\"name\":\"给我爬\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c4d03fb5fee4437710ed5e463b81b1d78b24139.png\"},{\"name\":\"喝奶茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ba3aa5704c146631541545fe61e1ae6fed795b3.png\"},{\"name\":\"零下冷酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/88effb7ac27a7bc0936b33f7ac46f6817c1567a9.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/d4656f53992f86e63c12291c965ce2d3a1078a7a.png\"},{\"name\":\"静静的看\",\"image\":\"https://i0.hdslb.com/bfs/garb/7998ee2f5033a6f45df832b7d21ee0441c265577.png\"},{\"name\":\"快亲我\",\"image\":\"https://i0.hdslb.com/bfs/garb/e33fde1cc6fd52a65430baa3e636476c429d5e7c.png\"},{\"name\":\"让我抱一下\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc6c110fb4a4c455991a5af71a3527ffa4d048dc.png\"},{\"name\":\"皮\",\"image\":\"https://i0.hdslb.com/bfs/garb/0697661c67fa42244b2c4196e81cd6ce66b84006.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

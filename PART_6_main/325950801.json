@@ -16,14 +16,11 @@
 		"item_id_card":"1758013003001",
 		"item_id_emoji_package":"1758013078001",
 		"owner_uid":"3493136024210152",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3259508012",
 		"sale_sku_id_2":"3259508011",
 		"sale_time_begin":"1758362400",
@@ -81,21 +78,13 @@
 				"name":"女仆茶会",
 				"suit_item_id":325950801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d2b4f1be0c05357723a52133334f6757e7fba48f.png",
 					"item_emoji_list":"[{\"name\":\"书\",\"image\":\"https://i0.hdslb.com/bfs/garb/71947e2f5bdf62221595af0abf5da253eb502ee8.png\"},{\"name\":\"花茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/df697a99969cdabc9de56b137c178b93d3d8889f.png\"},{\"name\":\"茶壶\",\"image\":\"https://i0.hdslb.com/bfs/garb/95cf95112581491458d4cdf43bc7dfa2b002325a.png\"},{\"name\":\"巧克力\",\"image\":\"https://i0.hdslb.com/bfs/garb/a256ac248436776b222b7a57b1a409db68ebee62.png\"},{\"name\":\"信件\",\"image\":\"https://i0.hdslb.com/bfs/garb/80c3a1ee0fb0c2297be2346026cadf5dae53d59c.png\"},{\"name\":\"烛台\",\"image\":\"https://i0.hdslb.com/bfs/garb/e740e1443c74e810ac8ad3953fd1230c3648afbf.png\"},{\"name\":\"相机\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f22467549c97c06cd12333b9bcddc2615c2643c.png\"},{\"name\":\"画框\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3b44aecfef65b374b553c145c60f39904c83084.png\"},{\"name\":\"嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8ca05467a42e279943605b85e90283968116469.png\"},{\"name\":\"泪目\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a700d35faa291f2414a24ba9da63abed8ccb2bf.png\"},{\"name\":\"什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9b3a74c734333f858479f11fd84c5023d21a6b1.png\"},{\"name\":\"钱包\",\"image\":\"https://i0.hdslb.com/bfs/garb/1cc559f7e10d3b6c0c25b7c712264de69c3d431c.png\"},{\"name\":\"幽默\",\"image\":\"https://i0.hdslb.com/bfs/garb/7acbe04565e77fb32c7ad02c15344b5f5d17b4ca.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3e9c9e3ed8dcccaabba68b89a8d0ff1ab821b10.png\"},{\"name\":\"我懂了\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a2fcd4654c4dd407703c2cce214bd4d43bbd693.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

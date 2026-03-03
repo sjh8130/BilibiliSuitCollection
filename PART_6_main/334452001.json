@@ -16,14 +16,11 @@
 		"item_id_card":"1765187108001",
 		"item_id_emoji_package":"1765187104001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"52",
 		"sale_quantity":"1000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3344520012",
 		"sale_sku_id_2":"3344520011",
 		"sale_time_begin":"1765445110",
@@ -81,21 +78,13 @@
 				"name":"悲伤小猫",
 				"suit_item_id":334452001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ecc6d76e2a62ea33b3ed1f8d994cf978fbb15ecf.png",
 					"item_emoji_list":"[{\"name\":\"咬咬\",\"image\":\"https://i0.hdslb.com/bfs/garb/4556d81c9ba15eb0dd81b6333fe7c65c087540c1.png\"},{\"name\":\"自拍\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1004c6b777707a5bd1155b06d7b7e6e9fa7363e.png\"},{\"name\":\"可怜抬头\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f18c91b21351973c71567efbb94a9a947887b0f.png\"},{\"name\":\"出魂\",\"image\":\"https://i0.hdslb.com/bfs/garb/2487909b24c3c4b53a7b9767f027b0ce686a81e6.png\"},{\"name\":\"虚弱\",\"image\":\"https://i0.hdslb.com/bfs/garb/9540170016fa3a7fc03002e717d927a735b49b8e.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/e59c1a7b15bb5f375ab60d86b7582ce78460f515.png\"},{\"name\":\"上厕所\",\"image\":\"https://i0.hdslb.com/bfs/garb/0bd8e42472c1a826e0d37bd249accafce3e420d4.png\"},{\"name\":\"吃饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9079ece57a52b1d9477753764365fa069a8b5cb.png\"},{\"name\":\"空闲中\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad5aea7cc66e48b045848acc016243f164d6eacb.png\"},{\"name\":\"躺着\",\"image\":\"https://i0.hdslb.com/bfs/garb/f85d6d64908473662d1983937b32a7f3677a3a6b.png\"},{\"name\":\"盯着\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9ed79df35e39c5730c591f8c3ca03e42cb86367.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/be69bc8d6a3bbd4a5003fb8bf6824264d2162c99.png\"},{\"name\":\"垃圾桶\",\"image\":\"https://i0.hdslb.com/bfs/garb/d83e07cb44f8426045b052d15836372c9844e137.png\"},{\"name\":\"献花\",\"image\":\"https://i0.hdslb.com/bfs/garb/69428002878f6dc8cedfbe2d88f1239b9adfcb88.png\"},{\"name\":\"成功人士\",\"image\":\"https://i0.hdslb.com/bfs/garb/789699e53480a45dedf69bd4ef8241be0ab8ee1a.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

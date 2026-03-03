@@ -16,14 +16,11 @@
 		"item_id_card":"1695175074001",
 		"item_id_emoji_package":"1695110423001",
 		"owner_uid":"670729222",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"15000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1291498012",
 		"sale_sku_id_2":"1291498011",
 		"sale_time_begin":"1697783090",
@@ -81,20 +78,12 @@
 				"name":"精神小火",
 				"suit_item_id":129149801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6fc6f81d9f9b3251ac55958ccbc57dadc74f267d.png",
 					"item_emoji_list":"[{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/49fa508a61275a39911822845c65d69fd5bfde40.png\"},{\"name\":\"气的脸焦黄\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ea3e58164a064d6b250692a709f0e615dce2cf7.png\"},{\"name\":\"好燃\",\"image\":\"https://i0.hdslb.com/bfs/garb/5cc3743dcc8a2c92af7b795feacebc6dc3d37302.png\"},{\"name\":\"癫\",\"image\":\"https://i0.hdslb.com/bfs/garb/3212a8ee6b0d966c0944693c3fe3669be4b7a5cd.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/b97c7d46fc558a9348bd26bad7cf01efb3afc226.png\"},{\"name\":\"小火\",\"image\":\"https://i0.hdslb.com/bfs/garb/175d7a3f07f3d86d2726780a1adff7c0db2581a4.png\"},{\"name\":\"熄火\",\"image\":\"https://i0.hdslb.com/bfs/garb/39ce96f2cdbc888790d7d2ba9cc7c11b368ccda4.png\"},{\"name\":\"起跳\",\"image\":\"https://i0.hdslb.com/bfs/garb/a181ba950074971cae40cabe841812db32611f9d.png\"},{\"name\":\"火盆\",\"image\":\"https://i0.hdslb.com/bfs/garb/98cca13b6cdf8ab095f7836db6741e29208a3a73.png\"},{\"name\":\"落地\",\"image\":\"https://i0.hdslb.com/bfs/garb/f830997767b888dc797db7248d09a7ba0531d7ec.png\"},{\"name\":\"斯密马赛\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e6a33c30cc7c65215c3388499632781e928d759.png\"},{\"name\":\"有品\",\"image\":\"https://i0.hdslb.com/bfs/garb/4448efc2e693d0aae58718981a92ffc516ee176a.png\"},{\"name\":\"阿里嘎多\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a168160c65c768b2b19933634a2460c72270201.png\"},{\"name\":\"闪亮\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ff3545bf91929d91353a5ed319fe7c7b6497cf4.png\"},{\"name\":\"爆炸\",\"image\":\"https://i0.hdslb.com/bfs/garb/cbe12992f4d6e94efcbb08f3b9f2723ccfe63e71.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

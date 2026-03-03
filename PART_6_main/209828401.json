@@ -16,14 +16,11 @@
 		"item_id_card":"1712138265001",
 		"item_id_emoji_package":"1712138309001",
 		"owner_uid":"260645654",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2098284012",
 		"sale_sku_id_2":"2098284011",
 		"sale_time_begin":"1712632400",
@@ -81,20 +78,12 @@
 				"name":"春日狼咖",
 				"suit_item_id":209828401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/65218ca2abdd3a24b060a69f944e8fa31fe04055.png",
 					"item_emoji_list":"[{\"name\":\"点头\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ed45d1fb47859692af2a35d50967c2e8fb025ee.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b65cb1ca7432d535b93b70a8f66758aac0de47a.png\"},{\"name\":\"酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0deee690de3eebcf9bb2694e76c6498e68c7d49.png\"},{\"name\":\"计算\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a5364945030d08927ef4b7ecc529c954ca9c064.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d3ceee7ef32d9b00427b7cc8ffc33532bd9a775.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d84781d4986ec37b1fc939e47c0e46e843dc715.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/23a4869123bda4ccb83a5ed704fa735f1d729f39.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a24b95b8a21e1b768cd6259661f04a6aa615cc9.png\"},{\"name\":\"放光\",\"image\":\"https://i0.hdslb.com/bfs/garb/e32150dc274a493bbe91e4e55c4ffedeacf3c3d9.png\"},{\"name\":\"装傻\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b574edfaee00aaadd9b021769d7afe4ccfad505.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f8789c4f7417b3f9689ccf3510cb79ea2232dbd.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/740d2ba40a5daebb25d28b7eed86f70dcc3ee905.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/201e86a2d8b1a5c7f4ed3e59a6cab56c06001802.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a407afe07c15cfebeb860465306674ca4198956.png\"},{\"name\":\"邪恶\",\"image\":\"https://i0.hdslb.com/bfs/garb/2da38495d3832b82d3f1b63482859fa720d3a61f.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

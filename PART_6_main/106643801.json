@@ -15,14 +15,11 @@
 		"item_id_card":"1678160134001",
 		"item_id_emoji_package":"1678160603001",
 		"owner_uid":"101156492",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1066438012",
 		"sale_sku_id_2":"1066438011",
 		"sale_time_begin":"1678852800",
@@ -81,20 +78,12 @@
 				"name":"Ame表情包",
 				"suit_item_id":106643801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d95bf8617d3e4650560d59e71ff64d6928636161.png",
 					"item_emoji_list":"[{\"name\":\"我觉得行\",\"image\":\"https://i0.hdslb.com/bfs/garb/8fa56ef46c602ea17b6fb7cb565e8d784b359a93.png\"},{\"name\":\"笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/11cd7350c6285bda41b54c3338b87b143fb92687.png\"},{\"name\":\"问号\",\"image\":\"https://i0.hdslb.com/bfs/garb/53dee89fa5248fd7657bbdd64125cf6435cc5464.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0c662c5a3ed7e3e8a5335bc34582f143e59fa62.png\"},{\"name\":\"负分\",\"image\":\"https://i0.hdslb.com/bfs/garb/b60ec00675864f47ba295b2a9dbe04856c364dcb.png\"},{\"name\":\"正分\",\"image\":\"https://i0.hdslb.com/bfs/garb/10c8ef2a81dbdab31c13b57d9327b6aa3c1cfe3b.png\"},{\"name\":\"收收味\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbe5f1c23a01808f2752722d34d15f453b1b7a5a.png\"},{\"name\":\"唱歌\",\"image\":\"https://i0.hdslb.com/bfs/garb/bab6a859e38420b343edc195dd2fdc9cb0aac5c7.png\"},{\"name\":\"酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3fd67bd23e8d7e0516fe44411f365def51e3319.png\"},{\"name\":\"吃海苔\",\"image\":\"https://i0.hdslb.com/bfs/garb/0de153da64c2d5aef7bad0206b4091470e492b6a.png\"},{\"name\":\"和解\",\"image\":\"https://i0.hdslb.com/bfs/garb/daee61389a885458d720b374b9dd2c22277eae69.png\"},{\"name\":\"汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/8aa74208cf5b3cff0a9038163e2703d927c979c9.png\"},{\"name\":\"研究\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5500606abd4ded39473c35f4fa10bb9605fbba0.png\"},{\"name\":\"唐\",\"image\":\"https://i0.hdslb.com/bfs/garb/4789e5325db7060ac42b87f89e3445ec9a51c66c.png\"},{\"name\":\"尴尬\",\"image\":\"https://i0.hdslb.com/bfs/garb/5c168b9fbe112d9a23b7ae93413bf918bc4a0161.png\"},{\"name\":\"认同\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8270d4bd3f8d95b9e782871bccbd5f07d810ca6.png\"},{\"name\":\"钓鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/c030f34d43e2d0510274b5d762f1229e4ab5b332.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/97f0706754418886a09855cc04263606a1676415.png\"},{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/778cec827ebb7ed23a901d5811a01527fcd1f4ff.png\"},{\"name\":\"打招呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd52b9d6b6cfbf968772019b1cb1514accab181d.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

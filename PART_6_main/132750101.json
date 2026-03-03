@@ -16,14 +16,11 @@
 		"item_id_card":"1700725886001",
 		"item_id_emoji_package":"1700725398001",
 		"owner_uid":"260645654",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"200000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1327501012",
 		"sale_sku_id_2":"1327501011",
 		"sale_time_begin":"1700884670",
@@ -81,20 +78,12 @@
 				"name":"像素蒸汽波",
 				"suit_item_id":132750101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/97df70ef236ffc46287ccd1a03a7dec666601ce8.png",
 					"item_emoji_list":"[{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8d0cc3f9aa3b7f62271360a26d6a16ba73838d7.png\"},{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/5447743ee30e23dd44207b26d7dc616cb85118c4.png\"},{\"name\":\"收藏\",\"image\":\"https://i0.hdslb.com/bfs/garb/225fa03da323433ef8fa67cbcca124542ec79768.png\"},{\"name\":\"你好\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1100612500360c8cdbdc0287861b386c7c553a1.png\"},{\"name\":\"cry\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3a5511a244ff078022adab8e0766e7d29d17328.png\"},{\"name\":\"猫爪\",\"image\":\"https://i0.hdslb.com/bfs/garb/76be925a19fbebd790c69a78c5512c09f1f69c97.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/604023131d0403c2eabbd2e20bb0b69192d05f06.png\"},{\"name\":\"透明爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/0be7397857795954858730f8445e18d6e3f64f95.png\"},{\"name\":\"粉红泡泡\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a8a47b9603c29965506c0d821eea7e77c8ede04.png\"},{\"name\":\"错误\",\"image\":\"https://i0.hdslb.com/bfs/garb/dff806a4163fca825c0f091e14810b0a88b2a51a.png\"},{\"name\":\"独角兽\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ef790a24bec81adfc4b8777b7b9a3cc71e264cc.png\"},{\"name\":\"笑脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1aa03e1d4623e3d3a1324a9913e7c016a063f14.png\"},{\"name\":\"夕阳\",\"image\":\"https://i0.hdslb.com/bfs/garb/50c01f1fbb94d621f262bff5377859b3dd92f40b.png\"},{\"name\":\"love\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d28c2120392d51195444adea5aaf424369678ba.png\"},{\"name\":\"彩红\",\"image\":\"https://i0.hdslb.com/bfs/garb/f13d9b00d5cdae36907e32c3d1dd42ac8de3a71a.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1689315522001",
 		"item_id_emoji_package":"1689315551001",
 		"owner_uid":"3493136928082317",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1195431012",
 		"sale_sku_id_2":"1195431011",
 		"sale_time_begin":"1704686400",
@@ -81,20 +78,12 @@
 				"name":"系统预警",
 				"suit_item_id":119543101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1ecf4c5418d3713617a4c21326eb94452422104d.png",
 					"item_emoji_list":"[{\"name\":\"传输成功\",\"image\":\"https://i0.hdslb.com/bfs/garb/feb1ce97cbd9d21cc777ebbd639b9bf3bf2c65db.png\"},{\"name\":\"加密文件\",\"image\":\"https://i0.hdslb.com/bfs/garb/22d7b3deab10e3ae1ada807aa74d509ff41df6e7.png\"},{\"name\":\"无信号\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea765d6a3cb030d1cbef584a63e0925cb32ac6e4.png\"},{\"name\":\"有根头发\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a9abe6c99905c47d24a57df51b8c8cb45b45070.png\"},{\"name\":\"清空回收站\",\"image\":\"https://i0.hdslb.com/bfs/garb/74e3617375620afe4e6723c1fe80bfd05f170823.png\"},{\"name\":\"友军\",\"image\":\"https://i0.hdslb.com/bfs/garb/4513980ca58bf86158942ef7c14e60e0fc52ad9c.png\"},{\"name\":\"look\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdbed809996f4cd371e7192d3d1ce38b3102a487.png\"},{\"name\":\"恶搞虫虫\",\"image\":\"https://i0.hdslb.com/bfs/garb/fcb0e91e2752b37f0ef6706480894c720d31e4a3.png\"},{\"name\":\"错误\",\"image\":\"https://i0.hdslb.com/bfs/garb/199452587c2bf20e6af2d4ad65224188578c38ca.png\"},{\"name\":\"破大防\",\"image\":\"https://i0.hdslb.com/bfs/garb/162c1b6f6a8f62a2dfb629da4e5fdd5ff183fef2.png\"},{\"name\":\"无法播放\",\"image\":\"https://i0.hdslb.com/bfs/garb/d36b52894c05f8b35e48812e56d3fdbeb49acd36.png\"},{\"name\":\"无法显示\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d81ad139fa3414b8e63a37d5f9dfcdbc679a2c5.png\"},{\"name\":\"预警\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6cd48a82412fd9d4f893bec58dbfd0937d5b2fa.png\"},{\"name\":\"倒计时\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a37e1308e7674ebbeccae070b9a00ac6ce85e7e.png\"},{\"name\":\"格式化\",\"image\":\"https://i0.hdslb.com/bfs/garb/896b411de1e92cda5e54a5a2735c3e823cbdf0c4.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

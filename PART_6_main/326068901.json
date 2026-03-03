@@ -16,14 +16,11 @@
 		"item_id_card":"1758120760001",
 		"item_id_emoji_package":"1758120794001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"99999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3260689012",
 		"sale_sku_id_2":"3260689011",
 		"sale_time_begin":"1758598981",
@@ -82,21 +79,13 @@
 				"name":"卷卷猫 种菜吧",
 				"suit_item_id":326068901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/bbb3d312e5a048ba17ae37fe703319b3b21b9752.png",
 					"item_emoji_list":"[{\"name\":\"土豆\",\"image\":\"https://i0.hdslb.com/bfs/garb/21e04336395bd10c382942d14fb4aee182b011cd.png\"},{\"name\":\"南瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/14e9e0ab393e6aa83383151540999ad65a8c3a51.png\"},{\"name\":\"大白菜\",\"image\":\"https://i0.hdslb.com/bfs/garb/15bcce7ec8043f68a14e11fe71282d0e25d7188b.png\"},{\"name\":\"大蒜\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8ea17b4c6601c83d34f4ef266c23756a7ac8cfc.png\"},{\"name\":\"玉米\",\"image\":\"https://i0.hdslb.com/bfs/garb/f0b8e5da60277877518812da28df6fc48522c6cb.png\"},{\"name\":\"大葱\",\"image\":\"https://i0.hdslb.com/bfs/garb/1178870455737bbc87bcc51799a553d20c16094c.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9e2a0a8f3ef7e5668eb0d53edb977e75ccdf13f.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/d62ca16bde58a57db260011c215c22950e3fc8d1.png\"},{\"name\":\"胡萝卜\",\"image\":\"https://i0.hdslb.com/bfs/garb/70d7602afe0f0a133248ebac251014e3e48015cd.png\"},{\"name\":\"花花\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3a2f41e24bce4481804533267aab3cd44f233cc.png\"},{\"name\":\"红薯\",\"image\":\"https://i0.hdslb.com/bfs/garb/96fb124fe3fdb3fe5121eb91f9774ecb41a6449d.png\"},{\"name\":\"小苦瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c2cbd1e2bf62b3b99bd645ad3acbda7f1952b3a.png\"},{\"name\":\"哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/9cf151c6dd07de11caa38c378cdcb185b20ce61e.png\"},{\"name\":\"茄子\",\"image\":\"https://i0.hdslb.com/bfs/garb/22443d6e5bceb60afec8b3dc4862e6e7a859db64.png\"},{\"name\":\"辣椒\",\"image\":\"https://i0.hdslb.com/bfs/garb/21e32dfbee00f1973e24bb0872aa05b56a355616.png\"},{\"name\":\"西红柿\",\"image\":\"https://i0.hdslb.com/bfs/garb/29d2804d17d3841dd48af864713562741c615ae5.png\"},{\"name\":\"调皮\",\"image\":\"https://i0.hdslb.com/bfs/garb/72e7ddc80837f27972a98751088c381b0d4fc3a7.png\"},{\"name\":\"青菜\",\"image\":\"https://i0.hdslb.com/bfs/garb/93345f5c122730c9edd82883de104c33364ede30.png\"},{\"name\":\"黄瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf9bac0d571601147bc54a7d48cd0f75a6b9f5d3.png\"},{\"name\":\"香菇\",\"image\":\"https://i0.hdslb.com/bfs/garb/137c625408418df597393ff7c2423673c7ca4696.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

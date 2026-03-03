@@ -16,14 +16,11 @@
 		"item_id_card":"1698397312001",
 		"item_id_emoji_package":"1698397585001",
 		"owner_uid":"670729222",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"200000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1305341012",
 		"sale_sku_id_2":"1305341011",
 		"sale_time_begin":"1699014500",
@@ -81,20 +78,12 @@
 				"name":"章鱼贴贴",
 				"suit_item_id":130534101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/75ec536d29a1f1910f3a2be73ab8bbde16c17b02.png",
 					"item_emoji_list":"[{\"name\":\"飞走\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2e649d7e7d4a32b50eff006e395df379744c75d.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0689e9ef1aa3a56111b60647392a5569725210f.png\"},{\"name\":\"急\",\"image\":\"https://i0.hdslb.com/bfs/garb/d159a1227373bc0ce122f2abf2cbc1cd47d5491f.png\"},{\"name\":\"吧唧\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf36a5487c6c74ef8910dc5d53b597a6d46aaca8.png\"},{\"name\":\"吃饱\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae665c0750bfb188734f53ebb8f45bff0c512530.png\"},{\"name\":\"投降\",\"image\":\"https://i0.hdslb.com/bfs/garb/0567de2d9adecee142da2d5fe84fa027d04113e5.png\"},{\"name\":\"阴影\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e50395194db0aa139c4d68fc7b7b7470895c5f0.png\"},{\"name\":\"小心背后\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3be2f2678f7f57ec5ae1ec5b4867e075842b3b3.png\"},{\"name\":\"闪亮\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9a0e346dc75a5427caae3b631df6bf5f2b7724b.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3b909b19aa7ba7ba1bf172494f1b159656f1a39.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/276fc8ea71695a52729d24a24eb05b141152e440.png\"},{\"name\":\"吃吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/048be32b1c3a66cba0bf49fccf11faa5e603fda2.png\"},{\"name\":\"干瘪章鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d0267e0713cc9ae4460748c0a7140798bcd80f8.png\"},{\"name\":\"制作章鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6f9f37e3a548d232cf839698c5e4eee337f735d.png\"},{\"name\":\"章鱼烧\",\"image\":\"https://i0.hdslb.com/bfs/garb/4bdeb8c5d07978654cee73492ed17adc96de1995.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

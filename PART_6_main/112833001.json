@@ -15,14 +15,11 @@
 		"item_id_card":"1683510336001",
 		"item_id_emoji_package":"1683510369001",
 		"owner_uid":"2142503509",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1128330012",
 		"sale_sku_id_2":"1128330011",
 		"sale_time_begin":"1683799200",
@@ -80,20 +77,12 @@
 				"name":"西游姬之猪八戒",
 				"suit_item_id":112833001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/443e8828eea6744cd636681e002b22b730127d22.png",
 					"item_emoji_list":"[{\"name\":\"猪猪心碎\",\"image\":\"https://i0.hdslb.com/bfs/garb/324341751d788ae79c24d32ee45dd8a686175ba4.png\"},{\"name\":\"猪猪爱了\",\"image\":\"https://i0.hdslb.com/bfs/garb/bec99cf5eac1af3d61b52dd05e70fb165bfc0436.png\"},{\"name\":\"yue了\",\"image\":\"https://i0.hdslb.com/bfs/garb/6cbccad62cc226bd90ae45d2b5c360329bd48d69.png\"},{\"name\":\"拿来\",\"image\":\"https://i0.hdslb.com/bfs/garb/288ac50f1aee645fb46feb1d1ed19ee11ff26a4f.png\"},{\"name\":\"优秀\",\"image\":\"https://i0.hdslb.com/bfs/garb/c47932f42080232b11692cc5f95fc11619e5f64c.png\"},{\"name\":\"安静\",\"image\":\"https://i0.hdslb.com/bfs/garb/2471a3af4bc77e5917dac027d69835857a3b8843.png\"},{\"name\":\"差不多得了\",\"image\":\"https://i0.hdslb.com/bfs/garb/2874c058fde25efc9a3885a2139dfdf300d3d7df.png\"},{\"name\":\"猪哥\",\"image\":\"https://i0.hdslb.com/bfs/garb/f48d8071cca7415c539e17a6cb25c72c25042718.png\"},{\"name\":\"胜利了\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae7a8c69575eaf1718f1a9cbaba199f0ceee6bc0.png\"},{\"name\":\"猪猪不要\",\"image\":\"https://i0.hdslb.com/bfs/garb/a94754d73da7c1791c291332ced207c0f83cefb8.png\"},{\"name\":\"糗大了\",\"image\":\"https://i0.hdslb.com/bfs/garb/756da1688461de30cd040ce2e8c8dd6ca16ceba9.png\"},{\"name\":\"宕机\",\"image\":\"https://i0.hdslb.com/bfs/garb/20c4e42ab6a820aa38ea5f88e734fffc090ac59e.png\"},{\"name\":\"拳头嗯了\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b0f4df053130e65e7dd045dfa71c43562f79f9e.png\"},{\"name\":\"不愧是猪猪\",\"image\":\"https://i0.hdslb.com/bfs/garb/402a90c18f5a1ff4e675033d4af19b0f7d08b034.png\"},{\"name\":\"好大的瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/cca7f4fea3665c9ad4dbeb5065541d0155f20ba8.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

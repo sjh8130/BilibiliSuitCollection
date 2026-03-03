@@ -16,14 +16,11 @@
 		"item_id_card":"1724125911001",
 		"item_id_emoji_package":"1724125971001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2233357012",
 		"sale_sku_id_2":"2233357011",
 		"sale_time_begin":"1724383100",
@@ -82,21 +79,13 @@
 				"name":"地球online",
 				"suit_item_id":223335701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/aab5b28213f493259a95ffb43f51fdc825398094.png",
 					"item_emoji_list":"[{\"name\":\"逃离地球\",\"image\":\"https://i0.hdslb.com/bfs/garb/7366a5a0029978e5daed7746f36cf311a9a4b2c4.png\"},{\"name\":\"红温\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3b0fe26082a3f7f6b8fbb66fd4bb0e4ac182300.png\"},{\"name\":\"你没事吧\",\"image\":\"https://i0.hdslb.com/bfs/garb/2bc094a88a4c23b3bdd60f299ea97dc2e7e79b1e.png\"},{\"name\":\"被地球重创\",\"image\":\"https://i0.hdslb.com/bfs/garb/241a32b339b114d0c83681df11331956b4c0d06b.png\"},{\"name\":\"快跑\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5b9220325510c6fd2f0cc07fbec9c6ec3d68c02.png\"},{\"name\":\"已读\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f32a137da10ec8286750ac04dd094a46e56e3f8.png\"},{\"name\":\"启动\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd8a5ceea6ed9e3dc938be3cbf326874ce0a53ef.png\"},{\"name\":\"离线\",\"image\":\"https://i0.hdslb.com/bfs/garb/490ec35c7e6b39e03fbf1fc6cca9f15f52c7f0c0.png\"},{\"name\":\"差评\",\"image\":\"https://i0.hdslb.com/bfs/garb/e2dcfdc65dd0f89235ae5a6f2a5699952919c1b3.png\"},{\"name\":\"光速逃跑\",\"image\":\"https://i0.hdslb.com/bfs/garb/089d6ae7e8dfd9a67103405d7277228bda0e32a2.png\"},{\"name\":\"删除地球\",\"image\":\"https://i0.hdslb.com/bfs/garb/4aaaf11573ce7270f49134807a31e48b81e3fac0.png\"},{\"name\":\"不是哥们\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ee84e545111fa5d6a246fd13e7d4b76225f0a71.png\"},{\"name\":\"地球爆炸\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca4d72e5a93d9797d000c9a8b7ffada463461f5e.png\"},{\"name\":\"账户注销\",\"image\":\"https://i0.hdslb.com/bfs/garb/db7883ffae85244318e1808e3aa3f84c8a519f11.png\"},{\"name\":\"加载中\",\"image\":\"https://i0.hdslb.com/bfs/garb/effda9036911d84bb6f7442e4baf3771a441346f.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

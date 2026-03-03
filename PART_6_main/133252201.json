@@ -16,14 +16,11 @@
 		"item_id_card":"1701142872001",
 		"item_id_emoji_package":"1701142815001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1332522012",
 		"sale_sku_id_2":"1332522011",
 		"sale_time_begin":"1701250310",
@@ -81,20 +78,12 @@
 				"name":"星座指示-狮子座",
 				"suit_item_id":133252201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/489fbf37d971d8a80b57453e7acd52735f9df04e.png",
 					"item_emoji_list":"[{\"name\":\"狮子座\",\"image\":\"https://i0.hdslb.com/bfs/garb/96a46bcc331c5eb03117221b4ab579a0198fcd88.png\"},{\"name\":\"打招呼\",\"image\":\"https://i0.hdslb.com/bfs/garb/206adfd36120995331b3c7464aaacdf4bd990857.png\"},{\"name\":\"得意\",\"image\":\"https://i0.hdslb.com/bfs/garb/57cc87f8ed2a5af6d674c73b60fbb44a3b1186fb.png\"},{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/46c0e8ba207e1a97af42c7633bbe3392b463db81.png\"},{\"name\":\"噔噔！\",\"image\":\"https://i0.hdslb.com/bfs/garb/07c3cbd465399c3a0f810f8230e00021bc1f641b.png\"},{\"name\":\"骂骂咧咧\",\"image\":\"https://i0.hdslb.com/bfs/garb/6889624bd6da237a297be567d7e7c8a0c7a716e0.png\"},{\"name\":\"打call\",\"image\":\"https://i0.hdslb.com/bfs/garb/7bbf3619647fb43785c0ba58b6df6faf174ea0ab.png\"},{\"name\":\"小太阳\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7329b6b75dfc5595f18d4c9a91b80e83ea95e76.png\"},{\"name\":\"你好美女\",\"image\":\"https://i0.hdslb.com/bfs/garb/92c38caee569a8ddde9269c51a4f215e880948a1.png\"},{\"name\":\"后退\",\"image\":\"https://i0.hdslb.com/bfs/garb/58ca76bf1f3ec4d23ccacf6816fc78c2301b63f3.png\"},{\"name\":\"冒出\",\"image\":\"https://i0.hdslb.com/bfs/garb/64cfac59292641baa906657c0c5b10c111d05784.png\"},{\"name\":\"视线转移\",\"image\":\"https://i0.hdslb.com/bfs/garb/c264616ee4aae6343a1172356a461a9b49346e73.png\"},{\"name\":\"呕吐\",\"image\":\"https://i0.hdslb.com/bfs/garb/1dba5e896e6ad77d314e0dcaa4ed41cbe36fcc52.png\"},{\"name\":\"隐忍\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d21d71130b4215e2c5c59feef098060dc75bb35.png\"},{\"name\":\"灵魂出窍\",\"image\":\"https://i0.hdslb.com/bfs/garb/75664923a793baae5bac4126db6c76c5b8e78923.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

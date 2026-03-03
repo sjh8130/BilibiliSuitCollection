@@ -17,14 +17,11 @@
 		"item_id_emoji_package":"1685031796001",
 		"item_id_thumbup":"1685032514001",
 		"owner_uid":"1732540672",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"6500",
 		"sale_bp_pm_raw":"1000",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1146020012",
 		"sale_sku_id_2":"1146020011",
 		"sale_time_begin":"1685180489",
@@ -82,20 +79,12 @@
 				"name":"颜文大赛·眠眠兔",
 				"suit_item_id":114602001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/bb54aa3189803b93256a123706b6d5059d2b9284.png",
 					"item_emoji_list":"[{\"name\":\"我三岁\",\"image\":\"https://i0.hdslb.com/bfs/garb/b1ccdf1c4470fe297b2dfe54a7cf3887dcc4995e.png\"},{\"name\":\"我五岁\",\"image\":\"https://i0.hdslb.com/bfs/garb/af9374d0e850d3266bedfd2055dfc3b3a619c8aa.png\"},{\"name\":\"你多大\",\"image\":\"https://i0.hdslb.com/bfs/garb/af05083e0dc21dfd85d9929d09fdfe0928857c4d.png\"},{\"name\":\"他们都有\",\"image\":\"https://i0.hdslb.com/bfs/garb/6487336840375b158829abb51532e598ed79f4f1.png\"},{\"name\":\"我也要\",\"image\":\"https://i0.hdslb.com/bfs/garb/286f8d316710a0bafee541578036efc40203058e.png\"},{\"name\":\"宝宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff26d4f578fb0c1e17f5e66721c6c0df7fc3c3fd.png\"},{\"name\":\"宇航员\",\"image\":\"https://i0.hdslb.com/bfs/garb/747c55900890b6f17acd074c83ec747910b256de.png\"},{\"name\":\"侦探\",\"image\":\"https://i0.hdslb.com/bfs/garb/da3ef460fd6febdc295204bfcaac5f71f863ebf3.png\"},{\"name\":\"科学家\",\"image\":\"https://i0.hdslb.com/bfs/garb/b75be44ddf2892d7cb3dcb96953b085d7e65cb53.png\"},{\"name\":\"医生\",\"image\":\"https://i0.hdslb.com/bfs/garb/de1926a8f599f334594cae89ed0b05e824b8cb04.png\"},{\"name\":\"消防员\",\"image\":\"https://i0.hdslb.com/bfs/garb/76fd6bba118a12cfb53dffabe34e9d2581c7f2fc.png\"},{\"name\":\"老师\",\"image\":\"https://i0.hdslb.com/bfs/garb/5c85cee9164863c3c9e2cc294a95aa29ed1ad7d1.png\"},{\"name\":\"画家\",\"image\":\"https://i0.hdslb.com/bfs/garb/02641a285def18ca6cf5c78bcacb127e0131b0ff.png\"},{\"name\":\"歌手\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9e8231f725547ff398e542819cabf25a6d81e3a.png\"},{\"name\":\"小卖部老板\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d16fddd3a59ea5058428894b4106c2c9c46e978.png\"},{\"name\":\"图书管理员\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5c8988bc199ca2229ba7c5cbd94af498cd4161d.png\"},{\"name\":\"马戏团\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb6b5357d6fde2406a03d181b0289d2bc43ebadb.png\"},{\"name\":\"赵\",\"image\":\"https://i0.hdslb.com/bfs/garb/3202c2c1a047a535865cbde2f3632573e13edf15.png\"},{\"name\":\"钱\",\"image\":\"https://i0.hdslb.com/bfs/garb/82271bb733f7bddf39b091c0e293c9d9355dda32.png\"},{\"name\":\"孙\",\"image\":\"https://i0.hdslb.com/bfs/garb/d41ba3df697f316be7efffcbbcfc2c613ec9cea7.png\"},{\"name\":\"李\",\"image\":\"https://i0.hdslb.com/bfs/garb/5576d3c52bfc1a1a9b256f507bcaa0c49c5bfbba.png\"},{\"name\":\"周\",\"image\":\"https://i0.hdslb.com/bfs/garb/8752824b6eb82aa9792c62f8bb52e8e2e051ee27.png\"},{\"name\":\"吴\",\"image\":\"https://i0.hdslb.com/bfs/garb/e39aed2a0c7692bb2114504280f00e19bafb629a.png\"},{\"name\":\"郑\",\"image\":\"https://i0.hdslb.com/bfs/garb/2e50085b540d305ff942df96a71932098f21e64c.png\"},{\"name\":\"王\",\"image\":\"https://i0.hdslb.com/bfs/garb/b235199af9203ff889ca465b22e02e0b9c15bd3f.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

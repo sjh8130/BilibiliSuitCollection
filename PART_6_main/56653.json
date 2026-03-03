@@ -17,14 +17,11 @@
 		"image_cover_color":"#277da4",
 		"item_id_card":"56604",
 		"item_id_emoji":"56609",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"100",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_time_begin":"1691661600",
 		"sale_type":"pay",
 		"suit_card_type":"big_img",
@@ -74,19 +71,11 @@
 				"tab_id":8,
 				"suit_item_id":56653,
 				"properties":{
-					"addable":"true",
 					"biz":"dynamic,reply,watch_full",
 					"image":"https://i0.hdslb.com/bfs/emote/cb215643d394306ee47e8741fa1c1d0f08d1b2a5.png",
 					"item_ids":"56608,56610,56611,56612,56613,56614,56615,56616,56617,56618,56619,56620,56621,56622,56623,56624,56625,56626,56627,56628",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

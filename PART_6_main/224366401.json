@@ -16,14 +16,11 @@
 		"item_id_card":"1725020548001",
 		"item_id_emoji_package":"1724983789001",
 		"owner_uid":"5888511",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"200000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2243664012",
 		"sale_sku_id_2":"2243664011",
 		"sale_time_begin":"1725624000",
@@ -81,21 +78,13 @@
 				"name":"日暖花语",
 				"suit_item_id":224366401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/cb6ae6d2729c552bf3e2e42e3cabee516579df7a.png",
 					"item_emoji_list":"[{\"name\":\"爆炸\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1bf01ddb9376c92044a6ff904d4ee85033124ac.png\"},{\"name\":\"晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/d01487124366eb30e24c68f2b9cf41f51d2f5be9.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef5a55d3575bd41714243eca05f808aba3ca2961.png\"},{\"name\":\"笔芯\",\"image\":\"https://i0.hdslb.com/bfs/garb/3741db3f4c0a8f729283e94ec29ccdd5e92d3d45.png\"},{\"name\":\"来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/5adadc54dd8390481a30ff68fd74f840b6f9cd3b.png\"},{\"name\":\"6\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b67146b443aed76a61d9840acd27b47e465f73c.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b7ee2e38c53167ee2229bd3d4e49196cbd3251b.png\"},{\"name\":\"困\",\"image\":\"https://i0.hdslb.com/bfs/garb/09457c10b6f15afc2b2f0ed924a38e9c6c2b4d9b.png\"},{\"name\":\"黑线\",\"image\":\"https://i0.hdslb.com/bfs/garb/819c39c710a34fcf55e19bd3fb94606e00aa1ff0.png\"},{\"name\":\"拜拜\",\"image\":\"https://i0.hdslb.com/bfs/garb/b938372b556020d6ede6c94e52c21bb1967209fe.png\"},{\"name\":\"委屈哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/e14f6aef39edc891a66f5cab00be11c03bd9d75c.png\"},{\"name\":\"NO\",\"image\":\"https://i0.hdslb.com/bfs/garb/ccfd8a071e5a7d2ec79441a02a6f54276c27be8d.png\"},{\"name\":\"双开门\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e5b07332baf66ee3916082a2c6d4593fcc1ebf1.png\"},{\"name\":\"大笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/bff3f3a7b448ec7a6325498d77a1407c77ee5cdd.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd196429d346f10d038ed9228761ec6166931270.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

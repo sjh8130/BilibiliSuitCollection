@@ -15,14 +15,11 @@
 		"item_id_card":"1698833821001",
 		"item_id_emoji_package":"1698833893001",
 		"owner_uid":"1181834006",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1305555012",
 		"sale_sku_id_2":"1305555011",
 		"sale_time_begin":"1705572000",
@@ -80,20 +77,12 @@
 				"name":"保卫萝卜·团聚一刻",
 				"suit_item_id":130555501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a76e3b4ab645d899382f26c02dbd4ccd7afb7983.png",
 					"item_emoji_list":"[{\"name\":\"称重\",\"image\":\"https://i0.hdslb.com/bfs/garb/324bce98f3247acaad051b8db31b3fa4af362df8.png\"},{\"name\":\"撒钱\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b26abdb201d8c491f012d99ac5c77308d3e2496.png\"},{\"name\":\"锦鲤\",\"image\":\"https://i0.hdslb.com/bfs/garb/eea7690d577b92310aa8e813174070cea560d1e4.png\"},{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ab74342bedab74c0bc70c98934ec30d3f4831bc.png\"},{\"name\":\"嘿嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/e40e7d277caf8bb2b83e14e842da5b14d0901506.png\"},{\"name\":\"红包雨\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2af7191189f8480d0a9d6f3e2724dca03446f0d.png\"},{\"name\":\"哭笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/d3c3009911cdc19bc059875c76bef2870fb968b0.png\"},{\"name\":\"吃吃吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/34f0620735685f3394c7163254f4616d2b52b60e.png\"},{\"name\":\"红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/854c3b82da239d0ec493a1edf045b1264079b2be.png\"},{\"name\":\"肥宅套餐\",\"image\":\"https://i0.hdslb.com/bfs/garb/d3b7ab7a652cefd22fb95d54122084ebd1b4c5fc.png\"},{\"name\":\"发财啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce9e80cacfbe7c6893c5c4e51c1e347591329f27.png\"},{\"name\":\"熬夜\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e8afd3dc38e8412adc40a73e7c003e86f0c8bba.png\"},{\"name\":\"我回来啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7e896c7960d1d990f7189bc16fcb43d4e6c4ff2.png\"},{\"name\":\"放炮\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc29a6928f337261dad278ee7b1f477b22b8708f.png\"},{\"name\":\"烟花\",\"image\":\"https://i0.hdslb.com/bfs/garb/8bd730266573befe51960ad2d155e5b32c1ad453.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

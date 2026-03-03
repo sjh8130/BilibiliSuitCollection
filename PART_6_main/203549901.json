@@ -16,14 +16,11 @@
 		"item_id_card":"1707031668001",
 		"item_id_emoji_package":"1706683114001",
 		"owner_uid":"3494364170947008",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2035499012",
 		"sale_sku_id_2":"2035499011",
 		"sale_time_begin":"1708399600",
@@ -81,20 +78,12 @@
 				"name":"糊糊小刺猬",
 				"suit_item_id":203549901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/cfa4f38b3a4c4604d0d83f5248ad72c9a66c8b20.png",
 					"item_emoji_list":"[{\"name\":\"可怜\",\"image\":\"https://i0.hdslb.com/bfs/garb/75ea8a7da3f8bc5170935ec3f643c9c2913cd270.png\"},{\"name\":\"呆滞\",\"image\":\"https://i0.hdslb.com/bfs/garb/9dbc36fc144fb739b8e970b151310053091845cc.png\"},{\"name\":\"吓\",\"image\":\"https://i0.hdslb.com/bfs/garb/c84e44b0b4fd03ef0dcf30d02057f6dd74ad7c73.png\"},{\"name\":\"肯定\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fc99d6c78aa8e76cf360e41e38f89282075973f.png\"},{\"name\":\"扭曲\",\"image\":\"https://i0.hdslb.com/bfs/garb/9738ca42fd501927f81d1fb0e0bff11ac6d9dc7e.png\"},{\"name\":\"酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/1282324fda2020ddd40c3057b5eb1dbcb180865c.png\"},{\"name\":\"不酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/74690109d27afc11da5c973068aaaf0ec4538063.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/6db717be2e6590a9692a702d0f4f932d9f4702de.png\"},{\"name\":\"气皱\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff33e094a4976b35ab5205b7e8459c08a1aa5a90.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa963e3813532527ece8aa7b8e025d464b8429da.png\"},{\"name\":\"目移\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7b57d927166b6d7118ff3bbfca01488cad0708c.png\"},{\"name\":\"净化\",\"image\":\"https://i0.hdslb.com/bfs/garb/271ba84fafdf8e33efe2c38cc41280d3fc3649c7.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/f267e368c9864e168c520ecbc0954a6153990a42.png\"},{\"name\":\"枯萎\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea3cd6bff4817e1c072f19743714e403936f8711.png\"},{\"name\":\"方\",\"image\":\"https://i0.hdslb.com/bfs/garb/9127f34756133590055fcedfb9e5322007464187.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

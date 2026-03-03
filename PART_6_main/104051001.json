@@ -16,14 +16,11 @@
 		"item_id_card":"1675932684001",
 		"item_id_emoji_package":"1675932749001",
 		"owner_uid":"1732540672",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1040510012",
 		"sale_sku_id_2":"1040510011",
 		"sale_time_begin":"1676350940",
@@ -81,20 +78,12 @@
 				"name":"郁金香星球",
 				"suit_item_id":104051001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1a74c889bde0a2e475ec93be82ddfe52b5f303c7.png",
 					"item_emoji_list":"[{\"name\":\"灵魂出窍\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1fc37f5eba0c7628e815a6cc55a97903ea9aa74.png\"},{\"name\":\"莓问题\",\"image\":\"https://i0.hdslb.com/bfs/garb/164617439e816d3f8696e6de3a66c266475ddadb.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/9972e271b0f03c880212e9d759f9a817cd46552d.png\"},{\"name\":\"6\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe185ba4980426792ebcb76e76d6f839e640d9de.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6edad723cdb3a04e1bea5cc2f23a5fb4916e1d4.png\"},{\"name\":\"胡说八道\",\"image\":\"https://i0.hdslb.com/bfs/garb/84be3f5d1a104fb593326cc1f729d59f0d173756.png\"},{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/618f476a132219746bf7bf7f486ac5187200877f.png\"},{\"name\":\"让我看看\",\"image\":\"https://i0.hdslb.com/bfs/garb/44142d300397897aae076e7716f8d1e8911a697f.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/9c73528b398400b59bee159a1bb358fd1c4f4008.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/6cb63b59145780e9ed5925b5b014e97201922d43.png\"},{\"name\":\"慌张\",\"image\":\"https://i0.hdslb.com/bfs/garb/a555a09a6d708ad8b22c09b1381e0121492d1812.png\"},{\"name\":\"记仇\",\"image\":\"https://i0.hdslb.com/bfs/garb/22153caea47b6ea985d836030f8f7064d345ada3.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/502c244822bf4462956afe16544db983b9bf3839.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/8be6313c0d80288af44cf67853ea009e21b8838f.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/217004145a2231afd91635c2e9694d125449a492.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

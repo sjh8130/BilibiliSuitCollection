@@ -16,14 +16,11 @@
 		"item_id_card":"1721956224001",
 		"item_id_emoji_package":"1721956452001",
 		"owner_uid":"3493136955345818",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2208320012",
 		"sale_sku_id_2":"2208320011",
 		"sale_time_begin":"1722420000",
@@ -81,21 +78,13 @@
 				"name":"玩偶守护骑士",
 				"suit_item_id":220832001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/913b938b7ff7aa820644c8315244141961c13008.png",
 					"item_emoji_list":"[{\"name\":\"读书\",\"image\":\"https://i0.hdslb.com/bfs/garb/363bca672601443639cdf71a507cf4d5472b3b4f.png\"},{\"name\":\"摸不到头脑\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff72e8230961758a3d0956457613ab3dd5345be8.png\"},{\"name\":\"来啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e66cc471eba6817c746445bff99174d062606ff.png\"},{\"name\":\"摊手\",\"image\":\"https://i0.hdslb.com/bfs/garb/8312adfc4fc14aeec143ba18e09b2809521a78da.png\"},{\"name\":\"公主\",\"image\":\"https://i0.hdslb.com/bfs/garb/bedb160c118dd1cff4ded5bd6af52c76df92296c.png\"},{\"name\":\"站不稳\",\"image\":\"https://i0.hdslb.com/bfs/garb/12ea1497e753475fad0c5c801d8738a548f54f49.png\"},{\"name\":\"敷面膜\",\"image\":\"https://i0.hdslb.com/bfs/garb/711e2a08058911f618f99ad35ebf8e152df30460.png\"},{\"name\":\"裂开\",\"image\":\"https://i0.hdslb.com/bfs/garb/beaad357fc0fcf7b1aa958e1e824cb7987fd85d7.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/63fc5d814f8d2e00f68fd7eb21e5a312ef41e571.png\"},{\"name\":\"哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/baddf69cbb03d0e16922e175f6785a78192ce0a8.png\"},{\"name\":\"骑士冲锋\",\"image\":\"https://i0.hdslb.com/bfs/garb/db77d66deb82c6a32dcd8ff5e7eb7d731752240d.png\"},{\"name\":\"菜狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/563697cc481d72e262a0a3cfaff7f396a45d2f1f.png\"},{\"name\":\"大象\",\"image\":\"https://i0.hdslb.com/bfs/garb/9790f8f28a48292b978c6391658cbe29385502b3.png\"},{\"name\":\"摆烂\",\"image\":\"https://i0.hdslb.com/bfs/garb/42b6f6ce550d4e867dab6dc57a9f0dfd9132eb14.png\"},{\"name\":\"不理你\",\"image\":\"https://i0.hdslb.com/bfs/garb/176b6e28dc297ccadf9429b386ce993ab7c7d0f7.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

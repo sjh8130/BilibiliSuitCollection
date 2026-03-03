@@ -16,14 +16,11 @@
 		"item_id_card":"1754896805001",
 		"item_id_emoji_package":"1754876610001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3224353012",
 		"sale_sku_id_2":"3224353011",
 		"sale_time_begin":"1755585011",
@@ -81,21 +78,13 @@
 				"name":"龟龟5",
 				"suit_item_id":322435301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b208616be38bcf639dc5b7e69e37f72cfe52d1a8.png",
 					"item_emoji_list":"[{\"name\":\"龟王\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad3415091d47aeee59fbf983870f7c094ad960d0.png\"},{\"name\":\"龟雨\",\"image\":\"https://i0.hdslb.com/bfs/garb/764656816f287f6cf6882d6024a6b419ca3d78ef.png\"},{\"name\":\"没有偷看\",\"image\":\"https://i0.hdslb.com/bfs/garb/1716181c521306bb6d740a37c58d4494ba09b462.png\"},{\"name\":\"原始龟\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c371f48235e9306dc15de00364ed206268df2b8.png\"},{\"name\":\"龟骑\",\"image\":\"https://i0.hdslb.com/bfs/garb/315ee8a2350b4263964f9abebe21ebd10631bbab.png\"},{\"name\":\"臭\",\"image\":\"https://i0.hdslb.com/bfs/garb/01ad5b44a78a92f2b7066af1ef665f71c4b2c880.png\"},{\"name\":\"钓龟\",\"image\":\"https://i0.hdslb.com/bfs/garb/060dde1ffa027f690305bb74dfdf2af257ba593f.png\"},{\"name\":\"怎\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e8444f16e1fe63921d9ed73ccd789d166066482.png\"},{\"name\":\"牵龟\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9c34600a6b081c6e15d16728aaf64605579645d.png\"},{\"name\":\"古风龟生\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d0e10dec6914a431a8eb3ef8998e251cd9cd7d5.png\"},{\"name\":\"阿玛特拉斯\",\"image\":\"https://i0.hdslb.com/bfs/garb/77bf75f846bc52ab3fbf90110752df0cfc7730e0.png\"},{\"name\":\"情书龟\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fcc32ece09ed368c878e4f846f7c816204d19ea.png\"},{\"name\":\"龟龙在天\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a1dcb3d363be8449952e3a5107dff27d511231a.png\"},{\"name\":\"颠倒龟\",\"image\":\"https://i0.hdslb.com/bfs/garb/07d225c5f08cf227fac049167cf46df53efc0157.png\"},{\"name\":\"盘中龟\",\"image\":\"https://i0.hdslb.com/bfs/garb/70b6ebe390225aa993c3fc654298a8aa44b1ce65.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

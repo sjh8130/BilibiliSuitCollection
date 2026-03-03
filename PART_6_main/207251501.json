@@ -16,14 +16,11 @@
 		"item_id_card":"1710148623001",
 		"item_id_emoji_package":"1710148340001",
 		"owner_uid":"670729222",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2072515012",
 		"sale_sku_id_2":"2072515011",
 		"sale_time_begin":"1710323830",
@@ -81,20 +78,12 @@
 				"name":"春日小狗",
 				"suit_item_id":207251501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f708cd749b3b29644a5c8cf6e33751f0fa38cf8d.png",
 					"item_emoji_list":"[{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/2aeadf25cb2c79b614c2da79f13337d8d13ee3b4.png\"},{\"name\":\"天晴\",\"image\":\"https://i0.hdslb.com/bfs/garb/89fa3db16525b98e6144f32967b1984f324ee789.png\"},{\"name\":\"下雨\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ca03b1d9d76ec8674819b8738c50e638475bb02.png\"},{\"name\":\"甩甩\",\"image\":\"https://i0.hdslb.com/bfs/garb/655ff2844d27a56b9972c7c76871001a9ab4258e.png\"},{\"name\":\"蓬松\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7dd6f25081f90db5bb348d68200ad3d6ecbe752.png\"},{\"name\":\"打面打面\",\"image\":\"https://i0.hdslb.com/bfs/garb/35c1089d26247c37c8d3a5b0eed59108e21d9194.png\"},{\"name\":\"暖和\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a221b900240616c3828a9ed84516bdb1cfe0001.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef2669c1494becadf047921ae585d5a5aed5e41a.png\"},{\"name\":\"NO\",\"image\":\"https://i0.hdslb.com/bfs/garb/0696ff0384a73cb2918d80c157b2b4e25ffee340.png\"},{\"name\":\"准备开饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf37ca613f17c26d67e5ea4ea88750afcf04a7f4.png\"},{\"name\":\"重拳\",\"image\":\"https://i0.hdslb.com/bfs/garb/323696086cd0786b3755c736206a0bf7fc5d2b2c.png\"},{\"name\":\"安详\",\"image\":\"https://i0.hdslb.com/bfs/garb/970293cb14c1bfc0c7c0cc7c9ae427b4b470d376.png\"},{\"name\":\"跺脚\",\"image\":\"https://i0.hdslb.com/bfs/garb/0886f10b6c1834450a1b08606d27ee1f52edd623.png\"},{\"name\":\"吃吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/342beaf0f742336f67a1e16005b81e447bbc6586.png\"},{\"name\":\"饭呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/7c231b3594f6f29ca6512a6b2c033456cd075dc4.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

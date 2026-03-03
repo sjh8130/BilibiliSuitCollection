@@ -16,14 +16,11 @@
 		"item_id_card":"1756096199001",
 		"item_id_emoji_package":"1756096906001",
 		"owner_uid":"438292030",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"1000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3237389012",
 		"sale_sku_id_2":"3237389011",
 		"sale_time_begin":"1756468800",
@@ -81,21 +78,13 @@
 				"name":"莓由",
 				"suit_item_id":323738901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b3341cee472dbde93cbed9d82095b0bc5ae0f80c.png",
 					"item_emoji_list":"[{\"name\":\"神鲸\",\"image\":\"https://i0.hdslb.com/bfs/garb/7eeca26ed39977e7d0226c22fbf21736311d32ed.png\"},{\"name\":\"章鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/8640e2b4d9030b86cc830804ba4a10c0769eeadf.png\"},{\"name\":\"虾头\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f39617e0b5032df2ff03468e8cfe63af961eddb.png\"},{\"name\":\"海星\",\"image\":\"https://i0.hdslb.com/bfs/garb/0db60e76ccaa1494b59f28e51c2dc92e1951ac6f.png\"},{\"name\":\"没有钳\",\"image\":\"https://i0.hdslb.com/bfs/garb/9396181d9eb0ee1ae0a7422d3018548c0b71918c.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/2fcd4f16a1196d1c64d078fa937120bf57cc49a0.png\"},{\"name\":\"沙雕\",\"image\":\"https://i0.hdslb.com/bfs/garb/2366e1c9fb20054d42487790093fdeb3c8d79a84.png\"},{\"name\":\"被水柱滋\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b87e4fe354b9e1df6e59d634867fed8cc981702.png\"},{\"name\":\"水柱\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2cd5732840b8c4c81d9f95907dd85df401e6a04.png\"},{\"name\":\"滋水柱\",\"image\":\"https://i0.hdslb.com/bfs/garb/415f896337b1140a7dae3b6d9aa42b21fa46845b.png\"},{\"name\":\"酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/3dbb49ef88564ffe08321f24ce07ab504e72740d.png\"},{\"name\":\"不酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca1f51993e3ab3a96a6c59eb2b0b1850b56b5240.png\"},{\"name\":\"吹风扇\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a446d5f6f83b0fd583927435997e1627de23ad7.png\"},{\"name\":\"烧起来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/0683d99bceba4061de61fd4aaafea8d43e1e054d.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/442daa56cd82ae6fea9fb74a4e29a29643f12791.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

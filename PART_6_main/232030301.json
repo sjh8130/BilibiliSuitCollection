@@ -16,14 +16,11 @@
 		"item_id_card":"1731564638001",
 		"item_id_emoji_package":"1731564478001",
 		"owner_uid":"260645654",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"6666",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2320303012",
 		"sale_sku_id_2":"2320303011",
 		"sale_time_begin":"1731738720",
@@ -81,21 +78,13 @@
 				"name":"猫猫今日菜单",
 				"suit_item_id":232030301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4b54d257cfe923daefd5f04b0403bbfc31d5429f.png",
 					"item_emoji_list":"[{\"name\":\"料理鼠王\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2dbace405323113a4eed97a8ad80ea2820d0530.png\"},{\"name\":\"好想桃\",\"image\":\"https://i0.hdslb.com/bfs/garb/2789c68c3818f928d8920db92f7349137b00a09f.png\"},{\"name\":\"好柿发生\",\"image\":\"https://i0.hdslb.com/bfs/garb/718ec42280bfff3591f03fe92b9f262960b490bc.png\"},{\"name\":\"苹什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/d060baee899873ae8f4d1dcf40daed37c1974764.png\"},{\"name\":\"柠好\",\"image\":\"https://i0.hdslb.com/bfs/garb/7946fbdee9b12e65bafb0a7233b3363e23aaaab8.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a87dea8ea49d8d92697f565fb2ed5f958fc4180.png\"},{\"name\":\"吃饭小猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b1f6bed61ed29f77003aa79df3d89f4cc98f9b6.png\"},{\"name\":\"外卖中\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1867983989543790a0b2064256f30f25fe60404.png\"},{\"name\":\"惊讶\",\"image\":\"https://i0.hdslb.com/bfs/garb/84d051ae205985c27d24e17847cc286240703114.png\"},{\"name\":\"美味\",\"image\":\"https://i0.hdslb.com/bfs/garb/863611c8f7dfde8878e9e17f308101678f65a7f0.png\"},{\"name\":\"学习\",\"image\":\"https://i0.hdslb.com/bfs/garb/5333fb5e3c9c014f15cfb9258b8f46500a04ed7c.png\"},{\"name\":\"小草\",\"image\":\"https://i0.hdslb.com/bfs/garb/44fdb411286c394e2ea711f0a25c33ea52fb7107.png\"},{\"name\":\"恶魔小熊\",\"image\":\"https://i0.hdslb.com/bfs/garb/dadd2501d6200cadb98cd764430da7564df84620.png\"},{\"name\":\"喝茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/ee82ff59c1b04fb845c51b236beb2b819721b838.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/745baf744825836abac74798b7c78b00debe6ebf.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

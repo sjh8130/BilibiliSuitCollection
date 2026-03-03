@@ -16,14 +16,11 @@
 		"item_id_card":"1720145831001",
 		"item_id_emoji_package":"1718088980001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2187429012",
 		"sale_sku_id_2":"2187429011",
 		"sale_time_begin":"1720247519",
@@ -81,21 +78,13 @@
 				"name":"Animal第四弹",
 				"suit_item_id":218742901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d218f800c13848f49e179a9c302c51dd4e01ca64.png",
 					"item_emoji_list":"[{\"name\":\"偷懒中\",\"image\":\"https://i0.hdslb.com/bfs/garb/496a50d688f1860a0c06d22548c436f194e105ec.png\"},{\"name\":\"盯\",\"image\":\"https://i0.hdslb.com/bfs/garb/00d814b8841310a0498704efc848c370ab829816.png\"},{\"name\":\"呜呜！\",\"image\":\"https://i0.hdslb.com/bfs/garb/a4b4e902895208d9d9737da4e971ed3f6f0bc3c7.png\"},{\"name\":\"冒火\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8003a938f12817640fd3831ffa0a8cd476f3497.png\"},{\"name\":\"司米嘛噻\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac07da14dbae36f920b7d4fd761ca07dac154c76.png\"},{\"name\":\"？\",\"image\":\"https://i0.hdslb.com/bfs/garb/ee2f0bcd6dd4ec297b30ec710897161649db7508.png\"},{\"name\":\"自拍\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ab6a723eb39aebd328ed2dbcc9b5d330f9b1568.png\"},{\"name\":\"喝咖啡\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a90ae6f8c174affb869d3cab29d3a4b9eaf81ce.png\"},{\"name\":\"克系猫猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/46cb230f6ffa02383da7c57e162d957aa061d724.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef397ba888c42d017e1d0bd4b5d3dfb616bb4146.png\"},{\"name\":\"舔一下\",\"image\":\"https://i0.hdslb.com/bfs/garb/abc919e5c4f6d7689716a0ffe25b15bff1b6945e.png\"},{\"name\":\"好酸\",\"image\":\"https://i0.hdslb.com/bfs/garb/24c8ce13bd7dfb8ff7e2178597e56b04bed69ac1.png\"},{\"name\":\"哭到模糊\",\"image\":\"https://i0.hdslb.com/bfs/garb/f91ea37113db1438b9518cf4e0c86ce5a53bb637.png\"},{\"name\":\"气\",\"image\":\"https://i0.hdslb.com/bfs/garb/39304cc3feb1ca0b1d47e22ca0bf88e5a907cf0b.png\"},{\"name\":\"惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/83e8c803528e0b4acbdddbc62e69a11a0a5dca59.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1737704853001",
 		"item_id_emoji_package":"1737704674001",
 		"owner_uid":"3494364170947008",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"3000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3024482012",
 		"sale_sku_id_2":"3024482011",
 		"sale_time_begin":"1737945710",
@@ -81,21 +78,13 @@
 				"name":"一口喵汤圆",
 				"suit_item_id":302448201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7042a81419c4a937edd4638ceda40e303b233994.png",
 					"item_emoji_list":"[{\"name\":\"喵团\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b1a4a9ccd4f0f2147157f148b3297443cd5da6a.png\"},{\"name\":\"梅花\",\"image\":\"https://i0.hdslb.com/bfs/garb/e276529a61dd1d53010aa0c0909ecb4034f44ca0.png\"},{\"name\":\"露馅了\",\"image\":\"https://i0.hdslb.com/bfs/garb/de30be1a731fbaa3606683f55be53a938ba22306.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/54d5e6c768e0107a0b8b4f706ca2502e6e0ac4b9.png\"},{\"name\":\"红温\",\"image\":\"https://i0.hdslb.com/bfs/garb/2bda03ccecbd48b1ecaed40120eac6e5231890c3.png\"},{\"name\":\"发红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef7f4860613a58342c28ef89ee8d9692af3d8880.png\"},{\"name\":\"来一勺\",\"image\":\"https://i0.hdslb.com/bfs/garb/231ff5ba7d765a4ff2aa8833e83cacac0a93c1f0.png\"},{\"name\":\"拜年\",\"image\":\"https://i0.hdslb.com/bfs/garb/257f2ea5a5676df2f63883bc45b612b6fc620b2e.png\"},{\"name\":\"婉拒\",\"image\":\"https://i0.hdslb.com/bfs/garb/21f6e585d09029e618b8765356fdacb622338bfa.png\"},{\"name\":\"感动\",\"image\":\"https://i0.hdslb.com/bfs/garb/0478498e61d552c975813796d10e2b763ef24f96.png\"},{\"name\":\"嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/a14db77ca8e58b32431b7114c7733ec9032dc57b.png\"},{\"name\":\"恭喜发财\",\"image\":\"https://i0.hdslb.com/bfs/garb/a4f489e86a56781a1f56267b63e01098c1b9e8cc.png\"},{\"name\":\"看手机\",\"image\":\"https://i0.hdslb.com/bfs/garb/6de6f64191917f17561322605ace3430d8953dc6.png\"},{\"name\":\"吃\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a262d26435dd53c86aeb41c6eb98b9a289b0a2e.png\"},{\"name\":\"煮化了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7bf2c43aad3669a96c96c2d07ee52be49007de2c.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

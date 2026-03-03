@@ -16,14 +16,11 @@
 		"item_id_card":"1706776726001",
 		"item_id_emoji_package":"1706776656001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2032529022",
 		"sale_sku_id_2":"2032529021",
 		"sale_time_begin":"1706869390",
@@ -81,20 +78,12 @@
 				"name":"做你的堡",
 				"suit_item_id":203252902,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/224524339d180f8d05c83519dde9404dc373fc93.png",
 					"item_emoji_list":"[{\"name\":\"v我50\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2347bd51bce770248dbd67d88e2a53249679226.png\"},{\"name\":\"做你的堡\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b926ee2353dd1136c4de2fc8c75e90f4f4d9b45.png\"},{\"name\":\"美味堡否？\",\"image\":\"https://i0.hdslb.com/bfs/garb/42498b6712e2fbb0c2ce1112d1288505461524cb.png\"},{\"name\":\"快乐水否？\",\"image\":\"https://i0.hdslb.com/bfs/garb/52caf4aa574dcde48529aee06cd9c847024e4a51.png\"},{\"name\":\"来一根否？\",\"image\":\"https://i0.hdslb.com/bfs/garb/16ef91a5ab56a46f5c9622681d4a98434fc0b9be.png\"},{\"name\":\"汗宝宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/4aa13c1b06092b26228ea512f7a290c4670bae9a.png\"},{\"name\":\"抱紧我的堡\",\"image\":\"https://i0.hdslb.com/bfs/garb/fa71e6b0508d1ff221962d508485287fad417cea.png\"},{\"name\":\"堡包贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/684d600de6a239420cb40dedc970c442f8967a62.png\"},{\"name\":\"满脑子堡\",\"image\":\"https://i0.hdslb.com/bfs/garb/03b5fa151794227bf09599e160fbf6f0280a37ff.png\"},{\"name\":\"天生一对\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f0d2ac05f226bf5f61d9ee34be8918f5b0229c7.png\"},{\"name\":\"大人请用堡\",\"image\":\"https://i0.hdslb.com/bfs/garb/8c562ceb0c7b3d266852217be08e9cd04677593c.png\"},{\"name\":\"巨无堡\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c0e4f6f663b435aa4a2bd4c2cad26d87d9fcec9.png\"},{\"name\":\"豪华套餐\",\"image\":\"https://i0.hdslb.com/bfs/garb/eebfad736d16d2f1b482fe5730c9091cfb211668.png\"},{\"name\":\"疯狂堡\",\"image\":\"https://i0.hdslb.com/bfs/garb/0da5b7875ccb5ee62d80bda310b8a566f35cf42f.png\"},{\"name\":\"落魄堡\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2a1639bfa23a3ca67d973ba85767362cca097bf.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

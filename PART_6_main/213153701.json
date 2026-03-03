@@ -16,14 +16,11 @@
 		"item_id_card":"1715334355001",
 		"item_id_emoji_package":"1715334307001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2131537012",
 		"sale_sku_id_2":"2131537011",
 		"sale_time_begin":"1715484050",
@@ -82,20 +79,12 @@
 				"name":"旋转小羊",
 				"suit_item_id":213153701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9c4e6aec34cb3f03c202dda837c6c7702fdcc364.png",
 					"item_emoji_list":"[{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a752f32df307c7c8f84583a5483087bd7989629.png\"},{\"name\":\"飞扑小羊\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc648716c57cc674ed2efca74dffaf569092855f.png\"},{\"name\":\"打伞\",\"image\":\"https://i0.hdslb.com/bfs/garb/d23ea15213dfdce5b682962e251179f3adf557ab.png\"},{\"name\":\"旋转小狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/116ffd021e1b5cb8483683a33ba2e5731a5d6e4d.png\"},{\"name\":\"削苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/64f4e37e0178e58775e2357fc459fc28ad8ada8c.png\"},{\"name\":\"抱苹果\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc194cfaf2e57cb1d31fe4a66c739b947d93dd9c.png\"},{\"name\":\"扑\",\"image\":\"https://i0.hdslb.com/bfs/garb/c810ff9989f47edb73e34fe3bb530abbd6affca3.png\"},{\"name\":\"旋转小兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c4193d1edabe2c0e62c200d0ee784d1e4f4d268.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b9119cba39a876ba6306c7b9e7b215baecf6210.png\"},{\"name\":\"苹果皮中间\",\"image\":\"https://i0.hdslb.com/bfs/garb/b575402529841a185a60ed5a3769c841fd44e9e5.png\"},{\"name\":\"天使小羊\",\"image\":\"https://i0.hdslb.com/bfs/garb/a72b84c7bad0a73e373b3d5a623cad02210d8e33.png\"},{\"name\":\"天使小兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b4cfbd3ed073219a38ec9dde87968ed090bca60.png\"},{\"name\":\"挤奶油\",\"image\":\"https://i0.hdslb.com/bfs/garb/a859006bb1b7eff02807844ea49a22354a327254.png\"},{\"name\":\"奶油蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5f0d82bbd8a9d8de5a48afb94bf7abdcd8941ba.png\"},{\"name\":\"苹果皮底部\",\"image\":\"https://i0.hdslb.com/bfs/garb/f206330e72566fc0c5bbc1eb394277af74a9786e.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

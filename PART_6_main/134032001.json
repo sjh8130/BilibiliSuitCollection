@@ -16,14 +16,11 @@
 		"item_id_card":"1701829841001",
 		"item_id_emoji_package":"1701829903001",
 		"owner_uid":"504406727",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1340320012",
 		"sale_sku_id_2":"1340320011",
 		"sale_time_begin":"1702364400",
@@ -81,20 +78,12 @@
 				"name":"圣诞快乐 冬日可爱",
 				"suit_item_id":134032001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a85fdc101a93f448cb1c1e87750b404baac127dd.png",
 					"item_emoji_list":"[{\"name\":\"圣诞节快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad308f960fd0ebea192dea7aa9ad420eb9f52076.png\"},{\"name\":\"be\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9fb0a011aa66d6c3d2efccb602687b6e033c051.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ca5edf020496ec7c676d0d71144b4fe511caddf.png\"},{\"name\":\"he\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7d5082c1d855cc8fd8769aa256a6b072dda6df2.png\"},{\"name\":\"npc\",\"image\":\"https://i0.hdslb.com/bfs/garb/a12abc92ece73c75da488593b903181ac0719e72.png\"},{\"name\":\"vocal\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b431fab1517b38be84997d2a91f75e6ec762f54.png\"},{\"name\":\"啊哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/d4e4a0b4debc96e8af988ed314fd7f8cd975a272.png\"},{\"name\":\"某某某\",\"image\":\"https://i0.hdslb.com/bfs/garb/043a16d9b748c0d92f85e69568ba962afa8a560b.png\"},{\"name\":\"对\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f387318ef8b3ae264b184d8622872b044724329.png\"},{\"name\":\"睡着啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/384b7ab11c6df5b264cd1c89670d3d712b846ec3.png\"},{\"name\":\"圣诞花环\",\"image\":\"https://i0.hdslb.com/bfs/garb/b950030851239dbecf555bd3bf26cd755b8fc6be.png\"},{\"name\":\"姜饼小子\",\"image\":\"https://i0.hdslb.com/bfs/garb/cce2d659a4e71fb321e5de54e41b3d803470c819.png\"},{\"name\":\"雪人\",\"image\":\"https://i0.hdslb.com/bfs/garb/d10e145b00f3924a94bbd10fcda9e47e6e5a1de5.png\"},{\"name\":\"圣诞树\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ad69fb92e5435e37381f6c6267226f884b476de.png\"},{\"name\":\"圣诞老人\",\"image\":\"https://i0.hdslb.com/bfs/garb/e910a1ae6694727c0f0d9f0a5508eefb554748b2.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

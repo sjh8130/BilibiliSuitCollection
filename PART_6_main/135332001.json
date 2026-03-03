@@ -15,14 +15,11 @@
 		"item_id_card":"1702953234001",
 		"item_id_emoji_package":"1702953302001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"30000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1353320012",
 		"sale_sku_id_2":"1353320011",
 		"sale_time_begin":"1703070270",
@@ -81,20 +78,12 @@
 				"name":"MC迷彩",
 				"suit_item_id":135332001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/54bab1f5d5a718912684402a5a2470b61d8aeb59.png",
 					"item_emoji_list":"[{\"name\":\"下来\",\"image\":\"https://i0.hdslb.com/bfs/garb/3df566e85e5ec8d5e68ec7e0f29b9ccfb63fdc5e.png\"},{\"name\":\"不明白\",\"image\":\"https://i0.hdslb.com/bfs/garb/12e9bfee818b637c41560c12aed9848ddd21e7f1.png\"},{\"name\":\"不要理会\",\"image\":\"https://i0.hdslb.com/bfs/garb/991f2479152354bd46e70cdf35914f3e1bd278e3.png\"},{\"name\":\"OK\",\"image\":\"https://i0.hdslb.com/bfs/garb/baf33da0a1880609989bbd4132cd11121f03cab9.png\"},{\"name\":\"不行\",\"image\":\"https://i0.hdslb.com/bfs/garb/0966eff0bc76d0d2964ee0f0e1177e2c9c27537a.png\"},{\"name\":\"步枪\",\"image\":\"https://i0.hdslb.com/bfs/garb/767645426fbd2cf9c2edb0aaa3843f7ee85f2b77.png\"},{\"name\":\"你\",\"image\":\"https://i0.hdslb.com/bfs/garb/91b3af04dd30cd6fd355e8bde0299031ed37a472.png\"},{\"name\":\"掩护\",\"image\":\"https://i0.hdslb.com/bfs/garb/e50509e719c34a557948be21bea497ac8646d170.png\"},{\"name\":\"肃静\",\"image\":\"https://i0.hdslb.com/bfs/garb/86ad5ffed90b5b7c56e110659ea775190c6945e7.png\"},{\"name\":\"弹药\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f65f004877d8d772c532f57c5bba323e91fea0a.png\"},{\"name\":\"手枪\",\"image\":\"https://i0.hdslb.com/bfs/garb/862abb9325b212b4c94cf4451a78baa2f8cdecb1.png\"},{\"name\":\"听见\",\"image\":\"https://i0.hdslb.com/bfs/garb/388348c34a1bb901ff63ec79234a041f632bfc15.png\"},{\"name\":\"我\",\"image\":\"https://i0.hdslb.com/bfs/garb/25b134ef5f62d0e146bc79bdcb439b6c0bb8339a.png\"},{\"name\":\"霰弹枪\",\"image\":\"https://i0.hdslb.com/bfs/garb/68aa86fe1b04c417ba169bc8465371d689a6007a.png\"},{\"name\":\"看见\",\"image\":\"https://i0.hdslb.com/bfs/garb/8bd6576d1fca32a79e631ff2594319480c8c1545.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

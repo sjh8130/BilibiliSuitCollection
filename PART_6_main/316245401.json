@@ -16,14 +16,11 @@
 		"item_id_card":"1749620800001",
 		"item_id_emoji_package":"1749621385001",
 		"owner_uid":"670729222",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3162454012",
 		"sale_sku_id_2":"3162454011",
 		"sale_time_begin":"1750389940",
@@ -81,21 +78,13 @@
 				"name":"寻猫启事",
 				"suit_item_id":316245401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/72c6ad5193bdf6a18fb1f9324d7e68b3e528b660.png",
 					"item_emoji_list":"[{\"name\":\"gogogo\",\"image\":\"https://i0.hdslb.com/bfs/garb/0aa4ffdc7685a86728507cd71901e9fa20283191.png\"},{\"name\":\"帅猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ac7b8e187bf43623f23820e91ac4d43a82277f6.png\"},{\"name\":\"举爪\",\"image\":\"https://i0.hdslb.com/bfs/garb/652c8748346120c02da97c5565414b995244b6f2.png\"},{\"name\":\"啊啊啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad6d42fb67e808ddaf978de4beee2f9c6de0848a.png\"},{\"name\":\"右眼忘记你\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d9c9fb0f23edb39cd969256336a75971375a255.png\"},{\"name\":\"横爪\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b2eb08271b314559d67fc3f5e46ffde0c5f9350.png\"},{\"name\":\"伸\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd9bcb4af1a1202b47b44a579666ef846b0921d8.png\"},{\"name\":\"螂来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb9700e29becdf7bc6840375de8b69979da07cee.png\"},{\"name\":\"呜呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/11799148024898a79bebc85f671889dbe59178c4.png\"},{\"name\":\"精英猫士\",\"image\":\"https://i0.hdslb.com/bfs/garb/359f1dfec029d5eb5cc4434ba90b9a9a2f07c981.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d9c2e2f59b5fc313964e3fe6cafea8a4577f200.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5922465be19a8403dc9ac5591958f43fffa4b75.png\"},{\"name\":\"送礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e480f34c973a80ece9aa67f501cfb60e153a8c1.png\"},{\"name\":\"白面包说\",\"image\":\"https://i0.hdslb.com/bfs/garb/3800c60838577a19299abb0cc903501c0e1caeaf.png\"},{\"name\":\"冲天\",\"image\":\"https://i0.hdslb.com/bfs/garb/da7dc4405ceb575782e69c867fb5c01f288ac9f0.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

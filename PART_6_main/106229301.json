@@ -15,14 +15,11 @@
 		"item_id_card":"1677807355001",
 		"item_id_emoji_package":"1677807518001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1062293012",
 		"sale_sku_id_2":"1062293011",
 		"sale_time_begin":"1713405600",
@@ -81,20 +78,12 @@
 				"name":"只对你有感觉",
 				"suit_item_id":106229301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0676fa30482dd065473fdf1d6061dde1e644f76d.png",
 					"item_emoji_list":"[{\"name\":\"达咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/662f2bebec6ee1323481ec93b59e7407db8c2918.png\"},{\"name\":\"生病\",\"image\":\"https://i0.hdslb.com/bfs/garb/e555d36581c93ee76ad992c50b0d541a53faae29.png\"},{\"name\":\"吃草\",\"image\":\"https://i0.hdslb.com/bfs/garb/38d1f1723f7463cc758530c647a400aef9461f24.png\"},{\"name\":\"卖萌\",\"image\":\"https://i0.hdslb.com/bfs/garb/818660daf32546e6ae7afd26737e0774f4f86613.png\"},{\"name\":\"令人头大\",\"image\":\"https://i0.hdslb.com/bfs/garb/bf3bff68fd996a0b95e83321c2248a0463fca97b.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/1facebba0adbb98690bceb6529e6c98cd7804ebd.png\"},{\"name\":\"叉出去\",\"image\":\"https://i0.hdslb.com/bfs/garb/30eb8972c7065842f150f191616a2d7d534262fe.png\"},{\"name\":\"emo\",\"image\":\"https://i0.hdslb.com/bfs/garb/2e79ffff05604e4983c501425ad6fc243e55f3e0.png\"},{\"name\":\"惊讶\",\"image\":\"https://i0.hdslb.com/bfs/garb/90efff97dbad97dba7029b67d0b4446b61c5e4be.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/07d13791024d5a33e2ad6b02694af4e77a69eb15.png\"},{\"name\":\"累趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/4adfecd772cb35a38e9faa0d4225a115b3e50cdb.png\"},{\"name\":\"肥胖\",\"image\":\"https://i0.hdslb.com/bfs/garb/b52b6629b08903261c4e10f71c37a4a1bdd82dac.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9bbcc1965874bac1066745b17a6af1eafc0cbc9.png\"},{\"name\":\"晕倒\",\"image\":\"https://i0.hdslb.com/bfs/garb/4cd83561ad5ae63e0f893efdeaf09a85b2b386e1.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6737d441e7579d8dfd2803d64386a72c0a3f76a.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

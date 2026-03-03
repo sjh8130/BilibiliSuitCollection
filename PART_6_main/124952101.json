@@ -16,14 +16,11 @@
 		"item_id_card":"1693993269001",
 		"item_id_emoji_package":"1693990450001",
 		"owner_uid":"1181834006",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"30000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1249521012",
 		"sale_sku_id_2":"1249521011",
 		"sale_time_begin":"1695208570",
@@ -81,20 +78,12 @@
 				"name":"自信连招",
 				"suit_item_id":124952101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e607c1ad212514801195a71de195b08a76f397ca.png",
 					"item_emoji_list":"[{\"name\":\"假装惊讶\",\"image\":\"https://i0.hdslb.com/bfs/garb/bbac66942770ffc009010c5bfb684e50b3778553.png\"},{\"name\":\"捂嘴笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/034a74bb50dde0e3273ad29e8d0e64de2c87315a.png\"},{\"name\":\"撩头发\",\"image\":\"https://i0.hdslb.com/bfs/garb/af5dbbb5a72d1d192ab79a1337c88cdbaeb64a60.png\"},{\"name\":\"听我说\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a4674c2aac82e9f3bf42e0b4d0dbc352fb8823e.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/f15d18b3a27015f6787bfd1c08799d876827a85e.png\"},{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea4478ae7b04d6ca7c619ce3fba55d3034438599.png\"},{\"name\":\"一笑倾城\",\"image\":\"https://i0.hdslb.com/bfs/garb/85f53f03784f70d29ec0906f49a584d35384336e.png\"},{\"name\":\"你再想想\",\"image\":\"https://i0.hdslb.com/bfs/garb/557ade6ef14a67b71660479be0cfc4029686d70e.png\"},{\"name\":\"不屑\",\"image\":\"https://i0.hdslb.com/bfs/garb/4cad96abe2325bc127e78ba82cd5e6019da4dcc6.png\"},{\"name\":\"开始假唱\",\"image\":\"https://i0.hdslb.com/bfs/garb/52d6189f8769c9bd6a6a9da86f75edc1cdd4598f.png\"},{\"name\":\"肃然起敬\",\"image\":\"https://i0.hdslb.com/bfs/garb/292e313895e907990e40359ad701562f51a0668f.png\"},{\"name\":\"挽袖子\",\"image\":\"https://i0.hdslb.com/bfs/garb/61696c10217ce96ec9f70e91d268048a875c9a64.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/868f3ea024e39c8ae09c341faa8b6b64cf6335da.png\"},{\"name\":\"指\",\"image\":\"https://i0.hdslb.com/bfs/garb/e04e2a9f1d02fba0df881dd124898239e5c5d4d6.png\"},{\"name\":\"自信\",\"image\":\"https://i0.hdslb.com/bfs/garb/b73249d04a6f096032fc0c9f559c3bbd39ac9479.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

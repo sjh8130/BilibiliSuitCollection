@@ -5,19 +5,11 @@
 	"group_name":"天气",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"watch_full,reply,dynamic",
 		"image":"https://i0.hdslb.com/bfs/emote/e55dca771a247730ccb51945ec80d9dec92d04e4.png",
 		"item_ids":"41091,41092,41094,41095,41096,41097,41098,41099,41101,41102",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

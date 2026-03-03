@@ -16,14 +16,11 @@
 		"item_id_card":"1740536411001",
 		"item_id_emoji_package":"1740536473001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3057314012",
 		"sale_sku_id_2":"3057314011",
 		"sale_time_begin":"1741059280",
@@ -81,21 +78,13 @@
 				"name":"春日灿烂大熊猫",
 				"suit_item_id":305731401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/941ac32a98e9fe21f724f88f8ca70e0eefe83e66.png",
 					"item_emoji_list":"[{\"name\":\"拜拜\",\"image\":\"https://i0.hdslb.com/bfs/garb/299a15b0b7e9622e6cd7494f93f3bf1e302a47c3.png\"},{\"name\":\"摔倒\",\"image\":\"https://i0.hdslb.com/bfs/garb/88e5d3827643a59e7c303539391ae081ab1dbbcc.png\"},{\"name\":\"送花\",\"image\":\"https://i0.hdslb.com/bfs/garb/be2856adccd978914cc449c4d1eb45246f73b176.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6f0465e05ab5ced8332e12320e4da39c664222f.png\"},{\"name\":\"哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/0fac6191be5f4e88d18f166d3d0a9b6d8c25254a.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/701908df0b5c3217174f50c76cc80f33bd8e1770.png\"},{\"name\":\"冲鸭\",\"image\":\"https://i0.hdslb.com/bfs/garb/37cc15a77e401da10c2960c7089dc55281747849.png\"},{\"name\":\"你好呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/f29bbb6045377763cd32d306004764ff7dd44b36.png\"},{\"name\":\"飞升\",\"image\":\"https://i0.hdslb.com/bfs/garb/6de97f7c5be8b5644484c3f6a7681758a6b22578.png\"},{\"name\":\"沉默\",\"image\":\"https://i0.hdslb.com/bfs/garb/5c275a8e08714aa77efaf729d2f301c008aac262.png\"},{\"name\":\"趴\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f099f57573a1f5c8d05218958c3984e560a7dd1.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a9a1337af90796c7c322479d0b2c4eda2288ade.png\"},{\"name\":\"休息\",\"image\":\"https://i0.hdslb.com/bfs/garb/0eb0f304dbc9185d10b0254f9f6f8e5eacddce7a.png\"},{\"name\":\"玩耍\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3aeaed63a9fb042a4447cd10b08ce9c74fed51b.png\"},{\"name\":\"荡秋千\",\"image\":\"https://i0.hdslb.com/bfs/garb/6f3dbbcb394dc235126464ed2b04a12e413c00f9.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -5,18 +5,11 @@
 	"group_name":"出游季",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/dcfdaa639ba1dc991edf133dfc16a1ebb5f9bacc.png",
 		"item_ids":"4761,4762,4763,4764,4765,4766,4767,4768,4769,4770",
-		"permanent":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

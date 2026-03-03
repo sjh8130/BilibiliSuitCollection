@@ -16,14 +16,11 @@
 		"item_id_card":"1700711029001",
 		"item_id_emoji_package":"1700620215001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1327419012",
 		"sale_sku_id_2":"1327419011",
 		"sale_time_begin":"1701230400",
@@ -81,20 +78,12 @@
 				"name":"冬日小黄豆",
 				"suit_item_id":132741901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a089d20e6a81c5f8f733d15e41a83b6ae3429f6c.png",
 					"item_emoji_list":"[{\"name\":\"冰锥\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2a1c5ca50b94620ff860c14ee4acc3b525c909d.png\"},{\"name\":\"被揍\",\"image\":\"https://i0.hdslb.com/bfs/garb/87cad330825e747be63a3ffa8bb619300332ba00.png\"},{\"name\":\"丢雪球\",\"image\":\"https://i0.hdslb.com/bfs/garb/373c950fd704bf02e34e6a14634e03f0c2c303e7.png\"},{\"name\":\"冰钓\",\"image\":\"https://i0.hdslb.com/bfs/garb/90d14b3e08ede2e302c845bb229b7f9263b7c457.png\"},{\"name\":\"全副武装\",\"image\":\"https://i0.hdslb.com/bfs/garb/0bcc427a1754b8412c6ed927ffa3902d4cc7bfa3.png\"},{\"name\":\"雪人\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3f03b489ef9d63ce0ca7990e8851b814a6664c8.png\"},{\"name\":\"冻住\",\"image\":\"https://i0.hdslb.com/bfs/garb/832d392c0ac4ac78aa349bc4ac522fa6b385d30e.png\"},{\"name\":\"love\",\"image\":\"https://i0.hdslb.com/bfs/garb/30061c319b978ab50e3950b724977a409356918e.png\"},{\"name\":\"哈气\",\"image\":\"https://i0.hdslb.com/bfs/garb/74fb1ce186afcf2810ddd41e1bf6a2acec5e4947.png\"},{\"name\":\"冬日战士\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1837156180b2ad25fb855887c1b4e46ddb46896.png\"},{\"name\":\"积雪\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ae68640f16c0437c0612793adffc5cfa0d0cb4b.png\"},{\"name\":\"冬眠\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd4abb8bd1f045fb12ad72d8a2a973d13aea7dbc.png\"},{\"name\":\"月亮\",\"image\":\"https://i0.hdslb.com/bfs/garb/da895d0182df9b51d6fe86757c21c1c6f1a7bf6f.png\"},{\"name\":\"暖气\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b7434641cb0953d44c847e7698005f4e554ac47.png\"},{\"name\":\"冷冷冷冷\",\"image\":\"https://i0.hdslb.com/bfs/garb/78d6a6f7a3e322bfc2c1cd3ad4fd9bcb853a0cf7.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -5,19 +5,11 @@
 	"group_name":"中古商店",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/1aee9c2af415390597860a4c98f392f0701f90d3.png",
 		"item_ids":"68391,68392,68393,68394,68395,68396,68397,68398,68399,68400",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

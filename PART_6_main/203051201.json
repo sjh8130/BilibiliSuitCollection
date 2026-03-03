@@ -16,14 +16,11 @@
 		"item_id_card":"1706604779001",
 		"item_id_emoji_package":"1706604810001",
 		"owner_uid":"3546387199298339",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"9999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2030512012",
 		"sale_sku_id_2":"2030512011",
 		"sale_time_begin":"1706695200",
@@ -81,20 +78,12 @@
 				"name":"MerciFriends 快餐店",
 				"suit_item_id":203051201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/3103842331b43b2496e8b43318b3daaec1a8db12.png",
 					"item_emoji_list":"[{\"name\":\"薯条否？\",\"image\":\"https://i0.hdslb.com/bfs/garb/55c09159824bd873ef35513432ca45d134e10b92.png\"},{\"name\":\"汉堡否？\",\"image\":\"https://i0.hdslb.com/bfs/garb/1e2baebf395b88dd75f508431351fb45cfa2564d.png\"},{\"name\":\"外卖否？\",\"image\":\"https://i0.hdslb.com/bfs/garb/6afd9d771331097ab8a3d66298ac23fec395f72c.png\"},{\"name\":\"蛋糕否？\",\"image\":\"https://i0.hdslb.com/bfs/garb/4837f24516c58da4599f36ede54323bcde943cee.png\"},{\"name\":\"吐司否？\",\"image\":\"https://i0.hdslb.com/bfs/garb/d29000237cb6e0aa40c877032a494bfb5040aa2d.png\"},{\"name\":\"完美\",\"image\":\"https://i0.hdslb.com/bfs/garb/474b5bfb821807c152ec921e722837fb2e648a98.png\"},{\"name\":\"左干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/05058f8179ee14ad9c6ac2818e82f7cf5567b2b9.png\"},{\"name\":\"右干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/e41d8cb7a4b4ba1c5d577fa692a0ea804a33f1b0.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/a758f01de780dbdd1fa19291ed0ccf4a4aea0a1c.png\"},{\"name\":\"看见你了\",\"image\":\"https://i0.hdslb.com/bfs/garb/93dedc3be6bc6f5054fb1dfe149befdc72155728.png\"},{\"name\":\"你要跳舞吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/33bed626c5d92d3712aadf0d6f58b62bb558a026.png\"},{\"name\":\"溜了\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b606932a20afa99744a35a347c92e662e6b24c4.png\"},{\"name\":\"自拍\",\"image\":\"https://i0.hdslb.com/bfs/garb/d26dc740354d76c94c03131b4ffa07ed234bb0d2.png\"},{\"name\":\"发喽\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7f299ec2a198d9a28599ee10ff77dc3d456f02f.png\"},{\"name\":\"不要嘛\",\"image\":\"https://i0.hdslb.com/bfs/garb/53cc923e52d5e8cf70bebe4ece8310fbddf8db11.png\"},{\"name\":\"挤一挤\",\"image\":\"https://i0.hdslb.com/bfs/garb/5be78c9dcb3b5025047d90bea81efb83cb0a0616.png\"},{\"name\":\"生日快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/938ddda63982d485c549ef702c52326fa0c00e2b.png\"},{\"name\":\"阴暗爬行1\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b543356fdcdb0fbf12ba14062258efc36f2548f.png\"},{\"name\":\"阴暗爬行\",\"image\":\"https://i0.hdslb.com/bfs/garb/d917e896bf7342276ae2117014cf0373343b4df2.png\"},{\"name\":\"阴暗爬行3\",\"image\":\"https://i0.hdslb.com/bfs/garb/d3cb28471de9ded04ab67f334fa2051ab11bc20e.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

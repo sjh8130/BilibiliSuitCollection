@@ -16,14 +16,11 @@
 		"item_id_card":"1723038008001",
 		"item_id_emoji_package":"1723038063001",
 		"owner_uid":"3493286585043212",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2220703012",
 		"sale_sku_id_2":"2220703011",
 		"sale_time_begin":"1723298400",
@@ -82,21 +79,13 @@
 				"name":"草莓假日",
 				"suit_item_id":222070301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/7e0c543c96f7308aff44fc1eb0ce6f49c7c318dd.png",
 					"item_emoji_list":"[{\"name\":\"一脸不屑\",\"image\":\"https://i0.hdslb.com/bfs/garb/aaf30d2f9af2982d9876e194ce20ea94efa1c8ad.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/08cefddccb1a5376cf44b533e739b1861b54e05a.png\"},{\"name\":\"下播\",\"image\":\"https://i0.hdslb.com/bfs/garb/fce4103b89b5b52fdf4ef9ec6acf6d192ef9b315.png\"},{\"name\":\"小妈来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/eef4fef4f2a10bc165435df6e6550794a165bf4d.png\"},{\"name\":\"笑到模糊\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e4da25051267cffdaf05f6a16ac62c188e3c0a2.png\"},{\"name\":\"叉出去\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1dce17397c22bcfbca40f8cb4d8ef92680723e3.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0f5d08860089dc7eea9639f74310445f86efd06.png\"},{\"name\":\"我回来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/f376c138bed4f69d98075c97e5bca36115a7075b.png\"},{\"name\":\"让我看看\",\"image\":\"https://i0.hdslb.com/bfs/garb/384a54ca57f48f79303f350c2cb876f852bc27d2.png\"},{\"name\":\"就这\",\"image\":\"https://i0.hdslb.com/bfs/garb/4456725a8f026efaea27aec9542eef4cb592b4a0.png\"},{\"name\":\"加班\",\"image\":\"https://i0.hdslb.com/bfs/garb/49d2eda78e1b361c84ca1108a324bfd10ff8bfea.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/9dad969d0a0259f7e2c41594d9a4a2e8ce70c40b.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/5363c92feec3d02c24b5e43f5cdb3b85cca91cec.png\"},{\"name\":\"要到饭了\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c16e1b0e8cb9d58f1d1e2e059b15b54ef678657.png\"},{\"name\":\"躺板板\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ee6e884c105f00de03fc54f212bccf8955f8ea7.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

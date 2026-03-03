@@ -16,14 +16,11 @@
 		"item_id_card":"1768961136001",
 		"item_id_emoji_package":"1768965138001",
 		"owner_uid":"3493261333236149",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区,台湾,香港,澳门",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"4023526012",
 		"sale_sku_id_2":"4023526011",
 		"sale_time_begin":"1769486400",
@@ -81,21 +78,13 @@
 				"name":"星绘·沐春灼华 应援装扮",
 				"suit_item_id":402352601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/39b0b5e009f37f90f204c6ff6a2173194f2247a3.png",
 					"item_emoji_list":"[{\"name\":\"错\",\"image\":\"https://i0.hdslb.com/bfs/garb/da243fc029c6da263c885502341798039bbe200b.png\"},{\"name\":\"对\",\"image\":\"https://i0.hdslb.com/bfs/garb/95bcd76fa9e6e23a80e9d63c39d574aaa006375e.png\"},{\"name\":\"复活\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e92d42b070ee92af0959e397f42b454db5b9c1b.png\"},{\"name\":\"惊讶\",\"image\":\"https://i0.hdslb.com/bfs/garb/27b80678c78eae362d71a5b57c0a65e93034391f.png\"},{\"name\":\"何意味\",\"image\":\"https://i0.hdslb.com/bfs/garb/a83ccc4d63b5ffd0b66284320155dc59529eead9.png\"},{\"name\":\"红温\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f1ffe5e75a0ec6ef266f849ebbf86a99d8e7d6a.png\"},{\"name\":\"试刀\",\"image\":\"https://i0.hdslb.com/bfs/garb/dbfd773b7a61b9a9efcb959d049118f29a993576.png\"},{\"name\":\"慌张\",\"image\":\"https://i0.hdslb.com/bfs/garb/6af5fd3364edb030131167ed5f821ff2b29d97f7.png\"},{\"name\":\"腹黑\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea50e865dab1906e04c87fc268e7259be0782292.png\"},{\"name\":\"剑圣\",\"image\":\"https://i0.hdslb.com/bfs/garb/b90f217d6ddc625e1c178d210477d738b7a662a5.png\"},{\"name\":\"哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/d708b3ee3ae467dc0e0c984a4eecd651a185dae5.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/4c82ffe15d72928636e0e49504c274fe2b399195.png\"},{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a982aff8016d7306228b3d5f3e5da689933ec90.png\"},{\"name\":\"医生\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f5ca03d5c25a8a1d307eceb28ad98258a11e303.png\"},{\"name\":\"铸币大头\",\"image\":\"https://i0.hdslb.com/bfs/garb/a6a99ce05bef84ef797f1b0150ef71bab8e58553.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

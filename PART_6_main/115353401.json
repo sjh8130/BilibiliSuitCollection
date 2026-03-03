@@ -15,14 +15,11 @@
 		"item_id_card":"1687176348001",
 		"item_id_emoji_package":"1685698515001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1153534012",
 		"sale_sku_id_2":"1153534011",
 		"sale_time_begin":"1687498420",
@@ -81,20 +78,12 @@
 				"name":"来一口糖果兔",
 				"suit_item_id":115353401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f3f9400084a1c614ce23f786ccf05fe2f40bac92.png",
 					"item_emoji_list":"[{\"name\":\"抱大腿\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8436d402fca806391de7dcdac6e0ab6e15ed1dc.png\"},{\"name\":\"发糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b9f68989c8835dd7dec42759284a9e61907531b.png\"},{\"name\":\"糖葫芦串头\",\"image\":\"https://i0.hdslb.com/bfs/garb/12c16c238ed0fc17c6d91e967260273459e5c89b.png\"},{\"name\":\"甜度爆表\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad79f389b754889ac5086bff06e1f67479960757.png\"},{\"name\":\"撒糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a5dd95e06d92ebefefadf4af2f7237845be315c.png\"},{\"name\":\"给你棒棒糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/002177de503b97913c3a99ccc653bdf84bb2c465.png\"},{\"name\":\"吐彩虹\",\"image\":\"https://i0.hdslb.com/bfs/garb/5223e977f5907b945f41469b40402c5484c0a5a1.png\"},{\"name\":\"糖葫芦串中\",\"image\":\"https://i0.hdslb.com/bfs/garb/2914a7d61ee9f2262c9347ed7190b0cc46972466.png\"},{\"name\":\"裂开\",\"image\":\"https://i0.hdslb.com/bfs/garb/3afd03b1e5591e01c6ca18c3ec7995428b7a3ec7.png\"},{\"name\":\"糖果雨1\",\"image\":\"https://i0.hdslb.com/bfs/garb/675b62b2c8e01663277014fdc8359eb37f3495ac.png\"},{\"name\":\"全都给你\",\"image\":\"https://i0.hdslb.com/bfs/garb/825a22764461a870e1b15d336bcf3984e5ddbaea.png\"},{\"name\":\"你真好\",\"image\":\"https://i0.hdslb.com/bfs/garb/05a3c9527d166a118f46098c7ea3ef7d0eae2045.png\"},{\"name\":\"糖葫芦串尾\",\"image\":\"https://i0.hdslb.com/bfs/garb/02a23f7363ddb28fa20a5f4550d811da7ea1cc8f.png\"},{\"name\":\"受伤\",\"image\":\"https://i0.hdslb.com/bfs/garb/6cb4f299d866f117585f313b3f90f13ef601ee3a.png\"},{\"name\":\"糖果雨2\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd5c237753f63e6e826b7a3795385aaac9f9b28a.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

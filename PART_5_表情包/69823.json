@@ -5,20 +5,12 @@
 	"group_name":"治疗动态表情包",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/4c2f08ffd273798be6f634de2e000fd77b2bf346.png",
 		"item_ids":"69822,69844,69845,69846,69847,69848,69849,69850,69851,69852,69853",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"resource_type":"1",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

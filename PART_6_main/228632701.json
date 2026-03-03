@@ -16,14 +16,11 @@
 		"item_id_card":"1728700322001",
 		"item_id_emoji_package":"1728743509001",
 		"owner_uid":"1732540672",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2286327012",
 		"sale_sku_id_2":"2286327011",
 		"sale_time_begin":"1731467100",
@@ -81,21 +78,13 @@
 				"name":"卜卜猫沙滩日记",
 				"suit_item_id":228632701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/52124cd1c5dc66d6cd769590425dcbe1d782b3ea.png",
 					"item_emoji_list":"[{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d79ea5099d002a6982bb964be46130ca69828ba.png\"},{\"name\":\"惬意\",\"image\":\"https://i0.hdslb.com/bfs/garb/72cd3582a67b30db56b86188277be8d5673de1e4.png\"},{\"name\":\"我来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/fddb68db90c085b0c6135a56246fade1048dd325.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e13a42e5430299f4cc541973b7e689c7a431202.png\"},{\"name\":\"打游戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/0546c312e3ed16e75dbb6d834130ad63d6a90a0b.png\"},{\"name\":\"热化了\",\"image\":\"https://i0.hdslb.com/bfs/garb/86470b79f9f177eb82383e3351222472225f7117.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/2542ba7ef4388087c09d956b48d5a3287e56b0f7.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/02055a758fb40020bf3370d5549319e63330405e.png\"},{\"name\":\"悲伤\",\"image\":\"https://i0.hdslb.com/bfs/garb/a444bbce98d584295b1d772f4762f1a00fff23c8.png\"},{\"name\":\"度假\",\"image\":\"https://i0.hdslb.com/bfs/garb/5dd4ad40c8d1034332ec5b67c449676e82f04342.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e10607f324bcb67b5a66931c5a8f6e95f54a274.png\"},{\"name\":\"冲浪\",\"image\":\"https://i0.hdslb.com/bfs/garb/b22ff53099bedfe9be049133acdfddb7bfa0641c.png\"},{\"name\":\"喝奶茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/2ee99908d1250dcf4440a7639341306b63e93dd4.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/bbd5e4e361f5ded8c239740d7915f7f02e78ee6d.png\"},{\"name\":\"爱心冲击\",\"image\":\"https://i0.hdslb.com/bfs/garb/c054b688a680b023d4931f0a114a0ae88da702d3.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

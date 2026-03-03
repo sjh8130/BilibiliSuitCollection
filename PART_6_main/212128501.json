@@ -15,14 +15,11 @@
 		"item_id_card":"1714440236001",
 		"item_id_emoji_package":"1714440337001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2121285012",
 		"sale_sku_id_2":"2121285011",
 		"sale_time_begin":"1714532340",
@@ -81,20 +78,12 @@
 				"name":"熊猫夏日荷塘",
 				"suit_item_id":212128501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/aebfb93b654576cdc7e3df11f23b1143d8be1717.png",
 					"item_emoji_list":"[{\"name\":\"钓鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c7da1b888cdb5c180a2175debb529e59ebddc25.png\"},{\"name\":\"什么鸭\",\"image\":\"https://i0.hdslb.com/bfs/garb/14078340b14d47d5e83f00884923c9de85944ce4.png\"},{\"name\":\"吹笛子\",\"image\":\"https://i0.hdslb.com/bfs/garb/c54596835aa546e5c73cfac5820abf504bc358d4.png\"},{\"name\":\"吃竹子\",\"image\":\"https://i0.hdslb.com/bfs/garb/0602e2d23dc4c45bbd83e738ac7366a06f0758de.png\"},{\"name\":\"划水\",\"image\":\"https://i0.hdslb.com/bfs/garb/11b0e22a08f112db935dd5892396dc2dd9b08de1.png\"},{\"name\":\"鱼线\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8a2f4c7800f219fb0a4786d75fedf3d3ceda271.png\"},{\"name\":\"围观\",\"image\":\"https://i0.hdslb.com/bfs/garb/d738ee066acd338b7f735d8a3d5895d2fe192346.png\"},{\"name\":\"点赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/fea2ed4313678c7c070934983f31c7690296ba39.png\"},{\"name\":\"安详\",\"image\":\"https://i0.hdslb.com/bfs/garb/b27c532f8f653a0b51f175ef85071805d48d1855.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/35733fabb20f743351dd718775229623ce5d1806.png\"},{\"name\":\"上钩\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff1629b590f8d81e896781a1e1e355adcf16bda0.png\"},{\"name\":\"散步\",\"image\":\"https://i0.hdslb.com/bfs/garb/641a617e24fdf78dee974c87deac9cfd0be94775.png\"},{\"name\":\"摔倒\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4feb79771fb1dbb2e9636c88f8ef56ad895ea8c.png\"},{\"name\":\"长草\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d3a0173133dded1ae5da28d950142d407924ec7.png\"},{\"name\":\"探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2bbc60613e6842bec6a08a3c1426d5ba7f05ee4.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

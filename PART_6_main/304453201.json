@@ -16,14 +16,11 @@
 		"item_id_card":"1739439288001",
 		"item_id_emoji_package":"1739439312001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3044532012",
 		"sale_sku_id_2":"3044532011",
 		"sale_time_begin":"1739848890",
@@ -82,21 +79,13 @@
 				"name":"BB Pooky",
 				"suit_item_id":304453201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e4acb55aad257ebc5917b59c352c76e8752107a1.png",
 					"item_emoji_list":"[{\"name\":\"我晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/59143bbd2122d57acac7f107fe58c884bae4aa07.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/f137314ba0b8212d2221a5898b7fdfd71e7fb820.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2f7b7fa19dcdb08340d388339d16399b9fe228e.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e28b1118916bc64ec117d573ec7dcbcd692d6c2.png\"},{\"name\":\"脸红\",\"image\":\"https://i0.hdslb.com/bfs/garb/50300cc81fab9ac40ec1f66dda199ff59781febd.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d625e91a83958fea8f0a7a109c8937b325e6d48.png\"},{\"name\":\"手舞足蹈\",\"image\":\"https://i0.hdslb.com/bfs/garb/a4f7f822a2111ccdaba365c397411d48314d80e2.png\"},{\"name\":\"立正\",\"image\":\"https://i0.hdslb.com/bfs/garb/d66ea53690e75d601890389ca356ca69ce59310a.png\"},{\"name\":\"不想理你\",\"image\":\"https://i0.hdslb.com/bfs/garb/defd22cbe3211c74129f2f1e1d5c4df9dfbf825f.png\"},{\"name\":\"发呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/48278c440b1ed7e8312bc55074ba5653ba084ada.png\"},{\"name\":\"卖力干饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/41c7b202841e31b02fa5788cdd5402fc2b5d29ce.png\"},{\"name\":\"在干嘛\",\"image\":\"https://i0.hdslb.com/bfs/garb/9abe6bd70a240df627f8d3a09d6efe9a1e88bda5.png\"},{\"name\":\"尖叫鸡\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6d04a6ae3d9955809d087ea4145b4d9bf028a86.png\"},{\"name\":\"偷看\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d28af1bb4abb6913a4d83550383bbbbb3fb2203.png\"},{\"name\":\"蜗牛\",\"image\":\"https://i0.hdslb.com/bfs/garb/800e16912ae1597d4fc04eb9344109844c948874.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

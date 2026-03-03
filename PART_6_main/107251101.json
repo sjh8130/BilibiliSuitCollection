@@ -16,14 +16,11 @@
 		"item_id_card":"1678697896001",
 		"item_id_emoji_package":"1678698254001",
 		"owner_uid":"1181834006",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"50000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1072511012",
 		"sale_sku_id_2":"1072511011",
 		"sale_time_begin":"1680260400",
@@ -81,20 +78,12 @@
 				"name":"鱼人小分队",
 				"suit_item_id":107251101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/edb9c62e8aaf3a8324d8bd921e780351f4ea2fc3.png",
 					"item_emoji_list":"[{\"name\":\"6\",\"image\":\"https://i0.hdslb.com/bfs/garb/04150eecd2c469ed3ac1962b196fd465525f189a.png\"},{\"name\":\"赞噢\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6da336e0cdbcfcd4148ba0c843a52d499ae117d.png\"},{\"name\":\"小丑竟是\",\"image\":\"https://i0.hdslb.com/bfs/garb/5bb9f7774eeebd2d4700dd1c3c9b5063e3f770c2.png\"},{\"name\":\"整活\",\"image\":\"https://i0.hdslb.com/bfs/garb/69ef90fdc9f20b296ce72eae2286a28e08653298.png\"},{\"name\":\"鸽了\",\"image\":\"https://i0.hdslb.com/bfs/garb/9b05ae3d55ba7d6eb6f45043ef3207a3b5d2b292.png\"},{\"name\":\"咸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/231c41311e25c8ef4e88ded91a3b4f44099333c3.png\"},{\"name\":\"鱼你无关\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ba7f68a282b33b28f58ee02019ed449520bcae4.png\"},{\"name\":\"cool\",\"image\":\"https://i0.hdslb.com/bfs/garb/7cc75c89bea612d9cc44a84a43d45ae926fc2cd6.png\"},{\"name\":\"啪嗒啪嗒\",\"image\":\"https://i0.hdslb.com/bfs/garb/75e3680579421ee9808260005d057662a5747417.png\"},{\"name\":\"愚人节快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/88d5d0c99f113f5dd21baf5a46f4de2911897bd2.png\"},{\"name\":\"爱你\",\"image\":\"https://i0.hdslb.com/bfs/garb/be5d792ce80967431bf45a0b6350e6a38dd72cb6.png\"},{\"name\":\"庆祝\",\"image\":\"https://i0.hdslb.com/bfs/garb/744307d8ebcb4cccb245cb79f56986fbbd53ecf6.png\"},{\"name\":\"击掌\",\"image\":\"https://i0.hdslb.com/bfs/garb/cacefeb03501371559e290adf93159c4a990abcd.png\"},{\"name\":\"卧龙\",\"image\":\"https://i0.hdslb.com/bfs/garb/4426d9f07c337b728c1f985209434c84e85c36c5.png\"},{\"name\":\"凤雏\",\"image\":\"https://i0.hdslb.com/bfs/garb/cdee61a8349aaa5bd719578813e95396d4d5e134.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

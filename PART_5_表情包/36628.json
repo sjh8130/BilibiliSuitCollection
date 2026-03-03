@@ -5,19 +5,11 @@
 	"group_name":"萌宠小鼠",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/f7d44dd837c7b8e15f64a157d8747ee7433c97f2.png",
 		"item_ids":"36618,36619,36620,36621,36622,36623,36624,36625,36626,36627",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

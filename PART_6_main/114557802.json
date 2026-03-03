@@ -16,14 +16,11 @@
 		"item_id_card":"1684247218001",
 		"item_id_emoji_package":"1684245089001",
 		"owner_uid":"81976",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1145578022",
 		"sale_sku_id_2":"1145578021",
 		"sale_time_begin":"1686031200",
@@ -82,20 +79,12 @@
 				"name":"懒懒表情",
 				"suit_item_id":114557802,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9a223175b9eb40ebdf53ac624e346ef81a09f852.png",
 					"item_emoji_list":"[{\"name\":\"你好\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a91b4b24ae550795e2a2649657b9569cc6f9fac.png\"},{\"name\":\"笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/54f35b375027f6f8bc9a22d1682711b4ff84ac92.png\"},{\"name\":\"喝可乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/9aa687e51b2ba9b65ec1ca4ad70d614c8d68f6ab.png\"},{\"name\":\"睡\",\"image\":\"https://i0.hdslb.com/bfs/garb/d3b9b3d5f52c2666f156b4eb0c09f108bfca65bb.png\"},{\"name\":\"怒\",\"image\":\"https://i0.hdslb.com/bfs/garb/cfbe86e96fff5a13bd85678084e1acda86fa9f51.png\"},{\"name\":\"折磨\",\"image\":\"https://i0.hdslb.com/bfs/garb/2670e8b7504ee36b9875f94a818d40284049e3e1.png\"},{\"name\":\"上工\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec24b0e5bc7624f2cd47bf5666c2dc925c494311.png\"},{\"name\":\"送外卖\",\"image\":\"https://i0.hdslb.com/bfs/garb/dde5e293422b7a0a2c930cdd0a3d9e8e187a26c7.png\"},{\"name\":\"噫\",\"image\":\"https://i0.hdslb.com/bfs/garb/df766c1047250aa9f633156403b89e6c7588cae9.png\"},{\"name\":\"惊讶\",\"image\":\"https://i0.hdslb.com/bfs/garb/501e2d2d5f3ae025a371da847294fdaab7411ae1.png\"},{\"name\":\"弹射\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b8a3ad589c8825f257511e961aed21086d4fa7b.png\"},{\"name\":\"逼逼\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3ffb35f1c47257f6bc161c9b567ac095566b77f.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/641a0a3a0540119127352e8409a2593a6923db4d.png\"},{\"name\":\"投币\",\"image\":\"https://i0.hdslb.com/bfs/garb/1bc66bed5202318e6b09dc2a1b0d8db936bca39a.png\"},{\"name\":\"收藏\",\"image\":\"https://i0.hdslb.com/bfs/garb/f066924742bf5d3c9956b1318afe93a07823c705.png\"},{\"name\":\"爆炸\",\"image\":\"https://i0.hdslb.com/bfs/garb/3139145c3e0001533307354e5d59fe12553c21b4.png\"},{\"name\":\"可可冰淇淋\",\"image\":\"https://i0.hdslb.com/bfs/garb/f666fb9e15fc7762c75d081f1df029d55af6aee7.png\"},{\"name\":\"冰激凌倒\",\"image\":\"https://i0.hdslb.com/bfs/garb/b19eb696164f052cca5edb01b45a17eba5bad553.png\"},{\"name\":\"七彩冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/64865a782f30ce6d2f8d758614fc60a3a980beb6.png\"},{\"name\":\"彩虹猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/c162f0c5b59af0f7d7fa38e730e59eca1c0d8109.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

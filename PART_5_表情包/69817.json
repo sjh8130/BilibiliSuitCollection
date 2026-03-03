@@ -5,20 +5,12 @@
 	"group_name":"伤害动态表情包",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/0115392b185533c3582ef1971dd52ffb0e3b71f8.png",
 		"item_ids":"69801,69803,69805,69806,69810,69811,69812,69813,69814,69815,69816",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"resource_type":"1",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

@@ -16,12 +16,10 @@
 		"item_id_card":"1764155680001",
 		"item_id_emoji_package":"1765020370001",
 		"owner_uid":"1447574",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
 		"sale_sku_id_1":"3340593012",
 		"sale_sku_id_2":"3340593011",
@@ -80,21 +78,13 @@
 				"name":"洛少爷之雪夜派送",
 				"suit_item_id":334059301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/25ae01af946e58ed017c99d1d9cb5f66f6940098.png",
 					"item_emoji_list":"[{\"name\":\"正在派送\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed1016ee7b0074ab9645702f66886c42fce7a15a.png\"},{\"name\":\"断开连接\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5e64e41d4bd7ba624628e11d1fd8c8d512e89dd.png\"},{\"name\":\"期待\",\"image\":\"https://i0.hdslb.com/bfs/garb/6252d7d32bc7eee38fd37762818fd45de77dfa04.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f0eb68e3a4ed1f52e6c861f55e8bd9aba89e33a.png\"},{\"name\":\"堆雪人\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ac2f5ebce81266e74f0d67029bb61108093112a.png\"},{\"name\":\"闪亮登场\",\"image\":\"https://i0.hdslb.com/bfs/garb/8bb94283fb7da10547dea8866cb5c50eee14c3ce.png\"},{\"name\":\"美味\",\"image\":\"https://i0.hdslb.com/bfs/garb/575859d9b878a8a9dfa277f478625fb021848ae9.png\"},{\"name\":\"我的呢\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d4c6b6488e1d3d355893827b9e06f1085aa252a.png\"},{\"name\":\"偷偷观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/010468defe4b75bdd40735996dffed423cd81fae.png\"},{\"name\":\"沉默\",\"image\":\"https://i0.hdslb.com/bfs/garb/4accfc67bc062ed8183e40a64fde771931ad4600.png\"},{\"name\":\"看招\",\"image\":\"https://i0.hdslb.com/bfs/garb/493fd9b54b1ad2d828c9e457b41e801f3f89a62d.png\"},{\"name\":\"许愿中\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b0c30ccb13c01a7942bf742b9f04a7dc78f0d67.png\"},{\"name\":\"记小本本\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd26fbfe38f666bc64d55017a3b1ac29e4ab4fe5.png\"},{\"name\":\"礼仪之邦\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f6c8788b77086436d2d34735831ff0a705d03a5.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/5bbba926c85db8119e3b587e2c8eb5664abca5d5.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

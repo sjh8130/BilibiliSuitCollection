@@ -16,14 +16,11 @@
 		"item_id_card":"1754534205001",
 		"item_id_emoji_package":"1754534289001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"99999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3219324012",
 		"sale_sku_id_2":"3219324011",
 		"sale_time_begin":"1755057062",
@@ -82,21 +79,13 @@
 				"name":"tuanzer超级管道",
 				"suit_item_id":321932401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8593e62f7c2781df3b54d22db2aacc2087528777.png",
 					"item_emoji_list":"[{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/634da1ab199b1b068206701ee15d3727ffe631d5.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/21a47a321a7db54ff9ba93806c15bc6d4f4d8e70.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d36fb06e70a73ca194b68c5905b13c609d3c3a8.png\"},{\"name\":\"玩耍\",\"image\":\"https://i0.hdslb.com/bfs/garb/71aed762d71e8207dead6babd7c67a8e0e7a850a.png\"},{\"name\":\"金币\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2a69d5e691a29048f503fde6193723c03f62559.png\"},{\"name\":\"可爱\",\"image\":\"https://i0.hdslb.com/bfs/garb/325c7b993314c1b4779f1ff236713169c6cfeb2d.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea17dc49b58bf8f02cb3cb47d4dacf127001e802.png\"},{\"name\":\"团子\",\"image\":\"https://i0.hdslb.com/bfs/garb/95acc62b6d79f325939d1fac7413f2181122caed.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/29eecc96c85901b2c7aee52a68eb51d1a08d85e9.png\"},{\"name\":\"盒子\",\"image\":\"https://i0.hdslb.com/bfs/garb/c50afb108e59939e7b6a89a6968c66d35937b101.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a7914920e90aa27a4182b226c7b83ea32201694.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/f95e1997b3af7dc62f74aed8c3c78f1b6c213096.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/c00b364cf14702b952435a12faa3de4805a9a8a7.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/5c5aa562d415857959602c627b9d2afefa63d003.png\"},{\"name\":\"耶！\",\"image\":\"https://i0.hdslb.com/bfs/garb/0faf973e348e2a3aff11dc4bf58c52b427625650.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

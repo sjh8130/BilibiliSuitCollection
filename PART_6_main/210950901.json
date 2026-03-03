@@ -16,14 +16,11 @@
 		"item_id_card":"1713410764001",
 		"item_id_emoji_package":"1713410718001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2109509012",
 		"sale_sku_id_2":"2109509011",
 		"sale_time_begin":"1713521700",
@@ -81,20 +78,12 @@
 				"name":"愚人小丑2",
 				"suit_item_id":210950901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/dd309dff410855b06cd08fd18b8db6fc6dd1cd05.png",
 					"item_emoji_list":"[{\"name\":\"指正\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6ffee77882c74cb8cd575fbf89e416bd30c474b.png\"},{\"name\":\"ok\",\"image\":\"https://i0.hdslb.com/bfs/garb/33717510756179dce75a7857881a95fe3fec0733.png\"},{\"name\":\"吃点好点\",\"image\":\"https://i0.hdslb.com/bfs/garb/20272e0cc995dfefa87b154eaa481f428102519c.png\"},{\"name\":\"记住你\",\"image\":\"https://i0.hdslb.com/bfs/garb/8bafcd1883d08354fd0fe33613e86be4f1f89725.png\"},{\"name\":\"忘记你\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ef772154a09ab43bfa168024e6b866752089805.png\"},{\"name\":\"是你\",\"image\":\"https://i0.hdslb.com/bfs/garb/94fb69cc5bd35c636d2691361917d7d0fe5194df.png\"},{\"name\":\"笑哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4361e93fea324d7676e1988927e47fd8b4ef5fb.png\"},{\"name\":\"你看\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ba377a56709be9fbf3dc82d7a4606ebf80bb8a6.png\"},{\"name\":\"小丑皇\",\"image\":\"https://i0.hdslb.com/bfs/garb/dacbe945de437f34c359450ab2f0ac11a92fb779.png\"},{\"name\":\"out\",\"image\":\"https://i0.hdslb.com/bfs/garb/694cb30e172472b13cfd314f71bce3ca9583e4a6.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/6f7c0d586a446023f9a1b49c779f14e0704cde3e.png\"},{\"name\":\"这么个事\",\"image\":\"https://i0.hdslb.com/bfs/garb/6feaf12e99b3c938b83155f988b62a15f23bb806.png\"},{\"name\":\"四苦\",\"image\":\"https://i0.hdslb.com/bfs/garb/f546099de5dcfe477a9ea72bdaaf7128ea1941bc.png\"},{\"name\":\"无辜\",\"image\":\"https://i0.hdslb.com/bfs/garb/e552be7fc1bd422581775ec83def4d195793f522.png\"},{\"name\":\"你out\",\"image\":\"https://i0.hdslb.com/bfs/garb/0451f040b0df4221b5f93fafd82e462acc3dd679.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

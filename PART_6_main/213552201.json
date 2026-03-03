@@ -16,14 +16,11 @@
 		"item_id_card":"1715678308001",
 		"item_id_emoji_package":"1715678404001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2135522012",
 		"sale_sku_id_2":"2135522011",
 		"sale_time_begin":"1718427600",
@@ -81,20 +78,12 @@
 				"name":"海绵宝宝和伙伴们",
 				"suit_item_id":213552201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/80810bae742317e47b37af96125efbc2d52a1d71.png",
 					"item_emoji_list":"[{\"name\":\"K\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd9da092ee3d5d70b1bae6e5a28e86274710a793.png\"},{\"name\":\"O\",\"image\":\"https://i0.hdslb.com/bfs/garb/6f72f70e764d31431d8a3517b384b39bf1e7b3b2.png\"},{\"name\":\"N\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7444ac7085a1f63aa7c5ff99adf1258417f2abc.png\"},{\"name\":\"来我怀里\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc80ad4bdd0d2c567d4610e64148bd100bf5b524.png\"},{\"name\":\"......\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd9f7d644e119544d36175a3e44f2d3d60176036.png\"},{\"name\":\"拥抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3f69fa99f3e117ba7ac2db969fff67a2453427d.png\"},{\"name\":\"溜了\",\"image\":\"https://i0.hdslb.com/bfs/garb/b4d8fa3751a8dee18192f26d7d8cf4d465d77225.png\"},{\"name\":\"摔\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec26371e2415ad4f1cfa3d138f076f8a51560a5f.png\"},{\"name\":\"翻跟头\",\"image\":\"https://i0.hdslb.com/bfs/garb/b796bbc14d97b80f963db6765c102b9ab66c5e86.png\"},{\"name\":\"生日快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/09f3a46deab74d45b8f6a3c806fb33ffce6f19f4.png\"},{\"name\":\"赞\",\"image\":\"https://i0.hdslb.com/bfs/garb/df5844cc95e8eb5b3874371008e8bb4f4ac3fa83.png\"},{\"name\":\"飞踢\",\"image\":\"https://i0.hdslb.com/bfs/garb/ffac1ee1d4ee3472587d36db04de4383601b418d.png\"},{\"name\":\"发财\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce725c49b2939e2abb716ea18880e42e6b4a3041.png\"},{\"name\":\"冲浪\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb02456915f665e51812ff3a5aaab623eb1c3b3b.png\"},{\"name\":\"吃冰淇淋\",\"image\":\"https://i0.hdslb.com/bfs/garb/51413231cbdfd9dd1521cafd24275c1691939489.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

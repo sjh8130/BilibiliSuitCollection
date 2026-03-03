@@ -16,14 +16,11 @@
 		"item_id_card":"1723690157001",
 		"item_id_emoji_package":"1723690749001",
 		"owner_uid":"428112437",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"10",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2228392012",
 		"sale_sku_id_2":"2228392011",
 		"sale_time_begin":"1723780800",
@@ -81,21 +78,13 @@
 				"name":"腾讯招聘",
 				"suit_item_id":222839201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/eddfc3a6d720abfd4087e0effc3e1045b426358c.png",
 					"item_emoji_list":"[{\"name\":\"送offer\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/2c9df3b711ff3d1fc1ec5e3f0cb656c22542e647.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/8ede8e57eb3eb335470104c49a26c7622c38ba88.png\"},{\"name\":\"水军来啰\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/64fcc9c0b4805dfe3f6358201da5b97df6aef51f.png\"},{\"name\":\"惊呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/843833e69c5e9b99280fab480d8a20ea13453619.png\"},{\"name\":\"你充Q币吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/836998a37748090ac65f23ca2ea22b74429f49f5.png\"},{\"name\":\"嘲笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/050291cc9deff5bd666d1e253d30493e37608284.png\"},{\"name\":\"外头站着\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/765180d51e83a956ae02f8c0088d27393d6dfdee.png\"},{\"name\":\"无所谓了\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/c196b09359f9ede41c8ca3d255e2fb1dd77a0593.png\"},{\"name\":\"起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/d9d941afc09e0b36529b88a924c9dcf66bf3cbee.png\"},{\"name\":\"鹅的大手\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/828bf227aae53f62a923647e29b3d32f9d2b9afb.png\"},{\"name\":\"仰望大佬\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/dce31c5d95b632f6a0bd0d4e5159bdc532fb31b4.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/8723b9d77f88d90c7b2f2eae30200bbeba6bb05c.png\"},{\"name\":\"短鹅\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/2274f6573efa24a72c257c3a6c45f02290629ad7.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/585f29ea4661e160e1885eda623e2e50388e2ba4.png\"},{\"name\":\"战斗爽\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/5788d64f46e4fe62f88294bba249a21bc495601e.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

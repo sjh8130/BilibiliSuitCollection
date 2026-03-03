@@ -16,14 +16,11 @@
 		"item_id_card":"1744811822001",
 		"item_id_emoji_package":"1744812000001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"96",
 		"sale_quantity":"99999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3106668012",
 		"sale_sku_id_2":"3106668011",
 		"sale_time_begin":"1744946290",
@@ -82,21 +79,13 @@
 				"name":"卷卷猫 好好学习",
 				"suit_item_id":310666801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/77b6b0111ce769f907dafddfc3b4100e3141cee9.png",
 					"item_emoji_list":"[{\"name\":\"爆发\",\"image\":\"https://i0.hdslb.com/bfs/garb/5cd1c14c4813ba6d980a39540e0d892c836ee827.png\"},{\"name\":\"下班\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d5c0ae4e9fae55bc731406232b540f5eb6d2830.png\"},{\"name\":\"转圈\",\"image\":\"https://i0.hdslb.com/bfs/garb/dae26901eb624bcd512ff5853b3c79b83ca42adf.png\"},{\"name\":\"洗澡\",\"image\":\"https://i0.hdslb.com/bfs/garb/379a927ef0df02e5b445899605ef300ead279d17.png\"},{\"name\":\"惊恐\",\"image\":\"https://i0.hdslb.com/bfs/garb/12f7082ecb164819d2d491300bb8cfd486f710b5.png\"},{\"name\":\"委屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/b4e6dbe0c621d725c65f69c201146e77e20eff8a.png\"},{\"name\":\"偷感\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a58a86d97583a348b24998d9fb29543d5141f69.png\"},{\"name\":\"天使\",\"image\":\"https://i0.hdslb.com/bfs/garb/d8d0e603616be0dbd4e1f19ff76bf61578c3165d.png\"},{\"name\":\"略略\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5e5e0c39e5e47844874b161819aa02ab0d81a88.png\"},{\"name\":\"哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/293a37d59e5aa25a56422a2ddff6ebbf1964f6aa.png\"},{\"name\":\"哼哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/392c96171a6d1dbd9c2c5f1d7e2be546526d1825.png\"},{\"name\":\"藏起来\",\"image\":\"https://i0.hdslb.com/bfs/garb/36d71c1a45fbaf6db653f2c4d7142b85d5c7554d.png\"},{\"name\":\"干活\",\"image\":\"https://i0.hdslb.com/bfs/garb/a65db0c31420688b4227c61f39be39498c548393.png\"},{\"name\":\"宕机\",\"image\":\"https://i0.hdslb.com/bfs/garb/e08c5814efbfb31c1054cd75ec66beef2e80e2f8.png\"},{\"name\":\"吃糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1d783bedec5c1404cabd95dc7058ead6ab89188.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

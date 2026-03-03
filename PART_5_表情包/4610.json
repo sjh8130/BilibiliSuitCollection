@@ -5,18 +5,11 @@
 	"group_name":"水果派对",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/0b9e0453129be7116fa11a8dc33fcb2350a694a0.png",
 		"item_ids":"4600,4601,4602,4603,4604,4605,4606,4607,4608,4609",
-		"permanent":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"true",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

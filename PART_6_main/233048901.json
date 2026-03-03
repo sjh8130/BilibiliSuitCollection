@@ -16,14 +16,11 @@
 		"item_id_card":"1732269317001",
 		"item_id_emoji_package":"1732268650001",
 		"owner_uid":"3493134470220310",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2330489012",
 		"sale_sku_id_2":"2330489011",
 		"sale_time_begin":"1732677210",
@@ -81,21 +78,13 @@
 				"name":"圣诞萌语颂",
 				"suit_item_id":233048901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/920b30e8d0e084d86877ffea747495a495100ebf.png",
 					"item_emoji_list":"[{\"name\":\"伸懒腰\",\"image\":\"https://i0.hdslb.com/bfs/garb/466a902ce0703c3bb6e631219b4c073171c472dc.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ba53ce3aecbd44a32dcb4956354d411b6bc23cd.png\"},{\"name\":\"一起做料理\",\"image\":\"https://i0.hdslb.com/bfs/garb/ca21faa789a2815d50c0e53728c4e33bda14e4e7.png\"},{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/065292c5936e880c139277c0ad1bea5a39997247.png\"},{\"name\":\"圣诞树\",\"image\":\"https://i0.hdslb.com/bfs/garb/78286005648649bc7454b14b78a5adeeb8901eaf.png\"},{\"name\":\"施魔法\",\"image\":\"https://i0.hdslb.com/bfs/garb/42aee1922cf1327072338fad98d0a7614ac2ecd7.png\"},{\"name\":\"突然出现\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2170afcad283188391076e803337908033bc261.png\"},{\"name\":\"惊喜\",\"image\":\"https://i0.hdslb.com/bfs/garb/17489af6ae7135521b53dd021fc4d658c3339db5.png\"},{\"name\":\"堆雪人\",\"image\":\"https://i0.hdslb.com/bfs/garb/51df75321358292bdc513ab85fee1df22999201e.png\"},{\"name\":\"兔兔雪人\",\"image\":\"https://i0.hdslb.com/bfs/garb/14870b32035328c8e0abdb0f0a1b443b862add2d.png\"},{\"name\":\"馋了\",\"image\":\"https://i0.hdslb.com/bfs/garb/e489c0f8d7b7cffc6e3456112b753eb6b88572b6.png\"},{\"name\":\"抱紧大腿\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6ab6fc7898dd248d0d01fe656cd33763eae3fd6.png\"},{\"name\":\"圣诞贺卡\",\"image\":\"https://i0.hdslb.com/bfs/garb/df9d67269df69a56b0e3aa250bd4a7823287c0d8.png\"},{\"name\":\"托腮\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7c27237699c8a00580f37938cb2682af61ea0d0.png\"},{\"name\":\"礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/5af304d235ff0094b99910156bb0fc75da96a1e3.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

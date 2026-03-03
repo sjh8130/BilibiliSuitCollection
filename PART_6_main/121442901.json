@@ -16,14 +16,11 @@
 		"item_id_card":"1690956870001",
 		"item_id_emoji_package":"1690956910001",
 		"owner_uid":"3493136928082317",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1214429012",
 		"sale_sku_id_2":"1214429011",
 		"sale_time_begin":"1691146800",
@@ -81,20 +78,12 @@
 				"name":"番茄tomato",
 				"suit_item_id":121442901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/676b04f5c188d3ac277830a452bb60a826ebeb4c.png",
 					"item_emoji_list":"[{\"name\":\"偷偷嘲笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/41fd6a8a8ccf93492ad26ae78bc9b1eaed346b09.png\"},{\"name\":\"偷偷哭泣\",\"image\":\"https://i0.hdslb.com/bfs/garb/6723b3c63ae8c5895e43c462d65a98563f2a763f.png\"},{\"name\":\"危险快逃\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff604081664d9b4857a6c7b6bf05a8ec15c8a18a.png\"},{\"name\":\"好臭\",\"image\":\"https://i0.hdslb.com/bfs/garb/5cb0654a2a0837f47d1683d311ed6d1507077728.png\"},{\"name\":\"尊嘟假嘟\",\"image\":\"https://i0.hdslb.com/bfs/garb/35f2f87e4e11aae2e1c74d0604db9f133089a73c.png\"},{\"name\":\"我还能熬\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8febf5c6b0de362e93a94237a181a5867591007.png\"},{\"name\":\"虾头啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5201ab00da48036eb718c88ee3b380f01787d1d.png\"},{\"name\":\"诶嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf296d80e54d1a9fd9aa6cd90fb2bebafdb486bc.png\"},{\"name\":\"再见了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7f66e59f599cb5813cf800e64d498a8605162e6.png\"},{\"name\":\"憋笑偷麻头\",\"image\":\"https://i0.hdslb.com/bfs/garb/54f1da6424fb55a02d6a894f1557a2c51ed06ca7.png\"},{\"name\":\"美丽的女士\",\"image\":\"https://i0.hdslb.com/bfs/garb/67d19ae38984259a5e877cc2a74ce91ba66e9f79.png\"},{\"name\":\"黑化番茄\",\"image\":\"https://i0.hdslb.com/bfs/garb/571efea321afc1dab46b4132ed5cd70693bc2b75.png\"},{\"name\":\"谁在背后\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8a17ef298933a5862163f2b7cd261218518f4b8.png\"},{\"name\":\"没人在乎\",\"image\":\"https://i0.hdslb.com/bfs/garb/f6e640042f56654e4582a990635a8135ccdb3b5d.png\"},{\"name\":\"你说什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/5c5a440db7f7af742a16b2d22ef53c891f448321.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1715665553001",
 		"item_id_emoji_package":"1715665708001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2135421012",
 		"sale_sku_id_2":"2135421011",
 		"sale_time_begin":"1715763610",
@@ -82,20 +79,12 @@
 				"name":"黑猫便利店",
 				"suit_item_id":213542101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/286a569b4a83e723b352fed975367b98147e03ee.png",
 					"item_emoji_list":"[{\"name\":\"黑猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e27d9f52885f71b5854679eca0e690a4a344b85.png\"},{\"name\":\"卖萌\",\"image\":\"https://i0.hdslb.com/bfs/garb/55c409daf3f514c801089b066f7bb346342db4bc.png\"},{\"name\":\"尾巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/8a66decee439f14b58758bea8eb858dd00ad0460.png\"},{\"name\":\"抹茶卷\",\"image\":\"https://i0.hdslb.com/bfs/garb/2849e8acd73c5d63729f9b8d1369bfd93bf57f9e.png\"},{\"name\":\"便当\",\"image\":\"https://i0.hdslb.com/bfs/garb/13de3a56086b6765b64961cf8f18c084d794aa2c.png\"},{\"name\":\"饮料\",\"image\":\"https://i0.hdslb.com/bfs/garb/cfd7eac08f6b25c43dc084f438cac37e84b28477.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/f780f48cce494ebf46b409ef9c51de7eeadddd91.png\"},{\"name\":\"饭团\",\"image\":\"https://i0.hdslb.com/bfs/garb/d98efe1db4b49939559d645f3ca1d46c0627518b.png\"},{\"name\":\"等待\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a47109a6895d8db218e89b4e2d0d02ae9515f1d.png\"},{\"name\":\"罐头\",\"image\":\"https://i0.hdslb.com/bfs/garb/55f742fded8e5482d86c10f4ab6ff57331cd4a6b.png\"},{\"name\":\"冰激凌\",\"image\":\"https://i0.hdslb.com/bfs/garb/81622b0d02620210160350134ea497f90e6bceeb.png\"},{\"name\":\"天妇罗\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1afa0c4ec1f62e28f771f1fbbfab8e3cebf08bc.png\"},{\"name\":\"蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/181c5879232f75725ef54af5dbef34390cb73d13.png\"},{\"name\":\"一键三连\",\"image\":\"https://i0.hdslb.com/bfs/garb/7906d1427c3bade765e559cc8423340d855c51e1.png\"},{\"name\":\"推荐\",\"image\":\"https://i0.hdslb.com/bfs/garb/690dbf67fed07243b781aba6a06a623c33ab6c48.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1741163903001",
 		"item_id_emoji_package":"1741147226001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"98",
 		"sale_quantity":"9999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3064504012",
 		"sale_sku_id_2":"3064504011",
 		"sale_time_begin":"1741748900",
@@ -81,21 +78,13 @@
 				"name":"春日画框少女",
 				"suit_item_id":306450401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/53b8049964426171c39475580d5548c3024af524.png",
 					"item_emoji_list":"[{\"name\":\"我亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ed0e8a2927b67ec1d5393116b33404c0396f6ae.png\"},{\"name\":\"嘲笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5a726cf6d103c5d209a51b3dac11e914bd7e96e.png\"},{\"name\":\"机智\",\"image\":\"https://i0.hdslb.com/bfs/garb/63c991d78f291c1a62f920a50c98d9034bf2706d.png\"},{\"name\":\"祈祷\",\"image\":\"https://i0.hdslb.com/bfs/garb/4585ceee202b0cd1e5978c5941ed694772f4c899.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec2aea19e7a1a1fd53a530061334e645a9f24711.png\"},{\"name\":\"宕机\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea59cf50fb6fe75a0cc485d614c3b12dfc5bc6c5.png\"},{\"name\":\"给你花\",\"image\":\"https://i0.hdslb.com/bfs/garb/71240c8573e80e428eb4acf11069c9abf20fbfce.png\"},{\"name\":\"给你奶茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/9114b1544480c9ba2bb6ae20737bbe32c7cd2b43.png\"},{\"name\":\"给你星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8723d29d3d9dc0de054a47e63261046b5595f81.png\"},{\"name\":\"不屑\",\"image\":\"https://i0.hdslb.com/bfs/garb/171bf6ba6426669256f429251ca9d22841ac310e.png\"},{\"name\":\"疑问\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b9ff2cf483b2d892c8c52318a12e25402b79d1c.png\"},{\"name\":\"不要\",\"image\":\"https://i0.hdslb.com/bfs/garb/83dcd57bf9c9990cd2204c09ccc69ab3debf8087.png\"},{\"name\":\"星星眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/dde13ca01a25adcd194d8f8a2cf36deb7f108451.png\"},{\"name\":\"装瓶\",\"image\":\"https://i0.hdslb.com/bfs/garb/29e38811b36b8a52c60af74683dd0753539c5dfc.png\"},{\"name\":\"我吃一口\",\"image\":\"https://i0.hdslb.com/bfs/garb/5ae194ce2fc5fd4fd555c20f8a849cfa170b599f.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

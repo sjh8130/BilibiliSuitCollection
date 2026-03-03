@@ -21,12 +21,10 @@
 		"item_id_space_bg":"1768292696001",
 		"item_id_thumbup":"1768288135001",
 		"owner_uid":"647193094",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"0",
 		"sale_bp_pm_raw":"0",
 		"sale_forbidden":"1",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
 		"sale_sku_id_1":"4014613012",
 		"sale_sku_id_2":"4014613011",
@@ -84,21 +82,13 @@
 				"name":"神驹瑞启",
 				"suit_item_id":401461301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/50d88b396026cdca5acd23f29408d09a4eef2ed5.png",
 					"item_emoji_list":"[{\"name\":\"赏\",\"image\":\"https://i0.hdslb.com/bfs/garb/45dca0c7641732b780f596ca1b45f0580db677c0.png\"},{\"name\":\"谢谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/cbb215370853fd91be59f4749e5c9534f7ececbb.png\"},{\"name\":\"已躺平\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9934532d5ba40ef792e134463f799ec4711c7c1.png\"},{\"name\":\"蹲红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/2675f7e784cbd878f46ff22353e3dc981595f8e7.png\"},{\"name\":\"在改了\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb05e52f7365c1db280d496642f172f5aa8aedce.png\"},{\"name\":\"包的\",\"image\":\"https://i0.hdslb.com/bfs/garb/b39f0f62e6bc1af8b8ffb24607eb2a0b67bb7f5a.png\"},{\"name\":\"马上发财\",\"image\":\"https://i0.hdslb.com/bfs/garb/f05e95a8752249d41bfe33cd6320d46a37130a7a.png\"},{\"name\":\"抢到了\",\"image\":\"https://i0.hdslb.com/bfs/garb/75d85cbb57aad6f09041bfcc96aef958ef085153.png\"},{\"name\":\"摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/83c6332cb6584c992f4e2b45370a4ced4f5ef153.png\"},{\"name\":\"马上上岸\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2d31135dfc9388814db36d808f31ba8a05e757d.png\"},{\"name\":\"哦吼\",\"image\":\"https://i0.hdslb.com/bfs/garb/e26e1a632040e551c5c9e02ec066f556bfaae581.png\"},{\"name\":\"吃饺子\",\"image\":\"https://i0.hdslb.com/bfs/garb/7be603a93e1ba73e27ba47d3d5d1beb4309e2ddf.png\"},{\"name\":\"美味\",\"image\":\"https://i0.hdslb.com/bfs/garb/801b5b6c6d1e59cc5d2b6baee61c107e74248a59.png\"},{\"name\":\"错亿\",\"image\":\"https://i0.hdslb.com/bfs/garb/3029dcafc152986c4f49c94336a5b90c8292046c.png\"},{\"name\":\"不爽\",\"image\":\"https://i0.hdslb.com/bfs/garb/4d3de33d85602be37d14a4db0c10fe7c023880f3.png\"},{\"name\":\"许愿\",\"image\":\"https://i0.hdslb.com/bfs/garb/44d68f08e6bc795d5fb59aab224928258c8408af.png\"},{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f4c9bdbcd98d462fc217533a0f4ce5b2d955b35.png\"},{\"name\":\"茄子\",\"image\":\"https://i0.hdslb.com/bfs/garb/0572b87c4d2cd1e6911d0204121bd8a117f18589.png\"},{\"name\":\"来开黑\",\"image\":\"https://i0.hdslb.com/bfs/garb/485e7e74420513c877620831c2ea4daad724dece.png\"},{\"name\":\"2026\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f31754ffbed27b2098ad76f2be286674c7d891a.png\"},{\"name\":\"好运来\",\"image\":\"https://i0.hdslb.com/bfs/garb/40143be7d9f6555d7ada1caa143e5d5d8efe21b5.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/a02567172f4a70a9485a7872d3d15369c0aefad6.png\"},{\"name\":\"发财\",\"image\":\"https://i0.hdslb.com/bfs/garb/0268ba4a2da0cd79ea5c7a34999bc8dc2bdb6004.png\"},{\"name\":\"吃糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/5aa1b2c6c0651465999f08720bb45d5f4930219f.png\"},{\"name\":\"福到了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a60f3d517d8d2fe20a69d1fb5a3bbfaa7f6076ca.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

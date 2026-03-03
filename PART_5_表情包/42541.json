@@ -5,19 +5,11 @@
 	"group_name":"传武",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/garb/item/949741966e2415db7631e01bb5a8eceb3c2e5b6d.png",
 		"item_ids":"42542,42543,42544,42545,42546,42547,42548,42549,42550,42551",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

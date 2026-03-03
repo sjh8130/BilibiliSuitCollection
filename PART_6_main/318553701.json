@@ -16,14 +16,11 @@
 		"item_id_card":"1751281112001",
 		"item_id_emoji_package":"1751281207001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3185537012",
 		"sale_sku_id_2":"3185537011",
 		"sale_time_begin":"1752227671",
@@ -81,21 +78,13 @@
 				"name":"文具小熊",
 				"suit_item_id":318553701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8275bcd914b4829d3ebaeb9dba1fccd4a214848a.png",
 					"item_emoji_list":"[{\"name\":\"写作业\",\"image\":\"https://i0.hdslb.com/bfs/garb/95867b7eb6cc13037755a5c448ba2d896f53d83c.png\"},{\"name\":\"书本\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d0907bc9886bdea0a43f41de6ecc885d689d026.png\"},{\"name\":\"黑板\",\"image\":\"https://i0.hdslb.com/bfs/garb/f989f1f0449e75189fcd005dd873baf46b204189.png\"},{\"name\":\"铅笔\",\"image\":\"https://i0.hdslb.com/bfs/garb/231783b0e52b4e8f6da334ad30900daaaebdd33c.png\"},{\"name\":\"笔筒\",\"image\":\"https://i0.hdslb.com/bfs/garb/06c860652b896551094a67884ff136def0d7276d.png\"},{\"name\":\"地球仪\",\"image\":\"https://i0.hdslb.com/bfs/garb/df85c70af2841d0feca94d6b840e34d9b87975f5.png\"},{\"name\":\"车子\",\"image\":\"https://i0.hdslb.com/bfs/garb/0cb88264f70eaadc28a18df129ad33f2f60d4ac9.png\"},{\"name\":\"手提包\",\"image\":\"https://i0.hdslb.com/bfs/garb/c1d8ddb4e964585911d982814eb0db22685abe0c.png\"},{\"name\":\"计算器\",\"image\":\"https://i0.hdslb.com/bfs/garb/159af62fc6edbeebfbfd134080effcca26721dce.png\"},{\"name\":\"书\",\"image\":\"https://i0.hdslb.com/bfs/garb/d11c08b8b19b11c162a5391b3bf8aa238af0b293.png\"},{\"name\":\"卷笔刀\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb461852cd53f6cd5ba96a48758a8e6488c1c091.png\"},{\"name\":\"笔\",\"image\":\"https://i0.hdslb.com/bfs/garb/66dee6747f06306a81e3df3d277068fb47dc1b99.png\"},{\"name\":\"书包\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8006091e6ada1701682fc9785d8d5b1f7209b02.png\"},{\"name\":\"照片\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b42ac6150ef2a5305df9afaf2d7ec0d96753c18.png\"},{\"name\":\"翻开书本\",\"image\":\"https://i0.hdslb.com/bfs/garb/1516cd0a379bf92d02414913bfd761af01253186.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

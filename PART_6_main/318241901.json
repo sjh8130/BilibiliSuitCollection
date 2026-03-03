@@ -16,14 +16,11 @@
 		"item_id_card":"1751526330001",
 		"item_id_emoji_package":"1751105892001",
 		"owner_uid":"27141298",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"2",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3182419012",
 		"sale_sku_id_2":"3182419011",
 		"sale_time_begin":"1751684400",
@@ -82,21 +79,13 @@
 				"name":"新皇救赎",
 				"suit_item_id":318241901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/798ea908fd81340a1af553466c8d5a0f4c12fe6c.png",
 					"item_emoji_list":"[{\"name\":\"困困\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e758a6982e06b532c2fe5a740fc48ab0b41092d.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/39f00f5e35d40e458ef8c2bf61919d7aacc0d795.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/e7b752525000f5e992c42bfa8ec818cb36ff0628.png\"},{\"name\":\"捂嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0353bfe74b351645286ba943980b1469451c9d7.png\"},{\"name\":\"尴尬\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f6aa6658b8664042d6a0a8a9b9a22122fba835a.png\"},{\"name\":\"宠溺\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b0f3c8df323a0c7e94f93afc226476baeb2b24d.png\"},{\"name\":\"对不起\",\"image\":\"https://i0.hdslb.com/bfs/garb/71e082ef19105e95797ffd1fd2e1e5bcdbe0b3e0.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e23d73aa54d11c4fd92389a92c9df582fffddc4.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/b96933af554f859145df041af8845ff1688e4471.png\"},{\"name\":\"愉悦\",\"image\":\"https://i0.hdslb.com/bfs/garb/51b4312215ee653e92de15a17e7344acc2abf147.png\"},{\"name\":\"嘲笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/202cb00b688fd2135d7b509983bb8f3d974a914e.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/2cc57e74491e23dd8a2b297f90988857bbf800c5.png\"},{\"name\":\"啊这\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a4bec171d8a8263c03d88db74d646f5aab639e8.png\"},{\"name\":\"爆哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/e53f362d2475314173b788e01d968e6da80563de.png\"},{\"name\":\"嘿嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/8ef2aa7e5474f4d644b6f2c9ccc8c27154bd305f.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

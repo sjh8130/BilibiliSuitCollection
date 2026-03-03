@@ -16,14 +16,11 @@
 		"item_id_card":"1687859079001",
 		"item_id_emoji_package":"1687860356001",
 		"owner_uid":"22765153",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"8",
 		"sale_quantity":"500000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1178531012",
 		"sale_sku_id_2":"1178531011",
 		"sale_time_begin":"1688054400",
@@ -82,20 +79,12 @@
 				"name":"流银",
 				"suit_item_id":117853101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b71386b1ffc7b48bced03f7dca8c86ab09862a5e.png",
 					"item_emoji_list":"[{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/beaf8d1d97275edb2950a31d745a8c8cd841613b.png\"},{\"name\":\"唉\",\"image\":\"https://i0.hdslb.com/bfs/garb/1b5be56ec17ccfcbbe0fc4ffcfe6cd746c0a97ff.png\"},{\"name\":\"累\",\"image\":\"https://i0.hdslb.com/bfs/garb/a43a5916a4e12332a52fe5a12de6dce9a034b264.png\"},{\"name\":\"小恶魔\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a71f1e86958b5cc5faf0dd93c28b57367abda12.png\"},{\"name\":\"不行\",\"image\":\"https://i0.hdslb.com/bfs/garb/af22484bc8f04c1345bb0635c4ec1e75fc910ec9.png\"},{\"name\":\"小天使\",\"image\":\"https://i0.hdslb.com/bfs/garb/43f06ec6aa64cfa11bab66d910e96f7eb3d9c9e4.png\"},{\"name\":\"捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/347eb8ee3196e19733c36ba2c7284c1b9960c640.png\"},{\"name\":\"哼哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5da3a9696c2a14a316790ab19f7269e8e8edfda.png\"},{\"name\":\"咕\",\"image\":\"https://i0.hdslb.com/bfs/garb/6eb9a67924c673db55b779a2a344ccd940f75c47.png\"},{\"name\":\"嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/c8e28b48b50f35b9e314d82f99f897cd12aff271.png\"},{\"name\":\"大款\",\"image\":\"https://i0.hdslb.com/bfs/garb/f4b3743d585eed83194a18679a36704d704c3428.png\"},{\"name\":\"摸渔\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ad4282b4f81a3b6efe7f33af5930d3d4f784819.png\"},{\"name\":\"汪\",\"image\":\"https://i0.hdslb.com/bfs/garb/d6137a1ed3fadffbb9081115853589af63ac0437.png\"},{\"name\":\"打电动\",\"image\":\"https://i0.hdslb.com/bfs/garb/52fa2d5700e5e398b990453e5d78d45b7c6779d3.png\"},{\"name\":\"呆住\",\"image\":\"https://i0.hdslb.com/bfs/garb/cac7eeafa4444949cc267e5ea385c6700eb50b14.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1681455277001",
 		"item_id_emoji_package":"1681451285001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1107289012",
 		"sale_sku_id_2":"1107289011",
 		"sale_time_begin":"1681805170",
@@ -81,20 +78,12 @@
 				"name":"打工阿鲨",
 				"suit_item_id":110728901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/025a297c79004fd374c74a1e76cdec3a1b18bcaf.png",
 					"item_emoji_list":"[{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/a6aa8af05e510ecfdd6b7e42ad64c3211dca00bd.png\"},{\"name\":\"搬砖\",\"image\":\"https://i0.hdslb.com/bfs/garb/90aadedda0471f3f6352478a8d69da312222093f.png\"},{\"name\":\"累了\",\"image\":\"https://i0.hdslb.com/bfs/garb/dc885c55a48383e281d5905c9827e6c0f0bb1d1b.png\"},{\"name\":\"呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2497a34fdd44357eaa2f9ef648c8e308d8357b9.png\"},{\"name\":\"加班\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff0f2e873880c9a6caa8760799b81e02bc5664b4.png\"},{\"name\":\"下班啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/5db6a7168c8d20d975fcf7e2e18487fc241f9d8a.png\"},{\"name\":\"吃饼\",\"image\":\"https://i0.hdslb.com/bfs/garb/b18d560ea764ccd85662911911c843081faf52a9.png\"},{\"name\":\"压力山大\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f56ad7faa28011ef974f374334d33ad176a888e.png\"},{\"name\":\"快逃\",\"image\":\"https://i0.hdslb.com/bfs/garb/234ca1643e8fc4b8ac927cadcb60d131994abb70.png\"},{\"name\":\"汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/1f37657a60c164f51bdf8859a6739330e257bc61.png\"},{\"name\":\"带薪摸鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/376eb25b3fac159c311db826c688435778608fe6.png\"},{\"name\":\"血槽已空\",\"image\":\"https://i0.hdslb.com/bfs/garb/360ad9e61b50c8fec8fe23c6876df324ce03d09e.png\"},{\"name\":\"品茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/32526f3af50eea8be0bc745f53d4c5c92fe0d1ca.png\"},{\"name\":\"致富秘籍\",\"image\":\"https://i0.hdslb.com/bfs/garb/16e73b614f174a4577d62ffe23a00922588d8106.png\"},{\"name\":\"忙\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea3f4d36c77f6256140a3426766d7b6a1b0a6e7e.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

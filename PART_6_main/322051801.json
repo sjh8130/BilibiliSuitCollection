@@ -16,14 +16,11 @@
 		"item_id_card":"1754638232001",
 		"item_id_emoji_package":"1754640724001",
 		"owner_uid":"3493130617752150",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"30000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3220518012",
 		"sale_sku_id_2":"3220518011",
 		"sale_time_begin":"1755921600",
@@ -81,21 +78,13 @@
 				"name":"irasutoya插画小人",
 				"suit_item_id":322051801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8f3a10d5ff9de46d031a5dac6a94944eba25ecd6.png",
 					"item_emoji_list":"[{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/a5d6b5068d2d4f3a29758ec5a22adfe24153cefb.png\"},{\"name\":\"刚睡醒\",\"image\":\"https://i0.hdslb.com/bfs/garb/a28ee77ab32cdeb70c67f1c12299af0ea81c8fc7.png\"},{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/487f2dc07ec79c9ff4e53a84359abf032959e29e.png\"},{\"name\":\"大笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/dabcce3aa27306322c0962265142a3b560161613.png\"},{\"name\":\"倾听\",\"image\":\"https://i0.hdslb.com/bfs/garb/534cfd0285dbb0f1c2bede8321143874ffba8364.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/e98ea4302e0dfff05addd10048b71112a5770093.png\"},{\"name\":\"汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/42c7e5f7ffc9ce347598ca743e13c1050e579d23.png\"},{\"name\":\"神\",\"image\":\"https://i0.hdslb.com/bfs/garb/8484c20210a4cf4f3f14931a1458ee8328cca93b.png\"},{\"name\":\"防御\",\"image\":\"https://i0.hdslb.com/bfs/garb/d8700f21062210e4564e7c44c70333744bfa06bd.png\"},{\"name\":\"无颜面对\",\"image\":\"https://i0.hdslb.com/bfs/garb/746a1ac4eacd105cb440c23136913210a72b2ca7.png\"},{\"name\":\"好耀眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d10d318aff1bcd87da08c747f57a0a06bbcd2b2.png\"},{\"name\":\"比耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/c23863f63948521b915baf3c82fd8fc349b5840c.png\"},{\"name\":\"灵机一动\",\"image\":\"https://i0.hdslb.com/bfs/garb/c77a333c85fadda49151cbdffb48ac7080f29eb6.png\"},{\"name\":\"捏鼻子\",\"image\":\"https://i0.hdslb.com/bfs/garb/dd088296abe0dd72b8ab2b72994da596feaa5e49.png\"},{\"name\":\"星星眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/635d2834b451c9d69ff7f970bc0e97c988ae0aa5.png\"},{\"name\":\"晕\",\"image\":\"https://i0.hdslb.com/bfs/garb/caf92f725897b7995e28a41c28acbee3fc5cfbfc.png\"},{\"name\":\"鞠躬\",\"image\":\"https://i0.hdslb.com/bfs/garb/336623a1bb9af8d78779837c3e915e615c0931ff.png\"},{\"name\":\"睡了\",\"image\":\"https://i0.hdslb.com/bfs/garb/32d53e9aeb0dd75ba38f1fc04073a9abf1e5184f.png\"},{\"name\":\"拍下来\",\"image\":\"https://i0.hdslb.com/bfs/garb/28fcb0a05f1503f2f8f1e4cd9636822a80d77d09.png\"},{\"name\":\"看戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a6b86f128d70a969fe8e7e0f2d97aedf62fcc68.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

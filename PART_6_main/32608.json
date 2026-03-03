@@ -19,18 +19,14 @@
 		"image_cover_color":"#956B51",
 		"image_cover_long":"https://i0.hdslb.com/bfs/garb/item/aa15155b90b9132f7ec0fb3ad657ad9f448f0afc.png",
 		"image_desc":"https://i0.hdslb.com/bfs/garb/item/1d2f8b5a1c25009b21c430adc1be03cbfd4489f4.png",
-		"is_hide":"false",
 		"item_id_card":"32635",
 		"item_id_emoji":"32657",
 		"item_id_thumbup":"32612",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"5500",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"100",
 		"sale_quantity":"50000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"false",
 		"sale_time_begin":"1634900400",
 		"sale_type":"pay",
 		"type":"ip"
@@ -79,19 +75,11 @@
 				"tab_id":8,
 				"suit_item_id":32608,
 				"properties":{
-					"addable":"true",
 					"biz":"dynamic,reply,watch_full",
 					"image":"https://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
 					"item_ids":"32639,32640,32641,32642,32643,32644,32645,32646,32647,32648,32649,32650,32651,32652,32654",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1682502036001",
 		"item_id_emoji_package":"1682500331001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1117285012",
 		"sale_sku_id_2":"1117285011",
 		"sale_time_begin":"1682765579",
@@ -81,20 +78,12 @@
 				"name":"阿鲨的假期",
 				"suit_item_id":111728501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/eb052c82cd4119f258d173a56f8b99cf451e7a6c.png",
 					"item_emoji_list":"[{\"name\":\"恰饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/46393659089f1384c3248a6262368f021cce7959.png\"},{\"name\":\"小鲨瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3b4b4f9abf70362285a60127f08baff61726b95.png\"},{\"name\":\"饱了\",\"image\":\"https://i0.hdslb.com/bfs/garb/8eda74845ce7f24125f4af1c3aa5c137f5413e16.png\"},{\"name\":\"幸福\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f4fff9006a628fee9ee970bc51fe2caf97b84b7.png\"},{\"name\":\"比个爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2d77d6e22c6c9b8fd82906bbe9321db848fbde3.png\"},{\"name\":\"锤爆地球\",\"image\":\"https://i0.hdslb.com/bfs/garb/f729fe9d1d2cdf67568bea32666449de1dda0890.png\"},{\"name\":\"小太阳\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf48a62946724aa84cfcc398bb4638ec528eb92a.png\"},{\"name\":\"哥俩好\",\"image\":\"https://i0.hdslb.com/bfs/garb/76457a12426d51c24f7691be3ccf38082b921269.png\"},{\"name\":\"铁子在吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ae9d1c75b5714efaf6647c3b5c01426034aa437.png\"},{\"name\":\"闭嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/be83ff9cc801289c19166c4d851b9b5a4bee1d24.png\"},{\"name\":\"求求\",\"image\":\"https://i0.hdslb.com/bfs/garb/79cf7213c7906ab4972e5c5658159e29ca6bc31e.png\"},{\"name\":\"终极悲伤\",\"image\":\"https://i0.hdslb.com/bfs/garb/485f4af78b752fd37e7ae7a929fa53c075d855e3.png\"},{\"name\":\"舔冰淇淋\",\"image\":\"https://i0.hdslb.com/bfs/garb/1618403a08966b3b66836ee39b576ba9e27c84ce.png\"},{\"name\":\"睡了\",\"image\":\"https://i0.hdslb.com/bfs/garb/161250bfa0d2e7f1a367a03356d3291e1fd9209a.png\"},{\"name\":\"上号\",\"image\":\"https://i0.hdslb.com/bfs/garb/40222a6b8d5c3f3219ca532678f7b9f3e4046d30.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

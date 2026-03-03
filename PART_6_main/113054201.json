@@ -16,12 +16,10 @@
 		"item_id_card":"1682329036001",
 		"item_id_emoji_package":"1682329454001",
 		"owner_uid":"389894527",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
 		"sale_sku_id_1":"1130542012",
 		"sale_sku_id_2":"1130542011",
@@ -79,20 +77,12 @@
 				"name":"粉红限定",
 				"suit_item_id":113054201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/06bca0ab4e02d52951c32b2cf50e7c49ed4172f9.png",
 					"item_emoji_list":"[{\"name\":\"耶？\",\"image\":\"https://i0.hdslb.com/bfs/garb/0f6124f0f6b9ec71896549c91bd0dd84545c087a.png\"},{\"name\":\"壁咚\",\"image\":\"https://i0.hdslb.com/bfs/garb/8230e5149cd720acffbf0e21358384b30ccbdcd7.png\"},{\"name\":\"恰个v\",\"image\":\"https://i0.hdslb.com/bfs/garb/95b1d0ed3138c120128a2aceb71a1f1d6bf3753a.png\"},{\"name\":\"祈祷\",\"image\":\"https://i0.hdslb.com/bfs/garb/5f4b6b032b07e5b8f3440d8796b351a95209bc34.png\"},{\"name\":\"搓手手\",\"image\":\"https://i0.hdslb.com/bfs/garb/1665574b4aba46e5ca843df38ad4bd6e2a32d398.png\"},{\"name\":\"到点了\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2b7467f47aa13a7dd97c68d1e9e5d3f417112ba.png\"},{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/b82147866f86f1cc4603ba5b47731b8d2eddfb37.png\"},{\"name\":\"噗\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f22d532110efcbeb8a6c09b50da87863e347b02.png\"},{\"name\":\"大脑缓冲\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a68129bba296ff533856fd3b607404494c43ff4.png\"},{\"name\":\"家人们\",\"image\":\"https://i0.hdslb.com/bfs/garb/38a92efc064c0a17f0dc2ca5e2dfbae28234f983.png\"},{\"name\":\"少管我\",\"image\":\"https://i0.hdslb.com/bfs/garb/2e325a0f5ab3732009a62c2dc9d896b73e15b93d.png\"},{\"name\":\"完结撒花\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb8a7eb3a7603af25bd78e5b7a50420db59bb781.png\"},{\"name\":\"吸氧\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb2cda1646d80568c148230bd357bec00dc4129b.png\"},{\"name\":\"嫌弃\",\"image\":\"https://i0.hdslb.com/bfs/garb/31a42f633de770b14ba7259c98ddeabc62ebd496.png\"},{\"name\":\"心虚\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a5be0ffa9b4a3e565ce528a62b64782fbf9eae7.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

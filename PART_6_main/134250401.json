@@ -15,14 +15,11 @@
 		"item_id_card":"1702025181001",
 		"item_id_emoji_package":"1702025257001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"50000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1342504012",
 		"sale_sku_id_2":"1342504011",
 		"sale_time_begin":"1705116020",
@@ -81,20 +78,12 @@
 				"name":"人格贴纸-ISTJ",
 				"suit_item_id":134250401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/8a46df65a227254d0f451c3ee9ecc1dfd4de6c50.png",
 					"item_emoji_list":"[{\"name\":\"宕机\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c9923897eee67d8b61cb7c47e9f352f34f879e4.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef1ec3c1260972034bae456e7bb0023ed163cb1e.png\"},{\"name\":\"灵光一现\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0192411e65dcded2d6c43b7adce7472bc7c6f23.png\"},{\"name\":\"暗藏玄机\",\"image\":\"https://i0.hdslb.com/bfs/garb/6005601026b16b994c4f86fef1fc25daa7c03918.png\"},{\"name\":\"擦眼镜\",\"image\":\"https://i0.hdslb.com/bfs/garb/43f841a9db787785e0980321c44aefdc73844906.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/1beb9e29db254196f5a101f7ec6bd44dd092570f.png\"},{\"name\":\"疑惑\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ca3294a12552c1bd5c92920fd0f2ec224ba65e0.png\"},{\"name\":\"心动\",\"image\":\"https://i0.hdslb.com/bfs/garb/8e384cc7f806be51649d78a78d37fe03bc5e242e.png\"},{\"name\":\"尬笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/fba6cfca128fcc83d81a4897587234bc4de45486.png\"},{\"name\":\"服了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c93afca3131ca2c71a10919216f0fb298e0c59c2.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea57fe218a56a27b3104f5549670bf71fa1260f0.png\"},{\"name\":\"情绪激动\",\"image\":\"https://i0.hdslb.com/bfs/garb/c01c6694d116d3ce7a9e571e5424f3146668cf5a.png\"},{\"name\":\"有逻辑的\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5d55d2466a349a3b56fb61be0361eba2bd7c26c.png\"},{\"name\":\"看戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/188aa6cc256dd0e56d2823c15ccb86dfc0eea70e.png\"},{\"name\":\"打盹\",\"image\":\"https://i0.hdslb.com/bfs/garb/043cc600f26e78fbc7479359172006aaaf80a27e.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

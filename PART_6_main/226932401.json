@@ -16,14 +16,11 @@
 		"item_id_card":"1727059008001",
 		"item_id_emoji_package":"1727064681001",
 		"owner_uid":"3493261333236149",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"100000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2269324012",
 		"sale_sku_id_2":"2269324011",
 		"sale_time_begin":"1727665200",
@@ -82,21 +79,13 @@
 				"name":"白荆回廊·景",
 				"suit_item_id":226932401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/item/50be4b8c17e19ec05e20e8afdbba9054a0282dd3.png",
 					"item_emoji_list":"[{\"name\":\"沉默\",\"image\":\"https://i0.hdslb.com/bfs/garb/c18ddcd2379e816472eef8167f5e196b4eced59a.png\"},{\"name\":\"欣慰\",\"image\":\"https://i0.hdslb.com/bfs/garb/dce0999b00dc61da893a7f837cb4dbf4eaae5d62.png\"},{\"name\":\"鼓掌\",\"image\":\"https://i0.hdslb.com/bfs/garb/c7c50adc15d1605511d1c37fb7a9b436e3ee6280.png\"},{\"name\":\"停\",\"image\":\"https://i0.hdslb.com/bfs/garb/fc2a69c69bbafee251488adf75cfefda5c040b00.png\"},{\"name\":\"互帮互助\",\"image\":\"https://i0.hdslb.com/bfs/garb/67f9396376db345ab97f6d4639533a0040fc5b58.png\"},{\"name\":\"睡觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/item/4619b2525a258627436bd6bf1c34ebf8fbb58c5e.png\"},{\"name\":\"工作\",\"image\":\"https://i0.hdslb.com/bfs/garb/720e8e1150270b99e980c6eae0638f412bc47db5.png\"},{\"name\":\"感慨\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d4c48ffd0f72fb7ecb93263ac5752c2b80e50c2.png\"},{\"name\":\"放松\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6c18b732e34040fe91cafe36a190e8340d9ba5c.png\"},{\"name\":\"沉思\",\"image\":\"https://i0.hdslb.com/bfs/garb/561a71c6cb3d205a731e2b0afe959d4184415f5a.png\"},{\"name\":\"茫然\",\"image\":\"https://i0.hdslb.com/bfs/garb/ae03f2b00ed6b291aafd97eaab7ff666bbe65720.png\"},{\"name\":\"超度\",\"image\":\"https://i0.hdslb.com/bfs/garb/52355bd12ebb61619f14767a2eabcb393f5c360e.png\"},{\"name\":\"沧桑\",\"image\":\"https://i0.hdslb.com/bfs/garb/a54cfede4d69ae162972515eeaf3806a7374c795.png\"},{\"name\":\"不屑\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad0ea4883b9a8484126d5dc0026bcedced47841e.png\"},{\"name\":\"？\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f6833114acfdf55f9ac6c36415c82c256f89434.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

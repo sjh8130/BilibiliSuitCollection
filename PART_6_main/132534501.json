@@ -16,14 +16,11 @@
 		"item_id_card":"1700470272001",
 		"item_id_emoji_package":"1699523042001",
 		"owner_uid":"1181834006",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"50000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1325345012",
 		"sale_sku_id_2":"1325345011",
 		"sale_time_begin":"1700656160",
@@ -81,20 +78,12 @@
 				"name":"凸面猫",
 				"suit_item_id":132534501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/b1c7de945da51b8da62fc05dc40ff806372de132.png",
 					"item_emoji_list":"[{\"name\":\"我忍\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a2a15eeb29813929f97244714451191eb0bee6e.png\"},{\"name\":\"6\",\"image\":\"https://i0.hdslb.com/bfs/garb/05af1ba0ff36b458b57f8516c1393df30dce38d5.png\"},{\"name\":\"带走\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a583c64178d50c712e742dcb72913e5b16c9029.png\"},{\"name\":\"加班\",\"image\":\"https://i0.hdslb.com/bfs/garb/d8f8d3fce4a502850947d86f6280f9e2c5e78c14.png\"},{\"name\":\"心动\",\"image\":\"https://i0.hdslb.com/bfs/garb/703225bcc900831a7f62b8bdb77cb72614c402dc.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/1fce4e1d881e9662a1a23013580984c2831e1c2a.png\"},{\"name\":\"心碎\",\"image\":\"https://i0.hdslb.com/bfs/garb/20e4aad9559153ca2a9bcf448aa85a36365d9569.png\"},{\"name\":\"我没事\",\"image\":\"https://i0.hdslb.com/bfs/garb/83208f184b4062820119084409d63a3f1a9a4af2.png\"},{\"name\":\"大脑过载\",\"image\":\"https://i0.hdslb.com/bfs/garb/4d39c8b53aa0da04d6ef6138475eb7ea4e114e8a.png\"},{\"name\":\"喵King\",\"image\":\"https://i0.hdslb.com/bfs/garb/5e25f0021a4936ad32c625c251c8e8e877b74698.png\"},{\"name\":\"笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7d4d16f6176f5ff3175d7c8c65454424439b3b7.png\"},{\"name\":\"制裁\",\"image\":\"https://i0.hdslb.com/bfs/garb/7884cfdf2457314b6059e7ff13448f77c4c5e741.png\"},{\"name\":\"陪一根\",\"image\":\"https://i0.hdslb.com/bfs/garb/41e4dcf144aa6f9b270d7a392d11b920650af7c2.png\"},{\"name\":\"友好\",\"image\":\"https://i0.hdslb.com/bfs/garb/191fe3b3a47528a46e9ad8c09943f50c3253cfc8.png\"},{\"name\":\"吸\",\"image\":\"https://i0.hdslb.com/bfs/garb/735549cce00856ae07ab97d36d56b70e5c71dcf7.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

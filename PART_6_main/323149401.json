@@ -16,14 +16,11 @@
 		"item_id_card":"1755591119001",
 		"item_id_emoji_package":"1755591156001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3231494012",
 		"sale_sku_id_2":"3231494011",
 		"sale_time_begin":"1756281382",
@@ -81,21 +78,13 @@
 				"name":"好运大礼包",
 				"suit_item_id":323149401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d5145ac5357585f274295974d949677b1a10b46d.png",
 					"item_emoji_list":"[{\"name\":\"草莓牛奶\",\"image\":\"https://i0.hdslb.com/bfs/garb/b44ddf9da1b8a070765079178dcb8a892b39465c.png\"},{\"name\":\"喵喵\",\"image\":\"https://i0.hdslb.com/bfs/garb/203ad5c2cc2164437dbf5294c65cf207f2ba5d24.png\"},{\"name\":\"雪糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/f26e50c50d35f4ef4339f856fa7690a8d2a51cec.png\"},{\"name\":\"想要\",\"image\":\"https://i0.hdslb.com/bfs/garb/03e8dc0b26bb10bf72a14b71e529c1c70707ea3b.png\"},{\"name\":\"好吃味\",\"image\":\"https://i0.hdslb.com/bfs/garb/95231db13433a7835d239b3cb986cd06aa6edf30.png\"},{\"name\":\"烤肠\",\"image\":\"https://i0.hdslb.com/bfs/garb/e76cddf93298d73c64adffbb2b82da63dae2cd3b.png\"},{\"name\":\"妹仔牛奶\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc49cde3b07d4911c395930f691a0adc0addbeb9.png\"},{\"name\":\"灵丹妙药\",\"image\":\"https://i0.hdslb.com/bfs/garb/5bd00850bfc55851110bc7e6b1d7e66a093ea2b1.png\"},{\"name\":\"ac钙\",\"image\":\"https://i0.hdslb.com/bfs/garb/e792eb3d98bf23642b06ff90d9f5e3270cec234e.png\"},{\"name\":\"戒指\",\"image\":\"https://i0.hdslb.com/bfs/garb/517e3b2163c5ee8dcf6fccc9d37eba75a5e97f72.png\"},{\"name\":\"棒棒糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/3556edd6ea855e6bf3faf656efd0eda1c37c2c59.png\"},{\"name\":\"欢乐多\",\"image\":\"https://i0.hdslb.com/bfs/garb/4cfb8e8780a72c14934df56a0bae6ba01f5e645e.png\"},{\"name\":\"妹头奶糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc0eae51e39c3114ff933fe3ce9f29e8891f28dc.png\"},{\"name\":\"小小卷\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b8978f56e120557d53c3897035b850a19e49a24.png\"},{\"name\":\"罐头糖\",\"image\":\"https://i0.hdslb.com/bfs/garb/c900478e80623070c19c69020b89c7a092d89e9f.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

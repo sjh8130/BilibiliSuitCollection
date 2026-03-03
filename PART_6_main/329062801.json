@@ -16,14 +16,11 @@
 		"item_id_card":"1760705464001",
 		"item_id_emoji_package":"1760705488001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3290628012",
 		"sale_sku_id_2":"3290628011",
 		"sale_time_begin":"1761016901",
@@ -81,21 +78,13 @@
 				"name":"园游会",
 				"suit_item_id":329062801,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/cbc6520207c0e9b4356dfee24acab2c76cfb5000.png",
 					"item_emoji_list":"[{\"name\":\"小天使\",\"image\":\"https://i0.hdslb.com/bfs/garb/5b6056b58ffbda2cf43c854cd73c12e5b49846d0.png\"},{\"name\":\"小鼓手\",\"image\":\"https://i0.hdslb.com/bfs/garb/4aff0be9945afe80b8ea83ec36254b39c9538b9b.png\"},{\"name\":\"茶杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/d5491af7f0b74a8b505522fe4532cbae500d9eb7.png\"},{\"name\":\"扑克牌\",\"image\":\"https://i0.hdslb.com/bfs/garb/dfc6417a8b00394ae2cb93223cc93ef84a14a97a.png\"},{\"name\":\"星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/384c5a29410c73bd2409fa2397117410af0d97c8.png\"},{\"name\":\"火车头\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6b049a8b742a70d80e3db4625c38c389aba21ca.png\"},{\"name\":\"南瓜车\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ea31c389474fde1ce8d6e7d552d866ce2cb2c36.png\"},{\"name\":\"小兔车\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f3b94dec25d2c3a97ef29b202bb00ad4afa57c6.png\"},{\"name\":\"小猫车\",\"image\":\"https://i0.hdslb.com/bfs/garb/639fba9613f549e6a2d8c0a0b8973f3005c1add9.png\"},{\"name\":\"气球\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b4ff76057401104d5a6649787ffd4ae54d83d51.png\"},{\"name\":\"皮球\",\"image\":\"https://i0.hdslb.com/bfs/garb/bc46871b80885630e6097ab8518571911b4c9054.png\"},{\"name\":\"旋转木马\",\"image\":\"https://i0.hdslb.com/bfs/garb/f43d7c86983af46b7c4da18bdf330452950427af.png\"},{\"name\":\"骑单车\",\"image\":\"https://i0.hdslb.com/bfs/garb/c865f8ee452effebd907ae9f470caaf475f9e1fc.png\"},{\"name\":\"小兔子\",\"image\":\"https://i0.hdslb.com/bfs/garb/3bb0b7dc57782d9d228b2371252ef03bbf11d1bb.png\"},{\"name\":\"耍球\",\"image\":\"https://i0.hdslb.com/bfs/garb/63dcccaab76dfd62f0421dce040a7b79a7f6b239.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

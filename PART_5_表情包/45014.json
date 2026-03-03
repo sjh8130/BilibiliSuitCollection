@@ -5,19 +5,11 @@
 	"group_name":"面具古墓",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/cb4e3289ff203d99ac309c17a3443f90c0a5fab0.png",
 		"item_ids":"45004,45005,45006,45007,45008,45009,45010,45011,45012,45013",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"vip",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

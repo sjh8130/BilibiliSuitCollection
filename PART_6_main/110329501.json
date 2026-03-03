@@ -15,14 +15,11 @@
 		"item_id_card":"1680588077001",
 		"item_id_emoji_package":"1680588107001",
 		"owner_uid":"3493080527276309",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"30000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1103295012",
 		"sale_sku_id_2":"1103295011",
 		"sale_time_begin":"1681462800",
@@ -81,20 +78,12 @@
 				"name":"鬼刀舞会-表情包",
 				"suit_item_id":110329501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5f7c70dde854fdd2b79870fdd106201bffaf5585.png",
 					"item_emoji_list":"[{\"name\":\"贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef6e6a8326f69427245e61b35779cfec9191c5dd.png\"},{\"name\":\"让我看看\",\"image\":\"https://i0.hdslb.com/bfs/garb/ada0f1693ff48c483249a48b82939695325e979f.png\"},{\"name\":\"探头\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a2646e66854b246a6de174b5a303a73361b184c.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/35070da75d2fdbd9c1df3a5766b312151a3d9f82.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/374135ae329fa963e13011bdccd7cf53a29bf084.png\"},{\"name\":\"求收养\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd1c4a2374a3c95a29f36498c44ecb988dcc9631.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3aa6915a1b97b647a3d7f4ff58aeabe8858c974.png\"},{\"name\":\"呆滞\",\"image\":\"https://i0.hdslb.com/bfs/garb/ce5d34f627768cb515c56ec2099c31e3e81c3631.png\"},{\"name\":\"咦？\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb5a0eeec88695b7acf59eace56c3f30bedcf9bd.png\"},{\"name\":\"无辜\",\"image\":\"https://i0.hdslb.com/bfs/garb/7092c9a49573256fae99f7cc4392f3c252e1c0f5.png\"},{\"name\":\"快逃\",\"image\":\"https://i0.hdslb.com/bfs/garb/a972699de3fb0e7f09ab585738d3fe596dd40dcf.png\"},{\"name\":\"跟我约会\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7239ecbf1b8e2379882d571cd82d7330fab49cd.png\"},{\"name\":\"重拳出击\",\"image\":\"https://i0.hdslb.com/bfs/garb/f7b4192734614ee64dac24369f1aa6ea023784ce.png\"},{\"name\":\"啊啊啊啊\",\"image\":\"https://i0.hdslb.com/bfs/garb/be91d65f877d613dca64e342cab7db82c1a1f03c.png\"},{\"name\":\"燃起来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e5765f5a1a85f89170afd70f08bbefc48e8d166.png\"},{\"name\":\"达咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/da4e2ed2d8b6d532f68513f5fe909e58503205b9.png\"},{\"name\":\"睿智\",\"image\":\"https://i0.hdslb.com/bfs/garb/b1334eb45eae59c340d72b9b754657398ac8aaf1.png\"},{\"name\":\"6\",\"image\":\"https://i0.hdslb.com/bfs/garb/1844cd7888d7d190ad1bdc319b6f4a0f2d750339.png\"},{\"name\":\"喝茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/9226d740e30670732831cf48eecfaa7a00cf1cfc.png\"},{\"name\":\"下午茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6e31a45d7a00119ced0134d594895d678f924af.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1680619262001",
 		"item_id_emoji_package":"1680619285001",
 		"owner_uid":"3461581786581601",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1094686012",
 		"sale_sku_id_2":"1094686011",
 		"sale_time_begin":"1681296430",
@@ -81,20 +78,12 @@
 				"name":"清凉呆呆鲨",
 				"suit_item_id":109468601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6427108605bcbf9b8897841168e00536afe4f2d4.png",
 					"item_emoji_list":"[{\"name\":\"鲨冰\",\"image\":\"https://i0.hdslb.com/bfs/garb/bbc45979b924cc6060a9770d523e9510c449148d.png\"},{\"name\":\"吹风扇\",\"image\":\"https://i0.hdslb.com/bfs/garb/361d7f070f9c084dfc2d97f13fb456a707226fc9.png\"},{\"name\":\"玩水枪\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b6ac4c9f5f33be0e9864cf912d82287fb1f6acf.png\"},{\"name\":\"吃草莓\",\"image\":\"https://i0.hdslb.com/bfs/garb/d62c2509a0a6d3cddc0688cc43dcfd92027c39a3.png\"},{\"name\":\"洗澡\",\"image\":\"https://i0.hdslb.com/bfs/garb/540ad63e9668795d7de74a19b1250fbbe270b61b.png\"},{\"name\":\"顶西瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/059d90a834f18136bf87a650985969931e80b2d2.png\"},{\"name\":\"划水\",\"image\":\"https://i0.hdslb.com/bfs/garb/626ea9eee427c0e16b0a074ff9508a3722fca738.png\"},{\"name\":\"呲你\",\"image\":\"https://i0.hdslb.com/bfs/garb/c39f0699bdccf53c1f2c341e816156aa52379134.png\"},{\"name\":\"喝冰饮\",\"image\":\"https://i0.hdslb.com/bfs/garb/3059c677ec9f3a52c56988a32c4cf43ee593180b.png\"},{\"name\":\"双倍快了\",\"image\":\"https://i0.hdslb.com/bfs/garb/c5c181b371727105a989f01a557e251f2407ad62.png\"},{\"name\":\"吃甜筒\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a80c33cbe0db64dc43d4a3bb106dca7b5464f03.png\"},{\"name\":\"无处可桃\",\"image\":\"https://i0.hdslb.com/bfs/garb/9e1b692bd5be36bd65fdc598824c9279ec2e4e1e.png\"},{\"name\":\"冲浪\",\"image\":\"https://i0.hdslb.com/bfs/garb/3150ba633cad4927ab48bf64a058b265c19671f7.png\"},{\"name\":\"好热\",\"image\":\"https://i0.hdslb.com/bfs/garb/3a5ad78f89e2ad95ec8415704f4ce3284d0769f3.png\"},{\"name\":\"钓鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/145ebfaa869c311ff4a95032be038fac88bef8bd.png\"},{\"name\":\"海王鲨\",\"image\":\"https://i0.hdslb.com/bfs/garb/851335055d82bdb5f57fc001ec39f79006ec815c.png\"},{\"name\":\"冰水浇头\",\"image\":\"https://i0.hdslb.com/bfs/garb/421309de6bd5508552a83ba4fc29a699d23506a4.png\"},{\"name\":\"淋雨\",\"image\":\"https://i0.hdslb.com/bfs/garb/01fa82f593175d9327c20f8a87132b12faf5f3ff.png\"},{\"name\":\"柠檬鲨冰\",\"image\":\"https://i0.hdslb.com/bfs/garb/b5bd5ddc5a6c34974ac2a2ec969ddebfdc989513.png\"},{\"name\":\"举草莓\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b61234ce4e6c00586938208bfd9b014d1c20dc7.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1742872836001",
 		"item_id_emoji_package":"1742873516001",
 		"owner_uid":"3493259372399028",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"1000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3091396012",
 		"sale_sku_id_2":"3091396011",
 		"sale_time_begin":"1744102800",
@@ -82,21 +79,13 @@
 				"name":"海豹良小宝Friends夜间咖啡馆",
 				"suit_item_id":309139601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a6388230fa7df99d54cc774c853c7cefa099e970.png",
 					"item_emoji_list":"[{\"name\":\"oi\",\"image\":\"https://i0.hdslb.com/bfs/garb/6d055e3da052712e8e62f6ab8bf1a44f6dea3acf.png\"},{\"name\":\"一起恰饭\",\"image\":\"https://i0.hdslb.com/bfs/garb/4cc51e0ee78bddb19aadafb1c519ebb714aa8453.png\"},{\"name\":\"戳手\",\"image\":\"https://i0.hdslb.com/bfs/garb/b8ccd2c88570e866bb9d9372dea5a89782430728.png\"},{\"name\":\"大哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/235c4d316988966707d0fd27fbfc2dea77193487.png\"},{\"name\":\"燃起来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/035b271a40edb666832c760a3212344f84183c43.png\"},{\"name\":\"ACE\",\"image\":\"https://i0.hdslb.com/bfs/garb/210d730fe6f13e422834174e694d8be91caff740.png\"},{\"name\":\"嚼嚼嚼\",\"image\":\"https://i0.hdslb.com/bfs/garb/2dc688d17d11ab6d1f36e31831af8da084839bff.png\"},{\"name\":\"算了算了\",\"image\":\"https://i0.hdslb.com/bfs/garb/12951e6f8383e3c577b064ef8366e311f528c922.png\"},{\"name\":\"撞\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2cb033401426adef96cef6c77ea1c3415857672.png\"},{\"name\":\"so\",\"image\":\"https://i0.hdslb.com/bfs/garb/0049c18912dd12dd4bc2d149fe9f215f8c4c97bc.png\"},{\"name\":\"谢谢\",\"image\":\"https://i0.hdslb.com/bfs/garb/052174b1c648d72f3fba909654e4c4b7fd5864ea.png\"},{\"name\":\"出来嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/28eac08825100ca18563fd00c6963cb5ed0293ec.png\"},{\"name\":\"怕了怕了\",\"image\":\"https://i0.hdslb.com/bfs/garb/bb4e623544b92cfda535ff622024a2006b87ac40.png\"},{\"name\":\"尖叫\",\"image\":\"https://i0.hdslb.com/bfs/garb/100d84d40105699183c1d716479bc24fb85e1c41.png\"},{\"name\":\"开饭了\",\"image\":\"https://i0.hdslb.com/bfs/garb/a852c36f0ba0a59add06c9ba4d07a44ba7fae5f2.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

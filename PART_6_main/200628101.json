@@ -16,14 +16,11 @@
 		"item_id_card":"1704442153001",
 		"item_id_emoji_package":"1704441944001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2006281012",
 		"sale_sku_id_2":"2006281011",
 		"sale_time_begin":"1705052989",
@@ -81,20 +78,12 @@
 				"name":"梦幻乐园",
 				"suit_item_id":200628101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/023e5e368ecfdebb59ff1868c039b2b8af9ecb6b.png",
 					"item_emoji_list":"[{\"name\":\"看什么呐\",\"image\":\"https://i0.hdslb.com/bfs/garb/9c3d9f49720feb69435f60330178b4c7f550048f.png\"},{\"name\":\"冷兔\",\"image\":\"https://i0.hdslb.com/bfs/garb/60eac8515bacd6cf195c18f9f5dfc6a71858272d.png\"},{\"name\":\"礼物\",\"image\":\"https://i0.hdslb.com/bfs/garb/d14efda04b93c6a0a93420251498d936cfd8e664.png\"},{\"name\":\"安静哟\",\"image\":\"https://i0.hdslb.com/bfs/garb/96254cb3d758c9f3712181ef9df2f7db6484c56a.png\"},{\"name\":\"好期待丫\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff13fc0172e9fcbbc8c97a1995c201f9bb8f11b5.png\"},{\"name\":\"好困哇\",\"image\":\"https://i0.hdslb.com/bfs/garb/df286bb05b0c1ff0b7192838ae076685d951463a.png\"},{\"name\":\"超凶的嗷\",\"image\":\"https://i0.hdslb.com/bfs/garb/63137139f2fa4b91da730013e431f6348a66e892.png\"},{\"name\":\"雪\",\"image\":\"https://i0.hdslb.com/bfs/garb/148f5aa204f50a91c7faae85e6e2b08d988998b4.png\"},{\"name\":\"超乖的呐\",\"image\":\"https://i0.hdslb.com/bfs/garb/d31c0b71cc1238bef32f5e62692e9f6a2fa19b5d.png\"},{\"name\":\"宝贝贴贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/76e1df8adc6db874a6c9fca6a4f5092fd4c8d701.png\"},{\"name\":\"悄悄探出\",\"image\":\"https://i0.hdslb.com/bfs/garb/e96de179c6ae31e2f9d72c76d7f73ec67b60d5a2.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/6dbba67767e792c2e837a913ff76ac91c93c6ba3.png\"},{\"name\":\"梦幻飞马\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a33d4d569550ac2f78d636611a475a81fb69b6e.png\"},{\"name\":\"冻猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/4934a195f8479a895a4580f8396f67a089fdf2a6.png\"},{\"name\":\"扑克牌\",\"image\":\"https://i0.hdslb.com/bfs/garb/8c80d178ccacdf245e1ecedb6874a81f74e7cca3.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

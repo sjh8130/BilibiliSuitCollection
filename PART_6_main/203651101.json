@@ -16,14 +16,11 @@
 		"item_id_card":"1707100931001",
 		"item_id_emoji_package":"1707101163001",
 		"owner_uid":"3493076777568981",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2036511012",
 		"sale_sku_id_2":"2036511011",
 		"sale_time_begin":"1707192000",
@@ -81,20 +78,12 @@
 				"name":"鹤仙子装扮",
 				"suit_item_id":203651101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/03f9753698079fd2ec95e10b24e5503b2d2629ca.png",
 					"item_emoji_list":"[{\"name\":\"给心心\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a0b0af0740670d989829f717349257a4d12888f.png\"},{\"name\":\"活捉\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a9caf015c048385fb04e628254f92d63176ad07.png\"},{\"name\":\"懵了\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ad9feef16184d7ec1cdc9e7914390982f6d1ed4.png\"},{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/093866cc080b35d1a67a16c4273af36470c3e10c.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c6f477d9c3f46e16069b385a713e483e4d108a4.png\"},{\"name\":\"委屈屈\",\"image\":\"https://i0.hdslb.com/bfs/garb/a9eae9a503c14bf6fa701f1b636c34dfd5b07da4.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/2a45fd10c7aa29b296c55846f9c2341b70a528e6.png\"},{\"name\":\"叉出去\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a98647dd51e00f51d89a218be888bfe85ac2db4.png\"},{\"name\":\"丢耳机\",\"image\":\"https://i0.hdslb.com/bfs/garb/b012ad69333da0d23b00301003910b7fd5037b30.png\"},{\"name\":\"超鬼\",\"image\":\"https://i0.hdslb.com/bfs/garb/e6b622da3cb1f97ec4430315d277d9ff6cbe4466.png\"},{\"name\":\"嘟嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3074cf43fb093a440a28ac6d67a47970f667ee8.png\"},{\"name\":\"真的好吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/3fa140823a58b57e4e5a460576b646f4333cb62a.png\"},{\"name\":\"菠萝包\",\"image\":\"https://i0.hdslb.com/bfs/garb/2d747de2f43b1334c9976b67480543907dcce84b.png\"},{\"name\":\"缝补\",\"image\":\"https://i0.hdslb.com/bfs/garb/0373fb2b167ff2891178b472cca7af338a6bb96a.png\"},{\"name\":\"稀有\",\"image\":\"https://i0.hdslb.com/bfs/garb/dca00d96db83a4cc8341b0f47c5779079f8ad294.png\"},{\"name\":\"北伐\",\"image\":\"https://i0.hdslb.com/bfs/garb/24aabb68f68b0e7987f6354e3ca6e5b9e13bee8e.png\"},{\"name\":\"搞快点\",\"image\":\"https://i0.hdslb.com/bfs/garb/e70b479ee24e71fccd22fadbfcb855c6d9dc79aa.png\"},{\"name\":\"成熟\",\"image\":\"https://i0.hdslb.com/bfs/garb/84a766fbfb28ac7ec720ffdb84134d3c4c37c3c4.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/c631c2e1a6725ec5bc2bc9e2434826ba7d5c06af.png\"},{\"name\":\"媚劲\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ded0d4335081a0f6a07eb46a7d9d094d9d116c4.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1761297027001",
 		"item_id_emoji_package":"1761284639001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3297526012",
 		"sale_sku_id_2":"3297526011",
 		"sale_time_begin":"1761621641",
@@ -81,21 +78,13 @@
 				"name":"棉棉和咩咩",
 				"suit_item_id":329752601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/878a8e52a75ca8c272c35c7212b2cb382ef22cac.png",
 					"item_emoji_list":"[{\"name\":\"夹心棉棉\",\"image\":\"https://i0.hdslb.com/bfs/garb/c10780e72b72086b10de1d5d19dfe888af2de95a.png\"},{\"name\":\"喝茶\",\"image\":\"https://i0.hdslb.com/bfs/garb/4e9b37c4572aa31d7cd99f27a12ece3dc1c6042a.png\"},{\"name\":\"盖被被\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a547d17b3d192c5648e66dfdac294008b2766b6.png\"},{\"name\":\"穿厚点\",\"image\":\"https://i0.hdslb.com/bfs/garb/7cd62a529b9abee8ff02f408044b9f88c777b543.png\"},{\"name\":\"夹心咩咩\",\"image\":\"https://i0.hdslb.com/bfs/garb/d0e1fbf5994669031d087c0f9b5a41244fe8512f.png\"},{\"name\":\"受伤\",\"image\":\"https://i0.hdslb.com/bfs/garb/888c372d59da48099afdaa06176a825d918f7e44.png\"},{\"name\":\"创口贴\",\"image\":\"https://i0.hdslb.com/bfs/garb/2efa298cfcce4b6698e52b437e0f0b5f2e3a818a.png\"},{\"name\":\"织毛衣\",\"image\":\"https://i0.hdslb.com/bfs/garb/00094d06d9a3607d74254b912a200071f370341d.png\"},{\"name\":\"穿毛衣\",\"image\":\"https://i0.hdslb.com/bfs/garb/3058e41e20c4c7f7a078b3fe11056802a4d41aa4.png\"},{\"name\":\"制作中\",\"image\":\"https://i0.hdslb.com/bfs/garb/b610109e26779e67b3eb0566b5ef135defa5168e.png\"},{\"name\":\"出炉啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/e8a9edfca3b90647eeaadddb4ec731c00ee50c83.png\"},{\"name\":\"坐沙发\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f3578ffee9cf400bc9d03bd68ea1fe6854138e0.png\"},{\"name\":\"品尝\",\"image\":\"https://i0.hdslb.com/bfs/garb/3c14d0211c8e283c51e528556dd41ff0693f4f3e.png\"},{\"name\":\"躺下\",\"image\":\"https://i0.hdslb.com/bfs/garb/d134cc24d713d16a6fe4b423315ddb13e43773bb.png\"},{\"name\":\"追剧\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff5cc3d62f2b520799a1141e6a81d027e052ec90.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

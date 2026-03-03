@@ -15,14 +15,11 @@
 		"item_id_card":"1680856819001",
 		"item_id_emoji_package":"1680856866001",
 		"owner_uid":"352072032",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"9999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1097516012",
 		"sale_sku_id_2":"1097516011",
 		"sale_time_begin":"1681470000",
@@ -81,20 +78,12 @@
 				"name":"露比的裁缝铺",
 				"suit_item_id":109751601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1cdba10128613910c9b35c245d249baf146083cf.png",
 					"item_emoji_list":"[{\"name\":\"我裂开了\",\"image\":\"https://i0.hdslb.com/bfs/garb/0112ca3253a95621977c9c8d525ae5ae70de4082.png\"},{\"name\":\"偷看\",\"image\":\"https://i0.hdslb.com/bfs/garb/7be70ec7e815dfcf4464b7ff55d11125517fc5f8.png\"},{\"name\":\"吃惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5c17ffdb1b6a48683704f0b77591c50342b3d70.png\"},{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/f04f0249ae59e643f2204ebbf344f173c9ce45ad.png\"},{\"name\":\"背刺你\",\"image\":\"https://i0.hdslb.com/bfs/garb/1705d96a7d5a5f09665f247e135c655ecab61b14.png\"},{\"name\":\"累辽\",\"image\":\"https://i0.hdslb.com/bfs/garb/458e21e2568ae56cdea8dba84b8c7d98a12e96fa.png\"},{\"name\":\"修理你\",\"image\":\"https://i0.hdslb.com/bfs/garb/02c396c8ae6635f8f796c9aff7a656b1c56d9d76.png\"},{\"name\":\"恐吓\",\"image\":\"https://i0.hdslb.com/bfs/garb/5c2a26d9f1600b0013207fffab3be89f5b5b3387.png\"},{\"name\":\"让我听听\",\"image\":\"https://i0.hdslb.com/bfs/garb/379232812e4006d49405429480b7051062983524.png\"},{\"name\":\"扑街\",\"image\":\"https://i0.hdslb.com/bfs/garb/a4228c17904a61b6e9fafd796cf54028b4019882.png\"},{\"name\":\"摸摸\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ba63a7faf48b98408d517e40aac90ee17db6e13.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff0a2dfbabc98c65b01a89d3570b936e1dca3083.png\"},{\"name\":\"灰头土脸\",\"image\":\"https://i0.hdslb.com/bfs/garb/94d3d53c10850a2be51f4f4ae76e841b72d5da03.png\"},{\"name\":\"没眼看\",\"image\":\"https://i0.hdslb.com/bfs/garb/a97876a3b246b73f703ccc6613b959ada2ba4b41.png\"},{\"name\":\"拳打棉花\",\"image\":\"https://i0.hdslb.com/bfs/garb/0e285a9441d9e58fae7a97378ff3c7bcbd1036f2.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

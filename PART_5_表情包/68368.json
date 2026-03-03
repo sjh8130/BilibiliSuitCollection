@@ -5,19 +5,11 @@
 	"group_name":"吉祥物",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/782a265160239e963d1f9063bb2a36b7970ac52e.png",
 		"item_ids":"68358,68359,68360,68361,68362,68363,68364,68365,68366,68367",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

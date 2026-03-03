@@ -16,14 +16,11 @@
 		"item_id_card":"1742538751001",
 		"item_id_emoji_package":"1742539231001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3080444012",
 		"sale_sku_id_2":"3080444011",
 		"sale_time_begin":"1742872450",
@@ -81,21 +78,13 @@
 				"name":"讨坏型猫格",
 				"suit_item_id":308044401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/62987d15c06e9ffec68c3bfb8e1344d9cf936505.png",
 					"item_emoji_list":"[{\"name\":\"受伤\",\"image\":\"https://i0.hdslb.com/bfs/garb/17e072f4877cac6351589151b0aadc49acbd2d5b.png\"},{\"name\":\"吃点好的\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5178baea6bab08977b795b535b816b8e1bff08f.png\"},{\"name\":\"婉拒了\",\"image\":\"https://i0.hdslb.com/bfs/garb/9f0706916e6ff2e836e6bfdc43c920b195b856a9.png\"},{\"name\":\"给我\",\"image\":\"https://i0.hdslb.com/bfs/garb/b66c983633a48c87617e3f1f6ff4841b4b0ce7ca.png\"},{\"name\":\"甜品大师\",\"image\":\"https://i0.hdslb.com/bfs/garb/d67730a2f166325eaf90a88f9e1cae72fb5e2e59.png\"},{\"name\":\"music\",\"image\":\"https://i0.hdslb.com/bfs/garb/660a8082813c6b500f15f70a2ee6717eb90d6c63.png\"},{\"name\":\"感人\",\"image\":\"https://i0.hdslb.com/bfs/garb/697cf8edac8621268426791414e680618fe1ff41.png\"},{\"name\":\"DJ\",\"image\":\"https://i0.hdslb.com/bfs/garb/8569471209a9b4a0e1cabe34782552d1c029a6b8.png\"},{\"name\":\"邪恶\",\"image\":\"https://i0.hdslb.com/bfs/garb/49b2a752ea6b82bbd613e4c794276af8c2798754.png\"},{\"name\":\"艺术大师\",\"image\":\"https://i0.hdslb.com/bfs/garb/5aab9c9fcd777b5687c71541c8d4fd9f6e245b57.png\"},{\"name\":\"我不喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/f71d7924f55d4e615799390a458fc3cec61c2768.png\"},{\"name\":\"不想听\",\"image\":\"https://i0.hdslb.com/bfs/garb/4f20b7281e38a35319a5d7f7b9d7c0e727f50c4b.png\"},{\"name\":\"你管不着\",\"image\":\"https://i0.hdslb.com/bfs/garb/28078125d6a3d937773f1bfeacec54cc864465cb.png\"},{\"name\":\"我不需要\",\"image\":\"https://i0.hdslb.com/bfs/garb/4fd3640595fd6d2c928425d575e4edc2f072d57c.png\"},{\"name\":\"关我啥事\",\"image\":\"https://i0.hdslb.com/bfs/garb/772e198129ea0640eade5f5df2eb34a2a1752e50.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

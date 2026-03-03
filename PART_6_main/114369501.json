@@ -16,14 +16,11 @@
 		"item_id_card":"1684854069001",
 		"item_id_emoji_package":"1684854095001",
 		"owner_uid":"1732540672",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"9999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1143695012",
 		"sale_sku_id_2":"1143695011",
 		"sale_time_begin":"1685788709",
@@ -81,20 +78,12 @@
 				"name":"幸运上上签",
 				"suit_item_id":114369501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a5133a82254c3c153af6e7ee11ec47eedef3e850.png",
 					"item_emoji_list":"[{\"name\":\"今日运势\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9ea139a17dd658687bb354834a607a17b2cf20e.png\"},{\"name\":\"大吉\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d535e08d0800eb14f619dcf0da787e92e269615.png\"},{\"name\":\"中吉\",\"image\":\"https://i0.hdslb.com/bfs/garb/aa2d5e6e1dbf856cd86bb6d75816098e27e6a94f.png\"},{\"name\":\"大凶\",\"image\":\"https://i0.hdslb.com/bfs/garb/6e5e1499ce5796d7062eaa72e46cdadbe60e4eca.png\"},{\"name\":\"出货了\",\"image\":\"https://i0.hdslb.com/bfs/garb/bcbfd692e83c46e9e07c636f49ed3af24e894930.png\"},{\"name\":\"沉船了\",\"image\":\"https://i0.hdslb.com/bfs/garb/9099bd9b474328bfe1784dde4314a64fb452530d.png\"},{\"name\":\"逆天改命\",\"image\":\"https://i0.hdslb.com/bfs/garb/6409f9163b24ceaebfc563d2303282d467cbcb79.png\"},{\"name\":\"海豹晒卡\",\"image\":\"https://i0.hdslb.com/bfs/garb/125b8439b161157bc9e3d1c65b43b76382305d61.png\"},{\"name\":\"祈福御守\",\"image\":\"https://i0.hdslb.com/bfs/garb/d1b80b00013f0eb0d42e6f1aaddb7adb917486e2.png\"},{\"name\":\"来了\",\"image\":\"https://i0.hdslb.com/bfs/garb/5dbde3c679ee5aae1597a8c19a4cd3f5d0eae766.png\"},{\"name\":\"走了\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6f11765a62d9114af6803906b0fddd3e1b8fc6f.png\"},{\"name\":\"掌握未来\",\"image\":\"https://i0.hdslb.com/bfs/garb/9718893aac02ddcd9d7bf6f8a821b256c018d38e.png\"},{\"name\":\"数值真差\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd6c15f2a5e86362972865a05da9acdf5b82fc3b.png\"},{\"name\":\"请神\",\"image\":\"https://i0.hdslb.com/bfs/garb/2cd2e390c0d3b306b61cd638a367a113a536ad55.png\"},{\"name\":\"欧气喷雾\",\"image\":\"https://i0.hdslb.com/bfs/garb/52f52dccc9aa2e614c7f5f5ccac39764260a80c1.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

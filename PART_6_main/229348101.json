@@ -16,14 +16,11 @@
 		"item_id_card":"1729323509001",
 		"item_id_emoji_package":"1729324077001",
 		"owner_uid":"436377373",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2293481012",
 		"sale_sku_id_2":"2293481011",
 		"sale_time_begin":"1729825080",
@@ -81,21 +78,13 @@
 				"name":"跃动音律",
 				"suit_item_id":229348101,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/644a178f9de206c89083b544316932d350dff56e.png",
 					"item_emoji_list":"[{\"name\":\"可\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ff2969c15dfc247e7abe706d18b50c8730e10a8.png\"},{\"name\":\"比心\",\"image\":\"https://i0.hdslb.com/bfs/garb/3fbf7536b825147aa4cc55cba219e774c0fc9aa7.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc33ff5db82ea980800ca103135bb5938ff782b5.png\"},{\"name\":\"困\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7f7f1607ff82c760e3a76e3f168208ffa06d7c5.png\"},{\"name\":\"恭喜\",\"image\":\"https://i0.hdslb.com/bfs/garb/356307dddb6a33ba588d002e842a0b23d7ce88a9.png\"},{\"name\":\"暗中观察\",\"image\":\"https://i0.hdslb.com/bfs/garb/13219c2c37c5dcb498fad17efef46ea3527df96b.png\"},{\"name\":\"查岗\",\"image\":\"https://i0.hdslb.com/bfs/garb/d38fb78a45a134060912afd892cf7b6f17d2ecb5.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/fad9c3e063bc3c8c852af14315d167f8f64ef30a.png\"},{\"name\":\"晚安\",\"image\":\"https://i0.hdslb.com/bfs/garb/1d051c2c3892cabdb21d7dd6146da4f8329df836.png\"},{\"name\":\"献花\",\"image\":\"https://i0.hdslb.com/bfs/garb/74403b0d26738c53d6c69f0bd7eb5a6629b5185c.png\"},{\"name\":\"吃瓜\",\"image\":\"https://i0.hdslb.com/bfs/garb/ebe35569165b96c6975a5d7f8a2eff696304f5f8.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f433515932d11e387c6e1511084b69338089611.png\"},{\"name\":\"没米力\",\"image\":\"https://i0.hdslb.com/bfs/garb/37fa6a941caa17ba25bef7fdc9fee43d4ae410ab.png\"},{\"name\":\"震惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f45f991c9c6393ad069c9549a6e5e8b2667d02f.png\"},{\"name\":\"窥屏\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8d28cd4185d52f635deb00e685207d55a35c1b1.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

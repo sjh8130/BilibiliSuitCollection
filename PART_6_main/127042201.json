@@ -16,14 +16,11 @@
 		"item_id_card":"1695783633001",
 		"item_id_emoji_package":"1695782595001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1270422012",
 		"sale_sku_id_2":"1270422011",
 		"sale_time_begin":"1697014699",
@@ -81,20 +78,12 @@
 				"name":"鹅鹅鹅",
 				"suit_item_id":127042201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/1717b49e11b1d40c340ac667a04c4b5cad51ad97.png",
 					"item_emoji_list":"[{\"name\":\"示爱鹅头\",\"image\":\"https://i0.hdslb.com/bfs/garb/f8b05d84e483233cad4b79b885b860bba36c1609.png\"},{\"name\":\"示爱鹅身\",\"image\":\"https://i0.hdslb.com/bfs/garb/f9db88a7229cad5a207730ff4ad1368ef52e90c0.png\"},{\"name\":\"示爱鹅尾\",\"image\":\"https://i0.hdslb.com/bfs/garb/7e338fda5766c092300ad8e6409a1f7a323ca117.png\"},{\"name\":\"嘎？\",\"image\":\"https://i0.hdslb.com/bfs/garb/d7d6bee28914f545f1c46d9ccaed5ea2d475b5f7.png\"},{\"name\":\"哈哈哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/0eb191f4fab9363d1428ef0b26c6abb9a2179beb.png\"},{\"name\":\"焦头烂鹅\",\"image\":\"https://i0.hdslb.com/bfs/garb/5cdbfd73a9c5fc64e5579d515e648ccb50ebea6f.png\"},{\"name\":\"闭嘴\",\"image\":\"https://i0.hdslb.com/bfs/garb/a7631a7628920aa55214fbfaff66bd89b5924a5f.png\"},{\"name\":\"攻击1\",\"image\":\"https://i0.hdslb.com/bfs/garb/4bc648b6e95938e1cbc92a7c6844d9d080f464a8.png\"},{\"name\":\"攻击2\",\"image\":\"https://i0.hdslb.com/bfs/garb/af6afded83179902e7a00e062e43e35a4ab14a31.png\"},{\"name\":\"攻击鹅\",\"image\":\"https://i0.hdslb.com/bfs/garb/0c728e0ea7f6e7f407007289c6a1769f34ef4584.png\"},{\"name\":\"哎呀\",\"image\":\"https://i0.hdslb.com/bfs/garb/c3d83a1b447cea6b5bf7b2d571b1852f198b7590.png\"},{\"name\":\"哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ce5349cf10005573da564f316d4fd2b8034161a.png\"},{\"name\":\"喂？\",\"image\":\"https://i0.hdslb.com/bfs/garb/6cd9e444f7bb7b5c7a6444e7fb143ae4d51d8ef3.png\"},{\"name\":\"电话线\",\"image\":\"https://i0.hdslb.com/bfs/garb/bd76050fae065c08dfbf233ec0d0047db6f0e031.png\"},{\"name\":\"蛤？\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c52547e4f5e63f2e039b5b5adc15bddbeadc826.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

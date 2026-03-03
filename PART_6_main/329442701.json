@@ -16,14 +16,11 @@
 		"item_id_card":"1761026738001",
 		"item_id_emoji_package":"1761026993001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"99999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3294427012",
 		"sale_sku_id_2":"3294427011",
 		"sale_time_begin":"1761119831",
@@ -82,21 +79,13 @@
 				"name":"卷卷猫小幽灵",
 				"suit_item_id":329442701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/e854784e8a080a2a60a947d9727be4c561945633.png",
 					"item_emoji_list":"[{\"name\":\"女巫糖果\",\"image\":\"https://i0.hdslb.com/bfs/garb/00637ebac19b85fe9aeb4280ac48ed49ad847c4f.png\"},{\"name\":\"僵尸糖果\",\"image\":\"https://i0.hdslb.com/bfs/garb/cca5c21d45f15a8c680340f9ed86808ea5f876d3.png\"},{\"name\":\"丧尸糖果\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ca35c8a2a038b8deccf8df838980f7e21c43aea.png\"},{\"name\":\"狼人糖果\",\"image\":\"https://i0.hdslb.com/bfs/garb/ed6bbdd02d837a5721acc115b488225f779b9e63.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/942f0005fcec465ac1db408b6bce1955d0eae4a8.png\"},{\"name\":\"纸袋小鬼\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b48e0722f26343daad600310cb7ef93ee6fd42b.png\"},{\"name\":\"哈哈\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9c8cf537e5f2a62823586bc464a86ebe6d5426e.png\"},{\"name\":\"小恶魔\",\"image\":\"https://i0.hdslb.com/bfs/garb/7845fade04487a6fdd16d417e18aa27c3aca8c4c.png\"},{\"name\":\"毛毛狗\",\"image\":\"https://i0.hdslb.com/bfs/garb/e2dad37490a2712d7c4fa0415847657576f68aed.png\"},{\"name\":\"Hi\",\"image\":\"https://i0.hdslb.com/bfs/garb/6df69dd5f9f496ecdec65ecafaf004ed95c8e2b3.png\"},{\"name\":\"加油\",\"image\":\"https://i0.hdslb.com/bfs/garb/06cd465031d0c632ade956da2dcf6cfe53564cf1.png\"},{\"name\":\"来啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/c153cfac72814b7aa60e24f78941c9b884d50bcb.png\"},{\"name\":\"南瓜卷卷猫\",\"image\":\"https://i0.hdslb.com/bfs/garb/72ac406d223c145f47f698f9248ce4bf4902f73d.png\"},{\"name\":\"灯\",\"image\":\"https://i0.hdslb.com/bfs/garb/17f5319ccdc03e4e04d61a92cf38164a8f7fbfb6.png\"},{\"name\":\"南瓜灯\",\"image\":\"https://i0.hdslb.com/bfs/garb/00bc9b594b1b859b27904d7044899fdfc7a91702.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -16,14 +16,11 @@
 		"item_id_card":"1770885700001",
 		"item_id_emoji_package":"1770880233001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"8000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"4044259012",
 		"sale_sku_id_2":"4044259011",
 		"sale_time_begin":"1771037360",
@@ -81,21 +78,13 @@
 				"name":"财神小猫的祝福",
 				"suit_item_id":404425901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/0d0a968c8a774d1c136b416cd9d8d8a10bfac905.png",
 					"item_emoji_list":"[{\"name\":\"喜\",\"image\":\"https://i0.hdslb.com/bfs/garb/b857fad745bf303bbba627eaf9046b41cce94058.png\"},{\"name\":\"掌上明珠\",\"image\":\"https://i0.hdslb.com/bfs/garb/afbf9ca6ad221154e00748340619cc668a1f094b.png\"},{\"name\":\"怒\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3efaabc49855ec65d890d495565c1c4e8940ec1.png\"},{\"name\":\"舔欧气\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9dfce22a89f15420d71026eaa713ad6d45ca5b3.png\"},{\"name\":\"惊恐\",\"image\":\"https://i0.hdslb.com/bfs/garb/d39aeabd70b827e62c8a2ff6f32589b22ab0381b.png\"},{\"name\":\"哀\",\"image\":\"https://i0.hdslb.com/bfs/garb/f5adfe06dd63763235c4cf5bd2f8dc71e25c5932.png\"},{\"name\":\"暴富\",\"image\":\"https://i0.hdslb.com/bfs/garb/c0c41c37dab9600fa2901e5e3620bafd59611c02.png\"},{\"name\":\"财源广进\",\"image\":\"https://i0.hdslb.com/bfs/garb/029dc262fc297dc2286aad70271756a6ea7bccbf.png\"},{\"name\":\"发财\",\"image\":\"https://i0.hdslb.com/bfs/garb/577679a8a6336c08ca7a77fd0eb75ce4df3e920e.png\"},{\"name\":\"发红包\",\"image\":\"https://i0.hdslb.com/bfs/garb/9645f2f09067794eda446b753b982b4f075252a7.png\"},{\"name\":\"静一静\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c92d9bb465f3bacd8d96acf1e0500be8a66ec35.png\"},{\"name\":\"恭喜发财\",\"image\":\"https://i0.hdslb.com/bfs/garb/618e66885796f400b04b617f600a3021095baaab.png\"},{\"name\":\"棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/6fa5f924e42af61f62a36fb7128cf40080862e9e.png\"},{\"name\":\"乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c1c5089262079c2e054bb77f1831fd0ebc064b1.png\"},{\"name\":\"破钱消灾\",\"image\":\"https://i0.hdslb.com/bfs/garb/3596b89fa8b7a2e6af692aa32f869a73420f253a.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

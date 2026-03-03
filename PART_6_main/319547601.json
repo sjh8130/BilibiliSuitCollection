@@ -16,14 +16,11 @@
 		"item_id_card":"1752216410001",
 		"item_id_emoji_package":"1752215672001",
 		"owner_uid":"3494364170947008",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3195476012",
 		"sale_sku_id_2":"3195476011",
 		"sale_time_begin":"1753153990",
@@ -81,21 +78,13 @@
 				"name":"我的好亲鱿",
 				"suit_item_id":319547601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/79b3b287c0e0cf5a569f5176721acb714a86b401.png",
 					"item_emoji_list":"[{\"name\":\"鱿鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/61d0aa805985ad0ccca7591a1b9b31db91f986bf.png\"},{\"name\":\"开心\",\"image\":\"https://i0.hdslb.com/bfs/garb/803a628f63e78ffc29c3395150b74432bd97c408.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/2dcf7ac1965f96ea299381efcc81f297df74ae10.png\"},{\"name\":\"亲鱿\",\"image\":\"https://i0.hdslb.com/bfs/garb/1eb389695558e936064e741d7e295d490ab4b9f1.png\"},{\"name\":\"烤鱿鱼串\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b61b662581122d4fd70cbf4771ea2f560c69561.png\"},{\"name\":\"喜欢\",\"image\":\"https://i0.hdslb.com/bfs/garb/a12244695bbf736bc6082a66cdb33c62b0da57db.png\"},{\"name\":\"休息\",\"image\":\"https://i0.hdslb.com/bfs/garb/423341211a8a4ba07ddb40d6c6ed72600348f736.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/0822ca8924d6e172982c7f6a22844fb49750ed90.png\"},{\"name\":\"装酷\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c8c80dd13ac28423fab6664cd232cc02d3cb190.png\"},{\"name\":\"结婚\",\"image\":\"https://i0.hdslb.com/bfs/garb/6733f4104af6ff1bb8b85d8e9003399d39cb5a55.png\"},{\"name\":\"酸了\",\"image\":\"https://i0.hdslb.com/bfs/garb/66d48ad0f436a39d25abf3e1155c8941c70e6f2f.png\"},{\"name\":\"鱿才\",\"image\":\"https://i0.hdslb.com/bfs/garb/d22c15caaf09a7fd5b4ca2a5dab73eee1266fa74.png\"},{\"name\":\"伤心\",\"image\":\"https://i0.hdslb.com/bfs/garb/b00baf6727643dd7ca779992bfac0cd5135e6182.png\"},{\"name\":\"心虚\",\"image\":\"https://i0.hdslb.com/bfs/garb/f2de506134f80ee92e8992fe6862d79b7de13a3d.png\"},{\"name\":\"快乐水\",\"image\":\"https://i0.hdslb.com/bfs/garb/123045d5301b02f9df4371fde5f8f295aebb0bb6.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

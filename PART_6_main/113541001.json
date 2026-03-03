@@ -16,12 +16,10 @@
 		"item_id_card":"1684124949001",
 		"item_id_emoji_package":"1684125130001",
 		"owner_uid":"3493275023444234",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
 		"sale_sku_id_1":"1135410012",
 		"sale_sku_id_2":"1135410011",
@@ -80,20 +78,12 @@
 				"name":"艺术馆-搞怪名画",
 				"suit_item_id":113541001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ababeafca9a9a81644691a296993da4ee02ee157.png",
 					"item_emoji_list":"[{\"name\":\"白眼\",\"image\":\"https://i0.hdslb.com/bfs/garb/e1da5955d9a27d89c975961d73110410a1c3c323.png\"},{\"name\":\"优雅\",\"image\":\"https://i0.hdslb.com/bfs/garb/6da2f6221dbcb3b45daf0a77bb97b6d7df21f39b.png\"},{\"name\":\"微笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/8b1c02049843f451cdeb9b531124ef2b5e219abb.png\"},{\"name\":\"礼貌\",\"image\":\"https://i0.hdslb.com/bfs/garb/0b268c22391c615b5cb819edb957d39cf3832987.png\"},{\"name\":\"安详\",\"image\":\"https://i0.hdslb.com/bfs/garb/4b4b7c81e98acd3394134107c4116586500d6202.png\"},{\"name\":\"坏笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/d88c4fdf3f2606d565f0fcf3c84c99439ab43c20.png\"},{\"name\":\"忧愁\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a63d4c72cdff1afa30c00d0220644a5ebf740c3.png\"},{\"name\":\"惊讶\",\"image\":\"https://i0.hdslb.com/bfs/garb/677ab7cdfebecdbbe8604c314c113061b7630b66.png\"},{\"name\":\"看戏\",\"image\":\"https://i0.hdslb.com/bfs/garb/e220ab295fe958bcc26ae0318c00e7664b7b9b35.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/fcb1ca9516e5366df13f740f174bcec39939c9d0.png\"},{\"name\":\"干杯\",\"image\":\"https://i0.hdslb.com/bfs/garb/b0a5944d0fee077cf5ea03d16196cfb5d58e901d.png\"},{\"name\":\"瞅啥\",\"image\":\"https://i0.hdslb.com/bfs/garb/8eb4b293ed2c13c2a1a1e2dcd5f17a352dc0a9a2.png\"},{\"name\":\"拿捏\",\"image\":\"https://i0.hdslb.com/bfs/garb/a53519d89b038dbc43fbbbbe77d29325ce285840.png\"},{\"name\":\"拜拜\",\"image\":\"https://i0.hdslb.com/bfs/garb/c6a14bcf638868069f0b603f55982f1f685b999b.png\"},{\"name\":\"怨念\",\"image\":\"https://i0.hdslb.com/bfs/garb/9d2ef8a8cef7cf69982e4071fe12a3b6be9b5fb0.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

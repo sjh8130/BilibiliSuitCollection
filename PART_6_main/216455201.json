@@ -16,14 +16,11 @@
 		"item_id_card":"1718097629001",
 		"item_id_emoji_package":"1718096839001",
 		"owner_uid":"3494364170947008",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2164552012",
 		"sale_sku_id_2":"2164552011",
 		"sale_time_begin":"1718341200",
@@ -81,21 +78,13 @@
 				"name":"地娘说",
 				"suit_item_id":216455201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/5924c59386af280390f41ce506ebd45e8ebb553e.png",
 					"item_emoji_list":"[{\"name\":\"地圆说\",\"image\":\"https://i0.hdslb.com/bfs/garb/7ef69d76623039f45abee3a78bd9d4299fa98c3c.png\"},{\"name\":\"地平说\",\"image\":\"https://i0.hdslb.com/bfs/garb/b78d6cc5acef01d8bab617523b652b3e4fe41d28.png\"},{\"name\":\"地娘说\",\"image\":\"https://i0.hdslb.com/bfs/garb/32bee84bdf698bf8ca300752a6bc3bcc0a6976b7.png\"},{\"name\":\"赞！\",\"image\":\"https://i0.hdslb.com/bfs/garb/737b77542dc789a74cc576b46f96ac6a95296075.png\"},{\"name\":\"爱了\",\"image\":\"https://i0.hdslb.com/bfs/garb/3424add7ddceb719da07fb22a7635a57ab189eb1.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/c9fe9882d2fa0c3aaf85e510d9aa8296f62a93b7.png\"},{\"name\":\"冰河世纪\",\"image\":\"https://i0.hdslb.com/bfs/garb/c08b724d6ae8e4bafbc5d68c39de829c7fbd283e.png\"},{\"name\":\"全球变暖\",\"image\":\"https://i0.hdslb.com/bfs/garb/715d910d4e82fcbf65444fb04a32766560907bcb.png\"},{\"name\":\"流浪地球\",\"image\":\"https://i0.hdslb.com/bfs/garb/43519e00d47260aae949a67f462084daaa088015.png\"},{\"name\":\"爆哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b4db47f5932f4c87138e00d62b99ce382d2bb35.png\"},{\"name\":\"羞涩\",\"image\":\"https://i0.hdslb.com/bfs/garb/db3c764100cc8d4dfcb8b04e27ef60649e319a44.png\"},{\"name\":\"？？？\",\"image\":\"https://i0.hdslb.com/bfs/garb/2afcd3649e5f961ebb3c9deb5d0c1f73518376fb.png\"},{\"name\":\"流汗\",\"image\":\"https://i0.hdslb.com/bfs/garb/d9ba35d9d01ac3002f29c187fd4c158fb39c94ad.png\"},{\"name\":\"自转\",\"image\":\"https://i0.hdslb.com/bfs/garb/f59c5b1e0f65b3d9cdbc57401b2138f68bbd590d.png\"},{\"name\":\"哇噻\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad235ffc4d22f14613c37e5660534839f76a73ef.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

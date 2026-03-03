@@ -16,14 +16,11 @@
 		"item_id_card":"1752580061001",
 		"item_id_emoji_package":"1752580082001",
 		"owner_uid":"2084520048",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3196596012",
 		"sale_sku_id_2":"3196596011",
 		"sale_time_begin":"1753331031",
@@ -81,21 +78,13 @@
 				"name":"蛙蛙之声",
 				"suit_item_id":319659601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4913fcce34a6038840e748186bd1a5ca9740bf14.png",
 					"item_emoji_list":"[{\"name\":\"钓鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc76b6568b09107e658d2fad4635bb9cbb263dff.png\"},{\"name\":\"吃东西\",\"image\":\"https://i0.hdslb.com/bfs/garb/738394387c1fea6eb972c0cdd4dfbbc6c5b6b768.png\"},{\"name\":\"休息\",\"image\":\"https://i0.hdslb.com/bfs/garb/18e890d06d556bf317176fbc74b1dacee5e6d1df.png\"},{\"name\":\"自拍\",\"image\":\"https://i0.hdslb.com/bfs/garb/5930219ab2b33895896c268b87b68531bd39c146.png\"},{\"name\":\"汽车\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec9d2ce0554a658cc1d53c28231fd1fe6ae87436.png\"},{\"name\":\"烧水\",\"image\":\"https://i0.hdslb.com/bfs/garb/e3f15d6eeca3ecccc8dfdeb029f0dd0f2676da9f.png\"},{\"name\":\"hi\",\"image\":\"https://i0.hdslb.com/bfs/garb/c17db7767eed4f21eaec624cb0576664ec8e3358.png\"},{\"name\":\"包\",\"image\":\"https://i0.hdslb.com/bfs/garb/41567e1de5003fa4d93df1ed2d3ab8e7403aacc6.png\"},{\"name\":\"发呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/ffe0ec4ee77eca7386ec1996254c13e8315fb756.png\"},{\"name\":\"指路牌\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea851de3dfcd5a1962131e7a84473854c3234a7a.png\"},{\"name\":\"小铲子\",\"image\":\"https://i0.hdslb.com/bfs/garb/455de764ec81b24942dd024a723695d4913e40e6.png\"},{\"name\":\"木桩\",\"image\":\"https://i0.hdslb.com/bfs/garb/27549c9aa7622fb350bb1eacd6c2a75788456456.png\"},{\"name\":\"帽子\",\"image\":\"https://i0.hdslb.com/bfs/garb/f162d7955ece5891f755cd3dece7faa4382d43c3.png\"},{\"name\":\"油灯\",\"image\":\"https://i0.hdslb.com/bfs/garb/719096a9d3a1f06b2c5c2f449eb48d5fc3855832.png\"},{\"name\":\"地图\",\"image\":\"https://i0.hdslb.com/bfs/garb/19887c0d053c28dcd21c41ed8eba38c5bbfe97f0.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

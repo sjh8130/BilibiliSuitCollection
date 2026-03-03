@@ -16,14 +16,11 @@
 		"item_id_card":"1716172042001",
 		"item_id_emoji_package":"1716172077001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"50000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"大陆地区",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2141327012",
 		"sale_sku_id_2":"2141327011",
 		"sale_time_begin":"1717214400",
@@ -82,20 +79,12 @@
 				"name":"E-ZOO",
 				"suit_item_id":214132701,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/2ba74a08bbcb30e75fe0649bc89fea3660e70889.png",
 					"item_emoji_list":"[{\"name\":\"鼓掌\",\"image\":\"https://i0.hdslb.com/bfs/garb/334942fbeb9c6f6e232b07f136a0368857af7172.png\"},{\"name\":\"嘿嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/1a9793819eda68b005db8d9bf4e3bdbe966cdef6.png\"},{\"name\":\"不懂雕心\",\"image\":\"https://i0.hdslb.com/bfs/garb/bdc9d793135e5d166715227befd18a676baf1378.png\"},{\"name\":\"得意\",\"image\":\"https://i0.hdslb.com/bfs/garb/8f6fc7911aca06577676c17c1f2baad7c1a12597.png\"},{\"name\":\"迷迷糊糊\",\"image\":\"https://i0.hdslb.com/bfs/garb/614c0709307dfec7a8c23f7777647d365a904876.png\"},{\"name\":\"摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/e4047fda8ccb8454721fd9888224183f236b8c8b.png\"},{\"name\":\"闪亮登场\",\"image\":\"https://i0.hdslb.com/bfs/garb/6a6e3bfbf4fa4fd1770829b5513b53bba739ac99.png\"},{\"name\":\"数钱\",\"image\":\"https://i0.hdslb.com/bfs/garb/76b940968aa4a1fdcbe56c5ffc684101a4ecdb68.png\"},{\"name\":\"还债了\",\"image\":\"https://i0.hdslb.com/bfs/garb/f3c0c6728dfd45336ec06fe788f978aa1ba6b890.png\"},{\"name\":\"无语狐狐\",\"image\":\"https://i0.hdslb.com/bfs/garb/89865ea0ebb6624202715085930fd9e4001d2b68.png\"},{\"name\":\"心虚\",\"image\":\"https://i0.hdslb.com/bfs/garb/a3f3e4dc8ada2f621ca73bdf32683319e5f15b86.png\"},{\"name\":\"在干嘛\",\"image\":\"https://i0.hdslb.com/bfs/garb/6f6fae64f63ac2b6a14a746590f2359ebe6346ae.png\"},{\"name\":\"早上好\",\"image\":\"https://i0.hdslb.com/bfs/garb/045c6eac837aa9e9e0393fee0cbb8567fc753021.png\"},{\"name\":\"变身\",\"image\":\"https://i0.hdslb.com/bfs/garb/6b2ae351e9c6feb8e022a22310cdf89b956bbc1f.png\"},{\"name\":\"大唱特唱\",\"image\":\"https://i0.hdslb.com/bfs/garb/b52dd8391068bce09bc52b5045ea8f01d498cb3c.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

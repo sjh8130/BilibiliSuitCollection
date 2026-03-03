@@ -16,12 +16,10 @@
 		"item_id_card":"1747016206001",
 		"item_id_emoji_package":"1747059662001",
 		"owner_uid":"3529924",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"3900",
 		"sale_bp_pm_raw":"800",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"1000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
 		"sale_sku_id_1":"3132304012",
 		"sale_sku_id_2":"3132304011",
@@ -79,21 +77,13 @@
 				"name":"卸下圣体",
 				"suit_item_id":313230401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/9bc4d91c509ac2bad0b39ec990e6eab7c7ac3a6b.png",
 					"item_emoji_list":"[{\"name\":\"燃烧吧！\",\"image\":\"https://i0.hdslb.com/bfs/garb/59a7ea9792b7330abddfa98649ab6449412acf47.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/c2026ff5b7ca6b3f0a5f01ffc787623299c4aac7.png\"},{\"name\":\"离我远点\",\"image\":\"https://i0.hdslb.com/bfs/garb/519e5fdbe8a6615e060b5b0e7a53b2687064fbb7.png\"},{\"name\":\"奸笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/f1699aa735ec4859983630af2ca532ee472a5d0f.png\"},{\"name\":\"EXM？\",\"image\":\"https://i0.hdslb.com/bfs/garb/2239f6eb302f0db1ce2f4b1993068b5ab1543a10.png\"},{\"name\":\"呜呜\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f938c33886e4bef2b31a5710c157703dfa4ae54.png\"},{\"name\":\"什么！？\",\"image\":\"https://i0.hdslb.com/bfs/garb/91ff3c5b4f46dc639968c79b6c048b84921b80e6.png\"},{\"name\":\"好！\",\"image\":\"https://i0.hdslb.com/bfs/garb/ddc0158573852fecc471ebc09bbf625e99328cb0.png\"},{\"name\":\"人家害怕嘛\",\"image\":\"https://i0.hdslb.com/bfs/garb/6af2085148852d8ca76bf7c5c35d9e93f0721fe7.png\"},{\"name\":\"哦哦！\",\"image\":\"https://i0.hdslb.com/bfs/garb/0827741bee4ecf2a30a0a47bb320f09f5b742302.png\"},{\"name\":\"爱你~\",\"image\":\"https://i0.hdslb.com/bfs/garb/7d7fb175fcebf9fb6889a05c1a4f991fcbf4474e.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/22d28e5034c5059d1ec47bb4bed51b0c8df7d7b0.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/d104d3d388f1f3fc02951a5efe74a5c5f21a3e5a.png\"},{\"name\":\"好的！\",\"image\":\"https://i0.hdslb.com/bfs/garb/ecb27d79df54960088fea822fdf69efa8c6c7e70.png\"},{\"name\":\"胃痛\",\"image\":\"https://i0.hdslb.com/bfs/garb/167f7c2e37329f03c90fc879ea27efb62648fc47.png\"},{\"name\":\"嗯嗯\",\"image\":\"https://i0.hdslb.com/bfs/garb/298fa2fe7924ac2172f2f4033edb737d9b2e7b30.png\"},{\"name\":\"非常好\",\"image\":\"https://i0.hdslb.com/bfs/garb/d832fe0e60bf270833e828f60a0c326cf65b98ce.png\"},{\"name\":\"绝望\",\"image\":\"https://i0.hdslb.com/bfs/garb/f4c038c24adccdd0ab7ee5e3965a992b1e47293d.png\"},{\"name\":\"心虚\",\"image\":\"https://i0.hdslb.com/bfs/garb/19779e7f3bece0308b2334392d6a0ffb9edcffea.png\"},{\"name\":\"不要哇！\",\"image\":\"https://i0.hdslb.com/bfs/garb/176214143616e6554182df0028fb6bc7c11bf5a9.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

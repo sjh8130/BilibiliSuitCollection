@@ -16,14 +16,11 @@
 		"item_id_card":"1767144832001",
 		"item_id_emoji_package":"1766990147001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"1000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3365360012",
 		"sale_sku_id_2":"3365360011",
 		"sale_time_begin":"1767929450",
@@ -81,21 +78,13 @@
 				"name":"幸运蛙蛙小黑猫",
 				"suit_item_id":336536001,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/a047f40e722cfc2cce53c01afdde387fac57f628.png",
 					"item_emoji_list":"[{\"name\":\"招财\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e009082d224b3dea1d2972b4af673f1eebd00ed.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/cff214a1b64273383d666fae1c75840d83bae754.png\"},{\"name\":\"幸运喷雾\",\"image\":\"https://i0.hdslb.com/bfs/garb/c767f5125b9babaeae79be5eba023718872a7863.png\"},{\"name\":\"嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/81c24cb6b0b109e66ce9b2322d8bb12420b325d0.png\"},{\"name\":\"不嘻嘻\",\"image\":\"https://i0.hdslb.com/bfs/garb/6c64639921c1afda983dcd32ee2337f671b4fb91.png\"},{\"name\":\"咪得天\",\"image\":\"https://i0.hdslb.com/bfs/garb/40d4706925323dc6bc5bee3210e65a4f9a22c135.png\"},{\"name\":\"亲亲\",\"image\":\"https://i0.hdslb.com/bfs/garb/ff7d1dafb293a735b8acb1899dee01baddf046c7.png\"},{\"name\":\"求求了\",\"image\":\"https://i0.hdslb.com/bfs/garb/b3fcfff428808df2e7fd7535580afef6f4a4f189.png\"},{\"name\":\"宕机了\",\"image\":\"https://i0.hdslb.com/bfs/garb/fd9bee9cf254529a150ab37c5eebfdd9d2fc92a0.png\"},{\"name\":\"玩毛线\",\"image\":\"https://i0.hdslb.com/bfs/garb/7cc32200e1659f883c13a6078fd2f9df34932304.png\"},{\"name\":\"惊\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e175dd789924f73ded337100e39c77a5858a952.png\"},{\"name\":\"好混乱\",\"image\":\"https://i0.hdslb.com/bfs/garb/64a2e958eea947e7b7aba1f62a62465735a69c2c.png\"},{\"name\":\"无语\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc1c85a17b516d37ec44b13351b525fb9f87713a.png\"},{\"name\":\"没招了\",\"image\":\"https://i0.hdslb.com/bfs/garb/bda997abbc36654eac29cc5c036d6149c5f0e6f6.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/f24a86f7bf785efb1df3f3af964c8d6bd4ed2ef3.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

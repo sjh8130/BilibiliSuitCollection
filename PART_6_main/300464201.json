@@ -17,14 +17,11 @@
 		"item_id_emoji_package":"1736067961001",
 		"item_id_thumbup":"1735996889001",
 		"owner_uid":"286892605",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"6500",
 		"sale_bp_pm_raw":"1000",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3004642012",
 		"sale_sku_id_2":"3004642011",
 		"sale_time_begin":"1736568000",
@@ -82,21 +79,13 @@
 				"name":"冬日树下",
 				"suit_item_id":300464201,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/aa5573ed6d209adeaff266a241debffe8545b3a3.png",
 					"item_emoji_list":"[{\"name\":\"言叶\",\"image\":\"https://i0.hdslb.com/bfs/garb/06557a1aec8b4f148b224b610f27b79a802ebf85.png\"},{\"name\":\"小忆\",\"image\":\"https://i0.hdslb.com/bfs/garb/f18bb342c2be4c36ad7d111e39236f519798cf48.png\"},{\"name\":\"拜托\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b46dfa4efd9a14049fc6571fa8b56f3405c7840.png\"},{\"name\":\"约定\",\"image\":\"https://i0.hdslb.com/bfs/garb/ad8e8026ec69cec866924a26954565bd465a27a3.png\"},{\"name\":\"警觉\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f50abd73cfab82032c046ed24da4b6784adc706.png\"},{\"name\":\"幺幺零\",\"image\":\"https://i0.hdslb.com/bfs/garb/eb3f6aae8e082bd35e13b2a9379c45c6bb89cf4e.png\"},{\"name\":\"抱抱\",\"image\":\"https://i0.hdslb.com/bfs/garb/dcf574c1f379b7fc362cf8a72cb5c73bb732423d.png\"},{\"name\":\"笑\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f1d41b87ef70e0e828e77e7a98e0a63cd515322.png\"},{\"name\":\"爱心\",\"image\":\"https://i0.hdslb.com/bfs/garb/be443b48ed9d61dfc407227da7811df499a9ffcc.png\"},{\"name\":\"叹气\",\"image\":\"https://i0.hdslb.com/bfs/garb/23dc947969207c8a65137213070ff7be19185dcb.png\"},{\"name\":\"过载\",\"image\":\"https://i0.hdslb.com/bfs/garb/3be01204e5eef01b0b77188154457e1cb00de5c8.png\"},{\"name\":\"啊？\",\"image\":\"https://i0.hdslb.com/bfs/garb/9a8082dbf03354020bbacc81822735cfccf445a7.png\"},{\"name\":\"了解\",\"image\":\"https://i0.hdslb.com/bfs/garb/a1d4aa68854642f648c93aba6dcfb30c7d357b8e.png\"},{\"name\":\"思考\",\"image\":\"https://i0.hdslb.com/bfs/garb/84f1d0478abd3a5e9000305b55339b4a62ec80e6.png\"},{\"name\":\"哎嘿\",\"image\":\"https://i0.hdslb.com/bfs/garb/c614a8d3f4b378f5a16f56e8df25067db5246969.png\"},{\"name\":\"哼\",\"image\":\"https://i0.hdslb.com/bfs/garb/639c66cd0405c3dda976dd5d12f5ccd4137b2fe1.png\"},{\"name\":\"摸摸头\",\"image\":\"https://i0.hdslb.com/bfs/garb/0d7ab860803d9e37ec15b0515fe04747f10baa3f.png\"},{\"name\":\"困\",\"image\":\"https://i0.hdslb.com/bfs/garb/7841a79194739347887960fa491a0f65734da046.png\"},{\"name\":\"好耶\",\"image\":\"https://i0.hdslb.com/bfs/garb/4fb78163b8d74193189da0e4bdb3a71e88b36ff8.png\"},{\"name\":\"害羞\",\"image\":\"https://i0.hdslb.com/bfs/garb/b2449a27f5df9f9ead1af68d794d460718cff5b6.png\"},{\"name\":\"路过\",\"image\":\"https://i0.hdslb.com/bfs/garb/24dd6913e1675321cc442ee98d55e8b08dcd0e7e.png\"},{\"name\":\"得意\",\"image\":\"https://i0.hdslb.com/bfs/garb/af356a10fadb3636d6444cda1aa953e33baa3705.png\"},{\"name\":\"小白\",\"image\":\"https://i0.hdslb.com/bfs/garb/451fbd5e0e5c94c4fc45cb16bd8aabbcab749033.png\"},{\"name\":\"哭哭\",\"image\":\"https://i0.hdslb.com/bfs/garb/30ca64b9fb0e65e7484de08a1894f6a33473d3c7.png\"},{\"name\":\"耍赖\",\"image\":\"https://i0.hdslb.com/bfs/garb/23601821714a10db3aa488f2a432469946c2b858.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

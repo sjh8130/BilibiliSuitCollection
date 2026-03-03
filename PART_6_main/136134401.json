@@ -15,14 +15,11 @@
 		"item_id_card":"1703056590001",
 		"item_id_emoji_package":"1703121371001",
 		"owner_uid":"3493259372399028",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1361344012",
 		"sale_sku_id_2":"1361344011",
 		"sale_time_begin":"1705024800",
@@ -81,20 +78,12 @@
 				"name":"这里有神耶",
 				"suit_item_id":136134401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/4d5634d3d287549eb399649bb87f923c1923f9d9.png",
 					"item_emoji_list":"[{\"name\":\"嗨\",\"image\":\"https://i0.hdslb.com/bfs/garb/7480903b18c4904955a299409b9c8d89d9ae8242.png\"},{\"name\":\"告辞\",\"image\":\"https://i0.hdslb.com/bfs/garb/5a5eaeb8716226f4d86d218141022774289577c8.png\"},{\"name\":\"发呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/41f20641eaa02aeedaf006683e4b20c18c665941.png\"},{\"name\":\"一起玩\",\"image\":\"https://i0.hdslb.com/bfs/garb/ba05373f675d35f70a946223538bf3528565f4dc.png\"},{\"name\":\"emo\",\"image\":\"https://i0.hdslb.com/bfs/garb/837f8b5555af65563353e331dcd43ab32b42a8b7.png\"},{\"name\":\"害怕\",\"image\":\"https://i0.hdslb.com/bfs/garb/2c78edb9a590d023db679938964fb4e823ec093a.png\"},{\"name\":\"加点功德\",\"image\":\"https://i0.hdslb.com/bfs/garb/e9630567e1bb52afa4b49ff07f2bb7d3b40b7ae1.png\"},{\"name\":\"就这\",\"image\":\"https://i0.hdslb.com/bfs/garb/a611b3b8c15c6eebc8c9c21ad07822668e5cdefb.png\"},{\"name\":\"什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/360ca49c9bcbca76ff473b6d096862a3cd5fbe8c.png\"},{\"name\":\"生气\",\"image\":\"https://i0.hdslb.com/bfs/garb/c559308236d7169565c19727ef3c8175e4d2409e.png\"},{\"name\":\"向阳而生\",\"image\":\"https://i0.hdslb.com/bfs/garb/3e895410ed6e58ada1b717eea9f31ca324e6933e.png\"},{\"name\":\"心虚\",\"image\":\"https://i0.hdslb.com/bfs/garb/abf041fc17b18757a4d5c28e4c3614efd12bad79.png\"},{\"name\":\"太棒了\",\"image\":\"https://i0.hdslb.com/bfs/garb/7a282e39934745bd5d1f076c84e4860e07601574.png\"},{\"name\":\"智慧\",\"image\":\"https://i0.hdslb.com/bfs/garb/73256b9764c38b13df732baa05e480a4236e6161.png\"},{\"name\":\"追番\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac10bb17aa75985e2cb1be79df014e602e06d280.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

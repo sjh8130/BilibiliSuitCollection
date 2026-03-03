@@ -15,14 +15,11 @@
 		"item_id_card":"1698735510001",
 		"item_id_emoji_package":"1698737075001",
 		"owner_uid":"2142503509",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"19999",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1325393012",
 		"sale_sku_id_2":"1325393011",
 		"sale_time_begin":"1700709380",
@@ -81,20 +78,12 @@
 				"name":"呱呱第三弹",
 				"suit_item_id":132539301,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/54924fd0e5fa257c372346b7677a4b471de60e16.png",
 					"item_emoji_list":"[{\"name\":\"南瓜车\",\"image\":\"https://i0.hdslb.com/bfs/garb/e5adf92d1931ca32c05826bbfd9bd655747a5a1a.png\"},{\"name\":\"面包夹\",\"image\":\"https://i0.hdslb.com/bfs/garb/5499c46d963a25b88d64ec5b642b38efa5c2ecde.png\"},{\"name\":\"起飞\",\"image\":\"https://i0.hdslb.com/bfs/garb/fe8bd212363d2b951105d1f4d846bed31a56d7ba.png\"},{\"name\":\"吃糖吗\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2174e2e94eec0b7ed7a8cbcfd3a5e6ea6ca8156.png\"},{\"name\":\"哎鸭\",\"image\":\"https://i0.hdslb.com/bfs/garb/021552efe1ec3f01c1a1af5073932dd5acc4fb45.png\"},{\"name\":\"衰\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd7cb69d7cf9077aa2dae60c173b4156ad97c51f.png\"},{\"name\":\"一起玩？\",\"image\":\"https://i0.hdslb.com/bfs/garb/1bd2c60d0d7cce966be64242d39a43bdb15a3ace.png\"},{\"name\":\"噜噜噜\",\"image\":\"https://i0.hdslb.com/bfs/garb/ea33f8c72f4f7b911f2022b8630f6a870b4ba96f.png\"},{\"name\":\"嗯？\",\"image\":\"https://i0.hdslb.com/bfs/garb/7f3e86a21f0beb5fa1b5e9a9965873fdc0a0e464.png\"},{\"name\":\"略略略\",\"image\":\"https://i0.hdslb.com/bfs/garb/3fac28f8c5ece5d874945ec3d5318bfddd0c7f33.png\"},{\"name\":\"呆呆\",\"image\":\"https://i0.hdslb.com/bfs/garb/2dbcbce57312fcd1f26207f4d625646b8b94d1b2.png\"},{\"name\":\"鸡腿\",\"image\":\"https://i0.hdslb.com/bfs/garb/26316eddb32cc66bf0b075160618cd681f4147ac.png\"},{\"name\":\"木乃伊\",\"image\":\"https://i0.hdslb.com/bfs/garb/1ad923ff0b963e1084999a03bdf2c43bad12db63.png\"},{\"name\":\"跳舞\",\"image\":\"https://i0.hdslb.com/bfs/garb/85a8dc421395cf3f83fd093d24ef278ea66c1619.png\"},{\"name\":\"烤火\",\"image\":\"https://i0.hdslb.com/bfs/garb/41e421e29ccb3062ff07d8503faead77336cac01.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

@@ -5,19 +5,11 @@
 	"group_name":"团团猫",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/cd74fb2c142ebffbfc1ff782ec4d3be3494fb6be.png",
 		"item_ids":"40890,40891,40892,40893,40895,40896,40898,40901,40905,40906,40907,40909,40911,40914,40916,40919,40921,40923,40924,40925",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

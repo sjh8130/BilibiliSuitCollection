@@ -15,14 +15,11 @@
 		"item_id_card":"1702287439001",
 		"item_id_emoji_package":"1702287460001",
 		"owner_uid":"672197118",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"88888",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1345535012",
 		"sale_sku_id_2":"1345535011",
 		"sale_time_begin":"1705756130",
@@ -81,20 +78,12 @@
 				"name":"3d膨胀风小青龙",
 				"suit_item_id":134553501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/f54e5e3d544b5fba08ad84040794b5a47852e020.png",
 					"item_emoji_list":"[{\"name\":\"小青龙\",\"image\":\"https://i0.hdslb.com/bfs/garb/20f3e612c32cb55e9a55a04c83c94e9729082b06.png\"},{\"name\":\"招财进宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/b7b6354be69180c779861f19019531cc7756227f.png\"},{\"name\":\"发财\",\"image\":\"https://i0.hdslb.com/bfs/garb/25486d4817b75035fa9e99ec7caea18059c16b57.png\"},{\"name\":\"元宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d69c487ddba02c75780884db613e5a112f98548.png\"},{\"name\":\"金币\",\"image\":\"https://i0.hdslb.com/bfs/garb/65ae12f5242c86825524e03416688fc2d0ba1b36.png\"},{\"name\":\"hello\",\"image\":\"https://i0.hdslb.com/bfs/garb/57891ad4fd9ffdfe6973f6c7880c573cd8cdd36a.png\"},{\"name\":\"小树\",\"image\":\"https://i0.hdslb.com/bfs/garb/fba815ac942d61840872288644288dd1a91354af.png\"},{\"name\":\"柿子\",\"image\":\"https://i0.hdslb.com/bfs/garb/24262dff6d09b19a9b08f659dc8c4c48967b0284.png\"},{\"name\":\"龙年大吉\",\"image\":\"https://i0.hdslb.com/bfs/garb/d2706bb91ad938f5b48216582c4f5ffdae493b7f.png\"},{\"name\":\"龙尾巴\",\"image\":\"https://i0.hdslb.com/bfs/garb/2f29e935442cf905aa2f31869d0f9f5012390ced.png\"},{\"name\":\"新年快乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/d83ae9972ad607db336e50a8ea3f0e6691d30b1d.png\"},{\"name\":\"星星\",\"image\":\"https://i0.hdslb.com/bfs/garb/26eb47ddabee7ab0615733557336e97657c7f6e9.png\"},{\"name\":\"恐龙\",\"image\":\"https://i0.hdslb.com/bfs/garb/29f2de5630a373172d037b7cb7a1ffd6a4cacf37.png\"},{\"name\":\"钱包\",\"image\":\"https://i0.hdslb.com/bfs/garb/0ba3adc05ac76d2b5515979275e73498b0517d95.png\"},{\"name\":\"云\",\"image\":\"https://i0.hdslb.com/bfs/garb/9c59d541ce70b37003f0eb3ec9599db179c3925b.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

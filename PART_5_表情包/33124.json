@@ -5,19 +5,11 @@
 	"group_name":"猫灵相册",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/f33c8859b8221f7a24664419017b2aa1e8bda046.png",
 		"item_ids":"33109,33110,33111,33112,33113,33114,33115,33116,33117,33118,33119,33120,33121,33122,33123",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

@@ -5,19 +5,11 @@
 	"group_name":"国王排名",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/173d133ca6629c85a425e12b48109fa0108db5d2.png",
 		"item_ids":"34558,34559,34560,34561,34562,34563,34564,34565,34566,34567,34568,34569,34570,34571,34572",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

@@ -16,14 +16,11 @@
 		"item_id_card":"1744964389001",
 		"item_id_emoji_package":"1744964434001",
 		"owner_uid":"260645654",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"10000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3111276012",
 		"sale_sku_id_2":"3111276011",
 		"sale_time_begin":"1745896440",
@@ -81,21 +78,13 @@
 				"name":"抽象山海经",
 				"suit_item_id":311127601,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/88bb42544e11f9f613295121e792191834ef0b82.png",
 					"item_emoji_list":"[{\"name\":\"耐氪鲨鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/d66a6615320c996d80c33be44f06e3edc86da71c.png\"},{\"name\":\"鳄鱼轰炸机\",\"image\":\"https://i0.hdslb.com/bfs/garb/ec2ef67adeeb60a551b32b0a8710bcd174738104.png\"},{\"name\":\"咖啡忍者\",\"image\":\"https://i0.hdslb.com/bfs/garb/0a4d6fd141bdc7b2616f2651fbf9a5528fbd650e.png\"},{\"name\":\"鹅式轰炸机\",\"image\":\"https://i0.hdslb.com/bfs/garb/3f167b31e7843bb0eb7fd4cd6f6a27ed2b343e72.png\"},{\"name\":\"猫鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/e0d0d10858217bfd1361ac7f3f8b328535d16b5e.png\"},{\"name\":\"草莓骑士\",\"image\":\"https://i0.hdslb.com/bfs/garb/541bcd8607755a3e768ea0ae06b4e70a22efcb4e.png\"},{\"name\":\"茸茸章鱼\",\"image\":\"https://i0.hdslb.com/bfs/garb/55dad5528ace6e00dc8ec807c532e2728717e682.png\"},{\"name\":\"轮胎蛙\",\"image\":\"https://i0.hdslb.com/bfs/garb/96e791cc27fbb47d6291d83932581f8b12599fcd.png\"},{\"name\":\"仙人象\",\"image\":\"https://i0.hdslb.com/bfs/garb/573d1c98e2d6f60189b52d9b836fe222821c261b.png\"},{\"name\":\"大脚怪\",\"image\":\"https://i0.hdslb.com/bfs/garb/f19c657720f78a6eb9a0dbeead7453d6fec45ebe.png\"},{\"name\":\"木棍人\",\"image\":\"https://i0.hdslb.com/bfs/garb/b436015c6ff9f3c89496c3a614119ea6cd05d90a.png\"},{\"name\":\"卡皮巴椰\",\"image\":\"https://i0.hdslb.com/bfs/garb/b915b7032425757f917076536a70240b7cc5dbc5.png\"},{\"name\":\"星球奶牛\",\"image\":\"https://i0.hdslb.com/bfs/garb/313e8b2d9c751ea0c48d1eb93ac7089ace1267b6.png\"},{\"name\":\"香蕉猴\",\"image\":\"https://i0.hdslb.com/bfs/garb/a759cf3aafb3d684535e2b17e1c5826e2850e0e5.png\"},{\"name\":\"西瓜斑马\",\"image\":\"https://i0.hdslb.com/bfs/garb/325cc5cd5a72c399e418552e904128d07b9e8dc3.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

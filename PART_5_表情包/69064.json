@@ -5,20 +5,12 @@
 	"group_name":"有兽焉可动塔罗",
 	"part_id":5,
 	"properties":{
-		"addable":"true",
 		"biz":"dynamic,reply,watch_full",
 		"image":"https://i0.hdslb.com/bfs/emote/58f1f811b6e62157a59c28b1fafb438dad0aa04f.png",
 		"item_ids":"69063,69067,69068,69075,69077,69078,69079,69081,69082,69083,69085,69088,69089,69091,69093",
-		"permanent":"false",
-		"preview":"false",
-		"recently_used":"false",
-		"recommend":"false",
-		"removable":"true",
 		"resource_type":"1",
 		"sale_type":"pay",
-		"setting_pannel_not_show":"false",
-		"size":"L",
-		"sortable":"true"
+		"size":"L"
 	},
 	"suit_items":{
 		"emoji":[

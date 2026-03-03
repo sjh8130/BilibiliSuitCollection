@@ -16,14 +16,11 @@
 		"item_id_card":"1737624960001",
 		"item_id_emoji_package":"1737624912001",
 		"owner_uid":"670729222",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"3023545012",
 		"sale_sku_id_2":"3023545011",
 		"sale_time_begin":"1737945750",
@@ -81,21 +78,13 @@
 				"name":"福运香蕉蛇",
 				"suit_item_id":302354501,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/43e4ad928359a7bfb4b3799cba39ad78cdd76cc0.png",
 					"item_emoji_list":"[{\"name\":\"发发发\",\"image\":\"https://i0.hdslb.com/bfs/garb/2750da190dd794208c2a1432e11e0a6f8c41aeb5.png\"},{\"name\":\"啃啃甜甜圈\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d804cc0b77db693fbd13ee7c899fbb8445d630d.png\"},{\"name\":\"煎蛋面\",\"image\":\"https://i0.hdslb.com/bfs/garb/cae9dea3c305fe8ebd0da7f7c21827af66a986dd.png\"},{\"name\":\"吃吃叶儿粑\",\"image\":\"https://i0.hdslb.com/bfs/garb/24a5f3ec4a5d412a3fba18dbf08e70611e58cc79.png\"},{\"name\":\"爆米花蠕动\",\"image\":\"https://i0.hdslb.com/bfs/garb/3ea13bae2ae04e13e9251671235d195a075f824b.png\"},{\"name\":\"一起次火锅\",\"image\":\"https://i0.hdslb.com/bfs/garb/9297af7f680635c8d6c0659da9c95423cce2a5c0.png\"},{\"name\":\"锵锵蛇炸虾\",\"image\":\"https://i0.hdslb.com/bfs/garb/cf9ee90d0ff54d01a6d24c995761546102ea0aa5.png\"},{\"name\":\"大橘大梨\",\"image\":\"https://i0.hdslb.com/bfs/garb/a2d50388a82a520c2a2367bcd396be45b7d376bb.png\"},{\"name\":\"福运满满\",\"image\":\"https://i0.hdslb.com/bfs/garb/c4cb67a013164788b1202fe0f1e72acf56e718dd.png\"},{\"name\":\"回转香蕉蛇\",\"image\":\"https://i0.hdslb.com/bfs/garb/cc7a80953f93508e446bf95ce957aaaf692c337d.png\"},{\"name\":\"财源滚滚\",\"image\":\"https://i0.hdslb.com/bfs/garb/ef6b47a6bc635a0f457c49002e2b37488d00ef0d.png\"},{\"name\":\"招福小蛇\",\"image\":\"https://i0.hdslb.com/bfs/garb/68b87b260c17a688222181fb6db4400852029356.png\"},{\"name\":\"苹安喜乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/aea5ec73dc36a8c7ffd60fd59f977acd7ff7ebce.png\"},{\"name\":\"好柿花生\",\"image\":\"https://i0.hdslb.com/bfs/garb/c881647cfea9f959a6f0ef9602526a1e9bbf32bc.png\"},{\"name\":\"招财进宝\",\"image\":\"https://i0.hdslb.com/bfs/garb/d568e3093f6314ca75b06336df796d178086cead.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

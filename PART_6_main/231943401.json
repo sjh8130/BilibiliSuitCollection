@@ -16,14 +16,11 @@
 		"item_id_card":"1731463754001",
 		"item_id_emoji_package":"1731398432001",
 		"owner_uid":"3493131766991076",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"5000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"2319434012",
 		"sale_sku_id_2":"2319434011",
 		"sale_time_begin":"1731724530",
@@ -81,21 +78,13 @@
 				"name":"猫猫甜点",
 				"suit_item_id":231943401,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/d97909b5f5bd27e142ec3c10de5e5c1b0c20050f.png",
 					"item_emoji_list":"[{\"name\":\"泥嚎~\",\"image\":\"https://i0.hdslb.com/bfs/garb/b6fad3eb451ba5c13b14c8dd2d499446026bf5fa.png\"},{\"name\":\"舔舔\",\"image\":\"https://i0.hdslb.com/bfs/garb/c826453632cc1dd7055de9c33752f8bb590d7127.png\"},{\"name\":\"睡觉了\",\"image\":\"https://i0.hdslb.com/bfs/garb/1c49d6f803646e102043007d5a9390d3334d1dc8.png\"},{\"name\":\"再见\",\"image\":\"https://i0.hdslb.com/bfs/garb/a526819930e010ef76ea3aa45956e27fa0bde9b3.png\"},{\"name\":\"泥嗦什么\",\"image\":\"https://i0.hdslb.com/bfs/garb/175f7dea81074c27eef386560211ad2f632ae36b.png\"},{\"name\":\"真棒\",\"image\":\"https://i0.hdslb.com/bfs/garb/20b8f6e89dea9e2b87b0ff4fb53d1c2b70d5bd58.png\"},{\"name\":\"飞起来啦\",\"image\":\"https://i0.hdslb.com/bfs/garb/89a719535209fc135668d10af78c888eb24e6274.png\"},{\"name\":\"小蛋糕\",\"image\":\"https://i0.hdslb.com/bfs/garb/0933ed4f7bd06bfc550e5cac8ce8bb595c94b7d2.png\"},{\"name\":\"饿饿\",\"image\":\"https://i0.hdslb.com/bfs/garb/6de8c09e8b1d78a8a4258d6c49d7a4917fd0334c.png\"},{\"name\":\"wink\",\"image\":\"https://i0.hdslb.com/bfs/garb/89eaecf88ea60e009eb9e1666bf5eac6ffb3605e.png\"},{\"name\":\"喜欢！\",\"image\":\"https://i0.hdslb.com/bfs/garb/6ec5effae62bbb70a7c9677d0bbab186c0a74f53.png\"},{\"name\":\"可露丽\",\"image\":\"https://i0.hdslb.com/bfs/garb/aba2e4c6b1c9d2204d15d89efd4d750e7a95135b.png\"},{\"name\":\"好吃晕了\",\"image\":\"https://i0.hdslb.com/bfs/garb/29625d908040ebbb380e58b6b59c6b5ed7191524.png\"},{\"name\":\"哈欠\",\"image\":\"https://i0.hdslb.com/bfs/garb/8d6742249dc4e6d8d3c2721b7e37049fddd7ab40.png\"},{\"name\":\"挤挤\",\"image\":\"https://i0.hdslb.com/bfs/garb/ac0f85caec06382565a54611cbb94a6d177443c2.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"resource_type":"0",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{

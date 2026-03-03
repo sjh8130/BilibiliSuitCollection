@@ -16,14 +16,11 @@
 		"item_id_card":"1687167871001",
 		"item_id_emoji_package":"1687167929001",
 		"owner_uid":"3493080527276309",
-		"rank_investor_show":"false",
 		"sale_bp_forever_raw":"2500",
 		"sale_bp_pm_raw":"600",
 		"sale_buy_num_limit":"99",
 		"sale_quantity":"20000",
-		"sale_quantity_limit":"true",
 		"sale_region_ip_limit":"全球",
-		"sale_reserve_switch":"true",
 		"sale_sku_id_1":"1171509012",
 		"sale_sku_id_2":"1171509011",
 		"sale_time_begin":"1687352400",
@@ -82,20 +79,12 @@
 				"name":"小狗刮刮乐",
 				"suit_item_id":117150901,
 				"properties":{
-					"addable":"true",
 					"biz":"reply,dynamic,watch_full",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/130226498555bf774443d6bb19d1b3596d320a12.png",
 					"item_emoji_list":"[{\"name\":\"刮刮乐\",\"image\":\"https://i0.hdslb.com/bfs/garb/7b71d151e11c5415bc92c443d7d3a3477928cc35.png\"},{\"name\":\"再来一次\",\"image\":\"https://i0.hdslb.com/bfs/garb/4a7dc13ff108806cbcd2e8d2a175462dfff8f36b.png\"},{\"name\":\"感谢参与\",\"image\":\"https://i0.hdslb.com/bfs/garb/add6b56ecd4fda0fffe7ffa162cde26a3ae6bd52.png\"},{\"name\":\"你号没了\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b34d742d951d2977060910c393911daf38917f6.png\"},{\"name\":\"v我50\",\"image\":\"https://i0.hdslb.com/bfs/garb/97808cf0fe67e126642a57c84c9057e228a58bf1.png\"},{\"name\":\"空降成功\",\"image\":\"https://i0.hdslb.com/bfs/garb/31ebcbeeff1ed28132e430b5fdc81eccaaf7b933.png\"},{\"name\":\"下次一定\",\"image\":\"https://i0.hdslb.com/bfs/garb/7432042da8297441c53c879b736709eb51de12c7.png\"},{\"name\":\"神奇海螺\",\"image\":\"https://i0.hdslb.com/bfs/garb/5d5dd50420a6a41c22178a82c80e3e0d742179f4.png\"},{\"name\":\"火钳刘明\",\"image\":\"https://i0.hdslb.com/bfs/garb/4ae23958fb54db06d9e9ade41a5592e47cdfcd3e.png\"},{\"name\":\"现眼包\",\"image\":\"https://i0.hdslb.com/bfs/garb/696303e9ed0f1cb6da8ea0619fcb232481e2ecec.png\"},{\"name\":\"律师函警告\",\"image\":\"https://i0.hdslb.com/bfs/garb/b4b0501416b632bff9e6dc69bd3679bd400ff08e.png\"},{\"name\":\"你在想桃子\",\"image\":\"https://i0.hdslb.com/bfs/garb/68c0a66249ace2aa0438b1b04aa66e946a9e5593.png\"},{\"name\":\"已三连\",\"image\":\"https://i0.hdslb.com/bfs/garb/cd3ac5f8e8bfe0a204676b85c0a295acd6e1c669.png\"},{\"name\":\"电子宠物\",\"image\":\"https://i0.hdslb.com/bfs/garb/2b8d3fa81a7f02f66c162f06cb76b792e96eefd5.png\"},{\"name\":\"刮奖失败\",\"image\":\"https://i0.hdslb.com/bfs/garb/915778a8c3dee063ce57c444bca752729c7bc87a.png\"}]",
-					"permanent":"false",
-					"preview":"false",
-					"recently_used":"false",
-					"recommend":"false",
-					"removable":"true",
 					"sale_type":"pay",
-					"setting_pannel_not_show":"false",
-					"size":"L",
-					"sortable":"true"
+					"size":"L"
 				},
 				"items":[
 					{
