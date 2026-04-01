@@ -24,6 +24,7 @@ _EMPTY_ACTIVITY_ENTRANCE = {
     "jump_link": "",
 }
 _DEBUG_LST = []
+base_path = Path.cwd()
 
 
 def _p_main(item: X1) -> None:
@@ -150,9 +151,9 @@ def _p_main(item: X1) -> None:
     # replace_str(item, "fasle", "false")
 
 
-def _main(path: str) -> None:
-    src = Path(path).read_text(encoding="utf-8")
-    if path.endswith(".jsonl"):
+def _main(path: Path) -> None:
+    src = path.read_text(encoding="utf-8")
+    if path.suffix == ".jsonl":
         target = ""
         for line in src.splitlines():
             item: X1 = json.loads(line)
@@ -165,24 +166,25 @@ def _main(path: str) -> None:
     if src == target:
         return
         print(f"EQ:{path}")
-    Path(path).write_text(target, encoding="utf-8")
+    path.write_text(target, encoding="utf-8")
 
 
-def _K() -> list[str]:
-    c: list[str] = []
+def _K() -> list[Path]:
+    c: list[Path] = []
     d = base_path
     for a in ["PART_5_表情包", "PART_6_main"]:
-        c.extend(str(b.resolve()) for b in (d / a).rglob("*.json"))
-    c.extend(str(d / a) for a in d.rglob("PART*.jsonl"))
+        c.extend(b.resolve() for b in (d / a).rglob("*.json"))
+    c.extend(a.resolve() for a in d.rglob("PART*.jsonl"))
     return c
 
 
 if __name__ == "__main__":
-    base_path = Path.cwd()
-    t_list: list[str] = _K() if len(sys.argv) <= 1 else sys.argv[1:]
+    t_list: list[Path] = _K() if len(sys.argv) <= 1 else [Path(x).resolve() for x in sys.argv[1:]]
     try:
-        for file in tqdm(t_list):
-            _main(file)
+        with tqdm(t_list) as pbar:
+            for file in pbar:
+                pbar.desc = file.stem
+                _main(file)
     except Exception as e:
         log.exception(file)  # pyright: ignore[reportPossiblyUnboundVariable]
         log.exception(e)
