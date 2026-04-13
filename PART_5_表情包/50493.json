@@ -6,7 +6,7 @@
 	"part_id":5,
 	"properties":{
 		"biz":"reply,dynamic,watch_full",
-		"image":"https://i0.hdslb.com/bfs/emote/19cb75f84e819fbdb3d54b951aa3ae6f430d0d17.png",
+		"image":"https://i0.hdslb.com/bfs/emote/4451ac2a08cbe87dd7b4f8ce7f165a9908c905e3.png",
 		"item_ids":"50459,50460,50461,50462,50463,50464,50465,50466,50467,50468,50469,50470,50471,50472,50473,50474,50475,50476,50477,50478,50479,50480,50481,50482,50483,50484,50485,50486,50487,50488,50489,50490,50491,50492,51381,51382,51383,51384,51385,52727,52728,52729,52782,54319,55205,55206,55207,55208,55209,55210,55211,55212,55213,55214,55215,57222,57223,57224,58650,58699,65396",
 		"resource_type":"0",
 		"sale_type":"vip",
@@ -190,6 +190,15 @@
 				"name":"[小会员绿豆人_呆住]",
 				"tab_id":7,
 				"properties":{
+					"image":"https://i0.hdslb.com/bfs/emote/a32bf9fc24ae648ae2bfb8ac95b6959ea305d19f.png",
+					"sale_type":"vip"
+				}
+			},
+			{
+				"item_id":50478,
+				"name":"[小会员绿豆人_呆住]",
+				"tab_id":7,
+				"properties":{
 					"image":"https://i0.hdslb.com/bfs/emote/eeeb7704cae8c83d0c8951fa295097aa8520ced9.png",
 					"sale_type":"vip"
 				}
@@ -209,6 +218,15 @@
 				"tab_id":7,
 				"properties":{
 					"image":"https://i0.hdslb.com/bfs/emote/d8d7c276bb6be9ccc99161cb61e84a088322ce66.png",
+					"sale_type":"vip"
+				}
+			},
+			{
+				"item_id":50481,
+				"name":"[小会员绿豆人_尴尬]",
+				"tab_id":7,
+				"properties":{
+					"image":"https://i0.hdslb.com/bfs/emote/57d2bc98e24d92155452f6c337c4371e5db6dc04.png",
 					"sale_type":"vip"
 				}
 			},
