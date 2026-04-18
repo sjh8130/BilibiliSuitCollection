@@ -9,9 +9,8 @@ from typing import Any
 from tqdm import tqdm
 
 result: dict = {}
+DONT_CARE_INDEX_SEP: str = "IDX"
 if 1:
-    DONT_CARE_INDEX_SEP: str = "IDX"
-    SW1 = True
     DONT_CARE_INDEX_LIST = {
         "root.finish_sources",
         "root.properties.preview_imgs",
@@ -30,6 +29,68 @@ if 1:
         "root.suit_items.space_bg",
         "root.suit_items.thumbup",
     }
+    S1 = {
+        "root.suit_items.space_bg[IDX].properties.image1_landscape",
+        "root.suit_items.space_bg[IDX].properties.image2_landscape",
+        "root.suit_items.space_bg[IDX].properties.image3_landscape",
+        "root.suit_items.space_bg[IDX].properties.image4_landscape",
+        "root.suit_items.space_bg[IDX].properties.image5_landscape",
+        "root.suit_items.space_bg[IDX].properties.image6_landscape",
+        "root.suit_items.space_bg[IDX].properties.image7_landscape",
+        "root.suit_items.space_bg[IDX].properties.image8_landscape",
+        "root.suit_items.space_bg[IDX].properties.image9_landscape",
+        "root.suit_items.space_bg[IDX].properties.image10_landscape",
+        "root.suit_items.space_bg[IDX].properties.image11_landscape",
+    }
+    S2 = {
+        "root.suit_items.space_bg[IDX].properties.image1_portrait",
+        "root.suit_items.space_bg[IDX].properties.image2_portrait",
+        "root.suit_items.space_bg[IDX].properties.image3_portrait",
+        "root.suit_items.space_bg[IDX].properties.image4_portrait",
+        "root.suit_items.space_bg[IDX].properties.image5_portrait",
+        "root.suit_items.space_bg[IDX].properties.image6_portrait",
+        "root.suit_items.space_bg[IDX].properties.image7_portrait",
+        "root.suit_items.space_bg[IDX].properties.image8_portrait",
+        "root.suit_items.space_bg[IDX].properties.image9_portrait",
+        "root.suit_items.space_bg[IDX].properties.image10_portrait",
+        "root.suit_items.space_bg[IDX].properties.image11_portrait",
+    }
+    S3 = {
+        "root.properties.image1_landscape",
+        "root.properties.image2_landscape",
+        "root.properties.image3_landscape",
+        "root.properties.image4_landscape",
+        "root.properties.image5_landscape",
+        "root.properties.image6_landscape",
+        "root.properties.image7_landscape",
+        "root.properties.image8_landscape",
+        "root.properties.image9_landscape",
+        "root.properties.image10_landscape",
+        "root.properties.image11_landscape",
+    }
+    S4 = {
+        "root.properties.image1_portrait",
+        "root.properties.image2_portrait",
+        "root.properties.image3_portrait",
+        "root.properties.image4_portrait",
+        "root.properties.image5_portrait",
+        "root.properties.image6_portrait",
+        "root.properties.image7_portrait",
+        "root.properties.image8_portrait",
+        "root.properties.image9_portrait",
+        "root.properties.image10_portrait",
+        "root.properties.image11_portrait",
+    }
+    STR_ITM = {
+        "root.properties.preview_imgs",
+        "root.properties.public_time_line",
+        "root.suit_items.emoji_package[IDX].properties.item_emoji_list",
+        "root.suit_items.skin[IDX].properties.head_myself_mp4_bg_list",
+    }
+    SW1 = True
+else:
+    SW1 = False
+if 0:
     IGNORE_LIST = {
         "root.fan_user.avatar",
         "root.fan_user.mid",
@@ -191,67 +252,7 @@ if 1:
         "root.suit_items.thumbup[IDX].properties.image_preview",
         "root.suit_items.thumbup[IDX].suit_item_id",
     }
-    S1 = {
-        "root.suit_items.space_bg[IDX].properties.image1_landscape",
-        "root.suit_items.space_bg[IDX].properties.image2_landscape",
-        "root.suit_items.space_bg[IDX].properties.image3_landscape",
-        "root.suit_items.space_bg[IDX].properties.image4_landscape",
-        "root.suit_items.space_bg[IDX].properties.image5_landscape",
-        "root.suit_items.space_bg[IDX].properties.image6_landscape",
-        "root.suit_items.space_bg[IDX].properties.image7_landscape",
-        "root.suit_items.space_bg[IDX].properties.image8_landscape",
-        "root.suit_items.space_bg[IDX].properties.image9_landscape",
-        "root.suit_items.space_bg[IDX].properties.image10_landscape",
-        "root.suit_items.space_bg[IDX].properties.image11_landscape",
-    }
-    S2 = {
-        "root.suit_items.space_bg[IDX].properties.image1_portrait",
-        "root.suit_items.space_bg[IDX].properties.image2_portrait",
-        "root.suit_items.space_bg[IDX].properties.image3_portrait",
-        "root.suit_items.space_bg[IDX].properties.image4_portrait",
-        "root.suit_items.space_bg[IDX].properties.image5_portrait",
-        "root.suit_items.space_bg[IDX].properties.image6_portrait",
-        "root.suit_items.space_bg[IDX].properties.image7_portrait",
-        "root.suit_items.space_bg[IDX].properties.image8_portrait",
-        "root.suit_items.space_bg[IDX].properties.image9_portrait",
-        "root.suit_items.space_bg[IDX].properties.image10_portrait",
-        "root.suit_items.space_bg[IDX].properties.image11_portrait",
-    }
-    S3 = {
-        "root.properties.image1_landscape",
-        "root.properties.image2_landscape",
-        "root.properties.image3_landscape",
-        "root.properties.image4_landscape",
-        "root.properties.image5_landscape",
-        "root.properties.image6_landscape",
-        "root.properties.image7_landscape",
-        "root.properties.image8_landscape",
-        "root.properties.image9_landscape",
-        "root.properties.image10_landscape",
-        "root.properties.image11_landscape",
-    }
-    S4 = {
-        "root.properties.image1_portrait",
-        "root.properties.image2_portrait",
-        "root.properties.image3_portrait",
-        "root.properties.image4_portrait",
-        "root.properties.image5_portrait",
-        "root.properties.image6_portrait",
-        "root.properties.image7_portrait",
-        "root.properties.image8_portrait",
-        "root.properties.image9_portrait",
-        "root.properties.image10_portrait",
-        "root.properties.image11_portrait",
-    }
-    STR_ITM = {
-        "root.properties.preview_imgs",
-        "root.properties.public_time_line",
-        "root.suit_items.emoji_package[IDX].properties.item_emoji_list",
-        "root.suit_items.skin[IDX].properties.head_myself_mp4_bg_list",
-    }
-if 0:
-    DONT_CARE_INDEX_LIST = set()
-if 0:
+else:
     IGNORE_LIST = set()
 
 
