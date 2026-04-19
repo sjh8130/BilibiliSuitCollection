@@ -151,6 +151,20 @@ def _p_main(item: X1) -> None:
     # replace_str(item, "fasle", "false")
 
 
+def git_call(blob) -> None:
+    try:
+        data: str = blob.data.decode("utf-8")
+    except UnicodeError:
+        return
+    try:
+        item: X1 = json.loads(data)
+        if "emote" in item:
+            return
+        blob.data = json.dumps(_p_main(item), ensure_ascii=False, separators=(",", ":"), indent="\t").encode("utf-8")
+    except json.JSONDecodeError:
+        return
+
+
 def _main(path: Path) -> None:
     src = path.read_text(encoding="utf-8")
     if path.suffix == ".jsonl":
