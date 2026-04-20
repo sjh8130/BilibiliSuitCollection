@@ -1,12 +1,13 @@
 import contextlib
 import json
+import re
 import sys
 from pathlib import Path
 
 from loguru import logger
 from tqdm import tqdm
 
-from a import OPR, X1, del_keys, replace_str, sort_list_dict, sort_p6_emoji, sort_str_list
+from a import OPR, X1, Properties, del_keys, replace_str, sort_list_dict, sort_p6_emoji, sort_str_list
 
 log = logger.bind(user="S.i")
 AA = "https://i0.hdslb.com/bfs/activity-plat/static/20240223/3334b2daefb8be78dcc25a7ec37d60fe/sVvHUQ5IPV.png"
@@ -25,6 +26,21 @@ _EMPTY_ACTIVITY_ENTRANCE = {
 }
 _DEBUG_LST = []
 base_path = Path.cwd()
+b1 = r"http(s)?://(upos-(hz|sz|tribe)-(mirror|static|estg)(08c|cos|ctos|ali|oss|bd|hw|akam)?(b)?(-cmask)?|data|bvc|(c|d)\d+--(p\d+--)?(cn|ov|tf)-gotcha\d+|cn-[a-z]+-(cm|ct|cc|fx|se|gd|cu|eq|ix|wasu)(-v)?-\d+)\.(bilivideo\.com|akamaized\.net)"
+b2 = r"\?e=[0-9a-zA-Z_=]{70,}(&|\\u0026)uipk=\d+(&|\\u0026)nbs=\d+(&|\\u0026)deadline=\d+(&|\\u0026)gen=playurlv2(&|\\u0026)os=(08c|cos|ctos|ali|upos|bd|hw|akam)(b)?(bv)?(&|\\u0026)oi=\d+(&|\\u0026)trid=[0-9a-fA-F]{31,33}(&|\\u0026)mid=\d+(&|\\u0026)platform=html5(&|\\u0026)(og=(08c|cos|ctos|ali|oss|bd|hw|akam)(&|\\u0026))?upsig=[0-9a-f]{32}(&|\\u0026)uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform(,og)?((&|\\u0026)hdnts=exp=\d+~hmac=[0-9a-f]+)?(&|\\u0026)bvc=vod(&|\\u0026)nettype=\d+(&|\\u0026)orderid=\d,\d(&|\\u0026)logo=\d+(&|\\u0026)f=B_0_0"
+rg1: re.Pattern[str] = re.compile(b1)
+rg2: re.Pattern[str] = re.compile(b2)
+
+
+def reg_bv(d: Properties) -> None:
+    # d["head_myself_mp4_bg"]
+    # d["head_myself_mp4_bg_list"]
+    if "bilivideo" not in d.get("head_myself_mp4_bg", "") and "bilivideo" not in d.get("head_myself_mp4_bg", ""):
+        return
+    for s in ["head_myself_mp4_bg", "head_myself_mp4_bg_list"]:
+        if s in d:
+            fs = rg1.sub("__bilivideo__", d[s])
+            d[s] = rg2.sub("", fs)
 
 
 def _p_main(item: X1) -> None:
@@ -76,6 +92,10 @@ def _p_main(item: X1) -> None:
         case 6:
             with contextlib.suppress(KeyError):
                 del item["fan_user"]["avatar"]  # pyright: ignore[reportGeneralTypeIssues]
+            if S in item and "skin" in item[S]:
+                for xx in item[S]["skin"]:
+                    if "head_myself_mp4_bg" in xx[P] or "head_myself_mp4_bg_list" in xx[P]:
+                        reg_bv(xx[P])
         case 7:
             pass
         case 8:
@@ -151,7 +171,8 @@ def _p_main(item: X1) -> None:
     # replace_str(item, "fasle", "false")
 
 
-def git_call(blob) -> None:
+def git_call(blob) -> None:  # noqa: ANN001
+    raise  # noqa: PLE0704
     try:
         data: str = blob.data.decode("utf-8")
     except UnicodeError:
