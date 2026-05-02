@@ -1,6 +1,5 @@
 import json
 import sys
-from collections.abc import Iterable
 from pathlib import Path
 
 from loguru import logger
@@ -41,13 +40,13 @@ def _main(path: Path) -> None:
     path.write_text(target, encoding="utf-8")
 
 
-def _N(path: Path) -> Iterable[Path]:
-    return path.glob("*.json")
+def _N(path: Path) -> list[Path]:
+    return list(path.glob("*.json"))
 
 
 if __name__ == "__main__":
     try:
-        with tqdm(_N(Path.cwd() / "emoji") if len(sys.argv) <= 1 else [Path(x) for x in sys.argv[1:]], total=10000) as pbar:
+        with tqdm(_N(Path.cwd() / "emoji") if len(sys.argv) <= 1 else [Path(x) for x in sys.argv[1:]]) as pbar:
             for file in pbar:
                 pbar.desc = file.stem
                 _main(file)
