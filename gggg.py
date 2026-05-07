@@ -23,25 +23,20 @@ CC = "https://i0.hdslb.com/bfs/garb/item/bb95a716723fa17354aa18ae10323903747c79e
 P = "properties"
 S = "suit_items"
 _EMPTY_FAN_USER = {"mid": 0, "nickname": "", "avatar": ""}
-_EMPTY_ACTIVITY_ENTRANCE = {
-    "id": 0,
-    "item_id": 0,
-    "title": "",
-    "image_cover": "",
-    "jump_link": "",
-}
+_EMPTY_ACTIVITY_ENTRANCE = {"id": 0, "item_id": 0, "title": "", "image_cover": "", "jump_link": ""}
 b1 = r"http(s)?://(upos-(hz|sz|tribe)-(mirror|static|estg)(08c|cos|ctos|ali|oss|bd|hw|akam)?(b)?(-cmask)?|data|bvc|(c|d)\d+--(p\d+--)?(cn|ov|tf)-gotcha\d+|cn-[a-z]+-(cm|ct|cc|fx|se|gd|cu|eq|ix|wasu)(-v)?-\d+)\.(bilivideo\.com|akamaized\.net)"
 b2 = r"\?e=[0-9a-zA-Z_=]{70,}(&|\\\\u0026)uipk=\d+(&|\\\\u0026)nbs=\d+(&|\\\\u0026)deadline=\d+(&|\\\\u0026)gen=playurlv2(&|\\\\u0026)os=(08c|cos|ctos|ali|upos|bd|hw|akam)(b)?(bv)?(&|\\\\u0026)oi=\d+(&|\\\\u0026)trid=[0-9a-fA-F]{31,33}(&|\\\\u0026)mid=\d+(&|\\\\u0026)platform=html5(&|\\\\u0026)(og=(08c|cos|ctos|ali|oss|bd|hw|akam)(&|\\\\u0026))?upsig=[0-9a-f]{32}(&|\\\\u0026)uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform(,og)?((&|\\\\u0026)hdnts=exp=\d+~hmac=[0-9a-f]+)?(&|\\\\u0026)bvc=vod(&|\\\\u0026)nettype=\d+(&|\\\\u0026)orderid=\d,\d(&|\\\\u0026)logo=\d+(&|\\\\u0026)f=B_0_0"
-id_skip = {
+id_skip: set[bytes] = {
     b"34374560514518189cf1621881ab38db7724cc85",
 }
-id_del = {
+id_del: set[bytes] = {
     b"9e26dfeeb6e641a33dae4961196235bdb965b21b",
     b"0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
 }
 
 
-class SkipAllExc(Exception): ...
+class SkipAllError(Exception):
+    pass
 
 
 if True:
@@ -515,7 +510,7 @@ def git_call(blob: git_filter_repo.Blob) -> None:
     # data = rg2.sub("", data)
 
     try:
-        raise SkipAllExc
+        raise SkipAllError
         item: dict = sjson.loads(data)
         if isinstance(item, list):
             return
@@ -539,7 +534,7 @@ def git_call(blob: git_filter_repo.Blob) -> None:
             logger.warning(blob.original_id)
             logger.warning(data)
             logger.exception(e)
-    except SkipAllExc:
+    except SkipAllError:
         pass
     except Exception as e:  # noqa: BLE001
         logger.warning(blob.original_id)
