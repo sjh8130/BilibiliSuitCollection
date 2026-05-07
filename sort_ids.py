@@ -208,5 +208,3 @@ if __name__ == "__main__":
     except Exception as e:
         log.exception(file)  # pyright: ignore[reportPossiblyUnboundVariable]
         log.exception(e)
-    finally:
-        pass
