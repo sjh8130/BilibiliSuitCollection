@@ -210,6 +210,8 @@ class Properties(TypedDict):
     suit_card_type: str
     timing_online_unix: str
     type: str
+    X_Part2_collect_card: int
+    X_Part8_collect_card: int
 
 
 class SuitItems(TypedDict):
