@@ -2,7 +2,7 @@
 	"id":53,
 	"text":"热词系列一",
 	"url":"https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
-	"mtime":1761278067,
+	"mtime":1780049982,
 	"type":1,
 	"attr":2,
 	"meta":{
@@ -1337,6 +1337,20 @@
 			"meta":{
 				"size":2,
 				"alias":"霸体在此"
+			}
+		},
+		{
+			"id":138741,
+			"package_id":53,
+			"text":"[热词系列_健健康康]",
+			"url":"https://i0.hdslb.com/bfs/emote/db3f8c8cc72bedd5000e74ca1b2bdb1d9162f5ca.png",
+			"mtime":1780049982,
+			"type":8,
+			"meta":{
+				"size":2,
+				"label_text":"限时",
+				"label_color":"#FF20AAe2",
+				"alias":"健健康康"
 			}
 		}
 	]

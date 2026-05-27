@@ -121,6 +121,7 @@ def _p_main(item: X1) -> None:
     del_keys(item, "addable", operator=OPR.ANY)
     del_keys(item, "associate_words", "")
     del_keys(item, "associate", operator=OPR.ANY)
+    del_keys(item, "biz", "")
     del_keys(item, "current_activity", operator=OPR.ANY)
     del_keys(item, "current_sources", operator=OPR.ANY)
     del_keys(item, "desc", "")

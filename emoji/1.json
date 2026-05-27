@@ -2,7 +2,7 @@
 	"id":1,
 	"text":"小黄脸",
 	"url":"https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
-	"mtime":1762163973,
+	"mtime":1779765886,
 	"type":1,
 	"attr":322,
 	"meta":{
@@ -2503,6 +2503,30 @@
 			"meta":{
 				"size":1,
 				"alias":"红温鸭"
+			}
+		},
+		{
+			"id":138553,
+			"package_id":1,
+			"text":"[少女乐团派对_害羞]",
+			"url":"https://i0.hdslb.com/bfs/emote/3f30402c194d84be15014089d042e436efb83075.png",
+			"mtime":1779765701,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"害羞"
+			}
+		},
+		{
+			"id":138554,
+			"package_id":1,
+			"text":"[少女乐团派对_流汗]",
+			"url":"https://i0.hdslb.com/bfs/emote/69467ee7811f506d883df698a55fa44757b8ffc8.png",
+			"mtime":1779765701,
+			"type":1,
+			"meta":{
+				"size":1,
+				"alias":"流汗"
 			}
 		}
 	]
