@@ -14,8 +14,8 @@ def _main(path: Path) -> None:
 
 
 if __name__ == "__main__":
+    files = sys.argv[1:]
     try:
-        files = sys.argv[1:]
         for file in tqdm.tqdm(files):
             p = Path(file)
             if p.is_dir():
@@ -23,7 +23,7 @@ if __name__ == "__main__":
                     _main(pp)
             else:
                 _main(p)
-    except Exception as e:  # noqa: BLE001
+    except Exception as e:  # ruff:ignore[blind-except]
         import time
 
         print(e)

@@ -1,4 +1,5 @@
 import json
+import operator
 from collections.abc import Mapping, Sequence
 from enum import IntEnum, auto
 from typing import Any, TypedDict
@@ -43,9 +44,9 @@ def sort_list_dict(ld: Sequence[Mapping[str, Any]], k1: str = "item_id", k2: str
     list_temp = [json.loads(i2) for i2 in sorted({json.dumps(item) for item in ld})]
     items_with_k1 = [item for item in list_temp if item[k1] not in {0, "0"}]
     items_with_k2 = [item for item in list_temp if item[k1] in {0, "0"}]
-    items_with_k1.sort(key=lambda x: x[k1])
-    items_with_k2.sort(key=lambda x: x[k2])
-    ld[:] = items_with_k1 + items_with_k2  # pyright: ignore[reportIndexIssue]
+    items_with_k1.sort(key=operator.itemgetter(k1))
+    items_with_k2.sort(key=operator.itemgetter(k2))
+    ld[:] = items_with_k1 + items_with_k2  # pyright: ignore[reportIndexIssue]  # ty:ignore[invalid-assignment]
     return items_with_k1 + items_with_k2
 
 
@@ -62,7 +63,7 @@ def del_keys(d: Mapping[str, Any], k: str, v: Any = None, operator: OPR = OPR.EQ
         match operator:
             case OPR.EQ:
                 if d.get(k) == v:
-                    d.pop(k)
+                    d.pop(k)  # ty:ignore[invalid-argument-type]
             case OPR.IN:
                 if v is not None and d.get(k) in v:
                     d.pop(k, None)
@@ -73,36 +74,36 @@ def del_keys(d: Mapping[str, Any], k: str, v: Any = None, operator: OPR = OPR.EQ
                 d.pop(k, None)
             case OPR.GT:
                 if isinstance(d[k], (int, float)) and d[k] > v:
-                    del d[k]
+                    del d[k]  # ty:ignore[not-subscriptable]
                 else:
                     raise ValueError(f"{d}|{k}|{operator}|{v}")
             case OPR.LT:
                 if isinstance(d[k], (int, float)) and d[k] < v:
-                    del d[k]
+                    del d[k]  # ty:ignore[not-subscriptable]
                 else:
                     raise ValueError(f"{d}|{k}|{operator}|{v}")
             case OPR.GEQ:
                 if isinstance(d[k], (int, float)) and d[k] >= v:
-                    del d[k]
+                    del d[k]  # ty:ignore[not-subscriptable]
                 else:
                     raise ValueError(f"{d}|{k}|{operator}|{v}")
             case OPR.LEQ:
                 if isinstance(d[k], (int, float)) and d[k] <= v:
-                    del d[k]
+                    del d[k]  # ty:ignore[not-subscriptable]
                 else:
                     raise ValueError(f"{d}|{k}|{operator}|{v}")
             case OPR.NEQ:
                 if d.get(k) != v:
-                    d.pop(k)
+                    d.pop(k)  # ty:ignore[invalid-argument-type]
             case OPR.NIN:
                 if d[k] not in v:
-                    d.pop(k)
+                    d.pop(k)  # ty:ignore[invalid-argument-type]
             case OPR.IS:
                 if d.get(k) is v:
-                    d.pop(k)
+                    d.pop(k)  # ty:ignore[invalid-argument-type]
             case OPR.NIS:
                 if d.get(k) is not v:
-                    d.pop(k)
+                    d.pop(k)  # ty:ignore[invalid-argument-type]
             case _:
                 raise Exception("*ToDo")
     if not recursive:
@@ -117,20 +118,20 @@ def del_keys(d: Mapping[str, Any], k: str, v: Any = None, operator: OPR = OPR.EQ
 
 
 def replace_value_in_list_dict(d_or_lst: Mapping[str, Any] | list, k_or_idx: int | str, old_v: str, new_v: str, *, recursive: bool = True) -> None:
-    if (k_or_idx in d_or_lst and isinstance(d_or_lst, dict) and isinstance(d_or_lst[k_or_idx], str)) or (isinstance(d_or_lst, list) and isinstance(k_or_idx, int) and len(d_or_lst) >= k_or_idx):  # pyright: ignore[reportArgumentType] # noqa: SIM102
-        if d_or_lst[k_or_idx] == old_v:  # pyright: ignore[reportCallIssue, reportArgumentType]
-            d_or_lst[k_or_idx] = new_v  # pyright: ignore[reportCallIssue, reportArgumentType]
+    if (k_or_idx in d_or_lst and isinstance(d_or_lst, dict) and isinstance(d_or_lst[k_or_idx], str)) or (isinstance(d_or_lst, list) and isinstance(k_or_idx, int) and len(d_or_lst) >= k_or_idx):  # pyright: ignore[reportArgumentType] # ruff:ignore[collapsible-if]  # ty:ignore[invalid-argument-type]
+        if d_or_lst[k_or_idx] == old_v:  # pyright: ignore[reportCallIssue, reportArgumentType]  # ty:ignore[invalid-argument-type]
+            d_or_lst[k_or_idx] = new_v  # pyright: ignore[reportCallIssue, reportArgumentType]  # ty:ignore[invalid-assignment]
     if not recursive:
         return
     for key in d_or_lst:
-        if isinstance(d_or_lst[key], dict):  # pyright: ignore[reportArgumentType, reportCallIssue]
-            replace_value_in_list_dict(d_or_lst[key], k_or_idx, old_v, new_v, recursive=recursive)  # pyright: ignore[reportArgumentType, reportCallIssue]
-        elif isinstance(d_or_lst[key], list):  # pyright: ignore[reportArgumentType, reportCallIssue]
-            for index, item in enumerate(d_or_lst[key]):  # pyright: ignore[reportArgumentType, reportCallIssue]
+        if isinstance(d_or_lst[key], dict):  # pyright: ignore[reportArgumentType, reportCallIssue]  # ty:ignore[invalid-argument-type]
+            replace_value_in_list_dict(d_or_lst[key], k_or_idx, old_v, new_v, recursive=recursive)  # pyright: ignore[reportArgumentType, reportCallIssue]  # ty:ignore[invalid-argument-type]
+        elif isinstance(d_or_lst[key], list):  # pyright: ignore[reportArgumentType, reportCallIssue]  # ty:ignore[invalid-argument-type]
+            for index, item in enumerate(d_or_lst[key]):  # pyright: ignore[reportArgumentType, reportCallIssue]  # ty:ignore[invalid-argument-type]
                 if isinstance(item, dict):
                     replace_value_in_list_dict(item, index, old_v, new_v, recursive=recursive)
                 elif isinstance(item, list):
-                    replace_value_in_list_dict(d_or_lst[key], index, old_v, new_v, recursive=recursive)  # pyright: ignore[reportArgumentType, reportCallIssue]
+                    replace_value_in_list_dict(d_or_lst[key], index, old_v, new_v, recursive=recursive)  # pyright: ignore[reportArgumentType, reportCallIssue]  # ty:ignore[invalid-argument-type]
 
 
 def replace_str(d: Mapping[str, Any] | Sequence[str], old: str, new: str, count: int = -1, *, recursive: bool = True) -> None:
@@ -140,24 +141,24 @@ def replace_str(d: Mapping[str, Any] | Sequence[str], old: str, new: str, count:
         if isinstance(d, dict):
             for key, val in d.items():
                 if isinstance(val, str):
-                    d[key] = val.replace(old, new, count)
+                    d[key] = val.replace(old, new, count)  # ty:ignore[invalid-assignment]
         elif isinstance(d, list):
             for index, val in enumerate(d):
                 if isinstance(val, str):
-                    d[index] = val.replace(old, new, count)
+                    d[index] = val.replace(old, new, count)  # ty:ignore[invalid-assignment]
         return
     if isinstance(d, dict):
         for key, val in d.items():
             if isinstance(val, str):
-                d[key] = val.replace(old, new, count)
+                d[key] = val.replace(old, new, count)  # ty:ignore[invalid-assignment]
             elif isinstance(val, (dict, list)):
-                replace_str(val, old, new, count, recursive=recursive)
+                replace_str(val, old, new, count, recursive=recursive)  # ty:ignore[invalid-argument-type]
     elif isinstance(d, list):
         for index, val in enumerate(d):
             if isinstance(val, str):
-                d[index] = d[index].replace(old, new, count)
+                d[index] = d[index].replace(old, new, count)  # ty:ignore[unresolved-attribute]
             elif isinstance(val, (dict, list)):
-                replace_str(val, old, new, count, recursive=recursive)
+                replace_str(val, old, new, count, recursive=recursive)  # ty:ignore[invalid-argument-type]
 
 
 class Properties(TypedDict):

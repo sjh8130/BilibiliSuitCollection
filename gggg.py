@@ -6,8 +6,9 @@ import json
 try:
     import simdjson as sjson
 except ImportError:
-    sjson = json
-import re
+    sjson = json  # ty:ignore[invalid-assignment]
+import operator
+import re  # ruff:ignore[unused-import]
 from collections.abc import Mapping, Sequence
 from enum import IntEnum, auto
 from typing import Any, TypedDict
@@ -216,9 +217,9 @@ def _sort_list_dict(ld: Sequence[Mapping[str, Any]], k1: str = "item_id", k2: st
     list_temp = [json.loads(i2) for i2 in sorted({json.dumps(item) for item in ld})]
     items_with_k1 = [item for item in list_temp if item[k1] not in {0, "0"}]
     items_with_k2 = [item for item in list_temp if item[k1] in {0, "0"}]
-    items_with_k1.sort(key=lambda x: x[k1])
-    items_with_k2.sort(key=lambda x: x[k2])
-    ld[:] = items_with_k1 + items_with_k2  # pyright: ignore[reportIndexIssue]
+    items_with_k1.sort(key=operator.itemgetter(k1))
+    items_with_k2.sort(key=operator.itemgetter(k2))
+    ld[:] = items_with_k1 + items_with_k2  # pyright: ignore[reportIndexIssue]  # ty:ignore[invalid-assignment]
     return items_with_k1 + items_with_k2
 
 
@@ -236,7 +237,7 @@ def _del_keys(d: Mapping[str, Any], k: str, v: Any = None, operator: OPR = OPR.E
         match operator:
             case OPR.EQ:
                 if d.get(k) == v:
-                    d.pop(k)
+                    d.pop(k)  # ty:ignore[invalid-argument-type]
             case OPR.IN:
                 if v is not None and d.get(k) in v:
                     d.pop(k, None)
@@ -247,36 +248,36 @@ def _del_keys(d: Mapping[str, Any], k: str, v: Any = None, operator: OPR = OPR.E
                 d.pop(k, None)
             case OPR.GT:
                 if isinstance(d[k], (int, float)) and d[k] > v:
-                    del d[k]
+                    del d[k]  # ty:ignore[not-subscriptable]
                 else:
                     raise ValueError(f"{d}|{k}|{operator}|{v}")
             case OPR.LT:
                 if isinstance(d[k], (int, float)) and d[k] < v:
-                    del d[k]
+                    del d[k]  # ty:ignore[not-subscriptable]
                 else:
                     raise ValueError(f"{d}|{k}|{operator}|{v}")
             case OPR.GEQ:
                 if isinstance(d[k], (int, float)) and d[k] >= v:
-                    del d[k]
+                    del d[k]  # ty:ignore[not-subscriptable]
                 else:
                     raise ValueError(f"{d}|{k}|{operator}|{v}")
             case OPR.LEQ:
                 if isinstance(d[k], (int, float)) and d[k] <= v:
-                    del d[k]
+                    del d[k]  # ty:ignore[not-subscriptable]
                 else:
                     raise ValueError(f"{d}|{k}|{operator}|{v}")
             case OPR.NEQ:
                 if d.get(k) != v:
-                    d.pop(k)
+                    d.pop(k)  # ty:ignore[invalid-argument-type]
             case OPR.NIN:
                 if d[k] not in v:
-                    d.pop(k)
+                    d.pop(k)  # ty:ignore[invalid-argument-type]
             case OPR.IS:
                 if d.get(k) is v:
-                    d.pop(k)
+                    d.pop(k)  # ty:ignore[invalid-argument-type]
             case OPR.NIS:
                 if d.get(k) is not v:
-                    d.pop(k)
+                    d.pop(k)  # ty:ignore[invalid-argument-type]
             case _:
                 raise Exception("*ToDo")
     if not recursive:
@@ -297,30 +298,30 @@ def _replace_str(d: Mapping[str, Any] | Sequence[str], old: str, new: str, count
         if isinstance(d, dict):
             for key, val in d.items():
                 if isinstance(val, str):
-                    d[key] = val.replace(old, new, count)
+                    d[key] = val.replace(old, new, count)  # ty:ignore[invalid-assignment]
         elif isinstance(d, list):
             for index, val in enumerate(d):
                 if isinstance(val, str):
-                    d[index] = val.replace(old, new, count)
+                    d[index] = val.replace(old, new, count)  # ty:ignore[invalid-assignment]
         return
     if isinstance(d, dict):
         for key, val in d.items():
             if isinstance(val, str):
-                d[key] = val.replace(old, new, count)
+                d[key] = val.replace(old, new, count)  # ty:ignore[invalid-assignment]
             elif isinstance(val, (dict, list)):
-                _replace_str(val, old, new, count, recursive=recursive)
+                _replace_str(val, old, new, count, recursive=recursive)  # ty:ignore[invalid-argument-type]
     elif isinstance(d, list):
         for index, val in enumerate(d):
             if isinstance(val, str):
-                d[index] = d[index].replace(old, new, count)
+                d[index] = d[index].replace(old, new, count)  # ty:ignore[unresolved-attribute]
             elif isinstance(val, (dict, list)):
-                _replace_str(val, old, new, count, recursive=recursive)
+                _replace_str(val, old, new, count, recursive=recursive)  # ty:ignore[invalid-argument-type]
 
 
 def _p_main(item: X1) -> None:
     # return
-    # c = item["part_id"]
     c = 0
+    c = item["part_id"]
     if isinstance(item.get(P), dict):
         if isinstance(item[P].get("item_ids"), str):
             item[P]["item_ids"] = _sort_str_list(item[P]["item_ids"])
@@ -346,17 +347,17 @@ def _p_main(item: X1) -> None:
         if isinstance(item[S].get("thumbup"), list):
             _sort_list_dict(item[S]["thumbup"])
         if isinstance(item[S].get("emoji_package"), list):
-            _sort_p6_emoji(item[S]["emoji_package"])  # pyright: ignore[reportArgumentType]
+            _sort_p6_emoji(item[S]["emoji_package"])  # pyright: ignore[reportArgumentType]  # ty:ignore[invalid-argument-type]
     match c:
         case 2:
             if item[P].get("image", "") == AA and item[P].get("image_preview_small", "") == BB and item[P].get("sale_type", "") == "collect_card":
-                item[P].pop("image")
-                item[P].pop("image_preview_small")
-                item[P].pop("sale_type")
-                item[P]["X_Part2_collect_card"] = 1  # pyright: ignore[reportGeneralTypeIssues, reportArgumentType]
+                item[P].pop("image")  # ty:ignore[call-non-callable]
+                item[P].pop("image_preview_small")  # ty:ignore[call-non-callable]
+                item[P].pop("sale_type")  # ty:ignore[call-non-callable]
+                item[P]["X_Part2_collect_card"] = 1  # pyright: ignore[reportGeneralTypeIssues, reportArgumentType]  # ty:ignore[invalid-key]
         case 6:
             with contextlib.suppress(KeyError):
-                del item["fan_user"]["avatar"]  # pyright: ignore[reportGeneralTypeIssues]
+                del item["fan_user"]["avatar"]  # pyright: ignore[reportGeneralTypeIssues]  # ty:ignore[invalid-argument-type]
             # if "bilivideo" in data:
             #     r = regex.compile(_bilivideo)
             #     data = r.sub(data, "__bilivideo__")
@@ -368,10 +369,10 @@ def _p_main(item: X1) -> None:
 
         case 8:
             if item[P].get("image", "") == CC and item[P].get("image_preview_small", "") == BB and item[P].get("sale_type", "") == "collect_card":
-                item[P].pop("image")
-                item[P].pop("image_preview_small")
-                item[P].pop("sale_type")
-                item[P]["X_Part8_collect_card"] = 1  # pyright: ignore[reportGeneralTypeIssues, reportArgumentType]
+                item[P].pop("image")  # ty:ignore[call-non-callable]
+                item[P].pop("image_preview_small")  # ty:ignore[call-non-callable]
+                item[P].pop("sale_type")  # ty:ignore[call-non-callable]
+                item[P]["X_Part8_collect_card"] = 1  # pyright: ignore[reportGeneralTypeIssues, reportArgumentType]  # ty:ignore[invalid-key]
         case _:
             pass
     _del_keys(item, "activity_entrance", _EMPTY_ACTIVITY_ENTRANCE, recursive=False)
@@ -426,6 +427,7 @@ def _p_main(item: X1) -> None:
     _del_keys(item, "realname_auth", operator=OPR.ANY)
     _del_keys(item, "recently_used", operator=OPR.ANY)
     _del_keys(item, "recommend", operator=OPR.ANY)
+    _del_keys(item, "resource_type", "0")
     _del_keys(item, "ref_mid", "0")
     _del_keys(item, "removable", operator=OPR.ANY)
     _del_keys(item, "sale_count_desc", operator=OPR.ANY)
@@ -549,7 +551,7 @@ def git_call(blob: git_filter_repo.Blob) -> None:
     # rg2 = re.compile(b2)
     # data = rg2.sub("", data)
 
-    try:
+    try:  # ruff:ignore[too-many-statements-in-try-clause]
         raise SkipAllError
         item: dict = sjson.loads(data)
         if isinstance(item, list):
@@ -565,18 +567,18 @@ def git_call(blob: git_filter_repo.Blob) -> None:
         if item.get("part_id") == 12:
             target = (json.dumps(item, ensure_ascii=False, separators=(",", ":")) + "\n").encode("utf-8")
             target = (json.dumps(item, ensure_ascii=False, separators=(",", ":")) + "\n").encode("utf-8")
-            raise json.JSONDecodeError("fake raise", "", 0)  # noqa: TRY301
+            raise json.JSONDecodeError("fake raise", "", 0)
         blob.data = json.dumps(item, ensure_ascii=False, separators=(",", ":"), indent="\t").encode("utf-8")
     except (json.JSONDecodeError, ValueError):
         try:
             _main222(blob)
-        except Exception as e:  # noqa: BLE001
+        except Exception as e:  # ruff:ignore[blind-except]
             logger.warning(blob.original_id)
             logger.warning(data)
             logger.exception(e)
     except SkipAllError:
         pass
-    except Exception as e:  # noqa: BLE001
+    except Exception as e:  # ruff:ignore[blind-except]
         logger.warning(blob.original_id)
         logger.warning(data)
         logger.exception(e)
@@ -593,7 +595,7 @@ def git_call(blob: git_filter_repo.Blob) -> None:
         if og_data == pd:
             pass
         else:
-            with open("Z:\\test.jsonl", "ab") as fp:  # noqa: PTH123
+            with open("Z:\\test.jsonl", "ab") as fp:  # ruff:ignore[builtin-open]
                 fp.write(json.dumps(fd, ensure_ascii=False, indent=None).encode())
                 fp.write(base64.b64encode(gzip.compress(pd)))
                 fp.write(b"\n")

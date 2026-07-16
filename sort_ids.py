@@ -39,14 +39,11 @@ def reg_bv(d: Properties) -> None:
         return
     for s in ["head_myself_mp4_bg", "head_myself_mp4_bg_list"]:
         if s in d:
-            fs = rg1.sub("__bilivideo__", d[s])
-            d[s] = rg2.sub("", fs)
+            fs = rg1.sub("__bilivideo__", d[s])  # ty:ignore[invalid-key]
+            d[s] = rg2.sub("", fs)  # ty:ignore[invalid-key]
 
 
 def _p_main(item: X1) -> None:
-    itm_id = item["item_id"]
-    if itm_id in _DEBUG_LST:
-        pass
     c = item["part_id"]
     if isinstance(item.get(P), dict):
         if isinstance(item[P].get("item_ids"), str):
@@ -73,15 +70,15 @@ def _p_main(item: X1) -> None:
         if isinstance(item[S].get("thumbup"), list):
             sort_list_dict(item[S]["thumbup"])
         if isinstance(item[S].get("emoji_package"), list):
-            sort_p6_emoji(item[S]["emoji_package"])  # pyright: ignore[reportArgumentType]
+            sort_p6_emoji(item[S]["emoji_package"])  # pyright: ignore[reportArgumentType]  # ty:ignore[invalid-argument-type]
     match c:
         case 1:
             pass
         case 2:
             if item[P].get("image", "") == AA and item[P].get("image_preview_small", "") == BB and item[P].get("sale_type", "") == "collect_card":
-                item[P].pop("image")
-                item[P].pop("image_preview_small")
-                item[P].pop("sale_type")
+                item[P].pop("image")  # ty:ignore[call-non-callable]
+                item[P].pop("image_preview_small")  # ty:ignore[call-non-callable]
+                item[P].pop("sale_type")  # ty:ignore[call-non-callable]
                 item[P]["X_Part2_collect_card"] = 1  # pyright: ignore[reportGeneralTypeIssues, reportArgumentType]
         case 3:
             pass
@@ -91,7 +88,7 @@ def _p_main(item: X1) -> None:
             pass
         case 6:
             with contextlib.suppress(KeyError):
-                del item["fan_user"]["avatar"]  # pyright: ignore[reportGeneralTypeIssues]
+                del item["fan_user"]["avatar"]  # pyright: ignore[reportGeneralTypeIssues]  # ty:ignore[invalid-argument-type]
             if S in item and "skin" in item[S]:
                 for xx in item[S]["skin"]:
                     if "head_myself_mp4_bg" in xx[P] or "head_myself_mp4_bg_list" in xx[P]:
@@ -100,9 +97,9 @@ def _p_main(item: X1) -> None:
             pass
         case 8:
             if item[P].get("image", "") == CC and item[P].get("image_preview_small", "") == BB and item[P].get("sale_type", "") == "collect_card":
-                item[P].pop("image")
-                item[P].pop("image_preview_small")
-                item[P].pop("sale_type")
+                item[P].pop("image")  # ty:ignore[call-non-callable]
+                item[P].pop("image_preview_small")  # ty:ignore[call-non-callable]
+                item[P].pop("sale_type")  # ty:ignore[call-non-callable]
                 item[P]["X_Part8_collect_card"] = 1  # pyright: ignore[reportGeneralTypeIssues, reportArgumentType]
         case 9:
             pass
