@@ -2,7 +2,7 @@
 	"id":53,
 	"text":"热词系列一",
 	"url":"https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
-	"mtime":1780049982,
+	"mtime":1784861666,
 	"type":1,
 	"attr":2,
 	"meta":{
@@ -1351,6 +1351,30 @@
 				"label_text":"限时",
 				"label_color":"#FF20AAe2",
 				"alias":"健健康康"
+			}
+		},
+		{
+			"id":144044,
+			"package_id":53,
+			"text":"[凡人修仙传_给个交代]",
+			"url":"https://i0.hdslb.com/bfs/emote/581a521d7dbfb6bd358e0df728f47c15d640d2f9.png",
+			"mtime":1784861666,
+			"type":1,
+			"meta":{
+				"size":2,
+				"alias":"给个交代"
+			}
+		},
+		{
+			"id":144045,
+			"package_id":53,
+			"text":"[凡人修仙传_退至身后]",
+			"url":"https://i0.hdslb.com/bfs/emote/6e578d2207b43b3fa3be99155dd4676e3f54e00b.png",
+			"mtime":1784861666,
+			"type":1,
+			"meta":{
+				"size":2,
+				"alias":"退至身后"
 			}
 		}
 	]
