@@ -2,7 +2,7 @@
 	"id":53,
 	"text":"热词系列一",
 	"url":"https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
-	"mtime":1784861666,
+	"mtime":1788233610,
 	"type":1,
 	"attr":2,
 	"meta":{
@@ -1375,6 +1375,34 @@
 			"meta":{
 				"size":2,
 				"alias":"退至身后"
+			}
+		},
+		{
+			"id":146478,
+			"package_id":53,
+			"text":"[热词系列_官方认证大好人]",
+			"url":"https://i0.hdslb.com/bfs/emote/bacdafb7719c509304c00746c7ed9e7568c5a514.png",
+			"mtime":1787733170,
+			"type":8,
+			"meta":{
+				"size":2,
+				"label_text":"限时",
+				"label_color":"#FF20AAe2",
+				"alias":"官方认证大好人"
+			}
+		},
+		{
+			"id":146479,
+			"package_id":53,
+			"text":"[热词系列_马上变好2026]",
+			"url":"https://i0.hdslb.com/bfs/emote/f95526bb60a294ec404c649c87c9f6b9a689f1ed.png",
+			"mtime":1787733170,
+			"type":8,
+			"meta":{
+				"size":2,
+				"label_text":"限时",
+				"label_color":"#FF20AAe2",
+				"alias":"马上变好2026"
 			}
 		}
 	]
