@@ -7,7 +7,7 @@
 	"properties":{
 		"desc":"新四大美女系列~昭君妹妹来啦~ 本套装无预留编号~",
 		"fan_id":"119150801",
-		"fan_item_ids":"1688978735002,1688978830001,1688979091001,1688979137001",
+		"fan_item_ids":"1688978735002,1688978830001,1688979091001,1688979137001,1689041879001",
 		"fan_mid":"3461581786581601",
 		"fan_share_image":"https://i0.hdslb.com/bfs/garb/f7cfdf4b29e44c33a094ca8d10fe630955fb6ec1.png",
 		"image_cover":"https://i0.hdslb.com/bfs/garb/a76ce09d4fb5412fc9ac8a6d9be3250ba71f2a07.jpg",
@@ -39,6 +39,20 @@
 					"fans_material_id":"1689041879001",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/6f65aec90778b43cb615c62a319020c7661929a9.png",
+					"sale_type":"other"
+				}
+			},
+			{
+				"item_id":1689041879001,
+				"name":"新四大美女 昭君粉丝",
+				"suit_item_id":119150801,
+				"properties":{
+					"fan_no_color":"#F36742",
+					"fans_image":"https://i0.hdslb.com/bfs/garb/0cea43f3c09ff0558d4b5d72426227f4d385ed63.png",
+					"fans_material_id":"1689041879001",
+					"goods_type":"suit",
+					"image":"https://i0.hdslb.com/bfs/garb/0cea43f3c09ff0558d4b5d72426227f4d385ed63.png",
+					"image_preview_small":"https://i0.hdslb.com/bfs/garb/ca81a9848dedc0e826923633725f1f72a8f2e41c.png",
 					"sale_type":"other"
 				}
 			}

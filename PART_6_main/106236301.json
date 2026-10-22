@@ -7,7 +7,7 @@
 	"properties":{
 		"desc":"不可以涩涩！涩涩小恶魔专属装扮来啦！本套装扮包括动态卡片，可爱表情包，永久购买还能成为认证粉丝，领取粉丝专属装扮！",
 		"fan_id":"106236301",
-		"fan_item_ids":"1677815811002,1677815866001,1677816047001,1677816317001",
+		"fan_item_ids":"1677815811002,1677815866001,1677816047001,1677816317001,1677837380001",
 		"fan_mid":"1732540672",
 		"fan_share_image":"https://i0.hdslb.com/bfs/garb/52a59e09b65de7d84722ecaa4670dd19bbbad400.png",
 		"image_cover":"https://i0.hdslb.com/bfs/garb/237ac6d7f17cba5d684e6b66a4cf7ff47f6ef7bf.jpg",
@@ -39,6 +39,20 @@
 					"fans_material_id":"1677837380001",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/ddbeb00404a44cd2c6dd52b7c7be7ffbb83cbeee.png",
+					"sale_type":"other"
+				}
+			},
+			{
+				"item_id":1677837380001,
+				"name":"粉漫小魔女粉丝",
+				"suit_item_id":106236301,
+				"properties":{
+					"fan_no_color":"#F26C92",
+					"fans_image":"https://i0.hdslb.com/bfs/garb/1c126646f3581a55d0c663db2c458b6bb2d04ccd.png",
+					"fans_material_id":"1677837380001",
+					"goods_type":"suit",
+					"image":"https://i0.hdslb.com/bfs/garb/1c126646f3581a55d0c663db2c458b6bb2d04ccd.png",
+					"image_preview_small":"https://i0.hdslb.com/bfs/garb/1a5ba35b3fc81f2dd046061fc652c7c5e8fc849f.png",
 					"sale_type":"other"
 				}
 			}

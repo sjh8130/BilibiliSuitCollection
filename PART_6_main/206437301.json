@@ -7,7 +7,7 @@
 	"properties":{
 		"desc":"虚拟主播盐月Yuu与白梨Rii的婚纱装扮。我们的婚礼，你会来参加吗？",
 		"fan_id":"206437301",
-		"fan_item_ids":"1709474115001,1709478948001,1709480963001,1709525470002",
+		"fan_item_ids":"1709474115001,1709478948001,1709480963001,1709525470002,1709546742001",
 		"fan_mid":"3546587424884921",
 		"fan_share_image":"https://i0.hdslb.com/bfs/garb/586c9eb651c4089a06ed4a333b269e39751f182c.png",
 		"image_cover":"https://i0.hdslb.com/bfs/garb/9eb5dd89324f3497cbc4561382aec108f4bca3d1.png",
@@ -39,6 +39,20 @@
 					"fans_material_id":"1709546742001",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/c0ca7f4b41b01ea73c0c8ea47506cf5de28d3ac8.png",
+					"sale_type":"other"
+				}
+			},
+			{
+				"item_id":1709546742001,
+				"name":"盐月与白梨-婚纱2粉丝",
+				"suit_item_id":206437301,
+				"properties":{
+					"fan_no_color":"#FF0000",
+					"fans_image":"https://i0.hdslb.com/bfs/garb/0873ef88c79122de2490cd268319534be1550dbe.png",
+					"fans_material_id":"1709546742001",
+					"goods_type":"suit",
+					"image":"https://i0.hdslb.com/bfs/garb/0873ef88c79122de2490cd268319534be1550dbe.png",
+					"image_preview_small":"https://i0.hdslb.com/bfs/garb/41013b6b7b9184ba3019a1fdfa47e8a5425bb16f.png",
 					"sale_type":"other"
 				}
 			}

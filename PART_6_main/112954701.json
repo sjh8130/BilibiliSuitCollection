@@ -7,7 +7,7 @@
 	"properties":{
 		"desc":"今天心情怎么样？祝你开心呀！",
 		"fan_id":"112954701",
-		"fan_item_ids":"1683626263002,1683626398001,1683627154001,1683627242001",
+		"fan_item_ids":"1683626263002,1683626398001,1683627154001,1683627242001,1683689813001",
 		"fan_mid":"3461576665336761",
 		"fan_share_image":"https://i0.hdslb.com/bfs/garb/b02134b81cb4bb4178d074653c88eef41b0132b8.png",
 		"image_cover":"https://i0.hdslb.com/bfs/garb/dc2811eb274faff8bc16e40e633a5524adb5590d.jpg",
@@ -39,6 +39,20 @@
 					"fans_material_id":"1683689813001",
 					"goods_type":"suit",
 					"image":"https://i0.hdslb.com/bfs/garb/afb1d0a1529066843641ee39d4a16c5e275704c9.png",
+					"sale_type":"other"
+				}
+			},
+			{
+				"item_id":1683689813001,
+				"name":"心情日记粉丝",
+				"suit_item_id":112954701,
+				"properties":{
+					"fan_no_color":"#FB7299",
+					"fans_image":"https://i0.hdslb.com/bfs/garb/7a3128e5a5bc580c76c6477a0efc047ae6cb83d7.png",
+					"fans_material_id":"1683689813001",
+					"goods_type":"suit",
+					"image":"https://i0.hdslb.com/bfs/garb/7a3128e5a5bc580c76c6477a0efc047ae6cb83d7.png",
+					"image_preview_small":"https://i0.hdslb.com/bfs/garb/531e29f18d7f6c0eba1bf1f039f258db3cdb8283.png",
 					"sale_type":"other"
 				}
 			}
